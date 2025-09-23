@@ -1,35 +1,69 @@
 'use client'
 
-import { ChevronDown } from 'lucide-react'
-import { Dispatch, SetStateAction } from 'react'
+import { getStarColor } from '@/utils/colors'
 
 interface DescriptionProps {
-  open: boolean
-  setOpen: Dispatch<SetStateAction<boolean>>
+  description: string | null
+  distance: string
 }
 
 export default function Description ({
-  open,
-  setOpen
+  description,
+  distance
 }: Readonly<DescriptionProps>) {
-  return (
-    <div
-      // className='w-1/2 p-4 rounded-lg bg-gray-400/25'
+  const parsecsToLightYears = (parsecs: string) => {
+    return (parseFloat(parsecs) * 3.26156378).toFixed(2)
+  }
+
+  const typeMatch = description?.match(/([OBAFGKMLTY])-type/)
+  const type = typeMatch != null ? typeMatch[1] : null
+  const coloredType = type != null ? (
+    <span
+      className='text-black'
+      style={{
+        backgroundColor: getStarColor(type)
+      }}
     >
-      <ChevronDown
-        size={16}
-        className={`ml-auto mt-2 cursor-pointer transition-transform duration-200 ${open ? 'rotate-180' : ''}`}
-        onClick={() => setOpen(!open)}
-      />
-      {
-        open && (
-          <p
-            className='mt-2 text-sm text-gray-300'
-          >
-            The ExoArchive is a comprehensive database of confirmed exoplanets, providing detailed information about their characteristics, discovery methods, and host stars. It serves as a valuable resource for researchers and enthusiasts interested in the study of planets beyond our solar system.
-          </p>
-        )
-      }
+      {type}-type
+    </span>
+  ) : 'Unknown-type'
+
+  return (
+    <div>
+      <p
+        className='text-sm text-gray-300 italic'
+      >
+        {
+          description != null ? (
+            type != null ? (
+              <>
+                {
+                  description.slice(0, description.indexOf('-type') - 1).trim()
+                } {
+                  coloredType
+                } {
+                  description.slice(description.indexOf('-type') + 5).trim()
+                }
+              </>
+            ) : (
+              description
+            )
+          ) : (
+            'No description available.'
+          )
+        }
+      </p>
+      <p
+        className='text-xs font-semibold text-blue-400 font-semibold mt-1'
+      >
+        {
+          distance !== '' ? (
+            `${parsecsToLightYears(distance)} light years away`
+          ) : (
+            'Distance unknown'
+          )
+        }
+      </p>
     </div>
   )
 }

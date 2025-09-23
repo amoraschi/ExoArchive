@@ -3,14 +3,23 @@
 import { ChangeEvent, FormEvent, useState } from 'react'
 import Highlight from '@/components/text/highlight'
 import Description from '@/components/data/description'
+import Search from '@/components/text/search'
+import Exoplanet from '@/components/data/exoplanet'
 
 const API_URL = '/api/exoplanets?search='
 
 export default function Home () {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState([])
+  const [loading, setLoading] = useState(false)
 
   const onChange = (e: ChangeEvent<HTMLInputElement>) => {
+    if (e.target == null) return
+
+    if (e.target.value === '') {
+      setResults([])
+    }
+
     setQuery(e.target.value)
   }
 
@@ -18,53 +27,56 @@ export default function Home () {
     e.preventDefault()
     if (e.target == null) return
 
+    setResults([])
+    setLoading(true)
     fetch(`${API_URL}${query}`)
       .then(res => res.json())
       .then(data => setResults(data))
       .catch(err => console.error(err))
+      .finally(() => setLoading(false))
   }
 
   return (
     <div
-      className='min-h-screen flex flex-col items-center justify-center gap-4'
+      className='min-h-screen flex flex-col items-center justify-center gap-4 p-4 lg:p-0'
     >
       <div
-        className='w-1/2 p-4 rounded-lg bg-gray-400/25'
+        className='w-full p-4 rounded-lg bg-gray-400/25 lg:w-1/2'
       >
-        <form
+        <Search
+          query={query}
+          loading={loading}
+          onChange={onChange}
           onSubmit={onSubmit}
-        >
-          <input
-            type='text'
-            placeholder='Search for an exoplanet...'
-            className='w-full rounded-md p-2 outline-none transition duration-100 focus:ring-2 focus:ring-white'
-            value={query}
-            onChange={onChange}
-          />
-        </form>
+        />
         <span
-          className='text-xs text-gray-300 font-semibold'
+          className='text-sm text-gray-300 font-semibold'
         >
           PRESS ENTER TO SEARCH
         </span>
       </div>
       {
-        results.length > 0 && query.length > 0 && (
+        results.length !== 0 && (
           <ul
-            className='w-1/2 p-4 rounded-lg bg-gray-400/25 overflow-y-auto max-h-96'
+            className='w-full p-4 rounded-lg bg-gray-400/25 overflow-y-auto max-h-96 lg:w-1/2'
           >
             {
-              results.map((name, index) => (
-                <li
+              results.slice(0, 100).map((name: string, index: number) => (
+                <Exoplanet
                   key={index}
-                  className='flex justify-between items-center p-2 border-b border-gray-300/25 last:border-none'
-                >
-                  <Highlight
-                    text={name}
-                    highlight={query}
-                  />
-                </li>
+                  name={name}
+                  query={query}
+                />
               ))
+            }
+            {
+              results.length > 100 && (
+                <li
+                  className='text-sm text-gray-300 font-semibold mt-2'
+                >
+                  {results.length - 100} MORE RESULTS...
+                </li>
+              )
             }
           </ul>
         )

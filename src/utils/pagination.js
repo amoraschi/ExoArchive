@@ -19,7 +19,7 @@ function createListFile (data) {
     description
   }))
 
-  const list = pagination.map((item) => `${item.file}\n${item.distance}\n${item.description}`).join('\n\n')
+  const list = pagination.map((item) => `${item.file}\n${item.distance}\n${item.description}`).join('\n\n\n')
   writeFileSync('./src/data/exoplanet-list.txt', list)
 }
 

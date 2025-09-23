@@ -8,7 +8,9 @@ export async function GET (request: NextRequest) {
   const query = searchParams.get('search')
 
   if (query == null) {
-    return new Response('Search parameter is required', { status: 400 })
+    return new Response('Search parameter is required', {
+      status: 400
+    })
   }
 
   const list = await readFile(EXOPLANET_NAMES_FILE, 'utf-8')
