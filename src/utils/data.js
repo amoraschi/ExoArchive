@@ -1,12 +1,12 @@
-import fetch from 'node-fetch'
-import { existsSync, readFileSync, writeFileSync } from 'fs'
+const { default: fetch } = require('node-fetch')
+const { existsSync, readFileSync, writeFileSync } = require('fs')
 
 const perPage = 100
 const exoplanets = `https://science.nasa.gov/wp-json/wp/v2/exoplanet?per_page=${perPage}&orderby=modified&order=desc`
 
-const lastModified = './data/last-modified-exoplanet.txt'
+const lastModified = './src/data/last-modified-exoplanet.txt'
 
-async function fetchExoplanetData (page: number): Promise<{ data: Exoplanet[], pages: number }> {
+async function fetchExoplanetData (page) {
   const res = await fetch(`${exoplanets}&page=${page}`)
   const json = await res.json()
 
@@ -19,7 +19,7 @@ async function fetchExoplanetData (page: number): Promise<{ data: Exoplanet[], p
   }
 }
 
-function stripExoplanetData (data: Exoplanet[]): Exoplanet[] {
+function stripExoplanetData (data) {
   return data.map((planet) => ({
     id: planet.id,
     date: planet.date,
@@ -71,7 +71,7 @@ function stripExoplanetData (data: Exoplanet[]): Exoplanet[] {
   }))
 }
 
-function getLastModified (): Date {
+function getLastModified () {
   if (existsSync(lastModified)) {
     const dateString = readFileSync(lastModified, 'utf-8')
     return new Date(dateString)
@@ -80,13 +80,13 @@ function getLastModified (): Date {
   return new Date(0)
 }
 
-function saveLastModified (date: Date): void {
+function saveLastModified (date) {
   writeFileSync(lastModified, date.toISOString())
 }
 
-async function writeExoplanets (): Promise<void> {
+async function writeExoplanets () {
   let pages = 1
-  let newestDate: Date | null = null
+  let newestDate = null
   const lastModified = getLastModified()
 
   outerLoop:
@@ -122,4 +122,6 @@ async function writeExoplanets (): Promise<void> {
   }
 }
 
-await writeExoplanets()
+;(async () => {
+  await writeExoplanets()
+})()
