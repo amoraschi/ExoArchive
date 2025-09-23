@@ -10,6 +10,7 @@
     "pagination": "node src/utils/pagination.js"
   },
   "dependencies": {
+    "lucide-react": "^0.544.0",
     "next": "15.5.3",
     "node-fetch": "^3.3.2",
     "react": "19.1.0",
