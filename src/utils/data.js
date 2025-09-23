@@ -108,7 +108,7 @@ async function writeExoplanets () {
         break outerLoop
       }
 
-      const filePath = `./data/exoplanets/${planet.id}-${planet.acf.exo_id}.json`
+      const filePath = `./src/data/exoplanets/${planet.id}-${planet.acf.exo_id}.json`
       writeFileSync(filePath, JSON.stringify(planet))
       console.log(`Wrote ${filePath}`)
     }

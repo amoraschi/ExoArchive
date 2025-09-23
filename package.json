@@ -6,8 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "data": "node src/utils/data.js",
-    "pagination": "node src/utils/pagination.js"
+    "data": "node ./src/utils/data.js",
+    "pagination": "node ./src/utils/pagination.js"
   },
   "dependencies": {
     "lucide-react": "^0.544.0",
