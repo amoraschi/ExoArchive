@@ -1,7 +1,9 @@
 interface Star {
   id: number
-  date: Date
-  date_gmt: Date
+  date: string
+  date_gmt: string
+  modified: string
+  modified_gmt: string
   slug: string
   type: string
   link: string
@@ -13,7 +15,16 @@ interface Star {
 
 interface StarAcf {
   display_name: string
+  custom_star_title: string
+  aliases: string
   constellation: string
+  custom_star_description: string
+  tagline: string
+  pop_culture: string
+  detection_timeline: string
+  rv_planets_prospects: string
+  transit_planets_prospects: string
+  imaging_planets_prospects: string
   planet_ids: number[] | {
     [key: string]: number
   }

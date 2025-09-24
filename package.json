@@ -6,8 +6,10 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "data": "node ./src/utils/data.js",
-    "pagination": "node ./src/utils/pagination.js"
+    "exoplanet-data": "node ./src/utils/exoplanet-data.js",
+    "exoplanet-pagination": "node ./src/utils/exoplanet-pagination.js",
+    "star-data": "node ./src/utils/star-data.js",
+    "star-pagination": "node ./src/utils/star-pagination.js"
   },
   "dependencies": {
     "lucide-react": "^0.544.0",
