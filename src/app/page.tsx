@@ -5,6 +5,7 @@ import Highlight from '@/components/text/highlight'
 import Description from '@/components/data/description'
 import Search from '@/components/text/search'
 import Exoplanet from '@/components/data/exoplanet'
+import Header from '@/components/header/header'
 
 const API_URL = '/api/exoplanets?search='
 
@@ -37,9 +38,10 @@ export default function Home () {
   }
 
   return (
-    <div
+    <main
       className='min-h-screen flex flex-col items-center justify-center gap-4 p-4 lg:p-0'
     >
+      <Header />
       <div
         className='w-full p-4 rounded-lg bg-gray-400/25 lg:w-1/2'
       >
@@ -56,7 +58,7 @@ export default function Home () {
         </span>
       </div>
       {
-        results.length !== 0 && (
+        results.length > 0 && (
           <ul
             className='w-full p-4 rounded-lg bg-gray-400/25 overflow-y-auto max-h-96 lg:w-1/2'
           >
@@ -81,6 +83,6 @@ export default function Home () {
           </ul>
         )
       }
-    </div>
+    </main>
   )
 }

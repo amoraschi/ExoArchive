@@ -10,29 +10,36 @@ export default function Highlight ({
   const regex = new RegExp(`(${highlight})`, 'gi')
   const parts = text.split(regex)
 
-  return highlight.trim() === '' ? (
-    <span>
-      {text}
-    </span>
-  ) : (
-    <span>
+  return (
+    <span
+      className='font-semibold'
+    >
       {
-        parts.map((part, index) => (
-          regex.test(part) ? (
-            <span
-              key={index}
-              className='text-red-500'
-            >
-              {part}
-            </span>
-          ) : (
-            <span
-              key={index}
-            >
-              {part}
-            </span>
-          )
-        ))
+        highlight.trim() === '' ? (
+          text
+        ) : (
+          <>
+            {
+              parts.map((part, index) => (
+                regex.test(part) ? (
+                  <span
+                    key={index}
+                    className='text-red-500'
+                  >
+                    {part}
+                  </span>
+                ) : (
+                  <span
+                    key={index}
+                  >
+                    {part}
+                  </span>
+                )
+              ))
+            }
+          </>
+        )
+
       }
     </span>
   )
