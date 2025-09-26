@@ -1,6 +1,6 @@
 'use client'
 
-import DescriptionColor from '@/components/data/description-color'
+import DescriptionColor from '@/components/text/description-color'
 import { getColoredElement } from '@/utils/colors'
 import { parsecsToLightYears } from '@/utils/math'
 

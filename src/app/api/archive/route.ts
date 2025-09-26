@@ -1,11 +1,13 @@
 import { NextRequest } from 'next/server'
 
-const PER_PAGE = 25
+const PER_PAGE = 24
 const ROUTE = `https://science.nasa.gov/wp-json/wp/v2/exoplanet?per_page=${PER_PAGE}&orderby=modified&order=desc`
 
 export async function GET (request: NextRequest) {
   const { searchParams } = new URL(request.url)
   const page = searchParams.get('page') ?? '1'
+  const orderby = searchParams.get('orderby') ?? 'modified'
+  const order = searchParams.get('order') ?? 'desc'
 
   if (isNaN(parseInt(page))) {
     return new Response('Page must be a number', {
@@ -13,11 +15,15 @@ export async function GET (request: NextRequest) {
     })
   }
 
-  const res = await fetch(`${ROUTE}&page=${page}`)
+  const res = await fetch(`${ROUTE}&page=${page}&orderby=${orderby}&order=${order}`)
   const data = await res.json()
   const parsedData = parseExoplanet(data)
 
-  return new Response(JSON.stringify(parsedData))
+  return new Response(JSON.stringify(parsedData), {
+    headers: {
+      'Max-Page': res.headers.get('X-WP-TotalPages') || '1',
+    }
+  })
 }
 
 function parseExoplanet (data: Exoplanet[]) {
