@@ -16,6 +16,12 @@ HIP 41378 g
 TOI-1438 b
 TOI-1438 c
 GJ 536 c
+TOI-2141 c
+TOI-2141 d
+TOI-4773 b
+TOI-5261 b
+TOI-5350 b
+TOI-6420 b
 11 Comae Berenices b
 11 Ursae Minoris b
 14 Andromedae b
@@ -40,6 +46,7 @@ GJ 536 c
 47 Ursae Majoris c
 47 Ursae Majoris d
 4 Ursae Majoris b
+51 Eri b
 51 Eridani b
 51 Pegasi b
 55 Cancri b
@@ -4892,6 +4899,7 @@ PDS 70 c
 PH1 b
 PH2 b
 Pi Mensae c
+pi Men c
 Pi Mensae d
 POTS-1 b
 Pr0201 b
