@@ -1,3 +1,4 @@
+import { writeFileSync } from 'fs'
 import { readFile } from 'fs/promises'
 import { NextRequest } from 'next/server'
 
@@ -15,10 +16,11 @@ export async function GET (request: NextRequest) {
 
   const list = await readFile(EXOPLANET_NAMES_FILE, 'utf-8')
 
-  const matchedEntry = list.split('\n\n\n').find(entry => {
-    const lines = entry.split('\n')
-    const nameInFile = lines[0].split('-').slice(1).join('-').replace('.json', '').replace(/_/g, ' ')
-    return nameInFile === name.trim()
+  const entries = list.split('\r\n\r\n')
+  const matchedEntry = entries.find(entry => {
+    const extracted = entry.trim().split('\r\n')[0]?.trim() ?? ''
+    const entryName = extracted.split('-').slice(1).join('-').replace('.json', '').replace(/_/g, ' ')
+    return entryName.toLowerCase() === name.toLowerCase()
   })
 
   if (matchedEntry == null) {
@@ -29,7 +31,7 @@ export async function GET (request: NextRequest) {
     }))
   }
 
-  const lines = matchedEntry.split('\n')
+  const lines = matchedEntry.trim().split('\r\n')
   const data = {
     name: lines[0]?.split('-').slice(1).join('-').replace('.json', '').replace(/_/g, ' ') ?? null,
     distance: lines[1]?.trim() ?? null,

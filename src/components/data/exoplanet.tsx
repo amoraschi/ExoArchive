@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { ChevronDown, LoaderCircle } from 'lucide-react'
 import Highlight from '@/components/text/highlight'
 import Description from '@/components/data/description'
+import Link from 'next/link'
 
 interface ExoplanetProps {
   name: string
@@ -71,11 +72,12 @@ export default function Exoplanet ({
             <Description
               {...data}
             />
-            <button
-              className='text-sm font-semibold my-2 px-4 py-1 bg-blue-600 rounded hover:cursor-pointer hover:bg-blue-700 transition'
+            <Link
+              className='inline-block text-sm font-semibold my-2 px-4 py-1 bg-blue-600 rounded hover:cursor-pointer hover:bg-blue-700 transition'
+              href={`/system?exoplanet=${encodeURIComponent(data.name)}`}
             >
               VIEW
-            </button>
+            </Link>
           </div>
         )
       }
