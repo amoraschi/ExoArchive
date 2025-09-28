@@ -67,11 +67,11 @@ export default function ExoplanetArchive ({
       }
       {
         Object.entries(fields).map(([key, label]) => (
-          exoplanet.acf[key as keyof typeof fields] && (
+          exoplanet.acf[key as keyof ExoplanetAcf] && (
             <ExoplanetData
               key={key}
               field={label}
-              value={exoplanet.acf[key as keyof typeof fields] as string}
+              value={exoplanet.acf[key as keyof ExoplanetAcf] as string}
             />
           )
         ))
@@ -88,7 +88,15 @@ export default function ExoplanetArchive ({
         exoplanet.acf.st_dist && (
           <ExoplanetData
             field='Distance'
-            value={`${parsecsToLightYears(`${exoplanet.acf.st_dist}`)} light years away`}
+            value={`${parsecsToLightYears(exoplanet.acf.st_dist.toString())} light years away`}
+          />
+        )
+      }
+      {
+        exoplanet.modified_gmt && (
+          <ExoplanetData
+            field='Last Modified'
+            value={new Date(exoplanet.modified_gmt).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
           />
         )
       }

@@ -2,7 +2,10 @@ import { Canvas } from '@react-three/fiber'
 import { OrbitControls } from '@react-three/drei'
 import Planet from '@/components/three/planet'
 
-export default function Scene () {
+export default function Scene ({
+  star,
+  planets
+}: Combined) {
   return (
     <Canvas
       style={{
@@ -24,7 +27,7 @@ export default function Scene () {
           distance={100}
         />
       </mesh>
-      <Planet />
+      {/* TBD */}
       <OrbitControls />
     </Canvas>
   )

@@ -6,10 +6,10 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "exoplanet-data": "node ./src/utils/exoplanet-data.js",
-    "exoplanet-pagination": "node ./src/utils/exoplanet-pagination.js",
-    "star-data": "node ./src/utils/star-data.js",
-    "star-pagination": "node ./src/utils/star-pagination.js"
+    "exoplanet-data": "node ./.github/scripts/exoplanet-data.js",
+    "exoplanet-pagination": "node ./.github/scripts/exoplanet-pagination.js",
+    "star-data": "node ./.github/scripts/star-data.js",
+    "star-pagination": "node ./.github/scripts/star-pagination.js"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.6",

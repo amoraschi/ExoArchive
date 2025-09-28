@@ -21,7 +21,7 @@ export default function Exoplanet ({
 }: ExoplanetProps) {
   const [expanded, setExpanded] = useState(false)
   const [loading, setLoading] = useState(false)
-  const [data, setData] = useState<ExoplanetData | null>(null)
+  const [data, setData] = useState<Exoplanet | null>(null)
 
   const handleExpand = async () => {
     if (!expanded && data == null) {
@@ -29,10 +29,7 @@ export default function Exoplanet ({
 
       fetch(`/api/exoplanet?name=${encodeURIComponent(name)}`)
         .then(res => res.json())
-        .then(fetchedData => {
-          setData(fetchedData)
-          console.log(fetchedData)
-        })
+        .then(fetchedData => setData(fetchedData))
         .catch(err => console.error(err))
         .finally(() => setLoading(false))
     }
@@ -70,11 +67,12 @@ export default function Exoplanet ({
             className='px-1'
           >
             <Description
-              {...data}
+              description={data.acf.derived_description}
+              distance={data.acf.st_dist}
             />
             <Link
               className='inline-block text-sm font-semibold my-2 px-4 py-1 bg-blue-600 rounded hover:cursor-pointer hover:bg-blue-700 transition'
-              href={`/system?exoplanet=${encodeURIComponent(data.name)}`}
+              href={`/system?host=${encodeURIComponent(data.acf.pl_hostname)}`}
             >
               VIEW
             </Link>

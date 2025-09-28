@@ -55,7 +55,10 @@ export default function Archive () {
   useEffect(() => {
     setResults([])
     const orderby = selections[selected]
-    fetch(`/api/archive?page=${page}&orderby=${orderby}&order=${order}`)
+    const abortController = new AbortController()
+    fetch(`/api/archive?page=${page}&orderby=${orderby}&order=${order}`, {
+      signal: abortController.signal
+    })
       .then(res => {
         const max = res.headers.get('Max-Page') || '1'
         setMaxPage(parseInt(max))
@@ -63,6 +66,10 @@ export default function Archive () {
       })
       .then(data => setResults(data))
       .catch(err => console.error(err))
+
+    return () => {
+      abortController.abort()
+    }
   }, [page, selected, order])
 
   return (

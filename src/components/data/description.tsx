@@ -6,7 +6,7 @@ import { parsecsToLightYears } from '@/utils/math'
 
 interface DescriptionProps {
   description: string | null
-  distance: string
+  distance: number | null
 }
 
 export default function Description ({
@@ -30,8 +30,8 @@ export default function Description ({
         className='text-xs font-semibold text-blue-400 font-semibold mt-1'
       >
         {
-          distance !== '' ? (
-            `${parsecsToLightYears(distance)} light years away`
+          distance != null ? (
+            `${parsecsToLightYears(distance.toString())} light years away`
           ) : (
             'Distance unknown'
           )

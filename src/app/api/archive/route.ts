@@ -1,7 +1,8 @@
+import { getExoplanetsURL } from '@/utils/url'
 import { NextRequest } from 'next/server'
 
 const PER_PAGE = 24
-const ROUTE = `https://science.nasa.gov/wp-json/wp/v2/exoplanet?per_page=${PER_PAGE}&orderby=modified&order=desc`
+const ROUTE = `${getExoplanetsURL(PER_PAGE)}&orderby=modified&order=desc`
 
 export async function GET (request: NextRequest) {
   const { searchParams } = new URL(request.url)

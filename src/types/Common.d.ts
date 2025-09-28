@@ -23,3 +23,8 @@ interface AcfPost {
   embeddable: boolean
   href: string
 }
+
+interface Combined {
+  star: Star
+  planets: Exoplanet[]
+}

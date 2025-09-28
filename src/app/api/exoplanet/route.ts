@@ -1,8 +1,7 @@
-import { writeFileSync } from 'fs'
-import { readFile } from 'fs/promises'
 import { NextRequest } from 'next/server'
+import { getExoplanetsURL } from '@/utils/url'
 
-const EXOPLANET_NAMES_FILE = './src/data/exoplanet-list.txt'
+const exoplanets = getExoplanetsURL()
 
 export async function GET (request: NextRequest) {
   const { searchParams } = new URL(request.url)
@@ -14,29 +13,15 @@ export async function GET (request: NextRequest) {
     })
   }
 
-  const list = await readFile(EXOPLANET_NAMES_FILE, 'utf-8')
-
-  const entries = list.split('\r\n\r\n')
-  const matchedEntry = entries.find(entry => {
-    const extracted = entry.trim().split('\r\n')[0]?.trim() ?? ''
-    const entryName = extracted.split('-').slice(1).join('-').replace('.json', '').replace(/_/g, ' ')
-    return entryName.toLowerCase() === name.toLowerCase()
-  })
-
-  if (matchedEntry == null) {
-    return new Response(JSON.stringify({
-      name: null,
-      distance: null,
-      description: null
-    }))
+  const res = await fetch(`${exoplanets}&display_name=${encodeURIComponent(name)}`)
+  const json = await res.json()
+  if (json.length === 0) {
+    return new Response('Exoplanet not found', {
+      status: 404
+    })
   }
 
-  const lines = matchedEntry.trim().split('\r\n')
-  const data = {
-    name: lines[0]?.split('-').slice(1).join('-').replace('.json', '').replace(/_/g, ' ') ?? null,
-    distance: lines[1]?.trim() ?? null,
-    description: lines[2]?.trim() ?? null
-  }
+  const data = json[0]
 
   return new Response(JSON.stringify(data))
 }
