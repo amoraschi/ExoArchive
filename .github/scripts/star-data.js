@@ -3,7 +3,7 @@ const { existsSync, readFileSync, writeFileSync } = require('fs')
 
 const perPage = 100
 const stars = `
-  https://science.nasa.gov/wp-json/wp/v2/star?per_page=${perPage}&orderby=modified&order=desc&_fields=
+  https://science.nasa.gov/wp-json/wp/v2/star?per_page=${perPage}&_fields=
   id,
   date,
   date_gmt,
@@ -48,8 +48,6 @@ const stars = `
   _links.wp:featuredmedia
 `
 
-const LAST_MODIFIED_STAR_FILE = './src/data/last-modified-star.txt'
-
 async function fetchStarData (page) {
   const res = await fetch(`${stars}&page=${page}`)
   const data = await res.json()
@@ -62,25 +60,8 @@ async function fetchStarData (page) {
   }
 }
 
-function getLastModified () {
-  if (existsSync(LAST_MODIFIED_STAR_FILE)) {
-    const dateString = readFileSync(LAST_MODIFIED_STAR_FILE, 'utf-8')
-    return new Date(dateString)
-  }
-
-  return new Date(0)
-}
-
-function saveLastModified (date) {
-  writeFileSync(LAST_MODIFIED_STAR_FILE, date.toISOString())
-}
-
 async function writeStars () {
   let pages = 1
-  let newestDate = null
-  const lastModified = getLastModified()
-
-  outerLoop:
   for (let page = 1; page <= pages; page++) {
     console.log(`\nFetching page ${page} of ${pages}\n`)
 
@@ -88,28 +69,12 @@ async function writeStars () {
     pages = res.pages
 
     for (const star of res.data) {
-      const starDate = new Date(star.modified_gmt)
-
-      if (newestDate == null) {
-        newestDate = starDate
-      }
-
-      if (starDate <= lastModified) {
-        console.log(`\nNo new or updated stars found. Stopping.\n`)
-        break outerLoop
-      }
-
       const filePath = `./src/data/stars/${star.id}-${star.acf.exo_id}.json`
       writeFileSync(filePath, JSON.stringify(star))
       console.log(`Wrote ${filePath}`)
     }
 
     console.log(`\nFinished fetching page ${page} of ${pages}\n`)
-  }
-
-  if (newestDate != null) {
-    saveLastModified(newestDate)
-    console.log(`\nSaved last modified date: ${newestDate.toISOString()}\n`)
   }
 }
 
