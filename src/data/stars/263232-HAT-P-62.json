@@ -1,1 +1,71 @@
-{"id":263232,"date":"2023-11-28T21:01:04","date_gmt":"2023-11-29T02:01:04","modified":"2025-04-23T05:55:54","modified_gmt":"2025-04-23T09:55:54","slug":"hat-p-62","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-62/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-62","custom_star_title":"","aliases":"","constellation":"Auriga","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243781],"exo_id":"HAT-P-62","st_optmag":12.539,"st_vj":12.539,"st_dist":348.815,"st_j":12.539,"st_mass":1.023,"dec":48.3008551,"st_teff":5629,"st_rad":1.17,"ra":74.5043816,"system_radius":5642831.6564,"pl_hostname":"HAT-P-62","stellar_type":"G","tic_id":"TIC 453064665","magnitude":12.539},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263232","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243781"}]}}
+{
+  "id": 263232,
+  "date": "2023-11-28T21:01:04",
+  "date_gmt": "2023-11-29T02:01:04",
+  "modified": "2025-04-23T05:55:54",
+  "modified_gmt": "2025-04-23T09:55:54",
+  "slug": "hat-p-62",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-62/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-62",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Auriga",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243781
+    ],
+    "exo_id": "HAT-P-62",
+    "st_optmag": 12.539,
+    "st_vj": 12.539,
+    "st_dist": 348.815,
+    "st_j": 12.539,
+    "st_mass": 1.023,
+    "dec": 48.3008551,
+    "st_teff": 5629,
+    "st_rad": 1.17,
+    "ra": 74.5043816,
+    "system_radius": 5642831.6564,
+    "pl_hostname": "HAT-P-62",
+    "stellar_type": "G",
+    "tic_id": "TIC 453064665",
+    "magnitude": 12.539
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263232",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243781"
+      }
+    ]
+  }
+}

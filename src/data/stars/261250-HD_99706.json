@@ -1,1 +1,76 @@
-{"id":261250,"date":"2023-11-28T20:35:58","date_gmt":"2023-11-29T01:35:58","modified":"2025-06-06T07:19:40","modified_gmt":"2025-06-06T11:19:40","slug":"hd_99706","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_99706/","featured_media":0,"categories":[],"acf":{"display_name":"HD 99706","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244628,"1":244627},"exo_id":"HD_99706","st_optmag":7.65,"st_vj":7.65,"st_dist":146.6,"st_j":7.65,"st_mass":1.46,"dec":43.9662025,"st_teff":4862,"st_rad":5.52,"ra":172.1261621,"system_radius":296203782.6,"pl_hostname":"HD_99706","stellar_type":"K","tic_id":"TIC 148680230","magnitude":7.65},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261250","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244628"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244627"}]}}
+{
+  "id": 261250,
+  "date": "2023-11-28T20:35:58",
+  "date_gmt": "2023-11-29T01:35:58",
+  "modified": "2025-06-06T07:19:40",
+  "modified_gmt": "2025-06-06T11:19:40",
+  "slug": "hd_99706",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_99706/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 99706",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244628,
+      "1": 244627
+    },
+    "exo_id": "HD_99706",
+    "st_optmag": 7.65,
+    "st_vj": 7.65,
+    "st_dist": 146.6,
+    "st_j": 7.65,
+    "st_mass": 1.46,
+    "dec": 43.9662025,
+    "st_teff": 4862,
+    "st_rad": 5.52,
+    "ra": 172.1261621,
+    "system_radius": 296203782.6,
+    "pl_hostname": "HD_99706",
+    "stellar_type": "K",
+    "tic_id": "TIC 148680230",
+    "magnitude": 7.65
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261250",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244628"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244627"
+      }
+    ]
+  }
+}

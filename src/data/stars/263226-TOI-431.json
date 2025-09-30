@@ -1,1 +1,81 @@
-{"id":263226,"date":"2023-11-28T21:00:59","date_gmt":"2023-11-29T02:00:59","modified":"2025-04-23T05:53:35","modified_gmt":"2025-04-23T09:53:35","slug":"toi-431","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-431/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-431","custom_star_title":"","aliases":"","constellation":"Lepus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248618,248619,248620],"exo_id":"TOI-431","st_optmag":9.12,"st_vj":9.12,"st_dist":32.5686,"st_j":9.12,"st_mass":0.78,"dec":-26.7238698,"st_teff":4850,"st_rad":0.731,"ra":83.2692502,"system_radius":14660591.26,"pl_hostname":"TOI-431","stellar_type":"K","tic_id":"TIC 31374837","magnitude":9.12},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263226","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248620"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248619"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248618"}]}}
+{
+  "id": 263226,
+  "date": "2023-11-28T21:00:59",
+  "date_gmt": "2023-11-29T02:00:59",
+  "modified": "2025-04-23T05:53:35",
+  "modified_gmt": "2025-04-23T09:53:35",
+  "slug": "toi-431",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-431/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-431",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lepus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248618,
+      248619,
+      248620
+    ],
+    "exo_id": "TOI-431",
+    "st_optmag": 9.12,
+    "st_vj": 9.12,
+    "st_dist": 32.5686,
+    "st_j": 9.12,
+    "st_mass": 0.78,
+    "dec": -26.7238698,
+    "st_teff": 4850,
+    "st_rad": 0.731,
+    "ra": 83.2692502,
+    "system_radius": 14660591.26,
+    "pl_hostname": "TOI-431",
+    "stellar_type": "K",
+    "tic_id": "TIC 31374837",
+    "magnitude": 9.12
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263226",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248620"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248619"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248618"
+      }
+    ]
+  }
+}

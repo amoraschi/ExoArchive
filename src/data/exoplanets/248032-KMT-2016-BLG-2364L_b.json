@@ -1,1 +1,79 @@
-{"id":248032,"date":"2020-11-05T19:17:23","date_gmt":"2020-11-06T00:17:23","modified":"2024-10-24T20:08:22","modified_gmt":"2024-10-25T00:08:22","slug":"kmt-2016-blg-2364l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kmt-2016-blg-2364l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KMT-2016-BLG-2364L","pl_letter":"b","display_name":"KMT-2016-BLG-2364L b","planet_radius":"1.16 x Jupiter (estimate)","derived_description":"KMT-2016-BLG-2364L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 3.93 Jupiters, it takes 6 years to complete one orbit of its star, and is 2.63 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":6440,"planet_mass":"3.93 Jupiters","st_optmag":"","discovery_date":"2020","pl_orbsmax":2.63,"period_display":"6 years","eccentricity":"","star_id":261291,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.16,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":13,"exo_id":"KMT-2016-BLG-2364L_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248032","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261291"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248032,
+  "date": "2020-11-05T19:17:23",
+  "date_gmt": "2020-11-06T00:17:23",
+  "modified": "2024-10-24T20:08:22",
+  "modified_gmt": "2024-10-25T00:08:22",
+  "slug": "kmt-2016-blg-2364l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2016-blg-2364l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2016-BLG-2364L",
+    "pl_letter": "b",
+    "display_name": "KMT-2016-BLG-2364L b",
+    "planet_radius": "1.16 x Jupiter (estimate)",
+    "derived_description": "KMT-2016-BLG-2364L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 3.93 Jupiters, it takes 6 years to complete one orbit of its star, and is 2.63 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 6440,
+    "planet_mass": "3.93 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2020",
+    "pl_orbsmax": 2.63,
+    "period_display": "6 years",
+    "eccentricity": "",
+    "star_id": 261291,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.16,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13,
+    "exo_id": "KMT-2016-BLG-2364L_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248032",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261291"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

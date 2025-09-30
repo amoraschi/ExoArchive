@@ -1,1 +1,79 @@
-{"id":401639,"date":"2024-06-13T21:29:25","date_gmt":"2024-06-14T01:29:25","modified":"2024-10-24T22:32:27","modified_gmt":"2024-10-25T02:32:27","slug":"hd-284149-ab-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-284149-ab-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_284149_A","pl_letter":"b","display_name":"HD 284149 AB b","planet_radius":"1.07 x Jupiter (estimate)","derived_description":"HD 284149 AB b is a gas giant exoplanet that orbits a F-type star. Its mass is 26.28 Jupiters, it takes 8426.9 years to complete one orbit of its star, and is 431.16 AU from its star. Its discovery was announced in 2017.","planet_type":"Gas Giant","pl_discmethod":"Imaging","pl_facility":"Paranal Observatory","st_dist":117.807,"planet_mass":"26.28 Jupiters","st_optmag":9.57,"discovery_date":"2017","pl_orbsmax":431.16,"period_display":"8426.9 years","eccentricity":"","star_id":401584,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.07,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12,"exo_id":"HD_284149_AB_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401639","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/401584"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 401639,
+  "date": "2024-06-13T21:29:25",
+  "date_gmt": "2024-06-14T01:29:25",
+  "modified": "2024-10-24T22:32:27",
+  "modified_gmt": "2024-10-25T02:32:27",
+  "slug": "hd-284149-ab-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-284149-ab-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_284149_A",
+    "pl_letter": "b",
+    "display_name": "HD 284149 AB b",
+    "planet_radius": "1.07 x Jupiter (estimate)",
+    "derived_description": "HD 284149 AB b is a gas giant exoplanet that orbits a F-type star. Its mass is 26.28 Jupiters, it takes 8426.9 years to complete one orbit of its star, and is 431.16 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "Paranal Observatory",
+    "st_dist": 117.807,
+    "planet_mass": "26.28 Jupiters",
+    "st_optmag": 9.57,
+    "discovery_date": "2017",
+    "pl_orbsmax": 431.16,
+    "period_display": "8426.9 years",
+    "eccentricity": "",
+    "star_id": 401584,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.07,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12,
+    "exo_id": "HD_284149_AB_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401639",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401584"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

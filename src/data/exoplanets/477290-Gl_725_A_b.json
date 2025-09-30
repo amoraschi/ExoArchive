@@ -1,1 +1,79 @@
-{"id":477290,"date":"2025-02-28T05:28:01","date_gmt":"2025-02-28T10:28:01","modified":"2025-02-28T05:28:01","modified_gmt":"2025-02-28T10:28:01","slug":"gl-725-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gl-725-a-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Gl_725_A","pl_letter":"b","display_name":"Gl 725 A b","planet_radius":"1.48 x Earth (estimate)","derived_description":"Gl 725 A b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.78 Earths, it takes 11.2 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2025.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":3.5214,"planet_mass":"2.78 Earths","st_optmag":8.94,"discovery_date":"2025","pl_orbsmax":0.068,"period_display":"11.2 days","eccentricity":"0.0","star_id":477272,"pl_orbper":11.2201,"pl_kepflag":false,"pl_radj":0.132,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":0,"multiple_planet_system":false,"pl_rade":1.48,"exo_id":"Gl_725_A_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/477290","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/477272"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 477290,
+  "date": "2025-02-28T05:28:01",
+  "date_gmt": "2025-02-28T10:28:01",
+  "modified": "2025-02-28T05:28:01",
+  "modified_gmt": "2025-02-28T10:28:01",
+  "slug": "gl-725-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gl-725-a-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Gl_725_A",
+    "pl_letter": "b",
+    "display_name": "Gl 725 A b",
+    "planet_radius": "1.48 x Earth (estimate)",
+    "derived_description": "Gl 725 A b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.78 Earths, it takes 11.2 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 3.5214,
+    "planet_mass": "2.78 Earths",
+    "st_optmag": 8.94,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.068,
+    "period_display": "11.2 days",
+    "eccentricity": "0.0",
+    "star_id": 477272,
+    "pl_orbper": 11.2201,
+    "pl_kepflag": false,
+    "pl_radj": 0.132,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 1.48,
+    "exo_id": "Gl_725_A_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/477290",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/477272"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

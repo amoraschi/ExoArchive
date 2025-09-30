@@ -1,1 +1,79 @@
-{"id":248429,"date":"2020-02-14T12:26:58","date_gmt":"2020-02-14T17:26:58","modified":"2025-07-07T15:26:02","modified_gmt":"2025-07-07T19:26:02","slug":"toi-125-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-125-d/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-125","pl_letter":"d","display_name":"TOI-125 d","planet_radius":"0.26139709 x Jupiter","derived_description":"TOI-125 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.6 Earths, it takes 20 days to complete one orbit of its star, and is 0.137 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":111.059,"planet_mass":"13.6 Earths","st_optmag":11.023,"discovery_date":"2020","pl_orbsmax":0.137,"period_display":"20 days","eccentricity":"0.17","star_id":262695,"pl_orbper":19.98,"pl_kepflag":false,"pl_radj":0.26139709,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":46,"multiple_planet_system":false,"pl_rade":2.93,"exo_id":"TOI-125_d","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.168},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248429","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262695"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248429,
+  "date": "2020-02-14T12:26:58",
+  "date_gmt": "2020-02-14T17:26:58",
+  "modified": "2025-07-07T15:26:02",
+  "modified_gmt": "2025-07-07T19:26:02",
+  "slug": "toi-125-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-125-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-125",
+    "pl_letter": "d",
+    "display_name": "TOI-125 d",
+    "planet_radius": "0.26139709 x Jupiter",
+    "derived_description": "TOI-125 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.6 Earths, it takes 20 days to complete one orbit of its star, and is 0.137 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 111.059,
+    "planet_mass": "13.6 Earths",
+    "st_optmag": 11.023,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.137,
+    "period_display": "20 days",
+    "eccentricity": "0.17",
+    "star_id": 262695,
+    "pl_orbper": 19.98,
+    "pl_kepflag": false,
+    "pl_radj": 0.26139709,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 46,
+    "multiple_planet_system": false,
+    "pl_rade": 2.93,
+    "exo_id": "TOI-125_d",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.168
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248429",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262695"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

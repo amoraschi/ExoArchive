@@ -1,1 +1,81 @@
-{"id":260428,"date":"2023-11-28T20:25:39","date_gmt":"2023-11-29T01:25:39","modified":"2025-04-23T05:53:47","modified_gmt":"2025-04-23T09:53:47","slug":"kepler-219","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-219/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-219","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246662,246663,246664],"exo_id":"Kepler-219","st_optmag":13.823,"st_vj":13.823,"st_dist":787.07,"st_j":13.823,"st_mass":1.164,"dec":46.7625929,"st_teff":5786,"st_rad":1.491,"ra":288.7389481,"system_radius":40690620.64,"pl_hostname":"Kepler-219","stellar_type":"G","tic_id":"TIC 158838045","magnitude":13.823},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260428","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246664"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246663"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246662"}]}}
+{
+  "id": 260428,
+  "date": "2023-11-28T20:25:39",
+  "date_gmt": "2023-11-29T01:25:39",
+  "modified": "2025-04-23T05:53:47",
+  "modified_gmt": "2025-04-23T09:53:47",
+  "slug": "kepler-219",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-219/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-219",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246662,
+      246663,
+      246664
+    ],
+    "exo_id": "Kepler-219",
+    "st_optmag": 13.823,
+    "st_vj": 13.823,
+    "st_dist": 787.07,
+    "st_j": 13.823,
+    "st_mass": 1.164,
+    "dec": 46.7625929,
+    "st_teff": 5786,
+    "st_rad": 1.491,
+    "ra": 288.7389481,
+    "system_radius": 40690620.64,
+    "pl_hostname": "Kepler-219",
+    "stellar_type": "G",
+    "tic_id": "TIC 158838045",
+    "magnitude": 13.823
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260428",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246664"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246663"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246662"
+      }
+    ]
+  }
+}

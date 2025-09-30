@@ -1,1 +1,79 @@
-{"id":247112,"date":"2016-03-16T19:26:15","date_gmt":"2016-03-16T23:26:15","modified":"2025-07-07T15:25:03","modified_gmt":"2025-07-07T19:25:03","slug":"kepler-383-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-383-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-383","pl_letter":"c","display_name":"Kepler-383 c","planet_radius":"1.24 x Earth","derived_description":"Kepler-383 c is a super Earth exoplanet that orbits a K-type star. Its mass is 2.07 Earths, it takes 31.2 days to complete one orbit of its star, and is 0.172 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":470,"planet_mass":"2.07 Earths","st_optmag":15.473,"discovery_date":"2014","pl_orbsmax":0.172,"period_display":"31.2 days","eccentricity":"0.0","star_id":261659,"pl_orbper":31.200751,"pl_kepflag":true,"pl_radj":0.111,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.24,"exo_id":"Kepler-383_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247112","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261659"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247112,
+  "date": "2016-03-16T19:26:15",
+  "date_gmt": "2016-03-16T23:26:15",
+  "modified": "2025-07-07T15:25:03",
+  "modified_gmt": "2025-07-07T19:25:03",
+  "slug": "kepler-383-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-383-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-383",
+    "pl_letter": "c",
+    "display_name": "Kepler-383 c",
+    "planet_radius": "1.24 x Earth",
+    "derived_description": "Kepler-383 c is a super Earth exoplanet that orbits a K-type star. Its mass is 2.07 Earths, it takes 31.2 days to complete one orbit of its star, and is 0.172 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 470,
+    "planet_mass": "2.07 Earths",
+    "st_optmag": 15.473,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.172,
+    "period_display": "31.2 days",
+    "eccentricity": "0.0",
+    "star_id": 261659,
+    "pl_orbper": 31.200751,
+    "pl_kepflag": true,
+    "pl_radj": 0.111,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.24,
+    "exo_id": "Kepler-383_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247112",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261659"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

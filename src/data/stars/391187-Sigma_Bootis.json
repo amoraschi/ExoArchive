@@ -1,1 +1,69 @@
-{"id":391187,"date":"2024-04-30T20:01:17","date_gmt":"2024-05-01T00:01:17","modified":"2025-04-23T05:57:27","modified_gmt":"2025-04-23T09:57:27","slug":"sigma-bootis","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/sigma-bootis/","featured_media":429647,"categories":[],"acf":{"display_name":"Sigma Bootis","custom_star_title":"","aliases":"HD 128167,HR 5447,GJ 557","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Sigma_Bootis","st_optmag":4.465,"st_vj":4.465,"st_dist":15.756,"st_j":4.465,"st_mass":1.39,"dec":29.7451271,"st_teff":6745,"st_rad":1.306,"ra":218.6700724,"system_radius":149597870,"pl_hostname":"Sigma_Bootis","stellar_type":"F","tic_id":"TIC 157966796","magnitude":4.5},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391187","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391187,
+  "date": "2024-04-30T20:01:17",
+  "date_gmt": "2024-05-01T00:01:17",
+  "modified": "2025-04-23T05:57:27",
+  "modified_gmt": "2025-04-23T09:57:27",
+  "slug": "sigma-bootis",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/sigma-bootis/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Sigma Bootis",
+    "custom_star_title": "",
+    "aliases": "HD 128167,HR 5447,GJ 557",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Sigma_Bootis",
+    "st_optmag": 4.465,
+    "st_vj": 4.465,
+    "st_dist": 15.756,
+    "st_j": 4.465,
+    "st_mass": 1.39,
+    "dec": 29.7451271,
+    "st_teff": 6745,
+    "st_rad": 1.306,
+    "ra": 218.6700724,
+    "system_radius": 149597870,
+    "pl_hostname": "Sigma_Bootis",
+    "stellar_type": "F",
+    "tic_id": "TIC 157966796",
+    "magnitude": 4.5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391187",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

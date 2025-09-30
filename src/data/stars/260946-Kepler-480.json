@@ -1,1 +1,71 @@
-{"id":260946,"date":"2023-11-28T20:32:07","date_gmt":"2023-11-29T01:32:07","modified":"2025-04-23T05:53:52","modified_gmt":"2025-04-23T09:53:52","slug":"kepler-480","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-480/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-480","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247285],"exo_id":"Kepler-480","st_optmag":13.23,"st_vj":13.23,"st_dist":847.508,"st_j":13.23,"st_mass":1.25,"dec":49.7650473,"st_teff":6322,"st_rad":1.34,"ra":294.4639165,"system_radius":9011775.6888,"pl_hostname":"Kepler-480","stellar_type":"F","tic_id":"TIC 27187218","magnitude":13.23},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260946","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247285"}]}}
+{
+  "id": 260946,
+  "date": "2023-11-28T20:32:07",
+  "date_gmt": "2023-11-29T01:32:07",
+  "modified": "2025-04-23T05:53:52",
+  "modified_gmt": "2025-04-23T09:53:52",
+  "slug": "kepler-480",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-480/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-480",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247285
+    ],
+    "exo_id": "Kepler-480",
+    "st_optmag": 13.23,
+    "st_vj": 13.23,
+    "st_dist": 847.508,
+    "st_j": 13.23,
+    "st_mass": 1.25,
+    "dec": 49.7650473,
+    "st_teff": 6322,
+    "st_rad": 1.34,
+    "ra": 294.4639165,
+    "system_radius": 9011775.6888,
+    "pl_hostname": "Kepler-480",
+    "stellar_type": "F",
+    "tic_id": "TIC 27187218",
+    "magnitude": 13.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260946",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247285"
+      }
+    ]
+  }
+}

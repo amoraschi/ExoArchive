@@ -1,1 +1,71 @@
-{"id":263870,"date":"2023-11-28T21:09:16","date_gmt":"2023-11-29T02:09:16","modified":"2025-04-23T05:55:12","modified_gmt":"2025-04-23T09:55:12","slug":"kepler-39","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-39/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-39","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247150],"exo_id":"Kepler-39","st_optmag":14.355,"st_vj":14.355,"st_dist":1057.41,"st_j":14.355,"st_mass":1.29,"dec":46.0342954,"st_teff":6350,"st_rad":1.4,"ra":296.9603348,"system_radius":24534050.68,"pl_hostname":"Kepler-39","stellar_type":"F","tic_id":"TIC 272836943","magnitude":14.355},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263870","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247150"}]}}
+{
+  "id": 263870,
+  "date": "2023-11-28T21:09:16",
+  "date_gmt": "2023-11-29T02:09:16",
+  "modified": "2025-04-23T05:55:12",
+  "modified_gmt": "2025-04-23T09:55:12",
+  "slug": "kepler-39",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-39/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-39",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247150
+    ],
+    "exo_id": "Kepler-39",
+    "st_optmag": 14.355,
+    "st_vj": 14.355,
+    "st_dist": 1057.41,
+    "st_j": 14.355,
+    "st_mass": 1.29,
+    "dec": 46.0342954,
+    "st_teff": 6350,
+    "st_rad": 1.4,
+    "ra": 296.9603348,
+    "system_radius": 24534050.68,
+    "pl_hostname": "Kepler-39",
+    "stellar_type": "F",
+    "tic_id": "TIC 272836943",
+    "magnitude": 14.355
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263870",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247150"
+      }
+    ]
+  }
+}

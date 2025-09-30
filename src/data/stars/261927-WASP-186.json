@@ -1,1 +1,71 @@
-{"id":261927,"date":"2023-11-28T20:44:29","date_gmt":"2023-11-29T01:44:29","modified":"2025-06-06T07:19:42","modified_gmt":"2025-06-06T11:19:42","slug":"wasp-186","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-186/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-186","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248823],"exo_id":"WASP-186","st_optmag":10.81,"st_vj":10.81,"st_dist":278.514,"st_j":10.81,"st_mass":1.22,"dec":21.6169065,"st_teff":6361,"st_rad":1.47,"ra":18.9953122,"system_radius":8975872.2,"pl_hostname":"WASP-186","stellar_type":"F","tic_id":"TIC 411608801","magnitude":10.81},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261927","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248823"}]}}
+{
+  "id": 261927,
+  "date": "2023-11-28T20:44:29",
+  "date_gmt": "2023-11-29T01:44:29",
+  "modified": "2025-06-06T07:19:42",
+  "modified_gmt": "2025-06-06T11:19:42",
+  "slug": "wasp-186",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-186/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-186",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248823
+    ],
+    "exo_id": "WASP-186",
+    "st_optmag": 10.81,
+    "st_vj": 10.81,
+    "st_dist": 278.514,
+    "st_j": 10.81,
+    "st_mass": 1.22,
+    "dec": 21.6169065,
+    "st_teff": 6361,
+    "st_rad": 1.47,
+    "ra": 18.9953122,
+    "system_radius": 8975872.2,
+    "pl_hostname": "WASP-186",
+    "stellar_type": "F",
+    "tic_id": "TIC 411608801",
+    "magnitude": 10.81
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261927",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248823"
+      }
+    ]
+  }
+}

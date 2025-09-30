@@ -1,1 +1,79 @@
-{"id":248195,"date":"2019-04-22T16:49:14","date_gmt":"2019-04-22T20:49:14","modified":"2024-10-24T20:24:11","modified_gmt":"2024-10-25T00:24:11","slug":"ngc-2682-sand-364-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ngc-2682-sand-364-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"NGC_2682_Sand_364","pl_letter":"b","display_name":"NGC 2682 Sand 364 b","planet_radius":"1.13 x Jupiter (estimate)","derived_description":"NGC 2682 Sand 364 b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.69 Jupiters, it takes 121.7 days to complete one orbit of its star, and is 0.53 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":817.192,"planet_mass":"6.69 Jupiters","st_optmag":9.616,"discovery_date":"2014","pl_orbsmax":0.53,"period_display":"121.7 days","eccentricity":"0.35","star_id":261922,"pl_orbper":121.71,"pl_kepflag":false,"pl_radj":1.13,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":273.51,"multiple_planet_system":false,"pl_rade":12.7,"exo_id":"NGC_2682_Sand_364_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.35},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248195","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261922"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248195,
+  "date": "2019-04-22T16:49:14",
+  "date_gmt": "2019-04-22T20:49:14",
+  "modified": "2024-10-24T20:24:11",
+  "modified_gmt": "2024-10-25T00:24:11",
+  "slug": "ngc-2682-sand-364-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ngc-2682-sand-364-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "NGC_2682_Sand_364",
+    "pl_letter": "b",
+    "display_name": "NGC 2682 Sand 364 b",
+    "planet_radius": "1.13 x Jupiter (estimate)",
+    "derived_description": "NGC 2682 Sand 364 b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.69 Jupiters, it takes 121.7 days to complete one orbit of its star, and is 0.53 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 817.192,
+    "planet_mass": "6.69 Jupiters",
+    "st_optmag": 9.616,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.53,
+    "period_display": "121.7 days",
+    "eccentricity": "0.35",
+    "star_id": 261922,
+    "pl_orbper": 121.71,
+    "pl_kepflag": false,
+    "pl_radj": 1.13,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": 273.51,
+    "multiple_planet_system": false,
+    "pl_rade": 12.7,
+    "exo_id": "NGC_2682_Sand_364_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.35
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248195",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261922"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

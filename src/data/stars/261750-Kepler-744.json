@@ -1,1 +1,71 @@
-{"id":261750,"date":"2023-11-28T20:42:15","date_gmt":"2023-11-29T01:42:15","modified":"2025-04-23T05:55:03","modified_gmt":"2025-04-23T09:55:03","slug":"kepler-744","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-744/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-744","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247654],"exo_id":"Kepler-744","st_optmag":13.718,"st_vj":13.718,"st_dist":449.964,"st_j":13.718,"st_mass":0.94,"dec":47.1827848,"st_teff":5594,"st_rad":0.93,"ra":296.4960493,"system_radius":14563352.6445,"pl_hostname":"Kepler-744","stellar_type":"G","tic_id":"TIC 272597130","magnitude":13.718},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261750","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247654"}]}}
+{
+  "id": 261750,
+  "date": "2023-11-28T20:42:15",
+  "date_gmt": "2023-11-29T01:42:15",
+  "modified": "2025-04-23T05:55:03",
+  "modified_gmt": "2025-04-23T09:55:03",
+  "slug": "kepler-744",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-744/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-744",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247654
+    ],
+    "exo_id": "Kepler-744",
+    "st_optmag": 13.718,
+    "st_vj": 13.718,
+    "st_dist": 449.964,
+    "st_j": 13.718,
+    "st_mass": 0.94,
+    "dec": 47.1827848,
+    "st_teff": 5594,
+    "st_rad": 0.93,
+    "ra": 296.4960493,
+    "system_radius": 14563352.6445,
+    "pl_hostname": "Kepler-744",
+    "stellar_type": "G",
+    "tic_id": "TIC 272597130",
+    "magnitude": 13.718
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261750",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247654"
+      }
+    ]
+  }
+}

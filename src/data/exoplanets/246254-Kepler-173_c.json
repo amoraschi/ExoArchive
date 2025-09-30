@@ -1,1 +1,79 @@
-{"id":246254,"date":"2016-03-16T19:26:24","date_gmt":"2016-03-16T23:26:24","modified":"2025-07-07T20:44:04","modified_gmt":"2025-07-08T00:44:04","slug":"kepler-173-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-173-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-173","pl_letter":"c","display_name":"Kepler-173 c","planet_radius":"0.217 x Jupiter","derived_description":"Kepler-173 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.48 Earths, it takes 8 days to complete one orbit of its star, and is 0.074 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":833.165,"planet_mass":"6.48 Earths","st_optmag":14.357,"discovery_date":"2014","pl_orbsmax":0.074,"period_display":"8 days","eccentricity":"0.0","star_id":262781,"pl_orbper":8.005777,"pl_kepflag":true,"pl_radj":0.217,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.43,"exo_id":"Kepler-173_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246254","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262781"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246254,
+  "date": "2016-03-16T19:26:24",
+  "date_gmt": "2016-03-16T23:26:24",
+  "modified": "2025-07-07T20:44:04",
+  "modified_gmt": "2025-07-08T00:44:04",
+  "slug": "kepler-173-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-173-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-173",
+    "pl_letter": "c",
+    "display_name": "Kepler-173 c",
+    "planet_radius": "0.217 x Jupiter",
+    "derived_description": "Kepler-173 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.48 Earths, it takes 8 days to complete one orbit of its star, and is 0.074 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 833.165,
+    "planet_mass": "6.48 Earths",
+    "st_optmag": 14.357,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.074,
+    "period_display": "8 days",
+    "eccentricity": "0.0",
+    "star_id": 262781,
+    "pl_orbper": 8.005777,
+    "pl_kepflag": true,
+    "pl_radj": 0.217,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.43,
+    "exo_id": "Kepler-173_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246254",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262781"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244906,"date":"2018-04-27T13:26:34","date_gmt":"2018-04-27T17:26:34","modified":"2025-08-28T22:45:41","modified_gmt":"2025-08-29T02:45:41","slug":"k2-233-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-233-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-233","pl_letter":"d","display_name":"K2-233 d","planet_radius":"2.363 x Earth","derived_description":"K2-233 d is a super Earth exoplanet that orbits a K-type star. Its mass is 10.3 Earths, it takes 24.4 days to complete one orbit of its star, and is 0.1516 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":67.5062,"planet_mass":"10.3 Earths","st_optmag":10.883,"discovery_date":"2018","pl_orbsmax":0.1516,"period_display":"24.4 days","eccentricity":"0.18","star_id":261278,"pl_orbper":24.3681,"pl_kepflag":true,"pl_radj":0.2108131,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":168,"multiple_planet_system":false,"pl_rade":2.363,"exo_id":"K2-233_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.18},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244906","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261278"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244906,
+  "date": "2018-04-27T13:26:34",
+  "date_gmt": "2018-04-27T17:26:34",
+  "modified": "2025-08-28T22:45:41",
+  "modified_gmt": "2025-08-29T02:45:41",
+  "slug": "k2-233-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-233-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-233",
+    "pl_letter": "d",
+    "display_name": "K2-233 d",
+    "planet_radius": "2.363 x Earth",
+    "derived_description": "K2-233 d is a super Earth exoplanet that orbits a K-type star. Its mass is 10.3 Earths, it takes 24.4 days to complete one orbit of its star, and is 0.1516 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 67.5062,
+    "planet_mass": "10.3 Earths",
+    "st_optmag": 10.883,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.1516,
+    "period_display": "24.4 days",
+    "eccentricity": "0.18",
+    "star_id": 261278,
+    "pl_orbper": 24.3681,
+    "pl_kepflag": true,
+    "pl_radj": 0.2108131,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 168,
+    "multiple_planet_system": false,
+    "pl_rade": 2.363,
+    "exo_id": "K2-233_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.18
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244906",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261278"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262481,"date":"2023-11-28T20:51:32","date_gmt":"2023-11-29T01:51:32","modified":"2025-04-23T05:56:18","modified_gmt":"2025-04-23T09:56:18","slug":"k2-63","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-63/","featured_media":0,"categories":[],"acf":{"display_name":"K2-63","custom_star_title":"","aliases":"","constellation":"Aquarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245160,"1":245159},"exo_id":"K2-63","st_optmag":12.98,"st_vj":12.98,"st_dist":517.534,"st_j":12.98,"st_mass":1.4,"dec":-12.0663429,"st_teff":6771,"st_rad":1.63,"ra":333.4267738,"system_radius":28273997.43,"pl_hostname":"K2-63","stellar_type":"F","tic_id":"TIC 437699592","magnitude":12.98},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262481","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245160"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245159"}]}}
+{
+  "id": 262481,
+  "date": "2023-11-28T20:51:32",
+  "date_gmt": "2023-11-29T01:51:32",
+  "modified": "2025-04-23T05:56:18",
+  "modified_gmt": "2025-04-23T09:56:18",
+  "slug": "k2-63",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-63/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-63",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245160,
+      "1": 245159
+    },
+    "exo_id": "K2-63",
+    "st_optmag": 12.98,
+    "st_vj": 12.98,
+    "st_dist": 517.534,
+    "st_j": 12.98,
+    "st_mass": 1.4,
+    "dec": -12.0663429,
+    "st_teff": 6771,
+    "st_rad": 1.63,
+    "ra": 333.4267738,
+    "system_radius": 28273997.43,
+    "pl_hostname": "K2-63",
+    "stellar_type": "F",
+    "tic_id": "TIC 437699592",
+    "magnitude": 12.98
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262481",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245160"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245159"
+      }
+    ]
+  }
+}

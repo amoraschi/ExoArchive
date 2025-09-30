@@ -1,1 +1,71 @@
-{"id":313792,"date":"2024-03-02T14:53:55","date_gmt":"2024-03-02T19:53:55","modified":"2025-04-23T05:55:13","modified_gmt":"2025-04-23T09:55:13","slug":"kmt-2021-blg-1547l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-1547l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2021-BLG-1547L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[313853],"exo_id":"KMT-2021-BLG-1547L","st_optmag":"","st_vj":"","st_dist":5070,"st_j":"","st_mass":0.72,"dec":-29.0839389,"st_teff":"","st_rad":"","ra":272.3995833,"system_radius":673190415,"pl_hostname":"KMT-2021-BLG-1547L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/313792","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313853"}]}}
+{
+  "id": 313792,
+  "date": "2024-03-02T14:53:55",
+  "date_gmt": "2024-03-02T19:53:55",
+  "modified": "2025-04-23T05:55:13",
+  "modified_gmt": "2025-04-23T09:55:13",
+  "slug": "kmt-2021-blg-1547l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-1547l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2021-BLG-1547L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      313853
+    ],
+    "exo_id": "KMT-2021-BLG-1547L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5070,
+    "st_j": "",
+    "st_mass": 0.72,
+    "dec": -29.0839389,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 272.3995833,
+    "system_radius": 673190415,
+    "pl_hostname": "KMT-2021-BLG-1547L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313792",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313853"
+      }
+    ]
+  }
+}

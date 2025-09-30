@@ -1,1 +1,69 @@
-{"id":391203,"date":"2024-04-30T20:01:18","date_gmt":"2024-05-01T00:01:18","modified":"2025-04-23T05:57:28","modified_gmt":"2025-04-23T09:57:28","slug":"72-herculis","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/72-herculis/","featured_media":429648,"categories":[],"acf":{"display_name":"72 Herculis","custom_star_title":"","aliases":"HD 157214,HR 6458,GJ 672","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"72_Herculis","st_optmag":5.385,"st_vj":5.385,"st_dist":14.5863,"st_j":5.385,"st_mass":0.94,"dec":32.4677439,"st_teff":5704,"st_rad":1.163,"ra":260.1648644,"system_radius":149597870,"pl_hostname":"72_Herculis","stellar_type":"G","tic_id":"TIC 9728611","magnitude":5.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391203","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391203,
+  "date": "2024-04-30T20:01:18",
+  "date_gmt": "2024-05-01T00:01:18",
+  "modified": "2025-04-23T05:57:28",
+  "modified_gmt": "2025-04-23T09:57:28",
+  "slug": "72-herculis",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/72-herculis/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "72 Herculis",
+    "custom_star_title": "",
+    "aliases": "HD 157214,HR 6458,GJ 672",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "72_Herculis",
+    "st_optmag": 5.385,
+    "st_vj": 5.385,
+    "st_dist": 14.5863,
+    "st_j": 5.385,
+    "st_mass": 0.94,
+    "dec": 32.4677439,
+    "st_teff": 5704,
+    "st_rad": 1.163,
+    "ra": 260.1648644,
+    "system_radius": 149597870,
+    "pl_hostname": "72_Herculis",
+    "stellar_type": "G",
+    "tic_id": "TIC 9728611",
+    "magnitude": 5.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391203",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

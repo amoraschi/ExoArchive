@@ -1,1 +1,71 @@
-{"id":262151,"date":"2023-11-28T20:47:21","date_gmt":"2023-11-29T01:47:21","modified":"2025-04-23T05:56:46","modified_gmt":"2025-04-23T09:56:46","slug":"kepler-847","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-847/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-847","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247800],"exo_id":"Kepler-847","st_optmag":14.998,"st_vj":14.998,"st_dist":513.103,"st_j":14.998,"st_mass":0.83,"dec":49.4509371,"st_teff":4940,"st_rad":0.77,"ra":283.5048144,"system_radius":4712332.905,"pl_hostname":"Kepler-847","stellar_type":"K","tic_id":"TIC 48352404","magnitude":14.998},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262151","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247800"}]}}
+{
+  "id": 262151,
+  "date": "2023-11-28T20:47:21",
+  "date_gmt": "2023-11-29T01:47:21",
+  "modified": "2025-04-23T05:56:46",
+  "modified_gmt": "2025-04-23T09:56:46",
+  "slug": "kepler-847",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-847/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-847",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247800
+    ],
+    "exo_id": "Kepler-847",
+    "st_optmag": 14.998,
+    "st_vj": 14.998,
+    "st_dist": 513.103,
+    "st_j": 14.998,
+    "st_mass": 0.83,
+    "dec": 49.4509371,
+    "st_teff": 4940,
+    "st_rad": 0.77,
+    "ra": 283.5048144,
+    "system_radius": 4712332.905,
+    "pl_hostname": "Kepler-847",
+    "stellar_type": "K",
+    "tic_id": "TIC 48352404",
+    "magnitude": 14.998
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262151",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247800"
+      }
+    ]
+  }
+}

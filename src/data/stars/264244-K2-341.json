@@ -1,1 +1,71 @@
-{"id":264244,"date":"2023-11-28T21:14:05","date_gmt":"2023-11-29T02:14:05","modified":"2025-04-23T05:55:03","modified_gmt":"2025-04-23T09:55:03","slug":"k2-341","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-341/","featured_media":0,"categories":[],"acf":{"display_name":"K2-341","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245026],"exo_id":"K2-341","st_optmag":12.725,"st_vj":12.725,"st_dist":421.408,"st_j":12.725,"st_mass":0.98,"dec":19.9166357,"st_teff":5817,"st_rad":1.16,"ra":130.4971951,"system_radius":149597870,"pl_hostname":"K2-341","stellar_type":"G","tic_id":"TIC 175290685","magnitude":12.725},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264244","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245026"}]}}
+{
+  "id": 264244,
+  "date": "2023-11-28T21:14:05",
+  "date_gmt": "2023-11-29T02:14:05",
+  "modified": "2025-04-23T05:55:03",
+  "modified_gmt": "2025-04-23T09:55:03",
+  "slug": "k2-341",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-341/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-341",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245026
+    ],
+    "exo_id": "K2-341",
+    "st_optmag": 12.725,
+    "st_vj": 12.725,
+    "st_dist": 421.408,
+    "st_j": 12.725,
+    "st_mass": 0.98,
+    "dec": 19.9166357,
+    "st_teff": 5817,
+    "st_rad": 1.16,
+    "ra": 130.4971951,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-341",
+    "stellar_type": "G",
+    "tic_id": "TIC 175290685",
+    "magnitude": 12.725
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264244",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245026"
+      }
+    ]
+  }
+}

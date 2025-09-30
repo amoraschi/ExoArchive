@@ -1,1 +1,76 @@
-{"id":263124,"date":"2023-11-28T20:59:43","date_gmt":"2023-11-29T01:59:43","modified":"2025-06-06T07:19:04","modified_gmt":"2025-06-06T11:19:04","slug":"kepler-799","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-799/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-799","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247729,"1":247728},"exo_id":"Kepler-799","st_optmag":15.166,"st_vj":15.166,"st_dist":1509.084,"st_j":15.166,"st_mass":0.95,"dec":44.8784754,"st_teff":5681,"st_rad":0.93,"ra":287.1748966,"system_radius":77297219.429,"pl_hostname":"Kepler-799","stellar_type":"G","tic_id":"TIC 158419284","magnitude":15.166},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263124","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247729"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247728"}]}}
+{
+  "id": 263124,
+  "date": "2023-11-28T20:59:43",
+  "date_gmt": "2023-11-29T01:59:43",
+  "modified": "2025-06-06T07:19:04",
+  "modified_gmt": "2025-06-06T11:19:04",
+  "slug": "kepler-799",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-799/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-799",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247729,
+      "1": 247728
+    },
+    "exo_id": "Kepler-799",
+    "st_optmag": 15.166,
+    "st_vj": 15.166,
+    "st_dist": 1509.084,
+    "st_j": 15.166,
+    "st_mass": 0.95,
+    "dec": 44.8784754,
+    "st_teff": 5681,
+    "st_rad": 0.93,
+    "ra": 287.1748966,
+    "system_radius": 77297219.429,
+    "pl_hostname": "Kepler-799",
+    "stellar_type": "G",
+    "tic_id": "TIC 158419284",
+    "magnitude": 15.166
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263124",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247729"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247728"
+      }
+    ]
+  }
+}

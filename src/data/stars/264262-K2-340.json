@@ -1,1 +1,71 @@
-{"id":264262,"date":"2023-11-28T21:14:18","date_gmt":"2023-11-29T02:14:18","modified":"2025-04-23T05:53:14","modified_gmt":"2025-04-23T09:53:14","slug":"k2-340","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-340/","featured_media":0,"categories":[],"acf":{"display_name":"K2-340","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245025],"exo_id":"K2-340","st_optmag":14.428,"st_vj":14.428,"st_dist":738.136,"st_j":14.428,"st_mass":0.93,"dec":19.0745863,"st_teff":5532,"st_rad":1.13,"ra":127.9373409,"system_radius":149597870,"pl_hostname":"K2-340","stellar_type":"G","tic_id":"TIC 178246831","magnitude":14.428},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264262","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245025"}]}}
+{
+  "id": 264262,
+  "date": "2023-11-28T21:14:18",
+  "date_gmt": "2023-11-29T02:14:18",
+  "modified": "2025-04-23T05:53:14",
+  "modified_gmt": "2025-04-23T09:53:14",
+  "slug": "k2-340",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-340/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-340",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245025
+    ],
+    "exo_id": "K2-340",
+    "st_optmag": 14.428,
+    "st_vj": 14.428,
+    "st_dist": 738.136,
+    "st_j": 14.428,
+    "st_mass": 0.93,
+    "dec": 19.0745863,
+    "st_teff": 5532,
+    "st_rad": 1.13,
+    "ra": 127.9373409,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-340",
+    "stellar_type": "G",
+    "tic_id": "TIC 178246831",
+    "magnitude": 14.428
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264262",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245025"
+      }
+    ]
+  }
+}

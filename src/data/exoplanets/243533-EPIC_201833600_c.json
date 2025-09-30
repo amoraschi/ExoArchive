@@ -1,1 +1,79 @@
-{"id":243533,"date":"2019-06-13T18:03:11","date_gmt":"2019-06-13T22:03:11","modified":"2025-07-07T15:26:17","modified_gmt":"2025-07-07T19:26:17","slug":"epic-201833600-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/epic-201833600-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"K2-50","pl_letter":"c","display_name":"EPIC 201833600 c","planet_radius":"1.0 x Earth","derived_description":"EPIC 201833600 c is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.972 Earths, it takes 4 days to complete one orbit of its star, and is 0.041577245760762 AU from its star. Its discovery was announced in 2019.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"K2","st_dist":257.443,"planet_mass":"0.972 Earths","st_optmag":14.705,"discovery_date":"2019","pl_orbsmax":"","period_display":"4 days","eccentricity":"","star_id":260477,"pl_orbper":3.96151,"pl_kepflag":true,"pl_radj":0.08921402,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1,"exo_id":"EPIC_201833600_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243533","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260477"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 243533,
+  "date": "2019-06-13T18:03:11",
+  "date_gmt": "2019-06-13T22:03:11",
+  "modified": "2025-07-07T15:26:17",
+  "modified_gmt": "2025-07-07T19:26:17",
+  "slug": "epic-201833600-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/epic-201833600-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-50",
+    "pl_letter": "c",
+    "display_name": "EPIC 201833600 c",
+    "planet_radius": "1.0 x Earth",
+    "derived_description": "EPIC 201833600 c is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.972 Earths, it takes 4 days to complete one orbit of its star, and is 0.041577245760762 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 257.443,
+    "planet_mass": "0.972 Earths",
+    "st_optmag": 14.705,
+    "discovery_date": "2019",
+    "pl_orbsmax": "",
+    "period_display": "4 days",
+    "eccentricity": "",
+    "star_id": 260477,
+    "pl_orbper": 3.96151,
+    "pl_kepflag": true,
+    "pl_radj": 0.08921402,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1,
+    "exo_id": "EPIC_201833600_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243533",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260477"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

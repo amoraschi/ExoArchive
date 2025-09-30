@@ -1,1 +1,76 @@
-{"id":262328,"date":"2023-11-28T20:49:35","date_gmt":"2023-11-29T01:49:35","modified":"2025-04-23T05:57:19","modified_gmt":"2025-04-23T09:57:19","slug":"toi-1634","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1634/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1634","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":248468,"1":248467},"exo_id":"TOI-1634","st_optmag":13.217,"st_vj":13.217,"st_dist":35.2736,"st_j":13.217,"st_mass":0.451,"dec":37.1122803,"st_teff":3472,"st_rad":0.45,"ra":56.3906096,"system_radius":2311287.0915,"pl_hostname":"TOI-1634","stellar_type":"M","tic_id":"TIC 201186294","magnitude":13.217},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262328","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248468"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248467"}]}}
+{
+  "id": 262328,
+  "date": "2023-11-28T20:49:35",
+  "date_gmt": "2023-11-29T01:49:35",
+  "modified": "2025-04-23T05:57:19",
+  "modified_gmt": "2025-04-23T09:57:19",
+  "slug": "toi-1634",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1634/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1634",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 248468,
+      "1": 248467
+    },
+    "exo_id": "TOI-1634",
+    "st_optmag": 13.217,
+    "st_vj": 13.217,
+    "st_dist": 35.2736,
+    "st_j": 13.217,
+    "st_mass": 0.451,
+    "dec": 37.1122803,
+    "st_teff": 3472,
+    "st_rad": 0.45,
+    "ra": 56.3906096,
+    "system_radius": 2311287.0915,
+    "pl_hostname": "TOI-1634",
+    "stellar_type": "M",
+    "tic_id": "TIC 201186294",
+    "magnitude": 13.217
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262328",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248468"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248467"
+      }
+    ]
+  }
+}

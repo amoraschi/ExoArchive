@@ -1,1 +1,79 @@
-{"id":244399,"date":"2020-05-22T13:27:04","date_gmt":"2020-05-22T17:27:04","modified":"2025-03-28T07:23:21","modified_gmt":"2025-03-28T11:23:21","slug":"hd-332231-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-332231-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_332231","pl_letter":"b","display_name":"HD 332231 b","planet_radius":"0.80944319 x Jupiter","derived_description":"HD 332231 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.23314467 Jupiters, it takes 18.7 days to complete one orbit of its star, and is 0.145 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":80.6665,"planet_mass":"0.23314467 Jupiters","st_optmag":8.558,"discovery_date":"2020","pl_orbsmax":0.145,"period_display":"18.7 days","eccentricity":"0.0","star_id":263100,"pl_orbper":18.712024,"pl_kepflag":false,"pl_radj":0.80944319,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":2,"multiple_planet_system":false,"pl_rade":9.07303305,"exo_id":"HD_332231_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244399","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263100"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244399,
+  "date": "2020-05-22T13:27:04",
+  "date_gmt": "2020-05-22T17:27:04",
+  "modified": "2025-03-28T07:23:21",
+  "modified_gmt": "2025-03-28T11:23:21",
+  "slug": "hd-332231-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-332231-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_332231",
+    "pl_letter": "b",
+    "display_name": "HD 332231 b",
+    "planet_radius": "0.80944319 x Jupiter",
+    "derived_description": "HD 332231 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.23314467 Jupiters, it takes 18.7 days to complete one orbit of its star, and is 0.145 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 80.6665,
+    "planet_mass": "0.23314467 Jupiters",
+    "st_optmag": 8.558,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.145,
+    "period_display": "18.7 days",
+    "eccentricity": "0.0",
+    "star_id": 263100,
+    "pl_orbper": 18.712024,
+    "pl_kepflag": false,
+    "pl_radj": 0.80944319,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 2,
+    "multiple_planet_system": false,
+    "pl_rade": 9.07303305,
+    "exo_id": "HD_332231_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244399",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263100"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

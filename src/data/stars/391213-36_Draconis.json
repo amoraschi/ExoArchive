@@ -1,1 +1,69 @@
-{"id":391213,"date":"2024-04-30T20:01:19","date_gmt":"2024-05-01T00:01:19","modified":"2025-04-23T05:57:29","modified_gmt":"2025-04-23T09:57:29","slug":"36-draconis","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/36-draconis/","featured_media":429647,"categories":[],"acf":{"display_name":"36 Draconis","custom_star_title":"","aliases":"HD 168151,HR 6850,GJ 9619","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"36_Draconis","st_optmag":4.99,"st_vj":4.99,"st_dist":23.1569,"st_j":4.99,"st_mass":1.33,"dec":64.3972849,"st_teff":6473,"st_rad":1.624,"ra":273.4743034,"system_radius":149597870,"pl_hostname":"36_Draconis","stellar_type":"F","tic_id":"TIC 233121747","magnitude":5},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391213","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391213,
+  "date": "2024-04-30T20:01:19",
+  "date_gmt": "2024-05-01T00:01:19",
+  "modified": "2025-04-23T05:57:29",
+  "modified_gmt": "2025-04-23T09:57:29",
+  "slug": "36-draconis",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/36-draconis/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "36 Draconis",
+    "custom_star_title": "",
+    "aliases": "HD 168151,HR 6850,GJ 9619",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "36_Draconis",
+    "st_optmag": 4.99,
+    "st_vj": 4.99,
+    "st_dist": 23.1569,
+    "st_j": 4.99,
+    "st_mass": 1.33,
+    "dec": 64.3972849,
+    "st_teff": 6473,
+    "st_rad": 1.624,
+    "ra": 273.4743034,
+    "system_radius": 149597870,
+    "pl_hostname": "36_Draconis",
+    "stellar_type": "F",
+    "tic_id": "TIC 233121747",
+    "magnitude": 5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391213",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

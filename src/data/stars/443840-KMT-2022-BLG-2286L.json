@@ -1,1 +1,71 @@
-{"id":443840,"date":"2025-01-15T02:00:50","date_gmt":"2025-01-15T07:00:50","modified":"2025-04-23T05:56:56","modified_gmt":"2025-04-23T09:56:56","slug":"kmt-2022-blg-2286l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2022-blg-2286l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2022-BLG-2286L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[443849],"exo_id":"KMT-2022-BLG-2286L","st_optmag":"","st_vj":"","st_dist":7320,"st_j":"","st_mass":0.2,"dec":-28.8549194,"st_teff":"","st_rad":"","ra":269.16525,"system_radius":302187697.4,"pl_hostname":"KMT-2022-BLG-2286L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/443840","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/443849"}]}}
+{
+  "id": 443840,
+  "date": "2025-01-15T02:00:50",
+  "date_gmt": "2025-01-15T07:00:50",
+  "modified": "2025-04-23T05:56:56",
+  "modified_gmt": "2025-04-23T09:56:56",
+  "slug": "kmt-2022-blg-2286l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2022-blg-2286l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2022-BLG-2286L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      443849
+    ],
+    "exo_id": "KMT-2022-BLG-2286L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7320,
+    "st_j": "",
+    "st_mass": 0.2,
+    "dec": -28.8549194,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.16525,
+    "system_radius": 302187697.4,
+    "pl_hostname": "KMT-2022-BLG-2286L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/443840",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/443849"
+      }
+    ]
+  }
+}

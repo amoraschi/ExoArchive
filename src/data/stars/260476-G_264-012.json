@@ -1,1 +1,76 @@
-{"id":260476,"date":"2023-11-28T20:26:16","date_gmt":"2023-11-29T01:26:16","modified":"2025-04-23T05:53:19","modified_gmt":"2025-04-23T09:53:19","slug":"g_264-012","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/g_264-012/","featured_media":0,"categories":[],"acf":{"display_name":"G 264-012","custom_star_title":"","aliases":"","constellation":"Cepheus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243574,243575],"exo_id":"G_264-012","st_optmag":13.078,"st_vj":13.078,"st_dist":16.009,"st_j":13.078,"st_mass":0.297,"dec":66.803848,"st_teff":3326,"st_rad":0.305,"ra":326.6719598,"system_radius":7853888.175,"pl_hostname":"G_264-012","stellar_type":"M","tic_id":"TIC 322391844","magnitude":13.078},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260476","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243575"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243574"}]}}
+{
+  "id": 260476,
+  "date": "2023-11-28T20:26:16",
+  "date_gmt": "2023-11-29T01:26:16",
+  "modified": "2025-04-23T05:53:19",
+  "modified_gmt": "2025-04-23T09:53:19",
+  "slug": "g_264-012",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/g_264-012/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "G 264-012",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243574,
+      243575
+    ],
+    "exo_id": "G_264-012",
+    "st_optmag": 13.078,
+    "st_vj": 13.078,
+    "st_dist": 16.009,
+    "st_j": 13.078,
+    "st_mass": 0.297,
+    "dec": 66.803848,
+    "st_teff": 3326,
+    "st_rad": 0.305,
+    "ra": 326.6719598,
+    "system_radius": 7853888.175,
+    "pl_hostname": "G_264-012",
+    "stellar_type": "M",
+    "tic_id": "TIC 322391844",
+    "magnitude": 13.078
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260476",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243575"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243574"
+      }
+    ]
+  }
+}

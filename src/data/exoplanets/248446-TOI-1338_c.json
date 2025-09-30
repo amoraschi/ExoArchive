@@ -1,1 +1,79 @@
-{"id":248446,"date":"2023-03-31T20:15:17","date_gmt":"2023-04-01T00:15:17","modified":"2025-07-07T20:38:45","modified_gmt":"2025-07-08T00:38:45","slug":"toi-1338-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1338-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1338_A","pl_letter":"c","display_name":"TOI-1338 c","planet_radius":"0.92 x Jupiter (estimate)","derived_description":"TOI-1338 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.23723493 Jupiters, it takes 215.8 days to complete one orbit of its star, and is 0.794 AU from its star. Its discovery was announced in 2023.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":399.017,"planet_mass":"0.23723493 Jupiters","st_optmag":11.722,"discovery_date":"2023","pl_orbsmax":0.794,"period_display":"215.8 days","eccentricity":"0.04","star_id":260614,"pl_orbper":215.79,"pl_kepflag":false,"pl_radj":0.92,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":344.64,"multiple_planet_system":false,"pl_rade":10.3,"exo_id":"TOI-1338_c","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.037},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248446","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260614"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248446,
+  "date": "2023-03-31T20:15:17",
+  "date_gmt": "2023-04-01T00:15:17",
+  "modified": "2025-07-07T20:38:45",
+  "modified_gmt": "2025-07-08T00:38:45",
+  "slug": "toi-1338-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1338-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1338_A",
+    "pl_letter": "c",
+    "display_name": "TOI-1338 c",
+    "planet_radius": "0.92 x Jupiter (estimate)",
+    "derived_description": "TOI-1338 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.23723493 Jupiters, it takes 215.8 days to complete one orbit of its star, and is 0.794 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 399.017,
+    "planet_mass": "0.23723493 Jupiters",
+    "st_optmag": 11.722,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.794,
+    "period_display": "215.8 days",
+    "eccentricity": "0.04",
+    "star_id": 260614,
+    "pl_orbper": 215.79,
+    "pl_kepflag": false,
+    "pl_radj": 0.92,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 344.64,
+    "multiple_planet_system": false,
+    "pl_rade": 10.3,
+    "exo_id": "TOI-1338_c",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.037
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248446",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260614"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

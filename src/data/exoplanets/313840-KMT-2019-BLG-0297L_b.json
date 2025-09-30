@@ -1,1 +1,79 @@
-{"id":313840,"date":"2024-01-25T19:15:44","date_gmt":"2024-01-26T00:15:44","modified":"2024-10-24T22:18:54","modified_gmt":"2024-10-25T02:18:54","slug":"kmt-2019-blg-0297l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kmt-2019-blg-0297l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KMT-2019-BLG-0297L","pl_letter":"b","display_name":"KMT-2019-BLG-0297L b","planet_radius":"1.08 x Jupiter (estimate)","derived_description":"KMT-2019-BLG-0297L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 19 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 0.96 AU from its star. Its discovery was announced in 2023.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":3090,"planet_mass":"19 Jupiters","st_optmag":"","discovery_date":"2023","pl_orbsmax":0.96,"period_display":"2.1 years","eccentricity":"","star_id":313795,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.08,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.1,"exo_id":"KMT-2019-BLG-0297L_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313840","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/313795"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 313840,
+  "date": "2024-01-25T19:15:44",
+  "date_gmt": "2024-01-26T00:15:44",
+  "modified": "2024-10-24T22:18:54",
+  "modified_gmt": "2024-10-25T02:18:54",
+  "slug": "kmt-2019-blg-0297l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2019-blg-0297l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2019-BLG-0297L",
+    "pl_letter": "b",
+    "display_name": "KMT-2019-BLG-0297L b",
+    "planet_radius": "1.08 x Jupiter (estimate)",
+    "derived_description": "KMT-2019-BLG-0297L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 19 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 0.96 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 3090,
+    "planet_mass": "19 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.96,
+    "period_display": "2.1 years",
+    "eccentricity": "",
+    "star_id": 313795,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.08,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.1,
+    "exo_id": "KMT-2019-BLG-0297L_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313840",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313795"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

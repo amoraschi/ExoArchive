@@ -1,1 +1,71 @@
-{"id":263351,"date":"2023-11-28T21:02:33","date_gmt":"2023-11-29T02:02:33","modified":"2025-06-06T07:19:01","modified_gmt":"2025-06-06T11:19:01","slug":"k2-277","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-277/","featured_media":0,"categories":[],"acf":{"display_name":"K2-277","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244965],"exo_id":"K2-277","st_optmag":10.364,"st_vj":10.364,"st_dist":113.123,"st_j":10.364,"st_mass":0.974,"dec":-15.9379749,"st_teff":5680,"st_rad":0.973,"ra":202.0161895,"system_radius":9933298.568,"pl_hostname":"K2-277","stellar_type":"G","tic_id":"TIC 404421005","magnitude":10.364},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263351","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244965"}]}}
+{
+  "id": 263351,
+  "date": "2023-11-28T21:02:33",
+  "date_gmt": "2023-11-29T02:02:33",
+  "modified": "2025-06-06T07:19:01",
+  "modified_gmt": "2025-06-06T11:19:01",
+  "slug": "k2-277",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-277/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-277",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244965
+    ],
+    "exo_id": "K2-277",
+    "st_optmag": 10.364,
+    "st_vj": 10.364,
+    "st_dist": 113.123,
+    "st_j": 10.364,
+    "st_mass": 0.974,
+    "dec": -15.9379749,
+    "st_teff": 5680,
+    "st_rad": 0.973,
+    "ra": 202.0161895,
+    "system_radius": 9933298.568,
+    "pl_hostname": "K2-277",
+    "stellar_type": "G",
+    "tic_id": "TIC 404421005",
+    "magnitude": 10.364
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263351",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244965"
+      }
+    ]
+  }
+}

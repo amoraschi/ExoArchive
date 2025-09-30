@@ -1,1 +1,71 @@
-{"id":264485,"date":"2023-11-28T21:17:08","date_gmt":"2023-11-29T02:17:08","modified":"2025-04-23T05:54:04","modified_gmt":"2025-04-23T09:54:04","slug":"lhs_1478","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/lhs_1478/","featured_media":0,"categories":[],"acf":{"display_name":"LHS 1478","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248137],"exo_id":"LHS_1478","st_optmag":13.304,"st_vj":13.304,"st_dist":18.2276,"st_j":13.304,"st_mass":0.236,"dec":76.5514045,"st_teff":3381,"st_rad":0.246,"ra":44.3388743,"system_radius":2764568.6376,"pl_hostname":"LHS_1478","stellar_type":"M","tic_id":"TIC 396562848","magnitude":13.304},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264485","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248137"}]}}
+{
+  "id": 264485,
+  "date": "2023-11-28T21:17:08",
+  "date_gmt": "2023-11-29T02:17:08",
+  "modified": "2025-04-23T05:54:04",
+  "modified_gmt": "2025-04-23T09:54:04",
+  "slug": "lhs_1478",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/lhs_1478/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "LHS 1478",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248137
+    ],
+    "exo_id": "LHS_1478",
+    "st_optmag": 13.304,
+    "st_vj": 13.304,
+    "st_dist": 18.2276,
+    "st_j": 13.304,
+    "st_mass": 0.236,
+    "dec": 76.5514045,
+    "st_teff": 3381,
+    "st_rad": 0.246,
+    "ra": 44.3388743,
+    "system_radius": 2764568.6376,
+    "pl_hostname": "LHS_1478",
+    "stellar_type": "M",
+    "tic_id": "TIC 396562848",
+    "magnitude": 13.304
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264485",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248137"
+      }
+    ]
+  }
+}

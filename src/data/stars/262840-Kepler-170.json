@@ -1,1 +1,76 @@
-{"id":262840,"date":"2023-11-28T20:56:07","date_gmt":"2023-11-29T01:56:07","modified":"2025-04-23T05:53:21","modified_gmt":"2025-04-23T09:53:21","slug":"kepler-170","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-170/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-170","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246212,246213],"exo_id":"Kepler-170","st_optmag":14.344,"st_vj":14.344,"st_dist":738.657,"st_j":14.344,"st_mass":1.066,"dec":41.6296562,"st_teff":5679,"st_rad":1.035,"ra":284.5211975,"system_radius":19597320.97,"pl_hostname":"Kepler-170","stellar_type":"G","tic_id":"TIC 120253745","magnitude":14.344},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262840","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246213"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246212"}]}}
+{
+  "id": 262840,
+  "date": "2023-11-28T20:56:07",
+  "date_gmt": "2023-11-29T01:56:07",
+  "modified": "2025-04-23T05:53:21",
+  "modified_gmt": "2025-04-23T09:53:21",
+  "slug": "kepler-170",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-170/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-170",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246212,
+      246213
+    ],
+    "exo_id": "Kepler-170",
+    "st_optmag": 14.344,
+    "st_vj": 14.344,
+    "st_dist": 738.657,
+    "st_j": 14.344,
+    "st_mass": 1.066,
+    "dec": 41.6296562,
+    "st_teff": 5679,
+    "st_rad": 1.035,
+    "ra": 284.5211975,
+    "system_radius": 19597320.97,
+    "pl_hostname": "Kepler-170",
+    "stellar_type": "G",
+    "tic_id": "TIC 120253745",
+    "magnitude": 14.344
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262840",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246213"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246212"
+      }
+    ]
+  }
+}

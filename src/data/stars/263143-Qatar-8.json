@@ -1,1 +1,71 @@
-{"id":263143,"date":"2023-11-28T20:59:57","date_gmt":"2023-11-29T01:59:57","modified":"2025-04-23T05:53:37","modified_gmt":"2025-04-23T09:53:37","slug":"qatar-8","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/qatar-8/","featured_media":0,"categories":[],"acf":{"display_name":"Qatar-8","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248369],"exo_id":"Qatar-8","st_optmag":11.71,"st_vj":11.71,"st_dist":281.498,"st_j":11.71,"st_mass":1.029,"dec":70.5270835,"st_teff":5738,"st_rad":1.315,"ra":157.4123405,"system_radius":7090939.038,"pl_hostname":"Qatar-8","stellar_type":"G","tic_id":"TIC 103751498","magnitude":11.71},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263143","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248369"}]}}
+{
+  "id": 263143,
+  "date": "2023-11-28T20:59:57",
+  "date_gmt": "2023-11-29T01:59:57",
+  "modified": "2025-04-23T05:53:37",
+  "modified_gmt": "2025-04-23T09:53:37",
+  "slug": "qatar-8",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/qatar-8/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Qatar-8",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248369
+    ],
+    "exo_id": "Qatar-8",
+    "st_optmag": 11.71,
+    "st_vj": 11.71,
+    "st_dist": 281.498,
+    "st_j": 11.71,
+    "st_mass": 1.029,
+    "dec": 70.5270835,
+    "st_teff": 5738,
+    "st_rad": 1.315,
+    "ra": 157.4123405,
+    "system_radius": 7090939.038,
+    "pl_hostname": "Qatar-8",
+    "stellar_type": "G",
+    "tic_id": "TIC 103751498",
+    "magnitude": 11.71
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263143",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248369"
+      }
+    ]
+  }
+}

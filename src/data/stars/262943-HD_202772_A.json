@@ -1,1 +1,71 @@
-{"id":262943,"date":"2023-11-28T20:57:26","date_gmt":"2023-11-29T01:57:26","modified":"2025-04-23T05:53:27","modified_gmt":"2025-04-23T09:53:27","slug":"hd_202772_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_202772_a/","featured_media":0,"categories":[],"acf":{"display_name":"HD 202772 A","custom_star_title":"","aliases":"","constellation":"Capricornus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244227],"exo_id":"HD_202772_A","st_optmag":8.324,"st_vj":8.324,"st_dist":161.498,"st_j":8.324,"st_mass":1.72,"dec":-26.6163743,"st_teff":6272,"st_rad":2.591,"ra":319.6995877,"system_radius":7791057.0696,"pl_hostname":"HD_202772_A","stellar_type":"F","tic_id":"TIC 290131778","magnitude":8.324},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262943","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244227"}]}}
+{
+  "id": 262943,
+  "date": "2023-11-28T20:57:26",
+  "date_gmt": "2023-11-29T01:57:26",
+  "modified": "2025-04-23T05:53:27",
+  "modified_gmt": "2025-04-23T09:53:27",
+  "slug": "hd_202772_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_202772_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 202772 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Capricornus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244227
+    ],
+    "exo_id": "HD_202772_A",
+    "st_optmag": 8.324,
+    "st_vj": 8.324,
+    "st_dist": 161.498,
+    "st_j": 8.324,
+    "st_mass": 1.72,
+    "dec": -26.6163743,
+    "st_teff": 6272,
+    "st_rad": 2.591,
+    "ra": 319.6995877,
+    "system_radius": 7791057.0696,
+    "pl_hostname": "HD_202772_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 290131778",
+    "magnitude": 8.324
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262943",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244227"
+      }
+    ]
+  }
+}

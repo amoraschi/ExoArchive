@@ -1,1 +1,79 @@
-{"id":248234,"date":"2017-12-02T12:25:47","date_gmt":"2017-12-02T17:25:47","modified":"2024-10-25T10:05:56","modified_gmt":"2024-10-25T14:05:56","slug":"ogle-2005-blg-390l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2005-blg-390l-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2005-BLG-390L","pl_letter":"b","display_name":"OGLE-2005-BLG-390L b","planet_radius":"2.21 x Earth (estimate)","derived_description":"OGLE-2005-BLG-390L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 5.5 Earths, it takes 9 years to complete one orbit of its star, and is 2.6 AU from its star. Its discovery was announced in 2005.","planet_type":"Neptune-like","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":6600,"planet_mass":"5.5 Earths","st_optmag":"","discovery_date":"2005","pl_orbsmax":2.6,"period_display":"9 years","eccentricity":"","star_id":261935,"pl_orbper":3285,"pl_kepflag":false,"pl_radj":0.197,"pl_disc":2005,"pl_publ_date":"2005","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.21,"exo_id":"OGLE-2005-BLG-390L_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248234","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261935"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248234,
+  "date": "2017-12-02T12:25:47",
+  "date_gmt": "2017-12-02T17:25:47",
+  "modified": "2024-10-25T10:05:56",
+  "modified_gmt": "2024-10-25T14:05:56",
+  "slug": "ogle-2005-blg-390l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2005-blg-390l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2005-BLG-390L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2005-BLG-390L b",
+    "planet_radius": "2.21 x Earth (estimate)",
+    "derived_description": "OGLE-2005-BLG-390L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 5.5 Earths, it takes 9 years to complete one orbit of its star, and is 2.6 AU from its star. Its discovery was announced in 2005.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 6600,
+    "planet_mass": "5.5 Earths",
+    "st_optmag": "",
+    "discovery_date": "2005",
+    "pl_orbsmax": 2.6,
+    "period_display": "9 years",
+    "eccentricity": "",
+    "star_id": 261935,
+    "pl_orbper": 3285,
+    "pl_kepflag": false,
+    "pl_radj": 0.197,
+    "pl_disc": 2005,
+    "pl_publ_date": "2005",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.21,
+    "exo_id": "OGLE-2005-BLG-390L_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248234",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261935"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

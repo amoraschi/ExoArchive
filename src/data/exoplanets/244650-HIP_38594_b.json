@@ -1,1 +1,79 @@
-{"id":244650,"date":"2020-09-04T13:27:14","date_gmt":"2020-09-04T17:27:14","modified":"2025-07-07T17:22:44","modified_gmt":"2025-07-07T21:22:44","slug":"hip-38594-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-38594-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HIP_38594","pl_letter":"b","display_name":"HIP 38594 b","planet_radius":"0.247 x Jupiter (estimate)","derived_description":"HIP 38594 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.1 Earths, it takes 60.7 days to complete one orbit of its star, and is 0.256 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":17.7886,"planet_mass":"8.1 Earths","st_optmag":9.75,"discovery_date":"2020","pl_orbsmax":0.256,"period_display":"60.7 days","eccentricity":"0.17","star_id":260987,"pl_orbper":60.722,"pl_kepflag":false,"pl_radj":0.247,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":125,"multiple_planet_system":false,"pl_rade":2.77,"exo_id":"HIP_38594_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.17},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244650","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260987"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244650,
+  "date": "2020-09-04T13:27:14",
+  "date_gmt": "2020-09-04T17:27:14",
+  "modified": "2025-07-07T17:22:44",
+  "modified_gmt": "2025-07-07T21:22:44",
+  "slug": "hip-38594-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-38594-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_38594",
+    "pl_letter": "b",
+    "display_name": "HIP 38594 b",
+    "planet_radius": "0.247 x Jupiter (estimate)",
+    "derived_description": "HIP 38594 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.1 Earths, it takes 60.7 days to complete one orbit of its star, and is 0.256 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 17.7886,
+    "planet_mass": "8.1 Earths",
+    "st_optmag": 9.75,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.256,
+    "period_display": "60.7 days",
+    "eccentricity": "0.17",
+    "star_id": 260987,
+    "pl_orbper": 60.722,
+    "pl_kepflag": false,
+    "pl_radj": 0.247,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 125,
+    "multiple_planet_system": false,
+    "pl_rade": 2.77,
+    "exo_id": "HIP_38594_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.17
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244650",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260987"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

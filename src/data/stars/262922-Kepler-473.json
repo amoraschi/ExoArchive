@@ -1,1 +1,71 @@
-{"id":262922,"date":"2023-11-28T20:57:10","date_gmt":"2023-11-29T01:57:10","modified":"2025-04-23T05:55:01","modified_gmt":"2025-04-23T09:55:01","slug":"kepler-473","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-473/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-473","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247275],"exo_id":"Kepler-473","st_optmag":13.548,"st_vj":13.548,"st_dist":905.937,"st_j":13.548,"st_mass":1.06,"dec":38.9455907,"st_teff":5816,"st_rad":1.34,"ra":286.6300796,"system_radius":18023551.3776,"pl_hostname":"Kepler-473","stellar_type":"G","tic_id":"TIC 120961632","magnitude":13.548},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262922","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247275"}]}}
+{
+  "id": 262922,
+  "date": "2023-11-28T20:57:10",
+  "date_gmt": "2023-11-29T01:57:10",
+  "modified": "2025-04-23T05:55:01",
+  "modified_gmt": "2025-04-23T09:55:01",
+  "slug": "kepler-473",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-473/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-473",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247275
+    ],
+    "exo_id": "Kepler-473",
+    "st_optmag": 13.548,
+    "st_vj": 13.548,
+    "st_dist": 905.937,
+    "st_j": 13.548,
+    "st_mass": 1.06,
+    "dec": 38.9455907,
+    "st_teff": 5816,
+    "st_rad": 1.34,
+    "ra": 286.6300796,
+    "system_radius": 18023551.3776,
+    "pl_hostname": "Kepler-473",
+    "stellar_type": "G",
+    "tic_id": "TIC 120961632",
+    "magnitude": 13.548
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262922",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247275"
+      }
+    ]
+  }
+}

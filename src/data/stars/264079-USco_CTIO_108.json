@@ -1,1 +1,71 @@
-{"id":264079,"date":"2023-11-28T21:11:55","date_gmt":"2023-11-29T02:11:55","modified":"2025-04-23T05:57:15","modified_gmt":"2025-04-23T09:57:15","slug":"usco_ctio_108","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/usco_ctio_108/","featured_media":0,"categories":[],"acf":{"display_name":"USco CTIO 108","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248734],"exo_id":"USco_CTIO_108","st_optmag":"","st_vj":"","st_dist":144.019,"st_j":"","st_mass":0.06,"dec":-18.3124167,"st_teff":2700,"st_rad":0.345365,"ra":241.4752653,"system_radius":100230572900,"pl_hostname":"USco_CTIO_108","stellar_type":"M","tic_id":"TIC 48666170","magnitude":17.4229},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264079","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248734"}]}}
+{
+  "id": 264079,
+  "date": "2023-11-28T21:11:55",
+  "date_gmt": "2023-11-29T02:11:55",
+  "modified": "2025-04-23T05:57:15",
+  "modified_gmt": "2025-04-23T09:57:15",
+  "slug": "usco_ctio_108",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/usco_ctio_108/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "USco CTIO 108",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248734
+    ],
+    "exo_id": "USco_CTIO_108",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 144.019,
+    "st_j": "",
+    "st_mass": 0.06,
+    "dec": -18.3124167,
+    "st_teff": 2700,
+    "st_rad": 0.345365,
+    "ra": 241.4752653,
+    "system_radius": 100230572900,
+    "pl_hostname": "USco_CTIO_108",
+    "stellar_type": "M",
+    "tic_id": "TIC 48666170",
+    "magnitude": 17.4229
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264079",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248734"
+      }
+    ]
+  }
+}

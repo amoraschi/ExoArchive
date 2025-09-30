@@ -1,1 +1,71 @@
-{"id":406605,"date":"2024-07-15T21:47:27","date_gmt":"2024-07-16T01:47:27","modified":"2025-04-23T05:53:16","modified_gmt":"2025-04-23T09:53:16","slug":"toi-669","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-669/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-669","custom_star_title":"","aliases":"","constellation":"Sextans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[406620],"exo_id":"TOI-669","st_optmag":10.606,"st_vj":10.606,"st_dist":142.867,"st_j":10.606,"st_mass":0.9245,"dec":-5.1813735,"st_teff":5597,"st_rad":0.9882,"ra":158.9007013,"system_radius":7180697.76,"pl_hostname":"TOI-669","stellar_type":"G","tic_id":"TIC 124573851","magnitude":10.606},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/406605","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/406620"}]}}
+{
+  "id": 406605,
+  "date": "2024-07-15T21:47:27",
+  "date_gmt": "2024-07-16T01:47:27",
+  "modified": "2025-04-23T05:53:16",
+  "modified_gmt": "2025-04-23T09:53:16",
+  "slug": "toi-669",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-669/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-669",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sextans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      406620
+    ],
+    "exo_id": "TOI-669",
+    "st_optmag": 10.606,
+    "st_vj": 10.606,
+    "st_dist": 142.867,
+    "st_j": 10.606,
+    "st_mass": 0.9245,
+    "dec": -5.1813735,
+    "st_teff": 5597,
+    "st_rad": 0.9882,
+    "ra": 158.9007013,
+    "system_radius": 7180697.76,
+    "pl_hostname": "TOI-669",
+    "stellar_type": "G",
+    "tic_id": "TIC 124573851",
+    "magnitude": 10.606
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406605",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/406620"
+      }
+    ]
+  }
+}

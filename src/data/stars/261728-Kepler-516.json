@@ -1,1 +1,71 @@
-{"id":261728,"date":"2023-11-28T20:41:58","date_gmt":"2023-11-29T01:41:58","modified":"2025-04-23T05:55:44","modified_gmt":"2025-04-23T09:55:44","slug":"kepler-516","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-516/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-516","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247334],"exo_id":"Kepler-516","st_optmag":12.121,"st_vj":12.121,"st_dist":687.094,"st_j":12.121,"st_mass":1.62,"dec":38.7357368,"st_teff":7099,"st_rad":2.02,"ra":295.6087625,"system_radius":29799895.704,"pl_hostname":"Kepler-516","stellar_type":"F","tic_id":"TIC 184085929","magnitude":12.121},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261728","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247334"}]}}
+{
+  "id": 261728,
+  "date": "2023-11-28T20:41:58",
+  "date_gmt": "2023-11-29T01:41:58",
+  "modified": "2025-04-23T05:55:44",
+  "modified_gmt": "2025-04-23T09:55:44",
+  "slug": "kepler-516",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-516/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-516",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247334
+    ],
+    "exo_id": "Kepler-516",
+    "st_optmag": 12.121,
+    "st_vj": 12.121,
+    "st_dist": 687.094,
+    "st_j": 12.121,
+    "st_mass": 1.62,
+    "dec": 38.7357368,
+    "st_teff": 7099,
+    "st_rad": 2.02,
+    "ra": 295.6087625,
+    "system_radius": 29799895.704,
+    "pl_hostname": "Kepler-516",
+    "stellar_type": "F",
+    "tic_id": "TIC 184085929",
+    "magnitude": 12.121
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261728",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247334"
+      }
+    ]
+  }
+}

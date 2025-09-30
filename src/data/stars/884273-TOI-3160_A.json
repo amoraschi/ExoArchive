@@ -1,1 +1,77 @@
-{"id":884273,"date":"2025-07-29T20:42:23","date_gmt":"2025-07-30T00:42:23","modified":"2025-07-29T20:42:23","modified_gmt":"2025-07-30T00:42:23","slug":"toi-3160-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3160-a/","featured_media":429647,"categories":[],"acf":{"display_name":"TOI-3160 A","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[884314],"exo_id":"TOI-3160_A","st_optmag":12.649,"st_vj":12.649,"st_dist":567.678,"st_j":12.649,"st_mass":1.088,"dec":-27.6825503,"st_teff":6190,"st_rad":1.346,"ra":224.5658555,"system_radius":7554692.435,"pl_hostname":"TOI-3160_A","stellar_type":"F","tic_id":"TIC 440872576","magnitude":12.649},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/884273","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884314"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 884273,
+  "date": "2025-07-29T20:42:23",
+  "date_gmt": "2025-07-30T00:42:23",
+  "modified": "2025-07-29T20:42:23",
+  "modified_gmt": "2025-07-30T00:42:23",
+  "slug": "toi-3160-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3160-a/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3160 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      884314
+    ],
+    "exo_id": "TOI-3160_A",
+    "st_optmag": 12.649,
+    "st_vj": 12.649,
+    "st_dist": 567.678,
+    "st_j": 12.649,
+    "st_mass": 1.088,
+    "dec": -27.6825503,
+    "st_teff": 6190,
+    "st_rad": 1.346,
+    "ra": 224.5658555,
+    "system_radius": 7554692.435,
+    "pl_hostname": "TOI-3160_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 440872576",
+    "magnitude": 12.649
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884273",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884314"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

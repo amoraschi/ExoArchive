@@ -1,1 +1,79 @@
-{"id":243628,"date":"2023-06-29T15:31:55","date_gmt":"2023-06-29T19:31:55","modified":"2025-07-07T20:37:40","modified_gmt":"2025-07-08T00:37:40","slug":"gj-328-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-328-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_328","pl_letter":"c","display_name":"GJ 328 c","planet_radius":"0.438 x Jupiter (estimate)","derived_description":"GJ 328 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 21.4 Earths, it takes 241.8 days to complete one orbit of its star, and is 0.657 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Roque de los Muchachos Observatory","st_dist":20.5266,"planet_mass":"21.4 Earths","st_optmag":9.99,"discovery_date":"2023","pl_orbsmax":0.657,"period_display":"241.8 days","eccentricity":"","star_id":260650,"pl_orbper":241.8,"pl_kepflag":false,"pl_radj":0.438,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":4.91,"exo_id":"GJ_328_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243628","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260650"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243628,
+  "date": "2023-06-29T15:31:55",
+  "date_gmt": "2023-06-29T19:31:55",
+  "modified": "2025-07-07T20:37:40",
+  "modified_gmt": "2025-07-08T00:37:40",
+  "slug": "gj-328-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-328-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_328",
+    "pl_letter": "c",
+    "display_name": "GJ 328 c",
+    "planet_radius": "0.438 x Jupiter (estimate)",
+    "derived_description": "GJ 328 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 21.4 Earths, it takes 241.8 days to complete one orbit of its star, and is 0.657 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Roque de los Muchachos Observatory",
+    "st_dist": 20.5266,
+    "planet_mass": "21.4 Earths",
+    "st_optmag": 9.99,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.657,
+    "period_display": "241.8 days",
+    "eccentricity": "",
+    "star_id": 260650,
+    "pl_orbper": 241.8,
+    "pl_kepflag": false,
+    "pl_radj": 0.438,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.91,
+    "exo_id": "GJ_328_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243628",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260650"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

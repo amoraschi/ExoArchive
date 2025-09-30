@@ -1,1 +1,79 @@
-{"id":248144,"date":"2019-04-22T16:48:57","date_gmt":"2019-04-22T20:48:57","modified":"2025-07-07T15:26:00","modified_gmt":"2025-07-07T19:26:00","slug":"lkca-15-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/lkca-15-c/","featured_media":264678,"categories":[2014,2013],"acf":{"pl_hostname":"LkCa_15","pl_letter":"c","display_name":"LkCa 15 c","planet_radius":"Unknown","derived_description":"LkCa 15 c is a unknown exoplanet that orbits a K-type star. Its mass is Unknown, it takes 365 days to complete one orbit of its star, and is 18.6 AU from its star. Its discovery was announced in 2015.","planet_type":"Unknown","pl_discmethod":"Imaging","pl_facility":"Large Binocular Telescope Observatory","st_dist":158.152,"planet_mass":"Unknown","st_optmag":12.025,"discovery_date":"2015","pl_orbsmax":18.6,"period_display":"365 days","eccentricity":"","star_id":260779,"pl_orbper":"","pl_kepflag":false,"pl_radj":"","pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":"","exo_id":"LkCa_15_c","planet_size_class":"Unknown","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248144","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260779"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/264678"}]}}
+{
+  "id": 248144,
+  "date": "2019-04-22T16:48:57",
+  "date_gmt": "2019-04-22T20:48:57",
+  "modified": "2025-07-07T15:26:00",
+  "modified_gmt": "2025-07-07T19:26:00",
+  "slug": "lkca-15-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/lkca-15-c/",
+  "featured_media": 264678,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LkCa_15",
+    "pl_letter": "c",
+    "display_name": "LkCa 15 c",
+    "planet_radius": "Unknown",
+    "derived_description": "LkCa 15 c is a unknown exoplanet that orbits a K-type star. Its mass is Unknown, it takes 365 days to complete one orbit of its star, and is 18.6 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Unknown",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "Large Binocular Telescope Observatory",
+    "st_dist": 158.152,
+    "planet_mass": "Unknown",
+    "st_optmag": 12.025,
+    "discovery_date": "2015",
+    "pl_orbsmax": 18.6,
+    "period_display": "365 days",
+    "eccentricity": "",
+    "star_id": 260779,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": "",
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": "",
+    "exo_id": "LkCa_15_c",
+    "planet_size_class": "Unknown",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248144",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260779"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/264678"
+      }
+    ]
+  }
+}

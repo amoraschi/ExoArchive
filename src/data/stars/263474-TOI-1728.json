@@ -1,1 +1,71 @@
-{"id":263474,"date":"2023-11-28T21:04:07","date_gmt":"2023-11-29T02:04:07","modified":"2025-04-23T05:56:12","modified_gmt":"2025-04-23T09:56:12","slug":"toi-1728","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1728/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1728","custom_star_title":"","aliases":"","constellation":"Camelopardalis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248482],"exo_id":"TOI-1728","st_optmag":12.39,"st_vj":12.39,"st_dist":60.798,"st_j":12.39,"st_mass":0.646,"dec":64.7971531,"st_teff":3980,"st_rad":0.6243,"ra":120.6116787,"system_radius":5849276.717,"pl_hostname":"TOI-1728","stellar_type":"K","tic_id":"TIC 285048486","magnitude":12.39},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263474","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248482"}]}}
+{
+  "id": 263474,
+  "date": "2023-11-28T21:04:07",
+  "date_gmt": "2023-11-29T02:04:07",
+  "modified": "2025-04-23T05:56:12",
+  "modified_gmt": "2025-04-23T09:56:12",
+  "slug": "toi-1728",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1728/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1728",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Camelopardalis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248482
+    ],
+    "exo_id": "TOI-1728",
+    "st_optmag": 12.39,
+    "st_vj": 12.39,
+    "st_dist": 60.798,
+    "st_j": 12.39,
+    "st_mass": 0.646,
+    "dec": 64.7971531,
+    "st_teff": 3980,
+    "st_rad": 0.6243,
+    "ra": 120.6116787,
+    "system_radius": 5849276.717,
+    "pl_hostname": "TOI-1728",
+    "stellar_type": "K",
+    "tic_id": "TIC 285048486",
+    "magnitude": 12.39
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263474",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248482"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262364,"date":"2023-11-28T20:50:03","date_gmt":"2023-11-29T01:50:03","modified":"2025-04-23T05:56:17","modified_gmt":"2025-04-23T09:56:17","slug":"toi-1789","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1789/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1789","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248488],"exo_id":"TOI-1789","st_optmag":9.721,"st_vj":9.721,"st_dist":229.067,"st_j":9.721,"st_mass":1.507,"dec":26.5399951,"st_teff":5991,"st_rad":2.168,"ra":142.743406,"system_radius":7303368.0134,"pl_hostname":"TOI-1789","stellar_type":"F","tic_id":"TIC 172518755","magnitude":9.721},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262364","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248488"}]}}
+{
+  "id": 262364,
+  "date": "2023-11-28T20:50:03",
+  "date_gmt": "2023-11-29T01:50:03",
+  "modified": "2025-04-23T05:56:17",
+  "modified_gmt": "2025-04-23T09:56:17",
+  "slug": "toi-1789",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1789/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1789",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248488
+    ],
+    "exo_id": "TOI-1789",
+    "st_optmag": 9.721,
+    "st_vj": 9.721,
+    "st_dist": 229.067,
+    "st_j": 9.721,
+    "st_mass": 1.507,
+    "dec": 26.5399951,
+    "st_teff": 5991,
+    "st_rad": 2.168,
+    "ra": 142.743406,
+    "system_radius": 7303368.0134,
+    "pl_hostname": "TOI-1789",
+    "stellar_type": "F",
+    "tic_id": "TIC 172518755",
+    "magnitude": 9.721
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262364",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248488"
+      }
+    ]
+  }
+}

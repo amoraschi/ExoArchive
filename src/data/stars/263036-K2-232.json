@@ -1,1 +1,71 @@
-{"id":263036,"date":"2023-11-28T20:58:36","date_gmt":"2023-11-29T01:58:36","modified":"2025-04-23T05:56:12","modified_gmt":"2025-04-23T09:56:12","slug":"k2-232","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-232/","featured_media":0,"categories":[],"acf":{"display_name":"K2-232","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244903],"exo_id":"K2-232","st_optmag":9.822,"st_vj":9.822,"st_dist":130.72,"st_j":9.822,"st_mass":1.188,"dec":18.654323,"st_teff":6154,"st_rad":1.161,"ra":73.7667927,"system_radius":15492355.4172,"pl_hostname":"K2-232","stellar_type":"F","tic_id":"TIC 68577662","magnitude":9.822},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263036","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244903"}]}}
+{
+  "id": 263036,
+  "date": "2023-11-28T20:58:36",
+  "date_gmt": "2023-11-29T01:58:36",
+  "modified": "2025-04-23T05:56:12",
+  "modified_gmt": "2025-04-23T09:56:12",
+  "slug": "k2-232",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-232/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-232",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244903
+    ],
+    "exo_id": "K2-232",
+    "st_optmag": 9.822,
+    "st_vj": 9.822,
+    "st_dist": 130.72,
+    "st_j": 9.822,
+    "st_mass": 1.188,
+    "dec": 18.654323,
+    "st_teff": 6154,
+    "st_rad": 1.161,
+    "ra": 73.7667927,
+    "system_radius": 15492355.4172,
+    "pl_hostname": "K2-232",
+    "stellar_type": "F",
+    "tic_id": "TIC 68577662",
+    "magnitude": 9.822
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263036",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244903"
+      }
+    ]
+  }
+}

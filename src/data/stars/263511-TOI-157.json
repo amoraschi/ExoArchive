@@ -1,1 +1,71 @@
-{"id":263511,"date":"2023-11-28T21:04:35","date_gmt":"2023-11-29T02:04:35","modified":"2025-04-23T05:56:13","modified_gmt":"2025-04-23T09:56:13","slug":"toi-157","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-157/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-157","custom_star_title":"","aliases":"","constellation":"Mensa","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248465],"exo_id":"TOI-157","st_optmag":12.725,"st_vj":12.725,"st_dist":355.683,"st_j":12.725,"st_mass":0.948,"dec":-76.6806061,"st_teff":5404,"st_rad":1.167,"ra":73.7014398,"system_radius":4694381.1606,"pl_hostname":"TOI-157","stellar_type":"G","tic_id":"TIC 140691463","magnitude":12.725},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263511","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248465"}]}}
+{
+  "id": 263511,
+  "date": "2023-11-28T21:04:35",
+  "date_gmt": "2023-11-29T02:04:35",
+  "modified": "2025-04-23T05:56:13",
+  "modified_gmt": "2025-04-23T09:56:13",
+  "slug": "toi-157",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-157/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-157",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248465
+    ],
+    "exo_id": "TOI-157",
+    "st_optmag": 12.725,
+    "st_vj": 12.725,
+    "st_dist": 355.683,
+    "st_j": 12.725,
+    "st_mass": 0.948,
+    "dec": -76.6806061,
+    "st_teff": 5404,
+    "st_rad": 1.167,
+    "ra": 73.7014398,
+    "system_radius": 4694381.1606,
+    "pl_hostname": "TOI-157",
+    "stellar_type": "G",
+    "tic_id": "TIC 140691463",
+    "magnitude": 12.725
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263511",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248465"
+      }
+    ]
+  }
+}

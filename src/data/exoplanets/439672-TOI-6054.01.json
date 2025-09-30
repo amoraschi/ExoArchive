@@ -1,1 +1,79 @@
-{"id":439672,"date":"2024-12-13T02:36:49","date_gmt":"2024-12-13T07:36:49","modified":"2025-09-17T23:33:20","modified_gmt":"2025-09-18T03:33:20","slug":"toi-6054-01","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-6054-01/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-6054","pl_letter":"b","display_name":"TOI-6054.01","planet_radius":"2.64 x Earth","derived_description":"TOI-6054.01 is a super Earth exoplanet that orbits a F-type star. Its mass is 12.5 Earths, it takes 7.5 days to complete one orbit of its star, and is 0.0763 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":79.407,"planet_mass":"12.5 Earths","st_optmag":8.020001,"discovery_date":"2024","pl_orbsmax":0.0763,"period_display":"7.5 days","eccentricity":"0.16","star_id":439629,"pl_orbper":7.501428,"pl_kepflag":false,"pl_radj":0.23552543,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":-13,"multiple_planet_system":false,"pl_rade":2.64,"exo_id":"TOI-6054.01","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.164},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439672","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/439629"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 439672,
+  "date": "2024-12-13T02:36:49",
+  "date_gmt": "2024-12-13T07:36:49",
+  "modified": "2025-09-17T23:33:20",
+  "modified_gmt": "2025-09-18T03:33:20",
+  "slug": "toi-6054-01",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-6054-01/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-6054",
+    "pl_letter": "b",
+    "display_name": "TOI-6054.01",
+    "planet_radius": "2.64 x Earth",
+    "derived_description": "TOI-6054.01 is a super Earth exoplanet that orbits a F-type star. Its mass is 12.5 Earths, it takes 7.5 days to complete one orbit of its star, and is 0.0763 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 79.407,
+    "planet_mass": "12.5 Earths",
+    "st_optmag": 8.020001,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0763,
+    "period_display": "7.5 days",
+    "eccentricity": "0.16",
+    "star_id": 439629,
+    "pl_orbper": 7.501428,
+    "pl_kepflag": false,
+    "pl_radj": 0.23552543,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": -13,
+    "multiple_planet_system": false,
+    "pl_rade": 2.64,
+    "exo_id": "TOI-6054.01",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.164
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439672",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439629"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

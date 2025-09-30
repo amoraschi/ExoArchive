@@ -1,1 +1,76 @@
-{"id":262832,"date":"2023-11-28T20:56:01","date_gmt":"2023-11-29T01:56:01","modified":"2025-04-23T05:56:32","modified_gmt":"2025-04-23T09:56:32","slug":"kmt-2020-blg-0414l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2020-blg-0414l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2020-BLG-0414L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248074,248075],"exo_id":"KMT-2020-BLG-0414L","st_optmag":"","st_vj":"","st_dist":800,"st_j":"","st_mass":0.259,"dec":-28.4852222,"st_teff":"","st_rad":"","ra":271.915,"system_radius":188493316.2,"pl_hostname":"KMT-2020-BLG-0414L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262832","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248075"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248074"}]}}
+{
+  "id": 262832,
+  "date": "2023-11-28T20:56:01",
+  "date_gmt": "2023-11-29T01:56:01",
+  "modified": "2025-04-23T05:56:32",
+  "modified_gmt": "2025-04-23T09:56:32",
+  "slug": "kmt-2020-blg-0414l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2020-blg-0414l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2020-BLG-0414L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248074,
+      248075
+    ],
+    "exo_id": "KMT-2020-BLG-0414L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 800,
+    "st_j": "",
+    "st_mass": 0.259,
+    "dec": -28.4852222,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.915,
+    "system_radius": 188493316.2,
+    "pl_hostname": "KMT-2020-BLG-0414L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262832",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248075"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248074"
+      }
+    ]
+  }
+}

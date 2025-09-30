@@ -1,1 +1,76 @@
-{"id":261050,"date":"2023-11-28T20:33:25","date_gmt":"2023-11-29T01:33:25","modified":"2025-04-23T05:53:38","modified_gmt":"2025-04-23T09:53:38","slug":"kepler-1991","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1991/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1991","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246588,246589],"exo_id":"Kepler-1991","st_optmag":15.048,"st_vj":15.048,"st_dist":855.82,"st_j":15.048,"st_mass":0.914,"dec":45.0709909,"st_teff":5478,"st_rad":1.053,"ra":285.0360506,"system_radius":22858554.536,"pl_hostname":"Kepler-1991","stellar_type":"G","tic_id":"TIC 164831457","magnitude":15.048},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261050","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246589"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246588"}]}}
+{
+  "id": 261050,
+  "date": "2023-11-28T20:33:25",
+  "date_gmt": "2023-11-29T01:33:25",
+  "modified": "2025-04-23T05:53:38",
+  "modified_gmt": "2025-04-23T09:53:38",
+  "slug": "kepler-1991",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1991/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1991",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246588,
+      246589
+    ],
+    "exo_id": "Kepler-1991",
+    "st_optmag": 15.048,
+    "st_vj": 15.048,
+    "st_dist": 855.82,
+    "st_j": 15.048,
+    "st_mass": 0.914,
+    "dec": 45.0709909,
+    "st_teff": 5478,
+    "st_rad": 1.053,
+    "ra": 285.0360506,
+    "system_radius": 22858554.536,
+    "pl_hostname": "Kepler-1991",
+    "stellar_type": "G",
+    "tic_id": "TIC 164831457",
+    "magnitude": 15.048
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261050",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246589"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246588"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263947,"date":"2023-11-28T21:10:15","date_gmt":"2023-11-29T02:10:15","modified":"2025-04-23T05:54:50","modified_gmt":"2025-04-23T09:54:50","slug":"k2-280","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-280/","featured_media":0,"categories":[],"acf":{"display_name":"K2-280","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244969],"exo_id":"K2-280","st_optmag":12.524,"st_vj":12.524,"st_dist":391.537,"st_j":12.524,"st_mass":1.03,"dec":-22.2477071,"st_teff":5500,"st_rad":1.28,"ra":291.5953596,"system_radius":21856248.807,"pl_hostname":"K2-280","stellar_type":"G","tic_id":"TIC 119605900","magnitude":12.524},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263947","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244969"}]}}
+{
+  "id": 263947,
+  "date": "2023-11-28T21:10:15",
+  "date_gmt": "2023-11-29T02:10:15",
+  "modified": "2025-04-23T05:54:50",
+  "modified_gmt": "2025-04-23T09:54:50",
+  "slug": "k2-280",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-280/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-280",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244969
+    ],
+    "exo_id": "K2-280",
+    "st_optmag": 12.524,
+    "st_vj": 12.524,
+    "st_dist": 391.537,
+    "st_j": 12.524,
+    "st_mass": 1.03,
+    "dec": -22.2477071,
+    "st_teff": 5500,
+    "st_rad": 1.28,
+    "ra": 291.5953596,
+    "system_radius": 21856248.807,
+    "pl_hostname": "K2-280",
+    "stellar_type": "G",
+    "tic_id": "TIC 119605900",
+    "magnitude": 12.524
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263947",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244969"
+      }
+    ]
+  }
+}

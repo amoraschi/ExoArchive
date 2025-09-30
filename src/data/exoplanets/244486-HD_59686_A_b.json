@@ -1,1 +1,79 @@
-{"id":244486,"date":"2019-04-22T16:49:26","date_gmt":"2019-04-22T20:49:26","modified":"2024-10-24T18:58:09","modified_gmt":"2024-10-24T22:58:09","slug":"hd-59686-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-59686-a-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_59686_A","pl_letter":"b","display_name":"HD 59686 A b","planet_radius":"1.13 x Jupiter (estimate)","derived_description":"HD 59686 A b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.92 Jupiters, it takes 299.4 days to complete one orbit of its star, and is 1.086 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Lick Observatory","st_dist":89.2721,"planet_mass":"6.92 Jupiters","st_optmag":5.44299,"discovery_date":"2016","pl_orbsmax":1.086,"period_display":"299.4 days","eccentricity":"0.05","star_id":263264,"pl_orbper":299.36,"pl_kepflag":false,"pl_radj":1.13,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":121,"multiple_planet_system":false,"pl_rade":12.7,"exo_id":"HD_59686_A_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244486","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263264"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244486,
+  "date": "2019-04-22T16:49:26",
+  "date_gmt": "2019-04-22T20:49:26",
+  "modified": "2024-10-24T18:58:09",
+  "modified_gmt": "2024-10-24T22:58:09",
+  "slug": "hd-59686-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-59686-a-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_59686_A",
+    "pl_letter": "b",
+    "display_name": "HD 59686 A b",
+    "planet_radius": "1.13 x Jupiter (estimate)",
+    "derived_description": "HD 59686 A b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.92 Jupiters, it takes 299.4 days to complete one orbit of its star, and is 1.086 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Lick Observatory",
+    "st_dist": 89.2721,
+    "planet_mass": "6.92 Jupiters",
+    "st_optmag": 5.44299,
+    "discovery_date": "2016",
+    "pl_orbsmax": 1.086,
+    "period_display": "299.4 days",
+    "eccentricity": "0.05",
+    "star_id": 263264,
+    "pl_orbper": 299.36,
+    "pl_kepflag": false,
+    "pl_radj": 1.13,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 121,
+    "multiple_planet_system": false,
+    "pl_rade": 12.7,
+    "exo_id": "HD_59686_A_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244486",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263264"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

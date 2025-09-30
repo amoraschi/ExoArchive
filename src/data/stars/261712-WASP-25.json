@@ -1,1 +1,71 @@
-{"id":261712,"date":"2023-11-28T20:41:46","date_gmt":"2023-11-29T01:41:46","modified":"2025-04-23T05:53:51","modified_gmt":"2025-04-23T09:53:51","slug":"wasp-25","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-25/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-25","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248838],"exo_id":"WASP-25","st_optmag":11.875,"st_vj":11.875,"st_dist":211.416,"st_j":11.875,"st_mass":0.67,"dec":-27.5222273,"st_teff":5750,"st_rad":0.8,"ra":195.3597581,"system_radius":7075979.251,"pl_hostname":"WASP-25","stellar_type":"G","tic_id":"TIC 229047362","magnitude":11.875},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261712","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248838"}]}}
+{
+  "id": 261712,
+  "date": "2023-11-28T20:41:46",
+  "date_gmt": "2023-11-29T01:41:46",
+  "modified": "2025-04-23T05:53:51",
+  "modified_gmt": "2025-04-23T09:53:51",
+  "slug": "wasp-25",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-25/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-25",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248838
+    ],
+    "exo_id": "WASP-25",
+    "st_optmag": 11.875,
+    "st_vj": 11.875,
+    "st_dist": 211.416,
+    "st_j": 11.875,
+    "st_mass": 0.67,
+    "dec": -27.5222273,
+    "st_teff": 5750,
+    "st_rad": 0.8,
+    "ra": 195.3597581,
+    "system_radius": 7075979.251,
+    "pl_hostname": "WASP-25",
+    "stellar_type": "G",
+    "tic_id": "TIC 229047362",
+    "magnitude": 11.875
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261712",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248838"
+      }
+    ]
+  }
+}

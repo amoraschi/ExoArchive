@@ -1,1 +1,71 @@
-{"id":264498,"date":"2023-11-28T21:17:18","date_gmt":"2023-11-29T02:17:18","modified":"2025-04-23T05:56:26","modified_gmt":"2025-04-23T09:56:26","slug":"kepler-1998","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1998/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1998","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246597],"exo_id":"Kepler-1998","st_optmag":12.74,"st_vj":12.74,"st_dist":340.965,"st_j":12.74,"st_mass":0.962,"dec":47.5923973,"st_teff":5640,"st_rad":0.921,"ra":283.4291536,"system_radius":6058713.735,"pl_hostname":"Kepler-1998","stellar_type":"G","tic_id":"TIC 164525250","magnitude":12.74},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264498","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246597"}]}}
+{
+  "id": 264498,
+  "date": "2023-11-28T21:17:18",
+  "date_gmt": "2023-11-29T02:17:18",
+  "modified": "2025-04-23T05:56:26",
+  "modified_gmt": "2025-04-23T09:56:26",
+  "slug": "kepler-1998",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1998/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1998",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246597
+    ],
+    "exo_id": "Kepler-1998",
+    "st_optmag": 12.74,
+    "st_vj": 12.74,
+    "st_dist": 340.965,
+    "st_j": 12.74,
+    "st_mass": 0.962,
+    "dec": 47.5923973,
+    "st_teff": 5640,
+    "st_rad": 0.921,
+    "ra": 283.4291536,
+    "system_radius": 6058713.735,
+    "pl_hostname": "Kepler-1998",
+    "stellar_type": "G",
+    "tic_id": "TIC 164525250",
+    "magnitude": 12.74
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264498",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246597"
+      }
+    ]
+  }
+}

@@ -1,1 +1,69 @@
-{"id":391170,"date":"2024-04-30T20:01:15","date_gmt":"2024-05-01T00:01:15","modified":"2025-04-23T05:57:25","modified_gmt":"2025-04-23T09:57:25","slug":"hd-90589","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-90589/","featured_media":429647,"categories":[],"acf":{"display_name":"HD 90589","custom_star_title":"","aliases":"HR 4102,GJ 391","constellation":"Carina","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_90589","st_optmag":3.99,"st_vj":3.99,"st_dist":16.2232,"st_j":3.99,"st_mass":1.43,"dec":-74.0316121,"st_teff":6905,"st_rad":1.587,"ra":156.0987749,"system_radius":149597870,"pl_hostname":"HD_90589","stellar_type":"F","tic_id":"TIC 453620177","magnitude":4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391170","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391170,
+  "date": "2024-04-30T20:01:15",
+  "date_gmt": "2024-05-01T00:01:15",
+  "modified": "2025-04-23T05:57:25",
+  "modified_gmt": "2025-04-23T09:57:25",
+  "slug": "hd-90589",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-90589/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 90589",
+    "custom_star_title": "",
+    "aliases": "HR 4102,GJ 391",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_90589",
+    "st_optmag": 3.99,
+    "st_vj": 3.99,
+    "st_dist": 16.2232,
+    "st_j": 3.99,
+    "st_mass": 1.43,
+    "dec": -74.0316121,
+    "st_teff": 6905,
+    "st_rad": 1.587,
+    "ra": 156.0987749,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_90589",
+    "stellar_type": "F",
+    "tic_id": "TIC 453620177",
+    "magnitude": 4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391170",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,1 +1,77 @@
-{"id":479180,"date":"2025-03-07T03:13:38","date_gmt":"2025-03-07T08:13:38","modified":"2025-04-23T05:53:28","modified_gmt":"2025-04-23T09:53:28","slug":"toi-3837","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3837/","featured_media":429648,"categories":[],"acf":{"display_name":"TOI-3837","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[479199],"exo_id":"TOI-3837","st_optmag":11.673,"st_vj":11.673,"st_dist":311.705,"st_j":11.673,"st_mass":0.89,"dec":24.2731213,"st_teff":5905,"st_rad":1.2,"ra":152.6662832,"system_radius":14810189.13,"pl_hostname":"TOI-3837","stellar_type":"G","tic_id":"TIC 308073360","magnitude":11.673},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/479180","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/479199"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 479180,
+  "date": "2025-03-07T03:13:38",
+  "date_gmt": "2025-03-07T08:13:38",
+  "modified": "2025-04-23T05:53:28",
+  "modified_gmt": "2025-04-23T09:53:28",
+  "slug": "toi-3837",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3837/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3837",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      479199
+    ],
+    "exo_id": "TOI-3837",
+    "st_optmag": 11.673,
+    "st_vj": 11.673,
+    "st_dist": 311.705,
+    "st_j": 11.673,
+    "st_mass": 0.89,
+    "dec": 24.2731213,
+    "st_teff": 5905,
+    "st_rad": 1.2,
+    "ra": 152.6662832,
+    "system_radius": 14810189.13,
+    "pl_hostname": "TOI-3837",
+    "stellar_type": "G",
+    "tic_id": "TIC 308073360",
+    "magnitude": 11.673
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/479180",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/479199"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

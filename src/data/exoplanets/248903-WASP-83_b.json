@@ -1,1 +1,79 @@
-{"id":248903,"date":"2017-10-02T13:32:52","date_gmt":"2017-10-02T17:32:52","modified":"2025-07-07T15:24:07","modified_gmt":"2025-07-07T19:24:07","slug":"wasp-83-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-83-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-83","pl_letter":"b","display_name":"WASP-83 b","planet_radius":"1.04 x Jupiter","derived_description":"WASP-83 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.3 Jupiters, it takes 5 days to complete one orbit of its star, and is 0.059 AU from its star. Its discovery was announced in 2015.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP","st_dist":271.103,"planet_mass":"0.3 Jupiters","st_optmag":12.312,"discovery_date":"2015","pl_orbsmax":0.059,"period_display":"5 days","eccentricity":"0.0","star_id":263176,"pl_orbper":4.971252,"pl_kepflag":false,"pl_radj":1.04,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":11.65736,"exo_id":"WASP-83_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248903","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263176"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248903,
+  "date": "2017-10-02T13:32:52",
+  "date_gmt": "2017-10-02T17:32:52",
+  "modified": "2025-07-07T15:24:07",
+  "modified_gmt": "2025-07-07T19:24:07",
+  "slug": "wasp-83-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-83-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-83",
+    "pl_letter": "b",
+    "display_name": "WASP-83 b",
+    "planet_radius": "1.04 x Jupiter",
+    "derived_description": "WASP-83 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.3 Jupiters, it takes 5 days to complete one orbit of its star, and is 0.059 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP",
+    "st_dist": 271.103,
+    "planet_mass": "0.3 Jupiters",
+    "st_optmag": 12.312,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.059,
+    "period_display": "5 days",
+    "eccentricity": "0.0",
+    "star_id": 263176,
+    "pl_orbper": 4.971252,
+    "pl_kepflag": false,
+    "pl_radj": 1.04,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 11.65736,
+    "exo_id": "WASP-83_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248903",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263176"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

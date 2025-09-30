@@ -1,1 +1,71 @@
-{"id":313811,"date":"2024-03-02T15:47:35","date_gmt":"2024-03-02T20:47:35","modified":"2025-04-23T05:57:23","modified_gmt":"2025-04-23T09:57:23","slug":"ogle-2019-blg-1180l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2019-blg-1180l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2019-BLG-1180L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[313842],"exo_id":"OGLE-2019-BLG-1180L","st_optmag":"","st_vj":"","st_dist":6070,"st_j":"","st_mass":0.545,"dec":-27.9754444,"st_teff":"","st_rad":"","ra":269.2465417,"system_radius":776412945.3,"pl_hostname":"OGLE-2019-BLG-1180L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/313811","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313842"}]}}
+{
+  "id": 313811,
+  "date": "2024-03-02T15:47:35",
+  "date_gmt": "2024-03-02T20:47:35",
+  "modified": "2025-04-23T05:57:23",
+  "modified_gmt": "2025-04-23T09:57:23",
+  "slug": "ogle-2019-blg-1180l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2019-blg-1180l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2019-BLG-1180L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      313842
+    ],
+    "exo_id": "OGLE-2019-BLG-1180L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6070,
+    "st_j": "",
+    "st_mass": 0.545,
+    "dec": -27.9754444,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.2465417,
+    "system_radius": 776412945.3,
+    "pl_hostname": "OGLE-2019-BLG-1180L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313811",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313842"
+      }
+    ]
+  }
+}

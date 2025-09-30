@@ -1,1 +1,79 @@
-{"id":248686,"date":"2021-01-12T19:17:05","date_gmt":"2021-01-13T00:17:05","modified":"2025-07-07T20:38:24","modified_gmt":"2025-07-08T00:38:24","slug":"toi-776-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-776-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-776","pl_letter":"c","display_name":"TOI-776 c","planet_radius":"2.047 x Earth","derived_description":"TOI-776 c is a super Earth exoplanet that orbits a M-type star. Its mass is 6.9 Earths, it takes 15.7 days to complete one orbit of its star, and is 0.1001 AU from its star. Its discovery was announced in 2020.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":27.1701,"planet_mass":"6.9 Earths","st_optmag":11.536,"discovery_date":"2020","pl_orbsmax":0.1001,"period_display":"15.7 days","eccentricity":"0.09","star_id":262025,"pl_orbper":15.665323,"pl_kepflag":false,"pl_radj":0.18262142,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":7,"multiple_planet_system":false,"pl_rade":2.047,"exo_id":"TOI-776_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.089},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248686","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262025"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248686,
+  "date": "2021-01-12T19:17:05",
+  "date_gmt": "2021-01-13T00:17:05",
+  "modified": "2025-07-07T20:38:24",
+  "modified_gmt": "2025-07-08T00:38:24",
+  "slug": "toi-776-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-776-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-776",
+    "pl_letter": "c",
+    "display_name": "TOI-776 c",
+    "planet_radius": "2.047 x Earth",
+    "derived_description": "TOI-776 c is a super Earth exoplanet that orbits a M-type star. Its mass is 6.9 Earths, it takes 15.7 days to complete one orbit of its star, and is 0.1001 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 27.1701,
+    "planet_mass": "6.9 Earths",
+    "st_optmag": 11.536,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.1001,
+    "period_display": "15.7 days",
+    "eccentricity": "0.09",
+    "star_id": 262025,
+    "pl_orbper": 15.665323,
+    "pl_kepflag": false,
+    "pl_radj": 0.18262142,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 7,
+    "multiple_planet_system": false,
+    "pl_rade": 2.047,
+    "exo_id": "TOI-776_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.089
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248686",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262025"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

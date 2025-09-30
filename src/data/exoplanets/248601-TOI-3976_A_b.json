@@ -1,1 +1,79 @@
-{"id":248601,"date":"2023-03-07T19:15:49","date_gmt":"2023-03-08T00:15:49","modified":"2025-07-07T20:41:30","modified_gmt":"2025-07-08T00:41:30","slug":"toi-3976-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-3976-a-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-3976_A","pl_letter":"b","display_name":"TOI-3976 A b","planet_radius":"1.095 x Jupiter","derived_description":"TOI-3976 A b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.175 Jupiters, it takes 6.6 days to complete one orbit of its star, and is 0.0743 AU from its star. Its discovery was announced in 2023.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":516.087,"planet_mass":"0.175 Jupiters","st_optmag":12.403,"discovery_date":"2023","pl_orbsmax":0.0743,"period_display":"6.6 days","eccentricity":"0.0","star_id":261586,"pl_orbper":6.607662,"pl_kepflag":false,"pl_radj":1.095,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.27383387,"exo_id":"TOI-3976_A_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248601","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261586"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248601,
+  "date": "2023-03-07T19:15:49",
+  "date_gmt": "2023-03-08T00:15:49",
+  "modified": "2025-07-07T20:41:30",
+  "modified_gmt": "2025-07-08T00:41:30",
+  "slug": "toi-3976-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-3976-a-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-3976_A",
+    "pl_letter": "b",
+    "display_name": "TOI-3976 A b",
+    "planet_radius": "1.095 x Jupiter",
+    "derived_description": "TOI-3976 A b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.175 Jupiters, it takes 6.6 days to complete one orbit of its star, and is 0.0743 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 516.087,
+    "planet_mass": "0.175 Jupiters",
+    "st_optmag": 12.403,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.0743,
+    "period_display": "6.6 days",
+    "eccentricity": "0.0",
+    "star_id": 261586,
+    "pl_orbper": 6.607662,
+    "pl_kepflag": false,
+    "pl_radj": 1.095,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.27383387,
+    "exo_id": "TOI-3976_A_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248601",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261586"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

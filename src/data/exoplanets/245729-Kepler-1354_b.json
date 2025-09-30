@@ -1,1 +1,79 @@
-{"id":245729,"date":"2016-05-10T14:50:14","date_gmt":"2016-05-10T18:50:14","modified":"2025-07-07T17:58:14","modified_gmt":"2025-07-07T21:58:14","slug":"kepler-1354-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1354-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1354","pl_letter":"b","display_name":"Kepler-1354 b","planet_radius":"0.26496565 x Jupiter","derived_description":"Kepler-1354 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.11 Earths, it takes 76.6 days to complete one orbit of its star, and is 0.3521 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1119.45,"planet_mass":"9.11 Earths","st_optmag":14.59,"discovery_date":"2016","pl_orbsmax":0.3521,"period_display":"76.6 days","eccentricity":"0.0","star_id":262637,"pl_orbper":76.613377,"pl_kepflag":true,"pl_radj":0.26496565,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.97,"exo_id":"Kepler-1354_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245729","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262637"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245729,
+  "date": "2016-05-10T14:50:14",
+  "date_gmt": "2016-05-10T18:50:14",
+  "modified": "2025-07-07T17:58:14",
+  "modified_gmt": "2025-07-07T21:58:14",
+  "slug": "kepler-1354-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1354-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1354",
+    "pl_letter": "b",
+    "display_name": "Kepler-1354 b",
+    "planet_radius": "0.26496565 x Jupiter",
+    "derived_description": "Kepler-1354 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.11 Earths, it takes 76.6 days to complete one orbit of its star, and is 0.3521 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1119.45,
+    "planet_mass": "9.11 Earths",
+    "st_optmag": 14.59,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.3521,
+    "period_display": "76.6 days",
+    "eccentricity": "0.0",
+    "star_id": 262637,
+    "pl_orbper": 76.613377,
+    "pl_kepflag": true,
+    "pl_radj": 0.26496565,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.97,
+    "exo_id": "Kepler-1354_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245729",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262637"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

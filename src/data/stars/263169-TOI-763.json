@@ -1,1 +1,76 @@
-{"id":263169,"date":"2023-11-28T21:00:17","date_gmt":"2023-11-29T02:00:17","modified":"2025-04-23T05:54:04","modified_gmt":"2025-04-23T09:54:04","slug":"toi-763","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-763/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-763","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248683,248684],"exo_id":"TOI-763","st_optmag":10.265,"st_vj":10.265,"st_dist":95.1274,"st_j":10.265,"st_mass":0.917,"dec":-39.7580613,"st_teff":5450,"st_rad":0.897,"ra":194.468098,"system_radius":15124344.657,"pl_hostname":"TOI-763","stellar_type":"G","tic_id":"TIC 178819686","magnitude":10.265},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263169","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248684"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248683"}]}}
+{
+  "id": 263169,
+  "date": "2023-11-28T21:00:17",
+  "date_gmt": "2023-11-29T02:00:17",
+  "modified": "2025-04-23T05:54:04",
+  "modified_gmt": "2025-04-23T09:54:04",
+  "slug": "toi-763",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-763/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-763",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248683,
+      248684
+    ],
+    "exo_id": "TOI-763",
+    "st_optmag": 10.265,
+    "st_vj": 10.265,
+    "st_dist": 95.1274,
+    "st_j": 10.265,
+    "st_mass": 0.917,
+    "dec": -39.7580613,
+    "st_teff": 5450,
+    "st_rad": 0.897,
+    "ra": 194.468098,
+    "system_radius": 15124344.657,
+    "pl_hostname": "TOI-763",
+    "stellar_type": "G",
+    "tic_id": "TIC 178819686",
+    "magnitude": 10.265
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263169",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248684"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248683"
+      }
+    ]
+  }
+}

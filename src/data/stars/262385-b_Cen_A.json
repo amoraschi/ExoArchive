@@ -1,1 +1,71 @@
-{"id":262385,"date":"2023-11-28T20:50:19","date_gmt":"2023-11-29T01:50:19","modified":"2025-04-23T05:56:11","modified_gmt":"2025-04-23T09:56:11","slug":"b_cen_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/b_cen_a/","featured_media":0,"categories":[],"acf":{"display_name":"b Centauri A","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243436],"exo_id":"b_Cen_A","st_optmag":4.01,"st_vj":4.01,"st_dist":98.0935,"st_j":4.01,"st_mass":5.5,"dec":-37.7936323,"st_teff":"","st_rad":"","ra":220.4897992,"system_radius":83176415720,"pl_hostname":"b_Cen_A","stellar_type":"Unknown","tic_id":"TIC 159589603","magnitude":4.01},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262385","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243436"}]}}
+{
+  "id": 262385,
+  "date": "2023-11-28T20:50:19",
+  "date_gmt": "2023-11-29T01:50:19",
+  "modified": "2025-04-23T05:56:11",
+  "modified_gmt": "2025-04-23T09:56:11",
+  "slug": "b_cen_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/b_cen_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "b Centauri A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243436
+    ],
+    "exo_id": "b_Cen_A",
+    "st_optmag": 4.01,
+    "st_vj": 4.01,
+    "st_dist": 98.0935,
+    "st_j": 4.01,
+    "st_mass": 5.5,
+    "dec": -37.7936323,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 220.4897992,
+    "system_radius": 83176415720,
+    "pl_hostname": "b_Cen_A",
+    "stellar_type": "Unknown",
+    "tic_id": "TIC 159589603",
+    "magnitude": 4.01
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262385",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243436"
+      }
+    ]
+  }
+}

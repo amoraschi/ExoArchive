@@ -1,1 +1,71 @@
-{"id":262511,"date":"2023-11-28T20:51:55","date_gmt":"2023-11-29T01:51:55","modified":"2025-04-23T05:56:22","modified_gmt":"2025-04-23T09:56:22","slug":"gj_3222","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_3222/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 3222","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243626],"exo_id":"GJ_3222","st_optmag":6.9,"st_vj":6.9,"st_dist":18.23817,"st_j":6.9,"st_mass":0.89,"dec":-40.0762325,"st_teff":5257.46,"st_rad":0.931389,"ra":50.8972464,"system_radius":13613406.17,"pl_hostname":"GJ_3222","stellar_type":"K","tic_id":"TIC 160004049","magnitude":6.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262511","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243626"}]}}
+{
+  "id": 262511,
+  "date": "2023-11-28T20:51:55",
+  "date_gmt": "2023-11-29T01:51:55",
+  "modified": "2025-04-23T05:56:22",
+  "modified_gmt": "2025-04-23T09:56:22",
+  "slug": "gj_3222",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_3222/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 3222",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243626
+    ],
+    "exo_id": "GJ_3222",
+    "st_optmag": 6.9,
+    "st_vj": 6.9,
+    "st_dist": 18.23817,
+    "st_j": 6.9,
+    "st_mass": 0.89,
+    "dec": -40.0762325,
+    "st_teff": 5257.46,
+    "st_rad": 0.931389,
+    "ra": 50.8972464,
+    "system_radius": 13613406.17,
+    "pl_hostname": "GJ_3222",
+    "stellar_type": "K",
+    "tic_id": "TIC 160004049",
+    "magnitude": 6.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262511",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243626"
+      }
+    ]
+  }
+}

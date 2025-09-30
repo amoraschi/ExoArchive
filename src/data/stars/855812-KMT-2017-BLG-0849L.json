@@ -1,1 +1,77 @@
-{"id":855812,"date":"2025-05-16T06:39:39","date_gmt":"2025-05-16T10:39:39","modified":"2025-05-16T06:39:39","modified_gmt":"2025-05-16T10:39:39","slug":"kmt-2017-blg-0849l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-0849l/","featured_media":429648,"categories":[],"acf":{"display_name":"KMT-2017-BLG-0849L","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876094],"exo_id":"KMT-2017-BLG-0849L","st_optmag":"","st_vj":"","st_dist":7220,"st_j":"","st_mass":0.19,"dec":-25.2812194,"st_teff":"","st_rad":"","ra":265.3594583,"system_radius":408402185.1,"pl_hostname":"KMT-2017-BLG-0849L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/855812","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876094"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 855812,
+  "date": "2025-05-16T06:39:39",
+  "date_gmt": "2025-05-16T10:39:39",
+  "modified": "2025-05-16T06:39:39",
+  "modified_gmt": "2025-05-16T10:39:39",
+  "slug": "kmt-2017-blg-0849l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-0849l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2017-BLG-0849L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876094
+    ],
+    "exo_id": "KMT-2017-BLG-0849L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7220,
+    "st_j": "",
+    "st_mass": 0.19,
+    "dec": -25.2812194,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 265.3594583,
+    "system_radius": 408402185.1,
+    "pl_hostname": "KMT-2017-BLG-0849L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/855812",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876094"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

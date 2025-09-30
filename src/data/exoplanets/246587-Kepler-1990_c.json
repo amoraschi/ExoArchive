@@ -1,1 +1,79 @@
-{"id":246587,"date":"2023-05-23T12:01:53","date_gmt":"2023-05-23T16:01:53","modified":"2025-07-07T20:34:34","modified_gmt":"2025-07-08T00:34:34","slug":"kepler-1990-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1990-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1990","pl_letter":"c","display_name":"Kepler-1990 c","planet_radius":"0.98 x Earth","derived_description":"Kepler-1990 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.904 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.0504 AU from its star. Its discovery was announced in 2023.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":392.739,"planet_mass":"0.904 Earths","st_optmag":11.946,"discovery_date":"2023","pl_orbsmax":0.0504,"period_display":"4.1 days","eccentricity":"0.0","star_id":261038,"pl_orbper":4.06844957,"pl_kepflag":true,"pl_radj":0.08742989,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.98,"exo_id":"Kepler-1990_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246587","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261038"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 246587,
+  "date": "2023-05-23T12:01:53",
+  "date_gmt": "2023-05-23T16:01:53",
+  "modified": "2025-07-07T20:34:34",
+  "modified_gmt": "2025-07-08T00:34:34",
+  "slug": "kepler-1990-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1990-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1990",
+    "pl_letter": "c",
+    "display_name": "Kepler-1990 c",
+    "planet_radius": "0.98 x Earth",
+    "derived_description": "Kepler-1990 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.904 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.0504 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 392.739,
+    "planet_mass": "0.904 Earths",
+    "st_optmag": 11.946,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.0504,
+    "period_display": "4.1 days",
+    "eccentricity": "0.0",
+    "star_id": 261038,
+    "pl_orbper": 4.06844957,
+    "pl_kepflag": true,
+    "pl_radj": 0.08742989,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.98,
+    "exo_id": "Kepler-1990_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246587",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261038"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":246327,"date":"2021-12-13T17:05:47","date_gmt":"2021-12-13T22:05:47","modified":"2025-07-07T20:35:28","modified_gmt":"2025-07-08T00:35:28","slug":"kepler-1794-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1794-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1794","pl_letter":"b","display_name":"Kepler-1794 b","planet_radius":"1.79426276 x Earth","derived_description":"Kepler-1794 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.87 Earths, it takes 9.8 days to complete one orbit of its star, and is 0.0821 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":561.229,"planet_mass":"3.87 Earths","st_optmag":15.497,"discovery_date":"2021","pl_orbsmax":0.0821,"period_display":"9.8 days","eccentricity":"0.0","star_id":264306,"pl_orbper":9.762980461,"pl_kepflag":true,"pl_radj":0.16007368,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.79426276,"exo_id":"Kepler-1794_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246327","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264306"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246327,
+  "date": "2021-12-13T17:05:47",
+  "date_gmt": "2021-12-13T22:05:47",
+  "modified": "2025-07-07T20:35:28",
+  "modified_gmt": "2025-07-08T00:35:28",
+  "slug": "kepler-1794-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1794-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1794",
+    "pl_letter": "b",
+    "display_name": "Kepler-1794 b",
+    "planet_radius": "1.79426276 x Earth",
+    "derived_description": "Kepler-1794 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.87 Earths, it takes 9.8 days to complete one orbit of its star, and is 0.0821 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 561.229,
+    "planet_mass": "3.87 Earths",
+    "st_optmag": 15.497,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.0821,
+    "period_display": "9.8 days",
+    "eccentricity": "0.0",
+    "star_id": 264306,
+    "pl_orbper": 9.762980461,
+    "pl_kepflag": true,
+    "pl_radj": 0.16007368,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.79426276,
+    "exo_id": "Kepler-1794_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246327",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264306"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

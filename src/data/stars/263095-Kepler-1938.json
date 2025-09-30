@@ -1,1 +1,71 @@
-{"id":263095,"date":"2023-11-28T20:59:21","date_gmt":"2023-11-29T01:59:21","modified":"2025-04-23T05:56:29","modified_gmt":"2025-04-23T09:56:29","slug":"kepler-1938","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1938/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1938","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246518],"exo_id":"Kepler-1938","st_optmag":15.246,"st_vj":15.246,"st_dist":421.152,"st_j":15.246,"st_mass":0.646,"dec":41.1957285,"st_teff":4522,"st_rad":0.655,"ra":299.351892,"system_radius":14032280.206,"pl_hostname":"Kepler-1938","stellar_type":"K","tic_id":"TIC 171972797","magnitude":15.246},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263095","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246518"}]}}
+{
+  "id": 263095,
+  "date": "2023-11-28T20:59:21",
+  "date_gmt": "2023-11-29T01:59:21",
+  "modified": "2025-04-23T05:56:29",
+  "modified_gmt": "2025-04-23T09:56:29",
+  "slug": "kepler-1938",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1938/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1938",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246518
+    ],
+    "exo_id": "Kepler-1938",
+    "st_optmag": 15.246,
+    "st_vj": 15.246,
+    "st_dist": 421.152,
+    "st_j": 15.246,
+    "st_mass": 0.646,
+    "dec": 41.1957285,
+    "st_teff": 4522,
+    "st_rad": 0.655,
+    "ra": 299.351892,
+    "system_radius": 14032280.206,
+    "pl_hostname": "Kepler-1938",
+    "stellar_type": "K",
+    "tic_id": "TIC 171972797",
+    "magnitude": 15.246
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263095",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246518"
+      }
+    ]
+  }
+}

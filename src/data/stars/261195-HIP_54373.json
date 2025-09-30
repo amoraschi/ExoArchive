@@ -1,1 +1,76 @@
-{"id":261195,"date":"2023-11-28T20:35:16","date_gmt":"2023-11-29T01:35:16","modified":"2025-04-23T05:54:16","modified_gmt":"2025-04-23T09:54:16","slug":"hip_54373","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_54373/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 54373","custom_star_title":"","aliases":"","constellation":"Crater","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244662,"1":244661},"exo_id":"HIP_54373","st_optmag":10.38,"st_vj":10.38,"st_dist":18.7168,"st_j":10.38,"st_mass":0.57,"dec":-19.2916857,"st_teff":4021,"st_rad":0.564998,"ra":166.8643532,"system_radius":14810189.13,"pl_hostname":"HIP_54373","stellar_type":"K","tic_id":"TIC 410407964","magnitude":10.38},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261195","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244662"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244661"}]}}
+{
+  "id": 261195,
+  "date": "2023-11-28T20:35:16",
+  "date_gmt": "2023-11-29T01:35:16",
+  "modified": "2025-04-23T05:54:16",
+  "modified_gmt": "2025-04-23T09:54:16",
+  "slug": "hip_54373",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_54373/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 54373",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Crater",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244662,
+      "1": 244661
+    },
+    "exo_id": "HIP_54373",
+    "st_optmag": 10.38,
+    "st_vj": 10.38,
+    "st_dist": 18.7168,
+    "st_j": 10.38,
+    "st_mass": 0.57,
+    "dec": -19.2916857,
+    "st_teff": 4021,
+    "st_rad": 0.564998,
+    "ra": 166.8643532,
+    "system_radius": 14810189.13,
+    "pl_hostname": "HIP_54373",
+    "stellar_type": "K",
+    "tic_id": "TIC 410407964",
+    "magnitude": 10.38
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261195",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244662"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244661"
+      }
+    ]
+  }
+}

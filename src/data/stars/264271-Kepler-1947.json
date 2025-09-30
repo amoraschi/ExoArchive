@@ -1,1 +1,71 @@
-{"id":264271,"date":"2023-11-28T21:14:25","date_gmt":"2023-11-29T02:14:25","modified":"2025-04-23T05:53:40","modified_gmt":"2025-04-23T09:53:40","slug":"kepler-1947","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1947/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1947","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246529],"exo_id":"Kepler-1947","st_optmag":12.973,"st_vj":12.973,"st_dist":468.771,"st_j":12.973,"st_mass":0.984,"dec":42.3425818,"st_teff":6040,"st_rad":1.686,"ra":296.1040313,"system_radius":11032842.9125,"pl_hostname":"Kepler-1947","stellar_type":"F","tic_id":"TIC 272180236","magnitude":12.973},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264271","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246529"}]}}
+{
+  "id": 264271,
+  "date": "2023-11-28T21:14:25",
+  "date_gmt": "2023-11-29T02:14:25",
+  "modified": "2025-04-23T05:53:40",
+  "modified_gmt": "2025-04-23T09:53:40",
+  "slug": "kepler-1947",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1947/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1947",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246529
+    ],
+    "exo_id": "Kepler-1947",
+    "st_optmag": 12.973,
+    "st_vj": 12.973,
+    "st_dist": 468.771,
+    "st_j": 12.973,
+    "st_mass": 0.984,
+    "dec": 42.3425818,
+    "st_teff": 6040,
+    "st_rad": 1.686,
+    "ra": 296.1040313,
+    "system_radius": 11032842.9125,
+    "pl_hostname": "Kepler-1947",
+    "stellar_type": "F",
+    "tic_id": "TIC 272180236",
+    "magnitude": 12.973
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264271",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246529"
+      }
+    ]
+  }
+}

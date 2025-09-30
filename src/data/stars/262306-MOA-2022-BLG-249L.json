@@ -1,1 +1,71 @@
-{"id":262306,"date":"2023-11-28T20:49:19","date_gmt":"2023-11-29T01:49:19","modified":"2025-04-23T05:56:01","modified_gmt":"2025-04-23T09:56:01","slug":"moa-2022-blg-249l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/moa-2022-blg-249l/","featured_media":0,"categories":[],"acf":{"display_name":"MOA-2022-BLG-249L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248187],"exo_id":"MOA-2022-BLG-249L","st_optmag":"","st_vj":"","st_dist":2000,"st_j":"","st_mass":0.18,"dec":-28.3060611,"st_teff":"","st_rad":"","ra":268.8655417,"system_radius":243844528.1,"pl_hostname":"MOA-2022-BLG-249L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262306","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248187"}]}}
+{
+  "id": 262306,
+  "date": "2023-11-28T20:49:19",
+  "date_gmt": "2023-11-29T01:49:19",
+  "modified": "2025-04-23T05:56:01",
+  "modified_gmt": "2025-04-23T09:56:01",
+  "slug": "moa-2022-blg-249l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/moa-2022-blg-249l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MOA-2022-BLG-249L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248187
+    ],
+    "exo_id": "MOA-2022-BLG-249L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 2000,
+    "st_j": "",
+    "st_mass": 0.18,
+    "dec": -28.3060611,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.8655417,
+    "system_radius": 243844528.1,
+    "pl_hostname": "MOA-2022-BLG-249L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248187"
+      }
+    ]
+  }
+}

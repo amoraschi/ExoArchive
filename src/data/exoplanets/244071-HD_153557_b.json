@@ -1,1 +1,79 @@
-{"id":244071,"date":"2022-09-27T08:32:11","date_gmt":"2022-09-27T12:32:11","modified":"2025-07-07T15:25:17","modified_gmt":"2025-07-07T19:25:17","slug":"hd-153557-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-153557-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_153557","pl_letter":"b","display_name":"HD 153557 b","planet_radius":"0.425 x Jupiter (estimate)","derived_description":"HD 153557 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 20.34101805 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":17.9412,"planet_mass":"20.34101805 Earths","st_optmag":7.83,"discovery_date":"2022","pl_orbsmax":0.068,"period_display":"7.3 days","eccentricity":"0.07","star_id":260519,"pl_orbper":7.29903,"pl_kepflag":false,"pl_radj":0.425,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":141.983,"multiple_planet_system":false,"pl_rade":4.77,"exo_id":"HD_153557_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.065},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244071","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260519"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244071,
+  "date": "2022-09-27T08:32:11",
+  "date_gmt": "2022-09-27T12:32:11",
+  "modified": "2025-07-07T15:25:17",
+  "modified_gmt": "2025-07-07T19:25:17",
+  "slug": "hd-153557-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-153557-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_153557",
+    "pl_letter": "b",
+    "display_name": "HD 153557 b",
+    "planet_radius": "0.425 x Jupiter (estimate)",
+    "derived_description": "HD 153557 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 20.34101805 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 17.9412,
+    "planet_mass": "20.34101805 Earths",
+    "st_optmag": 7.83,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.068,
+    "period_display": "7.3 days",
+    "eccentricity": "0.07",
+    "star_id": 260519,
+    "pl_orbper": 7.29903,
+    "pl_kepflag": false,
+    "pl_radj": 0.425,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 141.983,
+    "multiple_planet_system": false,
+    "pl_rade": 4.77,
+    "exo_id": "HD_153557_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.065
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244071",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260519"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

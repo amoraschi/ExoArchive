@@ -1,1 +1,79 @@
-{"id":245751,"date":"2016-05-10T14:50:14","date_gmt":"2016-05-10T18:50:14","modified":"2025-07-07T15:23:31","modified_gmt":"2025-07-07T19:23:31","slug":"kepler-1370-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1370-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1370","pl_letter":"c","display_name":"Kepler-1370 c","planet_radius":"1.27 x Earth","derived_description":"Kepler-1370 c is a super Earth exoplanet that orbits a F-type star. Its mass is 2.15 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.08084 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1004.1,"planet_mass":"2.15 Earths","st_optmag":13.718,"discovery_date":"2016","pl_orbsmax":0.08084,"period_display":"7.4 days","eccentricity":"0.0","star_id":261426,"pl_orbper":7.44142113,"pl_kepflag":true,"pl_radj":0.11330181,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.27,"exo_id":"Kepler-1370_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245751","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261426"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245751,
+  "date": "2016-05-10T14:50:14",
+  "date_gmt": "2016-05-10T18:50:14",
+  "modified": "2025-07-07T15:23:31",
+  "modified_gmt": "2025-07-07T19:23:31",
+  "slug": "kepler-1370-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1370-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1370",
+    "pl_letter": "c",
+    "display_name": "Kepler-1370 c",
+    "planet_radius": "1.27 x Earth",
+    "derived_description": "Kepler-1370 c is a super Earth exoplanet that orbits a F-type star. Its mass is 2.15 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.08084 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1004.1,
+    "planet_mass": "2.15 Earths",
+    "st_optmag": 13.718,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.08084,
+    "period_display": "7.4 days",
+    "eccentricity": "0.0",
+    "star_id": 261426,
+    "pl_orbper": 7.44142113,
+    "pl_kepflag": true,
+    "pl_radj": 0.11330181,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.27,
+    "exo_id": "Kepler-1370_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245751",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261426"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

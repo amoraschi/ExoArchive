@@ -1,1 +1,79 @@
-{"id":248181,"date":"2018-11-10T12:26:21","date_gmt":"2018-11-10T17:26:21","modified":"2025-03-28T07:31:51","modified_gmt":"2025-03-28T11:31:51","slug":"moa-2015-blg-337l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/moa-2015-blg-337l-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"MOA-2015-BLG-337L","pl_letter":"b","display_name":"MOA-2015-BLG-337L b","planet_radius":"0.572 x Jupiter (estimate)","derived_description":"MOA-2015-BLG-337L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 33.7 Earths, it takes 442.9 days to complete one orbit of its star, and is 0.24 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Microlensing","pl_facility":"MOA","st_dist":7100,"planet_mass":"33.7 Earths","st_optmag":"","discovery_date":"2018","pl_orbsmax":0.24,"period_display":"442.9 days","eccentricity":"","star_id":261919,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.572,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":6.42,"exo_id":"MOA-2015-BLG-337L_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248181","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261919"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248181,
+  "date": "2018-11-10T12:26:21",
+  "date_gmt": "2018-11-10T17:26:21",
+  "modified": "2025-03-28T07:31:51",
+  "modified_gmt": "2025-03-28T11:31:51",
+  "slug": "moa-2015-blg-337l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/moa-2015-blg-337l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "MOA-2015-BLG-337L",
+    "pl_letter": "b",
+    "display_name": "MOA-2015-BLG-337L b",
+    "planet_radius": "0.572 x Jupiter (estimate)",
+    "derived_description": "MOA-2015-BLG-337L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 33.7 Earths, it takes 442.9 days to complete one orbit of its star, and is 0.24 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "MOA",
+    "st_dist": 7100,
+    "planet_mass": "33.7 Earths",
+    "st_optmag": "",
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.24,
+    "period_display": "442.9 days",
+    "eccentricity": "",
+    "star_id": 261919,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.572,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 6.42,
+    "exo_id": "MOA-2015-BLG-337L_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248181",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261919"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

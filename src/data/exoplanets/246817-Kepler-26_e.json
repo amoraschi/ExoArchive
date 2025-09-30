@@ -1,1 +1,79 @@
-{"id":246817,"date":"2016-03-16T19:26:22","date_gmt":"2016-03-16T23:26:22","modified":"2025-07-07T20:42:39","modified_gmt":"2025-07-08T00:42:39","slug":"kepler-26-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-26-e/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-26","pl_letter":"e","display_name":"Kepler-26 e","planet_radius":"0.215 x Jupiter","derived_description":"Kepler-26 e is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.39 Earths, it takes 46.8 days to complete one orbit of its star, and is 0.22 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":335.307,"planet_mass":"6.39 Earths","st_optmag":15.853,"discovery_date":"2014","pl_orbsmax":0.22,"period_display":"46.8 days","eccentricity":"0.0","star_id":261505,"pl_orbper":46.827915,"pl_kepflag":true,"pl_radj":0.215,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.41,"exo_id":"Kepler-26_e","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246817","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261505"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246817,
+  "date": "2016-03-16T19:26:22",
+  "date_gmt": "2016-03-16T23:26:22",
+  "modified": "2025-07-07T20:42:39",
+  "modified_gmt": "2025-07-08T00:42:39",
+  "slug": "kepler-26-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-26-e/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-26",
+    "pl_letter": "e",
+    "display_name": "Kepler-26 e",
+    "planet_radius": "0.215 x Jupiter",
+    "derived_description": "Kepler-26 e is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.39 Earths, it takes 46.8 days to complete one orbit of its star, and is 0.22 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 335.307,
+    "planet_mass": "6.39 Earths",
+    "st_optmag": 15.853,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.22,
+    "period_display": "46.8 days",
+    "eccentricity": "0.0",
+    "star_id": 261505,
+    "pl_orbper": 46.827915,
+    "pl_kepflag": true,
+    "pl_radj": 0.215,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.41,
+    "exo_id": "Kepler-26_e",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246817",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261505"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":395354,"date":"2024-05-10T20:16:20","date_gmt":"2024-05-11T00:16:20","modified":"2025-04-23T05:55:32","modified_gmt":"2025-04-23T09:55:32","slug":"tic-139270665","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tic-139270665/","featured_media":0,"categories":[],"acf":{"display_name":"TIC 139270665","custom_star_title":"","aliases":"","constellation":"Lynx","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":395511,"1":395510},"exo_id":"TIC_139270665","st_optmag":10.385,"st_vj":10.385,"st_dist":189.875,"st_j":10.385,"st_mass":1.035,"dec":33.2914532,"st_teff":5844,"st_rad":1.016,"ra":124.0338967,"system_radius":299195740,"pl_hostname":"TIC_139270665","stellar_type":"G","tic_id":"TIC 139270665","magnitude":10.385},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/395354","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/395511"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/395510"}]}}
+{
+  "id": 395354,
+  "date": "2024-05-10T20:16:20",
+  "date_gmt": "2024-05-11T00:16:20",
+  "modified": "2025-04-23T05:55:32",
+  "modified_gmt": "2025-04-23T09:55:32",
+  "slug": "tic-139270665",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-139270665/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 139270665",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lynx",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 395511,
+      "1": 395510
+    },
+    "exo_id": "TIC_139270665",
+    "st_optmag": 10.385,
+    "st_vj": 10.385,
+    "st_dist": 189.875,
+    "st_j": 10.385,
+    "st_mass": 1.035,
+    "dec": 33.2914532,
+    "st_teff": 5844,
+    "st_rad": 1.016,
+    "ra": 124.0338967,
+    "system_radius": 299195740,
+    "pl_hostname": "TIC_139270665",
+    "stellar_type": "G",
+    "tic_id": "TIC 139270665",
+    "magnitude": 10.385
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/395354",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/395511"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/395510"
+      }
+    ]
+  }
+}

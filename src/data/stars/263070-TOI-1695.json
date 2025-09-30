@@ -1,1 +1,71 @@
-{"id":263070,"date":"2023-11-28T20:59:02","date_gmt":"2023-11-29T01:59:02","modified":"2025-04-23T05:56:42","modified_gmt":"2025-04-23T09:56:42","slug":"toi-1695","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1695/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1695","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248478],"exo_id":"TOI-1695","st_optmag":12.989,"st_vj":12.989,"st_dist":45.1309,"st_j":12.989,"st_mass":0.513,"dec":72.2966148,"st_teff":3690,"st_rad":0.515,"ra":21.9217346,"system_radius":5018709.34276,"pl_hostname":"TOI-1695","stellar_type":"M","tic_id":"TIC 422756130","magnitude":12.989},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263070","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248478"}]}}
+{
+  "id": 263070,
+  "date": "2023-11-28T20:59:02",
+  "date_gmt": "2023-11-29T01:59:02",
+  "modified": "2025-04-23T05:56:42",
+  "modified_gmt": "2025-04-23T09:56:42",
+  "slug": "toi-1695",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1695/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1695",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248478
+    ],
+    "exo_id": "TOI-1695",
+    "st_optmag": 12.989,
+    "st_vj": 12.989,
+    "st_dist": 45.1309,
+    "st_j": 12.989,
+    "st_mass": 0.513,
+    "dec": 72.2966148,
+    "st_teff": 3690,
+    "st_rad": 0.515,
+    "ra": 21.9217346,
+    "system_radius": 5018709.34276,
+    "pl_hostname": "TOI-1695",
+    "stellar_type": "M",
+    "tic_id": "TIC 422756130",
+    "magnitude": 12.989
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263070",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248478"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":261855,"date":"2023-11-28T20:43:35","date_gmt":"2023-11-29T01:43:35","modified":"2025-04-23T05:56:34","modified_gmt":"2025-04-23T09:56:34","slug":"kepler-894","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-894/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-894","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247862],"exo_id":"Kepler-894","st_optmag":15.686,"st_vj":15.686,"st_dist":1162.91,"st_j":15.686,"st_mass":0.87,"dec":46.939363,"st_teff":5603,"st_rad":0.85,"ra":288.7340513,"system_radius":13703164.892,"pl_hostname":"Kepler-894","stellar_type":"G","tic_id":"TIC 158838278","magnitude":15.686},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261855","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247862"}]}}
+{
+  "id": 261855,
+  "date": "2023-11-28T20:43:35",
+  "date_gmt": "2023-11-29T01:43:35",
+  "modified": "2025-04-23T05:56:34",
+  "modified_gmt": "2025-04-23T09:56:34",
+  "slug": "kepler-894",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-894/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-894",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247862
+    ],
+    "exo_id": "Kepler-894",
+    "st_optmag": 15.686,
+    "st_vj": 15.686,
+    "st_dist": 1162.91,
+    "st_j": 15.686,
+    "st_mass": 0.87,
+    "dec": 46.939363,
+    "st_teff": 5603,
+    "st_rad": 0.85,
+    "ra": 288.7340513,
+    "system_radius": 13703164.892,
+    "pl_hostname": "Kepler-894",
+    "stellar_type": "G",
+    "tic_id": "TIC 158838278",
+    "magnitude": 15.686
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261855",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247862"
+      }
+    ]
+  }
+}

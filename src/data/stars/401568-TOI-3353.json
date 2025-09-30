@@ -1,1 +1,71 @@
-{"id":401568,"date":"2024-06-13T20:50:22","date_gmt":"2024-06-14T00:50:22","modified":"2025-04-23T05:55:14","modified_gmt":"2025-04-23T09:55:14","slug":"toi-3353","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3353/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-3353","custom_star_title":"","aliases":"","constellation":"Mensa","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[401606],"exo_id":"TOI-3353","st_optmag":9.327,"st_vj":9.327,"st_dist":78.7577,"st_j":9.327,"st_mass":1.332089,"dec":-75.8195594,"st_teff":6365,"st_rad":1.0207,"ra":106.5298146,"system_radius":8993557.3609957,"pl_hostname":"TOI-3353","stellar_type":"F","tic_id":"TIC 391903064","magnitude":9.327},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/401568","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401606"}]}}
+{
+  "id": 401568,
+  "date": "2024-06-13T20:50:22",
+  "date_gmt": "2024-06-14T00:50:22",
+  "modified": "2025-04-23T05:55:14",
+  "modified_gmt": "2025-04-23T09:55:14",
+  "slug": "toi-3353",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3353/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3353",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      401606
+    ],
+    "exo_id": "TOI-3353",
+    "st_optmag": 9.327,
+    "st_vj": 9.327,
+    "st_dist": 78.7577,
+    "st_j": 9.327,
+    "st_mass": 1.332089,
+    "dec": -75.8195594,
+    "st_teff": 6365,
+    "st_rad": 1.0207,
+    "ra": 106.5298146,
+    "system_radius": 8993557.3609957,
+    "pl_hostname": "TOI-3353",
+    "stellar_type": "F",
+    "tic_id": "TIC 391903064",
+    "magnitude": 9.327
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401568",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401606"
+      }
+    ]
+  }
+}

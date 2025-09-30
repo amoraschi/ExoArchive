@@ -1,1 +1,71 @@
-{"id":261957,"date":"2023-11-28T20:44:53","date_gmt":"2023-11-29T01:44:53","modified":"2025-04-23T05:55:13","modified_gmt":"2025-04-23T09:55:13","slug":"kmt-2021-blg-0171l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-0171l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2021-BLG-0171L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248077],"exo_id":"KMT-2021-BLG-0171L","st_optmag":"","st_vj":"","st_dist":4600,"st_j":"","st_mass":0.78,"dec":-30.0930556,"st_teff":5200,"st_rad":"","ra":269.2416667,"system_radius":523592545,"pl_hostname":"KMT-2021-BLG-0171L","stellar_type":"K","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261957","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248077"}]}}
+{
+  "id": 261957,
+  "date": "2023-11-28T20:44:53",
+  "date_gmt": "2023-11-29T01:44:53",
+  "modified": "2025-04-23T05:55:13",
+  "modified_gmt": "2025-04-23T09:55:13",
+  "slug": "kmt-2021-blg-0171l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-0171l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2021-BLG-0171L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248077
+    ],
+    "exo_id": "KMT-2021-BLG-0171L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 4600,
+    "st_j": "",
+    "st_mass": 0.78,
+    "dec": -30.0930556,
+    "st_teff": 5200,
+    "st_rad": "",
+    "ra": 269.2416667,
+    "system_radius": 523592545,
+    "pl_hostname": "KMT-2021-BLG-0171L",
+    "stellar_type": "K",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261957",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248077"
+      }
+    ]
+  }
+}

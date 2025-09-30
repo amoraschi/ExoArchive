@@ -1,1 +1,71 @@
-{"id":261898,"date":"2023-11-28T20:44:07","date_gmt":"2023-11-29T01:44:07","modified":"2025-04-23T05:57:23","modified_gmt":"2025-04-23T09:57:23","slug":"toi-1107","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1107/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1107","custom_star_title":"","aliases":"","constellation":"Chamaeleon","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248406],"exo_id":"TOI-1107","st_optmag":10.553,"st_vj":10.553,"st_dist":281.314,"st_j":10.553,"st_mass":1.35,"dec":-82.2188693,"st_teff":6311,"st_rad":1.81,"ra":155.6078632,"system_radius":8392440.507,"pl_hostname":"TOI-1107","stellar_type":"F","tic_id":"TIC 394561119","magnitude":10.553},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261898","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248406"}]}}
+{
+  "id": 261898,
+  "date": "2023-11-28T20:44:07",
+  "date_gmt": "2023-11-29T01:44:07",
+  "modified": "2025-04-23T05:57:23",
+  "modified_gmt": "2025-04-23T09:57:23",
+  "slug": "toi-1107",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1107/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1107",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Chamaeleon",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248406
+    ],
+    "exo_id": "TOI-1107",
+    "st_optmag": 10.553,
+    "st_vj": 10.553,
+    "st_dist": 281.314,
+    "st_j": 10.553,
+    "st_mass": 1.35,
+    "dec": -82.2188693,
+    "st_teff": 6311,
+    "st_rad": 1.81,
+    "ra": 155.6078632,
+    "system_radius": 8392440.507,
+    "pl_hostname": "TOI-1107",
+    "stellar_type": "F",
+    "tic_id": "TIC 394561119",
+    "magnitude": 10.553
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261898",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248406"
+      }
+    ]
+  }
+}

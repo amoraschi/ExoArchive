@@ -1,1 +1,71 @@
-{"id":262848,"date":"2023-11-28T20:56:14","date_gmt":"2023-11-29T01:56:14","modified":"2025-04-23T05:56:45","modified_gmt":"2025-04-23T09:56:45","slug":"kepler-531","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-531/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-531","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247360],"exo_id":"Kepler-531","st_optmag":13.566,"st_vj":13.566,"st_dist":252.762,"st_j":13.566,"st_mass":0.78,"dec":48.6835481,"st_teff":4893,"st_rad":0.75,"ra":286.5246582,"system_radius":26098844.4002,"pl_hostname":"Kepler-531","stellar_type":"K","tic_id":"TIC 243272677","magnitude":13.566},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262848","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247360"}]}}
+{
+  "id": 262848,
+  "date": "2023-11-28T20:56:14",
+  "date_gmt": "2023-11-29T01:56:14",
+  "modified": "2025-04-23T05:56:45",
+  "modified_gmt": "2025-04-23T09:56:45",
+  "slug": "kepler-531",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-531/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-531",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247360
+    ],
+    "exo_id": "Kepler-531",
+    "st_optmag": 13.566,
+    "st_vj": 13.566,
+    "st_dist": 252.762,
+    "st_j": 13.566,
+    "st_mass": 0.78,
+    "dec": 48.6835481,
+    "st_teff": 4893,
+    "st_rad": 0.75,
+    "ra": 286.5246582,
+    "system_radius": 26098844.4002,
+    "pl_hostname": "Kepler-531",
+    "stellar_type": "K",
+    "tic_id": "TIC 243272677",
+    "magnitude": 13.566
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262848",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247360"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262363,"date":"2023-11-28T20:50:02","date_gmt":"2023-11-29T01:50:02","modified":"2025-04-23T05:56:06","modified_gmt":"2025-04-23T09:56:06","slug":"toi-3688_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3688_a/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-3688 A","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248592],"exo_id":"TOI-3688_A","st_optmag":12.241,"st_vj":12.241,"st_dist":396.378,"st_j":12.241,"st_mass":1.199,"dec":54.8512152,"st_teff":5950,"st_rad":1.302,"ra":39.2823371,"system_radius":6821662.872,"pl_hostname":"TOI-3688_A","stellar_type":"G","tic_id":"TIC 245509452","magnitude":12.241},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262363","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248592"}]}}
+{
+  "id": 262363,
+  "date": "2023-11-28T20:50:02",
+  "date_gmt": "2023-11-29T01:50:02",
+  "modified": "2025-04-23T05:56:06",
+  "modified_gmt": "2025-04-23T09:56:06",
+  "slug": "toi-3688_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3688_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3688 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248592
+    ],
+    "exo_id": "TOI-3688_A",
+    "st_optmag": 12.241,
+    "st_vj": 12.241,
+    "st_dist": 396.378,
+    "st_j": 12.241,
+    "st_mass": 1.199,
+    "dec": 54.8512152,
+    "st_teff": 5950,
+    "st_rad": 1.302,
+    "ra": 39.2823371,
+    "system_radius": 6821662.872,
+    "pl_hostname": "TOI-3688_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 245509452",
+    "magnitude": 12.241
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262363",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248592"
+      }
+    ]
+  }
+}

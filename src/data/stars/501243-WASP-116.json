@@ -1,1 +1,77 @@
-{"id":501243,"date":"2025-04-25T05:59:15","date_gmt":"2025-04-25T09:59:15","modified":"2025-04-25T05:59:15","modified_gmt":"2025-04-25T09:59:15","slug":"wasp-116","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-116/","featured_media":429647,"categories":[],"acf":{"display_name":"WASP-116","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876413],"exo_id":"WASP-116","st_optmag":12.517,"st_vj":12.517,"st_dist":559.243,"st_j":12.517,"st_mass":1.25,"dec":-1.8260419,"st_teff":6250,"st_rad":1.426,"ra":35.2157609,"system_radius":9723861.55,"pl_hostname":"WASP-116","stellar_type":"F","tic_id":"TIC 332911893","magnitude":12.517},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/501243","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876413"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 501243,
+  "date": "2025-04-25T05:59:15",
+  "date_gmt": "2025-04-25T09:59:15",
+  "modified": "2025-04-25T05:59:15",
+  "modified_gmt": "2025-04-25T09:59:15",
+  "slug": "wasp-116",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-116/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-116",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876413
+    ],
+    "exo_id": "WASP-116",
+    "st_optmag": 12.517,
+    "st_vj": 12.517,
+    "st_dist": 559.243,
+    "st_j": 12.517,
+    "st_mass": 1.25,
+    "dec": -1.8260419,
+    "st_teff": 6250,
+    "st_rad": 1.426,
+    "ra": 35.2157609,
+    "system_radius": 9723861.55,
+    "pl_hostname": "WASP-116",
+    "stellar_type": "F",
+    "tic_id": "TIC 332911893",
+    "magnitude": 12.517
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/501243",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876413"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

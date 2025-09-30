@@ -1,1 +1,81 @@
-{"id":261650,"date":"2023-11-28T20:41:01","date_gmt":"2023-11-29T01:41:01","modified":"2025-06-13T07:33:30","modified_gmt":"2025-06-13T11:33:30","slug":"kepler-350","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-350/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-350","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247029,"1":247030,"2":247028},"exo_id":"Kepler-350","st_optmag":13.965,"st_vj":13.965,"st_dist":956.859,"st_j":13.965,"st_mass":1,"dec":39.7061009,"st_teff":6492.3,"st_rad":1.25,"ra":285.4195845,"system_radius":26718179.582,"pl_hostname":"Kepler-350","stellar_type":"F","tic_id":"TIC 120498491","magnitude":13.965},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261650","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247030"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247029"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247028"}]}}
+{
+  "id": 261650,
+  "date": "2023-11-28T20:41:01",
+  "date_gmt": "2023-11-29T01:41:01",
+  "modified": "2025-06-13T07:33:30",
+  "modified_gmt": "2025-06-13T11:33:30",
+  "slug": "kepler-350",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-350/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-350",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247029,
+      "1": 247030,
+      "2": 247028
+    },
+    "exo_id": "Kepler-350",
+    "st_optmag": 13.965,
+    "st_vj": 13.965,
+    "st_dist": 956.859,
+    "st_j": 13.965,
+    "st_mass": 1,
+    "dec": 39.7061009,
+    "st_teff": 6492.3,
+    "st_rad": 1.25,
+    "ra": 285.4195845,
+    "system_radius": 26718179.582,
+    "pl_hostname": "Kepler-350",
+    "stellar_type": "F",
+    "tic_id": "TIC 120498491",
+    "magnitude": 13.965
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261650",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247030"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247029"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247028"
+      }
+    ]
+  }
+}

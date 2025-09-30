@@ -1,1 +1,71 @@
-{"id":262425,"date":"2023-11-28T20:50:49","date_gmt":"2023-11-29T01:50:49","modified":"2025-04-23T05:55:17","modified_gmt":"2025-04-23T09:55:17","slug":"corot-2","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-2/","featured_media":0,"categories":[],"acf":{"display_name":"CoRoT-2","custom_star_title":"","aliases":"","constellation":"Aquila","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243496],"exo_id":"CoRoT-2","st_optmag":12.516,"st_vj":12.516,"st_dist":213.283,"st_j":12.516,"st_mass":0.96,"dec":1.3836634,"st_teff":5625,"st_rad":0.906,"ra":291.7770457,"system_radius":4185748.4026,"pl_hostname":"CoRoT-2","stellar_type":"G","tic_id":"TIC 391958006","magnitude":12.516},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262425","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243496"}]}}
+{
+  "id": 262425,
+  "date": "2023-11-28T20:50:49",
+  "date_gmt": "2023-11-29T01:50:49",
+  "modified": "2025-04-23T05:55:17",
+  "modified_gmt": "2025-04-23T09:55:17",
+  "slug": "corot-2",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-2/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-2",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquila",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243496
+    ],
+    "exo_id": "CoRoT-2",
+    "st_optmag": 12.516,
+    "st_vj": 12.516,
+    "st_dist": 213.283,
+    "st_j": 12.516,
+    "st_mass": 0.96,
+    "dec": 1.3836634,
+    "st_teff": 5625,
+    "st_rad": 0.906,
+    "ra": 291.7770457,
+    "system_radius": 4185748.4026,
+    "pl_hostname": "CoRoT-2",
+    "stellar_type": "G",
+    "tic_id": "TIC 391958006",
+    "magnitude": 12.516
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262425",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243496"
+      }
+    ]
+  }
+}

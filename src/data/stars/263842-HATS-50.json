@@ -1,1 +1,71 @@
-{"id":263842,"date":"2023-11-28T21:08:55","date_gmt":"2023-11-29T02:08:55","modified":"2025-04-23T05:57:07","modified_gmt":"2025-04-23T09:57:07","slug":"hats-50","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-50/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-50","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243835],"exo_id":"HATS-50","st_optmag":14.045,"st_vj":14.045,"st_dist":756.742,"st_j":14.045,"st_mass":1.168,"dec":-26.077564,"st_teff":5990,"st_rad":1.117,"ra":300.4280761,"system_radius":7548708.5202,"pl_hostname":"HATS-50","stellar_type":"F","tic_id":"TIC 301031110","magnitude":14.045},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263842","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243835"}]}}
+{
+  "id": 263842,
+  "date": "2023-11-28T21:08:55",
+  "date_gmt": "2023-11-29T02:08:55",
+  "modified": "2025-04-23T05:57:07",
+  "modified_gmt": "2025-04-23T09:57:07",
+  "slug": "hats-50",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-50/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-50",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243835
+    ],
+    "exo_id": "HATS-50",
+    "st_optmag": 14.045,
+    "st_vj": 14.045,
+    "st_dist": 756.742,
+    "st_j": 14.045,
+    "st_mass": 1.168,
+    "dec": -26.077564,
+    "st_teff": 5990,
+    "st_rad": 1.117,
+    "ra": 300.4280761,
+    "system_radius": 7548708.5202,
+    "pl_hostname": "HATS-50",
+    "stellar_type": "F",
+    "tic_id": "TIC 301031110",
+    "magnitude": 14.045
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263842",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243835"
+      }
+    ]
+  }
+}

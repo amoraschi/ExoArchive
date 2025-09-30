@@ -1,1 +1,71 @@
-{"id":261884,"date":"2023-11-28T20:43:57","date_gmt":"2023-11-29T01:43:57","modified":"2025-04-23T05:53:33","modified_gmt":"2025-04-23T09:53:33","slug":"wasp-79","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-79/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-79","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248898],"exo_id":"WASP-79","st_optmag":10.044,"st_vj":10.044,"st_dist":246.69,"st_j":10.044,"st_mass":1.39,"dec":-30.6004362,"st_teff":6600,"st_rad":1.51,"ra":66.3709016,"system_radius":7764129.453,"pl_hostname":"WASP-79","stellar_type":"F","tic_id":"TIC 170634116","magnitude":10.044},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261884","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248898"}]}}
+{
+  "id": 261884,
+  "date": "2023-11-28T20:43:57",
+  "date_gmt": "2023-11-29T01:43:57",
+  "modified": "2025-04-23T05:53:33",
+  "modified_gmt": "2025-04-23T09:53:33",
+  "slug": "wasp-79",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-79/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-79",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248898
+    ],
+    "exo_id": "WASP-79",
+    "st_optmag": 10.044,
+    "st_vj": 10.044,
+    "st_dist": 246.69,
+    "st_j": 10.044,
+    "st_mass": 1.39,
+    "dec": -30.6004362,
+    "st_teff": 6600,
+    "st_rad": 1.51,
+    "ra": 66.3709016,
+    "system_radius": 7764129.453,
+    "pl_hostname": "WASP-79",
+    "stellar_type": "F",
+    "tic_id": "TIC 170634116",
+    "magnitude": 10.044
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261884",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248898"
+      }
+    ]
+  }
+}

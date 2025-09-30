@@ -1,1 +1,71 @@
-{"id":262830,"date":"2023-11-28T20:55:59","date_gmt":"2023-11-29T01:55:59","modified":"2025-04-23T05:56:49","modified_gmt":"2025-04-23T09:56:49","slug":"kepler-1605","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1605/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1605","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246072],"exo_id":"Kepler-1605","st_optmag":12.592,"st_vj":12.592,"st_dist":546.23,"st_j":12.592,"st_mass":0.86,"dec":47.4886251,"st_teff":5280,"st_rad":0.82,"ra":287.1349405,"system_radius":54703453.1229,"pl_hostname":"Kepler-1605","stellar_type":"K","tic_id":"TIC 158394902","magnitude":12.592},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262830","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246072"}]}}
+{
+  "id": 262830,
+  "date": "2023-11-28T20:55:59",
+  "date_gmt": "2023-11-29T01:55:59",
+  "modified": "2025-04-23T05:56:49",
+  "modified_gmt": "2025-04-23T09:56:49",
+  "slug": "kepler-1605",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1605/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1605",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246072
+    ],
+    "exo_id": "Kepler-1605",
+    "st_optmag": 12.592,
+    "st_vj": 12.592,
+    "st_dist": 546.23,
+    "st_j": 12.592,
+    "st_mass": 0.86,
+    "dec": 47.4886251,
+    "st_teff": 5280,
+    "st_rad": 0.82,
+    "ra": 287.1349405,
+    "system_radius": 54703453.1229,
+    "pl_hostname": "Kepler-1605",
+    "stellar_type": "K",
+    "tic_id": "TIC 158394902",
+    "magnitude": 12.592
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262830",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246072"
+      }
+    ]
+  }
+}

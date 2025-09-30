@@ -1,1 +1,79 @@
-{"id":244889,"date":"2018-02-16T12:26:17","date_gmt":"2018-02-16T17:26:17","modified":"2025-03-28T07:22:57","modified_gmt":"2025-03-28T11:22:57","slug":"k2-222-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-222-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-222","pl_letter":"b","display_name":"K2-222 b","planet_radius":"2.35 x Earth","derived_description":"K2-222 b is a super Earth exoplanet that orbits a G-type star. Its mass is 8.7 Earths, it takes 15.4 days to complete one orbit of its star, and is 0.1206 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":101.321,"planet_mass":"8.7 Earths","st_optmag":9.543,"discovery_date":"2018","pl_orbsmax":0.1206,"period_display":"15.4 days","eccentricity":"< 0.16","star_id":262768,"pl_orbper":15.38857,"pl_kepflag":true,"pl_radj":0.20965332,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.35,"exo_id":"K2-222_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0.16,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244889","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262768"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244889,
+  "date": "2018-02-16T12:26:17",
+  "date_gmt": "2018-02-16T17:26:17",
+  "modified": "2025-03-28T07:22:57",
+  "modified_gmt": "2025-03-28T11:22:57",
+  "slug": "k2-222-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-222-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-222",
+    "pl_letter": "b",
+    "display_name": "K2-222 b",
+    "planet_radius": "2.35 x Earth",
+    "derived_description": "K2-222 b is a super Earth exoplanet that orbits a G-type star. Its mass is 8.7 Earths, it takes 15.4 days to complete one orbit of its star, and is 0.1206 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 101.321,
+    "planet_mass": "8.7 Earths",
+    "st_optmag": 9.543,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.1206,
+    "period_display": "15.4 days",
+    "eccentricity": "< 0.16",
+    "star_id": 262768,
+    "pl_orbper": 15.38857,
+    "pl_kepflag": true,
+    "pl_radj": 0.20965332,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.35,
+    "exo_id": "K2-222_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0.16,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244889",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262768"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

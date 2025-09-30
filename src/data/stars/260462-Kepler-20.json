@@ -1,1 +1,96 @@
-{"id":260462,"date":"2023-11-28T20:26:05","date_gmt":"2023-11-29T01:26:05","modified":"2025-06-13T07:33:55","modified_gmt":"2025-06-13T11:33:55","slug":"kepler-20","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-20/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-20","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246639,"1":246634,"2":246635,"3":246636,"4":246638,"5":246637},"exo_id":"Kepler-20","st_optmag":12.61,"st_vj":12.61,"st_dist":282.563,"st_j":12.61,"st_mass":0.948,"dec":42.3385782,"st_teff":5495,"st_rad":0.9639,"ra":287.6979913,"system_radius":51970300.038,"pl_hostname":"Kepler-20","stellar_type":"G","tic_id":"TIC 158554588","magnitude":12.61},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260462","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246639"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246638"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246637"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246636"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246635"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246634"}]}}
+{
+  "id": 260462,
+  "date": "2023-11-28T20:26:05",
+  "date_gmt": "2023-11-29T01:26:05",
+  "modified": "2025-06-13T07:33:55",
+  "modified_gmt": "2025-06-13T11:33:55",
+  "slug": "kepler-20",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-20/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-20",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246639,
+      "1": 246634,
+      "2": 246635,
+      "3": 246636,
+      "4": 246638,
+      "5": 246637
+    },
+    "exo_id": "Kepler-20",
+    "st_optmag": 12.61,
+    "st_vj": 12.61,
+    "st_dist": 282.563,
+    "st_j": 12.61,
+    "st_mass": 0.948,
+    "dec": 42.3385782,
+    "st_teff": 5495,
+    "st_rad": 0.9639,
+    "ra": 287.6979913,
+    "system_radius": 51970300.038,
+    "pl_hostname": "Kepler-20",
+    "stellar_type": "G",
+    "tic_id": "TIC 158554588",
+    "magnitude": 12.61
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260462",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246639"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246638"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246637"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246636"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246635"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246634"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243925,"date":"2022-12-23T07:31:40","date_gmt":"2022-12-23T12:31:40","modified":"2025-07-07T20:37:22","modified_gmt":"2025-07-08T00:37:22","slug":"hd-109833-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-109833-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_109833","pl_letter":"c","display_name":"HD 109833 c","planet_radius":"0.23106472 x Jupiter","derived_description":"HD 109833 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.22 Earths, it takes 13.9 days to complete one orbit of its star, and is 0.11607953959119 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":79.5561,"planet_mass":"7.22 Earths","st_optmag":9.29,"discovery_date":"2022","pl_orbsmax":"","period_display":"13.9 days","eccentricity":"0.3","star_id":260718,"pl_orbper":13.900148,"pl_kepflag":false,"pl_radj":0.23106472,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.59,"exo_id":"HD_109833_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.3},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243925","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260718"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243925,
+  "date": "2022-12-23T07:31:40",
+  "date_gmt": "2022-12-23T12:31:40",
+  "modified": "2025-07-07T20:37:22",
+  "modified_gmt": "2025-07-08T00:37:22",
+  "slug": "hd-109833-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-109833-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_109833",
+    "pl_letter": "c",
+    "display_name": "HD 109833 c",
+    "planet_radius": "0.23106472 x Jupiter",
+    "derived_description": "HD 109833 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.22 Earths, it takes 13.9 days to complete one orbit of its star, and is 0.11607953959119 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 79.5561,
+    "planet_mass": "7.22 Earths",
+    "st_optmag": 9.29,
+    "discovery_date": "2022",
+    "pl_orbsmax": "",
+    "period_display": "13.9 days",
+    "eccentricity": "0.3",
+    "star_id": 260718,
+    "pl_orbper": 13.900148,
+    "pl_kepflag": false,
+    "pl_radj": 0.23106472,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.59,
+    "exo_id": "HD_109833_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.3
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243925",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260718"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

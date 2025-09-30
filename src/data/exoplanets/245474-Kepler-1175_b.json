@@ -1,1 +1,79 @@
-{"id":245474,"date":"2017-10-02T13:32:44","date_gmt":"2017-10-02T17:32:44","modified":"2025-03-28T07:26:37","modified_gmt":"2025-03-28T11:26:37","slug":"kepler-1175-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1175-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1175","pl_letter":"b","display_name":"Kepler-1175 b","planet_radius":"0.26674993 x Jupiter","derived_description":"Kepler-1175 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 9.22 Earths, it takes 37.9 days to complete one orbit of its star, and is 0.2181 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1121.89,"planet_mass":"9.22 Earths","st_optmag":15.972,"discovery_date":"2016","pl_orbsmax":0.2181,"period_display":"37.9 days","eccentricity":"0.0","star_id":263399,"pl_orbper":37.94563,"pl_kepflag":true,"pl_radj":0.26674993,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.99,"exo_id":"Kepler-1175_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245474","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263399"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245474,
+  "date": "2017-10-02T13:32:44",
+  "date_gmt": "2017-10-02T17:32:44",
+  "modified": "2025-03-28T07:26:37",
+  "modified_gmt": "2025-03-28T11:26:37",
+  "slug": "kepler-1175-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1175-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1175",
+    "pl_letter": "b",
+    "display_name": "Kepler-1175 b",
+    "planet_radius": "0.26674993 x Jupiter",
+    "derived_description": "Kepler-1175 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 9.22 Earths, it takes 37.9 days to complete one orbit of its star, and is 0.2181 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1121.89,
+    "planet_mass": "9.22 Earths",
+    "st_optmag": 15.972,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.2181,
+    "period_display": "37.9 days",
+    "eccentricity": "0.0",
+    "star_id": 263399,
+    "pl_orbper": 37.94563,
+    "pl_kepflag": true,
+    "pl_radj": 0.26674993,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.99,
+    "exo_id": "Kepler-1175_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245474",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263399"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

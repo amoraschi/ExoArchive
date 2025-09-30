@@ -1,1 +1,79 @@
-{"id":244184,"date":"2022-11-12T01:17:03","date_gmt":"2022-11-12T06:17:03","modified":"2025-03-28T07:23:59","modified_gmt":"2025-03-28T11:23:59","slug":"hd-18599-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-18599-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_18599","pl_letter":"b","display_name":"HD 18599 b","planet_radius":"0.23195686 x Jupiter","derived_description":"HD 18599 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 24.1 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.048 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":38.5653,"planet_mass":"24.1 Earths","st_optmag":8.99,"discovery_date":"2022","pl_orbsmax":0.048,"period_display":"4.1 days","eccentricity":"0.34","star_id":263679,"pl_orbper":4.1374354,"pl_kepflag":false,"pl_radj":0.23195686,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":-2.5,"multiple_planet_system":false,"pl_rade":2.6,"exo_id":"HD_18599_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.34},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244184","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263679"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244184,
+  "date": "2022-11-12T01:17:03",
+  "date_gmt": "2022-11-12T06:17:03",
+  "modified": "2025-03-28T07:23:59",
+  "modified_gmt": "2025-03-28T11:23:59",
+  "slug": "hd-18599-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-18599-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_18599",
+    "pl_letter": "b",
+    "display_name": "HD 18599 b",
+    "planet_radius": "0.23195686 x Jupiter",
+    "derived_description": "HD 18599 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 24.1 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.048 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 38.5653,
+    "planet_mass": "24.1 Earths",
+    "st_optmag": 8.99,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.048,
+    "period_display": "4.1 days",
+    "eccentricity": "0.34",
+    "star_id": 263679,
+    "pl_orbper": 4.1374354,
+    "pl_kepflag": false,
+    "pl_radj": 0.23195686,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": -2.5,
+    "multiple_planet_system": false,
+    "pl_rade": 2.6,
+    "exo_id": "HD_18599_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.34
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244184",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263679"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

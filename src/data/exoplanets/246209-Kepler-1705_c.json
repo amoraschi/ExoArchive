@@ -1,1 +1,79 @@
-{"id":246209,"date":"2022-01-13T17:04:31","date_gmt":"2022-01-13T22:04:31","modified":"2025-07-07T20:36:19","modified_gmt":"2025-07-08T00:36:19","slug":"kepler-1705-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1705-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1705","pl_letter":"c","display_name":"Kepler-1705 c","planet_radius":"2.05 x Earth","derived_description":"Kepler-1705 c is a super Earth exoplanet that orbits a F-type star. Its mass is 5.42 Earths, it takes 11.3 days to complete one orbit of its star, and is 0.10279739672808 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1633.49,"planet_mass":"5.42 Earths","st_optmag":15.8,"discovery_date":"2021","pl_orbsmax":"","period_display":"11.3 days","eccentricity":"0.03","star_id":264004,"pl_orbper":11.28,"pl_kepflag":true,"pl_radj":0.18288907,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":-38,"multiple_planet_system":false,"pl_rade":2.05,"exo_id":"Kepler-1705_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.028},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246209","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264004"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246209,
+  "date": "2022-01-13T17:04:31",
+  "date_gmt": "2022-01-13T22:04:31",
+  "modified": "2025-07-07T20:36:19",
+  "modified_gmt": "2025-07-08T00:36:19",
+  "slug": "kepler-1705-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1705-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1705",
+    "pl_letter": "c",
+    "display_name": "Kepler-1705 c",
+    "planet_radius": "2.05 x Earth",
+    "derived_description": "Kepler-1705 c is a super Earth exoplanet that orbits a F-type star. Its mass is 5.42 Earths, it takes 11.3 days to complete one orbit of its star, and is 0.10279739672808 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1633.49,
+    "planet_mass": "5.42 Earths",
+    "st_optmag": 15.8,
+    "discovery_date": "2021",
+    "pl_orbsmax": "",
+    "period_display": "11.3 days",
+    "eccentricity": "0.03",
+    "star_id": 264004,
+    "pl_orbper": 11.28,
+    "pl_kepflag": true,
+    "pl_radj": 0.18288907,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": -38,
+    "multiple_planet_system": false,
+    "pl_rade": 2.05,
+    "exo_id": "Kepler-1705_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.028
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246209",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264004"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

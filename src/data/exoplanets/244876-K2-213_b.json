@@ -1,1 +1,79 @@
-{"id":244876,"date":"2018-02-16T12:26:10","date_gmt":"2018-02-16T17:26:10","modified":"2025-03-28T07:24:28","modified_gmt":"2025-03-28T11:24:28","slug":"k2-213-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-213-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-213","pl_letter":"b","display_name":"K2-213 b","planet_radius":"1.51398464 x Earth","derived_description":"K2-213 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.9 Earths, it takes 8.1 days to complete one orbit of its star, and is 0.080928112326935 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":389.702,"planet_mass":"2.9 Earths","st_optmag":11.803,"discovery_date":"2018","pl_orbsmax":"","period_display":"8.1 days","eccentricity":"","star_id":263331,"pl_orbper":8.13087,"pl_kepflag":true,"pl_radj":0.13506866,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.51398464,"exo_id":"K2-213_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244876","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263331"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244876,
+  "date": "2018-02-16T12:26:10",
+  "date_gmt": "2018-02-16T17:26:10",
+  "modified": "2025-03-28T07:24:28",
+  "modified_gmt": "2025-03-28T11:24:28",
+  "slug": "k2-213-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-213-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-213",
+    "pl_letter": "b",
+    "display_name": "K2-213 b",
+    "planet_radius": "1.51398464 x Earth",
+    "derived_description": "K2-213 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.9 Earths, it takes 8.1 days to complete one orbit of its star, and is 0.080928112326935 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 389.702,
+    "planet_mass": "2.9 Earths",
+    "st_optmag": 11.803,
+    "discovery_date": "2018",
+    "pl_orbsmax": "",
+    "period_display": "8.1 days",
+    "eccentricity": "",
+    "star_id": 263331,
+    "pl_orbper": 8.13087,
+    "pl_kepflag": true,
+    "pl_radj": 0.13506866,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.51398464,
+    "exo_id": "K2-213_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244876",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263331"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

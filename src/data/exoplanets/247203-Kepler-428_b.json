@@ -1,1 +1,79 @@
-{"id":247203,"date":"2017-10-02T13:32:41","date_gmt":"2017-10-02T17:32:41","modified":"2024-10-24T19:50:03","modified_gmt":"2024-10-24T23:50:03","slug":"kepler-428-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-428-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-428","pl_letter":"b","display_name":"Kepler-428 b","planet_radius":"1.08 x Jupiter","derived_description":"Kepler-428 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.27 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.0433 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":686.284,"planet_mass":"1.27 Jupiters","st_optmag":15.362,"discovery_date":"2014","pl_orbsmax":0.0433,"period_display":"3.5 days","eccentricity":"< 0.22","star_id":261140,"pl_orbper":3.52563254,"pl_kepflag":true,"pl_radj":1.08,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.11,"exo_id":"Kepler-428_b","planet_size_class":"Jovian","pl_eccenlim":0.22,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247203","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261140"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 247203,
+  "date": "2017-10-02T13:32:41",
+  "date_gmt": "2017-10-02T17:32:41",
+  "modified": "2024-10-24T19:50:03",
+  "modified_gmt": "2024-10-24T23:50:03",
+  "slug": "kepler-428-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-428-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-428",
+    "pl_letter": "b",
+    "display_name": "Kepler-428 b",
+    "planet_radius": "1.08 x Jupiter",
+    "derived_description": "Kepler-428 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.27 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.0433 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 686.284,
+    "planet_mass": "1.27 Jupiters",
+    "st_optmag": 15.362,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.0433,
+    "period_display": "3.5 days",
+    "eccentricity": "< 0.22",
+    "star_id": 261140,
+    "pl_orbper": 3.52563254,
+    "pl_kepflag": true,
+    "pl_radj": 1.08,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.11,
+    "exo_id": "Kepler-428_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.22,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247203",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261140"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

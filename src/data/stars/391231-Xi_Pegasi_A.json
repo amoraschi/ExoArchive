@@ -1,1 +1,69 @@
-{"id":391231,"date":"2024-04-30T20:01:21","date_gmt":"2024-05-01T00:01:21","modified":"2025-04-23T05:57:31","modified_gmt":"2025-04-23T09:57:31","slug":"xi-pegasi-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/xi-pegasi-a/","featured_media":429647,"categories":[],"acf":{"display_name":"Xi Pegasi A","custom_star_title":"","aliases":"XiPegasiA,HD215648A,HR8665,GJ872A,HD 215648 A,HR 8665,GJ 872A","constellation":"Pegasus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Xi_Pegasi_A","st_optmag":4.2,"st_vj":4.2,"st_dist":16.1509,"st_j":4.2,"st_mass":1.25,"dec":12.1728858,"st_teff":6193,"st_rad":1.852,"ra":341.6732494,"system_radius":149597870,"pl_hostname":"Xi_Pegasi_A","stellar_type":"F","tic_id":"TIC 60716322","magnitude":4.2},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391231","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391231,
+  "date": "2024-04-30T20:01:21",
+  "date_gmt": "2024-05-01T00:01:21",
+  "modified": "2025-04-23T05:57:31",
+  "modified_gmt": "2025-04-23T09:57:31",
+  "slug": "xi-pegasi-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/xi-pegasi-a/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Xi Pegasi A",
+    "custom_star_title": "",
+    "aliases": "XiPegasiA,HD215648A,HR8665,GJ872A,HD 215648 A,HR 8665,GJ 872A",
+    "constellation": "Pegasus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Xi_Pegasi_A",
+    "st_optmag": 4.2,
+    "st_vj": 4.2,
+    "st_dist": 16.1509,
+    "st_j": 4.2,
+    "st_mass": 1.25,
+    "dec": 12.1728858,
+    "st_teff": 6193,
+    "st_rad": 1.852,
+    "ra": 341.6732494,
+    "system_radius": 149597870,
+    "pl_hostname": "Xi_Pegasi_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 60716322",
+    "magnitude": 4.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391231",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

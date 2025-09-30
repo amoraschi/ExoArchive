@@ -1,1 +1,79 @@
-{"id":245273,"date":"2017-10-02T13:32:59","date_gmt":"2017-10-02T17:32:59","modified":"2025-03-28T07:28:21","modified_gmt":"2025-03-28T11:28:21","slug":"kepler-1033-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1033-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1033","pl_letter":"b","display_name":"Kepler-1033 b","planet_radius":"0.2239272 x Jupiter","derived_description":"Kepler-1033 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.85 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.0761 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1455.5,"planet_mass":"6.85 Earths","st_optmag":16.186,"discovery_date":"2016","pl_orbsmax":0.0761,"period_display":"7.6 days","eccentricity":"0.0","star_id":264092,"pl_orbper":7.56052806,"pl_kepflag":true,"pl_radj":0.2239272,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.51,"exo_id":"Kepler-1033_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245273","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264092"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245273,
+  "date": "2017-10-02T13:32:59",
+  "date_gmt": "2017-10-02T17:32:59",
+  "modified": "2025-03-28T07:28:21",
+  "modified_gmt": "2025-03-28T11:28:21",
+  "slug": "kepler-1033-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1033-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1033",
+    "pl_letter": "b",
+    "display_name": "Kepler-1033 b",
+    "planet_radius": "0.2239272 x Jupiter",
+    "derived_description": "Kepler-1033 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.85 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.0761 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1455.5,
+    "planet_mass": "6.85 Earths",
+    "st_optmag": 16.186,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0761,
+    "period_display": "7.6 days",
+    "eccentricity": "0.0",
+    "star_id": 264092,
+    "pl_orbper": 7.56052806,
+    "pl_kepflag": true,
+    "pl_radj": 0.2239272,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.51,
+    "exo_id": "Kepler-1033_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245273",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264092"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

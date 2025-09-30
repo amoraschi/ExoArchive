@@ -1,1 +1,79 @@
-{"id":244274,"date":"2019-05-16T16:04:45","date_gmt":"2019-05-16T20:04:45","modified":"2025-03-28T07:22:14","modified_gmt":"2025-03-28T11:22:14","slug":"hd-21411-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-21411-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_21411","pl_letter":"b","display_name":"HD 21411 b","planet_radius":"0.85 x Jupiter (estimate)","derived_description":"HD 21411 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.20734355 Jupiters, it takes 84.3 days to complete one orbit of its star, and is 0.362 AU from its star. Its discovery was announced in 2019.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Las Campanas Observatory","st_dist":29.1328,"planet_mass":"0.20734355 Jupiters","st_optmag":7.88,"discovery_date":"2019","pl_orbsmax":0.362,"period_display":"84.3 days","eccentricity":"0.4","star_id":260592,"pl_orbper":84.288,"pl_kepflag":false,"pl_radj":0.85,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":332.42,"multiple_planet_system":false,"pl_rade":9.52,"exo_id":"HD_21411_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244274","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260592"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244274,
+  "date": "2019-05-16T16:04:45",
+  "date_gmt": "2019-05-16T20:04:45",
+  "modified": "2025-03-28T07:22:14",
+  "modified_gmt": "2025-03-28T11:22:14",
+  "slug": "hd-21411-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-21411-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_21411",
+    "pl_letter": "b",
+    "display_name": "HD 21411 b",
+    "planet_radius": "0.85 x Jupiter (estimate)",
+    "derived_description": "HD 21411 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.20734355 Jupiters, it takes 84.3 days to complete one orbit of its star, and is 0.362 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Las Campanas Observatory",
+    "st_dist": 29.1328,
+    "planet_mass": "0.20734355 Jupiters",
+    "st_optmag": 7.88,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.362,
+    "period_display": "84.3 days",
+    "eccentricity": "0.4",
+    "star_id": 260592,
+    "pl_orbper": 84.288,
+    "pl_kepflag": false,
+    "pl_radj": 0.85,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 332.42,
+    "multiple_planet_system": false,
+    "pl_rade": 9.52,
+    "exo_id": "HD_21411_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244274",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260592"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

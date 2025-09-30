@@ -1,1 +1,76 @@
-{"id":262753,"date":"2023-11-28T20:55:00","date_gmt":"2023-11-29T01:55:00","modified":"2025-06-13T07:33:45","modified_gmt":"2025-06-13T11:33:45","slug":"wasp-41","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-41/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-41","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":248854,"1":248853},"exo_id":"WASP-41","st_optmag":11.632,"st_vj":11.632,"st_dist":163.371,"st_j":11.632,"st_mass":0.93,"dec":-30.6398176,"st_teff":5545,"st_rad":0.87,"ra":190.6188034,"system_radius":160069720.9,"pl_hostname":"WASP-41","stellar_type":"G","tic_id":"TIC 398943781","magnitude":11.632},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262753","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248854"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248853"}]}}
+{
+  "id": 262753,
+  "date": "2023-11-28T20:55:00",
+  "date_gmt": "2023-11-29T01:55:00",
+  "modified": "2025-06-13T07:33:45",
+  "modified_gmt": "2025-06-13T11:33:45",
+  "slug": "wasp-41",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-41/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-41",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 248854,
+      "1": 248853
+    },
+    "exo_id": "WASP-41",
+    "st_optmag": 11.632,
+    "st_vj": 11.632,
+    "st_dist": 163.371,
+    "st_j": 11.632,
+    "st_mass": 0.93,
+    "dec": -30.6398176,
+    "st_teff": 5545,
+    "st_rad": 0.87,
+    "ra": 190.6188034,
+    "system_radius": 160069720.9,
+    "pl_hostname": "WASP-41",
+    "stellar_type": "G",
+    "tic_id": "TIC 398943781",
+    "magnitude": 11.632
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262753",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248854"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248853"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":264311,"date":"2023-11-28T21:14:55","date_gmt":"2023-11-29T02:14:55","modified":"2025-04-23T05:56:30","modified_gmt":"2025-04-23T09:56:30","slug":"kepler-1755","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1755/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1755","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246273],"exo_id":"Kepler-1755","st_optmag":14.544,"st_vj":14.544,"st_dist":982.383,"st_j":14.544,"st_mass":1.003,"dec":40.1385777,"st_teff":6086,"st_rad":0.921,"ra":296.846092,"system_radius":24952924.716,"pl_hostname":"Kepler-1755","stellar_type":"F","tic_id":"TIC 239225129","magnitude":14.544},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264311","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246273"}]}}
+{
+  "id": 264311,
+  "date": "2023-11-28T21:14:55",
+  "date_gmt": "2023-11-29T02:14:55",
+  "modified": "2025-04-23T05:56:30",
+  "modified_gmt": "2025-04-23T09:56:30",
+  "slug": "kepler-1755",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1755/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1755",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246273
+    ],
+    "exo_id": "Kepler-1755",
+    "st_optmag": 14.544,
+    "st_vj": 14.544,
+    "st_dist": 982.383,
+    "st_j": 14.544,
+    "st_mass": 1.003,
+    "dec": 40.1385777,
+    "st_teff": 6086,
+    "st_rad": 0.921,
+    "ra": 296.846092,
+    "system_radius": 24952924.716,
+    "pl_hostname": "Kepler-1755",
+    "stellar_type": "F",
+    "tic_id": "TIC 239225129",
+    "magnitude": 14.544
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264311",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246273"
+      }
+    ]
+  }
+}

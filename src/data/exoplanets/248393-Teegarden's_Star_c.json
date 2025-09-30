@@ -1,1 +1,79 @@
-{"id":248393,"date":"2019-06-28T13:26:46","date_gmt":"2019-06-28T17:26:46","modified":"2025-07-07T20:38:15","modified_gmt":"2025-07-08T00:38:15","slug":"teegardens-star-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/teegardens-star-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Teegarden's_Star","pl_letter":"c","display_name":"Teegarden's Star c","planet_radius":"1.02 x Earth (estimate)","derived_description":"Teegarden's Star c is a super Earth exoplanet that orbits a M-type star. Its mass is 1.05 Earths, it takes 11.4 days to complete one orbit of its star, and is 0.0455 AU from its star. Its discovery was announced in 2019.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Calar Alto Observatory","st_dist":3.83078,"planet_mass":"1.05 Earths","st_optmag":15.13,"discovery_date":"2019","pl_orbsmax":0.0455,"period_display":"11.4 days","eccentricity":"0.04","star_id":263466,"pl_orbper":11.416,"pl_kepflag":false,"pl_radj":0.0912,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":301,"multiple_planet_system":false,"pl_rade":1.02,"exo_id":"Teegarden's_Star_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248393","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263466"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248393,
+  "date": "2019-06-28T13:26:46",
+  "date_gmt": "2019-06-28T17:26:46",
+  "modified": "2025-07-07T20:38:15",
+  "modified_gmt": "2025-07-08T00:38:15",
+  "slug": "teegardens-star-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/teegardens-star-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Teegarden's_Star",
+    "pl_letter": "c",
+    "display_name": "Teegarden's Star c",
+    "planet_radius": "1.02 x Earth (estimate)",
+    "derived_description": "Teegarden's Star c is a super Earth exoplanet that orbits a M-type star. Its mass is 1.05 Earths, it takes 11.4 days to complete one orbit of its star, and is 0.0455 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Calar Alto Observatory",
+    "st_dist": 3.83078,
+    "planet_mass": "1.05 Earths",
+    "st_optmag": 15.13,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.0455,
+    "period_display": "11.4 days",
+    "eccentricity": "0.04",
+    "star_id": 263466,
+    "pl_orbper": 11.416,
+    "pl_kepflag": false,
+    "pl_radj": 0.0912,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 301,
+    "multiple_planet_system": false,
+    "pl_rade": 1.02,
+    "exo_id": "Teegarden's_Star_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248393",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263466"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

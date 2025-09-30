@@ -1,1 +1,79 @@
-{"id":248940,"date":"2019-04-22T16:49:18","date_gmt":"2019-04-22T20:49:18","modified":"2025-07-07T17:56:12","modified_gmt":"2025-07-07T21:56:12","slug":"xo-2-s-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/xo-2-s-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"XO-2_S","pl_letter":"c","display_name":"XO-2 S c","planet_radius":"1.21 x Jupiter (estimate)","derived_description":"XO-2 S c is a gas giant exoplanet that orbits a G-type star. Its mass is 1.37 Jupiters, it takes 120.8 days to complete one orbit of its star, and is 0.4756 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Roque de los Muchachos Observatory","st_dist":151.398,"planet_mass":"1.37 Jupiters","st_optmag":11.196,"discovery_date":"2014","pl_orbsmax":0.4756,"period_display":"120.8 days","eccentricity":"0.15","star_id":262508,"pl_orbper":120.8,"pl_kepflag":false,"pl_radj":1.21,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":264.5,"multiple_planet_system":false,"pl_rade":13.6,"exo_id":"XO-2_S_c","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.1528},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248940","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262508"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248940,
+  "date": "2019-04-22T16:49:18",
+  "date_gmt": "2019-04-22T20:49:18",
+  "modified": "2025-07-07T17:56:12",
+  "modified_gmt": "2025-07-07T21:56:12",
+  "slug": "xo-2-s-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/xo-2-s-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "XO-2_S",
+    "pl_letter": "c",
+    "display_name": "XO-2 S c",
+    "planet_radius": "1.21 x Jupiter (estimate)",
+    "derived_description": "XO-2 S c is a gas giant exoplanet that orbits a G-type star. Its mass is 1.37 Jupiters, it takes 120.8 days to complete one orbit of its star, and is 0.4756 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Roque de los Muchachos Observatory",
+    "st_dist": 151.398,
+    "planet_mass": "1.37 Jupiters",
+    "st_optmag": 11.196,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.4756,
+    "period_display": "120.8 days",
+    "eccentricity": "0.15",
+    "star_id": 262508,
+    "pl_orbper": 120.8,
+    "pl_kepflag": false,
+    "pl_radj": 1.21,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": 264.5,
+    "multiple_planet_system": false,
+    "pl_rade": 13.6,
+    "exo_id": "XO-2_S_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.1528
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248940",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262508"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

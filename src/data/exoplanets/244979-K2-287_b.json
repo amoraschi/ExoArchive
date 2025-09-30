@@ -1,1 +1,79 @@
-{"id":244979,"date":"2019-01-11T12:26:18","date_gmt":"2019-01-11T17:26:18","modified":"2025-03-28T07:31:44","modified_gmt":"2025-03-28T11:31:44","slug":"k2-287-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-287-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"K2-287","pl_letter":"b","display_name":"K2-287 b","planet_radius":"0.847 x Jupiter","derived_description":"K2-287 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.315 Jupiters, it takes 14.9 days to complete one orbit of its star, and is 0.1206 AU from its star. Its discovery was announced in 2018.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"K2","st_dist":158.335,"planet_mass":"0.315 Jupiters","st_optmag":11.41,"discovery_date":"2018","pl_orbsmax":0.1206,"period_display":"14.9 days","eccentricity":"0.48","star_id":263366,"pl_orbper":14.893291,"pl_kepflag":true,"pl_radj":0.847,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":10.1,"multiple_planet_system":false,"pl_rade":9.494023,"exo_id":"K2-287_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.478},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244979","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263366"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244979,
+  "date": "2019-01-11T12:26:18",
+  "date_gmt": "2019-01-11T17:26:18",
+  "modified": "2025-03-28T07:31:44",
+  "modified_gmt": "2025-03-28T11:31:44",
+  "slug": "k2-287-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-287-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-287",
+    "pl_letter": "b",
+    "display_name": "K2-287 b",
+    "planet_radius": "0.847 x Jupiter",
+    "derived_description": "K2-287 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.315 Jupiters, it takes 14.9 days to complete one orbit of its star, and is 0.1206 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 158.335,
+    "planet_mass": "0.315 Jupiters",
+    "st_optmag": 11.41,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.1206,
+    "period_display": "14.9 days",
+    "eccentricity": "0.48",
+    "star_id": 263366,
+    "pl_orbper": 14.893291,
+    "pl_kepflag": true,
+    "pl_radj": 0.847,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 10.1,
+    "multiple_planet_system": false,
+    "pl_rade": 9.494023,
+    "exo_id": "K2-287_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.478
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244979",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263366"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

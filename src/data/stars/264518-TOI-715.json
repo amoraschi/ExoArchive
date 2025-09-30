@@ -1,1 +1,71 @@
-{"id":264518,"date":"2023-11-28T21:17:33","date_gmt":"2023-11-29T02:17:33","modified":"2025-04-23T05:56:08","modified_gmt":"2025-04-23T09:56:08","slug":"toi-715","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-715/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-715","custom_star_title":"","aliases":"","constellation":"Volans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248681],"exo_id":"TOI-715","st_optmag":16.683,"st_vj":16.683,"st_dist":42.4048,"st_j":16.683,"st_mass":0.225,"dec":-73.5774089,"st_teff":3075,"st_rad":0.24,"ra":113.8523276,"system_radius":12416623.21,"pl_hostname":"TOI-715","stellar_type":"M","tic_id":"TIC 271971130","magnitude":16.683},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264518","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248681"}]}}
+{
+  "id": 264518,
+  "date": "2023-11-28T21:17:33",
+  "date_gmt": "2023-11-29T02:17:33",
+  "modified": "2025-04-23T05:56:08",
+  "modified_gmt": "2025-04-23T09:56:08",
+  "slug": "toi-715",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-715/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-715",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248681
+    ],
+    "exo_id": "TOI-715",
+    "st_optmag": 16.683,
+    "st_vj": 16.683,
+    "st_dist": 42.4048,
+    "st_j": 16.683,
+    "st_mass": 0.225,
+    "dec": -73.5774089,
+    "st_teff": 3075,
+    "st_rad": 0.24,
+    "ra": 113.8523276,
+    "system_radius": 12416623.21,
+    "pl_hostname": "TOI-715",
+    "stellar_type": "M",
+    "tic_id": "TIC 271971130",
+    "magnitude": 16.683
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264518",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248681"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262720,"date":"2023-11-28T20:54:34","date_gmt":"2023-11-29T01:54:34","modified":"2025-04-23T05:54:40","modified_gmt":"2025-04-23T09:54:40","slug":"koi-12","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/koi-12/","featured_media":0,"categories":[],"acf":{"display_name":"KOI-12","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247240,248103],"exo_id":"KOI-12","st_optmag":11.51,"st_vj":11.51,"st_dist":399.398,"st_j":11.51,"st_mass":1.5,"dec":41.0110188,"st_teff":6635,"st_rad":1.4,"ra":297.4537402,"system_radius":628311054,"pl_hostname":"KOI-12","stellar_type":"F","tic_id":"TIC 169461816","magnitude":11.51},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262720","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248103"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247240"}]}}
+{
+  "id": 262720,
+  "date": "2023-11-28T20:54:34",
+  "date_gmt": "2023-11-29T01:54:34",
+  "modified": "2025-04-23T05:54:40",
+  "modified_gmt": "2025-04-23T09:54:40",
+  "slug": "koi-12",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-12/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-12",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247240,
+      248103
+    ],
+    "exo_id": "KOI-12",
+    "st_optmag": 11.51,
+    "st_vj": 11.51,
+    "st_dist": 399.398,
+    "st_j": 11.51,
+    "st_mass": 1.5,
+    "dec": 41.0110188,
+    "st_teff": 6635,
+    "st_rad": 1.4,
+    "ra": 297.4537402,
+    "system_radius": 628311054,
+    "pl_hostname": "KOI-12",
+    "stellar_type": "F",
+    "tic_id": "TIC 169461816",
+    "magnitude": 11.51
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262720",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248103"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247240"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263052,"date":"2023-11-28T20:58:48","date_gmt":"2023-11-29T01:58:48","modified":"2025-04-23T05:55:27","modified_gmt":"2025-04-23T09:55:27","slug":"kepler-491","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-491/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-491","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247301],"exo_id":"Kepler-491","st_optmag":14.178,"st_vj":14.178,"st_dist":630.785,"st_j":14.178,"st_mass":1.04,"dec":42.3501533,"st_teff":5582,"st_rad":1.03,"ra":287.1305782,"system_radius":7765625.4317,"pl_hostname":"Kepler-491","stellar_type":"G","tic_id":"TIC 158388163","magnitude":14.178},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263052","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247301"}]}}
+{
+  "id": 263052,
+  "date": "2023-11-28T20:58:48",
+  "date_gmt": "2023-11-29T01:58:48",
+  "modified": "2025-04-23T05:55:27",
+  "modified_gmt": "2025-04-23T09:55:27",
+  "slug": "kepler-491",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-491/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-491",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247301
+    ],
+    "exo_id": "Kepler-491",
+    "st_optmag": 14.178,
+    "st_vj": 14.178,
+    "st_dist": 630.785,
+    "st_j": 14.178,
+    "st_mass": 1.04,
+    "dec": 42.3501533,
+    "st_teff": 5582,
+    "st_rad": 1.03,
+    "ra": 287.1305782,
+    "system_radius": 7765625.4317,
+    "pl_hostname": "Kepler-491",
+    "stellar_type": "G",
+    "tic_id": "TIC 158388163",
+    "magnitude": 14.178
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263052",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247301"
+      }
+    ]
+  }
+}

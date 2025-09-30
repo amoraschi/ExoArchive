@@ -1,1 +1,76 @@
-{"id":261605,"date":"2023-11-28T20:40:27","date_gmt":"2023-11-29T01:40:27","modified":"2025-04-23T05:56:38","modified_gmt":"2025-04-23T09:56:38","slug":"kepler-258","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-258/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-258","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246785,"1":246784},"exo_id":"Kepler-258","st_optmag":15.49,"st_vj":15.49,"st_dist":575.988,"st_j":15.49,"st_mass":0.82,"dec":46.5791357,"st_teff":4942,"st_rad":0.915,"ra":294.0684116,"system_radius":28872388.91,"pl_hostname":"Kepler-258","stellar_type":"K","tic_id":"TIC 270854411","magnitude":15.49},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261605","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246785"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246784"}]}}
+{
+  "id": 261605,
+  "date": "2023-11-28T20:40:27",
+  "date_gmt": "2023-11-29T01:40:27",
+  "modified": "2025-04-23T05:56:38",
+  "modified_gmt": "2025-04-23T09:56:38",
+  "slug": "kepler-258",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-258/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-258",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246785,
+      "1": 246784
+    },
+    "exo_id": "Kepler-258",
+    "st_optmag": 15.49,
+    "st_vj": 15.49,
+    "st_dist": 575.988,
+    "st_j": 15.49,
+    "st_mass": 0.82,
+    "dec": 46.5791357,
+    "st_teff": 4942,
+    "st_rad": 0.915,
+    "ra": 294.0684116,
+    "system_radius": 28872388.91,
+    "pl_hostname": "Kepler-258",
+    "stellar_type": "K",
+    "tic_id": "TIC 270854411",
+    "magnitude": 15.49
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261605",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246785"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246784"
+      }
+    ]
+  }
+}

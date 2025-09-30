@@ -1,1 +1,79 @@
-{"id":244277,"date":"2019-04-22T16:49:27","date_gmt":"2019-04-22T20:49:27","modified":"2025-07-07T20:32:41","modified_gmt":"2025-07-08T00:32:41","slug":"hd-215152-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-215152-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_215152","pl_letter":"c","display_name":"HD 215152 c","planet_radius":"1.17 x Earth (estimate)","derived_description":"HD 215152 c is a super Earth exoplanet that orbits a K-type star. Its mass is 1.72 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.067393 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":21.5974,"planet_mass":"1.72 Earths","st_optmag":8.11,"discovery_date":"2018","pl_orbsmax":0.067393,"period_display":"7.3 days","eccentricity":"0.0","star_id":260485,"pl_orbper":7.28243,"pl_kepflag":false,"pl_radj":0.105,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.17,"exo_id":"HD_215152_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244277","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260485"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244277,
+  "date": "2019-04-22T16:49:27",
+  "date_gmt": "2019-04-22T20:49:27",
+  "modified": "2025-07-07T20:32:41",
+  "modified_gmt": "2025-07-08T00:32:41",
+  "slug": "hd-215152-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-215152-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_215152",
+    "pl_letter": "c",
+    "display_name": "HD 215152 c",
+    "planet_radius": "1.17 x Earth (estimate)",
+    "derived_description": "HD 215152 c is a super Earth exoplanet that orbits a K-type star. Its mass is 1.72 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.067393 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 21.5974,
+    "planet_mass": "1.72 Earths",
+    "st_optmag": 8.11,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.067393,
+    "period_display": "7.3 days",
+    "eccentricity": "0.0",
+    "star_id": 260485,
+    "pl_orbper": 7.28243,
+    "pl_kepflag": false,
+    "pl_radj": 0.105,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.17,
+    "exo_id": "HD_215152_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244277",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260485"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

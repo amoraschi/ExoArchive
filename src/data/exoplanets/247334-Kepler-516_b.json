@@ -1,1 +1,79 @@
-{"id":247334,"date":"2017-10-02T13:32:58","date_gmt":"2017-10-02T17:32:58","modified":"2025-07-07T17:57:45","modified_gmt":"2025-07-07T21:57:45","slug":"kepler-516-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-516-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-516","pl_letter":"b","display_name":"Kepler-516 b","planet_radius":"0.5120885 x Jupiter","derived_description":"Kepler-516 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 27.9 Earths, it takes 24.9 days to complete one orbit of its star, and is 0.1992 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":687.094,"planet_mass":"27.9 Earths","st_optmag":12.121,"discovery_date":"2016","pl_orbsmax":0.1992,"period_display":"24.9 days","eccentricity":"0.0","star_id":261728,"pl_orbper":24.85462415,"pl_kepflag":true,"pl_radj":0.5120885,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":5.74,"exo_id":"Kepler-516_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247334","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261728"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247334,
+  "date": "2017-10-02T13:32:58",
+  "date_gmt": "2017-10-02T17:32:58",
+  "modified": "2025-07-07T17:57:45",
+  "modified_gmt": "2025-07-07T21:57:45",
+  "slug": "kepler-516-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-516-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-516",
+    "pl_letter": "b",
+    "display_name": "Kepler-516 b",
+    "planet_radius": "0.5120885 x Jupiter",
+    "derived_description": "Kepler-516 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 27.9 Earths, it takes 24.9 days to complete one orbit of its star, and is 0.1992 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 687.094,
+    "planet_mass": "27.9 Earths",
+    "st_optmag": 12.121,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1992,
+    "period_display": "24.9 days",
+    "eccentricity": "0.0",
+    "star_id": 261728,
+    "pl_orbper": 24.85462415,
+    "pl_kepflag": true,
+    "pl_radj": 0.5120885,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 5.74,
+    "exo_id": "Kepler-516_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247334",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261728"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

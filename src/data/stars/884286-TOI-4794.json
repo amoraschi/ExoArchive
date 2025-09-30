@@ -1,1 +1,77 @@
-{"id":884286,"date":"2025-07-29T20:42:24","date_gmt":"2025-07-30T00:42:24","modified":"2025-07-29T20:42:24","modified_gmt":"2025-07-30T00:42:24","slug":"toi-4794","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4794/","featured_media":429647,"categories":[],"acf":{"display_name":"TOI-4794","custom_star_title":"","aliases":"","constellation":"Canis Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[884327],"exo_id":"TOI-4794","st_optmag":12.563,"st_vj":12.563,"st_dist":543.008,"st_j":12.563,"st_mass":1.25,"dec":-12.5654781,"st_teff":6390,"st_rad":1.451,"ra":110.4835517,"system_radius":7360215.204,"pl_hostname":"TOI-4794","stellar_type":"F","tic_id":"TIC 95589845","magnitude":12.563},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/884286","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884327"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 884286,
+  "date": "2025-07-29T20:42:24",
+  "date_gmt": "2025-07-30T00:42:24",
+  "modified": "2025-07-29T20:42:24",
+  "modified_gmt": "2025-07-30T00:42:24",
+  "slug": "toi-4794",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4794/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4794",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      884327
+    ],
+    "exo_id": "TOI-4794",
+    "st_optmag": 12.563,
+    "st_vj": 12.563,
+    "st_dist": 543.008,
+    "st_j": 12.563,
+    "st_mass": 1.25,
+    "dec": -12.5654781,
+    "st_teff": 6390,
+    "st_rad": 1.451,
+    "ra": 110.4835517,
+    "system_radius": 7360215.204,
+    "pl_hostname": "TOI-4794",
+    "stellar_type": "F",
+    "tic_id": "TIC 95589845",
+    "magnitude": 12.563
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884286",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884327"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

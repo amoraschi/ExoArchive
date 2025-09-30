@@ -1,1 +1,79 @@
-{"id":401628,"date":"2024-06-13T21:29:11","date_gmt":"2024-06-14T01:29:11","modified":"2025-03-28T07:29:29","modified_gmt":"2025-03-28T11:29:29","slug":"kmt-2023-blg-0735l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kmt-2023-blg-0735l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KMT-2023-BLG-0735L","pl_letter":"b","display_name":"KMT-2023-BLG-0735L b","planet_radius":"0.622 x Jupiter (estimate)","derived_description":"KMT-2023-BLG-0735L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 38.77506565 Earths, it takes 6.5 years to complete one orbit of its star, and is 2.96 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":6390,"planet_mass":"38.77506565 Earths","st_optmag":"","discovery_date":"2024","pl_orbsmax":2.96,"period_display":"6.5 years","eccentricity":"","star_id":401582,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.622,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":6.97,"exo_id":"KMT-2023-BLG-0735L_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401628","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/401582"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 401628,
+  "date": "2024-06-13T21:29:11",
+  "date_gmt": "2024-06-14T01:29:11",
+  "modified": "2025-03-28T07:29:29",
+  "modified_gmt": "2025-03-28T11:29:29",
+  "slug": "kmt-2023-blg-0735l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2023-blg-0735l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2023-BLG-0735L",
+    "pl_letter": "b",
+    "display_name": "KMT-2023-BLG-0735L b",
+    "planet_radius": "0.622 x Jupiter (estimate)",
+    "derived_description": "KMT-2023-BLG-0735L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 38.77506565 Earths, it takes 6.5 years to complete one orbit of its star, and is 2.96 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 6390,
+    "planet_mass": "38.77506565 Earths",
+    "st_optmag": "",
+    "discovery_date": "2024",
+    "pl_orbsmax": 2.96,
+    "period_display": "6.5 years",
+    "eccentricity": "",
+    "star_id": 401582,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.622,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 6.97,
+    "exo_id": "KMT-2023-BLG-0735L_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401628",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401582"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

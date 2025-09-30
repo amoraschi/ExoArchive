@@ -1,1 +1,76 @@
-{"id":263261,"date":"2023-11-28T21:01:25","date_gmt":"2023-11-29T02:01:25","modified":"2025-04-23T05:56:53","modified_gmt":"2025-04-23T09:56:53","slug":"hd_5319","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_5319/","featured_media":0,"categories":[],"acf":{"display_name":"HD 5319","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244477,244478],"exo_id":"HD_5319","st_optmag":8.05,"st_vj":8.05,"st_dist":121.405,"st_j":8.05,"st_mass":1.27,"dec":0.7893425,"st_teff":4871,"st_rad":4.06,"ra":13.7558096,"system_radius":288723889.1,"pl_hostname":"HD_5319","stellar_type":"K","tic_id":"TIC 344627954","magnitude":8.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263261","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244478"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244477"}]}}
+{
+  "id": 263261,
+  "date": "2023-11-28T21:01:25",
+  "date_gmt": "2023-11-29T02:01:25",
+  "modified": "2025-04-23T05:56:53",
+  "modified_gmt": "2025-04-23T09:56:53",
+  "slug": "hd_5319",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_5319/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 5319",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244477,
+      244478
+    ],
+    "exo_id": "HD_5319",
+    "st_optmag": 8.05,
+    "st_vj": 8.05,
+    "st_dist": 121.405,
+    "st_j": 8.05,
+    "st_mass": 1.27,
+    "dec": 0.7893425,
+    "st_teff": 4871,
+    "st_rad": 4.06,
+    "ra": 13.7558096,
+    "system_radius": 288723889.1,
+    "pl_hostname": "HD_5319",
+    "stellar_type": "K",
+    "tic_id": "TIC 344627954",
+    "magnitude": 8.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263261",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244478"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244477"
+      }
+    ]
+  }
+}

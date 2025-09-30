@@ -1,1 +1,79 @@
-{"id":247828,"date":"2023-05-23T12:01:44","date_gmt":"2023-05-23T16:01:44","modified":"2025-07-07T15:25:59","modified_gmt":"2025-07-07T19:25:59","slug":"kepler-865-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-865-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-865","pl_letter":"c","display_name":"Kepler-865 c","planet_radius":"0.89 x Earth","derived_description":"Kepler-865 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.64 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.061 AU from its star. Its discovery was announced in 2023.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":586.137,"planet_mass":"0.64 Earths","st_optmag":14.635,"discovery_date":"2023","pl_orbsmax":0.061,"period_display":"6.2 days","eccentricity":"0.0","star_id":263147,"pl_orbper":6.20920207,"pl_kepflag":true,"pl_radj":0.07940062,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.89,"exo_id":"Kepler-865_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247828","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263147"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 247828,
+  "date": "2023-05-23T12:01:44",
+  "date_gmt": "2023-05-23T16:01:44",
+  "modified": "2025-07-07T15:25:59",
+  "modified_gmt": "2025-07-07T19:25:59",
+  "slug": "kepler-865-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-865-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-865",
+    "pl_letter": "c",
+    "display_name": "Kepler-865 c",
+    "planet_radius": "0.89 x Earth",
+    "derived_description": "Kepler-865 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.64 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.061 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 586.137,
+    "planet_mass": "0.64 Earths",
+    "st_optmag": 14.635,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.061,
+    "period_display": "6.2 days",
+    "eccentricity": "0.0",
+    "star_id": 263147,
+    "pl_orbper": 6.20920207,
+    "pl_kepflag": true,
+    "pl_radj": 0.07940062,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.89,
+    "exo_id": "Kepler-865_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247828",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263147"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

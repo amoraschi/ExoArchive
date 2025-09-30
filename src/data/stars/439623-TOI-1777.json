@@ -1,1 +1,71 @@
-{"id":439623,"date":"2024-12-13T01:15:40","date_gmt":"2024-12-13T06:15:40","modified":"2025-04-25T05:59:15","modified_gmt":"2025-04-25T09:59:15","slug":"toi-1777","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1777/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1777","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[439660],"exo_id":"TOI-1777","st_optmag":9.31,"st_vj":9.31,"st_dist":79.7665,"st_j":9.31,"st_mass":1.06,"dec":46.1148814,"st_teff":5859,"st_rad":0.98,"ra":151.807032,"system_radius":17871859.13742,"pl_hostname":"TOI-1777","stellar_type":"G","tic_id":"TIC 29191624","magnitude":9.31},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/439623","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439660"}]}}
+{
+  "id": 439623,
+  "date": "2024-12-13T01:15:40",
+  "date_gmt": "2024-12-13T06:15:40",
+  "modified": "2025-04-25T05:59:15",
+  "modified_gmt": "2025-04-25T09:59:15",
+  "slug": "toi-1777",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1777/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1777",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      439660
+    ],
+    "exo_id": "TOI-1777",
+    "st_optmag": 9.31,
+    "st_vj": 9.31,
+    "st_dist": 79.7665,
+    "st_j": 9.31,
+    "st_mass": 1.06,
+    "dec": 46.1148814,
+    "st_teff": 5859,
+    "st_rad": 0.98,
+    "ra": 151.807032,
+    "system_radius": 17871859.13742,
+    "pl_hostname": "TOI-1777",
+    "stellar_type": "G",
+    "tic_id": "TIC 29191624",
+    "magnitude": 9.31
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439623",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439660"
+      }
+    ]
+  }
+}

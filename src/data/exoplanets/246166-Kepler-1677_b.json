@@ -1,1 +1,79 @@
-{"id":246166,"date":"2020-09-04T13:27:16","date_gmt":"2020-09-04T17:27:16","modified":"2025-03-28T07:29:57","modified_gmt":"2025-03-28T11:29:57","slug":"kepler-1677-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1677-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1677","pl_letter":"b","display_name":"Kepler-1677 b","planet_radius":"0.24107073 x Jupiter","derived_description":"Kepler-1677 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.76 Earths, it takes 22.1 days to complete one orbit of its star, and is 0.1599 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":735.369,"planet_mass":"7.76 Earths","st_optmag":13.806,"discovery_date":"2020","pl_orbsmax":0.1599,"period_display":"22.1 days","eccentricity":"0.0","star_id":264315,"pl_orbper":22.064,"pl_kepflag":true,"pl_radj":0.24107073,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.70216183,"exo_id":"Kepler-1677_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246166","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264315"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246166,
+  "date": "2020-09-04T13:27:16",
+  "date_gmt": "2020-09-04T17:27:16",
+  "modified": "2025-03-28T07:29:57",
+  "modified_gmt": "2025-03-28T11:29:57",
+  "slug": "kepler-1677-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1677-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1677",
+    "pl_letter": "b",
+    "display_name": "Kepler-1677 b",
+    "planet_radius": "0.24107073 x Jupiter",
+    "derived_description": "Kepler-1677 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.76 Earths, it takes 22.1 days to complete one orbit of its star, and is 0.1599 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 735.369,
+    "planet_mass": "7.76 Earths",
+    "st_optmag": 13.806,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.1599,
+    "period_display": "22.1 days",
+    "eccentricity": "0.0",
+    "star_id": 264315,
+    "pl_orbper": 22.064,
+    "pl_kepflag": true,
+    "pl_radj": 0.24107073,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.70216183,
+    "exo_id": "Kepler-1677_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246166",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264315"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

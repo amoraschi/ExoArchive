@@ -1,1 +1,71 @@
-{"id":417283,"date":"2024-08-21T22:55:32","date_gmt":"2024-08-22T02:55:32","modified":"2025-04-23T05:54:43","modified_gmt":"2025-04-23T09:54:43","slug":"toi-6255","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-6255/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-6255","custom_star_title":"","aliases":"","constellation":"Lacerta","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[417289],"exo_id":"TOI-6255","st_optmag":12.747,"st_vj":12.747,"st_dist":20.3167,"st_j":12.747,"st_mass":0.353,"dec":39.2988284,"st_teff":3421,"st_rad":0.37,"ra":331.5031606,"system_radius":149597870,"pl_hostname":"TOI-6255","stellar_type":"M","tic_id":"TIC 261135533","magnitude":12.747},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/417283","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/417289"}]}}
+{
+  "id": 417283,
+  "date": "2024-08-21T22:55:32",
+  "date_gmt": "2024-08-22T02:55:32",
+  "modified": "2025-04-23T05:54:43",
+  "modified_gmt": "2025-04-23T09:54:43",
+  "slug": "toi-6255",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6255/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6255",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lacerta",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      417289
+    ],
+    "exo_id": "TOI-6255",
+    "st_optmag": 12.747,
+    "st_vj": 12.747,
+    "st_dist": 20.3167,
+    "st_j": 12.747,
+    "st_mass": 0.353,
+    "dec": 39.2988284,
+    "st_teff": 3421,
+    "st_rad": 0.37,
+    "ra": 331.5031606,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6255",
+    "stellar_type": "M",
+    "tic_id": "TIC 261135533",
+    "magnitude": 12.747
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/417283",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/417289"
+      }
+    ]
+  }
+}

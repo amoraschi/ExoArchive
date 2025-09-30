@@ -1,1 +1,71 @@
-{"id":260747,"date":"2023-11-28T20:29:36","date_gmt":"2023-11-29T01:29:36","modified":"2025-04-23T05:53:38","modified_gmt":"2025-04-23T09:53:38","slug":"hd_180617","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_180617/","featured_media":0,"categories":[],"acf":{"display_name":"HD 180617","custom_star_title":"","aliases":"","constellation":"Aquila","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244165],"exo_id":"HD_180617","st_optmag":9.12,"st_vj":9.12,"st_dist":5.91059,"st_j":9.12,"st_mass":0.484,"dec":5.1631615,"st_teff":3534,"st_rad":0.481,"ra":289.2277322,"system_radius":51312069.41,"pl_hostname":"HD_180617","stellar_type":"M","tic_id":"TIC 176188045","magnitude":9.12},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260747","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244165"}]}}
+{
+  "id": 260747,
+  "date": "2023-11-28T20:29:36",
+  "date_gmt": "2023-11-29T01:29:36",
+  "modified": "2025-04-23T05:53:38",
+  "modified_gmt": "2025-04-23T09:53:38",
+  "slug": "hd_180617",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_180617/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 180617",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquila",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244165
+    ],
+    "exo_id": "HD_180617",
+    "st_optmag": 9.12,
+    "st_vj": 9.12,
+    "st_dist": 5.91059,
+    "st_j": 9.12,
+    "st_mass": 0.484,
+    "dec": 5.1631615,
+    "st_teff": 3534,
+    "st_rad": 0.481,
+    "ra": 289.2277322,
+    "system_radius": 51312069.41,
+    "pl_hostname": "HD_180617",
+    "stellar_type": "M",
+    "tic_id": "TIC 176188045",
+    "magnitude": 9.12
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260747",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244165"
+      }
+    ]
+  }
+}

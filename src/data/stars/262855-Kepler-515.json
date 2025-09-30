@@ -1,1 +1,71 @@
-{"id":262855,"date":"2023-11-28T20:56:19","date_gmt":"2023-11-29T01:56:19","modified":"2025-04-23T05:53:52","modified_gmt":"2025-04-23T09:53:52","slug":"kepler-515","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-515/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-515","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247333],"exo_id":"Kepler-515","st_optmag":12.913,"st_vj":12.913,"st_dist":255,"st_j":12.913,"st_mass":0.9,"dec":52.055611,"st_teff":5293,"st_rad":0.83,"ra":290.493913,"system_radius":19941396.071,"pl_hostname":"Kepler-515","stellar_type":"K","tic_id":"TIC 406997913","magnitude":12.913},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262855","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247333"}]}}
+{
+  "id": 262855,
+  "date": "2023-11-28T20:56:19",
+  "date_gmt": "2023-11-29T01:56:19",
+  "modified": "2025-04-23T05:53:52",
+  "modified_gmt": "2025-04-23T09:53:52",
+  "slug": "kepler-515",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-515/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-515",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247333
+    ],
+    "exo_id": "Kepler-515",
+    "st_optmag": 12.913,
+    "st_vj": 12.913,
+    "st_dist": 255,
+    "st_j": 12.913,
+    "st_mass": 0.9,
+    "dec": 52.055611,
+    "st_teff": 5293,
+    "st_rad": 0.83,
+    "ra": 290.493913,
+    "system_radius": 19941396.071,
+    "pl_hostname": "Kepler-515",
+    "stellar_type": "K",
+    "tic_id": "TIC 406997913",
+    "magnitude": 12.913
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262855",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247333"
+      }
+    ]
+  }
+}

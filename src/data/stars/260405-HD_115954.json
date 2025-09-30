@@ -1,1 +1,71 @@
-{"id":260405,"date":"2023-11-28T20:25:22","date_gmt":"2023-11-29T01:25:22","modified":"2025-04-23T05:53:14","modified_gmt":"2025-04-23T09:53:14","slug":"hd_115954","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_115954/","featured_media":0,"categories":[],"acf":{"display_name":"HD 115954","custom_star_title":"","aliases":"","constellation":"Canes Venatici","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243957],"exo_id":"HD_115954","st_optmag":8.34,"st_vj":8.34,"st_dist":87.6437,"st_j":8.34,"st_mass":1.18,"dec":38.3691383,"st_teff":5957,"st_rad":1.213,"ra":199.9853694,"system_radius":747989350,"pl_hostname":"HD_115954","stellar_type":"G","tic_id":"TIC 180655149","magnitude":8.34},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260405","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243957"}]}}
+{
+  "id": 260405,
+  "date": "2023-11-28T20:25:22",
+  "date_gmt": "2023-11-29T01:25:22",
+  "modified": "2025-04-23T05:53:14",
+  "modified_gmt": "2025-04-23T09:53:14",
+  "slug": "hd_115954",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_115954/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 115954",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canes Venatici",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243957
+    ],
+    "exo_id": "HD_115954",
+    "st_optmag": 8.34,
+    "st_vj": 8.34,
+    "st_dist": 87.6437,
+    "st_j": 8.34,
+    "st_mass": 1.18,
+    "dec": 38.3691383,
+    "st_teff": 5957,
+    "st_rad": 1.213,
+    "ra": 199.9853694,
+    "system_radius": 747989350,
+    "pl_hostname": "HD_115954",
+    "stellar_type": "G",
+    "tic_id": "TIC 180655149",
+    "magnitude": 8.34
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260405",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243957"
+      }
+    ]
+  }
+}

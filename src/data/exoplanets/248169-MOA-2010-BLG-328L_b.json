@@ -1,1 +1,79 @@
-{"id":248169,"date":"2017-12-02T12:25:51","date_gmt":"2017-12-02T17:25:51","modified":"2024-10-25T10:03:21","modified_gmt":"2024-10-25T14:03:21","slug":"moa-2010-blg-328l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/moa-2010-blg-328l-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"MOA-2010-BLG-328L","pl_letter":"b","display_name":"MOA-2010-BLG-328L b","planet_radius":"0.266 x Jupiter (estimate)","derived_description":"MOA-2010-BLG-328L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 9.2 Earths, it takes 2.7 years to complete one orbit of its star, and is 0.92 AU from its star. Its discovery was announced in 2013.","planet_type":"Neptune-like","pl_discmethod":"Microlensing","pl_facility":"MOA","st_dist":810,"planet_mass":"9.2 Earths","st_optmag":"","discovery_date":"2013","pl_orbsmax":0.92,"period_display":"2.7 years","eccentricity":"","star_id":263659,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.266,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.99,"exo_id":"MOA-2010-BLG-328L_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248169","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263659"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248169,
+  "date": "2017-12-02T12:25:51",
+  "date_gmt": "2017-12-02T17:25:51",
+  "modified": "2024-10-25T10:03:21",
+  "modified_gmt": "2024-10-25T14:03:21",
+  "slug": "moa-2010-blg-328l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/moa-2010-blg-328l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "MOA-2010-BLG-328L",
+    "pl_letter": "b",
+    "display_name": "MOA-2010-BLG-328L b",
+    "planet_radius": "0.266 x Jupiter (estimate)",
+    "derived_description": "MOA-2010-BLG-328L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 9.2 Earths, it takes 2.7 years to complete one orbit of its star, and is 0.92 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "MOA",
+    "st_dist": 810,
+    "planet_mass": "9.2 Earths",
+    "st_optmag": "",
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.92,
+    "period_display": "2.7 years",
+    "eccentricity": "",
+    "star_id": 263659,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.266,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.99,
+    "exo_id": "MOA-2010-BLG-328L_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248169",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263659"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

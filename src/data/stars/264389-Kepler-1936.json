@@ -1,1 +1,71 @@
-{"id":264389,"date":"2023-11-28T21:15:55","date_gmt":"2023-11-29T02:15:55","modified":"2025-04-23T05:55:23","modified_gmt":"2025-04-23T09:55:23","slug":"kepler-1936","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1936/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1936","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246516],"exo_id":"Kepler-1936","st_optmag":13.393,"st_vj":13.393,"st_dist":871.096,"st_j":13.393,"st_mass":1.419,"dec":44.836128,"st_teff":6501,"st_rad":1.854,"ra":290.7300141,"system_radius":78781230.2994,"pl_hostname":"Kepler-1936","stellar_type":"F","tic_id":"TIC 159451957","magnitude":13.393},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264389","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246516"}]}}
+{
+  "id": 264389,
+  "date": "2023-11-28T21:15:55",
+  "date_gmt": "2023-11-29T02:15:55",
+  "modified": "2025-04-23T05:55:23",
+  "modified_gmt": "2025-04-23T09:55:23",
+  "slug": "kepler-1936",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1936/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1936",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246516
+    ],
+    "exo_id": "Kepler-1936",
+    "st_optmag": 13.393,
+    "st_vj": 13.393,
+    "st_dist": 871.096,
+    "st_j": 13.393,
+    "st_mass": 1.419,
+    "dec": 44.836128,
+    "st_teff": 6501,
+    "st_rad": 1.854,
+    "ra": 290.7300141,
+    "system_radius": 78781230.2994,
+    "pl_hostname": "Kepler-1936",
+    "stellar_type": "F",
+    "tic_id": "TIC 159451957",
+    "magnitude": 13.393
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264389",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246516"
+      }
+    ]
+  }
+}

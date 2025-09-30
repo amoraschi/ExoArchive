@@ -1,1 +1,71 @@
-{"id":261903,"date":"2023-11-28T20:44:11","date_gmt":"2023-11-29T01:44:11","modified":"2025-04-23T05:55:10","modified_gmt":"2025-04-23T09:55:10","slug":"moa-2008-blg-310l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/moa-2008-blg-310l/","featured_media":0,"categories":[],"acf":{"display_name":"MOA-2008-BLG-310L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248162],"exo_id":"MOA-2008-BLG-310L","st_optmag":"","st_vj":"","st_dist":7700,"st_j":"","st_mass":0.21,"dec":-34.7780528,"st_teff":"","st_rad":"","ra":268.560542,"system_radius":164557657,"pl_hostname":"MOA-2008-BLG-310L","stellar_type":"Unknown","tic_id":"","magnitude":26.2},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261903","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248162"}]}}
+{
+  "id": 261903,
+  "date": "2023-11-28T20:44:11",
+  "date_gmt": "2023-11-29T01:44:11",
+  "modified": "2025-04-23T05:55:10",
+  "modified_gmt": "2025-04-23T09:55:10",
+  "slug": "moa-2008-blg-310l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/moa-2008-blg-310l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MOA-2008-BLG-310L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248162
+    ],
+    "exo_id": "MOA-2008-BLG-310L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7700,
+    "st_j": "",
+    "st_mass": 0.21,
+    "dec": -34.7780528,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.560542,
+    "system_radius": 164557657,
+    "pl_hostname": "MOA-2008-BLG-310L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 26.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261903",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248162"
+      }
+    ]
+  }
+}

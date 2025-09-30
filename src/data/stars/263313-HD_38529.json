@@ -1,1 +1,76 @@
-{"id":263313,"date":"2023-11-28T21:02:05","date_gmt":"2023-11-29T02:02:05","modified":"2025-06-06T07:20:06","modified_gmt":"2025-06-06T11:20:06","slug":"hd_38529","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_38529/","featured_media":0,"categories":[],"acf":{"display_name":"HD 38529","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244421,244422],"exo_id":"HD_38529","st_optmag":5.92848,"st_vj":5.92848,"st_dist":42.3538,"st_j":5.92848,"st_mass":0.98,"dec":1.1675866,"st_teff":5697,"st_rad":2.857838,"ra":86.6451363,"system_radius":482602728.62,"pl_hostname":"HD_38529","stellar_type":"G","tic_id":"TIC 200093173","magnitude":5.92848},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263313","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244422"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244421"}]}}
+{
+  "id": 263313,
+  "date": "2023-11-28T21:02:05",
+  "date_gmt": "2023-11-29T02:02:05",
+  "modified": "2025-06-06T07:20:06",
+  "modified_gmt": "2025-06-06T11:20:06",
+  "slug": "hd_38529",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_38529/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 38529",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244421,
+      244422
+    ],
+    "exo_id": "HD_38529",
+    "st_optmag": 5.92848,
+    "st_vj": 5.92848,
+    "st_dist": 42.3538,
+    "st_j": 5.92848,
+    "st_mass": 0.98,
+    "dec": 1.1675866,
+    "st_teff": 5697,
+    "st_rad": 2.857838,
+    "ra": 86.6451363,
+    "system_radius": 482602728.62,
+    "pl_hostname": "HD_38529",
+    "stellar_type": "G",
+    "tic_id": "TIC 200093173",
+    "magnitude": 5.92848
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263313",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244422"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244421"
+      }
+    ]
+  }
+}

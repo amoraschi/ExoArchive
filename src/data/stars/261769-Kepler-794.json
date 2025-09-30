@@ -1,1 +1,71 @@
-{"id":261769,"date":"2023-11-28T20:42:30","date_gmt":"2023-11-29T01:42:30","modified":"2025-04-23T05:55:39","modified_gmt":"2025-04-23T09:55:39","slug":"kepler-794","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-794/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-794","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247723],"exo_id":"Kepler-794","st_optmag":13.599,"st_vj":13.599,"st_dist":931.192,"st_j":13.599,"st_mass":1.19,"dec":38.9968923,"st_teff":5839,"st_rad":1.38,"ra":288.1336793,"system_radius":15013642.2332,"pl_hostname":"Kepler-794","stellar_type":"G","tic_id":"TIC 121467823","magnitude":13.599},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261769","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247723"}]}}
+{
+  "id": 261769,
+  "date": "2023-11-28T20:42:30",
+  "date_gmt": "2023-11-29T01:42:30",
+  "modified": "2025-04-23T05:55:39",
+  "modified_gmt": "2025-04-23T09:55:39",
+  "slug": "kepler-794",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-794/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-794",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247723
+    ],
+    "exo_id": "Kepler-794",
+    "st_optmag": 13.599,
+    "st_vj": 13.599,
+    "st_dist": 931.192,
+    "st_j": 13.599,
+    "st_mass": 1.19,
+    "dec": 38.9968923,
+    "st_teff": 5839,
+    "st_rad": 1.38,
+    "ra": 288.1336793,
+    "system_radius": 15013642.2332,
+    "pl_hostname": "Kepler-794",
+    "stellar_type": "G",
+    "tic_id": "TIC 121467823",
+    "magnitude": 13.599
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261769",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247723"
+      }
+    ]
+  }
+}

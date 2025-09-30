@@ -1,1 +1,76 @@
-{"id":262342,"date":"2023-11-28T20:49:46","date_gmt":"2023-11-29T01:49:46","modified":"2025-06-13T07:33:25","modified_gmt":"2025-06-13T11:33:25","slug":"hd_116029","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_116029/","featured_media":0,"categories":[],"acf":{"display_name":"HD 116029","custom_star_title":"","aliases":"","constellation":"Coma Berenices","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243959,"1":243958},"exo_id":"HD_116029","st_optmag":7.88,"st_vj":7.88,"st_dist":123.245,"st_j":7.88,"st_mass":1.33,"dec":24.6484725,"st_teff":4951,"st_rad":4.6,"ra":200.1646905,"system_radius":246836485.5,"pl_hostname":"HD_116029","stellar_type":"K","tic_id":"TIC 305837711","magnitude":7.88},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262342","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243959"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243958"}]}}
+{
+  "id": 262342,
+  "date": "2023-11-28T20:49:46",
+  "date_gmt": "2023-11-29T01:49:46",
+  "modified": "2025-06-13T07:33:25",
+  "modified_gmt": "2025-06-13T11:33:25",
+  "slug": "hd_116029",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_116029/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 116029",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Coma Berenices",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243959,
+      "1": 243958
+    },
+    "exo_id": "HD_116029",
+    "st_optmag": 7.88,
+    "st_vj": 7.88,
+    "st_dist": 123.245,
+    "st_j": 7.88,
+    "st_mass": 1.33,
+    "dec": 24.6484725,
+    "st_teff": 4951,
+    "st_rad": 4.6,
+    "ra": 200.1646905,
+    "system_radius": 246836485.5,
+    "pl_hostname": "HD_116029",
+    "stellar_type": "K",
+    "tic_id": "TIC 305837711",
+    "magnitude": 7.88
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262342",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243959"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243958"
+      }
+    ]
+  }
+}

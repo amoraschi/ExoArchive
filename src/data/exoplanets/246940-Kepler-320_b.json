@@ -1,1 +1,79 @@
-{"id":246940,"date":"2017-10-02T13:32:37","date_gmt":"2017-10-02T17:32:37","modified":"2025-07-07T15:25:48","modified_gmt":"2025-07-07T19:25:48","slug":"kepler-320-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-320-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-320","pl_letter":"b","display_name":"Kepler-320 b","planet_radius":"1.14 x Earth","derived_description":"Kepler-320 b is a super Earth exoplanet that orbits a F-type star. Its mass is 1.55 Earths, it takes 8.4 days to complete one orbit of its star, and is 0.085 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":826.613,"planet_mass":"1.55 Earths","st_optmag":13.494,"discovery_date":"2014","pl_orbsmax":0.085,"period_display":"8.4 days","eccentricity":"0.0","star_id":262916,"pl_orbper":8.371554,"pl_kepflag":true,"pl_radj":0.102,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.14,"exo_id":"Kepler-320_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246940","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262916"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246940,
+  "date": "2017-10-02T13:32:37",
+  "date_gmt": "2017-10-02T17:32:37",
+  "modified": "2025-07-07T15:25:48",
+  "modified_gmt": "2025-07-07T19:25:48",
+  "slug": "kepler-320-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-320-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-320",
+    "pl_letter": "b",
+    "display_name": "Kepler-320 b",
+    "planet_radius": "1.14 x Earth",
+    "derived_description": "Kepler-320 b is a super Earth exoplanet that orbits a F-type star. Its mass is 1.55 Earths, it takes 8.4 days to complete one orbit of its star, and is 0.085 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 826.613,
+    "planet_mass": "1.55 Earths",
+    "st_optmag": 13.494,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.085,
+    "period_display": "8.4 days",
+    "eccentricity": "0.0",
+    "star_id": 262916,
+    "pl_orbper": 8.371554,
+    "pl_kepflag": true,
+    "pl_radj": 0.102,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.14,
+    "exo_id": "Kepler-320_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246940",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262916"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":313788,"date":"2024-03-02T14:30:25","date_gmt":"2024-03-02T19:30:25","modified":"2025-04-23T05:54:52","modified_gmt":"2025-04-23T09:54:52","slug":"gj_806","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_806/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 806","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[313885,313889],"exo_id":"GJ_806","st_optmag":10.79,"st_vj":10.79,"st_dist":12.0445,"st_j":10.79,"st_mass":0.413,"dec":44.5002351,"st_teff":3600,"st_rad":0.4144,"ra":311.2697002,"system_radius":7823968.601,"pl_hostname":"GJ_806","stellar_type":"M","tic_id":"TIC 239332587","magnitude":10.79},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/313788","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313889"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313885"}]}}
+{
+  "id": 313788,
+  "date": "2024-03-02T14:30:25",
+  "date_gmt": "2024-03-02T19:30:25",
+  "modified": "2025-04-23T05:54:52",
+  "modified_gmt": "2025-04-23T09:54:52",
+  "slug": "gj_806",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_806/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 806",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      313885,
+      313889
+    ],
+    "exo_id": "GJ_806",
+    "st_optmag": 10.79,
+    "st_vj": 10.79,
+    "st_dist": 12.0445,
+    "st_j": 10.79,
+    "st_mass": 0.413,
+    "dec": 44.5002351,
+    "st_teff": 3600,
+    "st_rad": 0.4144,
+    "ra": 311.2697002,
+    "system_radius": 7823968.601,
+    "pl_hostname": "GJ_806",
+    "stellar_type": "M",
+    "tic_id": "TIC 239332587",
+    "magnitude": 10.79
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313788",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313889"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313885"
+      }
+    ]
+  }
+}

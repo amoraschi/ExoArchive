@@ -1,1 +1,76 @@
-{"id":263112,"date":"2023-11-28T20:59:33","date_gmt":"2023-11-29T01:59:33","modified":"2025-04-23T05:53:27","modified_gmt":"2025-04-23T09:53:27","slug":"toi-1064","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1064/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1064","custom_star_title":"","aliases":"","constellation":"Telescopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248403,248404],"exo_id":"TOI-1064","st_optmag":10.938,"st_vj":10.938,"st_dist":68.0726,"st_j":10.938,"st_mass":0.748,"dec":-47.5620305,"st_teff":4734,"st_rad":0.726,"ra":296.0039349,"system_radius":14105583.1623,"pl_hostname":"TOI-1064","stellar_type":"K","tic_id":"TIC 79748331","magnitude":10.938},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263112","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248404"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248403"}]}}
+{
+  "id": 263112,
+  "date": "2023-11-28T20:59:33",
+  "date_gmt": "2023-11-29T01:59:33",
+  "modified": "2025-04-23T05:53:27",
+  "modified_gmt": "2025-04-23T09:53:27",
+  "slug": "toi-1064",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1064/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1064",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Telescopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248403,
+      248404
+    ],
+    "exo_id": "TOI-1064",
+    "st_optmag": 10.938,
+    "st_vj": 10.938,
+    "st_dist": 68.0726,
+    "st_j": 10.938,
+    "st_mass": 0.748,
+    "dec": -47.5620305,
+    "st_teff": 4734,
+    "st_rad": 0.726,
+    "ra": 296.0039349,
+    "system_radius": 14105583.1623,
+    "pl_hostname": "TOI-1064",
+    "stellar_type": "K",
+    "tic_id": "TIC 79748331",
+    "magnitude": 10.938
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263112",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248404"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248403"
+      }
+    ]
+  }
+}

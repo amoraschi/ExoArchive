@@ -1,1 +1,79 @@
-{"id":244219,"date":"2019-04-22T16:48:39","date_gmt":"2019-04-22T20:48:39","modified":"2024-10-24T18:26:57","modified_gmt":"2024-10-24T22:26:57","slug":"hd-19994-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-19994-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_19994","pl_letter":"b","display_name":"HD 19994 b","planet_radius":"1.21 x Jupiter (estimate)","derived_description":"HD 19994 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.37 Jupiters, it takes 466.2 days to complete one orbit of its star, and is 1.305 AU from its star. Its discovery was announced in 2003.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":22.5242,"planet_mass":"1.37 Jupiters","st_optmag":5.06345,"discovery_date":"2003","pl_orbsmax":1.305,"period_display":"466.2 days","eccentricity":"0.06","star_id":263316,"pl_orbper":466.2,"pl_kepflag":false,"pl_radj":1.21,"pl_disc":2003,"pl_publ_date":"2003","planet_orbit_period":346,"multiple_planet_system":false,"pl_rade":13.6,"exo_id":"HD_19994_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.063},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244219","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263316"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244219,
+  "date": "2019-04-22T16:48:39",
+  "date_gmt": "2019-04-22T20:48:39",
+  "modified": "2024-10-24T18:26:57",
+  "modified_gmt": "2024-10-24T22:26:57",
+  "slug": "hd-19994-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-19994-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_19994",
+    "pl_letter": "b",
+    "display_name": "HD 19994 b",
+    "planet_radius": "1.21 x Jupiter (estimate)",
+    "derived_description": "HD 19994 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.37 Jupiters, it takes 466.2 days to complete one orbit of its star, and is 1.305 AU from its star. Its discovery was announced in 2003.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 22.5242,
+    "planet_mass": "1.37 Jupiters",
+    "st_optmag": 5.06345,
+    "discovery_date": "2003",
+    "pl_orbsmax": 1.305,
+    "period_display": "466.2 days",
+    "eccentricity": "0.06",
+    "star_id": 263316,
+    "pl_orbper": 466.2,
+    "pl_kepflag": false,
+    "pl_radj": 1.21,
+    "pl_disc": 2003,
+    "pl_publ_date": "2003",
+    "planet_orbit_period": 346,
+    "multiple_planet_system": false,
+    "pl_rade": 13.6,
+    "exo_id": "HD_19994_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.063
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244219",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263316"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

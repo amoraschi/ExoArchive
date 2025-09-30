@@ -1,1 +1,79 @@
-{"id":243781,"date":"2021-07-29T13:34:15","date_gmt":"2021-07-29T17:34:15","modified":"2025-07-07T15:23:31","modified_gmt":"2025-07-07T19:23:31","slug":"hat-p-62-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hat-p-62-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HAT-P-62","pl_letter":"b","display_name":"HAT-P-62 b","planet_radius":"1.073 x Jupiter","derived_description":"HAT-P-62 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.761 Jupiters, it takes 2.6 days to complete one orbit of its star, and is 0.03772 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATNet","st_dist":348.815,"planet_mass":"0.761 Jupiters","st_optmag":12.539,"discovery_date":"2021","pl_orbsmax":0.03772,"period_display":"2.6 days","eccentricity":"< 0.101","star_id":263232,"pl_orbper":2.6453235,"pl_kepflag":false,"pl_radj":1.073,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.02723629,"exo_id":"HAT-P-62_b","planet_size_class":"Jovian","pl_eccenlim":0.101,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243781","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263232"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243781,
+  "date": "2021-07-29T13:34:15",
+  "date_gmt": "2021-07-29T17:34:15",
+  "modified": "2025-07-07T15:23:31",
+  "modified_gmt": "2025-07-07T19:23:31",
+  "slug": "hat-p-62-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hat-p-62-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HAT-P-62",
+    "pl_letter": "b",
+    "display_name": "HAT-P-62 b",
+    "planet_radius": "1.073 x Jupiter",
+    "derived_description": "HAT-P-62 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.761 Jupiters, it takes 2.6 days to complete one orbit of its star, and is 0.03772 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATNet",
+    "st_dist": 348.815,
+    "planet_mass": "0.761 Jupiters",
+    "st_optmag": 12.539,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.03772,
+    "period_display": "2.6 days",
+    "eccentricity": "< 0.101",
+    "star_id": 263232,
+    "pl_orbper": 2.6453235,
+    "pl_kepflag": false,
+    "pl_radj": 1.073,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.02723629,
+    "exo_id": "HAT-P-62_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.101,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243781",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263232"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

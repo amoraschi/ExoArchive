@@ -1,1 +1,79 @@
-{"id":244886,"date":"2017-10-02T13:32:47","date_gmt":"2017-10-02T17:32:47","modified":"2025-07-07T20:32:33","modified_gmt":"2025-07-08T00:32:33","slug":"k2-21-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-21-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-21","pl_letter":"c","display_name":"K2-21 c","planet_radius":"2.49 x Earth","derived_description":"K2-21 c is a super Earth exoplanet that orbits a K-type star. Its mass is 6.76 Earths, it takes 15.5 days to complete one orbit of its star, and is 0.107 AU from its star. Its discovery was announced in 2015.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":83.6448,"planet_mass":"6.76 Earths","st_optmag":12.851,"discovery_date":"2015","pl_orbsmax":0.107,"period_display":"15.5 days","eccentricity":"0.21","star_id":263382,"pl_orbper":15.50192,"pl_kepflag":true,"pl_radj":0.22214292,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":59.96,"multiple_planet_system":false,"pl_rade":2.49,"exo_id":"K2-21_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.21},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244886","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263382"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244886,
+  "date": "2017-10-02T13:32:47",
+  "date_gmt": "2017-10-02T17:32:47",
+  "modified": "2025-07-07T20:32:33",
+  "modified_gmt": "2025-07-08T00:32:33",
+  "slug": "k2-21-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-21-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-21",
+    "pl_letter": "c",
+    "display_name": "K2-21 c",
+    "planet_radius": "2.49 x Earth",
+    "derived_description": "K2-21 c is a super Earth exoplanet that orbits a K-type star. Its mass is 6.76 Earths, it takes 15.5 days to complete one orbit of its star, and is 0.107 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 83.6448,
+    "planet_mass": "6.76 Earths",
+    "st_optmag": 12.851,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.107,
+    "period_display": "15.5 days",
+    "eccentricity": "0.21",
+    "star_id": 263382,
+    "pl_orbper": 15.50192,
+    "pl_kepflag": true,
+    "pl_radj": 0.22214292,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 59.96,
+    "multiple_planet_system": false,
+    "pl_rade": 2.49,
+    "exo_id": "K2-21_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.21
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244886",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263382"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,81 @@
-{"id":261496,"date":"2023-11-28T20:39:04","date_gmt":"2023-11-29T01:39:04","modified":"2025-04-23T05:55:07","modified_gmt":"2025-04-23T09:55:07","slug":"kepler-127","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-127/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-127","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245621,245622,245623],"exo_id":"Kepler-127","st_optmag":11.746,"st_vj":11.746,"st_dist":352.794,"st_j":11.746,"st_mass":1.248,"dec":46.0280596,"st_teff":6106,"st_rad":1.359,"ra":285.1899439,"system_radius":41887403.6,"pl_hostname":"Kepler-127","stellar_type":"F","tic_id":"TIC 164881786","magnitude":11.746},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261496","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245623"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245622"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245621"}]}}
+{
+  "id": 261496,
+  "date": "2023-11-28T20:39:04",
+  "date_gmt": "2023-11-29T01:39:04",
+  "modified": "2025-04-23T05:55:07",
+  "modified_gmt": "2025-04-23T09:55:07",
+  "slug": "kepler-127",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-127/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-127",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245621,
+      245622,
+      245623
+    ],
+    "exo_id": "Kepler-127",
+    "st_optmag": 11.746,
+    "st_vj": 11.746,
+    "st_dist": 352.794,
+    "st_j": 11.746,
+    "st_mass": 1.248,
+    "dec": 46.0280596,
+    "st_teff": 6106,
+    "st_rad": 1.359,
+    "ra": 285.1899439,
+    "system_radius": 41887403.6,
+    "pl_hostname": "Kepler-127",
+    "stellar_type": "F",
+    "tic_id": "TIC 164881786",
+    "magnitude": 11.746
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261496",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245623"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245622"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245621"
+      }
+    ]
+  }
+}

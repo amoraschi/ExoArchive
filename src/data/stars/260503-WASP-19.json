@@ -1,1 +1,71 @@
-{"id":260503,"date":"2023-11-28T20:26:37","date_gmt":"2023-11-29T01:26:37","modified":"2025-04-23T05:56:57","modified_gmt":"2025-04-23T09:56:57","slug":"wasp-19","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-19/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-19","custom_star_title":"","aliases":"","constellation":"Vela","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248831],"exo_id":"WASP-19","st_optmag":12.248,"st_vj":12.248,"st_dist":268.325,"st_j":12.248,"st_mass":0.965,"dec":-45.6591078,"st_teff":5616,"st_rad":1.006,"ra":148.4167672,"system_radius":2471356.8124,"pl_hostname":"WASP-19","stellar_type":"G","tic_id":"TIC 35516889","magnitude":12.248},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260503","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248831"}]}}
+{
+  "id": 260503,
+  "date": "2023-11-28T20:26:37",
+  "date_gmt": "2023-11-29T01:26:37",
+  "modified": "2025-04-23T05:56:57",
+  "modified_gmt": "2025-04-23T09:56:57",
+  "slug": "wasp-19",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-19/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-19",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vela",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248831
+    ],
+    "exo_id": "WASP-19",
+    "st_optmag": 12.248,
+    "st_vj": 12.248,
+    "st_dist": 268.325,
+    "st_j": 12.248,
+    "st_mass": 0.965,
+    "dec": -45.6591078,
+    "st_teff": 5616,
+    "st_rad": 1.006,
+    "ra": 148.4167672,
+    "system_radius": 2471356.8124,
+    "pl_hostname": "WASP-19",
+    "stellar_type": "G",
+    "tic_id": "TIC 35516889",
+    "magnitude": 12.248
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260503",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248831"
+      }
+    ]
+  }
+}

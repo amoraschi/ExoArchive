@@ -1,1 +1,69 @@
-{"id":391229,"date":"2024-04-30T20:01:20","date_gmt":"2024-05-01T00:01:20","modified":"2025-04-23T05:57:30","modified_gmt":"2025-04-23T09:57:30","slug":"hd-212330-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-212330-a/","featured_media":429648,"categories":[],"acf":{"display_name":"HD 212330 A","custom_star_title":"","aliases":"HD212330,HD212330A,HD212330A,HR8531A,GJ857A,HD 212330,HR 8531 A,GJ 857A","constellation":"Tucana","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_212330_A","st_optmag":5.318,"st_vj":5.318,"st_dist":20.3398,"st_j":5.318,"st_mass":1.02,"dec":-57.7974559,"st_teff":5660,"st_rad":1.717,"ra":336.2348695,"system_radius":149597870,"pl_hostname":"HD_212330_A","stellar_type":"G","tic_id":"TIC 259291108","magnitude":5.3},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391229","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391229,
+  "date": "2024-04-30T20:01:20",
+  "date_gmt": "2024-05-01T00:01:20",
+  "modified": "2025-04-23T05:57:30",
+  "modified_gmt": "2025-04-23T09:57:30",
+  "slug": "hd-212330-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-212330-a/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 212330 A",
+    "custom_star_title": "",
+    "aliases": "HD212330,HD212330A,HD212330A,HR8531A,GJ857A,HD 212330,HR 8531 A,GJ 857A",
+    "constellation": "Tucana",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_212330_A",
+    "st_optmag": 5.318,
+    "st_vj": 5.318,
+    "st_dist": 20.3398,
+    "st_j": 5.318,
+    "st_mass": 1.02,
+    "dec": -57.7974559,
+    "st_teff": 5660,
+    "st_rad": 1.717,
+    "ra": 336.2348695,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_212330_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 259291108",
+    "magnitude": 5.3
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391229",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

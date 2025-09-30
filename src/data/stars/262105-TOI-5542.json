@@ -1,1 +1,71 @@
-{"id":262105,"date":"2023-11-28T20:46:46","date_gmt":"2023-11-29T01:46:46","modified":"2025-04-23T05:55:19","modified_gmt":"2025-04-23T09:55:19","slug":"toi-5542","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5542/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-5542","custom_star_title":"","aliases":"","constellation":"Pavo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248655],"exo_id":"TOI-5542","st_optmag":12.42,"st_vj":12.42,"st_dist":348.849,"st_j":12.42,"st_mass":0.89,"dec":-61.1354659,"st_teff":5700,"st_rad":1.058,"ra":302.7984228,"system_radius":49666492.84,"pl_hostname":"TOI-5542","stellar_type":"G","tic_id":"TIC 466206508","magnitude":12.42},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262105","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248655"}]}}
+{
+  "id": 262105,
+  "date": "2023-11-28T20:46:46",
+  "date_gmt": "2023-11-29T01:46:46",
+  "modified": "2025-04-23T05:55:19",
+  "modified_gmt": "2025-04-23T09:55:19",
+  "slug": "toi-5542",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5542/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5542",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pavo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248655
+    ],
+    "exo_id": "TOI-5542",
+    "st_optmag": 12.42,
+    "st_vj": 12.42,
+    "st_dist": 348.849,
+    "st_j": 12.42,
+    "st_mass": 0.89,
+    "dec": -61.1354659,
+    "st_teff": 5700,
+    "st_rad": 1.058,
+    "ra": 302.7984228,
+    "system_radius": 49666492.84,
+    "pl_hostname": "TOI-5542",
+    "stellar_type": "G",
+    "tic_id": "TIC 466206508",
+    "magnitude": 12.42
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262105",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248655"
+      }
+    ]
+  }
+}

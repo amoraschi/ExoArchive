@@ -1,1 +1,71 @@
-{"id":263085,"date":"2023-11-28T20:59:13","date_gmt":"2023-11-29T01:59:13","modified":"2025-06-13T07:33:33","modified_gmt":"2025-06-13T11:33:33","slug":"mascara-4","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/mascara-4/","featured_media":0,"categories":[],"acf":{"display_name":"MASCARA-4","custom_star_title":"","aliases":"","constellation":"Carina","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248159],"exo_id":"MASCARA-4","st_optmag":8.191,"st_vj":8.191,"st_dist":170.696,"st_j":8.191,"st_mass":1.75,"dec":-66.1139253,"st_teff":7800,"st_rad":1.79,"ra":147.5800667,"system_radius":7090939.038,"pl_hostname":"MASCARA-4","stellar_type":"A","tic_id":"TIC 371443216","magnitude":8.191},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263085","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248159"}]}}
+{
+  "id": 263085,
+  "date": "2023-11-28T20:59:13",
+  "date_gmt": "2023-11-29T01:59:13",
+  "modified": "2025-06-13T07:33:33",
+  "modified_gmt": "2025-06-13T11:33:33",
+  "slug": "mascara-4",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/mascara-4/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MASCARA-4",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248159
+    ],
+    "exo_id": "MASCARA-4",
+    "st_optmag": 8.191,
+    "st_vj": 8.191,
+    "st_dist": 170.696,
+    "st_j": 8.191,
+    "st_mass": 1.75,
+    "dec": -66.1139253,
+    "st_teff": 7800,
+    "st_rad": 1.79,
+    "ra": 147.5800667,
+    "system_radius": 7090939.038,
+    "pl_hostname": "MASCARA-4",
+    "stellar_type": "A",
+    "tic_id": "TIC 371443216",
+    "magnitude": 8.191
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263085",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248159"
+      }
+    ]
+  }
+}

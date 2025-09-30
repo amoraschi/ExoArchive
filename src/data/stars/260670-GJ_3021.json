@@ -1,1 +1,71 @@
-{"id":260670,"date":"2023-11-28T20:28:37","date_gmt":"2023-11-29T01:28:37","modified":"2025-04-23T05:53:32","modified_gmt":"2025-04-23T09:53:32","slug":"gj_3021","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_3021/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 3021","custom_star_title":"","aliases":"","constellation":"Hydrus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243618],"exo_id":"GJ_3021","st_optmag":6.59,"st_vj":6.59,"st_dist":17.5559,"st_j":6.59,"st_mass":0.9,"dec":-79.8514218,"st_teff":5540,"st_rad":0.9,"ra":4.0634323,"system_radius":73302956.3,"pl_hostname":"GJ_3021","stellar_type":"G","tic_id":"TIC 290543478","magnitude":6.59},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260670","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243618"}]}}
+{
+  "id": 260670,
+  "date": "2023-11-28T20:28:37",
+  "date_gmt": "2023-11-29T01:28:37",
+  "modified": "2025-04-23T05:53:32",
+  "modified_gmt": "2025-04-23T09:53:32",
+  "slug": "gj_3021",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_3021/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 3021",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243618
+    ],
+    "exo_id": "GJ_3021",
+    "st_optmag": 6.59,
+    "st_vj": 6.59,
+    "st_dist": 17.5559,
+    "st_j": 6.59,
+    "st_mass": 0.9,
+    "dec": -79.8514218,
+    "st_teff": 5540,
+    "st_rad": 0.9,
+    "ra": 4.0634323,
+    "system_radius": 73302956.3,
+    "pl_hostname": "GJ_3021",
+    "stellar_type": "G",
+    "tic_id": "TIC 290543478",
+    "magnitude": 6.59
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260670",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243618"
+      }
+    ]
+  }
+}

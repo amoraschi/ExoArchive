@@ -1,1 +1,71 @@
-{"id":262942,"date":"2023-11-28T20:57:25","date_gmt":"2023-11-29T01:57:25","modified":"2025-04-23T05:55:45","modified_gmt":"2025-04-23T09:55:45","slug":"xo-5","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/xo-5/","featured_media":0,"categories":[],"acf":{"display_name":"XO-5","custom_star_title":"","aliases":"","constellation":"Lynx","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248943],"exo_id":"XO-5","st_optmag":12.198,"st_vj":12.198,"st_dist":276.211,"st_j":12.198,"st_mass":1.04,"dec":39.0944695,"st_teff":5430,"st_rad":1.13,"ra":116.7163868,"system_radius":7704290.305,"pl_hostname":"XO-5","stellar_type":"G","tic_id":"TIC 9155187","magnitude":12.198},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262942","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248943"}]}}
+{
+  "id": 262942,
+  "date": "2023-11-28T20:57:25",
+  "date_gmt": "2023-11-29T01:57:25",
+  "modified": "2025-04-23T05:55:45",
+  "modified_gmt": "2025-04-23T09:55:45",
+  "slug": "xo-5",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/xo-5/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "XO-5",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lynx",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248943
+    ],
+    "exo_id": "XO-5",
+    "st_optmag": 12.198,
+    "st_vj": 12.198,
+    "st_dist": 276.211,
+    "st_j": 12.198,
+    "st_mass": 1.04,
+    "dec": 39.0944695,
+    "st_teff": 5430,
+    "st_rad": 1.13,
+    "ra": 116.7163868,
+    "system_radius": 7704290.305,
+    "pl_hostname": "XO-5",
+    "stellar_type": "G",
+    "tic_id": "TIC 9155187",
+    "magnitude": 12.198
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262942",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248943"
+      }
+    ]
+  }
+}

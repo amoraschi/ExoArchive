@@ -1,1 +1,76 @@
-{"id":439624,"date":"2024-12-13T01:15:40","date_gmt":"2024-12-13T06:15:40","modified":"2025-04-23T05:54:24","modified_gmt":"2025-04-23T09:54:24","slug":"toi-1782","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1782/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1782","custom_star_title":"","aliases":"","constellation":"Ursa Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":439662,"1":439661},"exo_id":"TOI-1782","st_optmag":12.329,"st_vj":12.329,"st_dist":95.2649,"st_j":12.329,"st_mass":0.68,"dec":74.4117909,"st_teff":4336,"st_rad":0.669,"ra":213.0787718,"system_radius":7515796.9888,"pl_hostname":"TOI-1782","stellar_type":"K","tic_id":"TIC 160045097","magnitude":12.329},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/439624","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439662"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439661"}]}}
+{
+  "id": 439624,
+  "date": "2024-12-13T01:15:40",
+  "date_gmt": "2024-12-13T06:15:40",
+  "modified": "2025-04-23T05:54:24",
+  "modified_gmt": "2025-04-23T09:54:24",
+  "slug": "toi-1782",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1782/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1782",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 439662,
+      "1": 439661
+    },
+    "exo_id": "TOI-1782",
+    "st_optmag": 12.329,
+    "st_vj": 12.329,
+    "st_dist": 95.2649,
+    "st_j": 12.329,
+    "st_mass": 0.68,
+    "dec": 74.4117909,
+    "st_teff": 4336,
+    "st_rad": 0.669,
+    "ra": 213.0787718,
+    "system_radius": 7515796.9888,
+    "pl_hostname": "TOI-1782",
+    "stellar_type": "K",
+    "tic_id": "TIC 160045097",
+    "magnitude": 12.329
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439624",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439662"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439661"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245084,"date":"2022-03-21T13:34:41","date_gmt":"2022-03-21T17:34:41","modified":"2025-07-07T20:40:03","modified_gmt":"2025-07-08T00:40:03","slug":"k2-384-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-384-e/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-384","pl_letter":"e","display_name":"K2-384 e","planet_radius":"1.345 x Earth","derived_description":"K2-384 e is a super Earth exoplanet that orbits a M-type star. Its mass is 2.37 Earths, it takes 9.7 days to complete one orbit of its star, and is 0.061574742861573 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":82.6603,"planet_mass":"2.37 Earths","st_optmag":16.12,"discovery_date":"2022","pl_orbsmax":"","period_display":"9.7 days","eccentricity":"","star_id":264432,"pl_orbper":9.715043,"pl_kepflag":true,"pl_radj":0.11999307,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.345,"exo_id":"K2-384_e","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245084","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264432"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245084,
+  "date": "2022-03-21T13:34:41",
+  "date_gmt": "2022-03-21T17:34:41",
+  "modified": "2025-07-07T20:40:03",
+  "modified_gmt": "2025-07-08T00:40:03",
+  "slug": "k2-384-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-384-e/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-384",
+    "pl_letter": "e",
+    "display_name": "K2-384 e",
+    "planet_radius": "1.345 x Earth",
+    "derived_description": "K2-384 e is a super Earth exoplanet that orbits a M-type star. Its mass is 2.37 Earths, it takes 9.7 days to complete one orbit of its star, and is 0.061574742861573 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 82.6603,
+    "planet_mass": "2.37 Earths",
+    "st_optmag": 16.12,
+    "discovery_date": "2022",
+    "pl_orbsmax": "",
+    "period_display": "9.7 days",
+    "eccentricity": "",
+    "star_id": 264432,
+    "pl_orbper": 9.715043,
+    "pl_kepflag": true,
+    "pl_radj": 0.11999307,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.345,
+    "exo_id": "K2-384_e",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245084",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264432"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

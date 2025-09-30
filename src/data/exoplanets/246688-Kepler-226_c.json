@@ -1,1 +1,79 @@
-{"id":246688,"date":"2017-10-02T13:32:52","date_gmt":"2017-10-02T17:32:52","modified":"2025-07-07T20:44:23","modified_gmt":"2025-07-08T00:44:23","slug":"kepler-226-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-226-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-226","pl_letter":"c","display_name":"Kepler-226 c","planet_radius":"2.27 x Earth","derived_description":"Kepler-226 c is a super Earth exoplanet that orbits a G-type star. Its mass is 0.142 Jupiters, it takes 5.3 days to complete one orbit of its star, and is 0.058 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":980.138,"planet_mass":"0.142 Jupiters","st_optmag":15.563,"discovery_date":"2014","pl_orbsmax":0.058,"period_display":"5.3 days","eccentricity":"0.0","star_id":262122,"pl_orbper":5.349555,"pl_kepflag":true,"pl_radj":0.203,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.27,"exo_id":"Kepler-226_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246688","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262122"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246688,
+  "date": "2017-10-02T13:32:52",
+  "date_gmt": "2017-10-02T17:32:52",
+  "modified": "2025-07-07T20:44:23",
+  "modified_gmt": "2025-07-08T00:44:23",
+  "slug": "kepler-226-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-226-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-226",
+    "pl_letter": "c",
+    "display_name": "Kepler-226 c",
+    "planet_radius": "2.27 x Earth",
+    "derived_description": "Kepler-226 c is a super Earth exoplanet that orbits a G-type star. Its mass is 0.142 Jupiters, it takes 5.3 days to complete one orbit of its star, and is 0.058 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 980.138,
+    "planet_mass": "0.142 Jupiters",
+    "st_optmag": 15.563,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.058,
+    "period_display": "5.3 days",
+    "eccentricity": "0.0",
+    "star_id": 262122,
+    "pl_orbper": 5.349555,
+    "pl_kepflag": true,
+    "pl_radj": 0.203,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.27,
+    "exo_id": "Kepler-226_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246688",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262122"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263944,"date":"2023-11-28T21:10:13","date_gmt":"2023-11-29T02:10:13","modified":"2025-04-23T05:57:13","modified_gmt":"2025-04-23T09:57:13","slug":"moa-2013-blg-220l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/moa-2013-blg-220l/","featured_media":0,"categories":[],"acf":{"display_name":"MOA-2013-BLG-220L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248179],"exo_id":"MOA-2013-BLG-220L","st_optmag":"","st_vj":"","st_dist":6720,"st_j":"","st_mass":0.88,"dec":-29.5447222,"st_teff":"","st_rad":"","ra":270.985417,"system_radius":453281546.1,"pl_hostname":"MOA-2013-BLG-220L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263944","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248179"}]}}
+{
+  "id": 263944,
+  "date": "2023-11-28T21:10:13",
+  "date_gmt": "2023-11-29T02:10:13",
+  "modified": "2025-04-23T05:57:13",
+  "modified_gmt": "2025-04-23T09:57:13",
+  "slug": "moa-2013-blg-220l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/moa-2013-blg-220l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MOA-2013-BLG-220L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248179
+    ],
+    "exo_id": "MOA-2013-BLG-220L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6720,
+    "st_j": "",
+    "st_mass": 0.88,
+    "dec": -29.5447222,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 270.985417,
+    "system_radius": 453281546.1,
+    "pl_hostname": "MOA-2013-BLG-220L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263944",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248179"
+      }
+    ]
+  }
+}

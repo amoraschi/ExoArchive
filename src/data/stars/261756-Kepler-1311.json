@@ -1,1 +1,81 @@
-{"id":261756,"date":"2023-11-28T20:42:20","date_gmt":"2023-11-29T01:42:20","modified":"2025-06-13T07:33:27","modified_gmt":"2025-06-13T11:33:27","slug":"kepler-1311","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1311/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1311","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245667,"1":245665,"2":245666},"exo_id":"Kepler-1311","st_optmag":13.528,"st_vj":13.528,"st_dist":866.331,"st_j":13.528,"st_mass":1.05,"dec":43.8244445,"st_teff":5748,"st_rad":1.4,"ra":289.6512597,"system_radius":102375806.3558,"pl_hostname":"Kepler-1311","stellar_type":"G","tic_id":"TIC 159106207","magnitude":13.528},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261756","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245667"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245666"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245665"}]}}
+{
+  "id": 261756,
+  "date": "2023-11-28T20:42:20",
+  "date_gmt": "2023-11-29T01:42:20",
+  "modified": "2025-06-13T07:33:27",
+  "modified_gmt": "2025-06-13T11:33:27",
+  "slug": "kepler-1311",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1311/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1311",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245667,
+      "1": 245665,
+      "2": 245666
+    },
+    "exo_id": "Kepler-1311",
+    "st_optmag": 13.528,
+    "st_vj": 13.528,
+    "st_dist": 866.331,
+    "st_j": 13.528,
+    "st_mass": 1.05,
+    "dec": 43.8244445,
+    "st_teff": 5748,
+    "st_rad": 1.4,
+    "ra": 289.6512597,
+    "system_radius": 102375806.3558,
+    "pl_hostname": "Kepler-1311",
+    "stellar_type": "G",
+    "tic_id": "TIC 159106207",
+    "magnitude": 13.528
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261756",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245667"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245666"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245665"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262960,"date":"2023-11-28T20:57:38","date_gmt":"2023-11-29T01:57:38","modified":"2025-05-16T06:39:39","modified_gmt":"2025-05-16T10:39:39","slug":"kelt-18","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-18/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-18","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245213],"exo_id":"KELT-18","st_optmag":10.16,"st_vj":10.16,"st_dist":321.376,"st_j":10.16,"st_mass":1.524,"dec":59.4442735,"st_teff":6670,"st_rad":1.908,"ra":216.5238248,"system_radius":6806703.085,"pl_hostname":"KELT-18","stellar_type":"F","tic_id":"TIC 293687315","magnitude":10.16},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262960","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245213"}]}}
+{
+  "id": 262960,
+  "date": "2023-11-28T20:57:38",
+  "date_gmt": "2023-11-29T01:57:38",
+  "modified": "2025-05-16T06:39:39",
+  "modified_gmt": "2025-05-16T10:39:39",
+  "slug": "kelt-18",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-18/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-18",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245213
+    ],
+    "exo_id": "KELT-18",
+    "st_optmag": 10.16,
+    "st_vj": 10.16,
+    "st_dist": 321.376,
+    "st_j": 10.16,
+    "st_mass": 1.524,
+    "dec": 59.4442735,
+    "st_teff": 6670,
+    "st_rad": 1.908,
+    "ra": 216.5238248,
+    "system_radius": 6806703.085,
+    "pl_hostname": "KELT-18",
+    "stellar_type": "F",
+    "tic_id": "TIC 293687315",
+    "magnitude": 10.16
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262960",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245213"
+      }
+    ]
+  }
+}

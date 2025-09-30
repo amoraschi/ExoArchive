@@ -1,1 +1,79 @@
-{"id":248736,"date":"2019-04-22T16:48:52","date_gmt":"2019-04-22T20:48:52","modified":"2025-06-25T12:04:49","modified_gmt":"2025-06-25T16:04:49","slug":"uz-fornacis-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/uz-fornacis-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"UZ_For","pl_letter":"c","display_name":"UZ Fornacis c","planet_radius":"Unknown","derived_description":"UZ Fornacis c is a gas giant exoplanet that orbits a K-type star. Its mass is 7.7 Jupiters, it takes 5.3 years to complete one orbit of its star, and is 2.8 AU from its star. Its discovery was announced in 2011.","planet_type":"Gas Giant","pl_discmethod":"Eclipse Timing Variations","pl_facility":"Multiple Observatories","st_dist":239.60387482,"planet_mass":"7.7 Jupiters","st_optmag":16.7753,"discovery_date":"2011","pl_orbsmax":2.8,"period_display":"5.3 years","eccentricity":"0.05","star_id":263040,"pl_orbper":1916.25,"pl_kepflag":false,"pl_radj":"","pl_disc":2011,"pl_publ_date":"2011","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":"","exo_id":"UZ_For_c","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248736","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263040"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248736,
+  "date": "2019-04-22T16:48:52",
+  "date_gmt": "2019-04-22T20:48:52",
+  "modified": "2025-06-25T12:04:49",
+  "modified_gmt": "2025-06-25T16:04:49",
+  "slug": "uz-fornacis-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/uz-fornacis-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "UZ_For",
+    "pl_letter": "c",
+    "display_name": "UZ Fornacis c",
+    "planet_radius": "Unknown",
+    "derived_description": "UZ Fornacis c is a gas giant exoplanet that orbits a K-type star. Its mass is 7.7 Jupiters, it takes 5.3 years to complete one orbit of its star, and is 2.8 AU from its star. Its discovery was announced in 2011.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Eclipse Timing Variations",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 239.60387482,
+    "planet_mass": "7.7 Jupiters",
+    "st_optmag": 16.7753,
+    "discovery_date": "2011",
+    "pl_orbsmax": 2.8,
+    "period_display": "5.3 years",
+    "eccentricity": "0.05",
+    "star_id": 263040,
+    "pl_orbper": 1916.25,
+    "pl_kepflag": false,
+    "pl_radj": "",
+    "pl_disc": 2011,
+    "pl_publ_date": "2011",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": "",
+    "exo_id": "UZ_For_c",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248736",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263040"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

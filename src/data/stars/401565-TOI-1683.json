@@ -1,1 +1,71 @@
-{"id":401565,"date":"2024-06-13T20:50:22","date_gmt":"2024-06-14T00:50:22","modified":"2025-04-25T05:59:14","modified_gmt":"2025-04-25T09:59:14","slug":"toi-1683","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1683/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1683","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[401603],"exo_id":"TOI-1683","st_optmag":10.97,"st_vj":10.97,"st_dist":51.1884,"st_j":10.97,"st_mass":0.694661,"dec":27.8223701,"st_teff":4402,"st_rad":0.7,"ra":65.9796504,"system_radius":5461458.1516269,"pl_hostname":"TOI-1683","stellar_type":"K","tic_id":"TIC 58542531","magnitude":10.97},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/401565","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401603"}]}}
+{
+  "id": 401565,
+  "date": "2024-06-13T20:50:22",
+  "date_gmt": "2024-06-14T00:50:22",
+  "modified": "2025-04-25T05:59:14",
+  "modified_gmt": "2025-04-25T09:59:14",
+  "slug": "toi-1683",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1683/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1683",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      401603
+    ],
+    "exo_id": "TOI-1683",
+    "st_optmag": 10.97,
+    "st_vj": 10.97,
+    "st_dist": 51.1884,
+    "st_j": 10.97,
+    "st_mass": 0.694661,
+    "dec": 27.8223701,
+    "st_teff": 4402,
+    "st_rad": 0.7,
+    "ra": 65.9796504,
+    "system_radius": 5461458.1516269,
+    "pl_hostname": "TOI-1683",
+    "stellar_type": "K",
+    "tic_id": "TIC 58542531",
+    "magnitude": 10.97
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401565",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401603"
+      }
+    ]
+  }
+}

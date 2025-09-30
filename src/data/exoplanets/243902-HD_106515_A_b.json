@@ -1,1 +1,79 @@
-{"id":243902,"date":"2019-04-22T16:48:41","date_gmt":"2019-04-22T20:48:41","modified":"2024-10-24T17:46:27","modified_gmt":"2024-10-24T21:46:27","slug":"hd-106515-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-106515-a-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_106515_A","pl_letter":"b","display_name":"HD 106515 A b","planet_radius":"1.12 x Jupiter (estimate)","derived_description":"HD 106515 A b is a gas giant exoplanet that orbits a G-type star. Its mass is 9.518 Jupiters, it takes 9.8 years to complete one orbit of its star, and is 4.491 AU from its star. Its discovery was announced in 2012.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":34.0915,"planet_mass":"9.518 Jupiters","st_optmag":7.971,"discovery_date":"2012","pl_orbsmax":4.491,"period_display":"9.8 years","eccentricity":"0.56","star_id":263837,"pl_orbper":3586.86089,"pl_kepflag":false,"pl_radj":1.12,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":119.062,"multiple_planet_system":false,"pl_rade":12.5,"exo_id":"HD_106515_A_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.565},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243902","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263837"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243902,
+  "date": "2019-04-22T16:48:41",
+  "date_gmt": "2019-04-22T20:48:41",
+  "modified": "2024-10-24T17:46:27",
+  "modified_gmt": "2024-10-24T21:46:27",
+  "slug": "hd-106515-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-106515-a-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_106515_A",
+    "pl_letter": "b",
+    "display_name": "HD 106515 A b",
+    "planet_radius": "1.12 x Jupiter (estimate)",
+    "derived_description": "HD 106515 A b is a gas giant exoplanet that orbits a G-type star. Its mass is 9.518 Jupiters, it takes 9.8 years to complete one orbit of its star, and is 4.491 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 34.0915,
+    "planet_mass": "9.518 Jupiters",
+    "st_optmag": 7.971,
+    "discovery_date": "2012",
+    "pl_orbsmax": 4.491,
+    "period_display": "9.8 years",
+    "eccentricity": "0.56",
+    "star_id": 263837,
+    "pl_orbper": 3586.86089,
+    "pl_kepflag": false,
+    "pl_radj": 1.12,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": 119.062,
+    "multiple_planet_system": false,
+    "pl_rade": 12.5,
+    "exo_id": "HD_106515_A_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.565
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243902",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263837"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

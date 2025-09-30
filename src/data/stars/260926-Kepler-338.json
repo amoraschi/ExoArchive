@@ -1,1 +1,86 @@
-{"id":260926,"date":"2023-11-28T20:31:52","date_gmt":"2023-11-29T01:31:52","modified":"2025-04-23T05:53:51","modified_gmt":"2025-04-23T09:53:51","slug":"kepler-338","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-338/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-338","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246990,246991,246992,246993],"exo_id":"Kepler-338","st_optmag":12.19,"st_vj":12.19,"st_dist":552.798,"st_j":12.19,"st_mass":1.105,"dec":40.7844188,"st_teff":5923,"st_rad":1.735,"ra":282.9790593,"system_radius":38446652.59,"pl_hostname":"Kepler-338","stellar_type":"G","tic_id":"TIC 258203303","magnitude":12.19},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260926","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246993"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246992"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246991"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246990"}]}}
+{
+  "id": 260926,
+  "date": "2023-11-28T20:31:52",
+  "date_gmt": "2023-11-29T01:31:52",
+  "modified": "2025-04-23T05:53:51",
+  "modified_gmt": "2025-04-23T09:53:51",
+  "slug": "kepler-338",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-338/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-338",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246990,
+      246991,
+      246992,
+      246993
+    ],
+    "exo_id": "Kepler-338",
+    "st_optmag": 12.19,
+    "st_vj": 12.19,
+    "st_dist": 552.798,
+    "st_j": 12.19,
+    "st_mass": 1.105,
+    "dec": 40.7844188,
+    "st_teff": 5923,
+    "st_rad": 1.735,
+    "ra": 282.9790593,
+    "system_radius": 38446652.59,
+    "pl_hostname": "Kepler-338",
+    "stellar_type": "G",
+    "tic_id": "TIC 258203303",
+    "magnitude": 12.19
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260926",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246993"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246992"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246991"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246990"
+      }
+    ]
+  }
+}

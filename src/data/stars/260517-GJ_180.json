@@ -1,1 +1,81 @@
-{"id":260517,"date":"2023-11-28T20:26:47","date_gmt":"2023-11-29T01:26:47","modified":"2025-04-23T05:53:23","modified_gmt":"2025-04-23T09:53:23","slug":"gj_180","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_180/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 180","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243607,"1":243605,"2":243606},"exo_id":"GJ_180","st_optmag":10.914,"st_vj":10.914,"st_dist":11.9407,"st_j":10.914,"st_mass":0.43,"dec":-17.776194,"st_teff":3371,"st_rad":0.413049,"ra":73.460097,"system_radius":46225741.83,"pl_hostname":"GJ_180","stellar_type":"M","tic_id":"TIC 246902275","magnitude":10.914},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260517","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243607"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243606"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243605"}]}}
+{
+  "id": 260517,
+  "date": "2023-11-28T20:26:47",
+  "date_gmt": "2023-11-29T01:26:47",
+  "modified": "2025-04-23T05:53:23",
+  "modified_gmt": "2025-04-23T09:53:23",
+  "slug": "gj_180",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_180/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 180",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243607,
+      "1": 243605,
+      "2": 243606
+    },
+    "exo_id": "GJ_180",
+    "st_optmag": 10.914,
+    "st_vj": 10.914,
+    "st_dist": 11.9407,
+    "st_j": 10.914,
+    "st_mass": 0.43,
+    "dec": -17.776194,
+    "st_teff": 3371,
+    "st_rad": 0.413049,
+    "ra": 73.460097,
+    "system_radius": 46225741.83,
+    "pl_hostname": "GJ_180",
+    "stellar_type": "M",
+    "tic_id": "TIC 246902275",
+    "magnitude": 10.914
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260517",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243607"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243606"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243605"
+      }
+    ]
+  }
+}

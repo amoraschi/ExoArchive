@@ -1,1 +1,79 @@
-{"id":245956,"date":"2016-05-10T14:50:09","date_gmt":"2016-05-10T18:50:09","modified":"2025-03-28T07:27:55","modified_gmt":"2025-03-28T11:27:55","slug":"kepler-1519-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1519-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1519","pl_letter":"b","display_name":"Kepler-1519 b","planet_radius":"0.62985101 x Jupiter","derived_description":"Kepler-1519 b is a gas giant exoplanet that orbits a G-type star. Its mass is 39.6 Earths, it takes 240.8 days to complete one orbit of its star, and is 0.7655 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1441.63,"planet_mass":"39.6 Earths","st_optmag":15.124,"discovery_date":"2016","pl_orbsmax":0.7655,"period_display":"240.8 days","eccentricity":"0.0","star_id":261393,"pl_orbper":240.7989397,"pl_kepflag":true,"pl_radj":0.62985101,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":7.06,"exo_id":"Kepler-1519_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245956","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261393"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 245956,
+  "date": "2016-05-10T14:50:09",
+  "date_gmt": "2016-05-10T18:50:09",
+  "modified": "2025-03-28T07:27:55",
+  "modified_gmt": "2025-03-28T11:27:55",
+  "slug": "kepler-1519-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1519-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1519",
+    "pl_letter": "b",
+    "display_name": "Kepler-1519 b",
+    "planet_radius": "0.62985101 x Jupiter",
+    "derived_description": "Kepler-1519 b is a gas giant exoplanet that orbits a G-type star. Its mass is 39.6 Earths, it takes 240.8 days to complete one orbit of its star, and is 0.7655 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1441.63,
+    "planet_mass": "39.6 Earths",
+    "st_optmag": 15.124,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.7655,
+    "period_display": "240.8 days",
+    "eccentricity": "0.0",
+    "star_id": 261393,
+    "pl_orbper": 240.7989397,
+    "pl_kepflag": true,
+    "pl_radj": 0.62985101,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 7.06,
+    "exo_id": "Kepler-1519_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245956",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261393"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

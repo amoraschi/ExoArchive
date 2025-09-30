@@ -1,1 +1,71 @@
-{"id":263925,"date":"2023-11-28T21:09:58","date_gmt":"2023-11-29T02:09:58","modified":"2025-04-23T05:57:13","modified_gmt":"2025-04-23T09:57:13","slug":"ogle-2013-blg-0102l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2013-blg-0102l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2013-BLG-0102L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248253],"exo_id":"OGLE-2013-BLG-0102L","st_optmag":"","st_vj":"","st_dist":3040,"st_j":"","st_mass":0.096,"dec":-31.6905833,"st_teff":"","st_rad":"","ra":268.0295,"system_radius":119678296,"pl_hostname":"OGLE-2013-BLG-0102L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263925","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248253"}]}}
+{
+  "id": 263925,
+  "date": "2023-11-28T21:09:58",
+  "date_gmt": "2023-11-29T02:09:58",
+  "modified": "2025-04-23T05:57:13",
+  "modified_gmt": "2025-04-23T09:57:13",
+  "slug": "ogle-2013-blg-0102l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2013-blg-0102l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2013-BLG-0102L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248253
+    ],
+    "exo_id": "OGLE-2013-BLG-0102L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 3040,
+    "st_j": "",
+    "st_mass": 0.096,
+    "dec": -31.6905833,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.0295,
+    "system_radius": 119678296,
+    "pl_hostname": "OGLE-2013-BLG-0102L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263925",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248253"
+      }
+    ]
+  }
+}

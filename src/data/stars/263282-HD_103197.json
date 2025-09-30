@@ -1,1 +1,71 @@
-{"id":263282,"date":"2023-11-28T21:01:41","date_gmt":"2023-11-29T02:01:41","modified":"2025-04-23T05:56:54","modified_gmt":"2025-04-23T09:56:54","slug":"hd_103197","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_103197/","featured_media":0,"categories":[],"acf":{"display_name":"HD 103197","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243886],"exo_id":"HD_103197","st_optmag":9.4,"st_vj":9.4,"st_dist":57.1463,"st_j":9.4,"st_mass":0.8,"dec":-50.2927911,"st_teff":5250,"st_rad":0.88,"ra":178.2201971,"system_radius":37399467.5,"pl_hostname":"HD_103197","stellar_type":"K","tic_id":"TIC 400806831","magnitude":9.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263282","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243886"}]}}
+{
+  "id": 263282,
+  "date": "2023-11-28T21:01:41",
+  "date_gmt": "2023-11-29T02:01:41",
+  "modified": "2025-04-23T05:56:54",
+  "modified_gmt": "2025-04-23T09:56:54",
+  "slug": "hd_103197",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_103197/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 103197",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243886
+    ],
+    "exo_id": "HD_103197",
+    "st_optmag": 9.4,
+    "st_vj": 9.4,
+    "st_dist": 57.1463,
+    "st_j": 9.4,
+    "st_mass": 0.8,
+    "dec": -50.2927911,
+    "st_teff": 5250,
+    "st_rad": 0.88,
+    "ra": 178.2201971,
+    "system_radius": 37399467.5,
+    "pl_hostname": "HD_103197",
+    "stellar_type": "K",
+    "tic_id": "TIC 400806831",
+    "magnitude": 9.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263282",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243886"
+      }
+    ]
+  }
+}

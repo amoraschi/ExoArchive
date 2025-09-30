@@ -1,1 +1,86 @@
-{"id":262312,"date":"2023-11-28T20:49:24","date_gmt":"2023-11-29T01:49:24","modified":"2025-04-23T05:56:01","modified_gmt":"2025-04-23T09:56:01","slug":"gj_676_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_676_a/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 676 A","custom_star_title":"","aliases":"","constellation":"Ara","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243685,"1":243684,"2":243686,"3":243687},"exo_id":"GJ_676_A","st_optmag":9.58,"st_vj":9.58,"st_dist":16.0272,"st_j":9.58,"st_mass":0.626,"dec":-51.6377777,"st_teff":3734,"st_rad":0.69,"ra":262.5448903,"system_radius":1454988883.62,"pl_hostname":"GJ_676_A","stellar_type":"M","tic_id":"TIC 369021303","magnitude":9.58},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262312","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243687"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243686"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243685"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243684"}]}}
+{
+  "id": 262312,
+  "date": "2023-11-28T20:49:24",
+  "date_gmt": "2023-11-29T01:49:24",
+  "modified": "2025-04-23T05:56:01",
+  "modified_gmt": "2025-04-23T09:56:01",
+  "slug": "gj_676_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_676_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 676 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ara",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243685,
+      "1": 243684,
+      "2": 243686,
+      "3": 243687
+    },
+    "exo_id": "GJ_676_A",
+    "st_optmag": 9.58,
+    "st_vj": 9.58,
+    "st_dist": 16.0272,
+    "st_j": 9.58,
+    "st_mass": 0.626,
+    "dec": -51.6377777,
+    "st_teff": 3734,
+    "st_rad": 0.69,
+    "ra": 262.5448903,
+    "system_radius": 1454988883.62,
+    "pl_hostname": "GJ_676_A",
+    "stellar_type": "M",
+    "tic_id": "TIC 369021303",
+    "magnitude": 9.58
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262312",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243687"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243686"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243685"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243684"
+      }
+    ]
+  }
+}

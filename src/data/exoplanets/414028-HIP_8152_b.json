@@ -1,1 +1,79 @@
-{"id":414028,"date":"2024-08-08T23:21:22","date_gmt":"2024-08-09T03:21:22","modified":"2025-07-07T20:38:36","modified_gmt":"2025-07-08T00:38:36","slug":"hip-8152-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-8152-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HIP_8152","pl_letter":"b","display_name":"HIP 8152 b","planet_radius":"0.22627021 x Jupiter","derived_description":"HIP 8152 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.9 Earths, it takes 10.8 days to complete one orbit of its star, and is 0.093 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":101.694,"planet_mass":"8.9 Earths","st_optmag":10.07,"discovery_date":"2023","pl_orbsmax":0.093,"period_display":"10.8 days","eccentricity":"0.0","star_id":406602,"pl_orbper":10.751014,"pl_kepflag":false,"pl_radj":0.22627021,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":2.53625843,"exo_id":"HIP_8152_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/414028","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/406602"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 414028,
+  "date": "2024-08-08T23:21:22",
+  "date_gmt": "2024-08-09T03:21:22",
+  "modified": "2025-07-07T20:38:36",
+  "modified_gmt": "2025-07-08T00:38:36",
+  "slug": "hip-8152-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-8152-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_8152",
+    "pl_letter": "b",
+    "display_name": "HIP 8152 b",
+    "planet_radius": "0.22627021 x Jupiter",
+    "derived_description": "HIP 8152 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.9 Earths, it takes 10.8 days to complete one orbit of its star, and is 0.093 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 101.694,
+    "planet_mass": "8.9 Earths",
+    "st_optmag": 10.07,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.093,
+    "period_display": "10.8 days",
+    "eccentricity": "0.0",
+    "star_id": 406602,
+    "pl_orbper": 10.751014,
+    "pl_kepflag": false,
+    "pl_radj": 0.22627021,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 2.53625843,
+    "exo_id": "HIP_8152_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/414028",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406602"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

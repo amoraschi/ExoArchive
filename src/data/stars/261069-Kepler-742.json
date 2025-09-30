@@ -1,1 +1,71 @@
-{"id":261069,"date":"2023-11-28T20:33:40","date_gmt":"2023-11-29T01:33:40","modified":"2025-04-23T05:57:12","modified_gmt":"2025-04-23T09:57:12","slug":"kepler-742","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-742/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-742","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247652],"exo_id":"Kepler-742","st_optmag":15.357,"st_vj":15.357,"st_dist":489.253,"st_j":15.357,"st_mass":0.76,"dec":46.7896522,"st_teff":4642,"st_rad":0.71,"ra":283.8659676,"system_radius":11130081.528,"pl_hostname":"Kepler-742","stellar_type":"K","tic_id":"TIC 164558468","magnitude":15.357},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261069","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247652"}]}}
+{
+  "id": 261069,
+  "date": "2023-11-28T20:33:40",
+  "date_gmt": "2023-11-29T01:33:40",
+  "modified": "2025-04-23T05:57:12",
+  "modified_gmt": "2025-04-23T09:57:12",
+  "slug": "kepler-742",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-742/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-742",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247652
+    ],
+    "exo_id": "Kepler-742",
+    "st_optmag": 15.357,
+    "st_vj": 15.357,
+    "st_dist": 489.253,
+    "st_j": 15.357,
+    "st_mass": 0.76,
+    "dec": 46.7896522,
+    "st_teff": 4642,
+    "st_rad": 0.71,
+    "ra": 283.8659676,
+    "system_radius": 11130081.528,
+    "pl_hostname": "Kepler-742",
+    "stellar_type": "K",
+    "tic_id": "TIC 164558468",
+    "magnitude": 15.357
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261069",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247652"
+      }
+    ]
+  }
+}

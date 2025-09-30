@@ -1,1 +1,76 @@
-{"id":260541,"date":"2023-11-28T20:27:05","date_gmt":"2023-11-29T01:27:05","modified":"2025-04-23T05:53:24","modified_gmt":"2025-04-23T09:53:24","slug":"hd_37605","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_37605/","featured_media":0,"categories":[],"acf":{"display_name":"HD 37605","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244417,244418],"exo_id":"HD_37605","st_optmag":8.67,"st_vj":8.67,"st_dist":46.7864,"st_j":8.67,"st_mass":0.94,"dec":6.0595116,"st_teff":5329,"st_rad":0.91,"ra":85.0074276,"system_radius":559496033.8,"pl_hostname":"HD_37605","stellar_type":"G","tic_id":"TIC 144730053","magnitude":8.67},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260541","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244418"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244417"}]}}
+{
+  "id": 260541,
+  "date": "2023-11-28T20:27:05",
+  "date_gmt": "2023-11-29T01:27:05",
+  "modified": "2025-04-23T05:53:24",
+  "modified_gmt": "2025-04-23T09:53:24",
+  "slug": "hd_37605",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_37605/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 37605",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244417,
+      244418
+    ],
+    "exo_id": "HD_37605",
+    "st_optmag": 8.67,
+    "st_vj": 8.67,
+    "st_dist": 46.7864,
+    "st_j": 8.67,
+    "st_mass": 0.94,
+    "dec": 6.0595116,
+    "st_teff": 5329,
+    "st_rad": 0.91,
+    "ra": 85.0074276,
+    "system_radius": 559496033.8,
+    "pl_hostname": "HD_37605",
+    "stellar_type": "G",
+    "tic_id": "TIC 144730053",
+    "magnitude": 8.67
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260541",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244418"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244417"
+      }
+    ]
+  }
+}

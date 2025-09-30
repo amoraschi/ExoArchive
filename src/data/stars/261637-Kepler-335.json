@@ -1,1 +1,76 @@
-{"id":261637,"date":"2023-11-28T20:40:51","date_gmt":"2023-11-29T01:40:51","modified":"2025-04-23T05:53:58","modified_gmt":"2025-04-23T09:53:58","slug":"kepler-335","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-335/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-335","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246983,246984],"exo_id":"Kepler-335","st_optmag":14.111,"st_vj":14.111,"st_dist":1278.97,"st_j":14.111,"st_mass":1.367,"dec":45.4285986,"st_teff":5877,"st_rad":1.854,"ra":296.0642944,"system_radius":53256841.72,"pl_hostname":"Kepler-335","stellar_type":"G","tic_id":"TIC 272085033","magnitude":14.111},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261637","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246984"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246983"}]}}
+{
+  "id": 261637,
+  "date": "2023-11-28T20:40:51",
+  "date_gmt": "2023-11-29T01:40:51",
+  "modified": "2025-04-23T05:53:58",
+  "modified_gmt": "2025-04-23T09:53:58",
+  "slug": "kepler-335",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-335/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-335",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246983,
+      246984
+    ],
+    "exo_id": "Kepler-335",
+    "st_optmag": 14.111,
+    "st_vj": 14.111,
+    "st_dist": 1278.97,
+    "st_j": 14.111,
+    "st_mass": 1.367,
+    "dec": 45.4285986,
+    "st_teff": 5877,
+    "st_rad": 1.854,
+    "ra": 296.0642944,
+    "system_radius": 53256841.72,
+    "pl_hostname": "Kepler-335",
+    "stellar_type": "G",
+    "tic_id": "TIC 272085033",
+    "magnitude": 14.111
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261637",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246984"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246983"
+      }
+    ]
+  }
+}

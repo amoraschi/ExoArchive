@@ -1,1 +1,79 @@
-{"id":245580,"date":"2016-03-16T19:26:21","date_gmt":"2016-03-16T23:26:21","modified":"2025-07-07T20:43:01","modified_gmt":"2025-07-08T00:43:01","slug":"kepler-124-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-124-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-124","pl_letter":"d","display_name":"Kepler-124 d","planet_radius":"1.11 x Earth","derived_description":"Kepler-124 d is a super Earth exoplanet that orbits a K-type star. Its mass is 1.41 Earths, it takes 31 days to complete one orbit of its star, and is 0.17 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":420.046,"planet_mass":"1.41 Earths","st_optmag":14.4,"discovery_date":"2014","pl_orbsmax":0.17,"period_display":"31 days","eccentricity":"0.0","star_id":262563,"pl_orbper":30.950851,"pl_kepflag":true,"pl_radj":0.099,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.11,"exo_id":"Kepler-124_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245580","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262563"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245580,
+  "date": "2016-03-16T19:26:21",
+  "date_gmt": "2016-03-16T23:26:21",
+  "modified": "2025-07-07T20:43:01",
+  "modified_gmt": "2025-07-08T00:43:01",
+  "slug": "kepler-124-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-124-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-124",
+    "pl_letter": "d",
+    "display_name": "Kepler-124 d",
+    "planet_radius": "1.11 x Earth",
+    "derived_description": "Kepler-124 d is a super Earth exoplanet that orbits a K-type star. Its mass is 1.41 Earths, it takes 31 days to complete one orbit of its star, and is 0.17 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 420.046,
+    "planet_mass": "1.41 Earths",
+    "st_optmag": 14.4,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.17,
+    "period_display": "31 days",
+    "eccentricity": "0.0",
+    "star_id": 262563,
+    "pl_orbper": 30.950851,
+    "pl_kepflag": true,
+    "pl_radj": 0.099,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.11,
+    "exo_id": "Kepler-124_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245580",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262563"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

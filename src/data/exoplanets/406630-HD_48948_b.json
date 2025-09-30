@@ -1,1 +1,79 @@
-{"id":406630,"date":"2024-07-15T22:33:30","date_gmt":"2024-07-16T02:33:30","modified":"2025-07-07T20:38:35","modified_gmt":"2025-07-08T00:38:35","slug":"hd-48948-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-48948-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_48948","pl_letter":"b","display_name":"HD 48948 b","planet_radius":"2.06 x Earth (estimate)","derived_description":"HD 48948 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.88 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.0652 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Roque de los Muchachos Observatory","st_dist":16.9043,"planet_mass":"4.88 Earths","st_optmag":8.58,"discovery_date":"2024","pl_orbsmax":0.0652,"period_display":"7.3 days","eccentricity":"0.06","star_id":406610,"pl_orbper":7.34013,"pl_kepflag":false,"pl_radj":0.183,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":39,"multiple_planet_system":false,"pl_rade":2.06,"exo_id":"HD_48948_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.055},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/406630","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/406610"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 406630,
+  "date": "2024-07-15T22:33:30",
+  "date_gmt": "2024-07-16T02:33:30",
+  "modified": "2025-07-07T20:38:35",
+  "modified_gmt": "2025-07-08T00:38:35",
+  "slug": "hd-48948-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-48948-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_48948",
+    "pl_letter": "b",
+    "display_name": "HD 48948 b",
+    "planet_radius": "2.06 x Earth (estimate)",
+    "derived_description": "HD 48948 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.88 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.0652 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Roque de los Muchachos Observatory",
+    "st_dist": 16.9043,
+    "planet_mass": "4.88 Earths",
+    "st_optmag": 8.58,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0652,
+    "period_display": "7.3 days",
+    "eccentricity": "0.06",
+    "star_id": 406610,
+    "pl_orbper": 7.34013,
+    "pl_kepflag": false,
+    "pl_radj": 0.183,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 39,
+    "multiple_planet_system": false,
+    "pl_rade": 2.06,
+    "exo_id": "HD_48948_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.055
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/406630",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406610"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

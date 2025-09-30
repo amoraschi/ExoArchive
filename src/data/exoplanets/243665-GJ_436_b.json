@@ -1,1 +1,79 @@
-{"id":243665,"date":"2019-04-22T16:48:35","date_gmt":"2019-04-22T20:48:35","modified":"2024-10-24T16:00:26","modified_gmt":"2024-10-24T20:00:26","slug":"gj-436-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-436-b/","featured_media":316694,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_436","pl_letter":"b","display_name":"GJ 436 b","planet_radius":"0.372 x Jupiter","derived_description":"GJ 436 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 22.1 Earths, it takes 2.6 days to complete one orbit of its star, and is 0.0291 AU from its star. Its discovery was announced in 2004.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":9.75321,"planet_mass":"22.1 Earths","st_optmag":10.67,"discovery_date":"2004","pl_orbsmax":0.0291,"period_display":"2.6 days","eccentricity":"0.14","star_id":262738,"pl_orbper":2.64388312,"pl_kepflag":false,"pl_radj":0.372,"pl_disc":2004,"pl_publ_date":"2004","planet_orbit_period":351,"multiple_planet_system":false,"pl_rade":4.17,"exo_id":"GJ_436_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.13827},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243665","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262738"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/316694"}]}}
+{
+  "id": 243665,
+  "date": "2019-04-22T16:48:35",
+  "date_gmt": "2019-04-22T20:48:35",
+  "modified": "2024-10-24T16:00:26",
+  "modified_gmt": "2024-10-24T20:00:26",
+  "slug": "gj-436-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-436-b/",
+  "featured_media": 316694,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_436",
+    "pl_letter": "b",
+    "display_name": "GJ 436 b",
+    "planet_radius": "0.372 x Jupiter",
+    "derived_description": "GJ 436 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 22.1 Earths, it takes 2.6 days to complete one orbit of its star, and is 0.0291 AU from its star. Its discovery was announced in 2004.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 9.75321,
+    "planet_mass": "22.1 Earths",
+    "st_optmag": 10.67,
+    "discovery_date": "2004",
+    "pl_orbsmax": 0.0291,
+    "period_display": "2.6 days",
+    "eccentricity": "0.14",
+    "star_id": 262738,
+    "pl_orbper": 2.64388312,
+    "pl_kepflag": false,
+    "pl_radj": 0.372,
+    "pl_disc": 2004,
+    "pl_publ_date": "2004",
+    "planet_orbit_period": 351,
+    "multiple_planet_system": false,
+    "pl_rade": 4.17,
+    "exo_id": "GJ_436_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.13827
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243665",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262738"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/316694"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243965,"date":"2019-04-22T16:48:39","date_gmt":"2019-04-22T20:48:39","modified":"2025-07-07T20:39:34","modified_gmt":"2025-07-08T00:39:34","slug":"hd-11964-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-11964-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_11964","pl_letter":"c","display_name":"HD 11964 c","planet_radius":"0.48 x Jupiter (estimate)","derived_description":"HD 11964 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 25 Earths, it takes 37.9 days to complete one orbit of its star, and is 0.229 AU from its star. Its discovery was announced in 2008.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":33.5369,"planet_mass":"25 Earths","st_optmag":6.41525,"discovery_date":"2008","pl_orbsmax":0.229,"period_display":"37.9 days","eccentricity":"0.3","star_id":261134,"pl_orbper":37.91,"pl_kepflag":false,"pl_radj":0.48,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":102,"multiple_planet_system":false,"pl_rade":5.38,"exo_id":"HD_11964_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.3},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243965","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261134"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243965,
+  "date": "2019-04-22T16:48:39",
+  "date_gmt": "2019-04-22T20:48:39",
+  "modified": "2025-07-07T20:39:34",
+  "modified_gmt": "2025-07-08T00:39:34",
+  "slug": "hd-11964-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-11964-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_11964",
+    "pl_letter": "c",
+    "display_name": "HD 11964 c",
+    "planet_radius": "0.48 x Jupiter (estimate)",
+    "derived_description": "HD 11964 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 25 Earths, it takes 37.9 days to complete one orbit of its star, and is 0.229 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 33.5369,
+    "planet_mass": "25 Earths",
+    "st_optmag": 6.41525,
+    "discovery_date": "2008",
+    "pl_orbsmax": 0.229,
+    "period_display": "37.9 days",
+    "eccentricity": "0.3",
+    "star_id": 261134,
+    "pl_orbper": 37.91,
+    "pl_kepflag": false,
+    "pl_radj": 0.48,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": 102,
+    "multiple_planet_system": false,
+    "pl_rade": 5.38,
+    "exo_id": "HD_11964_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.3
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243965",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261134"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

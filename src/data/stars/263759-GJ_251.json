@@ -1,1 +1,71 @@
-{"id":263759,"date":"2023-11-28T21:07:50","date_gmt":"2023-11-29T02:07:50","modified":"2025-04-23T05:57:04","modified_gmt":"2025-04-23T09:57:04","slug":"gj_251","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_251/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 251","custom_star_title":"","aliases":"","constellation":"Gemini","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243613],"exo_id":"GJ_251","st_optmag":9.89,"st_vj":9.89,"st_dist":5.58057,"st_j":9.89,"st_mass":0.36,"dec":33.2664632,"st_teff":3451,"st_rad":0.364,"ra":103.7002499,"system_radius":12237105.766,"pl_hostname":"GJ_251","stellar_type":"M","tic_id":"TIC 68581262","magnitude":9.89},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263759","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243613"}]}}
+{
+  "id": 263759,
+  "date": "2023-11-28T21:07:50",
+  "date_gmt": "2023-11-29T02:07:50",
+  "modified": "2025-04-23T05:57:04",
+  "modified_gmt": "2025-04-23T09:57:04",
+  "slug": "gj_251",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_251/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 251",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Gemini",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243613
+    ],
+    "exo_id": "GJ_251",
+    "st_optmag": 9.89,
+    "st_vj": 9.89,
+    "st_dist": 5.58057,
+    "st_j": 9.89,
+    "st_mass": 0.36,
+    "dec": 33.2664632,
+    "st_teff": 3451,
+    "st_rad": 0.364,
+    "ra": 103.7002499,
+    "system_radius": 12237105.766,
+    "pl_hostname": "GJ_251",
+    "stellar_type": "M",
+    "tic_id": "TIC 68581262",
+    "magnitude": 9.89
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263759",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243613"
+      }
+    ]
+  }
+}

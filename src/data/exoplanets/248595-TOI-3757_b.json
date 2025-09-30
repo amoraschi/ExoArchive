@@ -1,1 +1,79 @@
-{"id":248595,"date":"2022-09-02T08:33:05","date_gmt":"2022-09-02T12:33:05","modified":"2025-07-07T20:41:08","modified_gmt":"2025-07-08T00:41:08","slug":"toi-3757-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-3757-b/","featured_media":316728,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-3757","pl_letter":"b","display_name":"TOI-3757 b","planet_radius":"1.07057014 x Jupiter","derived_description":"TOI-3757 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.26838381 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.03845 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":181.139,"planet_mass":"0.26838381 Jupiters","st_optmag":14.812,"discovery_date":"2022","pl_orbsmax":0.03845,"period_display":"3.4 days","eccentricity":"0.14","star_id":261969,"pl_orbper":3.438753,"pl_kepflag":false,"pl_radj":1.07057014,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":130,"multiple_planet_system":false,"pl_rade":12,"exo_id":"TOI-3757_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.14},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248595","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261969"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/316728"}]}}
+{
+  "id": 248595,
+  "date": "2022-09-02T08:33:05",
+  "date_gmt": "2022-09-02T12:33:05",
+  "modified": "2025-07-07T20:41:08",
+  "modified_gmt": "2025-07-08T00:41:08",
+  "slug": "toi-3757-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-3757-b/",
+  "featured_media": 316728,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-3757",
+    "pl_letter": "b",
+    "display_name": "TOI-3757 b",
+    "planet_radius": "1.07057014 x Jupiter",
+    "derived_description": "TOI-3757 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.26838381 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.03845 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 181.139,
+    "planet_mass": "0.26838381 Jupiters",
+    "st_optmag": 14.812,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.03845,
+    "period_display": "3.4 days",
+    "eccentricity": "0.14",
+    "star_id": 261969,
+    "pl_orbper": 3.438753,
+    "pl_kepflag": false,
+    "pl_radj": 1.07057014,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 130,
+    "multiple_planet_system": false,
+    "pl_rade": 12,
+    "exo_id": "TOI-3757_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.14
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248595",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261969"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/316728"
+      }
+    ]
+  }
+}

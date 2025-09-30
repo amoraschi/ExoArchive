@@ -1,1 +1,86 @@
-{"id":261466,"date":"2023-11-28T20:38:42","date_gmt":"2023-11-29T01:38:42","modified":"2025-04-23T05:53:28","modified_gmt":"2025-04-23T09:53:28","slug":"toi-561","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-561/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-561","custom_star_title":"","aliases":"","constellation":"Sextans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248658,248659,248660,248661],"exo_id":"TOI-561","st_optmag":10.252,"st_vj":10.252,"st_dist":85.799,"st_j":10.252,"st_mass":0.806,"dec":6.216103,"st_teff":5342,"st_rad":0.843,"ra":148.1851516,"system_radius":49367297.1,"pl_hostname":"TOI-561","stellar_type":"G","tic_id":"TIC 377064495","magnitude":10.252},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261466","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248661"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248660"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248659"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248658"}]}}
+{
+  "id": 261466,
+  "date": "2023-11-28T20:38:42",
+  "date_gmt": "2023-11-29T01:38:42",
+  "modified": "2025-04-23T05:53:28",
+  "modified_gmt": "2025-04-23T09:53:28",
+  "slug": "toi-561",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-561/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-561",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sextans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248658,
+      248659,
+      248660,
+      248661
+    ],
+    "exo_id": "TOI-561",
+    "st_optmag": 10.252,
+    "st_vj": 10.252,
+    "st_dist": 85.799,
+    "st_j": 10.252,
+    "st_mass": 0.806,
+    "dec": 6.216103,
+    "st_teff": 5342,
+    "st_rad": 0.843,
+    "ra": 148.1851516,
+    "system_radius": 49367297.1,
+    "pl_hostname": "TOI-561",
+    "stellar_type": "G",
+    "tic_id": "TIC 377064495",
+    "magnitude": 10.252
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261466",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248661"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248660"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248659"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248658"
+      }
+    ]
+  }
+}

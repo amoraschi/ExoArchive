@@ -1,1 +1,79 @@
-{"id":244460,"date":"2019-04-22T16:48:42","date_gmt":"2019-04-22T20:48:42","modified":"2025-07-07T20:38:14","modified_gmt":"2025-07-08T00:38:14","slug":"hd-4732-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-4732-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_4732","pl_letter":"b","display_name":"HD 4732 b","planet_radius":"1.19 x Jupiter (estimate)","derived_description":"HD 4732 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.986 Jupiters, it takes 371.7 days to complete one orbit of its star, and is 1.129 AU from its star. Its discovery was announced in 2012.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":54.7841,"planet_mass":"1.986 Jupiters","st_optmag":5.9,"discovery_date":"2012","pl_orbsmax":1.129,"period_display":"371.7 days","eccentricity":"0.27","star_id":263864,"pl_orbper":371.74,"pl_kepflag":false,"pl_radj":1.19,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":62.62,"multiple_planet_system":false,"pl_rade":13.4,"exo_id":"HD_4732_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.266},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244460","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263864"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244460,
+  "date": "2019-04-22T16:48:42",
+  "date_gmt": "2019-04-22T20:48:42",
+  "modified": "2025-07-07T20:38:14",
+  "modified_gmt": "2025-07-08T00:38:14",
+  "slug": "hd-4732-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-4732-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_4732",
+    "pl_letter": "b",
+    "display_name": "HD 4732 b",
+    "planet_radius": "1.19 x Jupiter (estimate)",
+    "derived_description": "HD 4732 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.986 Jupiters, it takes 371.7 days to complete one orbit of its star, and is 1.129 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 54.7841,
+    "planet_mass": "1.986 Jupiters",
+    "st_optmag": 5.9,
+    "discovery_date": "2012",
+    "pl_orbsmax": 1.129,
+    "period_display": "371.7 days",
+    "eccentricity": "0.27",
+    "star_id": 263864,
+    "pl_orbper": 371.74,
+    "pl_kepflag": false,
+    "pl_radj": 1.19,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": 62.62,
+    "multiple_planet_system": false,
+    "pl_rade": 13.4,
+    "exo_id": "HD_4732_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.266
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244460",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263864"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

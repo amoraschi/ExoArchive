@@ -1,1 +1,69 @@
-{"id":391174,"date":"2024-04-30T20:01:16","date_gmt":"2024-05-01T00:01:16","modified":"2025-04-23T05:57:26","modified_gmt":"2025-04-23T09:57:26","slug":"20-crateris-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/20-crateris-a/","featured_media":429649,"categories":[],"acf":{"display_name":"20 Crateris A","custom_star_title":"","aliases":"HD 100623 A,HR 4458 A,GJ 432A","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"20_Crateris_A","st_optmag":5.956,"st_vj":5.956,"st_dist":9.559,"st_j":5.956,"st_mass":0.88,"dec":-32.8313397,"st_teff":5196,"st_rad":0.751,"ra":173.6228602,"system_radius":149597870,"pl_hostname":"20_Crateris_A","stellar_type":"K","tic_id":"TIC 57611256","magnitude":6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391174","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391174,
+  "date": "2024-04-30T20:01:16",
+  "date_gmt": "2024-05-01T00:01:16",
+  "modified": "2025-04-23T05:57:26",
+  "modified_gmt": "2025-04-23T09:57:26",
+  "slug": "20-crateris-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/20-crateris-a/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "20 Crateris A",
+    "custom_star_title": "",
+    "aliases": "HD 100623 A,HR 4458 A,GJ 432A",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "20_Crateris_A",
+    "st_optmag": 5.956,
+    "st_vj": 5.956,
+    "st_dist": 9.559,
+    "st_j": 5.956,
+    "st_mass": 0.88,
+    "dec": -32.8313397,
+    "st_teff": 5196,
+    "st_rad": 0.751,
+    "ra": 173.6228602,
+    "system_radius": 149597870,
+    "pl_hostname": "20_Crateris_A",
+    "stellar_type": "K",
+    "tic_id": "TIC 57611256",
+    "magnitude": 6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391174",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

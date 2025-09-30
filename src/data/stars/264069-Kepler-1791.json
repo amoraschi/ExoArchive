@@ -1,1 +1,71 @@
-{"id":264069,"date":"2023-11-28T21:11:47","date_gmt":"2023-11-29T02:11:47","modified":"2025-04-23T05:56:27","modified_gmt":"2025-04-23T09:56:27","slug":"kepler-1791","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1791/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1791","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246324],"exo_id":"Kepler-1791","st_optmag":13.529,"st_vj":13.529,"st_dist":602.218,"st_j":13.529,"st_mass":0.985,"dec":42.6482636,"st_teff":5887,"st_rad":1.177,"ra":284.4903166,"system_radius":11384397.907,"pl_hostname":"Kepler-1791","stellar_type":"G","tic_id":"TIC 164728985","magnitude":13.529},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264069","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246324"}]}}
+{
+  "id": 264069,
+  "date": "2023-11-28T21:11:47",
+  "date_gmt": "2023-11-29T02:11:47",
+  "modified": "2025-04-23T05:56:27",
+  "modified_gmt": "2025-04-23T09:56:27",
+  "slug": "kepler-1791",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1791/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1791",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246324
+    ],
+    "exo_id": "Kepler-1791",
+    "st_optmag": 13.529,
+    "st_vj": 13.529,
+    "st_dist": 602.218,
+    "st_j": 13.529,
+    "st_mass": 0.985,
+    "dec": 42.6482636,
+    "st_teff": 5887,
+    "st_rad": 1.177,
+    "ra": 284.4903166,
+    "system_radius": 11384397.907,
+    "pl_hostname": "Kepler-1791",
+    "stellar_type": "G",
+    "tic_id": "TIC 164728985",
+    "magnitude": 13.529
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264069",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246324"
+      }
+    ]
+  }
+}

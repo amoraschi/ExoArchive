@@ -1,1 +1,71 @@
-{"id":263084,"date":"2023-11-28T20:59:12","date_gmt":"2023-11-29T01:59:12","modified":"2025-04-23T05:56:43","modified_gmt":"2025-04-23T09:56:43","slug":"ome_ser","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ome_ser/","featured_media":0,"categories":[],"acf":{"display_name":"Omega Serpentis","custom_star_title":"","aliases":"","constellation":"Serpens","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248335],"exo_id":"ome_Ser","st_optmag":5.21644,"st_vj":5.21644,"st_dist":76.7556,"st_j":5.21644,"st_mass":1.01,"dec":2.196304,"st_teff":4724,"st_rad":10.99,"ra":237.5732422,"system_radius":125363015.06,"pl_hostname":"ome_Ser","stellar_type":"K","tic_id":"TIC 272677041","magnitude":5.21644},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263084","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248335"}]}}
+{
+  "id": 263084,
+  "date": "2023-11-28T20:59:12",
+  "date_gmt": "2023-11-29T01:59:12",
+  "modified": "2025-04-23T05:56:43",
+  "modified_gmt": "2025-04-23T09:56:43",
+  "slug": "ome_ser",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ome_ser/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Omega Serpentis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Serpens",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248335
+    ],
+    "exo_id": "ome_Ser",
+    "st_optmag": 5.21644,
+    "st_vj": 5.21644,
+    "st_dist": 76.7556,
+    "st_j": 5.21644,
+    "st_mass": 1.01,
+    "dec": 2.196304,
+    "st_teff": 4724,
+    "st_rad": 10.99,
+    "ra": 237.5732422,
+    "system_radius": 125363015.06,
+    "pl_hostname": "ome_Ser",
+    "stellar_type": "K",
+    "tic_id": "TIC 272677041",
+    "magnitude": 5.21644
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263084",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248335"
+      }
+    ]
+  }
+}

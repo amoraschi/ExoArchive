@@ -1,1 +1,71 @@
-{"id":260729,"date":"2023-11-28T20:29:22","date_gmt":"2023-11-29T01:29:22","modified":"2025-04-23T05:53:36","modified_gmt":"2025-04-23T09:53:36","slug":"kmt-2021-blg-2010l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-2010l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2021-BLG-2010L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248096],"exo_id":"KMT-2021-BLG-2010L","st_optmag":"","st_vj":"","st_dist":7090,"st_j":"","st_mass":0.37,"dec":-32.26975,"st_teff":"","st_rad":"","ra":268.0085,"system_radius":267780187.3,"pl_hostname":"KMT-2021-BLG-2010L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260729","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248096"}]}}
+{
+  "id": 260729,
+  "date": "2023-11-28T20:29:22",
+  "date_gmt": "2023-11-29T01:29:22",
+  "modified": "2025-04-23T05:53:36",
+  "modified_gmt": "2025-04-23T09:53:36",
+  "slug": "kmt-2021-blg-2010l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-2010l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2021-BLG-2010L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248096
+    ],
+    "exo_id": "KMT-2021-BLG-2010L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7090,
+    "st_j": "",
+    "st_mass": 0.37,
+    "dec": -32.26975,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.0085,
+    "system_radius": 267780187.3,
+    "pl_hostname": "KMT-2021-BLG-2010L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260729",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248096"
+      }
+    ]
+  }
+}

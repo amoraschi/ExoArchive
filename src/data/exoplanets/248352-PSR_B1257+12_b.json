@@ -1,1 +1,79 @@
-{"id":248352,"date":"2019-04-22T16:49:15","date_gmt":"2019-04-22T20:49:15","modified":"2025-06-25T12:04:45","modified_gmt":"2025-06-25T16:04:45","slug":"psr-b125712-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/psr-b125712-b/","featured_media":318839,"categories":[2014,2013],"acf":{"pl_hostname":"PSR_B1257+12","pl_letter":"b","display_name":"PSR B1257+12 b","planet_radius":"0.338 x Earth (estimate)","derived_description":"PSR B1257+12 b is a terrestrial exoplanet that orbits a Unknown-type star. Its mass is 0.02 Earths, it takes 25.3 days to complete one orbit of its star, and is 0.19 AU from its star. Its discovery was announced in 1994.","planet_type":"Terrestrial","pl_discmethod":"Pulsar Timing","pl_facility":"Arecibo Observatory","st_dist":600,"planet_mass":"0.02 Earths","st_optmag":"","discovery_date":"1994","pl_orbsmax":0.19,"period_display":"25.3 days","eccentricity":"0.0","star_id":261948,"pl_orbper":25.262,"pl_kepflag":false,"pl_radj":0.0302,"pl_disc":1994,"pl_publ_date":"1994","planet_orbit_period":0,"multiple_planet_system":false,"pl_rade":0.338,"exo_id":"PSR_B1257+12_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248352","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261948"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/318839"}]}}
+{
+  "id": 248352,
+  "date": "2019-04-22T16:49:15",
+  "date_gmt": "2019-04-22T20:49:15",
+  "modified": "2025-06-25T12:04:45",
+  "modified_gmt": "2025-06-25T16:04:45",
+  "slug": "psr-b125712-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/psr-b125712-b/",
+  "featured_media": 318839,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "PSR_B1257+12",
+    "pl_letter": "b",
+    "display_name": "PSR B1257+12 b",
+    "planet_radius": "0.338 x Earth (estimate)",
+    "derived_description": "PSR B1257+12 b is a terrestrial exoplanet that orbits a Unknown-type star. Its mass is 0.02 Earths, it takes 25.3 days to complete one orbit of its star, and is 0.19 AU from its star. Its discovery was announced in 1994.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Pulsar Timing",
+    "pl_facility": "Arecibo Observatory",
+    "st_dist": 600,
+    "planet_mass": "0.02 Earths",
+    "st_optmag": "",
+    "discovery_date": "1994",
+    "pl_orbsmax": 0.19,
+    "period_display": "25.3 days",
+    "eccentricity": "0.0",
+    "star_id": 261948,
+    "pl_orbper": 25.262,
+    "pl_kepflag": false,
+    "pl_radj": 0.0302,
+    "pl_disc": 1994,
+    "pl_publ_date": "1994",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 0.338,
+    "exo_id": "PSR_B1257+12_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248352",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261948"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/318839"
+      }
+    ]
+  }
+}

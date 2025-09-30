@@ -1,1 +1,79 @@
-{"id":244249,"date":"2019-04-22T16:48:44","date_gmt":"2019-04-22T20:48:44","modified":"2025-06-25T12:04:39","modified_gmt":"2025-06-25T16:04:39","slug":"hd-207832-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-207832-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_207832","pl_letter":"b","display_name":"HD 207832 b","planet_radius":"1.26 x Jupiter (estimate)","derived_description":"HD 207832 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.56 Jupiters, it takes 160.1 days to complete one orbit of its star, and is 0.586 AU from its star. Its discovery was announced in 2012.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":58.9291,"planet_mass":"0.56 Jupiters","st_optmag":8.78,"discovery_date":"2012","pl_orbsmax":0.586,"period_display":"160.1 days","eccentricity":"0.2","star_id":262374,"pl_orbper":160.07,"pl_kepflag":false,"pl_radj":1.26,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":1,"multiple_planet_system":false,"pl_rade":14.2,"exo_id":"HD_207832_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.197},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244249","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262374"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244249,
+  "date": "2019-04-22T16:48:44",
+  "date_gmt": "2019-04-22T20:48:44",
+  "modified": "2025-06-25T12:04:39",
+  "modified_gmt": "2025-06-25T16:04:39",
+  "slug": "hd-207832-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-207832-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_207832",
+    "pl_letter": "b",
+    "display_name": "HD 207832 b",
+    "planet_radius": "1.26 x Jupiter (estimate)",
+    "derived_description": "HD 207832 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.56 Jupiters, it takes 160.1 days to complete one orbit of its star, and is 0.586 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 58.9291,
+    "planet_mass": "0.56 Jupiters",
+    "st_optmag": 8.78,
+    "discovery_date": "2012",
+    "pl_orbsmax": 0.586,
+    "period_display": "160.1 days",
+    "eccentricity": "0.2",
+    "star_id": 262374,
+    "pl_orbper": 160.07,
+    "pl_kepflag": false,
+    "pl_radj": 1.26,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": 1,
+    "multiple_planet_system": false,
+    "pl_rade": 14.2,
+    "exo_id": "HD_207832_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.197
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244249",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262374"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

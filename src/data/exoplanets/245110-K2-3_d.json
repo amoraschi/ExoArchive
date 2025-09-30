@@ -1,1 +1,79 @@
-{"id":245110,"date":"2017-10-02T13:32:58","date_gmt":"2017-10-02T17:32:58","modified":"2025-07-07T20:37:49","modified_gmt":"2025-07-08T00:37:49","slug":"k2-3-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-3-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-3","pl_letter":"d","display_name":"K2-3 d","planet_radius":"1.458 x Earth","derived_description":"K2-3 d is a super Earth exoplanet that orbits a M-type star. Its mass is 2.2 Earths, it takes 44.6 days to complete one orbit of its star, and is 0.2014 AU from its star. Its discovery was announced in 2015.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":44.0727,"planet_mass":"2.2 Earths","st_optmag":12.168,"discovery_date":"2015","pl_orbsmax":0.2014,"period_display":"44.6 days","eccentricity":"0.09","star_id":260584,"pl_orbper":44.55603,"pl_kepflag":true,"pl_radj":0.13007427,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":0,"multiple_planet_system":false,"pl_rade":1.458,"exo_id":"K2-3_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.091},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245110","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260584"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245110,
+  "date": "2017-10-02T13:32:58",
+  "date_gmt": "2017-10-02T17:32:58",
+  "modified": "2025-07-07T20:37:49",
+  "modified_gmt": "2025-07-08T00:37:49",
+  "slug": "k2-3-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-3-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-3",
+    "pl_letter": "d",
+    "display_name": "K2-3 d",
+    "planet_radius": "1.458 x Earth",
+    "derived_description": "K2-3 d is a super Earth exoplanet that orbits a M-type star. Its mass is 2.2 Earths, it takes 44.6 days to complete one orbit of its star, and is 0.2014 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 44.0727,
+    "planet_mass": "2.2 Earths",
+    "st_optmag": 12.168,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.2014,
+    "period_display": "44.6 days",
+    "eccentricity": "0.09",
+    "star_id": 260584,
+    "pl_orbper": 44.55603,
+    "pl_kepflag": true,
+    "pl_radj": 0.13007427,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 1.458,
+    "exo_id": "K2-3_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.091
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245110",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260584"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

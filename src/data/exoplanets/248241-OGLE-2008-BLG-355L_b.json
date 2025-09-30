@@ -1,1 +1,79 @@
-{"id":248241,"date":"2017-12-02T12:26:18","date_gmt":"2017-12-02T17:26:18","modified":"2024-10-24T20:33:27","modified_gmt":"2024-10-25T00:33:27","slug":"ogle-2008-blg-355l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2008-blg-355l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2008-BLG-355L","pl_letter":"b","display_name":"OGLE-2008-BLG-355L b","planet_radius":"1.15 x Jupiter (estimate)","derived_description":"OGLE-2008-BLG-355L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 4.6 Jupiters, it takes 3.6 years to complete one orbit of its star, and is 1.7 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":6800,"planet_mass":"4.6 Jupiters","st_optmag":"","discovery_date":"2014","pl_orbsmax":1.7,"period_display":"3.6 years","eccentricity":"","star_id":263943,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.15,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.9,"exo_id":"OGLE-2008-BLG-355L_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248241","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263943"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248241,
+  "date": "2017-12-02T12:26:18",
+  "date_gmt": "2017-12-02T17:26:18",
+  "modified": "2024-10-24T20:33:27",
+  "modified_gmt": "2024-10-25T00:33:27",
+  "slug": "ogle-2008-blg-355l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2008-blg-355l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2008-BLG-355L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2008-BLG-355L b",
+    "planet_radius": "1.15 x Jupiter (estimate)",
+    "derived_description": "OGLE-2008-BLG-355L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 4.6 Jupiters, it takes 3.6 years to complete one orbit of its star, and is 1.7 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 6800,
+    "planet_mass": "4.6 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2014",
+    "pl_orbsmax": 1.7,
+    "period_display": "3.6 years",
+    "eccentricity": "",
+    "star_id": 263943,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.15,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.9,
+    "exo_id": "OGLE-2008-BLG-355L_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248241",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263943"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

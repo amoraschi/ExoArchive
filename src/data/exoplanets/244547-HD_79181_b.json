@@ -1,1 +1,79 @@
-{"id":244547,"date":"2022-01-13T17:04:31","date_gmt":"2022-01-13T22:04:31","modified":"2024-10-24T19:06:39","modified_gmt":"2024-10-24T23:06:39","slug":"hd-79181-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-79181-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_79181","pl_letter":"b","display_name":"HD 79181 b","planet_radius":"1.26 x Jupiter (estimate)","derived_description":"HD 79181 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.64 Jupiters, it takes 273.1 days to complete one orbit of its star, and is 0.9 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Okayama Astrophysical Observatory","st_dist":103.335,"planet_mass":"0.64 Jupiters","st_optmag":5.72,"discovery_date":"2021","pl_orbsmax":0.9,"period_display":"273.1 days","eccentricity":"0.26","star_id":264005,"pl_orbper":273.1,"pl_kepflag":false,"pl_radj":1.26,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":318,"multiple_planet_system":false,"pl_rade":14.1,"exo_id":"HD_79181_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.259},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244547","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264005"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244547,
+  "date": "2022-01-13T17:04:31",
+  "date_gmt": "2022-01-13T22:04:31",
+  "modified": "2024-10-24T19:06:39",
+  "modified_gmt": "2024-10-24T23:06:39",
+  "slug": "hd-79181-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-79181-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_79181",
+    "pl_letter": "b",
+    "display_name": "HD 79181 b",
+    "planet_radius": "1.26 x Jupiter (estimate)",
+    "derived_description": "HD 79181 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.64 Jupiters, it takes 273.1 days to complete one orbit of its star, and is 0.9 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Okayama Astrophysical Observatory",
+    "st_dist": 103.335,
+    "planet_mass": "0.64 Jupiters",
+    "st_optmag": 5.72,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.9,
+    "period_display": "273.1 days",
+    "eccentricity": "0.26",
+    "star_id": 264005,
+    "pl_orbper": 273.1,
+    "pl_kepflag": false,
+    "pl_radj": 1.26,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 318,
+    "multiple_planet_system": false,
+    "pl_rade": 14.1,
+    "exo_id": "HD_79181_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.259
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244547",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264005"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

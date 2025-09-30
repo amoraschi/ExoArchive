@@ -1,1 +1,79 @@
-{"id":243578,"date":"2022-06-09T18:05:12","date_gmt":"2022-06-09T22:05:12","modified":"2025-06-25T12:05:57","modified_gmt":"2025-06-25T16:05:57","slug":"gaia-2-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gaia-2-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"Gaia-2","pl_letter":"b","display_name":"Gaia-2 b","planet_radius":"1.322 x Jupiter","derived_description":"Gaia-2 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.817 Jupiters, it takes 3.7 days to complete one orbit of its star, and is 0.0467 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"European Space Agency (ESA) Gaia Satellite","st_dist":209.229,"planet_mass":"0.817 Jupiters","st_optmag":11.277,"discovery_date":"2022","pl_orbsmax":0.0467,"period_display":"3.7 days","eccentricity":"","star_id":262847,"pl_orbper":3.6915224,"pl_kepflag":false,"pl_radj":1.322,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":14.81827249,"exo_id":"Gaia-2_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243578","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262847"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243578,
+  "date": "2022-06-09T18:05:12",
+  "date_gmt": "2022-06-09T22:05:12",
+  "modified": "2025-06-25T12:05:57",
+  "modified_gmt": "2025-06-25T16:05:57",
+  "slug": "gaia-2-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gaia-2-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Gaia-2",
+    "pl_letter": "b",
+    "display_name": "Gaia-2 b",
+    "planet_radius": "1.322 x Jupiter",
+    "derived_description": "Gaia-2 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.817 Jupiters, it takes 3.7 days to complete one orbit of its star, and is 0.0467 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "European Space Agency (ESA) Gaia Satellite",
+    "st_dist": 209.229,
+    "planet_mass": "0.817 Jupiters",
+    "st_optmag": 11.277,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.0467,
+    "period_display": "3.7 days",
+    "eccentricity": "",
+    "star_id": 262847,
+    "pl_orbper": 3.6915224,
+    "pl_kepflag": false,
+    "pl_radj": 1.322,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 14.81827249,
+    "exo_id": "Gaia-2_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243578",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262847"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

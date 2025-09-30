@@ -1,1 +1,79 @@
-{"id":244919,"date":"2018-07-14T13:26:01","date_gmt":"2018-07-14T17:26:01","modified":"2025-03-28T07:29:30","modified_gmt":"2025-03-28T11:29:30","slug":"k2-245-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-245-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-245","pl_letter":"b","display_name":"K2-245 b","planet_radius":"0.38718887 x Jupiter","derived_description":"K2-245 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 17.4 Earths, it takes 11.9 days to complete one orbit of its star, and is 0.0959 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":456.064,"planet_mass":"17.4 Earths","st_optmag":12.755,"discovery_date":"2018","pl_orbsmax":0.0959,"period_display":"11.9 days","eccentricity":"","star_id":264200,"pl_orbper":11.89307,"pl_kepflag":true,"pl_radj":0.38718887,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":4.34,"exo_id":"K2-245_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244919","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264200"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244919,
+  "date": "2018-07-14T13:26:01",
+  "date_gmt": "2018-07-14T17:26:01",
+  "modified": "2025-03-28T07:29:30",
+  "modified_gmt": "2025-03-28T11:29:30",
+  "slug": "k2-245-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-245-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-245",
+    "pl_letter": "b",
+    "display_name": "K2-245 b",
+    "planet_radius": "0.38718887 x Jupiter",
+    "derived_description": "K2-245 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 17.4 Earths, it takes 11.9 days to complete one orbit of its star, and is 0.0959 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 456.064,
+    "planet_mass": "17.4 Earths",
+    "st_optmag": 12.755,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.0959,
+    "period_display": "11.9 days",
+    "eccentricity": "",
+    "star_id": 264200,
+    "pl_orbper": 11.89307,
+    "pl_kepflag": true,
+    "pl_radj": 0.38718887,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.34,
+    "exo_id": "K2-245_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244919",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264200"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

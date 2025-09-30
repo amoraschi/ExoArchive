@@ -1,1 +1,69 @@
-{"id":391269,"date":"2024-04-30T20:01:24","date_gmt":"2024-05-01T00:01:24","modified":"2025-04-23T05:57:34","modified_gmt":"2025-04-23T09:57:34","slug":"104-tauri","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/104-tauri/","featured_media":429648,"categories":[],"acf":{"display_name":"104 Tauri","custom_star_title":"","aliases":"HD 32923,HR 1656,GJ 188","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"104_Tauri","st_optmag":4.915,"st_vj":4.915,"st_dist":15.9172,"st_j":4.915,"st_mass":1.04,"dec":18.6450499,"st_teff":5691,"st_rad":1.594,"ra":76.8625232,"system_radius":149597870,"pl_hostname":"104_Tauri","stellar_type":"G","tic_id":"TIC 27136704","magnitude":4.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391269","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391269,
+  "date": "2024-04-30T20:01:24",
+  "date_gmt": "2024-05-01T00:01:24",
+  "modified": "2025-04-23T05:57:34",
+  "modified_gmt": "2025-04-23T09:57:34",
+  "slug": "104-tauri",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/104-tauri/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "104 Tauri",
+    "custom_star_title": "",
+    "aliases": "HD 32923,HR 1656,GJ 188",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "104_Tauri",
+    "st_optmag": 4.915,
+    "st_vj": 4.915,
+    "st_dist": 15.9172,
+    "st_j": 4.915,
+    "st_mass": 1.04,
+    "dec": 18.6450499,
+    "st_teff": 5691,
+    "st_rad": 1.594,
+    "ra": 76.8625232,
+    "system_radius": 149597870,
+    "pl_hostname": "104_Tauri",
+    "stellar_type": "G",
+    "tic_id": "TIC 27136704",
+    "magnitude": 4.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391269",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

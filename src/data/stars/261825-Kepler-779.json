@@ -1,1 +1,71 @@
-{"id":261825,"date":"2023-11-28T20:43:11","date_gmt":"2023-11-29T01:43:11","modified":"2025-04-23T05:56:22","modified_gmt":"2025-04-23T09:56:22","slug":"kepler-779","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-779/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-779","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247704],"exo_id":"Kepler-779","st_optmag":16.303,"st_vj":16.303,"st_dist":283.155,"st_j":16.303,"st_mass":0.46,"dec":44.3107855,"st_teff":3804,"st_rad":0.44,"ra":285.6285208,"system_radius":7973566.471,"pl_hostname":"Kepler-779","stellar_type":"M","tic_id":"TIC 352012126","magnitude":16.303},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261825","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247704"}]}}
+{
+  "id": 261825,
+  "date": "2023-11-28T20:43:11",
+  "date_gmt": "2023-11-29T01:43:11",
+  "modified": "2025-04-23T05:56:22",
+  "modified_gmt": "2025-04-23T09:56:22",
+  "slug": "kepler-779",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-779/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-779",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247704
+    ],
+    "exo_id": "Kepler-779",
+    "st_optmag": 16.303,
+    "st_vj": 16.303,
+    "st_dist": 283.155,
+    "st_j": 16.303,
+    "st_mass": 0.46,
+    "dec": 44.3107855,
+    "st_teff": 3804,
+    "st_rad": 0.44,
+    "ra": 285.6285208,
+    "system_radius": 7973566.471,
+    "pl_hostname": "Kepler-779",
+    "stellar_type": "M",
+    "tic_id": "TIC 352012126",
+    "magnitude": 16.303
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261825",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247704"
+      }
+    ]
+  }
+}

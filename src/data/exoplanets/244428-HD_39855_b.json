@@ -1,1 +1,79 @@
-{"id":244428,"date":"2019-05-16T16:04:45","date_gmt":"2019-05-16T20:04:45","modified":"2024-10-25T05:16:18","modified_gmt":"2024-10-25T09:16:18","slug":"hd-39855-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-39855-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_39855","pl_letter":"b","display_name":"HD 39855 b","planet_radius":"0.254 x Jupiter (estimate)","derived_description":"HD 39855 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.5 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.041 AU from its star. Its discovery was announced in 2019.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Las Campanas Observatory","st_dist":23.2599,"planet_mass":"8.5 Earths","st_optmag":7.51,"discovery_date":"2019","pl_orbsmax":0.041,"period_display":"3.2 days","eccentricity":"0.14","star_id":262319,"pl_orbper":3.2498,"pl_kepflag":false,"pl_radj":0.254,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":102.97,"multiple_planet_system":false,"pl_rade":2.85,"exo_id":"HD_39855_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.14},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244428","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262319"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244428,
+  "date": "2019-05-16T16:04:45",
+  "date_gmt": "2019-05-16T20:04:45",
+  "modified": "2024-10-25T05:16:18",
+  "modified_gmt": "2024-10-25T09:16:18",
+  "slug": "hd-39855-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-39855-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_39855",
+    "pl_letter": "b",
+    "display_name": "HD 39855 b",
+    "planet_radius": "0.254 x Jupiter (estimate)",
+    "derived_description": "HD 39855 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.5 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.041 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Las Campanas Observatory",
+    "st_dist": 23.2599,
+    "planet_mass": "8.5 Earths",
+    "st_optmag": 7.51,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.041,
+    "period_display": "3.2 days",
+    "eccentricity": "0.14",
+    "star_id": 262319,
+    "pl_orbper": 3.2498,
+    "pl_kepflag": false,
+    "pl_radj": 0.254,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 102.97,
+    "multiple_planet_system": false,
+    "pl_rade": 2.85,
+    "exo_id": "HD_39855_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.14
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244428",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262319"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

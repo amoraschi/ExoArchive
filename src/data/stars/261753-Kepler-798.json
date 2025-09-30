@@ -1,1 +1,71 @@
-{"id":261753,"date":"2023-11-28T20:42:18","date_gmt":"2023-11-29T01:42:18","modified":"2025-04-23T05:54:41","modified_gmt":"2025-04-23T09:54:41","slug":"kepler-798","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-798/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-798","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247727],"exo_id":"Kepler-798","st_optmag":14.221,"st_vj":14.221,"st_dist":972.274,"st_j":14.221,"st_mass":1.19,"dec":42.1422821,"st_teff":6224,"st_rad":1.29,"ra":292.4782785,"system_radius":17562789.938,"pl_hostname":"Kepler-798","stellar_type":"F","tic_id":"TIC 63214717","magnitude":14.221},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261753","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247727"}]}}
+{
+  "id": 261753,
+  "date": "2023-11-28T20:42:18",
+  "date_gmt": "2023-11-29T01:42:18",
+  "modified": "2025-04-23T05:54:41",
+  "modified_gmt": "2025-04-23T09:54:41",
+  "slug": "kepler-798",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-798/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-798",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247727
+    ],
+    "exo_id": "Kepler-798",
+    "st_optmag": 14.221,
+    "st_vj": 14.221,
+    "st_dist": 972.274,
+    "st_j": 14.221,
+    "st_mass": 1.19,
+    "dec": 42.1422821,
+    "st_teff": 6224,
+    "st_rad": 1.29,
+    "ra": 292.4782785,
+    "system_radius": 17562789.938,
+    "pl_hostname": "Kepler-798",
+    "stellar_type": "F",
+    "tic_id": "TIC 63214717",
+    "magnitude": 14.221
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261753",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247727"
+      }
+    ]
+  }
+}

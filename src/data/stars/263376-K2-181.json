@@ -1,1 +1,71 @@
-{"id":263376,"date":"2023-11-28T21:02:52","date_gmt":"2023-11-29T02:02:52","modified":"2025-09-17T22:33:24","modified_gmt":"2025-09-18T02:33:24","slug":"k2-181","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-181/","featured_media":0,"categories":[],"acf":{"display_name":"K2-181","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244824],"exo_id":"K2-181","st_optmag":12.669,"st_vj":12.669,"st_dist":360.911,"st_j":12.669,"st_mass":0.96,"dec":10.9101444,"st_teff":5528,"st_rad":1.06,"ra":127.5541103,"system_radius":10561609.622,"pl_hostname":"K2-181","stellar_type":"G","tic_id":"TIC 366528389","magnitude":12.669},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263376","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244824"}]}}
+{
+  "id": 263376,
+  "date": "2023-11-28T21:02:52",
+  "date_gmt": "2023-11-29T02:02:52",
+  "modified": "2025-09-17T22:33:24",
+  "modified_gmt": "2025-09-18T02:33:24",
+  "slug": "k2-181",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-181/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-181",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244824
+    ],
+    "exo_id": "K2-181",
+    "st_optmag": 12.669,
+    "st_vj": 12.669,
+    "st_dist": 360.911,
+    "st_j": 12.669,
+    "st_mass": 0.96,
+    "dec": 10.9101444,
+    "st_teff": 5528,
+    "st_rad": 1.06,
+    "ra": 127.5541103,
+    "system_radius": 10561609.622,
+    "pl_hostname": "K2-181",
+    "stellar_type": "G",
+    "tic_id": "TIC 366528389",
+    "magnitude": 12.669
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263376",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244824"
+      }
+    ]
+  }
+}

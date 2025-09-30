@@ -1,1 +1,79 @@
-{"id":248561,"date":"2023-03-07T19:15:46","date_gmt":"2023-03-08T00:15:46","modified":"2025-07-07T20:41:33","modified_gmt":"2025-07-08T00:41:33","slug":"toi-2525-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2525-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2525","pl_letter":"b","display_name":"TOI-2525 b","planet_radius":"0.774 x Jupiter","derived_description":"TOI-2525 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 26.69758619 Earths, it takes 23.3 days to complete one orbit of its star, and is 0.1511 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":395.398,"planet_mass":"26.69758619 Earths","st_optmag":14.216,"discovery_date":"2023","pl_orbsmax":0.1511,"period_display":"23.3 days","eccentricity":"0.17","star_id":260912,"pl_orbper":23.2856,"pl_kepflag":false,"pl_radj":0.774,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":345.9,"multiple_planet_system":false,"pl_rade":8.67575106,"exo_id":"TOI-2525_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.17},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248561","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260912"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248561,
+  "date": "2023-03-07T19:15:46",
+  "date_gmt": "2023-03-08T00:15:46",
+  "modified": "2025-07-07T20:41:33",
+  "modified_gmt": "2025-07-08T00:41:33",
+  "slug": "toi-2525-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2525-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2525",
+    "pl_letter": "b",
+    "display_name": "TOI-2525 b",
+    "planet_radius": "0.774 x Jupiter",
+    "derived_description": "TOI-2525 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 26.69758619 Earths, it takes 23.3 days to complete one orbit of its star, and is 0.1511 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 395.398,
+    "planet_mass": "26.69758619 Earths",
+    "st_optmag": 14.216,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.1511,
+    "period_display": "23.3 days",
+    "eccentricity": "0.17",
+    "star_id": 260912,
+    "pl_orbper": 23.2856,
+    "pl_kepflag": false,
+    "pl_radj": 0.774,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 345.9,
+    "multiple_planet_system": false,
+    "pl_rade": 8.67575106,
+    "exo_id": "TOI-2525_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.17
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248561",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260912"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

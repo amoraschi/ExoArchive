@@ -1,1 +1,79 @@
-{"id":244621,"date":"2019-04-22T16:48:41","date_gmt":"2019-04-22T20:48:41","modified":"2025-09-25T23:55:35","modified_gmt":"2025-09-26T03:55:35","slug":"hd-98649-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-98649-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_98649","pl_letter":"b","display_name":"HD 98649 b","planet_radius":"1.11 x Jupiter (estimate)","derived_description":"HD 98649 b is a gas giant exoplanet that orbits a G-type star. Its mass is 9.7 Jupiters, it takes 14.8 years to complete one orbit of its star, and is 5.97 AU from its star. Its discovery was announced in 2012.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":42.1727,"planet_mass":"9.7 Jupiters","st_optmag":8,"discovery_date":"2012","pl_orbsmax":5.97,"period_display":"14.8 years","eccentricity":"0.85","star_id":263768,"pl_orbper":5384,"pl_kepflag":false,"pl_radj":1.11,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":250.2,"multiple_planet_system":false,"pl_rade":12.5,"exo_id":"HD_98649_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.852},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244621","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263768"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244621,
+  "date": "2019-04-22T16:48:41",
+  "date_gmt": "2019-04-22T20:48:41",
+  "modified": "2025-09-25T23:55:35",
+  "modified_gmt": "2025-09-26T03:55:35",
+  "slug": "hd-98649-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-98649-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_98649",
+    "pl_letter": "b",
+    "display_name": "HD 98649 b",
+    "planet_radius": "1.11 x Jupiter (estimate)",
+    "derived_description": "HD 98649 b is a gas giant exoplanet that orbits a G-type star. Its mass is 9.7 Jupiters, it takes 14.8 years to complete one orbit of its star, and is 5.97 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 42.1727,
+    "planet_mass": "9.7 Jupiters",
+    "st_optmag": 8,
+    "discovery_date": "2012",
+    "pl_orbsmax": 5.97,
+    "period_display": "14.8 years",
+    "eccentricity": "0.85",
+    "star_id": 263768,
+    "pl_orbper": 5384,
+    "pl_kepflag": false,
+    "pl_radj": 1.11,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": 250.2,
+    "multiple_planet_system": false,
+    "pl_rade": 12.5,
+    "exo_id": "HD_98649_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.852
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244621",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263768"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

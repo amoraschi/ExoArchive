@@ -1,1 +1,79 @@
-{"id":243612,"date":"2019-10-12T13:26:53","date_gmt":"2019-10-12T17:26:53","modified":"2025-06-25T12:06:13","modified_gmt":"2025-06-25T16:06:13","slug":"gj-229-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-229-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_229","pl_letter":"b","display_name":"GJ 229 b","planet_radius":"0.354 x Jupiter (estimate)","derived_description":"GJ 229 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 14.93793513 Earths, it takes 1.6 years to complete one orbit of its star, and is 1.086 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":5.75624,"planet_mass":"14.93793513 Earths","st_optmag":8.15,"discovery_date":"2014","pl_orbsmax":1.086,"period_display":"1.6 years","eccentricity":"0.4","star_id":260494,"pl_orbper":579.47495,"pl_kepflag":false,"pl_radj":0.354,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":246.871,"multiple_planet_system":false,"pl_rade":3.97,"exo_id":"GJ_229_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.404},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243612","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260494"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243612,
+  "date": "2019-10-12T13:26:53",
+  "date_gmt": "2019-10-12T17:26:53",
+  "modified": "2025-06-25T12:06:13",
+  "modified_gmt": "2025-06-25T16:06:13",
+  "slug": "gj-229-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-229-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_229",
+    "pl_letter": "b",
+    "display_name": "GJ 229 b",
+    "planet_radius": "0.354 x Jupiter (estimate)",
+    "derived_description": "GJ 229 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 14.93793513 Earths, it takes 1.6 years to complete one orbit of its star, and is 1.086 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 5.75624,
+    "planet_mass": "14.93793513 Earths",
+    "st_optmag": 8.15,
+    "discovery_date": "2014",
+    "pl_orbsmax": 1.086,
+    "period_display": "1.6 years",
+    "eccentricity": "0.4",
+    "star_id": 260494,
+    "pl_orbper": 579.47495,
+    "pl_kepflag": false,
+    "pl_radj": 0.354,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": 246.871,
+    "multiple_planet_system": false,
+    "pl_rade": 3.97,
+    "exo_id": "GJ_229_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.404
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243612",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260494"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

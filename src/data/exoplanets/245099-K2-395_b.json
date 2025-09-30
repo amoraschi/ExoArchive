@@ -1,1 +1,79 @@
-{"id":245099,"date":"2022-03-21T13:34:41","date_gmt":"2022-03-21T17:34:41","modified":"2025-07-07T20:40:15","modified_gmt":"2025-07-08T00:40:15","slug":"k2-395-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-395-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-395","pl_letter":"b","display_name":"K2-395 b","planet_radius":"0.23168922 x Jupiter","derived_description":"K2-395 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.26 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.054807930125056 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":286.727,"planet_mass":"7.26 Earths","st_optmag":15.131,"discovery_date":"2022","pl_orbsmax":"","period_display":"4.8 days","eccentricity":"","star_id":262403,"pl_orbper":4.803352,"pl_kepflag":true,"pl_radj":0.23168922,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.597,"exo_id":"K2-395_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245099","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262403"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245099,
+  "date": "2022-03-21T13:34:41",
+  "date_gmt": "2022-03-21T17:34:41",
+  "modified": "2025-07-07T20:40:15",
+  "modified_gmt": "2025-07-08T00:40:15",
+  "slug": "k2-395-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-395-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-395",
+    "pl_letter": "b",
+    "display_name": "K2-395 b",
+    "planet_radius": "0.23168922 x Jupiter",
+    "derived_description": "K2-395 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.26 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.054807930125056 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 286.727,
+    "planet_mass": "7.26 Earths",
+    "st_optmag": 15.131,
+    "discovery_date": "2022",
+    "pl_orbsmax": "",
+    "period_display": "4.8 days",
+    "eccentricity": "",
+    "star_id": 262403,
+    "pl_orbper": 4.803352,
+    "pl_kepflag": true,
+    "pl_radj": 0.23168922,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.597,
+    "exo_id": "K2-395_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245099",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262403"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

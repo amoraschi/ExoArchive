@@ -1,1 +1,71 @@
-{"id":260814,"date":"2023-11-28T20:30:26","date_gmt":"2023-11-29T01:30:26","modified":"2025-04-23T05:53:46","modified_gmt":"2025-04-23T09:53:46","slug":"kmt-2017-blg-0673l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-0673l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2017-BLG-0673L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248037],"exo_id":"KMT-2017-BLG-0673L","st_optmag":"","st_vj":"","st_dist":5080,"st_j":"","st_mass":0.63,"dec":-33.8080278,"st_teff":"","st_rad":"","ra":264.7570417,"system_radius":350059015.8,"pl_hostname":"KMT-2017-BLG-0673L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260814","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248037"}]}}
+{
+  "id": 260814,
+  "date": "2023-11-28T20:30:26",
+  "date_gmt": "2023-11-29T01:30:26",
+  "modified": "2025-04-23T05:53:46",
+  "modified_gmt": "2025-04-23T09:53:46",
+  "slug": "kmt-2017-blg-0673l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-0673l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2017-BLG-0673L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248037
+    ],
+    "exo_id": "KMT-2017-BLG-0673L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5080,
+    "st_j": "",
+    "st_mass": 0.63,
+    "dec": -33.8080278,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 264.7570417,
+    "system_radius": 350059015.8,
+    "pl_hostname": "KMT-2017-BLG-0673L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260814",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248037"
+      }
+    ]
+  }
+}

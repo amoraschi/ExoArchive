@@ -1,1 +1,79 @@
-{"id":246840,"date":"2017-10-02T13:32:53","date_gmt":"2017-10-02T17:32:53","modified":"2025-07-07T15:23:59","modified_gmt":"2025-07-07T19:23:59","slug":"kepler-279-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-279-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-279","pl_letter":"b","display_name":"Kepler-279 b","planet_radius":"0.323 x Jupiter","derived_description":"Kepler-279 b is a gas giant exoplanet that orbits a F-type star. Its mass is 13.15467689 Jupiters, it takes 12.3 days to complete one orbit of its star, and is 0.112 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1037.4,"planet_mass":"13.15467689 Jupiters","st_optmag":13.647,"discovery_date":"2014","pl_orbsmax":0.112,"period_display":"12.3 days","eccentricity":"0.0","star_id":260835,"pl_orbper":12.309681,"pl_kepflag":true,"pl_radj":0.323,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.62,"exo_id":"Kepler-279_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246840","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260835"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246840,
+  "date": "2017-10-02T13:32:53",
+  "date_gmt": "2017-10-02T17:32:53",
+  "modified": "2025-07-07T15:23:59",
+  "modified_gmt": "2025-07-07T19:23:59",
+  "slug": "kepler-279-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-279-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-279",
+    "pl_letter": "b",
+    "display_name": "Kepler-279 b",
+    "planet_radius": "0.323 x Jupiter",
+    "derived_description": "Kepler-279 b is a gas giant exoplanet that orbits a F-type star. Its mass is 13.15467689 Jupiters, it takes 12.3 days to complete one orbit of its star, and is 0.112 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1037.4,
+    "planet_mass": "13.15467689 Jupiters",
+    "st_optmag": 13.647,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.112,
+    "period_display": "12.3 days",
+    "eccentricity": "0.0",
+    "star_id": 260835,
+    "pl_orbper": 12.309681,
+    "pl_kepflag": true,
+    "pl_radj": 0.323,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.62,
+    "exo_id": "Kepler-279_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246840",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260835"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

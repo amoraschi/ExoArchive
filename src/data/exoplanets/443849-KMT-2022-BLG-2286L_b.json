@@ -1,1 +1,79 @@
-{"id":443849,"date":"2025-01-15T04:01:43","date_gmt":"2025-01-15T09:01:43","modified":"2025-01-15T04:01:43","modified_gmt":"2025-01-15T09:01:43","slug":"kmt-2022-blg-2286l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kmt-2022-blg-2286l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KMT-2022-BLG-2286L","pl_letter":"b","display_name":"KMT-2022-BLG-2286L b","planet_radius":"1.08 x Jupiter (estimate)","derived_description":"KMT-2022-BLG-2286L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 19 Jupiters, it takes 6.4 years to complete one orbit of its star, and is 2.02 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":7320,"planet_mass":"19 Jupiters","st_optmag":"","discovery_date":"2024","pl_orbsmax":2.02,"period_display":"6.4 years","eccentricity":"","star_id":443840,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.08,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.1,"exo_id":"KMT-2022-BLG-2286L_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/443849","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/443840"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 443849,
+  "date": "2025-01-15T04:01:43",
+  "date_gmt": "2025-01-15T09:01:43",
+  "modified": "2025-01-15T04:01:43",
+  "modified_gmt": "2025-01-15T09:01:43",
+  "slug": "kmt-2022-blg-2286l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2022-blg-2286l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2022-BLG-2286L",
+    "pl_letter": "b",
+    "display_name": "KMT-2022-BLG-2286L b",
+    "planet_radius": "1.08 x Jupiter (estimate)",
+    "derived_description": "KMT-2022-BLG-2286L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 19 Jupiters, it takes 6.4 years to complete one orbit of its star, and is 2.02 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 7320,
+    "planet_mass": "19 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2024",
+    "pl_orbsmax": 2.02,
+    "period_display": "6.4 years",
+    "eccentricity": "",
+    "star_id": 443840,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.08,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.1,
+    "exo_id": "KMT-2022-BLG-2286L_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/443849",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/443840"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

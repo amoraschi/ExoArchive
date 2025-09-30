@@ -1,1 +1,76 @@
-{"id":261662,"date":"2023-11-28T20:41:10","date_gmt":"2023-11-29T01:41:10","modified":"2025-04-23T05:55:24","modified_gmt":"2025-04-23T09:55:24","slug":"kepler-387","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-387/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-387","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247120,247121],"exo_id":"Kepler-387","st_optmag":14.129,"st_vj":14.129,"st_dist":801.052,"st_j":14.129,"st_mass":0.85,"dec":45.6567655,"st_teff":5774,"st_rad":1.046,"ra":287.7982699,"system_radius":14660591.26,"pl_hostname":"Kepler-387","stellar_type":"G","tic_id":"TIC 158559417","magnitude":14.129},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261662","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247121"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247120"}]}}
+{
+  "id": 261662,
+  "date": "2023-11-28T20:41:10",
+  "date_gmt": "2023-11-29T01:41:10",
+  "modified": "2025-04-23T05:55:24",
+  "modified_gmt": "2025-04-23T09:55:24",
+  "slug": "kepler-387",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-387/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-387",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247120,
+      247121
+    ],
+    "exo_id": "Kepler-387",
+    "st_optmag": 14.129,
+    "st_vj": 14.129,
+    "st_dist": 801.052,
+    "st_j": 14.129,
+    "st_mass": 0.85,
+    "dec": 45.6567655,
+    "st_teff": 5774,
+    "st_rad": 1.046,
+    "ra": 287.7982699,
+    "system_radius": 14660591.26,
+    "pl_hostname": "Kepler-387",
+    "stellar_type": "G",
+    "tic_id": "TIC 158559417",
+    "magnitude": 14.129
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261662",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247121"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247120"
+      }
+    ]
+  }
+}

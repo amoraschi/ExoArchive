@@ -1,1 +1,71 @@
-{"id":264067,"date":"2023-11-28T21:11:46","date_gmt":"2023-11-29T02:11:46","modified":"2025-04-23T05:57:15","modified_gmt":"2025-04-23T09:57:15","slug":"tyc_0434-04538-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tyc_0434-04538-1/","featured_media":0,"categories":[],"acf":{"display_name":"TYC 0434-04538-1","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248718],"exo_id":"TYC_0434-04538-1","st_optmag":10.247,"st_vj":10.247,"st_dist":613.422,"st_j":10.247,"st_mass":1.04,"dec":2.0622774,"st_teff":4679,"st_rad":9.99,"ra":271.3396528,"system_radius":98734594.2,"pl_hostname":"TYC_0434-04538-1","stellar_type":"K","tic_id":"TIC 398118692","magnitude":10.247},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264067","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248718"}]}}
+{
+  "id": 264067,
+  "date": "2023-11-28T21:11:46",
+  "date_gmt": "2023-11-29T02:11:46",
+  "modified": "2025-04-23T05:57:15",
+  "modified_gmt": "2025-04-23T09:57:15",
+  "slug": "tyc_0434-04538-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tyc_0434-04538-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TYC 0434-04538-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248718
+    ],
+    "exo_id": "TYC_0434-04538-1",
+    "st_optmag": 10.247,
+    "st_vj": 10.247,
+    "st_dist": 613.422,
+    "st_j": 10.247,
+    "st_mass": 1.04,
+    "dec": 2.0622774,
+    "st_teff": 4679,
+    "st_rad": 9.99,
+    "ra": 271.3396528,
+    "system_radius": 98734594.2,
+    "pl_hostname": "TYC_0434-04538-1",
+    "stellar_type": "K",
+    "tic_id": "TIC 398118692",
+    "magnitude": 10.247
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264067",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248718"
+      }
+    ]
+  }
+}

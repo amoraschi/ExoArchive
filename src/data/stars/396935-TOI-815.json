@@ -1,1 +1,76 @@
-{"id":396935,"date":"2024-05-16T20:02:36","date_gmt":"2024-05-17T00:02:36","modified":"2025-04-23T05:55:08","modified_gmt":"2025-04-23T09:55:08","slug":"toi-815","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-815/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-815","custom_star_title":"","aliases":"","constellation":"Vela","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[396942,396943],"exo_id":"TOI-815","st_optmag":10.217,"st_vj":10.217,"st_dist":59.7117,"st_j":10.217,"st_mass":0.776,"dec":-43.8349248,"st_teff":4869,"st_rad":0.77,"ra":155.8719377,"system_radius":28872388.91,"pl_hostname":"TOI-815","stellar_type":"K","tic_id":"TIC 102840239","magnitude":10.217},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/396935","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/396943"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/396942"}]}}
+{
+  "id": 396935,
+  "date": "2024-05-16T20:02:36",
+  "date_gmt": "2024-05-17T00:02:36",
+  "modified": "2025-04-23T05:55:08",
+  "modified_gmt": "2025-04-23T09:55:08",
+  "slug": "toi-815",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-815/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-815",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vela",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      396942,
+      396943
+    ],
+    "exo_id": "TOI-815",
+    "st_optmag": 10.217,
+    "st_vj": 10.217,
+    "st_dist": 59.7117,
+    "st_j": 10.217,
+    "st_mass": 0.776,
+    "dec": -43.8349248,
+    "st_teff": 4869,
+    "st_rad": 0.77,
+    "ra": 155.8719377,
+    "system_radius": 28872388.91,
+    "pl_hostname": "TOI-815",
+    "stellar_type": "K",
+    "tic_id": "TIC 102840239",
+    "magnitude": 10.217
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/396935",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/396943"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/396942"
+      }
+    ]
+  }
+}

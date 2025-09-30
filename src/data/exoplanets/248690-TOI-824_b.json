@@ -1,1 +1,79 @@
-{"id":248690,"date":"2020-09-24T20:17:07","date_gmt":"2020-09-25T00:17:07","modified":"2025-07-07T20:34:50","modified_gmt":"2025-07-08T00:34:50","slug":"toi-824-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-824-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-824","pl_letter":"b","display_name":"TOI-824 b","planet_radius":"2.926 x Earth","derived_description":"TOI-824 b is a super Earth exoplanet that orbits a K-type star. Its mass is 18.467 Earths, it takes 1.4 days to complete one orbit of its star, and is 0.02177 AU from its star. Its discovery was announced in 2020.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":63.9262,"planet_mass":"18.467 Earths","st_optmag":11.314,"discovery_date":"2020","pl_orbsmax":0.02177,"period_display":"1.4 days","eccentricity":"","star_id":263584,"pl_orbper":1.392978,"pl_kepflag":false,"pl_radj":0.26104024,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.926,"exo_id":"TOI-824_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248690","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263584"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248690,
+  "date": "2020-09-24T20:17:07",
+  "date_gmt": "2020-09-25T00:17:07",
+  "modified": "2025-07-07T20:34:50",
+  "modified_gmt": "2025-07-08T00:34:50",
+  "slug": "toi-824-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-824-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-824",
+    "pl_letter": "b",
+    "display_name": "TOI-824 b",
+    "planet_radius": "2.926 x Earth",
+    "derived_description": "TOI-824 b is a super Earth exoplanet that orbits a K-type star. Its mass is 18.467 Earths, it takes 1.4 days to complete one orbit of its star, and is 0.02177 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 63.9262,
+    "planet_mass": "18.467 Earths",
+    "st_optmag": 11.314,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.02177,
+    "period_display": "1.4 days",
+    "eccentricity": "",
+    "star_id": 263584,
+    "pl_orbper": 1.392978,
+    "pl_kepflag": false,
+    "pl_radj": 0.26104024,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.926,
+    "exo_id": "TOI-824_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248690",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263584"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

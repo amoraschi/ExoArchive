@@ -1,1 +1,69 @@
-{"id":391188,"date":"2024-04-30T20:01:17","date_gmt":"2024-05-01T00:01:17","modified":"2025-04-23T05:57:27","modified_gmt":"2025-04-23T09:57:27","slug":"toliman","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toliman/","featured_media":429649,"categories":[],"acf":{"display_name":"Toliman","custom_star_title":"","aliases":"Alpha Centauri B,HD 128621,HR 5460,GJ 559B","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Toliman","st_optmag":1.35,"st_vj":1.35,"st_dist":1.3319,"st_j":1.35,"st_mass":0.94,"dec":-60.8375276,"st_teff":5244,"st_rad":0.859,"ra":219.8960963,"system_radius":149597870,"pl_hostname":"Toliman","stellar_type":"K","tic_id":"TIC 471011144","magnitude":1.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391188","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391188,
+  "date": "2024-04-30T20:01:17",
+  "date_gmt": "2024-05-01T00:01:17",
+  "modified": "2025-04-23T05:57:27",
+  "modified_gmt": "2025-04-23T09:57:27",
+  "slug": "toliman",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toliman/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Toliman",
+    "custom_star_title": "",
+    "aliases": "Alpha Centauri B,HD 128621,HR 5460,GJ 559B",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Toliman",
+    "st_optmag": 1.35,
+    "st_vj": 1.35,
+    "st_dist": 1.3319,
+    "st_j": 1.35,
+    "st_mass": 0.94,
+    "dec": -60.8375276,
+    "st_teff": 5244,
+    "st_rad": 0.859,
+    "ra": 219.8960963,
+    "system_radius": 149597870,
+    "pl_hostname": "Toliman",
+    "stellar_type": "K",
+    "tic_id": "TIC 471011144",
+    "magnitude": 1.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391188",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

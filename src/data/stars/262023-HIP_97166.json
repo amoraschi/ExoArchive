@@ -1,1 +1,76 @@
-{"id":262023,"date":"2023-11-28T20:45:43","date_gmt":"2023-11-29T01:45:43","modified":"2025-04-23T05:55:32","modified_gmt":"2025-04-23T09:55:32","slug":"hip_97166","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_97166/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 97166","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244698,244699],"exo_id":"HIP_97166","st_optmag":9.92,"st_vj":9.92,"st_dist":65.9501,"st_j":9.92,"st_mass":0.9342,"dec":74.0628577,"st_teff":5216,"st_rad":0.8418,"ra":296.2446203,"system_radius":18550135.88,"pl_hostname":"HIP_97166","stellar_type":"K","tic_id":"TIC 237222864","magnitude":9.92},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262023","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244699"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244698"}]}}
+{
+  "id": 262023,
+  "date": "2023-11-28T20:45:43",
+  "date_gmt": "2023-11-29T01:45:43",
+  "modified": "2025-04-23T05:55:32",
+  "modified_gmt": "2025-04-23T09:55:32",
+  "slug": "hip_97166",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_97166/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 97166",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244698,
+      244699
+    ],
+    "exo_id": "HIP_97166",
+    "st_optmag": 9.92,
+    "st_vj": 9.92,
+    "st_dist": 65.9501,
+    "st_j": 9.92,
+    "st_mass": 0.9342,
+    "dec": 74.0628577,
+    "st_teff": 5216,
+    "st_rad": 0.8418,
+    "ra": 296.2446203,
+    "system_radius": 18550135.88,
+    "pl_hostname": "HIP_97166",
+    "stellar_type": "K",
+    "tic_id": "TIC 237222864",
+    "magnitude": 9.92
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262023",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244699"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244698"
+      }
+    ]
+  }
+}

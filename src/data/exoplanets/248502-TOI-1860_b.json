@@ -1,1 +1,79 @@
-{"id":248502,"date":"2022-02-17T13:16:29","date_gmt":"2022-02-17T18:16:29","modified":"2025-03-28T07:25:30","modified_gmt":"2025-03-28T11:25:30","slug":"toi-1860-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1860-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1860","pl_letter":"b","display_name":"TOI-1860 b","planet_radius":"1.31 x Earth","derived_description":"TOI-1860 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.27 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.0204 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":45.864,"planet_mass":"2.27 Earths","st_optmag":8.4,"discovery_date":"2022","pl_orbsmax":0.0204,"period_display":"1.1 days","eccentricity":"","star_id":261139,"pl_orbper":1.0662107,"pl_kepflag":false,"pl_radj":0.11687057,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.31,"exo_id":"TOI-1860_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248502","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261139"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248502,
+  "date": "2022-02-17T13:16:29",
+  "date_gmt": "2022-02-17T18:16:29",
+  "modified": "2025-03-28T07:25:30",
+  "modified_gmt": "2025-03-28T11:25:30",
+  "slug": "toi-1860-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1860-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1860",
+    "pl_letter": "b",
+    "display_name": "TOI-1860 b",
+    "planet_radius": "1.31 x Earth",
+    "derived_description": "TOI-1860 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.27 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.0204 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 45.864,
+    "planet_mass": "2.27 Earths",
+    "st_optmag": 8.4,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.0204,
+    "period_display": "1.1 days",
+    "eccentricity": "",
+    "star_id": 261139,
+    "pl_orbper": 1.0662107,
+    "pl_kepflag": false,
+    "pl_radj": 0.11687057,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.31,
+    "exo_id": "TOI-1860_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248502",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261139"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

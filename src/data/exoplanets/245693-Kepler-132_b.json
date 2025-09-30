@@ -1,1 +1,79 @@
-{"id":245693,"date":"2016-03-16T19:26:22","date_gmt":"2016-03-16T23:26:22","modified":"2025-07-07T17:24:01","modified_gmt":"2025-07-07T21:24:01","slug":"kepler-132-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-132-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-132","pl_letter":"b","display_name":"Kepler-132 b","planet_radius":"1.21 x Earth","derived_description":"Kepler-132 b is a super Earth exoplanet that orbits a F-type star. Its mass is 1.92 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.067 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":349.549,"planet_mass":"1.92 Earths","st_optmag":11.922,"discovery_date":"2014","pl_orbsmax":0.067,"period_display":"6.2 days","eccentricity":"0.0","star_id":260932,"pl_orbper":6.178196,"pl_kepflag":true,"pl_radj":0.108,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.21,"exo_id":"Kepler-132_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245693","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260932"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245693,
+  "date": "2016-03-16T19:26:22",
+  "date_gmt": "2016-03-16T23:26:22",
+  "modified": "2025-07-07T17:24:01",
+  "modified_gmt": "2025-07-07T21:24:01",
+  "slug": "kepler-132-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-132-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-132",
+    "pl_letter": "b",
+    "display_name": "Kepler-132 b",
+    "planet_radius": "1.21 x Earth",
+    "derived_description": "Kepler-132 b is a super Earth exoplanet that orbits a F-type star. Its mass is 1.92 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.067 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 349.549,
+    "planet_mass": "1.92 Earths",
+    "st_optmag": 11.922,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.067,
+    "period_display": "6.2 days",
+    "eccentricity": "0.0",
+    "star_id": 260932,
+    "pl_orbper": 6.178196,
+    "pl_kepflag": true,
+    "pl_radj": 0.108,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.21,
+    "exo_id": "Kepler-132_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245693",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260932"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

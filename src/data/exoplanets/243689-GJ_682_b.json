@@ -1,1 +1,79 @@
-{"id":243689,"date":"2019-10-12T13:26:53","date_gmt":"2019-10-12T17:26:53","modified":"2025-07-07T20:34:00","modified_gmt":"2025-07-08T00:34:00","slug":"gj-682-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-682-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_682","pl_letter":"b","display_name":"GJ 682 b","planet_radius":"1.93 x Earth (estimate)","derived_description":"GJ 682 b is a super Earth exoplanet that orbits a M-type star. Its mass is 4.4 Earths, it takes 17.5 days to complete one orbit of its star, and is 0.08 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":5.00671,"planet_mass":"4.4 Earths","st_optmag":10.94,"discovery_date":"2014","pl_orbsmax":0.08,"period_display":"17.5 days","eccentricity":"0.08","star_id":262006,"pl_orbper":17.478,"pl_kepflag":false,"pl_radj":0.173,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":86,"multiple_planet_system":false,"pl_rade":1.93,"exo_id":"GJ_682_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.08},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243689","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262006"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 243689,
+  "date": "2019-10-12T13:26:53",
+  "date_gmt": "2019-10-12T17:26:53",
+  "modified": "2025-07-07T20:34:00",
+  "modified_gmt": "2025-07-08T00:34:00",
+  "slug": "gj-682-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-682-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_682",
+    "pl_letter": "b",
+    "display_name": "GJ 682 b",
+    "planet_radius": "1.93 x Earth (estimate)",
+    "derived_description": "GJ 682 b is a super Earth exoplanet that orbits a M-type star. Its mass is 4.4 Earths, it takes 17.5 days to complete one orbit of its star, and is 0.08 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 5.00671,
+    "planet_mass": "4.4 Earths",
+    "st_optmag": 10.94,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.08,
+    "period_display": "17.5 days",
+    "eccentricity": "0.08",
+    "star_id": 262006,
+    "pl_orbper": 17.478,
+    "pl_kepflag": false,
+    "pl_radj": 0.173,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": 86,
+    "multiple_planet_system": false,
+    "pl_rade": 1.93,
+    "exo_id": "GJ_682_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.08
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243689",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262006"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

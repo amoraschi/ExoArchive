@@ -1,1 +1,71 @@
-{"id":261412,"date":"2023-11-28T20:38:01","date_gmt":"2023-11-29T01:38:01","modified":"2025-04-23T05:56:02","modified_gmt":"2025-04-23T09:56:02","slug":"kepler-1298","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1298/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1298","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245644],"exo_id":"Kepler-1298","st_optmag":11.388,"st_vj":11.388,"st_dist":544.163,"st_j":11.388,"st_mass":1.45,"dec":49.1061907,"st_teff":6339,"st_rad":2,"ra":284.4227535,"system_radius":12177266.618,"pl_hostname":"Kepler-1298","stellar_type":"F","tic_id":"TIC 267667467","magnitude":11.388},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261412","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245644"}]}}
+{
+  "id": 261412,
+  "date": "2023-11-28T20:38:01",
+  "date_gmt": "2023-11-29T01:38:01",
+  "modified": "2025-04-23T05:56:02",
+  "modified_gmt": "2025-04-23T09:56:02",
+  "slug": "kepler-1298",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1298/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1298",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245644
+    ],
+    "exo_id": "Kepler-1298",
+    "st_optmag": 11.388,
+    "st_vj": 11.388,
+    "st_dist": 544.163,
+    "st_j": 11.388,
+    "st_mass": 1.45,
+    "dec": 49.1061907,
+    "st_teff": 6339,
+    "st_rad": 2,
+    "ra": 284.4227535,
+    "system_radius": 12177266.618,
+    "pl_hostname": "Kepler-1298",
+    "stellar_type": "F",
+    "tic_id": "TIC 267667467",
+    "magnitude": 11.388
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261412",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245644"
+      }
+    ]
+  }
+}

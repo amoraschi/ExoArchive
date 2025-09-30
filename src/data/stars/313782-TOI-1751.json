@@ -1,1 +1,71 @@
-{"id":313782,"date":"2024-03-02T14:10:44","date_gmt":"2024-03-02T19:10:44","modified":"2025-06-06T07:20:02","modified_gmt":"2025-06-06T11:20:02","slug":"toi-1751","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1751/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1751","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[313835],"exo_id":"TOI-1751","st_optmag":9.327,"st_vj":9.327,"st_dist":113.335,"st_j":9.327,"st_mass":0.9382,"dec":63.5335297,"st_teff":5970,"st_rad":1.3137,"ra":243.4888534,"system_radius":32163542.05,"pl_hostname":"TOI-1751","stellar_type":"F","tic_id":"TIC 287080092","magnitude":9.327},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/313782","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313835"}]}}
+{
+  "id": 313782,
+  "date": "2024-03-02T14:10:44",
+  "date_gmt": "2024-03-02T19:10:44",
+  "modified": "2025-06-06T07:20:02",
+  "modified_gmt": "2025-06-06T11:20:02",
+  "slug": "toi-1751",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1751/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1751",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      313835
+    ],
+    "exo_id": "TOI-1751",
+    "st_optmag": 9.327,
+    "st_vj": 9.327,
+    "st_dist": 113.335,
+    "st_j": 9.327,
+    "st_mass": 0.9382,
+    "dec": 63.5335297,
+    "st_teff": 5970,
+    "st_rad": 1.3137,
+    "ra": 243.4888534,
+    "system_radius": 32163542.05,
+    "pl_hostname": "TOI-1751",
+    "stellar_type": "F",
+    "tic_id": "TIC 287080092",
+    "magnitude": 9.327
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313782",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313835"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245026,"date":"2021-08-26T13:34:05","date_gmt":"2021-08-26T17:34:05","modified":"2025-03-28T07:30:57","modified_gmt":"2025-03-28T11:30:57","slug":"k2-341-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-341-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-341","pl_letter":"b","display_name":"K2-341 b","planet_radius":"0.28637751 x Jupiter","derived_description":"K2-341 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.4 Earths, it takes 36.6 days to complete one orbit of its star, and is 0.21410261014793 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":421.408,"planet_mass":"10.4 Earths","st_optmag":12.725,"discovery_date":"2021","pl_orbsmax":"","period_display":"36.6 days","eccentricity":"","star_id":264244,"pl_orbper":36.552551,"pl_kepflag":true,"pl_radj":0.28637751,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.21,"exo_id":"K2-341_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245026","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264244"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245026,
+  "date": "2021-08-26T13:34:05",
+  "date_gmt": "2021-08-26T17:34:05",
+  "modified": "2025-03-28T07:30:57",
+  "modified_gmt": "2025-03-28T11:30:57",
+  "slug": "k2-341-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-341-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-341",
+    "pl_letter": "b",
+    "display_name": "K2-341 b",
+    "planet_radius": "0.28637751 x Jupiter",
+    "derived_description": "K2-341 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.4 Earths, it takes 36.6 days to complete one orbit of its star, and is 0.21410261014793 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 421.408,
+    "planet_mass": "10.4 Earths",
+    "st_optmag": 12.725,
+    "discovery_date": "2021",
+    "pl_orbsmax": "",
+    "period_display": "36.6 days",
+    "eccentricity": "",
+    "star_id": 264244,
+    "pl_orbper": 36.552551,
+    "pl_kepflag": true,
+    "pl_radj": 0.28637751,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.21,
+    "exo_id": "K2-341_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245026",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264244"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

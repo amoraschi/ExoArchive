@@ -1,1 +1,79 @@
-{"id":246306,"date":"2016-03-16T19:26:16","date_gmt":"2016-03-16T23:26:16","modified":"2025-07-07T20:34:10","modified_gmt":"2025-07-08T00:34:10","slug":"kepler-177-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-177-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-177","pl_letter":"b","display_name":"Kepler-177 b","planet_radius":"0.31224909 x Jupiter","derived_description":"Kepler-177 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.84 Earths, it takes 36.9 days to complete one orbit of its star, and is 0.21101 AU from its star. Its discovery was announced in 2013.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1435.44,"planet_mass":"5.84 Earths","st_optmag":15.171,"discovery_date":"2013","pl_orbsmax":0.21101,"period_display":"36.9 days","eccentricity":"0.0","star_id":263564,"pl_orbper":36.8601,"pl_kepflag":true,"pl_radj":0.31224909,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.5,"exo_id":"Kepler-177_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246306","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263564"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246306,
+  "date": "2016-03-16T19:26:16",
+  "date_gmt": "2016-03-16T23:26:16",
+  "modified": "2025-07-07T20:34:10",
+  "modified_gmt": "2025-07-08T00:34:10",
+  "slug": "kepler-177-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-177-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-177",
+    "pl_letter": "b",
+    "display_name": "Kepler-177 b",
+    "planet_radius": "0.31224909 x Jupiter",
+    "derived_description": "Kepler-177 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.84 Earths, it takes 36.9 days to complete one orbit of its star, and is 0.21101 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1435.44,
+    "planet_mass": "5.84 Earths",
+    "st_optmag": 15.171,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.21101,
+    "period_display": "36.9 days",
+    "eccentricity": "0.0",
+    "star_id": 263564,
+    "pl_orbper": 36.8601,
+    "pl_kepflag": true,
+    "pl_radj": 0.31224909,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.5,
+    "exo_id": "Kepler-177_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263564"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

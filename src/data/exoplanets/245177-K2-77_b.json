@@ -1,1 +1,79 @@
-{"id":245177,"date":"2016-07-18T13:25:29","date_gmt":"2016-07-18T17:25:29","modified":"2025-03-28T07:21:37","modified_gmt":"2025-03-28T11:21:37","slug":"k2-77-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-77-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-77","pl_letter":"b","display_name":"K2-77 b","planet_radius":"0.223 x Jupiter","derived_description":"K2-77 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 1.9 Jupiters, it takes 8.2 days to complete one orbit of its star, and is 0.0753 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":141.731,"planet_mass":"1.9 Jupiters","st_optmag":12.224,"discovery_date":"2016","pl_orbsmax":0.0753,"period_display":"8.2 days","eccentricity":"0.29","star_id":260688,"pl_orbper":8.2000844,"pl_kepflag":true,"pl_radj":0.223,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":-40,"multiple_planet_system":false,"pl_rade":2.4996027,"exo_id":"K2-77_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.29},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245177","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260688"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245177,
+  "date": "2016-07-18T13:25:29",
+  "date_gmt": "2016-07-18T17:25:29",
+  "modified": "2025-03-28T07:21:37",
+  "modified_gmt": "2025-03-28T11:21:37",
+  "slug": "k2-77-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-77-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-77",
+    "pl_letter": "b",
+    "display_name": "K2-77 b",
+    "planet_radius": "0.223 x Jupiter",
+    "derived_description": "K2-77 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 1.9 Jupiters, it takes 8.2 days to complete one orbit of its star, and is 0.0753 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 141.731,
+    "planet_mass": "1.9 Jupiters",
+    "st_optmag": 12.224,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0753,
+    "period_display": "8.2 days",
+    "eccentricity": "0.29",
+    "star_id": 260688,
+    "pl_orbper": 8.2000844,
+    "pl_kepflag": true,
+    "pl_radj": 0.223,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": -40,
+    "multiple_planet_system": false,
+    "pl_rade": 2.4996027,
+    "exo_id": "K2-77_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.29
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245177",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260688"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

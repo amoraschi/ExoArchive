@@ -1,1 +1,76 @@
-{"id":260928,"date":"2023-11-28T20:31:53","date_gmt":"2023-11-29T01:31:53","modified":"2025-04-23T05:53:47","modified_gmt":"2025-04-23T09:53:47","slug":"kepler-384","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-384/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-384","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247113,247114],"exo_id":"Kepler-384","st_optmag":13.734,"st_vj":13.734,"st_dist":895.678,"st_j":13.734,"st_mass":0.882,"dec":44.7828571,"st_teff":5577,"st_rad":0.882,"ra":286.0261113,"system_radius":35305097.32,"pl_hostname":"Kepler-384","stellar_type":"G","tic_id":"TIC 158114249","magnitude":13.734},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260928","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247114"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247113"}]}}
+{
+  "id": 260928,
+  "date": "2023-11-28T20:31:53",
+  "date_gmt": "2023-11-29T01:31:53",
+  "modified": "2025-04-23T05:53:47",
+  "modified_gmt": "2025-04-23T09:53:47",
+  "slug": "kepler-384",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-384/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-384",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247113,
+      247114
+    ],
+    "exo_id": "Kepler-384",
+    "st_optmag": 13.734,
+    "st_vj": 13.734,
+    "st_dist": 895.678,
+    "st_j": 13.734,
+    "st_mass": 0.882,
+    "dec": 44.7828571,
+    "st_teff": 5577,
+    "st_rad": 0.882,
+    "ra": 286.0261113,
+    "system_radius": 35305097.32,
+    "pl_hostname": "Kepler-384",
+    "stellar_type": "G",
+    "tic_id": "TIC 158114249",
+    "magnitude": 13.734
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260928",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247114"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247113"
+      }
+    ]
+  }
+}

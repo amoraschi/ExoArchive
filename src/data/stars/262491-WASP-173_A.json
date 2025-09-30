@@ -1,1 +1,71 @@
-{"id":262491,"date":"2023-11-28T20:51:40","date_gmt":"2023-11-29T01:51:40","modified":"2025-06-06T07:20:01","modified_gmt":"2025-06-06T11:20:01","slug":"wasp-173_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-173_a/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-173 A","custom_star_title":"","aliases":"","constellation":"Sculptor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248810],"exo_id":"WASP-173_A","st_optmag":11.15,"st_vj":11.15,"st_dist":232.98,"st_j":11.15,"st_mass":1.05,"dec":-34.6113042,"st_teff":5800,"st_rad":1.11,"ra":354.1686959,"system_radius":3710027.176,"pl_hostname":"WASP-173_A","stellar_type":"G","tic_id":"TIC 77031414","magnitude":11.15},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262491","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248810"}]}}
+{
+  "id": 262491,
+  "date": "2023-11-28T20:51:40",
+  "date_gmt": "2023-11-29T01:51:40",
+  "modified": "2025-06-06T07:20:01",
+  "modified_gmt": "2025-06-06T11:20:01",
+  "slug": "wasp-173_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-173_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-173 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sculptor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248810
+    ],
+    "exo_id": "WASP-173_A",
+    "st_optmag": 11.15,
+    "st_vj": 11.15,
+    "st_dist": 232.98,
+    "st_j": 11.15,
+    "st_mass": 1.05,
+    "dec": -34.6113042,
+    "st_teff": 5800,
+    "st_rad": 1.11,
+    "ra": 354.1686959,
+    "system_radius": 3710027.176,
+    "pl_hostname": "WASP-173_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 77031414",
+    "magnitude": 11.15
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262491",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248810"
+      }
+    ]
+  }
+}

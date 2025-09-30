@@ -1,1 +1,71 @@
-{"id":260901,"date":"2023-11-28T20:31:33","date_gmt":"2023-11-29T01:31:33","modified":"2025-04-23T05:56:08","modified_gmt":"2025-04-23T09:56:08","slug":"wasp-97","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-97/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-97","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248920],"exo_id":"WASP-97","st_optmag":10.57,"st_vj":10.57,"st_dist":151.068,"st_j":10.57,"st_mass":1.18,"dec":-55.7720006,"st_teff":5640,"st_rad":1.08,"ra":24.6051389,"system_radius":4941217.6461,"pl_hostname":"WASP-97","stellar_type":"G","tic_id":"TIC 230982885","magnitude":10.57},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260901","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248920"}]}}
+{
+  "id": 260901,
+  "date": "2023-11-28T20:31:33",
+  "date_gmt": "2023-11-29T01:31:33",
+  "modified": "2025-04-23T05:56:08",
+  "modified_gmt": "2025-04-23T09:56:08",
+  "slug": "wasp-97",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-97/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-97",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248920
+    ],
+    "exo_id": "WASP-97",
+    "st_optmag": 10.57,
+    "st_vj": 10.57,
+    "st_dist": 151.068,
+    "st_j": 10.57,
+    "st_mass": 1.18,
+    "dec": -55.7720006,
+    "st_teff": 5640,
+    "st_rad": 1.08,
+    "ra": 24.6051389,
+    "system_radius": 4941217.6461,
+    "pl_hostname": "WASP-97",
+    "stellar_type": "G",
+    "tic_id": "TIC 230982885",
+    "magnitude": 10.57
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260901",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248920"
+      }
+    ]
+  }
+}

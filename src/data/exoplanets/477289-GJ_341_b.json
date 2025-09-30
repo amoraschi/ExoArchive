@@ -1,1 +1,79 @@
-{"id":477289,"date":"2025-02-28T05:28:00","date_gmt":"2025-02-28T10:28:00","modified":"2025-07-07T20:39:23","modified_gmt":"2025-07-08T00:39:23","slug":"gj-341-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-341-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_341","pl_letter":"b","display_name":"GJ 341 b","planet_radius":"0.88 x Earth","derived_description":"GJ 341 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 4 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.059111874261112 AU from its star. Its discovery was announced in 2025.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":10.454,"planet_mass":"4 Earths","st_optmag":9.49,"discovery_date":"2025","pl_orbsmax":"","period_display":"7.6 days","eccentricity":"0.0","star_id":477271,"pl_orbper":7.57686,"pl_kepflag":false,"pl_radj":0.07850848,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.88,"exo_id":"GJ_341_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/477289","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/477271"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 477289,
+  "date": "2025-02-28T05:28:00",
+  "date_gmt": "2025-02-28T10:28:00",
+  "modified": "2025-07-07T20:39:23",
+  "modified_gmt": "2025-07-08T00:39:23",
+  "slug": "gj-341-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-341-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_341",
+    "pl_letter": "b",
+    "display_name": "GJ 341 b",
+    "planet_radius": "0.88 x Earth",
+    "derived_description": "GJ 341 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 4 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.059111874261112 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 10.454,
+    "planet_mass": "4 Earths",
+    "st_optmag": 9.49,
+    "discovery_date": "2025",
+    "pl_orbsmax": "",
+    "period_display": "7.6 days",
+    "eccentricity": "0.0",
+    "star_id": 477271,
+    "pl_orbper": 7.57686,
+    "pl_kepflag": false,
+    "pl_radj": 0.07850848,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.88,
+    "exo_id": "GJ_341_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/477289",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/477271"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

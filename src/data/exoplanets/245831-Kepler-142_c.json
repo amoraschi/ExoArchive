@@ -1,1 +1,79 @@
-{"id":245831,"date":"2016-03-16T19:26:22","date_gmt":"2016-03-16T23:26:22","modified":"2025-07-07T20:42:26","modified_gmt":"2025-07-08T00:42:26","slug":"kepler-142-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-142-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-142","pl_letter":"c","display_name":"Kepler-142 c","planet_radius":"0.255 x Jupiter","derived_description":"Kepler-142 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.55 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.057 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":548.686,"planet_mass":"8.55 Earths","st_optmag":13.277,"discovery_date":"2014","pl_orbsmax":0.057,"period_display":"4.8 days","eccentricity":"0.0","star_id":261445,"pl_orbper":4.761702,"pl_kepflag":true,"pl_radj":0.255,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.86,"exo_id":"Kepler-142_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245831","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261445"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245831,
+  "date": "2016-03-16T19:26:22",
+  "date_gmt": "2016-03-16T23:26:22",
+  "modified": "2025-07-07T20:42:26",
+  "modified_gmt": "2025-07-08T00:42:26",
+  "slug": "kepler-142-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-142-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-142",
+    "pl_letter": "c",
+    "display_name": "Kepler-142 c",
+    "planet_radius": "0.255 x Jupiter",
+    "derived_description": "Kepler-142 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.55 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.057 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 548.686,
+    "planet_mass": "8.55 Earths",
+    "st_optmag": 13.277,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.057,
+    "period_display": "4.8 days",
+    "eccentricity": "0.0",
+    "star_id": 261445,
+    "pl_orbper": 4.761702,
+    "pl_kepflag": true,
+    "pl_radj": 0.255,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.86,
+    "exo_id": "Kepler-142_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245831",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261445"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

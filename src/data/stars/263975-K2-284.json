@@ -1,1 +1,71 @@
-{"id":263975,"date":"2023-11-28T21:10:36","date_gmt":"2023-11-29T02:10:36","modified":"2025-04-23T05:56:17","modified_gmt":"2025-04-23T09:56:17","slug":"k2-284","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-284/","featured_media":0,"categories":[],"acf":{"display_name":"K2-284","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244973],"exo_id":"K2-284","st_optmag":13.265,"st_vj":13.265,"st_dist":107.272,"st_j":13.265,"st_mass":0.63,"dec":20.2549034,"st_teff":4140,"st_rad":0.607,"ra":79.1407971,"system_radius":7137314.3777,"pl_hostname":"K2-284","stellar_type":"K","tic_id":"TIC 5882269","magnitude":13.265},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263975","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244973"}]}}
+{
+  "id": 263975,
+  "date": "2023-11-28T21:10:36",
+  "date_gmt": "2023-11-29T02:10:36",
+  "modified": "2025-04-23T05:56:17",
+  "modified_gmt": "2025-04-23T09:56:17",
+  "slug": "k2-284",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-284/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-284",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244973
+    ],
+    "exo_id": "K2-284",
+    "st_optmag": 13.265,
+    "st_vj": 13.265,
+    "st_dist": 107.272,
+    "st_j": 13.265,
+    "st_mass": 0.63,
+    "dec": 20.2549034,
+    "st_teff": 4140,
+    "st_rad": 0.607,
+    "ra": 79.1407971,
+    "system_radius": 7137314.3777,
+    "pl_hostname": "K2-284",
+    "stellar_type": "K",
+    "tic_id": "TIC 5882269",
+    "magnitude": 13.265
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263975",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244973"
+      }
+    ]
+  }
+}

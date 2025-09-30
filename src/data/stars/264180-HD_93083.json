@@ -1,1 +1,71 @@
-{"id":264180,"date":"2023-11-28T21:13:15","date_gmt":"2023-11-29T02:13:15","modified":"2025-04-23T05:57:16","modified_gmt":"2025-04-23T09:57:16","slug":"hd_93083","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_93083/","featured_media":0,"categories":[],"acf":{"display_name":"HD 93083","custom_star_title":"","aliases":"","constellation":"Antlia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244590],"exo_id":"HD_93083","st_optmag":8.3,"st_vj":8.3,"st_dist":28.5159,"st_j":8.3,"st_mass":0.7,"dec":-33.5776794,"st_teff":4995,"st_rad":0.850835,"ra":161.0866672,"system_radius":71358183.99,"pl_hostname":"HD_93083","stellar_type":"K","tic_id":"TIC 54237857","magnitude":8.3},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264180","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244590"}]}}
+{
+  "id": 264180,
+  "date": "2023-11-28T21:13:15",
+  "date_gmt": "2023-11-29T02:13:15",
+  "modified": "2025-04-23T05:57:16",
+  "modified_gmt": "2025-04-23T09:57:16",
+  "slug": "hd_93083",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_93083/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 93083",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Antlia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244590
+    ],
+    "exo_id": "HD_93083",
+    "st_optmag": 8.3,
+    "st_vj": 8.3,
+    "st_dist": 28.5159,
+    "st_j": 8.3,
+    "st_mass": 0.7,
+    "dec": -33.5776794,
+    "st_teff": 4995,
+    "st_rad": 0.850835,
+    "ra": 161.0866672,
+    "system_radius": 71358183.99,
+    "pl_hostname": "HD_93083",
+    "stellar_type": "K",
+    "tic_id": "TIC 54237857",
+    "magnitude": 8.3
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264180",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244590"
+      }
+    ]
+  }
+}

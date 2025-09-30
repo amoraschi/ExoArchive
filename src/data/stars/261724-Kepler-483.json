@@ -1,1 +1,71 @@
-{"id":261724,"date":"2023-11-28T20:41:55","date_gmt":"2023-11-29T01:41:55","modified":"2025-04-23T05:55:02","modified_gmt":"2025-04-23T09:55:02","slug":"kepler-483","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-483/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-483","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247288],"exo_id":"Kepler-483","st_optmag":13.452,"st_vj":13.452,"st_dist":860.355,"st_j":13.452,"st_mass":1.28,"dec":41.8846843,"st_teff":6346,"st_rad":1.47,"ra":291.6467764,"system_radius":29128201.2677,"pl_hostname":"Kepler-483","stellar_type":"F","tic_id":"TIC 137342400","magnitude":13.452},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261724","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247288"}]}}
+{
+  "id": 261724,
+  "date": "2023-11-28T20:41:55",
+  "date_gmt": "2023-11-29T01:41:55",
+  "modified": "2025-04-23T05:55:02",
+  "modified_gmt": "2025-04-23T09:55:02",
+  "slug": "kepler-483",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-483/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-483",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247288
+    ],
+    "exo_id": "Kepler-483",
+    "st_optmag": 13.452,
+    "st_vj": 13.452,
+    "st_dist": 860.355,
+    "st_j": 13.452,
+    "st_mass": 1.28,
+    "dec": 41.8846843,
+    "st_teff": 6346,
+    "st_rad": 1.47,
+    "ra": 291.6467764,
+    "system_radius": 29128201.2677,
+    "pl_hostname": "Kepler-483",
+    "stellar_type": "F",
+    "tic_id": "TIC 137342400",
+    "magnitude": 13.452
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261724",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247288"
+      }
+    ]
+  }
+}

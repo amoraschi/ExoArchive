@@ -1,1 +1,77 @@
-{"id":473313,"date":"2025-02-15T02:44:00","date_gmt":"2025-02-15T07:44:00","modified":"2025-04-23T05:57:24","modified_gmt":"2025-04-23T09:57:24","slug":"gaia-4","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gaia-4/","featured_media":429649,"categories":[],"acf":{"display_name":"Gaia-4","custom_star_title":"","aliases":"","constellation":"Canes Venatici","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[473319],"exo_id":"Gaia-4","st_optmag":12.405,"st_vj":12.405,"st_dist":73.4829,"st_j":12.405,"st_mass":0.644,"dec":31.6954898,"st_teff":4034,"st_rad":0.624,"ra":209.5063762,"system_radius":149597870,"pl_hostname":"Gaia-4","stellar_type":"K","tic_id":"TIC 166669918","magnitude":12.405},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/473313","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/473319"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 473313,
+  "date": "2025-02-15T02:44:00",
+  "date_gmt": "2025-02-15T07:44:00",
+  "modified": "2025-04-23T05:57:24",
+  "modified_gmt": "2025-04-23T09:57:24",
+  "slug": "gaia-4",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gaia-4/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Gaia-4",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canes Venatici",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      473319
+    ],
+    "exo_id": "Gaia-4",
+    "st_optmag": 12.405,
+    "st_vj": 12.405,
+    "st_dist": 73.4829,
+    "st_j": 12.405,
+    "st_mass": 0.644,
+    "dec": 31.6954898,
+    "st_teff": 4034,
+    "st_rad": 0.624,
+    "ra": 209.5063762,
+    "system_radius": 149597870,
+    "pl_hostname": "Gaia-4",
+    "stellar_type": "K",
+    "tic_id": "TIC 166669918",
+    "magnitude": 12.405
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/473313",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/473319"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

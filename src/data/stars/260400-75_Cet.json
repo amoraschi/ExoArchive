@@ -1,1 +1,76 @@
-{"id":260400,"date":"2023-11-28T20:25:18","date_gmt":"2023-11-29T01:25:18","modified":"2025-04-23T05:53:13","modified_gmt":"2025-04-23T09:53:13","slug":"75_cet","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/75_cet/","featured_media":0,"categories":[],"acf":{"display_name":"75 Ceti","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243423,"1":243422},"exo_id":"75_Cet","st_optmag":5.3532,"st_vj":5.3532,"st_dist":82.9613,"st_j":5.3532,"st_mass":1.92,"dec":-1.0350269,"st_teff":4809,"st_rad":10.38,"ra":38.0391598,"system_radius":587770031.23,"pl_hostname":"75_Cet","stellar_type":"K","tic_id":"TIC 251095345","magnitude":5.3532},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260400","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243423"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243422"}]}}
+{
+  "id": 260400,
+  "date": "2023-11-28T20:25:18",
+  "date_gmt": "2023-11-29T01:25:18",
+  "modified": "2025-04-23T05:53:13",
+  "modified_gmt": "2025-04-23T09:53:13",
+  "slug": "75_cet",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/75_cet/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "75 Ceti",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243423,
+      "1": 243422
+    },
+    "exo_id": "75_Cet",
+    "st_optmag": 5.3532,
+    "st_vj": 5.3532,
+    "st_dist": 82.9613,
+    "st_j": 5.3532,
+    "st_mass": 1.92,
+    "dec": -1.0350269,
+    "st_teff": 4809,
+    "st_rad": 10.38,
+    "ra": 38.0391598,
+    "system_radius": 587770031.23,
+    "pl_hostname": "75_Cet",
+    "stellar_type": "K",
+    "tic_id": "TIC 251095345",
+    "magnitude": 5.3532
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260400",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243423"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243422"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262170,"date":"2023-11-28T20:47:35","date_gmt":"2023-11-29T01:47:35","modified":"2025-04-23T05:55:23","modified_gmt":"2025-04-23T09:55:23","slug":"kepler-565","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-565/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-565","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247411],"exo_id":"Kepler-565","st_optmag":15.231,"st_vj":15.231,"st_dist":1041,"st_j":15.231,"st_mass":0.98,"dec":47.1967793,"st_teff":5735,"st_rad":0.95,"ra":283.6180825,"system_radius":7494853.287,"pl_hostname":"Kepler-565","stellar_type":"G","tic_id":"TIC 164556745","magnitude":15.231},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262170","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247411"}]}}
+{
+  "id": 262170,
+  "date": "2023-11-28T20:47:35",
+  "date_gmt": "2023-11-29T01:47:35",
+  "modified": "2025-04-23T05:55:23",
+  "modified_gmt": "2025-04-23T09:55:23",
+  "slug": "kepler-565",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-565/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-565",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247411
+    ],
+    "exo_id": "Kepler-565",
+    "st_optmag": 15.231,
+    "st_vj": 15.231,
+    "st_dist": 1041,
+    "st_j": 15.231,
+    "st_mass": 0.98,
+    "dec": 47.1967793,
+    "st_teff": 5735,
+    "st_rad": 0.95,
+    "ra": 283.6180825,
+    "system_radius": 7494853.287,
+    "pl_hostname": "Kepler-565",
+    "stellar_type": "G",
+    "tic_id": "TIC 164556745",
+    "magnitude": 15.231
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262170",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247411"
+      }
+    ]
+  }
+}

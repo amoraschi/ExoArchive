@@ -1,1 +1,71 @@
-{"id":262898,"date":"2023-11-28T20:56:52","date_gmt":"2023-11-29T01:56:52","modified":"2025-04-23T05:56:47","modified_gmt":"2025-04-23T09:56:47","slug":"kepler-609","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-609/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-609","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247475],"exo_id":"Kepler-609","st_optmag":14.96,"st_vj":14.96,"st_dist":1065.82,"st_j":14.96,"st_mass":1.09,"dec":44.6999902,"st_teff":5971,"st_rad":1.14,"ra":292.2203009,"system_radius":10202574.734,"pl_hostname":"Kepler-609","stellar_type":"F","tic_id":"TIC 63126989","magnitude":14.96},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262898","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247475"}]}}
+{
+  "id": 262898,
+  "date": "2023-11-28T20:56:52",
+  "date_gmt": "2023-11-29T01:56:52",
+  "modified": "2025-04-23T05:56:47",
+  "modified_gmt": "2025-04-23T09:56:47",
+  "slug": "kepler-609",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-609/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-609",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247475
+    ],
+    "exo_id": "Kepler-609",
+    "st_optmag": 14.96,
+    "st_vj": 14.96,
+    "st_dist": 1065.82,
+    "st_j": 14.96,
+    "st_mass": 1.09,
+    "dec": 44.6999902,
+    "st_teff": 5971,
+    "st_rad": 1.14,
+    "ra": 292.2203009,
+    "system_radius": 10202574.734,
+    "pl_hostname": "Kepler-609",
+    "stellar_type": "F",
+    "tic_id": "TIC 63126989",
+    "magnitude": 14.96
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262898",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247475"
+      }
+    ]
+  }
+}

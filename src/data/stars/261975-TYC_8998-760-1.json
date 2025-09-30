@@ -1,1 +1,76 @@
-{"id":261975,"date":"2023-11-28T20:45:07","date_gmt":"2023-11-29T01:45:07","modified":"2025-04-23T05:55:15","modified_gmt":"2025-04-23T09:55:15","slug":"tyc_8998-760-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tyc_8998-760-1/","featured_media":0,"categories":[],"acf":{"display_name":"TYC 8998-760-1","custom_star_title":"","aliases":"","constellation":"Musca","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":248726,"1":248725},"exo_id":"TYC_8998-760-1","st_optmag":11.124,"st_vj":11.124,"st_dist":94.6177,"st_j":11.124,"st_mass":1,"dec":-64.9391566,"st_teff":4573,"st_rad":0.953811,"ra":201.3001096,"system_radius":47871318400,"pl_hostname":"TYC_8998-760-1","stellar_type":"K","tic_id":"TIC 449888653","magnitude":11.124},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261975","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248726"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248725"}]}}
+{
+  "id": 261975,
+  "date": "2023-11-28T20:45:07",
+  "date_gmt": "2023-11-29T01:45:07",
+  "modified": "2025-04-23T05:55:15",
+  "modified_gmt": "2025-04-23T09:55:15",
+  "slug": "tyc_8998-760-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tyc_8998-760-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TYC 8998-760-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Musca",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 248726,
+      "1": 248725
+    },
+    "exo_id": "TYC_8998-760-1",
+    "st_optmag": 11.124,
+    "st_vj": 11.124,
+    "st_dist": 94.6177,
+    "st_j": 11.124,
+    "st_mass": 1,
+    "dec": -64.9391566,
+    "st_teff": 4573,
+    "st_rad": 0.953811,
+    "ra": 201.3001096,
+    "system_radius": 47871318400,
+    "pl_hostname": "TYC_8998-760-1",
+    "stellar_type": "K",
+    "tic_id": "TIC 449888653",
+    "magnitude": 11.124
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261975",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248726"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248725"
+      }
+    ]
+  }
+}

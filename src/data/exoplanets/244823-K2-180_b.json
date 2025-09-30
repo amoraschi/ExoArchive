@@ -1,1 +1,79 @@
-{"id":244823,"date":"2018-02-16T12:26:06","date_gmt":"2018-02-16T17:26:06","modified":"2025-03-28T07:24:06","modified_gmt":"2025-03-28T11:24:06","slug":"k2-180-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-180-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-180","pl_letter":"b","display_name":"K2-180 b","planet_radius":"2.46597575 x Earth","derived_description":"K2-180 b is a super Earth exoplanet that orbits a G-type star. Its mass is 11.41003981 Earths, it takes 8.9 days to complete one orbit of its star, and is 0.0756 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":203.896,"planet_mass":"11.41003981 Earths","st_optmag":12.557,"discovery_date":"2018","pl_orbsmax":0.0756,"period_display":"8.9 days","eccentricity":"0.07","star_id":264050,"pl_orbper":8.865663,"pl_kepflag":true,"pl_radj":0.22,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":130,"multiple_planet_system":false,"pl_rade":2.46597575,"exo_id":"K2-180_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.075},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244823","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264050"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244823,
+  "date": "2018-02-16T12:26:06",
+  "date_gmt": "2018-02-16T17:26:06",
+  "modified": "2025-03-28T07:24:06",
+  "modified_gmt": "2025-03-28T11:24:06",
+  "slug": "k2-180-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-180-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-180",
+    "pl_letter": "b",
+    "display_name": "K2-180 b",
+    "planet_radius": "2.46597575 x Earth",
+    "derived_description": "K2-180 b is a super Earth exoplanet that orbits a G-type star. Its mass is 11.41003981 Earths, it takes 8.9 days to complete one orbit of its star, and is 0.0756 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 203.896,
+    "planet_mass": "11.41003981 Earths",
+    "st_optmag": 12.557,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.0756,
+    "period_display": "8.9 days",
+    "eccentricity": "0.07",
+    "star_id": 264050,
+    "pl_orbper": 8.865663,
+    "pl_kepflag": true,
+    "pl_radj": 0.22,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 130,
+    "multiple_planet_system": false,
+    "pl_rade": 2.46597575,
+    "exo_id": "K2-180_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.075
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244823",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264050"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

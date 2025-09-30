@@ -1,1 +1,71 @@
-{"id":262190,"date":"2023-11-28T20:47:51","date_gmt":"2023-11-29T01:47:51","modified":"2025-04-23T05:55:43","modified_gmt":"2025-04-23T09:55:43","slug":"dp_leo","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/dp_leo/","featured_media":0,"categories":[],"acf":{"display_name":"DP Leonis","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243523],"exo_id":"DP_Leo","st_optmag":18.6837,"st_vj":18.6837,"st_dist":305.684,"st_j":18.6837,"st_mass":0.69,"dec":17.9615717,"st_teff":13500,"st_rad":0.0115,"ra":169.3162193,"system_radius":1225206555.3,"pl_hostname":"DP_Leo","stellar_type":"B","tic_id":"TIC 903484062","magnitude":18.6837},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262190","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243523"}]}}
+{
+  "id": 262190,
+  "date": "2023-11-28T20:47:51",
+  "date_gmt": "2023-11-29T01:47:51",
+  "modified": "2025-04-23T05:55:43",
+  "modified_gmt": "2025-04-23T09:55:43",
+  "slug": "dp_leo",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/dp_leo/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "DP Leonis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243523
+    ],
+    "exo_id": "DP_Leo",
+    "st_optmag": 18.6837,
+    "st_vj": 18.6837,
+    "st_dist": 305.684,
+    "st_j": 18.6837,
+    "st_mass": 0.69,
+    "dec": 17.9615717,
+    "st_teff": 13500,
+    "st_rad": 0.0115,
+    "ra": 169.3162193,
+    "system_radius": 1225206555.3,
+    "pl_hostname": "DP_Leo",
+    "stellar_type": "B",
+    "tic_id": "TIC 903484062",
+    "magnitude": 18.6837
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262190",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243523"
+      }
+    ]
+  }
+}

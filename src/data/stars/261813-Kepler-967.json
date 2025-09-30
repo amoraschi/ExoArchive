@@ -1,1 +1,76 @@
-{"id":261813,"date":"2023-11-28T20:43:02","date_gmt":"2023-11-29T01:43:02","modified":"2025-04-23T05:54:46","modified_gmt":"2025-04-23T09:54:46","slug":"kepler-967","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-967/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-967","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247961,247962],"exo_id":"Kepler-967","st_optmag":14.702,"st_vj":14.702,"st_dist":568.546,"st_j":14.702,"st_mass":0.84,"dec":38.4052418,"st_teff":5178,"st_rad":0.8,"ra":286.5580128,"system_radius":93543548.111,"pl_hostname":"Kepler-967","stellar_type":"K","tic_id":"TIC 120962548","magnitude":14.702},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261813","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247962"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247961"}]}}
+{
+  "id": 261813,
+  "date": "2023-11-28T20:43:02",
+  "date_gmt": "2023-11-29T01:43:02",
+  "modified": "2025-04-23T05:54:46",
+  "modified_gmt": "2025-04-23T09:54:46",
+  "slug": "kepler-967",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-967/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-967",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247961,
+      247962
+    ],
+    "exo_id": "Kepler-967",
+    "st_optmag": 14.702,
+    "st_vj": 14.702,
+    "st_dist": 568.546,
+    "st_j": 14.702,
+    "st_mass": 0.84,
+    "dec": 38.4052418,
+    "st_teff": 5178,
+    "st_rad": 0.8,
+    "ra": 286.5580128,
+    "system_radius": 93543548.111,
+    "pl_hostname": "Kepler-967",
+    "stellar_type": "K",
+    "tic_id": "TIC 120962548",
+    "magnitude": 14.702
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261813",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247962"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247961"
+      }
+    ]
+  }
+}

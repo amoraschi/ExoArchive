@@ -1,1 +1,76 @@
-{"id":260818,"date":"2023-11-28T20:30:29","date_gmt":"2023-11-29T01:30:29","modified":"2025-04-23T05:55:00","modified_gmt":"2025-04-23T09:55:00","slug":"kepler-162","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-162/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-162","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246103,246104],"exo_id":"Kepler-162","st_optmag":14.351,"st_vj":14.351,"st_dist":855.641,"st_j":14.351,"st_mass":1.053,"dec":43.7239693,"st_teff":5816,"st_rad":0.958,"ra":297.2789115,"system_radius":20494908.19,"pl_hostname":"Kepler-162","stellar_type":"G","tic_id":"TIC 273036401","magnitude":14.351},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260818","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246104"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246103"}]}}
+{
+  "id": 260818,
+  "date": "2023-11-28T20:30:29",
+  "date_gmt": "2023-11-29T01:30:29",
+  "modified": "2025-04-23T05:55:00",
+  "modified_gmt": "2025-04-23T09:55:00",
+  "slug": "kepler-162",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-162/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-162",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246103,
+      246104
+    ],
+    "exo_id": "Kepler-162",
+    "st_optmag": 14.351,
+    "st_vj": 14.351,
+    "st_dist": 855.641,
+    "st_j": 14.351,
+    "st_mass": 1.053,
+    "dec": 43.7239693,
+    "st_teff": 5816,
+    "st_rad": 0.958,
+    "ra": 297.2789115,
+    "system_radius": 20494908.19,
+    "pl_hostname": "Kepler-162",
+    "stellar_type": "G",
+    "tic_id": "TIC 273036401",
+    "magnitude": 14.351
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260818",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246104"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246103"
+      }
+    ]
+  }
+}

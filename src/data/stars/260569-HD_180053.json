@@ -1,1 +1,71 @@
-{"id":260569,"date":"2023-11-28T20:27:26","date_gmt":"2023-11-29T01:27:26","modified":"2025-04-23T05:53:26","modified_gmt":"2025-04-23T09:53:26","slug":"hd_180053","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_180053/","featured_media":0,"categories":[],"acf":{"display_name":"HD 180053","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244162],"exo_id":"HD_180053","st_optmag":7.93,"st_vj":7.93,"st_dist":137.043,"st_j":7.93,"st_mass":1.75,"dec":34.9146658,"st_teff":5131,"st_rad":4.06,"ra":288.4008374,"system_radius":126111004.41,"pl_hostname":"HD_180053","stellar_type":"K","tic_id":"TIC 29898060","magnitude":7.93},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260569","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244162"}]}}
+{
+  "id": 260569,
+  "date": "2023-11-28T20:27:26",
+  "date_gmt": "2023-11-29T01:27:26",
+  "modified": "2025-04-23T05:53:26",
+  "modified_gmt": "2025-04-23T09:53:26",
+  "slug": "hd_180053",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_180053/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 180053",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244162
+    ],
+    "exo_id": "HD_180053",
+    "st_optmag": 7.93,
+    "st_vj": 7.93,
+    "st_dist": 137.043,
+    "st_j": 7.93,
+    "st_mass": 1.75,
+    "dec": 34.9146658,
+    "st_teff": 5131,
+    "st_rad": 4.06,
+    "ra": 288.4008374,
+    "system_radius": 126111004.41,
+    "pl_hostname": "HD_180053",
+    "stellar_type": "K",
+    "tic_id": "TIC 29898060",
+    "magnitude": 7.93
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260569",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244162"
+      }
+    ]
+  }
+}

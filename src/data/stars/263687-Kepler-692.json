@@ -1,1 +1,71 @@
-{"id":263687,"date":"2023-11-28T21:06:51","date_gmt":"2023-11-29T02:06:51","modified":"2025-04-23T05:55:22","modified_gmt":"2025-04-23T09:55:22","slug":"kepler-692","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-692/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-692","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247595],"exo_id":"Kepler-692","st_optmag":15.676,"st_vj":15.676,"st_dist":991.336,"st_j":15.676,"st_mass":0.9,"dec":40.1537027,"st_teff":5440,"st_rad":0.86,"ra":294.7768068,"system_radius":22364881.565,"pl_hostname":"Kepler-692","stellar_type":"G","tic_id":"TIC 138728891","magnitude":15.676},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263687","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247595"}]}}
+{
+  "id": 263687,
+  "date": "2023-11-28T21:06:51",
+  "date_gmt": "2023-11-29T02:06:51",
+  "modified": "2025-04-23T05:55:22",
+  "modified_gmt": "2025-04-23T09:55:22",
+  "slug": "kepler-692",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-692/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-692",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247595
+    ],
+    "exo_id": "Kepler-692",
+    "st_optmag": 15.676,
+    "st_vj": 15.676,
+    "st_dist": 991.336,
+    "st_j": 15.676,
+    "st_mass": 0.9,
+    "dec": 40.1537027,
+    "st_teff": 5440,
+    "st_rad": 0.86,
+    "ra": 294.7768068,
+    "system_radius": 22364881.565,
+    "pl_hostname": "Kepler-692",
+    "stellar_type": "G",
+    "tic_id": "TIC 138728891",
+    "magnitude": 15.676
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263687",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247595"
+      }
+    ]
+  }
+}

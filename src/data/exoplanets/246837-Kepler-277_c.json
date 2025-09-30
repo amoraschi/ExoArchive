@@ -1,1 +1,79 @@
-{"id":246837,"date":"2017-10-02T13:32:53","date_gmt":"2017-10-02T17:32:53","modified":"2025-07-07T20:41:41","modified_gmt":"2025-07-08T00:41:41","slug":"kepler-277-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-277-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-277","pl_letter":"c","display_name":"Kepler-277 c","planet_radius":"0.3 x Jupiter","derived_description":"Kepler-277 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.202 Jupiters, it takes 33 days to complete one orbit of its star, and is 0.21781 AU from its star. Its discovery was announced in 2013.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":976.643,"planet_mass":"0.202 Jupiters","st_optmag":13.544,"discovery_date":"2013","pl_orbsmax":0.21781,"period_display":"33 days","eccentricity":"0.0","star_id":261786,"pl_orbper":33.006,"pl_kepflag":true,"pl_radj":0.3,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.36,"exo_id":"Kepler-277_c","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246837","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261786"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 246837,
+  "date": "2017-10-02T13:32:53",
+  "date_gmt": "2017-10-02T17:32:53",
+  "modified": "2025-07-07T20:41:41",
+  "modified_gmt": "2025-07-08T00:41:41",
+  "slug": "kepler-277-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-277-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-277",
+    "pl_letter": "c",
+    "display_name": "Kepler-277 c",
+    "planet_radius": "0.3 x Jupiter",
+    "derived_description": "Kepler-277 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.202 Jupiters, it takes 33 days to complete one orbit of its star, and is 0.21781 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 976.643,
+    "planet_mass": "0.202 Jupiters",
+    "st_optmag": 13.544,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.21781,
+    "period_display": "33 days",
+    "eccentricity": "0.0",
+    "star_id": 261786,
+    "pl_orbper": 33.006,
+    "pl_kepflag": true,
+    "pl_radj": 0.3,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.36,
+    "exo_id": "Kepler-277_c",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246837",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261786"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

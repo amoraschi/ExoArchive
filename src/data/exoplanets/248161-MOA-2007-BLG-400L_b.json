@@ -1,1 +1,79 @@
-{"id":248161,"date":"2017-12-02T12:26:16","date_gmt":"2017-12-02T17:26:16","modified":"2024-10-24T20:18:57","modified_gmt":"2024-10-25T00:18:57","slug":"moa-2007-blg-400l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/moa-2007-blg-400l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"MOA-2007-BLG-400L","pl_letter":"b","display_name":"MOA-2007-BLG-400L b","planet_radius":"1.2 x Jupiter (estimate)","derived_description":"MOA-2007-BLG-400L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 1.7 Jupiters, it takes 17.3 years to complete one orbit of its star, and is 5.9 AU from its star. Its discovery was announced in 2008.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"MOA","st_dist":6890,"planet_mass":"1.7 Jupiters","st_optmag":"","discovery_date":"2008","pl_orbsmax":5.9,"period_display":"17.3 years","eccentricity":"","star_id":264466,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.2,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":13.5,"exo_id":"MOA-2007-BLG-400L_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248161","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264466"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248161,
+  "date": "2017-12-02T12:26:16",
+  "date_gmt": "2017-12-02T17:26:16",
+  "modified": "2024-10-24T20:18:57",
+  "modified_gmt": "2024-10-25T00:18:57",
+  "slug": "moa-2007-blg-400l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/moa-2007-blg-400l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "MOA-2007-BLG-400L",
+    "pl_letter": "b",
+    "display_name": "MOA-2007-BLG-400L b",
+    "planet_radius": "1.2 x Jupiter (estimate)",
+    "derived_description": "MOA-2007-BLG-400L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 1.7 Jupiters, it takes 17.3 years to complete one orbit of its star, and is 5.9 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "MOA",
+    "st_dist": 6890,
+    "planet_mass": "1.7 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2008",
+    "pl_orbsmax": 5.9,
+    "period_display": "17.3 years",
+    "eccentricity": "",
+    "star_id": 264466,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.2,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.5,
+    "exo_id": "MOA-2007-BLG-400L_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248161",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264466"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

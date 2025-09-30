@@ -1,1 +1,77 @@
-{"id":894450,"date":"2025-08-14T21:15:08","date_gmt":"2025-08-15T01:15:08","modified":"2025-08-14T21:15:08","modified_gmt":"2025-08-15T01:15:08","slug":"bebop-3","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/bebop-3/","featured_media":429647,"categories":[],"acf":{"display_name":"BEBOP-3","custom_star_title":"","aliases":"","constellation":"Camelopardalis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[894502],"exo_id":"BEBOP-3","st_optmag":9.259,"st_vj":9.259,"st_dist":119.052,"st_j":9.259,"st_mass":1.083,"dec":79.1323952,"st_teff":6033,"st_rad":1.414,"ra":110.902655,"system_radius":216019324.28,"pl_hostname":"BEBOP-3","stellar_type":"F","tic_id":"TIC 289949453","magnitude":9.259},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/894450","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/894502"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 894450,
+  "date": "2025-08-14T21:15:08",
+  "date_gmt": "2025-08-15T01:15:08",
+  "modified": "2025-08-14T21:15:08",
+  "modified_gmt": "2025-08-15T01:15:08",
+  "slug": "bebop-3",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bebop-3/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "BEBOP-3",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Camelopardalis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      894502
+    ],
+    "exo_id": "BEBOP-3",
+    "st_optmag": 9.259,
+    "st_vj": 9.259,
+    "st_dist": 119.052,
+    "st_j": 9.259,
+    "st_mass": 1.083,
+    "dec": 79.1323952,
+    "st_teff": 6033,
+    "st_rad": 1.414,
+    "ra": 110.902655,
+    "system_radius": 216019324.28,
+    "pl_hostname": "BEBOP-3",
+    "stellar_type": "F",
+    "tic_id": "TIC 289949453",
+    "magnitude": 9.259
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/894450",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/894502"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

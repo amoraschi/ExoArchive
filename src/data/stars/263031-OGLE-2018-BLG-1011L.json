@@ -1,1 +1,76 @@
-{"id":263031,"date":"2023-11-28T20:58:32","date_gmt":"2023-11-29T01:58:32","modified":"2025-04-23T05:56:40","modified_gmt":"2025-04-23T09:56:40","slug":"ogle-2018-blg-1011l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2018-blg-1011l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2018-BLG-1011L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248304,248305],"exo_id":"OGLE-2018-BLG-1011L","st_optmag":"","st_vj":"","st_dist":7100,"st_j":"","st_mass":0.18,"dec":-29.0828889,"st_teff":"","st_rad":"","ra":269.014,"system_radius":269276166,"pl_hostname":"OGLE-2018-BLG-1011L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263031","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248305"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248304"}]}}
+{
+  "id": 263031,
+  "date": "2023-11-28T20:58:32",
+  "date_gmt": "2023-11-29T01:58:32",
+  "modified": "2025-04-23T05:56:40",
+  "modified_gmt": "2025-04-23T09:56:40",
+  "slug": "ogle-2018-blg-1011l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2018-blg-1011l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2018-BLG-1011L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248304,
+      248305
+    ],
+    "exo_id": "OGLE-2018-BLG-1011L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7100,
+    "st_j": "",
+    "st_mass": 0.18,
+    "dec": -29.0828889,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.014,
+    "system_radius": 269276166,
+    "pl_hostname": "OGLE-2018-BLG-1011L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263031",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248305"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248304"
+      }
+    ]
+  }
+}

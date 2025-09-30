@@ -1,1 +1,76 @@
-{"id":260978,"date":"2023-11-28T20:32:30","date_gmt":"2023-11-29T01:32:30","modified":"2025-04-23T05:54:47","modified_gmt":"2025-04-23T09:54:47","slug":"kepler-367","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-367/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-367","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247070,247071],"exo_id":"Kepler-367","st_optmag":13.193,"st_vj":13.193,"st_dist":188.027,"st_j":13.193,"st_mass":0.768,"dec":49.9817499,"st_teff":4710,"st_rad":0.695,"ra":297.292558,"system_radius":37848261.11,"pl_hostname":"Kepler-367","stellar_type":"K","tic_id":"TIC 28159518","magnitude":13.193},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260978","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247071"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247070"}]}}
+{
+  "id": 260978,
+  "date": "2023-11-28T20:32:30",
+  "date_gmt": "2023-11-29T01:32:30",
+  "modified": "2025-04-23T05:54:47",
+  "modified_gmt": "2025-04-23T09:54:47",
+  "slug": "kepler-367",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-367/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-367",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247070,
+      247071
+    ],
+    "exo_id": "Kepler-367",
+    "st_optmag": 13.193,
+    "st_vj": 13.193,
+    "st_dist": 188.027,
+    "st_j": 13.193,
+    "st_mass": 0.768,
+    "dec": 49.9817499,
+    "st_teff": 4710,
+    "st_rad": 0.695,
+    "ra": 297.292558,
+    "system_radius": 37848261.11,
+    "pl_hostname": "Kepler-367",
+    "stellar_type": "K",
+    "tic_id": "TIC 28159518",
+    "magnitude": 13.193
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260978",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247071"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247070"
+      }
+    ]
+  }
+}

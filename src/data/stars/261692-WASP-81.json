@@ -1,1 +1,71 @@
-{"id":261692,"date":"2023-11-28T20:41:32","date_gmt":"2023-11-29T01:41:32","modified":"2025-04-23T05:56:10","modified_gmt":"2025-04-23T09:56:10","slug":"wasp-81","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-81/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-81","custom_star_title":"","aliases":"","constellation":"Aquila","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248901],"exo_id":"WASP-81","st_optmag":12.469,"st_vj":12.469,"st_dist":398.505,"st_j":12.469,"st_mass":1.08,"dec":3.2939492,"st_teff":5870,"st_rad":1.283,"ra":304.2079924,"system_radius":5846284.7596,"pl_hostname":"WASP-81","stellar_type":"G","tic_id":"TIC 399402994","magnitude":12.469},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261692","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248901"}]}}
+{
+  "id": 261692,
+  "date": "2023-11-28T20:41:32",
+  "date_gmt": "2023-11-29T01:41:32",
+  "modified": "2025-04-23T05:56:10",
+  "modified_gmt": "2025-04-23T09:56:10",
+  "slug": "wasp-81",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-81/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-81",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquila",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248901
+    ],
+    "exo_id": "WASP-81",
+    "st_optmag": 12.469,
+    "st_vj": 12.469,
+    "st_dist": 398.505,
+    "st_j": 12.469,
+    "st_mass": 1.08,
+    "dec": 3.2939492,
+    "st_teff": 5870,
+    "st_rad": 1.283,
+    "ra": 304.2079924,
+    "system_radius": 5846284.7596,
+    "pl_hostname": "WASP-81",
+    "stellar_type": "G",
+    "tic_id": "TIC 399402994",
+    "magnitude": 12.469
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261692",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248901"
+      }
+    ]
+  }
+}

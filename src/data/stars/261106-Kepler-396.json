@@ -1,1 +1,76 @@
-{"id":261106,"date":"2023-11-28T20:34:07","date_gmt":"2023-11-29T01:34:07","modified":"2025-04-23T05:53:36","modified_gmt":"2025-04-23T09:53:36","slug":"kepler-396","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-396/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-396","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247140,247141],"exo_id":"Kepler-396","st_optmag":12.259,"st_vj":12.259,"st_dist":223.757,"st_j":12.259,"st_mass":0.85,"dec":48.9773095,"st_teff":5656,"st_rad":1.06,"ra":296.1328135,"system_radius":58262386.4502,"pl_hostname":"Kepler-396","stellar_type":"G","tic_id":"TIC 27769688","magnitude":12.259},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261106","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247141"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247140"}]}}
+{
+  "id": 261106,
+  "date": "2023-11-28T20:34:07",
+  "date_gmt": "2023-11-29T01:34:07",
+  "modified": "2025-04-23T05:53:36",
+  "modified_gmt": "2025-04-23T09:53:36",
+  "slug": "kepler-396",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-396/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-396",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247140,
+      247141
+    ],
+    "exo_id": "Kepler-396",
+    "st_optmag": 12.259,
+    "st_vj": 12.259,
+    "st_dist": 223.757,
+    "st_j": 12.259,
+    "st_mass": 0.85,
+    "dec": 48.9773095,
+    "st_teff": 5656,
+    "st_rad": 1.06,
+    "ra": 296.1328135,
+    "system_radius": 58262386.4502,
+    "pl_hostname": "Kepler-396",
+    "stellar_type": "G",
+    "tic_id": "TIC 27769688",
+    "magnitude": 12.259
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261106",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247141"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247140"
+      }
+    ]
+  }
+}

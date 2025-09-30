@@ -1,1 +1,76 @@
-{"id":262313,"date":"2023-11-28T20:49:24","date_gmt":"2023-11-29T01:49:24","modified":"2025-06-06T07:19:10","modified_gmt":"2025-06-06T11:19:10","slug":"hip_8541","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_8541/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 8541","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243941,244689],"exo_id":"HIP_8541","st_optmag":7.88,"st_vj":7.88,"st_dist":155.121,"st_j":7.88,"st_mass":2.009,"dec":-54.4651633,"st_teff":4670,"st_rad":7.83,"ra":27.5271962,"system_radius":557850457.23,"pl_hostname":"HIP_8541","stellar_type":"K","tic_id":"TIC 231019255","magnitude":7.88},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262313","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244689"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243941"}]}}
+{
+  "id": 262313,
+  "date": "2023-11-28T20:49:24",
+  "date_gmt": "2023-11-29T01:49:24",
+  "modified": "2025-06-06T07:19:10",
+  "modified_gmt": "2025-06-06T11:19:10",
+  "slug": "hip_8541",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_8541/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 8541",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243941,
+      244689
+    ],
+    "exo_id": "HIP_8541",
+    "st_optmag": 7.88,
+    "st_vj": 7.88,
+    "st_dist": 155.121,
+    "st_j": 7.88,
+    "st_mass": 2.009,
+    "dec": -54.4651633,
+    "st_teff": 4670,
+    "st_rad": 7.83,
+    "ra": 27.5271962,
+    "system_radius": 557850457.23,
+    "pl_hostname": "HIP_8541",
+    "stellar_type": "K",
+    "tic_id": "TIC 231019255",
+    "magnitude": 7.88
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262313",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244689"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243941"
+      }
+    ]
+  }
+}

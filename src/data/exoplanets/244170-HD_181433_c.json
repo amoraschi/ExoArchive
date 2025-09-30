@@ -1,1 +1,79 @@
-{"id":244170,"date":"2019-04-22T16:48:43","date_gmt":"2019-04-22T20:48:43","modified":"2025-07-07T20:39:52","modified_gmt":"2025-07-08T00:39:52","slug":"hd-181433-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-181433-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_181433","pl_letter":"c","display_name":"HD 181433 c","planet_radius":"1.26 x Jupiter (estimate)","derived_description":"HD 181433 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.64 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 1.76 AU from its star. Its discovery was announced in 2008.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":26.8762,"planet_mass":"0.64 Jupiters","st_optmag":8.4,"discovery_date":"2008","pl_orbsmax":1.76,"period_display":"2.6 years","eccentricity":"0.28","star_id":260578,"pl_orbper":962,"pl_kepflag":false,"pl_radj":1.26,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":21.4,"multiple_planet_system":false,"pl_rade":14.1,"exo_id":"HD_181433_c","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.28},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244170","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260578"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244170,
+  "date": "2019-04-22T16:48:43",
+  "date_gmt": "2019-04-22T20:48:43",
+  "modified": "2025-07-07T20:39:52",
+  "modified_gmt": "2025-07-08T00:39:52",
+  "slug": "hd-181433-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-181433-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_181433",
+    "pl_letter": "c",
+    "display_name": "HD 181433 c",
+    "planet_radius": "1.26 x Jupiter (estimate)",
+    "derived_description": "HD 181433 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.64 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 1.76 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 26.8762,
+    "planet_mass": "0.64 Jupiters",
+    "st_optmag": 8.4,
+    "discovery_date": "2008",
+    "pl_orbsmax": 1.76,
+    "period_display": "2.6 years",
+    "eccentricity": "0.28",
+    "star_id": 260578,
+    "pl_orbper": 962,
+    "pl_kepflag": false,
+    "pl_radj": 1.26,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": 21.4,
+    "multiple_planet_system": false,
+    "pl_rade": 14.1,
+    "exo_id": "HD_181433_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.28
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244170",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260578"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

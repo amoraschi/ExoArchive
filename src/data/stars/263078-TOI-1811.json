@@ -1,1 +1,71 @@
-{"id":263078,"date":"2023-11-28T20:59:08","date_gmt":"2023-11-29T01:59:08","modified":"2025-04-23T05:56:43","modified_gmt":"2025-04-23T09:56:43","slug":"toi-1811","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1811/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1811","custom_star_title":"","aliases":"","constellation":"Coma Berenices","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248496],"exo_id":"TOI-1811","st_optmag":11.966,"st_vj":11.966,"st_dist":128.23,"st_j":11.966,"st_mass":0.817,"dec":27.2143766,"st_teff":4766,"st_rad":0.769,"ra":188.9223576,"system_radius":6565850.5143,"pl_hostname":"TOI-1811","stellar_type":"K","tic_id":"TIC 376524552","magnitude":11.966},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263078","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248496"}]}}
+{
+  "id": 263078,
+  "date": "2023-11-28T20:59:08",
+  "date_gmt": "2023-11-29T01:59:08",
+  "modified": "2025-04-23T05:56:43",
+  "modified_gmt": "2025-04-23T09:56:43",
+  "slug": "toi-1811",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1811/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1811",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Coma Berenices",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248496
+    ],
+    "exo_id": "TOI-1811",
+    "st_optmag": 11.966,
+    "st_vj": 11.966,
+    "st_dist": 128.23,
+    "st_j": 11.966,
+    "st_mass": 0.817,
+    "dec": 27.2143766,
+    "st_teff": 4766,
+    "st_rad": 0.769,
+    "ra": 188.9223576,
+    "system_radius": 6565850.5143,
+    "pl_hostname": "TOI-1811",
+    "stellar_type": "K",
+    "tic_id": "TIC 376524552",
+    "magnitude": 11.966
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263078",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248496"
+      }
+    ]
+  }
+}

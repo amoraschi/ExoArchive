@@ -1,1 +1,71 @@
-{"id":260591,"date":"2023-11-28T20:27:42","date_gmt":"2023-11-29T01:27:42","modified":"2025-04-23T05:53:28","modified_gmt":"2025-04-23T09:53:28","slug":"4_uma","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/4_uma/","featured_media":0,"categories":[],"acf":{"display_name":"4 Ursae Majoris","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243409],"exo_id":"4_UMa","st_optmag":4.5801,"st_vj":4.5801,"st_dist":73.4603,"st_j":4.5801,"st_mass":1.234,"dec":64.3280504,"st_teff":4415,"st_rad":18.11,"ra":130.0528099,"system_radius":131197331.99,"pl_hostname":"4_UMa","stellar_type":"K","tic_id":"TIC 356478817","magnitude":4.5801},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260591","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243409"}]}}
+{
+  "id": 260591,
+  "date": "2023-11-28T20:27:42",
+  "date_gmt": "2023-11-29T01:27:42",
+  "modified": "2025-04-23T05:53:28",
+  "modified_gmt": "2025-04-23T09:53:28",
+  "slug": "4_uma",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/4_uma/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "4 Ursae Majoris",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243409
+    ],
+    "exo_id": "4_UMa",
+    "st_optmag": 4.5801,
+    "st_vj": 4.5801,
+    "st_dist": 73.4603,
+    "st_j": 4.5801,
+    "st_mass": 1.234,
+    "dec": 64.3280504,
+    "st_teff": 4415,
+    "st_rad": 18.11,
+    "ra": 130.0528099,
+    "system_radius": 131197331.99,
+    "pl_hostname": "4_UMa",
+    "stellar_type": "K",
+    "tic_id": "TIC 356478817",
+    "magnitude": 4.5801
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260591",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243409"
+      }
+    ]
+  }
+}

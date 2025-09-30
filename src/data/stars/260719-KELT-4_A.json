@@ -1,1 +1,71 @@
-{"id":260719,"date":"2023-11-28T20:29:14","date_gmt":"2023-11-29T01:29:14","modified":"2025-06-06T07:19:54","modified_gmt":"2025-06-06T11:19:54","slug":"kelt-4_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-4_a/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-4 A","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245222],"exo_id":"KELT-4_A","st_optmag":9.98,"st_vj":9.98,"st_dist":218.05,"st_j":9.98,"st_mass":1.201,"dec":25.5731366,"st_teff":6206,"st_rad":1.603,"ra":157.06262,"system_radius":6458140.0479,"pl_hostname":"KELT-4_A","stellar_type":"F","tic_id":"TIC 165297570","magnitude":9.98},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260719","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245222"}]}}
+{
+  "id": 260719,
+  "date": "2023-11-28T20:29:14",
+  "date_gmt": "2023-11-29T01:29:14",
+  "modified": "2025-06-06T07:19:54",
+  "modified_gmt": "2025-06-06T11:19:54",
+  "slug": "kelt-4_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-4_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-4 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245222
+    ],
+    "exo_id": "KELT-4_A",
+    "st_optmag": 9.98,
+    "st_vj": 9.98,
+    "st_dist": 218.05,
+    "st_j": 9.98,
+    "st_mass": 1.201,
+    "dec": 25.5731366,
+    "st_teff": 6206,
+    "st_rad": 1.603,
+    "ra": 157.06262,
+    "system_radius": 6458140.0479,
+    "pl_hostname": "KELT-4_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 165297570",
+    "magnitude": 9.98
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260719",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245222"
+      }
+    ]
+  }
+}

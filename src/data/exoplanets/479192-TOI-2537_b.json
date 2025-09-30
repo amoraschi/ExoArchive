@@ -1,1 +1,79 @@
-{"id":479192,"date":"2025-03-07T05:41:14","date_gmt":"2025-03-07T10:41:14","modified":"2025-07-07T20:39:27","modified_gmt":"2025-07-08T00:39:27","slug":"toi-2537-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2537-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2537","pl_letter":"b","display_name":"TOI-2537 b","planet_radius":"1.004 x Jupiter","derived_description":"TOI-2537 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.307 Jupiters, it takes 94.1 days to complete one orbit of its star, and is 0.3715 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":184.986,"planet_mass":"1.307 Jupiters","st_optmag":13.236,"discovery_date":"2024","pl_orbsmax":0.3715,"period_display":"94.1 days","eccentricity":"0.36","star_id":479175,"pl_orbper":94.1022,"pl_kepflag":false,"pl_radj":1.004,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":75.2,"multiple_planet_system":false,"pl_rade":11.25381662,"exo_id":"TOI-2537_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.364},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/479192","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/479175"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 479192,
+  "date": "2025-03-07T05:41:14",
+  "date_gmt": "2025-03-07T10:41:14",
+  "modified": "2025-07-07T20:39:27",
+  "modified_gmt": "2025-07-08T00:39:27",
+  "slug": "toi-2537-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2537-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2537",
+    "pl_letter": "b",
+    "display_name": "TOI-2537 b",
+    "planet_radius": "1.004 x Jupiter",
+    "derived_description": "TOI-2537 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.307 Jupiters, it takes 94.1 days to complete one orbit of its star, and is 0.3715 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 184.986,
+    "planet_mass": "1.307 Jupiters",
+    "st_optmag": 13.236,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.3715,
+    "period_display": "94.1 days",
+    "eccentricity": "0.36",
+    "star_id": 479175,
+    "pl_orbper": 94.1022,
+    "pl_kepflag": false,
+    "pl_radj": 1.004,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 75.2,
+    "multiple_planet_system": false,
+    "pl_rade": 11.25381662,
+    "exo_id": "TOI-2537_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.364
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/479192",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/479175"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

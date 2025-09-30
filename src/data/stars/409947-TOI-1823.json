@@ -1,1 +1,71 @@
-{"id":409947,"date":"2024-07-25T22:04:31","date_gmt":"2024-07-26T02:04:31","modified":"2025-04-23T05:55:32","modified_gmt":"2025-04-23T09:55:32","slug":"toi-1823","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1823/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1823","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410024],"exo_id":"TOI-1823","st_optmag":10.728,"st_vj":10.728,"st_dist":71.6456,"st_j":10.728,"st_mass":0.8414,"dec":63.753261,"st_teff":4927,"st_rad":0.8049,"ra":196.2197201,"system_radius":31714748.44,"pl_hostname":"TOI-1823","stellar_type":"K","tic_id":"TIC 142381532","magnitude":10.728},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409947","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410024"}]}}
+{
+  "id": 409947,
+  "date": "2024-07-25T22:04:31",
+  "date_gmt": "2024-07-26T02:04:31",
+  "modified": "2025-04-23T05:55:32",
+  "modified_gmt": "2025-04-23T09:55:32",
+  "slug": "toi-1823",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1823/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1823",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410024
+    ],
+    "exo_id": "TOI-1823",
+    "st_optmag": 10.728,
+    "st_vj": 10.728,
+    "st_dist": 71.6456,
+    "st_j": 10.728,
+    "st_mass": 0.8414,
+    "dec": 63.753261,
+    "st_teff": 4927,
+    "st_rad": 0.8049,
+    "ra": 196.2197201,
+    "system_radius": 31714748.44,
+    "pl_hostname": "TOI-1823",
+    "stellar_type": "K",
+    "tic_id": "TIC 142381532",
+    "magnitude": 10.728
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409947",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410024"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243706,"date":"2022-09-17T08:32:20","date_gmt":"2022-09-17T12:32:20","modified":"2024-10-24T17:11:02","modified_gmt":"2024-10-24T21:11:02","slug":"gj-896-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-896-a-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_896_A","pl_letter":"b","display_name":"GJ 896 A b","planet_radius":"1.19 x Jupiter (estimate)","derived_description":"GJ 896 A b is a gas giant exoplanet that orbits a M-type star. Its mass is 2.26 Jupiters, it takes 284.4 days to complete one orbit of its star, and is 0.63965 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Astrometry","pl_facility":"Very Long Baseline Array","st_dist":6.26022,"planet_mass":"2.26 Jupiters","st_optmag":10.05,"discovery_date":"2022","pl_orbsmax":0.63965,"period_display":"284.4 days","eccentricity":"0.35","star_id":261944,"pl_orbper":284.39,"pl_kepflag":false,"pl_radj":1.19,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":353.11,"multiple_planet_system":false,"pl_rade":13.3,"exo_id":"GJ_896_A_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.35},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243706","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261944"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243706,
+  "date": "2022-09-17T08:32:20",
+  "date_gmt": "2022-09-17T12:32:20",
+  "modified": "2024-10-24T17:11:02",
+  "modified_gmt": "2024-10-24T21:11:02",
+  "slug": "gj-896-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-896-a-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_896_A",
+    "pl_letter": "b",
+    "display_name": "GJ 896 A b",
+    "planet_radius": "1.19 x Jupiter (estimate)",
+    "derived_description": "GJ 896 A b is a gas giant exoplanet that orbits a M-type star. Its mass is 2.26 Jupiters, it takes 284.4 days to complete one orbit of its star, and is 0.63965 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Astrometry",
+    "pl_facility": "Very Long Baseline Array",
+    "st_dist": 6.26022,
+    "planet_mass": "2.26 Jupiters",
+    "st_optmag": 10.05,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.63965,
+    "period_display": "284.4 days",
+    "eccentricity": "0.35",
+    "star_id": 261944,
+    "pl_orbper": 284.39,
+    "pl_kepflag": false,
+    "pl_radj": 1.19,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 353.11,
+    "multiple_planet_system": false,
+    "pl_rade": 13.3,
+    "exo_id": "GJ_896_A_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.35
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243706",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261944"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

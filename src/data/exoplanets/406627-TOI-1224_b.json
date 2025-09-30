@@ -1,1 +1,79 @@
-{"id":406627,"date":"2024-07-15T22:33:29","date_gmt":"2024-07-16T02:33:29","modified":"2025-07-07T20:38:32","modified_gmt":"2025-07-08T00:38:32","slug":"toi-1224-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1224-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1224","pl_letter":"b","display_name":"TOI-1224 b","planet_radius":"2.104 x Earth","derived_description":"TOI-1224 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 5.08 Earths, it takes 4.2 days to complete one orbit of its star, and is 0.0355 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":37.3312,"planet_mass":"5.08 Earths","st_optmag":13.95,"discovery_date":"2024","pl_orbsmax":0.0355,"period_display":"4.2 days","eccentricity":"","star_id":406608,"pl_orbper":4.1782745,"pl_kepflag":false,"pl_radj":0.18770663,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.104,"exo_id":"TOI-1224_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/406627","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/406608"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 406627,
+  "date": "2024-07-15T22:33:29",
+  "date_gmt": "2024-07-16T02:33:29",
+  "modified": "2025-07-07T20:38:32",
+  "modified_gmt": "2025-07-08T00:38:32",
+  "slug": "toi-1224-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1224-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1224",
+    "pl_letter": "b",
+    "display_name": "TOI-1224 b",
+    "planet_radius": "2.104 x Earth",
+    "derived_description": "TOI-1224 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 5.08 Earths, it takes 4.2 days to complete one orbit of its star, and is 0.0355 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 37.3312,
+    "planet_mass": "5.08 Earths",
+    "st_optmag": 13.95,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0355,
+    "period_display": "4.2 days",
+    "eccentricity": "",
+    "star_id": 406608,
+    "pl_orbper": 4.1782745,
+    "pl_kepflag": false,
+    "pl_radj": 0.18770663,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.104,
+    "exo_id": "TOI-1224_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/406627",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406608"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

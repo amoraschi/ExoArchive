@@ -1,1 +1,81 @@
-{"id":406603,"date":"2024-07-15T21:47:27","date_gmt":"2024-07-16T01:47:27","modified":"2025-04-23T05:53:50","modified_gmt":"2025-04-23T09:53:50","slug":"hd-42813","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-42813/","featured_media":0,"categories":[],"acf":{"display_name":"HD 42813","custom_star_title":"","aliases":"","constellation":"Lepus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":406617,"1":244645,"2":244646},"exo_id":"HD_42813","st_optmag":9.49,"st_vj":9.49,"st_dist":68.192,"st_j":9.49,"st_mass":0.901,"dec":-14.6493167,"st_teff":5289,"st_rad":0.98,"ra":93.0578446,"system_radius":16605363.57,"pl_hostname":"HD_42813","stellar_type":"K","tic_id":"TIC 33692729","magnitude":9.49},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/406603","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/406617"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244646"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244645"}]}}
+{
+  "id": 406603,
+  "date": "2024-07-15T21:47:27",
+  "date_gmt": "2024-07-16T01:47:27",
+  "modified": "2025-04-23T05:53:50",
+  "modified_gmt": "2025-04-23T09:53:50",
+  "slug": "hd-42813",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-42813/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 42813",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lepus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 406617,
+      "1": 244645,
+      "2": 244646
+    },
+    "exo_id": "HD_42813",
+    "st_optmag": 9.49,
+    "st_vj": 9.49,
+    "st_dist": 68.192,
+    "st_j": 9.49,
+    "st_mass": 0.901,
+    "dec": -14.6493167,
+    "st_teff": 5289,
+    "st_rad": 0.98,
+    "ra": 93.0578446,
+    "system_radius": 16605363.57,
+    "pl_hostname": "HD_42813",
+    "stellar_type": "K",
+    "tic_id": "TIC 33692729",
+    "magnitude": 9.49
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406603",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/406617"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244646"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244645"
+      }
+    ]
+  }
+}

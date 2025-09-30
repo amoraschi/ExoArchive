@@ -1,1 +1,79 @@
-{"id":429662,"date":"2024-10-18T01:42:11","date_gmt":"2024-10-18T05:42:11","modified":"2025-06-25T12:06:06","modified_gmt":"2025-06-25T16:06:06","slug":"kepler-1489-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1489-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1489","pl_letter":"c","display_name":"Kepler-1489 c","planet_radius":"0.51 x Earth","derived_description":"Kepler-1489 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.087 Earths, it takes 0.7 days to complete one orbit of its star, and is 0.015027529951525 AU from its star. Its discovery was announced in 2024.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1283.05,"planet_mass":"0.087 Earths","st_optmag":14.983,"discovery_date":"2024","pl_orbsmax":"","period_display":"0.7 days","eccentricity":"","star_id":261386,"pl_orbper":0.680741,"pl_kepflag":true,"pl_radj":0.04549923,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.51,"exo_id":"Kepler-1489_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/429662","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261386"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 429662,
+  "date": "2024-10-18T01:42:11",
+  "date_gmt": "2024-10-18T05:42:11",
+  "modified": "2025-06-25T12:06:06",
+  "modified_gmt": "2025-06-25T16:06:06",
+  "slug": "kepler-1489-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1489-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1489",
+    "pl_letter": "c",
+    "display_name": "Kepler-1489 c",
+    "planet_radius": "0.51 x Earth",
+    "derived_description": "Kepler-1489 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.087 Earths, it takes 0.7 days to complete one orbit of its star, and is 0.015027529951525 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1283.05,
+    "planet_mass": "0.087 Earths",
+    "st_optmag": 14.983,
+    "discovery_date": "2024",
+    "pl_orbsmax": "",
+    "period_display": "0.7 days",
+    "eccentricity": "",
+    "star_id": 261386,
+    "pl_orbper": 0.680741,
+    "pl_kepflag": true,
+    "pl_radj": 0.04549923,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.51,
+    "exo_id": "Kepler-1489_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/429662",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261386"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248937,"date":"2017-10-02T13:32:46","date_gmt":"2017-10-02T17:32:46","modified":"2025-07-07T20:33:04","modified_gmt":"2025-07-08T00:33:04","slug":"xo-1-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/xo-1-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"XO-1","pl_letter":"b","display_name":"XO-1 b","planet_radius":"1.14 x Jupiter","derived_description":"XO-1 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.83 Jupiters, it takes 3.9 days to complete one orbit of its star, and is 0.0488 AU from its star. Its discovery was announced in 2006.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"XO","st_dist":163.553,"planet_mass":"0.83 Jupiters","st_optmag":11.251,"discovery_date":"2006","pl_orbsmax":0.0488,"period_display":"3.9 days","eccentricity":"0.0","star_id":260582,"pl_orbper":3.94153,"pl_kepflag":false,"pl_radj":1.14,"pl_disc":2006,"pl_publ_date":"2006","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.77826,"exo_id":"XO-1_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248937","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260582"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248937,
+  "date": "2017-10-02T13:32:46",
+  "date_gmt": "2017-10-02T17:32:46",
+  "modified": "2025-07-07T20:33:04",
+  "modified_gmt": "2025-07-08T00:33:04",
+  "slug": "xo-1-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/xo-1-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "XO-1",
+    "pl_letter": "b",
+    "display_name": "XO-1 b",
+    "planet_radius": "1.14 x Jupiter",
+    "derived_description": "XO-1 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.83 Jupiters, it takes 3.9 days to complete one orbit of its star, and is 0.0488 AU from its star. Its discovery was announced in 2006.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "XO",
+    "st_dist": 163.553,
+    "planet_mass": "0.83 Jupiters",
+    "st_optmag": 11.251,
+    "discovery_date": "2006",
+    "pl_orbsmax": 0.0488,
+    "period_display": "3.9 days",
+    "eccentricity": "0.0",
+    "star_id": 260582,
+    "pl_orbper": 3.94153,
+    "pl_kepflag": false,
+    "pl_radj": 1.14,
+    "pl_disc": 2006,
+    "pl_publ_date": "2006",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.77826,
+    "exo_id": "XO-1_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248937",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260582"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

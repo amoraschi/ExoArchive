@@ -1,1 +1,69 @@
-{"id":391227,"date":"2024-04-30T20:01:20","date_gmt":"2024-05-01T00:01:20","modified":"2025-04-23T05:57:30","modified_gmt":"2025-04-23T09:57:30","slug":"hd-207129","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-207129/","featured_media":429648,"categories":[],"acf":{"display_name":"HD 207129","custom_star_title":"","aliases":"HR 8323,GJ 838","constellation":"Grus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_207129","st_optmag":5.575,"st_vj":5.575,"st_dist":15.5589,"st_j":5.575,"st_mass":1.08,"dec":-47.3036161,"st_teff":5935,"st_rad":1.039,"ra":327.0656298,"system_radius":149597870,"pl_hostname":"HD_207129","stellar_type":"G","tic_id":"TIC 147407292","magnitude":5.6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391227","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391227,
+  "date": "2024-04-30T20:01:20",
+  "date_gmt": "2024-05-01T00:01:20",
+  "modified": "2025-04-23T05:57:30",
+  "modified_gmt": "2025-04-23T09:57:30",
+  "slug": "hd-207129",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-207129/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 207129",
+    "custom_star_title": "",
+    "aliases": "HR 8323,GJ 838",
+    "constellation": "Grus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_207129",
+    "st_optmag": 5.575,
+    "st_vj": 5.575,
+    "st_dist": 15.5589,
+    "st_j": 5.575,
+    "st_mass": 1.08,
+    "dec": -47.3036161,
+    "st_teff": 5935,
+    "st_rad": 1.039,
+    "ra": 327.0656298,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_207129",
+    "stellar_type": "G",
+    "tic_id": "TIC 147407292",
+    "magnitude": 5.6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391227",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

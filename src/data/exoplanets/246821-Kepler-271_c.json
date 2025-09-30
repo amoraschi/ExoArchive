@@ -1,1 +1,79 @@
-{"id":246821,"date":"2017-10-02T13:32:51","date_gmt":"2017-10-02T17:32:51","modified":"2025-07-07T17:22:01","modified_gmt":"2025-07-07T21:22:01","slug":"kepler-271-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-271-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-271","pl_letter":"c","display_name":"Kepler-271 c","planet_radius":"0.95 x Earth","derived_description":"Kepler-271 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.809 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.06993 AU from its star. Its discovery was announced in 2014.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":404.542,"planet_mass":"0.809 Earths","st_optmag":13.578,"discovery_date":"2014","pl_orbsmax":0.06993,"period_display":"7.4 days","eccentricity":"0.0","star_id":261612,"pl_orbper":7.41086267,"pl_kepflag":true,"pl_radj":0.08475332,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.95,"exo_id":"Kepler-271_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246821","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261612"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 246821,
+  "date": "2017-10-02T13:32:51",
+  "date_gmt": "2017-10-02T17:32:51",
+  "modified": "2025-07-07T17:22:01",
+  "modified_gmt": "2025-07-07T21:22:01",
+  "slug": "kepler-271-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-271-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-271",
+    "pl_letter": "c",
+    "display_name": "Kepler-271 c",
+    "planet_radius": "0.95 x Earth",
+    "derived_description": "Kepler-271 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.809 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.06993 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 404.542,
+    "planet_mass": "0.809 Earths",
+    "st_optmag": 13.578,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.06993,
+    "period_display": "7.4 days",
+    "eccentricity": "0.0",
+    "star_id": 261612,
+    "pl_orbper": 7.41086267,
+    "pl_kepflag": true,
+    "pl_radj": 0.08475332,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.95,
+    "exo_id": "Kepler-271_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246821",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261612"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":260521,"date":"2023-11-28T20:26:50","date_gmt":"2023-11-29T01:26:50","modified":"2025-04-23T05:53:23","modified_gmt":"2025-04-23T09:53:23","slug":"hd_156098","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_156098/","featured_media":0,"categories":[],"acf":{"display_name":"HD 156098","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244085,244086],"exo_id":"HD_156098","st_optmag":5.53,"st_vj":5.53,"st_dist":48.249,"st_j":5.53,"st_mass":1.29,"dec":-32.6630768,"st_teff":6419.19,"st_rad":2.75716,"ra":259.264687,"system_radius":1258866076.05,"pl_hostname":"HD_156098","stellar_type":"F","tic_id":"TIC 152449405","magnitude":5.53},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260521","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244086"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244085"}]}}
+{
+  "id": 260521,
+  "date": "2023-11-28T20:26:50",
+  "date_gmt": "2023-11-29T01:26:50",
+  "modified": "2025-04-23T05:53:23",
+  "modified_gmt": "2025-04-23T09:53:23",
+  "slug": "hd_156098",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_156098/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 156098",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244085,
+      244086
+    ],
+    "exo_id": "HD_156098",
+    "st_optmag": 5.53,
+    "st_vj": 5.53,
+    "st_dist": 48.249,
+    "st_j": 5.53,
+    "st_mass": 1.29,
+    "dec": -32.6630768,
+    "st_teff": 6419.19,
+    "st_rad": 2.75716,
+    "ra": 259.264687,
+    "system_radius": 1258866076.05,
+    "pl_hostname": "HD_156098",
+    "stellar_type": "F",
+    "tic_id": "TIC 152449405",
+    "magnitude": 5.53
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260521",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244086"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244085"
+      }
+    ]
+  }
+}

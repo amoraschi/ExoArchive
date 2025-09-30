@@ -1,1 +1,79 @@
-{"id":247349,"date":"2017-10-02T13:33:00","date_gmt":"2017-10-02T17:33:00","modified":"2025-03-28T07:30:54","modified_gmt":"2025-03-28T11:30:54","slug":"kepler-525-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-525-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-525","pl_letter":"b","display_name":"Kepler-525 b","planet_radius":"0.23463288 x Jupiter","derived_description":"Kepler-525 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.41 Earths, it takes 18.7 days to complete one orbit of its star, and is 0.14386 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":992.852,"planet_mass":"7.41 Earths","st_optmag":13.613,"discovery_date":"2016","pl_orbsmax":0.14386,"period_display":"18.7 days","eccentricity":"0.0","star_id":261715,"pl_orbper":18.68404933,"pl_kepflag":true,"pl_radj":0.23463288,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.63,"exo_id":"Kepler-525_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247349","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261715"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247349,
+  "date": "2017-10-02T13:33:00",
+  "date_gmt": "2017-10-02T17:33:00",
+  "modified": "2025-03-28T07:30:54",
+  "modified_gmt": "2025-03-28T11:30:54",
+  "slug": "kepler-525-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-525-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-525",
+    "pl_letter": "b",
+    "display_name": "Kepler-525 b",
+    "planet_radius": "0.23463288 x Jupiter",
+    "derived_description": "Kepler-525 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.41 Earths, it takes 18.7 days to complete one orbit of its star, and is 0.14386 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 992.852,
+    "planet_mass": "7.41 Earths",
+    "st_optmag": 13.613,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.14386,
+    "period_display": "18.7 days",
+    "eccentricity": "0.0",
+    "star_id": 261715,
+    "pl_orbper": 18.68404933,
+    "pl_kepflag": true,
+    "pl_radj": 0.23463288,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.63,
+    "exo_id": "Kepler-525_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247349",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261715"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262663,"date":"2023-11-28T20:53:50","date_gmt":"2023-11-29T01:53:50","modified":"2025-04-23T05:56:28","modified_gmt":"2025-04-23T09:56:28","slug":"toi-262","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-262/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-262","custom_star_title":"","aliases":"","constellation":"Fornax","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248570],"exo_id":"TOI-262","st_optmag":8.91,"st_vj":8.91,"st_dist":43.932,"st_j":8.91,"st_mass":0.913,"dec":-31.0706272,"st_teff":5310,"st_rad":0.853,"ra":32.534687,"system_radius":24384452.81,"pl_hostname":"TOI-262","stellar_type":"G","tic_id":"TIC 70513361","magnitude":8.91},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262663","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248570"}]}}
+{
+  "id": 262663,
+  "date": "2023-11-28T20:53:50",
+  "date_gmt": "2023-11-29T01:53:50",
+  "modified": "2025-04-23T05:56:28",
+  "modified_gmt": "2025-04-23T09:56:28",
+  "slug": "toi-262",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-262/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-262",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Fornax",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248570
+    ],
+    "exo_id": "TOI-262",
+    "st_optmag": 8.91,
+    "st_vj": 8.91,
+    "st_dist": 43.932,
+    "st_j": 8.91,
+    "st_mass": 0.913,
+    "dec": -31.0706272,
+    "st_teff": 5310,
+    "st_rad": 0.853,
+    "ra": 32.534687,
+    "system_radius": 24384452.81,
+    "pl_hostname": "TOI-262",
+    "stellar_type": "G",
+    "tic_id": "TIC 70513361",
+    "magnitude": 8.91
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262663",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248570"
+      }
+    ]
+  }
+}

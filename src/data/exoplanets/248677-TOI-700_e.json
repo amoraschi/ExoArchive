@@ -1,1 +1,79 @@
-{"id":248677,"date":"2023-01-20T19:15:24","date_gmt":"2023-01-21T00:15:24","modified":"2025-07-07T17:23:10","modified_gmt":"2025-07-07T21:23:10","slug":"toi-700-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-700-e/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-700","pl_letter":"e","display_name":"TOI-700 e","planet_radius":"0.953 x Earth","derived_description":"TOI-700 e is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.818 Earths, it takes 27.8 days to complete one orbit of its star, and is 0.134 AU from its star. Its discovery was announced in 2023.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":31.1265,"planet_mass":"0.818 Earths","st_optmag":13.151,"discovery_date":"2023","pl_orbsmax":0.134,"period_display":"27.8 days","eccentricity":"0.06","star_id":262697,"pl_orbper":27.80978,"pl_kepflag":false,"pl_radj":0.08502111,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":70,"multiple_planet_system":false,"pl_rade":0.953,"exo_id":"TOI-700_e","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.059},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248677","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262697"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 248677,
+  "date": "2023-01-20T19:15:24",
+  "date_gmt": "2023-01-21T00:15:24",
+  "modified": "2025-07-07T17:23:10",
+  "modified_gmt": "2025-07-07T21:23:10",
+  "slug": "toi-700-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-700-e/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-700",
+    "pl_letter": "e",
+    "display_name": "TOI-700 e",
+    "planet_radius": "0.953 x Earth",
+    "derived_description": "TOI-700 e is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.818 Earths, it takes 27.8 days to complete one orbit of its star, and is 0.134 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 31.1265,
+    "planet_mass": "0.818 Earths",
+    "st_optmag": 13.151,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.134,
+    "period_display": "27.8 days",
+    "eccentricity": "0.06",
+    "star_id": 262697,
+    "pl_orbper": 27.80978,
+    "pl_kepflag": false,
+    "pl_radj": 0.08502111,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 70,
+    "multiple_planet_system": false,
+    "pl_rade": 0.953,
+    "exo_id": "TOI-700_e",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.059
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248677",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262697"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

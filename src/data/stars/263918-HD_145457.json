@@ -1,1 +1,71 @@
-{"id":263918,"date":"2023-11-28T21:09:53","date_gmt":"2023-11-29T02:09:53","modified":"2025-04-23T05:57:12","modified_gmt":"2025-04-23T09:57:12","slug":"hd_145457","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_145457/","featured_media":0,"categories":[],"acf":{"display_name":"HD 145457","custom_star_title":"","aliases":"","constellation":"Corona Borealis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244041],"exo_id":"HD_145457","st_optmag":6.57226,"st_vj":6.57226,"st_dist":135.292,"st_j":6.57226,"st_mass":1.9,"dec":26.7429068,"st_teff":4757,"st_rad":9.9,"ra":242.5162215,"system_radius":113993576.94,"pl_hostname":"HD_145457","stellar_type":"K","tic_id":"TIC 236339228","magnitude":6.57226},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263918","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244041"}]}}
+{
+  "id": 263918,
+  "date": "2023-11-28T21:09:53",
+  "date_gmt": "2023-11-29T02:09:53",
+  "modified": "2025-04-23T05:57:12",
+  "modified_gmt": "2025-04-23T09:57:12",
+  "slug": "hd_145457",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_145457/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 145457",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Corona Borealis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244041
+    ],
+    "exo_id": "HD_145457",
+    "st_optmag": 6.57226,
+    "st_vj": 6.57226,
+    "st_dist": 135.292,
+    "st_j": 6.57226,
+    "st_mass": 1.9,
+    "dec": 26.7429068,
+    "st_teff": 4757,
+    "st_rad": 9.9,
+    "ra": 242.5162215,
+    "system_radius": 113993576.94,
+    "pl_hostname": "HD_145457",
+    "stellar_type": "K",
+    "tic_id": "TIC 236339228",
+    "magnitude": 6.57226
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263918",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244041"
+      }
+    ]
+  }
+}

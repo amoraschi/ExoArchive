@@ -1,1 +1,71 @@
-{"id":262380,"date":"2023-11-28T20:50:15","date_gmt":"2023-11-29T01:50:15","modified":"2025-04-23T05:56:09","modified_gmt":"2025-04-23T09:56:09","slug":"toi-858_b","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-858_b/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-858 B","custom_star_title":"","aliases":"","constellation":"Reticulum","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248696],"exo_id":"TOI-858_B","st_optmag":11.183,"st_vj":11.183,"st_dist":250.489,"st_j":11.183,"st_mass":1.081,"dec":-54.5929177,"st_teff":5842,"st_rad":1.308,"ra":60.1998256,"system_radius":6634665.5345,"pl_hostname":"TOI-858_B","stellar_type":"G","tic_id":"TIC 198008005","magnitude":11.183},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262380","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248696"}]}}
+{
+  "id": 262380,
+  "date": "2023-11-28T20:50:15",
+  "date_gmt": "2023-11-29T01:50:15",
+  "modified": "2025-04-23T05:56:09",
+  "modified_gmt": "2025-04-23T09:56:09",
+  "slug": "toi-858_b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-858_b/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-858 B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Reticulum",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248696
+    ],
+    "exo_id": "TOI-858_B",
+    "st_optmag": 11.183,
+    "st_vj": 11.183,
+    "st_dist": 250.489,
+    "st_j": 11.183,
+    "st_mass": 1.081,
+    "dec": -54.5929177,
+    "st_teff": 5842,
+    "st_rad": 1.308,
+    "ra": 60.1998256,
+    "system_radius": 6634665.5345,
+    "pl_hostname": "TOI-858_B",
+    "stellar_type": "G",
+    "tic_id": "TIC 198008005",
+    "magnitude": 11.183
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262380",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248696"
+      }
+    ]
+  }
+}

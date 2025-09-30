@@ -1,1 +1,79 @@
-{"id":243676,"date":"2019-04-22T16:49:23","date_gmt":"2019-04-22T20:49:23","modified":"2024-10-24T22:59:28","modified_gmt":"2024-10-25T02:59:28","slug":"gj-625-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-625-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_625","pl_letter":"b","display_name":"GJ 625 b","planet_radius":"1.49 x Earth (estimate)","derived_description":"GJ 625 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.82 Earths, it takes 14.6 days to complete one orbit of its star, and is 0.078361 AU from its star. Its discovery was announced in 2017.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":6.47249,"planet_mass":"2.82 Earths","st_optmag":10.066,"discovery_date":"2017","pl_orbsmax":0.078361,"period_display":"14.6 days","eccentricity":"0.13","star_id":261987,"pl_orbper":14.628,"pl_kepflag":false,"pl_radj":0.133,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":343.1,"multiple_planet_system":false,"pl_rade":1.49,"exo_id":"GJ_625_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.13},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243676","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261987"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 243676,
+  "date": "2019-04-22T16:49:23",
+  "date_gmt": "2019-04-22T20:49:23",
+  "modified": "2024-10-24T22:59:28",
+  "modified_gmt": "2024-10-25T02:59:28",
+  "slug": "gj-625-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-625-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_625",
+    "pl_letter": "b",
+    "display_name": "GJ 625 b",
+    "planet_radius": "1.49 x Earth (estimate)",
+    "derived_description": "GJ 625 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.82 Earths, it takes 14.6 days to complete one orbit of its star, and is 0.078361 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 6.47249,
+    "planet_mass": "2.82 Earths",
+    "st_optmag": 10.066,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.078361,
+    "period_display": "14.6 days",
+    "eccentricity": "0.13",
+    "star_id": 261987,
+    "pl_orbper": 14.628,
+    "pl_kepflag": false,
+    "pl_radj": 0.133,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": 343.1,
+    "multiple_planet_system": false,
+    "pl_rade": 1.49,
+    "exo_id": "GJ_625_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.13
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243676",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261987"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

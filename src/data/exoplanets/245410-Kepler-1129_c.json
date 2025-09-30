@@ -1,1 +1,79 @@
-{"id":245410,"date":"2017-10-02T13:32:42","date_gmt":"2017-10-02T17:32:42","modified":"2025-06-25T12:06:31","modified_gmt":"2025-06-25T16:06:31","slug":"kepler-1129-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1129-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1129","pl_letter":"c","display_name":"Kepler-1129 c","planet_radius":"0.24355429 x Jupiter","derived_description":"Kepler-1129 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.9 Earths, it takes 76.5 days to complete one orbit of its star, and is 0.35367 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1183.88,"planet_mass":"7.9 Earths","st_optmag":15.661,"discovery_date":"2016","pl_orbsmax":0.35367,"period_display":"76.5 days","eccentricity":"0.0","star_id":262058,"pl_orbper":76.5369586,"pl_kepflag":true,"pl_radj":0.24355429,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.73,"exo_id":"Kepler-1129_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245410","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262058"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245410,
+  "date": "2017-10-02T13:32:42",
+  "date_gmt": "2017-10-02T17:32:42",
+  "modified": "2025-06-25T12:06:31",
+  "modified_gmt": "2025-06-25T16:06:31",
+  "slug": "kepler-1129-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1129-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1129",
+    "pl_letter": "c",
+    "display_name": "Kepler-1129 c",
+    "planet_radius": "0.24355429 x Jupiter",
+    "derived_description": "Kepler-1129 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.9 Earths, it takes 76.5 days to complete one orbit of its star, and is 0.35367 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1183.88,
+    "planet_mass": "7.9 Earths",
+    "st_optmag": 15.661,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.35367,
+    "period_display": "76.5 days",
+    "eccentricity": "0.0",
+    "star_id": 262058,
+    "pl_orbper": 76.5369586,
+    "pl_kepflag": true,
+    "pl_radj": 0.24355429,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.73,
+    "exo_id": "Kepler-1129_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245410",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262058"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

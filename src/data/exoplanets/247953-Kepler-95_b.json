@@ -1,1 +1,79 @@
-{"id":247953,"date":"2016-03-16T19:26:20","date_gmt":"2016-03-16T23:26:20","modified":"2024-12-07T02:20:25","modified_gmt":"2024-12-07T07:20:25","slug":"kepler-95-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-95-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-95","pl_letter":"b","display_name":"Kepler-95 b","planet_radius":"0.305 x Jupiter","derived_description":"Kepler-95 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 11.5 days to complete one orbit of its star, and is 0.10232 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":445.656,"planet_mass":"13 Earths","st_optmag":12.382,"discovery_date":"2014","pl_orbsmax":0.10232,"period_display":"11.5 days","eccentricity":"0.0","star_id":262951,"pl_orbper":11.5231,"pl_kepflag":true,"pl_radj":0.305,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.42,"exo_id":"Kepler-95_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247953","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262951"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247953,
+  "date": "2016-03-16T19:26:20",
+  "date_gmt": "2016-03-16T23:26:20",
+  "modified": "2024-12-07T02:20:25",
+  "modified_gmt": "2024-12-07T07:20:25",
+  "slug": "kepler-95-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-95-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-95",
+    "pl_letter": "b",
+    "display_name": "Kepler-95 b",
+    "planet_radius": "0.305 x Jupiter",
+    "derived_description": "Kepler-95 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 11.5 days to complete one orbit of its star, and is 0.10232 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 445.656,
+    "planet_mass": "13 Earths",
+    "st_optmag": 12.382,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.10232,
+    "period_display": "11.5 days",
+    "eccentricity": "0.0",
+    "star_id": 262951,
+    "pl_orbper": 11.5231,
+    "pl_kepflag": true,
+    "pl_radj": 0.305,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.42,
+    "exo_id": "Kepler-95_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247953",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262951"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

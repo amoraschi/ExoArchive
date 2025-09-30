@@ -1,1 +1,81 @@
-{"id":264286,"date":"2023-11-28T21:14:36","date_gmt":"2023-11-29T02:14:36","modified":"2025-06-13T07:33:44","modified_gmt":"2025-06-13T11:33:44","slug":"kepler-196","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-196/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-196","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246559,"1":246557,"2":246558},"exo_id":"Kepler-196","st_optmag":14.239,"st_vj":14.239,"st_dist":451.312,"st_j":14.239,"st_mass":0.839,"dec":42.0791214,"st_teff":5128,"st_rad":0.782,"ra":284.9685077,"system_radius":67992231.915,"pl_hostname":"Kepler-196","stellar_type":"K","tic_id":"TIC 164828012","magnitude":14.239},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264286","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246559"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246558"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246557"}]}}
+{
+  "id": 264286,
+  "date": "2023-11-28T21:14:36",
+  "date_gmt": "2023-11-29T02:14:36",
+  "modified": "2025-06-13T07:33:44",
+  "modified_gmt": "2025-06-13T11:33:44",
+  "slug": "kepler-196",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-196/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-196",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246559,
+      "1": 246557,
+      "2": 246558
+    },
+    "exo_id": "Kepler-196",
+    "st_optmag": 14.239,
+    "st_vj": 14.239,
+    "st_dist": 451.312,
+    "st_j": 14.239,
+    "st_mass": 0.839,
+    "dec": 42.0791214,
+    "st_teff": 5128,
+    "st_rad": 0.782,
+    "ra": 284.9685077,
+    "system_radius": 67992231.915,
+    "pl_hostname": "Kepler-196",
+    "stellar_type": "K",
+    "tic_id": "TIC 164828012",
+    "magnitude": 14.239
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264286",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246559"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246558"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246557"
+      }
+    ]
+  }
+}

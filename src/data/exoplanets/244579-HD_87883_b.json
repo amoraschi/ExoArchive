@@ -1,1 +1,79 @@
-{"id":244579,"date":"2019-04-22T16:48:40","date_gmt":"2019-04-22T20:48:40","modified":"2025-09-25T23:55:34","modified_gmt":"2025-09-26T03:55:34","slug":"hd-87883-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-87883-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_87883","pl_letter":"b","display_name":"HD 87883 b","planet_radius":"1.14 x Jupiter (estimate)","derived_description":"HD 87883 b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.31 Jupiters, it takes 8.2 years to complete one orbit of its star, and is 3.77 AU from its star. Its discovery was announced in 2009.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Lick Observatory","st_dist":18.2912,"planet_mass":"6.31 Jupiters","st_optmag":7.56,"discovery_date":"2009","pl_orbsmax":3.77,"period_display":"8.2 years","eccentricity":"0.72","star_id":262520,"pl_orbper":3006,"pl_kepflag":false,"pl_radj":1.14,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":282.1,"multiple_planet_system":false,"pl_rade":12.7,"exo_id":"HD_87883_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.72},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244579","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262520"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244579,
+  "date": "2019-04-22T16:48:40",
+  "date_gmt": "2019-04-22T20:48:40",
+  "modified": "2025-09-25T23:55:34",
+  "modified_gmt": "2025-09-26T03:55:34",
+  "slug": "hd-87883-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-87883-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_87883",
+    "pl_letter": "b",
+    "display_name": "HD 87883 b",
+    "planet_radius": "1.14 x Jupiter (estimate)",
+    "derived_description": "HD 87883 b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.31 Jupiters, it takes 8.2 years to complete one orbit of its star, and is 3.77 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Lick Observatory",
+    "st_dist": 18.2912,
+    "planet_mass": "6.31 Jupiters",
+    "st_optmag": 7.56,
+    "discovery_date": "2009",
+    "pl_orbsmax": 3.77,
+    "period_display": "8.2 years",
+    "eccentricity": "0.72",
+    "star_id": 262520,
+    "pl_orbper": 3006,
+    "pl_kepflag": false,
+    "pl_radj": 1.14,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 282.1,
+    "multiple_planet_system": false,
+    "pl_rade": 12.7,
+    "exo_id": "HD_87883_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.72
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244579",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262520"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

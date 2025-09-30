@@ -1,1 +1,76 @@
-{"id":263317,"date":"2023-11-28T21:02:08","date_gmt":"2023-11-29T02:02:08","modified":"2025-04-23T05:56:56","modified_gmt":"2025-04-23T09:56:56","slug":"hd_20003","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_20003/","featured_media":0,"categories":[],"acf":{"display_name":"HD 20003","custom_star_title":"","aliases":"","constellation":"Hydrus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244220,244221],"exo_id":"HD_20003","st_optmag":8.39,"st_vj":8.39,"st_dist":41.8316,"st_j":8.39,"st_mass":0.875,"dec":-72.3219221,"st_teff":5494,"st_rad":0.921637,"ra":46.9090081,"system_radius":29381021.668,"pl_hostname":"HD_20003","stellar_type":"G","tic_id":"TIC 370137704","magnitude":8.39},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263317","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244221"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244220"}]}}
+{
+  "id": 263317,
+  "date": "2023-11-28T21:02:08",
+  "date_gmt": "2023-11-29T02:02:08",
+  "modified": "2025-04-23T05:56:56",
+  "modified_gmt": "2025-04-23T09:56:56",
+  "slug": "hd_20003",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_20003/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 20003",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244220,
+      244221
+    ],
+    "exo_id": "HD_20003",
+    "st_optmag": 8.39,
+    "st_vj": 8.39,
+    "st_dist": 41.8316,
+    "st_j": 8.39,
+    "st_mass": 0.875,
+    "dec": -72.3219221,
+    "st_teff": 5494,
+    "st_rad": 0.921637,
+    "ra": 46.9090081,
+    "system_radius": 29381021.668,
+    "pl_hostname": "HD_20003",
+    "stellar_type": "G",
+    "tic_id": "TIC 370137704",
+    "magnitude": 8.39
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263317",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244221"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244220"
+      }
+    ]
+  }
+}

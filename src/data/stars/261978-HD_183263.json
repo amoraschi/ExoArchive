@@ -1,1 +1,76 @@
-{"id":261978,"date":"2023-11-28T20:45:09","date_gmt":"2023-11-29T01:45:09","modified":"2025-06-06T07:19:42","modified_gmt":"2025-06-06T11:19:42","slug":"hd_183263","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_183263/","featured_media":0,"categories":[],"acf":{"display_name":"HD 183263","custom_star_title":"","aliases":"","constellation":"Aquila","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244175,244176],"exo_id":"HD_183263","st_optmag":7.86,"st_vj":7.86,"st_dist":54.1955,"st_j":7.86,"st_mass":1.06,"dec":8.3579183,"st_teff":5948,"st_rad":1.23,"ra":292.1022982,"system_radius":835504103.95,"pl_hostname":"HD_183263","stellar_type":"G","tic_id":"TIC 134245358","magnitude":7.86},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261978","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244176"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244175"}]}}
+{
+  "id": 261978,
+  "date": "2023-11-28T20:45:09",
+  "date_gmt": "2023-11-29T01:45:09",
+  "modified": "2025-06-06T07:19:42",
+  "modified_gmt": "2025-06-06T11:19:42",
+  "slug": "hd_183263",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_183263/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 183263",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquila",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244175,
+      244176
+    ],
+    "exo_id": "HD_183263",
+    "st_optmag": 7.86,
+    "st_vj": 7.86,
+    "st_dist": 54.1955,
+    "st_j": 7.86,
+    "st_mass": 1.06,
+    "dec": 8.3579183,
+    "st_teff": 5948,
+    "st_rad": 1.23,
+    "ra": 292.1022982,
+    "system_radius": 835504103.95,
+    "pl_hostname": "HD_183263",
+    "stellar_type": "G",
+    "tic_id": "TIC 134245358",
+    "magnitude": 7.86
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261978",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244176"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244175"
+      }
+    ]
+  }
+}

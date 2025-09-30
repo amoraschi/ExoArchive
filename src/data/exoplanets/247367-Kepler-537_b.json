@@ -1,1 +1,79 @@
-{"id":247367,"date":"2017-10-02T13:33:00","date_gmt":"2017-10-02T17:33:00","modified":"2025-07-07T17:57:54","modified_gmt":"2025-07-07T21:57:54","slug":"kepler-537-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-537-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-537","pl_letter":"b","display_name":"Kepler-537 b","planet_radius":"1.41 x Earth","derived_description":"Kepler-537 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.57 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.04317 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":439.4,"planet_mass":"2.57 Earths","st_optmag":13.173,"discovery_date":"2016","pl_orbsmax":0.04317,"period_display":"3.2 days","eccentricity":"0.0","star_id":263955,"pl_orbper":3.247555219,"pl_kepflag":true,"pl_radj":0.12579177,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.41,"exo_id":"Kepler-537_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247367","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263955"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247367,
+  "date": "2017-10-02T13:33:00",
+  "date_gmt": "2017-10-02T17:33:00",
+  "modified": "2025-07-07T17:57:54",
+  "modified_gmt": "2025-07-07T21:57:54",
+  "slug": "kepler-537-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-537-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-537",
+    "pl_letter": "b",
+    "display_name": "Kepler-537 b",
+    "planet_radius": "1.41 x Earth",
+    "derived_description": "Kepler-537 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.57 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.04317 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 439.4,
+    "planet_mass": "2.57 Earths",
+    "st_optmag": 13.173,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.04317,
+    "period_display": "3.2 days",
+    "eccentricity": "0.0",
+    "star_id": 263955,
+    "pl_orbper": 3.247555219,
+    "pl_kepflag": true,
+    "pl_radj": 0.12579177,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.41,
+    "exo_id": "Kepler-537_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247367",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263955"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

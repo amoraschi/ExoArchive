@@ -1,1 +1,79 @@
-{"id":248681,"date":"2023-06-02T16:03:06","date_gmt":"2023-06-02T20:03:06","modified":"2025-07-07T20:37:33","modified_gmt":"2025-07-08T00:37:33","slug":"toi-715-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-715-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-715","pl_letter":"b","display_name":"TOI-715 b","planet_radius":"1.55 x Earth","derived_description":"TOI-715 b is a super Earth exoplanet that orbits a M-type star. Its mass is 3.02 Earths, it takes 19.3 days to complete one orbit of its star, and is 0.083 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":42.4048,"planet_mass":"3.02 Earths","st_optmag":16.683,"discovery_date":"2023","pl_orbsmax":0.083,"period_display":"19.3 days","eccentricity":"","star_id":264518,"pl_orbper":19.288004,"pl_kepflag":false,"pl_radj":0.13828198,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.55,"exo_id":"TOI-715_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248681","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264518"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248681,
+  "date": "2023-06-02T16:03:06",
+  "date_gmt": "2023-06-02T20:03:06",
+  "modified": "2025-07-07T20:37:33",
+  "modified_gmt": "2025-07-08T00:37:33",
+  "slug": "toi-715-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-715-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-715",
+    "pl_letter": "b",
+    "display_name": "TOI-715 b",
+    "planet_radius": "1.55 x Earth",
+    "derived_description": "TOI-715 b is a super Earth exoplanet that orbits a M-type star. Its mass is 3.02 Earths, it takes 19.3 days to complete one orbit of its star, and is 0.083 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 42.4048,
+    "planet_mass": "3.02 Earths",
+    "st_optmag": 16.683,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.083,
+    "period_display": "19.3 days",
+    "eccentricity": "",
+    "star_id": 264518,
+    "pl_orbper": 19.288004,
+    "pl_kepflag": false,
+    "pl_radj": 0.13828198,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.55,
+    "exo_id": "TOI-715_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248681",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264518"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

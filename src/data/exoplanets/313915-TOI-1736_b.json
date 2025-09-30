@@ -1,1 +1,79 @@
-{"id":313915,"date":"2023-11-30T19:15:31","date_gmt":"2023-12-01T00:15:31","modified":"2025-07-07T20:38:29","modified_gmt":"2025-07-08T00:38:29","slug":"toi-1736-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1736-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1736","pl_letter":"b","display_name":"TOI-1736 b","planet_radius":"0.28385769 x Jupiter","derived_description":"TOI-1736 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 12.3 Earths, it takes 7.1 days to complete one orbit of its star, and is 0.073 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":88.9482,"planet_mass":"12.3 Earths","st_optmag":8.953,"discovery_date":"2023","pl_orbsmax":0.073,"period_display":"7.1 days","eccentricity":"0.0","star_id":313791,"pl_orbper":7.073076,"pl_kepflag":false,"pl_radj":0.28385769,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":3.18175535,"exo_id":"TOI-1736_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313915","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/313791"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 313915,
+  "date": "2023-11-30T19:15:31",
+  "date_gmt": "2023-12-01T00:15:31",
+  "modified": "2025-07-07T20:38:29",
+  "modified_gmt": "2025-07-08T00:38:29",
+  "slug": "toi-1736-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1736-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1736",
+    "pl_letter": "b",
+    "display_name": "TOI-1736 b",
+    "planet_radius": "0.28385769 x Jupiter",
+    "derived_description": "TOI-1736 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 12.3 Earths, it takes 7.1 days to complete one orbit of its star, and is 0.073 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 88.9482,
+    "planet_mass": "12.3 Earths",
+    "st_optmag": 8.953,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.073,
+    "period_display": "7.1 days",
+    "eccentricity": "0.0",
+    "star_id": 313791,
+    "pl_orbper": 7.073076,
+    "pl_kepflag": false,
+    "pl_radj": 0.28385769,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 3.18175535,
+    "exo_id": "TOI-1736_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313915",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313791"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

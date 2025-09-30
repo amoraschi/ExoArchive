@@ -1,1 +1,71 @@
-{"id":262576,"date":"2023-11-28T20:52:44","date_gmt":"2023-11-29T01:52:44","modified":"2025-04-23T05:54:10","modified_gmt":"2025-04-23T09:54:10","slug":"kepler-1029","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1029/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1029","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245264],"exo_id":"Kepler-1029","st_optmag":14.434,"st_vj":14.434,"st_dist":366.656,"st_j":14.434,"st_mass":0.82,"dec":41.5474786,"st_teff":5030,"st_rad":0.77,"ra":292.1328738,"system_radius":7031099.89,"pl_hostname":"Kepler-1029","stellar_type":"K","tic_id":"TIC 137409907","magnitude":14.434},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262576","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245264"}]}}
+{
+  "id": 262576,
+  "date": "2023-11-28T20:52:44",
+  "date_gmt": "2023-11-29T01:52:44",
+  "modified": "2025-04-23T05:54:10",
+  "modified_gmt": "2025-04-23T09:54:10",
+  "slug": "kepler-1029",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1029/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1029",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245264
+    ],
+    "exo_id": "Kepler-1029",
+    "st_optmag": 14.434,
+    "st_vj": 14.434,
+    "st_dist": 366.656,
+    "st_j": 14.434,
+    "st_mass": 0.82,
+    "dec": 41.5474786,
+    "st_teff": 5030,
+    "st_rad": 0.77,
+    "ra": 292.1328738,
+    "system_radius": 7031099.89,
+    "pl_hostname": "Kepler-1029",
+    "stellar_type": "K",
+    "tic_id": "TIC 137409907",
+    "magnitude": 14.434
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262576",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245264"
+      }
+    ]
+  }
+}

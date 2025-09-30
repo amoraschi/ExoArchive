@@ -1,1 +1,71 @@
-{"id":263184,"date":"2023-11-28T21:00:28","date_gmt":"2023-11-29T02:00:28","modified":"2025-04-23T05:56:50","modified_gmt":"2025-04-23T09:56:50","slug":"hd_6860","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_6860/","featured_media":0,"categories":[],"acf":{"display_name":"HD 6860","custom_star_title":"","aliases":"","constellation":"Andromeda","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244512],"exo_id":"HD_6860","st_optmag":2.06763,"st_vj":2.06763,"st_dist":61.12469,"st_j":2.06763,"st_mass":2.49,"dec":35.620499,"st_teff":3802,"st_rad":86.4,"ra":17.432979,"system_radius":303683676.1,"pl_hostname":"HD_6860","stellar_type":"M","tic_id":"TIC 174500619","magnitude":2.06763},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263184","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244512"}]}}
+{
+  "id": 263184,
+  "date": "2023-11-28T21:00:28",
+  "date_gmt": "2023-11-29T02:00:28",
+  "modified": "2025-04-23T05:56:50",
+  "modified_gmt": "2025-04-23T09:56:50",
+  "slug": "hd_6860",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_6860/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 6860",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244512
+    ],
+    "exo_id": "HD_6860",
+    "st_optmag": 2.06763,
+    "st_vj": 2.06763,
+    "st_dist": 61.12469,
+    "st_j": 2.06763,
+    "st_mass": 2.49,
+    "dec": 35.620499,
+    "st_teff": 3802,
+    "st_rad": 86.4,
+    "ra": 17.432979,
+    "system_radius": 303683676.1,
+    "pl_hostname": "HD_6860",
+    "stellar_type": "M",
+    "tic_id": "TIC 174500619",
+    "magnitude": 2.06763
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263184",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244512"
+      }
+    ]
+  }
+}

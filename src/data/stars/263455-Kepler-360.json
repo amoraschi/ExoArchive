@@ -1,1 +1,76 @@
-{"id":263455,"date":"2023-11-28T21:03:53","date_gmt":"2023-11-29T02:03:53","modified":"2025-04-23T05:55:30","modified_gmt":"2025-04-23T09:55:30","slug":"kepler-360","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-360/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-360","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247056,"1":247055},"exo_id":"Kepler-360","st_optmag":15.011,"st_vj":15.011,"st_dist":876.044,"st_j":15.011,"st_mass":0.994,"dec":44.7815817,"st_teff":6053,"st_rad":1.058,"ra":286.2847077,"system_radius":11219840.25,"pl_hostname":"Kepler-360","stellar_type":"F","tic_id":"TIC 158213532","magnitude":15.011},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263455","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247056"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247055"}]}}
+{
+  "id": 263455,
+  "date": "2023-11-28T21:03:53",
+  "date_gmt": "2023-11-29T02:03:53",
+  "modified": "2025-04-23T05:55:30",
+  "modified_gmt": "2025-04-23T09:55:30",
+  "slug": "kepler-360",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-360/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-360",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247056,
+      "1": 247055
+    },
+    "exo_id": "Kepler-360",
+    "st_optmag": 15.011,
+    "st_vj": 15.011,
+    "st_dist": 876.044,
+    "st_j": 15.011,
+    "st_mass": 0.994,
+    "dec": 44.7815817,
+    "st_teff": 6053,
+    "st_rad": 1.058,
+    "ra": 286.2847077,
+    "system_radius": 11219840.25,
+    "pl_hostname": "Kepler-360",
+    "stellar_type": "F",
+    "tic_id": "TIC 158213532",
+    "magnitude": 15.011
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263455",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247056"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247055"
+      }
+    ]
+  }
+}

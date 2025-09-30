@@ -1,1 +1,71 @@
-{"id":263141,"date":"2023-11-28T20:59:55","date_gmt":"2023-11-29T01:59:55","modified":"2025-04-23T05:56:16","modified_gmt":"2025-04-23T09:56:16","slug":"wasp-144","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-144/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-144","custom_star_title":"","aliases":"","constellation":"Microscopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248782],"exo_id":"WASP-144","st_optmag":13.085,"st_vj":13.085,"st_dist":355.513,"st_j":13.085,"st_mass":0.81,"dec":-40.0484393,"st_teff":5200,"st_rad":0.81,"ra":320.7628761,"system_radius":4727292.692,"pl_hostname":"WASP-144","stellar_type":"K","tic_id":"TIC 207077681","magnitude":13.085},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263141","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248782"}]}}
+{
+  "id": 263141,
+  "date": "2023-11-28T20:59:55",
+  "date_gmt": "2023-11-29T01:59:55",
+  "modified": "2025-04-23T05:56:16",
+  "modified_gmt": "2025-04-23T09:56:16",
+  "slug": "wasp-144",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-144/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-144",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Microscopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248782
+    ],
+    "exo_id": "WASP-144",
+    "st_optmag": 13.085,
+    "st_vj": 13.085,
+    "st_dist": 355.513,
+    "st_j": 13.085,
+    "st_mass": 0.81,
+    "dec": -40.0484393,
+    "st_teff": 5200,
+    "st_rad": 0.81,
+    "ra": 320.7628761,
+    "system_radius": 4727292.692,
+    "pl_hostname": "WASP-144",
+    "stellar_type": "K",
+    "tic_id": "TIC 207077681",
+    "magnitude": 13.085
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263141",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248782"
+      }
+    ]
+  }
+}

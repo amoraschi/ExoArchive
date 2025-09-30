@@ -1,1 +1,79 @@
-{"id":248193,"date":"2019-04-22T16:49:30","date_gmt":"2019-04-22T20:49:30","modified":"2024-10-24T20:23:55","modified_gmt":"2024-10-25T00:23:55","slug":"mxb-1658-298-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/mxb-1658-298-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"MXB_1658-298","pl_letter":"b","display_name":"MXB 1658-298 b","planet_radius":"1.07 x Jupiter (estimate)","derived_description":"MXB 1658-298 b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 23.7 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 1.613 AU from its star. Its discovery was announced in 2017.","planet_type":"Gas Giant","pl_discmethod":"Eclipse Timing Variations","pl_facility":"Multiple Observatories","st_dist":"","planet_mass":"23.7 Jupiters","st_optmag":"","discovery_date":"2017","pl_orbsmax":1.613,"period_display":"2.1 years","eccentricity":"","star_id":260780,"pl_orbper":760,"pl_kepflag":false,"pl_radj":1.07,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12,"exo_id":"MXB_1658-298_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248193","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260780"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248193,
+  "date": "2019-04-22T16:49:30",
+  "date_gmt": "2019-04-22T20:49:30",
+  "modified": "2024-10-24T20:23:55",
+  "modified_gmt": "2024-10-25T00:23:55",
+  "slug": "mxb-1658-298-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/mxb-1658-298-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "MXB_1658-298",
+    "pl_letter": "b",
+    "display_name": "MXB 1658-298 b",
+    "planet_radius": "1.07 x Jupiter (estimate)",
+    "derived_description": "MXB 1658-298 b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 23.7 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 1.613 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Eclipse Timing Variations",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": "",
+    "planet_mass": "23.7 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2017",
+    "pl_orbsmax": 1.613,
+    "period_display": "2.1 years",
+    "eccentricity": "",
+    "star_id": 260780,
+    "pl_orbper": 760,
+    "pl_kepflag": false,
+    "pl_radj": 1.07,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12,
+    "exo_id": "MXB_1658-298_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248193",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260780"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

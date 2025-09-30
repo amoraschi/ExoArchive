@@ -1,1 +1,71 @@
-{"id":391144,"date":"2024-04-30T20:00:12","date_gmt":"2024-05-01T00:00:12","modified":"2025-05-09T06:26:30","modified_gmt":"2025-05-09T10:26:30","slug":"toi-5799","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5799/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-5799","custom_star_title":"","aliases":"","constellation":"Aquila","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[391306],"exo_id":"TOI-5799","st_optmag":13.29,"st_vj":13.29,"st_dist":27.8123,"st_j":13.29,"st_mass":0.327,"dec":15.9891418,"st_teff":3521,"st_rad":0.343,"ra":301.630179,"system_radius":5221115.26087,"pl_hostname":"TOI-5799","stellar_type":"M","tic_id":"TIC 328081248","magnitude":13.29},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391144","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/391306"}]}}
+{
+  "id": 391144,
+  "date": "2024-04-30T20:00:12",
+  "date_gmt": "2024-05-01T00:00:12",
+  "modified": "2025-05-09T06:26:30",
+  "modified_gmt": "2025-05-09T10:26:30",
+  "slug": "toi-5799",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5799/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5799",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquila",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      391306
+    ],
+    "exo_id": "TOI-5799",
+    "st_optmag": 13.29,
+    "st_vj": 13.29,
+    "st_dist": 27.8123,
+    "st_j": 13.29,
+    "st_mass": 0.327,
+    "dec": 15.9891418,
+    "st_teff": 3521,
+    "st_rad": 0.343,
+    "ra": 301.630179,
+    "system_radius": 5221115.26087,
+    "pl_hostname": "TOI-5799",
+    "stellar_type": "M",
+    "tic_id": "TIC 328081248",
+    "magnitude": 13.29
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391144",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/391306"
+      }
+    ]
+  }
+}

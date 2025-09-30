@@ -1,1 +1,71 @@
-{"id":263797,"date":"2023-11-28T21:08:20","date_gmt":"2023-11-29T02:08:20","modified":"2025-04-23T05:53:46","modified_gmt":"2025-04-23T09:53:46","slug":"kepler-1258","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1258/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1258","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245591],"exo_id":"Kepler-1258","st_optmag":13.929,"st_vj":13.929,"st_dist":717.555,"st_j":13.929,"st_mass":0.99,"dec":49.9948186,"st_teff":5839,"st_rad":0.99,"ra":285.4049723,"system_radius":2728665.1488,"pl_hostname":"Kepler-1258","stellar_type":"G","tic_id":"TIC 279918915","magnitude":13.929},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263797","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245591"}]}}
+{
+  "id": 263797,
+  "date": "2023-11-28T21:08:20",
+  "date_gmt": "2023-11-29T02:08:20",
+  "modified": "2025-04-23T05:53:46",
+  "modified_gmt": "2025-04-23T09:53:46",
+  "slug": "kepler-1258",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1258/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1258",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245591
+    ],
+    "exo_id": "Kepler-1258",
+    "st_optmag": 13.929,
+    "st_vj": 13.929,
+    "st_dist": 717.555,
+    "st_j": 13.929,
+    "st_mass": 0.99,
+    "dec": 49.9948186,
+    "st_teff": 5839,
+    "st_rad": 0.99,
+    "ra": 285.4049723,
+    "system_radius": 2728665.1488,
+    "pl_hostname": "Kepler-1258",
+    "stellar_type": "G",
+    "tic_id": "TIC 279918915",
+    "magnitude": 13.929
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263797",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245591"
+      }
+    ]
+  }
+}

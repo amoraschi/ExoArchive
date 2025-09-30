@@ -1,1 +1,71 @@
-{"id":263260,"date":"2023-11-28T21:01:25","date_gmt":"2023-11-29T02:01:25","modified":"2025-04-23T05:56:53","modified_gmt":"2025-04-23T09:56:53","slug":"hd_52265","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_52265/","featured_media":0,"categories":[],"acf":{"display_name":"HD 52265","custom_star_title":"","aliases":"","constellation":"Monoceros","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244474],"exo_id":"HD_52265","st_optmag":6.29351,"st_vj":6.29351,"st_dist":29.9803,"st_j":6.29351,"st_mass":1.204,"dec":-5.3668142,"st_teff":6136,"st_rad":1.32,"ra":105.0746449,"system_radius":77790892.4,"pl_hostname":"HD_52265","stellar_type":"F","tic_id":"TIC 268565917","magnitude":6.29351},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263260","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244474"}]}}
+{
+  "id": 263260,
+  "date": "2023-11-28T21:01:25",
+  "date_gmt": "2023-11-29T02:01:25",
+  "modified": "2025-04-23T05:56:53",
+  "modified_gmt": "2025-04-23T09:56:53",
+  "slug": "hd_52265",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_52265/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 52265",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244474
+    ],
+    "exo_id": "HD_52265",
+    "st_optmag": 6.29351,
+    "st_vj": 6.29351,
+    "st_dist": 29.9803,
+    "st_j": 6.29351,
+    "st_mass": 1.204,
+    "dec": -5.3668142,
+    "st_teff": 6136,
+    "st_rad": 1.32,
+    "ra": 105.0746449,
+    "system_radius": 77790892.4,
+    "pl_hostname": "HD_52265",
+    "stellar_type": "F",
+    "tic_id": "TIC 268565917",
+    "magnitude": 6.29351
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263260",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244474"
+      }
+    ]
+  }
+}

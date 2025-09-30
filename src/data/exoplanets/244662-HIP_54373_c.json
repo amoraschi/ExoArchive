@@ -1,1 +1,79 @@
-{"id":244662,"date":"2019-05-16T16:04:46","date_gmt":"2019-05-16T20:04:46","modified":"2025-06-25T12:06:03","modified_gmt":"2025-06-25T16:06:03","slug":"hip-54373-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-54373-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HIP_54373","pl_letter":"c","display_name":"HIP 54373 c","planet_radius":"0.318 x Jupiter (estimate)","derived_description":"HIP 54373 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 12.44 Earths, it takes 15.1 days to complete one orbit of its star, and is 0.099 AU from its star. Its discovery was announced in 2019.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Las Campanas Observatory","st_dist":18.7168,"planet_mass":"12.44 Earths","st_optmag":10.38,"discovery_date":"2019","pl_orbsmax":0.099,"period_display":"15.1 days","eccentricity":"0.2","star_id":261195,"pl_orbper":15.144,"pl_kepflag":false,"pl_radj":0.318,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":122.37,"multiple_planet_system":false,"pl_rade":3.57,"exo_id":"HIP_54373_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.2},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244662","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261195"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244662,
+  "date": "2019-05-16T16:04:46",
+  "date_gmt": "2019-05-16T20:04:46",
+  "modified": "2025-06-25T12:06:03",
+  "modified_gmt": "2025-06-25T16:06:03",
+  "slug": "hip-54373-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-54373-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_54373",
+    "pl_letter": "c",
+    "display_name": "HIP 54373 c",
+    "planet_radius": "0.318 x Jupiter (estimate)",
+    "derived_description": "HIP 54373 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 12.44 Earths, it takes 15.1 days to complete one orbit of its star, and is 0.099 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Las Campanas Observatory",
+    "st_dist": 18.7168,
+    "planet_mass": "12.44 Earths",
+    "st_optmag": 10.38,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.099,
+    "period_display": "15.1 days",
+    "eccentricity": "0.2",
+    "star_id": 261195,
+    "pl_orbper": 15.144,
+    "pl_kepflag": false,
+    "pl_radj": 0.318,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 122.37,
+    "multiple_planet_system": false,
+    "pl_rade": 3.57,
+    "exo_id": "HIP_54373_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244662",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261195"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

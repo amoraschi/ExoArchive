@@ -1,1 +1,79 @@
-{"id":245048,"date":"2021-09-23T13:04:00","date_gmt":"2021-09-23T17:04:00","modified":"2025-03-28T07:25:52","modified_gmt":"2025-03-28T11:25:52","slug":"k2-357-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-357-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-357","pl_letter":"b","display_name":"K2-357 b","planet_radius":"0.33187674 x Jupiter","derived_description":"K2-357 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.4 Earths, it takes 16.3 days to complete one orbit of its star, and is 0.145 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":517.687,"planet_mass":"13.4 Earths","st_optmag":13.748,"discovery_date":"2021","pl_orbsmax":0.145,"period_display":"16.3 days","eccentricity":"","star_id":264114,"pl_orbper":16.3488637,"pl_kepflag":true,"pl_radj":0.33187674,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.72,"exo_id":"K2-357_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245048","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264114"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245048,
+  "date": "2021-09-23T13:04:00",
+  "date_gmt": "2021-09-23T17:04:00",
+  "modified": "2025-03-28T07:25:52",
+  "modified_gmt": "2025-03-28T11:25:52",
+  "slug": "k2-357-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-357-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-357",
+    "pl_letter": "b",
+    "display_name": "K2-357 b",
+    "planet_radius": "0.33187674 x Jupiter",
+    "derived_description": "K2-357 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.4 Earths, it takes 16.3 days to complete one orbit of its star, and is 0.145 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 517.687,
+    "planet_mass": "13.4 Earths",
+    "st_optmag": 13.748,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.145,
+    "period_display": "16.3 days",
+    "eccentricity": "",
+    "star_id": 264114,
+    "pl_orbper": 16.3488637,
+    "pl_kepflag": true,
+    "pl_radj": 0.33187674,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.72,
+    "exo_id": "K2-357_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245048",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264114"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

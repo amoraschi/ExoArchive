@@ -1,1 +1,79 @@
-{"id":248536,"date":"2023-06-02T16:03:06","date_gmt":"2023-06-02T20:03:06","modified":"2025-03-28T07:32:23","modified_gmt":"2025-03-28T11:32:23","slug":"toi-2194-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2194-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2194","pl_letter":"b","display_name":"TOI-2194 b","planet_radius":"1.9892 x Earth","derived_description":"TOI-2194 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.61 Earths, it takes 15.3 days to complete one orbit of its star, and is 0.10927402251272 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":19.5711,"planet_mass":"4.61 Earths","st_optmag":8.42,"discovery_date":"2023","pl_orbsmax":"","period_display":"15.3 days","eccentricity":"","star_id":262707,"pl_orbper":15.337597,"pl_kepflag":false,"pl_radj":0.17746484,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.9892,"exo_id":"TOI-2194_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248536","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262707"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248536,
+  "date": "2023-06-02T16:03:06",
+  "date_gmt": "2023-06-02T20:03:06",
+  "modified": "2025-03-28T07:32:23",
+  "modified_gmt": "2025-03-28T11:32:23",
+  "slug": "toi-2194-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2194-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2194",
+    "pl_letter": "b",
+    "display_name": "TOI-2194 b",
+    "planet_radius": "1.9892 x Earth",
+    "derived_description": "TOI-2194 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.61 Earths, it takes 15.3 days to complete one orbit of its star, and is 0.10927402251272 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 19.5711,
+    "planet_mass": "4.61 Earths",
+    "st_optmag": 8.42,
+    "discovery_date": "2023",
+    "pl_orbsmax": "",
+    "period_display": "15.3 days",
+    "eccentricity": "",
+    "star_id": 262707,
+    "pl_orbper": 15.337597,
+    "pl_kepflag": false,
+    "pl_radj": 0.17746484,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.9892,
+    "exo_id": "TOI-2194_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248536",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262707"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

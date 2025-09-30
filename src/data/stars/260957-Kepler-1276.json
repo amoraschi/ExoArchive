@@ -1,1 +1,71 @@
-{"id":260957,"date":"2023-11-28T20:32:15","date_gmt":"2023-11-29T01:32:15","modified":"2025-04-23T05:54:32","modified_gmt":"2025-04-23T09:54:32","slug":"kepler-1276","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1276/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1276","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245616],"exo_id":"Kepler-1276","st_optmag":12.992,"st_vj":12.992,"st_dist":538.481,"st_j":12.992,"st_mass":1.14,"dec":40.5471909,"st_teff":6188,"st_rad":1.21,"ra":287.8570173,"system_radius":16250816.6181,"pl_hostname":"Kepler-1276","stellar_type":"F","tic_id":"TIC 121333541","magnitude":12.992},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260957","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245616"}]}}
+{
+  "id": 260957,
+  "date": "2023-11-28T20:32:15",
+  "date_gmt": "2023-11-29T01:32:15",
+  "modified": "2025-04-23T05:54:32",
+  "modified_gmt": "2025-04-23T09:54:32",
+  "slug": "kepler-1276",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1276/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1276",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245616
+    ],
+    "exo_id": "Kepler-1276",
+    "st_optmag": 12.992,
+    "st_vj": 12.992,
+    "st_dist": 538.481,
+    "st_j": 12.992,
+    "st_mass": 1.14,
+    "dec": 40.5471909,
+    "st_teff": 6188,
+    "st_rad": 1.21,
+    "ra": 287.8570173,
+    "system_radius": 16250816.6181,
+    "pl_hostname": "Kepler-1276",
+    "stellar_type": "F",
+    "tic_id": "TIC 121333541",
+    "magnitude": 12.992
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260957",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245616"
+      }
+    ]
+  }
+}

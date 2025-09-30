@@ -1,1 +1,79 @@
-{"id":448209,"date":"2025-02-01T04:34:43","date_gmt":"2025-02-01T09:34:43","modified":"2025-07-07T20:39:13","modified_gmt":"2025-07-08T00:39:13","slug":"k2-360-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-360-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"EPIC_201595106","pl_letter":"c","display_name":"K2-360 c","planet_radius":"0.359 x Jupiter (estimate)","derived_description":"K2-360 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 15.23 Earths, it takes 9.8 days to complete one orbit of its star, and is 0.0883 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":232.1,"planet_mass":"15.23 Earths","st_optmag":11.746,"discovery_date":"2024","pl_orbsmax":0.0883,"period_display":"9.8 days","eccentricity":"0.11","star_id":264280,"pl_orbper":9.79692,"pl_kepflag":false,"pl_radj":0.359,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":71,"multiple_planet_system":false,"pl_rade":4.02,"exo_id":"K2-360_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/448209","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264280"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 448209,
+  "date": "2025-02-01T04:34:43",
+  "date_gmt": "2025-02-01T09:34:43",
+  "modified": "2025-07-07T20:39:13",
+  "modified_gmt": "2025-07-08T00:39:13",
+  "slug": "k2-360-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-360-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "EPIC_201595106",
+    "pl_letter": "c",
+    "display_name": "K2-360 c",
+    "planet_radius": "0.359 x Jupiter (estimate)",
+    "derived_description": "K2-360 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 15.23 Earths, it takes 9.8 days to complete one orbit of its star, and is 0.0883 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 232.1,
+    "planet_mass": "15.23 Earths",
+    "st_optmag": 11.746,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0883,
+    "period_display": "9.8 days",
+    "eccentricity": "0.11",
+    "star_id": 264280,
+    "pl_orbper": 9.79692,
+    "pl_kepflag": false,
+    "pl_radj": 0.359,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 71,
+    "multiple_planet_system": false,
+    "pl_rade": 4.02,
+    "exo_id": "K2-360_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/448209",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264280"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

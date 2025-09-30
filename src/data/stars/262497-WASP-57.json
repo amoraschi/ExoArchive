@@ -1,1 +1,71 @@
-{"id":262497,"date":"2023-11-28T20:51:44","date_gmt":"2023-11-29T01:51:44","modified":"2025-04-23T05:54:18","modified_gmt":"2025-04-23T09:54:18","slug":"wasp-57","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-57/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-57","custom_star_title":"","aliases":"","constellation":"Libra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248874],"exo_id":"WASP-57","st_optmag":12.913,"st_vj":12.913,"st_dist":398.276,"st_j":12.913,"st_mass":0.886,"dec":-2.0576866,"st_teff":5600,"st_rad":0.927,"ra":223.8199788,"system_radius":5638343.7203,"pl_hostname":"WASP-57","stellar_type":"G","tic_id":"TIC 175772482","magnitude":12.913},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262497","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248874"}]}}
+{
+  "id": 262497,
+  "date": "2023-11-28T20:51:44",
+  "date_gmt": "2023-11-29T01:51:44",
+  "modified": "2025-04-23T05:54:18",
+  "modified_gmt": "2025-04-23T09:54:18",
+  "slug": "wasp-57",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-57/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-57",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Libra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248874
+    ],
+    "exo_id": "WASP-57",
+    "st_optmag": 12.913,
+    "st_vj": 12.913,
+    "st_dist": 398.276,
+    "st_j": 12.913,
+    "st_mass": 0.886,
+    "dec": -2.0576866,
+    "st_teff": 5600,
+    "st_rad": 0.927,
+    "ra": 223.8199788,
+    "system_radius": 5638343.7203,
+    "pl_hostname": "WASP-57",
+    "stellar_type": "G",
+    "tic_id": "TIC 175772482",
+    "magnitude": 12.913
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262497",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248874"
+      }
+    ]
+  }
+}

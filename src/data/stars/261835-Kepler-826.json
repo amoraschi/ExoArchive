@@ -1,1 +1,71 @@
-{"id":261835,"date":"2023-11-28T20:43:19","date_gmt":"2023-11-29T01:43:19","modified":"2025-04-23T05:55:39","modified_gmt":"2025-04-23T09:55:39","slug":"kepler-826","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-826/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-826","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247772],"exo_id":"Kepler-826","st_optmag":13.644,"st_vj":13.644,"st_dist":779.596,"st_j":13.644,"st_mass":1.05,"dec":39.2405076,"st_teff":6079,"st_rad":1.15,"ra":284.8601128,"system_radius":7782081.1974,"pl_hostname":"Kepler-826","stellar_type":"F","tic_id":"TIC 120355363","magnitude":13.644},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261835","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247772"}]}}
+{
+  "id": 261835,
+  "date": "2023-11-28T20:43:19",
+  "date_gmt": "2023-11-29T01:43:19",
+  "modified": "2025-04-23T05:55:39",
+  "modified_gmt": "2025-04-23T09:55:39",
+  "slug": "kepler-826",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-826/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-826",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247772
+    ],
+    "exo_id": "Kepler-826",
+    "st_optmag": 13.644,
+    "st_vj": 13.644,
+    "st_dist": 779.596,
+    "st_j": 13.644,
+    "st_mass": 1.05,
+    "dec": 39.2405076,
+    "st_teff": 6079,
+    "st_rad": 1.15,
+    "ra": 284.8601128,
+    "system_radius": 7782081.1974,
+    "pl_hostname": "Kepler-826",
+    "stellar_type": "F",
+    "tic_id": "TIC 120355363",
+    "magnitude": 13.644
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261835",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247772"
+      }
+    ]
+  }
+}

@@ -1,1 +1,81 @@
-{"id":261563,"date":"2023-11-28T20:39:55","date_gmt":"2023-11-29T01:39:55","modified":"2025-04-23T05:55:14","modified_gmt":"2025-04-23T09:55:14","slug":"kepler-126","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-126/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-126","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245609,"1":245607,"2":245608},"exo_id":"Kepler-126","st_optmag":10.505,"st_vj":10.505,"st_dist":237.401,"st_j":10.505,"st_mass":1.108,"dec":44.2084445,"st_teff":6239,"st_rad":1.358,"ra":289.3473634,"system_radius":67019845.76,"pl_hostname":"Kepler-126","stellar_type":"F","tic_id":"TIC 159046962","magnitude":10.505},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261563","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245609"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245608"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245607"}]}}
+{
+  "id": 261563,
+  "date": "2023-11-28T20:39:55",
+  "date_gmt": "2023-11-29T01:39:55",
+  "modified": "2025-04-23T05:55:14",
+  "modified_gmt": "2025-04-23T09:55:14",
+  "slug": "kepler-126",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-126/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-126",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245609,
+      "1": 245607,
+      "2": 245608
+    },
+    "exo_id": "Kepler-126",
+    "st_optmag": 10.505,
+    "st_vj": 10.505,
+    "st_dist": 237.401,
+    "st_j": 10.505,
+    "st_mass": 1.108,
+    "dec": 44.2084445,
+    "st_teff": 6239,
+    "st_rad": 1.358,
+    "ra": 289.3473634,
+    "system_radius": 67019845.76,
+    "pl_hostname": "Kepler-126",
+    "stellar_type": "F",
+    "tic_id": "TIC 159046962",
+    "magnitude": 10.505
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261563",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245609"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245608"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245607"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":246764,"date":"2017-10-02T13:32:49","date_gmt":"2017-10-02T17:32:49","modified":"2025-06-25T12:04:12","modified_gmt":"2025-06-25T16:04:12","slug":"kepler-251-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-251-d/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-251","pl_letter":"d","display_name":"Kepler-251 d","planet_radius":"0.247 x Jupiter","derived_description":"Kepler-251 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.1 Earths, it takes 30.1 days to complete one orbit of its star, and is 0.182 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":924.625,"planet_mass":"8.1 Earths","st_optmag":15.541,"discovery_date":"2014","pl_orbsmax":0.182,"period_display":"30.1 days","eccentricity":"0.0","star_id":262817,"pl_orbper":30.133001,"pl_kepflag":true,"pl_radj":0.247,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.77,"exo_id":"Kepler-251_d","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246764","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262817"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246764,
+  "date": "2017-10-02T13:32:49",
+  "date_gmt": "2017-10-02T17:32:49",
+  "modified": "2025-06-25T12:04:12",
+  "modified_gmt": "2025-06-25T16:04:12",
+  "slug": "kepler-251-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-251-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-251",
+    "pl_letter": "d",
+    "display_name": "Kepler-251 d",
+    "planet_radius": "0.247 x Jupiter",
+    "derived_description": "Kepler-251 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.1 Earths, it takes 30.1 days to complete one orbit of its star, and is 0.182 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 924.625,
+    "planet_mass": "8.1 Earths",
+    "st_optmag": 15.541,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.182,
+    "period_display": "30.1 days",
+    "eccentricity": "0.0",
+    "star_id": 262817,
+    "pl_orbper": 30.133001,
+    "pl_kepflag": true,
+    "pl_radj": 0.247,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.77,
+    "exo_id": "Kepler-251_d",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246764",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262817"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

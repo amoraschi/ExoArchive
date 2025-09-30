@@ -1,1 +1,71 @@
-{"id":263293,"date":"2023-11-28T21:01:50","date_gmt":"2023-11-29T02:01:50","modified":"2025-04-23T05:56:55","modified_gmt":"2025-04-23T09:56:55","slug":"hd_30669","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_30669/","featured_media":0,"categories":[],"acf":{"display_name":"HD 30669","custom_star_title":"","aliases":"","constellation":"Caelum","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244382],"exo_id":"HD_30669","st_optmag":9.12,"st_vj":9.12,"st_dist":58.0844,"st_j":9.12,"st_mass":0.92,"dec":-28.4190757,"st_teff":5400,"st_rad":0.91,"ra":72.1198522,"system_radius":402418270.3,"pl_hostname":"HD_30669","stellar_type":"G","tic_id":"TIC 607907","magnitude":9.12},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263293","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244382"}]}}
+{
+  "id": 263293,
+  "date": "2023-11-28T21:01:50",
+  "date_gmt": "2023-11-29T02:01:50",
+  "modified": "2025-04-23T05:56:55",
+  "modified_gmt": "2025-04-23T09:56:55",
+  "slug": "hd_30669",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_30669/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 30669",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Caelum",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244382
+    ],
+    "exo_id": "HD_30669",
+    "st_optmag": 9.12,
+    "st_vj": 9.12,
+    "st_dist": 58.0844,
+    "st_j": 9.12,
+    "st_mass": 0.92,
+    "dec": -28.4190757,
+    "st_teff": 5400,
+    "st_rad": 0.91,
+    "ra": 72.1198522,
+    "system_radius": 402418270.3,
+    "pl_hostname": "HD_30669",
+    "stellar_type": "G",
+    "tic_id": "TIC 607907",
+    "magnitude": 9.12
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263293",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244382"
+      }
+    ]
+  }
+}

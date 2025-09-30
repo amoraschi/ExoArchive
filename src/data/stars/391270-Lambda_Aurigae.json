@@ -1,1 +1,69 @@
-{"id":391270,"date":"2024-04-30T20:01:24","date_gmt":"2024-05-01T00:01:24","modified":"2025-04-23T05:57:34","modified_gmt":"2025-04-23T09:57:34","slug":"lambda-aurigae","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/lambda-aurigae/","featured_media":429648,"categories":[],"acf":{"display_name":"Lambda Aurigae","custom_star_title":"","aliases":"LambdaAurigae,HD34411,HR1729,GJ197,HD 34411,HR 1729,GJ 197","constellation":"Auriga","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Lambda_Aurigae","st_optmag":4.705,"st_vj":4.705,"st_dist":12.5625,"st_j":4.705,"st_mass":1.08,"dec":40.0990514,"st_teff":5854,"st_rad":1.279,"ra":79.7853144,"system_radius":149597870,"pl_hostname":"Lambda_Aurigae","stellar_type":"G","tic_id":"TIC 409104974","magnitude":4.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391270","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391270,
+  "date": "2024-04-30T20:01:24",
+  "date_gmt": "2024-05-01T00:01:24",
+  "modified": "2025-04-23T05:57:34",
+  "modified_gmt": "2025-04-23T09:57:34",
+  "slug": "lambda-aurigae",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/lambda-aurigae/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Lambda Aurigae",
+    "custom_star_title": "",
+    "aliases": "LambdaAurigae,HD34411,HR1729,GJ197,HD 34411,HR 1729,GJ 197",
+    "constellation": "Auriga",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Lambda_Aurigae",
+    "st_optmag": 4.705,
+    "st_vj": 4.705,
+    "st_dist": 12.5625,
+    "st_j": 4.705,
+    "st_mass": 1.08,
+    "dec": 40.0990514,
+    "st_teff": 5854,
+    "st_rad": 1.279,
+    "ra": 79.7853144,
+    "system_radius": 149597870,
+    "pl_hostname": "Lambda_Aurigae",
+    "stellar_type": "G",
+    "tic_id": "TIC 409104974",
+    "magnitude": 4.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391270",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":313814,"date":"2024-02-23T16:01:26","date_gmt":"2024-02-23T21:01:26","modified":"2025-07-07T20:38:58","modified_gmt":"2025-07-08T00:38:58","slug":"toi-1386-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1386-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1386","pl_letter":"c","display_name":"TOI-1386 c","planet_radius":"0.918 x Jupiter (estimate)","derived_description":"TOI-1386 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.23660566 Jupiters, it takes 232 days to complete one orbit of its star, and is 0.75 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":146.858,"planet_mass":"0.23660566 Jupiters","st_optmag":10.61,"discovery_date":"2024","pl_orbsmax":0.75,"period_display":"232 days","eccentricity":"0.38","star_id":313786,"pl_orbper":232,"pl_kepflag":false,"pl_radj":0.918,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":71,"multiple_planet_system":false,"pl_rade":10.3,"exo_id":"TOI-1386_c","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.38},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313814","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/313786"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 313814,
+  "date": "2024-02-23T16:01:26",
+  "date_gmt": "2024-02-23T21:01:26",
+  "modified": "2025-07-07T20:38:58",
+  "modified_gmt": "2025-07-08T00:38:58",
+  "slug": "toi-1386-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1386-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1386",
+    "pl_letter": "c",
+    "display_name": "TOI-1386 c",
+    "planet_radius": "0.918 x Jupiter (estimate)",
+    "derived_description": "TOI-1386 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.23660566 Jupiters, it takes 232 days to complete one orbit of its star, and is 0.75 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 146.858,
+    "planet_mass": "0.23660566 Jupiters",
+    "st_optmag": 10.61,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.75,
+    "period_display": "232 days",
+    "eccentricity": "0.38",
+    "star_id": 313786,
+    "pl_orbper": 232,
+    "pl_kepflag": false,
+    "pl_radj": 0.918,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 71,
+    "multiple_planet_system": false,
+    "pl_rade": 10.3,
+    "exo_id": "TOI-1386_c",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.38
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313814",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313786"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

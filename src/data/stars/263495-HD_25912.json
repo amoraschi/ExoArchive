@@ -1,1 +1,76 @@
-{"id":263495,"date":"2023-11-28T21:04:23","date_gmt":"2023-11-29T02:04:23","modified":"2025-04-23T05:56:59","modified_gmt":"2025-04-23T09:56:59","slug":"hd_25912","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_25912/","featured_media":0,"categories":[],"acf":{"display_name":"HD 25912","custom_star_title":"","aliases":"","constellation":"Dorado","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244350,244351],"exo_id":"HD_25912","st_optmag":8.2,"st_vj":8.2,"st_dist":49.1661,"st_j":8.2,"st_mass":1.08,"dec":-51.9315058,"st_teff":5920.58,"st_rad":0.995896,"ra":60.9074988,"system_radius":2670022783.76,"pl_hostname":"HD_25912","stellar_type":"G","tic_id":"TIC 237356930","magnitude":8.2},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263495","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244351"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244350"}]}}
+{
+  "id": 263495,
+  "date": "2023-11-28T21:04:23",
+  "date_gmt": "2023-11-29T02:04:23",
+  "modified": "2025-04-23T05:56:59",
+  "modified_gmt": "2025-04-23T09:56:59",
+  "slug": "hd_25912",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_25912/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 25912",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Dorado",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244350,
+      244351
+    ],
+    "exo_id": "HD_25912",
+    "st_optmag": 8.2,
+    "st_vj": 8.2,
+    "st_dist": 49.1661,
+    "st_j": 8.2,
+    "st_mass": 1.08,
+    "dec": -51.9315058,
+    "st_teff": 5920.58,
+    "st_rad": 0.995896,
+    "ra": 60.9074988,
+    "system_radius": 2670022783.76,
+    "pl_hostname": "HD_25912",
+    "stellar_type": "G",
+    "tic_id": "TIC 237356930",
+    "magnitude": 8.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263495",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244351"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244350"
+      }
+    ]
+  }
+}

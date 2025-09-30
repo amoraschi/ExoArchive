@@ -1,1 +1,71 @@
-{"id":260917,"date":"2023-11-28T20:31:45","date_gmt":"2023-11-29T01:31:45","modified":"2025-04-23T05:56:40","modified_gmt":"2025-04-23T09:56:40","slug":"toi-3714","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3714/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-3714","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248594],"exo_id":"TOI-3714","st_optmag":15.7,"st_vj":15.7,"st_dist":112.71,"st_j":15.7,"st_mass":0.53,"dec":39.4580035,"st_teff":3660,"st_rad":0.51,"ra":69.5523415,"system_radius":4039142.49,"pl_hostname":"TOI-3714","stellar_type":"M","tic_id":"TIC 155867025","magnitude":15.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260917","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248594"}]}}
+{
+  "id": 260917,
+  "date": "2023-11-28T20:31:45",
+  "date_gmt": "2023-11-29T01:31:45",
+  "modified": "2025-04-23T05:56:40",
+  "modified_gmt": "2025-04-23T09:56:40",
+  "slug": "toi-3714",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3714/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3714",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248594
+    ],
+    "exo_id": "TOI-3714",
+    "st_optmag": 15.7,
+    "st_vj": 15.7,
+    "st_dist": 112.71,
+    "st_j": 15.7,
+    "st_mass": 0.53,
+    "dec": 39.4580035,
+    "st_teff": 3660,
+    "st_rad": 0.51,
+    "ra": 69.5523415,
+    "system_radius": 4039142.49,
+    "pl_hostname": "TOI-3714",
+    "stellar_type": "M",
+    "tic_id": "TIC 155867025",
+    "magnitude": 15.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260917",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248594"
+      }
+    ]
+  }
+}

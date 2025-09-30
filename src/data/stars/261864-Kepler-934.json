@@ -1,1 +1,71 @@
-{"id":261864,"date":"2023-11-28T20:43:41","date_gmt":"2023-11-29T01:43:41","modified":"2025-04-23T05:56:47","modified_gmt":"2025-04-23T09:56:47","slug":"kepler-934","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-934/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-934","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247919],"exo_id":"Kepler-934","st_optmag":15.238,"st_vj":15.238,"st_dist":608.738,"st_j":15.238,"st_mass":0.81,"dec":43.7552623,"st_teff":5001,"st_rad":0.77,"ra":290.2884494,"system_radius":39763113.846,"pl_hostname":"Kepler-934","stellar_type":"K","tic_id":"TIC 159379942","magnitude":15.238},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261864","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247919"}]}}
+{
+  "id": 261864,
+  "date": "2023-11-28T20:43:41",
+  "date_gmt": "2023-11-29T01:43:41",
+  "modified": "2025-04-23T05:56:47",
+  "modified_gmt": "2025-04-23T09:56:47",
+  "slug": "kepler-934",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-934/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-934",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247919
+    ],
+    "exo_id": "Kepler-934",
+    "st_optmag": 15.238,
+    "st_vj": 15.238,
+    "st_dist": 608.738,
+    "st_j": 15.238,
+    "st_mass": 0.81,
+    "dec": 43.7552623,
+    "st_teff": 5001,
+    "st_rad": 0.77,
+    "ra": 290.2884494,
+    "system_radius": 39763113.846,
+    "pl_hostname": "Kepler-934",
+    "stellar_type": "K",
+    "tic_id": "TIC 159379942",
+    "magnitude": 15.238
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261864",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247919"
+      }
+    ]
+  }
+}

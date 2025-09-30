@@ -1,1 +1,71 @@
-{"id":406609,"date":"2024-07-15T21:47:28","date_gmt":"2024-07-16T01:47:28","modified":"2025-04-23T05:55:31","modified_gmt":"2025-04-23T09:55:31","slug":"ogle-2014-blg-0221l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2014-blg-0221l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2014-BLG-0221L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[406629],"exo_id":"OGLE-2014-BLG-0221L","st_optmag":"","st_vj":"","st_dist":3680,"st_j":"","st_mass":0.69,"dec":-27.4267639,"st_teff":"","st_rad":"","ra":270.30375,"system_radius":562487991.2,"pl_hostname":"OGLE-2014-BLG-0221L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/406609","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/406629"}]}}
+{
+  "id": 406609,
+  "date": "2024-07-15T21:47:28",
+  "date_gmt": "2024-07-16T01:47:28",
+  "modified": "2025-04-23T05:55:31",
+  "modified_gmt": "2025-04-23T09:55:31",
+  "slug": "ogle-2014-blg-0221l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2014-blg-0221l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2014-BLG-0221L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      406629
+    ],
+    "exo_id": "OGLE-2014-BLG-0221L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 3680,
+    "st_j": "",
+    "st_mass": 0.69,
+    "dec": -27.4267639,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 270.30375,
+    "system_radius": 562487991.2,
+    "pl_hostname": "OGLE-2014-BLG-0221L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406609",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/406629"
+      }
+    ]
+  }
+}

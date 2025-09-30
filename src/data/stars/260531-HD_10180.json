@@ -1,1 +1,96 @@
-{"id":260531,"date":"2023-11-28T20:26:58","date_gmt":"2023-11-29T01:26:58","modified":"2025-04-23T05:53:23","modified_gmt":"2025-04-23T09:53:23","slug":"hd_10180","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_10180/","featured_media":0,"categories":[],"acf":{"display_name":"HD 10180","custom_star_title":"","aliases":"","constellation":"Hydrus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243871,243872,243873,243874,243875,243876],"exo_id":"HD_10180","st_optmag":7.33,"st_vj":7.33,"st_dist":38.9607,"st_j":7.33,"st_mass":1.06,"dec":-60.5114881,"st_teff":5911,"st_rad":1.109,"ra":24.4731133,"system_radius":505790398.47,"pl_hostname":"HD_10180","stellar_type":"G","tic_id":"TIC 231836962","magnitude":7.33},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260531","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243876"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243875"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243874"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243873"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243872"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243871"}]}}
+{
+  "id": 260531,
+  "date": "2023-11-28T20:26:58",
+  "date_gmt": "2023-11-29T01:26:58",
+  "modified": "2025-04-23T05:53:23",
+  "modified_gmt": "2025-04-23T09:53:23",
+  "slug": "hd_10180",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_10180/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 10180",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243871,
+      243872,
+      243873,
+      243874,
+      243875,
+      243876
+    ],
+    "exo_id": "HD_10180",
+    "st_optmag": 7.33,
+    "st_vj": 7.33,
+    "st_dist": 38.9607,
+    "st_j": 7.33,
+    "st_mass": 1.06,
+    "dec": -60.5114881,
+    "st_teff": 5911,
+    "st_rad": 1.109,
+    "ra": 24.4731133,
+    "system_radius": 505790398.47,
+    "pl_hostname": "HD_10180",
+    "stellar_type": "G",
+    "tic_id": "TIC 231836962",
+    "magnitude": 7.33
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260531",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243876"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243875"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243874"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243873"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243872"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243871"
+      }
+    ]
+  }
+}

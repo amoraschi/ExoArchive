@@ -1,1 +1,76 @@
-{"id":262006,"date":"2023-11-28T20:45:30","date_gmt":"2023-11-29T01:45:30","modified":"2025-04-23T05:55:16","modified_gmt":"2025-04-23T09:55:16","slug":"gj_682","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_682/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 682","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243689,243690],"exo_id":"GJ_682","st_optmag":10.94,"st_vj":10.94,"st_dist":5.00671,"st_j":10.94,"st_mass":0.27,"dec":-44.3232519,"st_teff":3028,"st_rad":0.298255,"ra":264.2610245,"system_radius":26329225.12,"pl_hostname":"GJ_682","stellar_type":"M","tic_id":"TIC 16909043","magnitude":10.94},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262006","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243690"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243689"}]}}
+{
+  "id": 262006,
+  "date": "2023-11-28T20:45:30",
+  "date_gmt": "2023-11-29T01:45:30",
+  "modified": "2025-04-23T05:55:16",
+  "modified_gmt": "2025-04-23T09:55:16",
+  "slug": "gj_682",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_682/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 682",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243689,
+      243690
+    ],
+    "exo_id": "GJ_682",
+    "st_optmag": 10.94,
+    "st_vj": 10.94,
+    "st_dist": 5.00671,
+    "st_j": 10.94,
+    "st_mass": 0.27,
+    "dec": -44.3232519,
+    "st_teff": 3028,
+    "st_rad": 0.298255,
+    "ra": 264.2610245,
+    "system_radius": 26329225.12,
+    "pl_hostname": "GJ_682",
+    "stellar_type": "M",
+    "tic_id": "TIC 16909043",
+    "magnitude": 10.94
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262006",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243690"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243689"
+      }
+    ]
+  }
+}

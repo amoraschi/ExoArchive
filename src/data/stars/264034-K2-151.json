@@ -1,1 +1,71 @@
-{"id":264034,"date":"2023-11-28T21:11:21","date_gmt":"2023-11-29T02:11:21","modified":"2025-04-23T05:53:16","modified_gmt":"2025-04-23T09:53:16","slug":"k2-151","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-151/","featured_media":0,"categories":[],"acf":{"display_name":"K2-151","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244782],"exo_id":"K2-151","st_optmag":14.175,"st_vj":14.175,"st_dist":69.4798,"st_j":14.175,"st_mass":0.47,"dec":9.5012663,"st_teff":3695,"st_rad":0.45,"ra":19.3047733,"system_radius":5580000.551,"pl_hostname":"K2-151","stellar_type":"M","tic_id":"TIC 376936928","magnitude":14.175},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264034","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244782"}]}}
+{
+  "id": 264034,
+  "date": "2023-11-28T21:11:21",
+  "date_gmt": "2023-11-29T02:11:21",
+  "modified": "2025-04-23T05:53:16",
+  "modified_gmt": "2025-04-23T09:53:16",
+  "slug": "k2-151",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-151/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-151",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244782
+    ],
+    "exo_id": "K2-151",
+    "st_optmag": 14.175,
+    "st_vj": 14.175,
+    "st_dist": 69.4798,
+    "st_j": 14.175,
+    "st_mass": 0.47,
+    "dec": 9.5012663,
+    "st_teff": 3695,
+    "st_rad": 0.45,
+    "ra": 19.3047733,
+    "system_radius": 5580000.551,
+    "pl_hostname": "K2-151",
+    "stellar_type": "M",
+    "tic_id": "TIC 376936928",
+    "magnitude": 14.175
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264034",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244782"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":261223,"date":"2023-11-28T20:35:38","date_gmt":"2023-11-29T01:35:38","modified":"2025-06-13T07:33:26","modified_gmt":"2025-06-13T11:33:26","slug":"hd_108874","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_108874/","featured_media":0,"categories":[],"acf":{"display_name":"HD 108874","custom_star_title":"","aliases":"","constellation":"Coma Berenices","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243916,243917],"exo_id":"HD_108874","st_optmag":8.76,"st_vj":8.76,"st_dist":59.5175,"st_j":8.76,"st_mass":0.95,"dec":22.8794399,"st_teff":5551,"st_rad":1.05,"ra":187.6126029,"system_radius":397780736.33,"pl_hostname":"HD_108874","stellar_type":"G","tic_id":"TIC 371621238","magnitude":8.76},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261223","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243917"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243916"}]}}
+{
+  "id": 261223,
+  "date": "2023-11-28T20:35:38",
+  "date_gmt": "2023-11-29T01:35:38",
+  "modified": "2025-06-13T07:33:26",
+  "modified_gmt": "2025-06-13T11:33:26",
+  "slug": "hd_108874",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_108874/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 108874",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Coma Berenices",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243916,
+      243917
+    ],
+    "exo_id": "HD_108874",
+    "st_optmag": 8.76,
+    "st_vj": 8.76,
+    "st_dist": 59.5175,
+    "st_j": 8.76,
+    "st_mass": 0.95,
+    "dec": 22.8794399,
+    "st_teff": 5551,
+    "st_rad": 1.05,
+    "ra": 187.6126029,
+    "system_radius": 397780736.33,
+    "pl_hostname": "HD_108874",
+    "stellar_type": "G",
+    "tic_id": "TIC 371621238",
+    "magnitude": 8.76
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261223",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243917"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243916"
+      }
+    ]
+  }
+}

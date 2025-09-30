@@ -1,1 +1,71 @@
-{"id":426984,"date":"2024-10-05T00:18:34","date_gmt":"2024-10-05T04:18:34","modified":"2025-04-23T05:54:14","modified_gmt":"2025-04-23T09:54:14","slug":"toi-2714","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2714/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2714","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[426991],"exo_id":"TOI-2714","st_optmag":13.468,"st_vj":13.468,"st_dist":597.873,"st_j":13.468,"st_mass":1.07,"dec":-14.9267458,"st_teff":5665,"st_rad":1.25,"ra":61.4012482,"system_radius":5385523.32,"pl_hostname":"TOI-2714","stellar_type":"G","tic_id":"TIC 332534326","magnitude":13.468},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/426984","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/426991"}]}}
+{
+  "id": 426984,
+  "date": "2024-10-05T00:18:34",
+  "date_gmt": "2024-10-05T04:18:34",
+  "modified": "2025-04-23T05:54:14",
+  "modified_gmt": "2025-04-23T09:54:14",
+  "slug": "toi-2714",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2714/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2714",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      426991
+    ],
+    "exo_id": "TOI-2714",
+    "st_optmag": 13.468,
+    "st_vj": 13.468,
+    "st_dist": 597.873,
+    "st_j": 13.468,
+    "st_mass": 1.07,
+    "dec": -14.9267458,
+    "st_teff": 5665,
+    "st_rad": 1.25,
+    "ra": 61.4012482,
+    "system_radius": 5385523.32,
+    "pl_hostname": "TOI-2714",
+    "stellar_type": "G",
+    "tic_id": "TIC 332534326",
+    "magnitude": 13.468
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/426984",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/426991"
+      }
+    ]
+  }
+}

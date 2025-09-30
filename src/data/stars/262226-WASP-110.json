@@ -1,1 +1,71 @@
-{"id":262226,"date":"2023-11-28T20:48:18","date_gmt":"2023-11-29T01:48:18","modified":"2025-04-23T05:55:52","modified_gmt":"2025-04-23T09:55:52","slug":"wasp-110","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-110/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-110","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248753],"exo_id":"WASP-110","st_optmag":12.762,"st_vj":12.762,"st_dist":274.96,"st_j":12.762,"st_mass":0.95,"dec":-44.0587001,"st_teff":5400,"st_rad":0.863922,"ra":305.8724366,"system_radius":149597870,"pl_hostname":"WASP-110","stellar_type":"G","tic_id":"TIC 425817867","magnitude":12.762},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262226","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248753"}]}}
+{
+  "id": 262226,
+  "date": "2023-11-28T20:48:18",
+  "date_gmt": "2023-11-29T01:48:18",
+  "modified": "2025-04-23T05:55:52",
+  "modified_gmt": "2025-04-23T09:55:52",
+  "slug": "wasp-110",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-110/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-110",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248753
+    ],
+    "exo_id": "WASP-110",
+    "st_optmag": 12.762,
+    "st_vj": 12.762,
+    "st_dist": 274.96,
+    "st_j": 12.762,
+    "st_mass": 0.95,
+    "dec": -44.0587001,
+    "st_teff": 5400,
+    "st_rad": 0.863922,
+    "ra": 305.8724366,
+    "system_radius": 149597870,
+    "pl_hostname": "WASP-110",
+    "stellar_type": "G",
+    "tic_id": "TIC 425817867",
+    "magnitude": 12.762
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262226",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248753"
+      }
+    ]
+  }
+}

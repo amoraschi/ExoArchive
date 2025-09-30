@@ -1,1 +1,76 @@
-{"id":262751,"date":"2023-11-28T20:54:58","date_gmt":"2023-11-29T01:54:58","modified":"2025-04-23T05:56:14","modified_gmt":"2025-04-23T09:56:14","slug":"k2-75","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-75/","featured_media":0,"categories":[],"acf":{"display_name":"K2-75","custom_star_title":"","aliases":"","constellation":"Aquarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245175,245176],"exo_id":"K2-75","st_optmag":12.803,"st_vj":12.803,"st_dist":561.93,"st_j":12.803,"st_mass":1.16,"dec":-7.469895,"st_teff":5995,"st_rad":1.56,"ra":338.844896,"system_radius":21377535.623,"pl_hostname":"K2-75","stellar_type":"F","tic_id":"TIC 250996363","magnitude":12.803},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262751","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245176"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245175"}]}}
+{
+  "id": 262751,
+  "date": "2023-11-28T20:54:58",
+  "date_gmt": "2023-11-29T01:54:58",
+  "modified": "2025-04-23T05:56:14",
+  "modified_gmt": "2025-04-23T09:56:14",
+  "slug": "k2-75",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-75/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-75",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245175,
+      245176
+    ],
+    "exo_id": "K2-75",
+    "st_optmag": 12.803,
+    "st_vj": 12.803,
+    "st_dist": 561.93,
+    "st_j": 12.803,
+    "st_mass": 1.16,
+    "dec": -7.469895,
+    "st_teff": 5995,
+    "st_rad": 1.56,
+    "ra": 338.844896,
+    "system_radius": 21377535.623,
+    "pl_hostname": "K2-75",
+    "stellar_type": "F",
+    "tic_id": "TIC 250996363",
+    "magnitude": 12.803
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262751",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245176"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245175"
+      }
+    ]
+  }
+}

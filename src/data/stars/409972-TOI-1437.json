@@ -1,1 +1,71 @@
-{"id":409972,"date":"2024-07-25T22:04:42","date_gmt":"2024-07-26T02:04:42","modified":"2025-04-23T05:56:50","modified_gmt":"2025-04-23T09:56:50","slug":"toi-1437","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1437/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1437","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410087],"exo_id":"TOI-1437","st_optmag":9.173,"st_vj":9.173,"st_dist":103.297,"st_j":9.173,"st_mass":1.1,"dec":56.842549,"st_teff":6008,"st_rad":1.17,"ra":256.1387513,"system_radius":20943701.8,"pl_hostname":"TOI-1437","stellar_type":"F","tic_id":"TIC 198356533","magnitude":9.173},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409972","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410087"}]}}
+{
+  "id": 409972,
+  "date": "2024-07-25T22:04:42",
+  "date_gmt": "2024-07-26T02:04:42",
+  "modified": "2025-04-23T05:56:50",
+  "modified_gmt": "2025-04-23T09:56:50",
+  "slug": "toi-1437",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1437/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1437",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410087
+    ],
+    "exo_id": "TOI-1437",
+    "st_optmag": 9.173,
+    "st_vj": 9.173,
+    "st_dist": 103.297,
+    "st_j": 9.173,
+    "st_mass": 1.1,
+    "dec": 56.842549,
+    "st_teff": 6008,
+    "st_rad": 1.17,
+    "ra": 256.1387513,
+    "system_radius": 20943701.8,
+    "pl_hostname": "TOI-1437",
+    "stellar_type": "F",
+    "tic_id": "TIC 198356533",
+    "magnitude": 9.173
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409972",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410087"
+      }
+    ]
+  }
+}

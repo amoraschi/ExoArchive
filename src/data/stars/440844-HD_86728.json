@@ -1,1 +1,77 @@
-{"id":440844,"date":"2024-12-20T01:24:11","date_gmt":"2024-12-20T06:24:11","modified":"2025-09-29T22:57:12","modified_gmt":"2025-09-30T02:57:12","slug":"hd-86728","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-86728/","featured_media":429648,"categories":[],"acf":{"display_name":"20 Leonis Minoris A","custom_star_title":"","aliases":"","constellation":"Leo Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[440885],"exo_id":"HD_86728","st_optmag":5.378,"st_vj":5.378,"st_dist":14.9263,"st_j":5.378,"st_mass":1,"dec":31.9236703,"st_teff":5743,"st_rad":1.186,"ra":150.252737,"system_radius":28662951.892,"pl_hostname":"HD_86728","stellar_type":"G","tic_id":"TIC 172954294","magnitude":5.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/440844","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/440885"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 440844,
+  "date": "2024-12-20T01:24:11",
+  "date_gmt": "2024-12-20T06:24:11",
+  "modified": "2025-09-29T22:57:12",
+  "modified_gmt": "2025-09-30T02:57:12",
+  "slug": "hd-86728",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-86728/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "20 Leonis Minoris A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      440885
+    ],
+    "exo_id": "HD_86728",
+    "st_optmag": 5.378,
+    "st_vj": 5.378,
+    "st_dist": 14.9263,
+    "st_j": 5.378,
+    "st_mass": 1,
+    "dec": 31.9236703,
+    "st_teff": 5743,
+    "st_rad": 1.186,
+    "ra": 150.252737,
+    "system_radius": 28662951.892,
+    "pl_hostname": "HD_86728",
+    "stellar_type": "G",
+    "tic_id": "TIC 172954294",
+    "magnitude": 5.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/440844",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/440885"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

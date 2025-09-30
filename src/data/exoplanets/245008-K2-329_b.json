@@ -1,1 +1,79 @@
-{"id":245008,"date":"2021-01-29T19:17:12","date_gmt":"2021-01-30T00:17:12","modified":"2025-03-28T07:26:40","modified_gmt":"2025-03-28T11:26:40","slug":"k2-329-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-329-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"K2-329","pl_letter":"b","display_name":"K2-329 b","planet_radius":"0.774 x Jupiter","derived_description":"K2-329 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.26 Jupiters, it takes 12.5 days to complete one orbit of its star, and is 0.1016 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"K2","st_dist":233.237,"planet_mass":"0.26 Jupiters","st_optmag":12.697,"discovery_date":"2020","pl_orbsmax":0.1016,"period_display":"12.5 days","eccentricity":"0.07","star_id":262988,"pl_orbper":12.4551225,"pl_kepflag":true,"pl_radj":0.774,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":161,"multiple_planet_system":false,"pl_rade":8.675766,"exo_id":"K2-329_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.0697},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245008","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262988"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 245008,
+  "date": "2021-01-29T19:17:12",
+  "date_gmt": "2021-01-30T00:17:12",
+  "modified": "2025-03-28T07:26:40",
+  "modified_gmt": "2025-03-28T11:26:40",
+  "slug": "k2-329-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-329-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-329",
+    "pl_letter": "b",
+    "display_name": "K2-329 b",
+    "planet_radius": "0.774 x Jupiter",
+    "derived_description": "K2-329 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.26 Jupiters, it takes 12.5 days to complete one orbit of its star, and is 0.1016 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 233.237,
+    "planet_mass": "0.26 Jupiters",
+    "st_optmag": 12.697,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.1016,
+    "period_display": "12.5 days",
+    "eccentricity": "0.07",
+    "star_id": 262988,
+    "pl_orbper": 12.4551225,
+    "pl_kepflag": true,
+    "pl_radj": 0.774,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 161,
+    "multiple_planet_system": false,
+    "pl_rade": 8.675766,
+    "exo_id": "K2-329_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0697
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245008",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262988"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263857,"date":"2023-11-28T21:09:06","date_gmt":"2023-11-29T02:09:06","modified":"2025-04-23T05:55:39","modified_gmt":"2025-04-23T09:55:39","slug":"kepler-1403","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1403/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1403","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245799],"exo_id":"Kepler-1403","st_optmag":15.713,"st_vj":15.713,"st_dist":2163.9,"st_j":15.713,"st_mass":1.11,"dec":38.9600779,"st_teff":6060,"st_rad":1.15,"ra":290.8676391,"system_radius":9574263.68,"pl_hostname":"Kepler-1403","stellar_type":"F","tic_id":"TIC 122605691","magnitude":15.713},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263857","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245799"}]}}
+{
+  "id": 263857,
+  "date": "2023-11-28T21:09:06",
+  "date_gmt": "2023-11-29T02:09:06",
+  "modified": "2025-04-23T05:55:39",
+  "modified_gmt": "2025-04-23T09:55:39",
+  "slug": "kepler-1403",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1403/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1403",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245799
+    ],
+    "exo_id": "Kepler-1403",
+    "st_optmag": 15.713,
+    "st_vj": 15.713,
+    "st_dist": 2163.9,
+    "st_j": 15.713,
+    "st_mass": 1.11,
+    "dec": 38.9600779,
+    "st_teff": 6060,
+    "st_rad": 1.15,
+    "ra": 290.8676391,
+    "system_radius": 9574263.68,
+    "pl_hostname": "Kepler-1403",
+    "stellar_type": "F",
+    "tic_id": "TIC 122605691",
+    "magnitude": 15.713
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263857",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245799"
+      }
+    ]
+  }
+}

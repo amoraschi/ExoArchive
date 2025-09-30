@@ -1,1 +1,102 @@
-{"id":263136,"date":"2023-11-28T20:59:52","date_gmt":"2023-11-29T01:59:52","modified":"2025-09-29T22:57:14","modified_gmt":"2025-09-30T02:57:14","slug":"hd_219134","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_219134/","featured_media":429649,"categories":[],"acf":{"display_name":"HD 219134","custom_star_title":"HD 219134","aliases":"HD219134,HR8832,GJ892,HR 8832,GJ 892","constellation":"Cassiopeia","custom_star_description":"HD 219134 is an orange dwarf star in the constellation Cassiopeia. It is relatively nearby and close to the limit of what can be seen with the naked eye. Compared to the Sun, HD 219134 is older, smaller and less luminous, with a lower abundance of elements heavier than helium, and low levels of stellar magnetic activity.","tagline":"A bright nearby star with multiple planets","pop_culture":"","detection_timeline":"HD 219134 has been detected as a system with six possible exoplanets. The innermost planet, HD 219134 b, is a rocky super-Earth planet. This and three additional exoplanets (one additional rocky super-Earth, one Neptunian world, and one Jovian world) were deduced using radial velocity data. Two months after the initial announcement, a six-planet solution was proposed, adding two new planets. Of the planets detected, the Spitzer space telescope determined that two of them are transiting rocky super-Earths. As a bright, nearby star hosting planets, HD 219134 is a prime target for further exploration with upcoming space telescopes, with the outermost planet being particularly well suited to further observations.","rv_planets_prospects":"6 planets have been detected to date around this star using radial velocities.Radial velocity measurements have revealed the presence of multiple planets around HD 219134, ranging from rocky Super Earths to gas giant planets. The star’s low stellar magnetic activity levels make it well suited to radial velocity measurements.","transit_planets_prospects":"0 planets have been detected to date around this star with transits.While no planets were first discovered via transits around this star, two planet candidates detected with the radial velocity method have been found to transit the star.","imaging_planets_prospects":"0 planets have been detected to date around this star using direct imaging.As a bright, nearby star, HD 219134 is a prime target for future direct imaging. future large space telescopes will be able to search for exoplanets down to Earth size in the star’s habitable zone and characterize the exoplanets already discovered. The outermost planet will be readily detectable by future space-based exoplanet imaging missions.","planet_ids":[244298,244299,244300,244301,244302,244303],"exo_id":"HD_219134","st_optmag":5.54,"st_vj":5.54,"st_dist":6.5418,"st_j":5.54,"st_mass":0.75,"dec":57.1683566,"st_teff":4874,"st_rad":0.723,"ra":348.320729,"system_radius":465249375.7,"pl_hostname":"HD_219134","stellar_type":"K","tic_id":"TIC 283722336","magnitude":5.5},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263136","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244303"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244302"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244301"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244300"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244299"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244298"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 263136,
+  "date": "2023-11-28T20:59:52",
+  "date_gmt": "2023-11-29T01:59:52",
+  "modified": "2025-09-29T22:57:14",
+  "modified_gmt": "2025-09-30T02:57:14",
+  "slug": "hd_219134",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_219134/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 219134",
+    "custom_star_title": "HD 219134",
+    "aliases": "HD219134,HR8832,GJ892,HR 8832,GJ 892",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "HD 219134 is an orange dwarf star in the constellation Cassiopeia. It is relatively nearby and close to the limit of what can be seen with the naked eye. Compared to the Sun, HD 219134 is older, smaller and less luminous, with a lower abundance of elements heavier than helium, and low levels of stellar magnetic activity.",
+    "tagline": "A bright nearby star with multiple planets",
+    "pop_culture": "",
+    "detection_timeline": "HD 219134 has been detected as a system with six possible exoplanets. The innermost planet, HD 219134 b, is a rocky super-Earth planet. This and three additional exoplanets (one additional rocky super-Earth, one Neptunian world, and one Jovian world) were deduced using radial velocity data. Two months after the initial announcement, a six-planet solution was proposed, adding two new planets. Of the planets detected, the Spitzer space telescope determined that two of them are transiting rocky super-Earths. As a bright, nearby star hosting planets, HD 219134 is a prime target for further exploration with upcoming space telescopes, with the outermost planet being particularly well suited to further observations.",
+    "rv_planets_prospects": "6 planets have been detected to date around this star using radial velocities.Radial velocity measurements have revealed the presence of multiple planets around HD 219134, ranging from rocky Super Earths to gas giant planets. The star’s low stellar magnetic activity levels make it well suited to radial velocity measurements.",
+    "transit_planets_prospects": "0 planets have been detected to date around this star with transits.While no planets were first discovered via transits around this star, two planet candidates detected with the radial velocity method have been found to transit the star.",
+    "imaging_planets_prospects": "0 planets have been detected to date around this star using direct imaging.As a bright, nearby star, HD 219134 is a prime target for future direct imaging. future large space telescopes will be able to search for exoplanets down to Earth size in the star’s habitable zone and characterize the exoplanets already discovered. The outermost planet will be readily detectable by future space-based exoplanet imaging missions.",
+    "planet_ids": [
+      244298,
+      244299,
+      244300,
+      244301,
+      244302,
+      244303
+    ],
+    "exo_id": "HD_219134",
+    "st_optmag": 5.54,
+    "st_vj": 5.54,
+    "st_dist": 6.5418,
+    "st_j": 5.54,
+    "st_mass": 0.75,
+    "dec": 57.1683566,
+    "st_teff": 4874,
+    "st_rad": 0.723,
+    "ra": 348.320729,
+    "system_radius": 465249375.7,
+    "pl_hostname": "HD_219134",
+    "stellar_type": "K",
+    "tic_id": "TIC 283722336",
+    "magnitude": 5.5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263136",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244303"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244302"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244301"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244300"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244299"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244298"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

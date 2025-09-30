@@ -1,1 +1,76 @@
-{"id":261306,"date":"2023-11-28T20:36:42","date_gmt":"2023-11-29T01:36:42","modified":"2025-04-23T05:54:25","modified_gmt":"2025-04-23T09:54:25","slug":"hd_15906","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_15906/","featured_media":0,"categories":[],"acf":{"display_name":"HD 15906","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244100,244101],"exo_id":"HD_15906","st_optmag":9.78,"st_vj":9.78,"st_dist":45.5621,"st_j":9.78,"st_mass":0.79,"dec":-10.352178,"st_teff":4757,"st_rad":0.762,"ra":38.2712534,"system_radius":21093299.67,"pl_hostname":"HD_15906","stellar_type":"K","tic_id":"TIC 4646810","magnitude":9.78},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261306","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244101"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244100"}]}}
+{
+  "id": 261306,
+  "date": "2023-11-28T20:36:42",
+  "date_gmt": "2023-11-29T01:36:42",
+  "modified": "2025-04-23T05:54:25",
+  "modified_gmt": "2025-04-23T09:54:25",
+  "slug": "hd_15906",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_15906/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 15906",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244100,
+      244101
+    ],
+    "exo_id": "HD_15906",
+    "st_optmag": 9.78,
+    "st_vj": 9.78,
+    "st_dist": 45.5621,
+    "st_j": 9.78,
+    "st_mass": 0.79,
+    "dec": -10.352178,
+    "st_teff": 4757,
+    "st_rad": 0.762,
+    "ra": 38.2712534,
+    "system_radius": 21093299.67,
+    "pl_hostname": "HD_15906",
+    "stellar_type": "K",
+    "tic_id": "TIC 4646810",
+    "magnitude": 9.78
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244101"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244100"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262959,"date":"2023-11-28T20:57:38","date_gmt":"2023-11-29T01:57:38","modified":"2025-04-23T05:55:34","modified_gmt":"2025-04-23T09:55:34","slug":"tres-5","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tres-5/","featured_media":0,"categories":[],"acf":{"display_name":"TrES-5","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248717],"exo_id":"TrES-5","st_optmag":13.677,"st_vj":13.677,"st_dist":360.313,"st_j":13.677,"st_mass":0.901,"dec":59.4489033,"st_teff":5171,"st_rad":0.868,"ra":305.2219454,"system_radius":3678611.6233,"pl_hostname":"TrES-5","stellar_type":"K","tic_id":"TIC 233948455","magnitude":13.677},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262959","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248717"}]}}
+{
+  "id": 262959,
+  "date": "2023-11-28T20:57:38",
+  "date_gmt": "2023-11-29T01:57:38",
+  "modified": "2025-04-23T05:55:34",
+  "modified_gmt": "2025-04-23T09:55:34",
+  "slug": "tres-5",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tres-5/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TrES-5",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248717
+    ],
+    "exo_id": "TrES-5",
+    "st_optmag": 13.677,
+    "st_vj": 13.677,
+    "st_dist": 360.313,
+    "st_j": 13.677,
+    "st_mass": 0.901,
+    "dec": 59.4489033,
+    "st_teff": 5171,
+    "st_rad": 0.868,
+    "ra": 305.2219454,
+    "system_radius": 3678611.6233,
+    "pl_hostname": "TrES-5",
+    "stellar_type": "K",
+    "tic_id": "TIC 233948455",
+    "magnitude": 13.677
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262959",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248717"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262340,"date":"2023-11-28T20:49:44","date_gmt":"2023-11-29T01:49:44","modified":"2025-04-23T05:56:05","modified_gmt":"2025-04-23T09:56:05","slug":"hd_13908","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_13908/","featured_media":0,"categories":[],"acf":{"display_name":"HD 13908","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244017,244018],"exo_id":"HD_13908","st_optmag":7.52,"st_vj":7.52,"st_dist":79.5515,"st_j":7.52,"st_mass":1.29,"dec":65.5941901,"st_teff":6255,"st_rad":1.67,"ra":34.5609102,"system_radius":303683676.1,"pl_hostname":"HD_13908","stellar_type":"F","tic_id":"TIC 12906712","magnitude":7.52},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262340","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244018"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244017"}]}}
+{
+  "id": 262340,
+  "date": "2023-11-28T20:49:44",
+  "date_gmt": "2023-11-29T01:49:44",
+  "modified": "2025-04-23T05:56:05",
+  "modified_gmt": "2025-04-23T09:56:05",
+  "slug": "hd_13908",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_13908/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 13908",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244017,
+      244018
+    ],
+    "exo_id": "HD_13908",
+    "st_optmag": 7.52,
+    "st_vj": 7.52,
+    "st_dist": 79.5515,
+    "st_j": 7.52,
+    "st_mass": 1.29,
+    "dec": 65.5941901,
+    "st_teff": 6255,
+    "st_rad": 1.67,
+    "ra": 34.5609102,
+    "system_radius": 303683676.1,
+    "pl_hostname": "HD_13908",
+    "stellar_type": "F",
+    "tic_id": "TIC 12906712",
+    "magnitude": 7.52
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262340",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244018"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244017"
+      }
+    ]
+  }
+}

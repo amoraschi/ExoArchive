@@ -1,1 +1,79 @@
-{"id":247601,"date":"2017-10-02T13:32:43","date_gmt":"2017-10-02T17:32:43","modified":"2025-03-28T07:28:15","modified_gmt":"2025-03-28T11:28:15","slug":"kepler-698-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-698-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-698","pl_letter":"b","display_name":"Kepler-698 b","planet_radius":"0.32830761 x Jupiter","derived_description":"Kepler-698 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.1 Earths, it takes 16.3 days to complete one orbit of its star, and is 0.1255 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1995.57,"planet_mass":"13.1 Earths","st_optmag":15.716,"discovery_date":"2016","pl_orbsmax":0.1255,"period_display":"16.3 days","eccentricity":"0.0","star_id":261043,"pl_orbper":16.32976218,"pl_kepflag":true,"pl_radj":0.32830761,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.68,"exo_id":"Kepler-698_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247601","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261043"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247601,
+  "date": "2017-10-02T13:32:43",
+  "date_gmt": "2017-10-02T17:32:43",
+  "modified": "2025-03-28T07:28:15",
+  "modified_gmt": "2025-03-28T11:28:15",
+  "slug": "kepler-698-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-698-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-698",
+    "pl_letter": "b",
+    "display_name": "Kepler-698 b",
+    "planet_radius": "0.32830761 x Jupiter",
+    "derived_description": "Kepler-698 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.1 Earths, it takes 16.3 days to complete one orbit of its star, and is 0.1255 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1995.57,
+    "planet_mass": "13.1 Earths",
+    "st_optmag": 15.716,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1255,
+    "period_display": "16.3 days",
+    "eccentricity": "0.0",
+    "star_id": 261043,
+    "pl_orbper": 16.32976218,
+    "pl_kepflag": true,
+    "pl_radj": 0.32830761,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.68,
+    "exo_id": "Kepler-698_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247601",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261043"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

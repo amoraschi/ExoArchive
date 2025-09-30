@@ -1,1 +1,79 @@
-{"id":246302,"date":"2021-12-13T17:05:44","date_gmt":"2021-12-13T22:05:44","modified":"2025-07-07T20:35:41","modified_gmt":"2025-07-08T00:35:41","slug":"kepler-1776-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1776-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1776","pl_letter":"b","display_name":"Kepler-1776 b","planet_radius":"0.23298909 x Jupiter","derived_description":"Kepler-1776 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.33 Earths, it takes 35 days to complete one orbit of its star, and is 0.2093 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":690.336,"planet_mass":"7.33 Earths","st_optmag":13.68,"discovery_date":"2021","pl_orbsmax":0.2093,"period_display":"35 days","eccentricity":"0.0","star_id":264224,"pl_orbper":35.01190186,"pl_kepflag":true,"pl_radj":0.23298909,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.61157023,"exo_id":"Kepler-1776_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246302","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264224"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246302,
+  "date": "2021-12-13T17:05:44",
+  "date_gmt": "2021-12-13T22:05:44",
+  "modified": "2025-07-07T20:35:41",
+  "modified_gmt": "2025-07-08T00:35:41",
+  "slug": "kepler-1776-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1776-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1776",
+    "pl_letter": "b",
+    "display_name": "Kepler-1776 b",
+    "planet_radius": "0.23298909 x Jupiter",
+    "derived_description": "Kepler-1776 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.33 Earths, it takes 35 days to complete one orbit of its star, and is 0.2093 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 690.336,
+    "planet_mass": "7.33 Earths",
+    "st_optmag": 13.68,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.2093,
+    "period_display": "35 days",
+    "eccentricity": "0.0",
+    "star_id": 264224,
+    "pl_orbper": 35.01190186,
+    "pl_kepflag": true,
+    "pl_radj": 0.23298909,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.61157023,
+    "exo_id": "Kepler-1776_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246302",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264224"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260712,"date":"2023-11-28T20:29:09","date_gmt":"2023-11-29T01:29:09","modified":"2025-04-23T05:55:45","modified_gmt":"2025-04-23T09:55:45","slug":"hats-58_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-58_a/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-58 A","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243843],"exo_id":"HATS-58_A","st_optmag":11.572,"st_vj":11.572,"st_dist":403.591,"st_j":11.572,"st_mass":1.461,"dec":-48.9784105,"st_teff":7175,"st_rad":1.433,"ra":186.7873036,"system_radius":8673684.5026,"pl_hostname":"HATS-58_A","stellar_type":"F","tic_id":"TIC 21113347","magnitude":11.572},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260712","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243843"}]}}
+{
+  "id": 260712,
+  "date": "2023-11-28T20:29:09",
+  "date_gmt": "2023-11-29T01:29:09",
+  "modified": "2025-04-23T05:55:45",
+  "modified_gmt": "2025-04-23T09:55:45",
+  "slug": "hats-58_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-58_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-58 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243843
+    ],
+    "exo_id": "HATS-58_A",
+    "st_optmag": 11.572,
+    "st_vj": 11.572,
+    "st_dist": 403.591,
+    "st_j": 11.572,
+    "st_mass": 1.461,
+    "dec": -48.9784105,
+    "st_teff": 7175,
+    "st_rad": 1.433,
+    "ra": 186.7873036,
+    "system_radius": 8673684.5026,
+    "pl_hostname": "HATS-58_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 21113347",
+    "magnitude": 11.572
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260712",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243843"
+      }
+    ]
+  }
+}

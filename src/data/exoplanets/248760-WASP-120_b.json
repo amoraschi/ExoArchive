@@ -1,1 +1,79 @@
-{"id":248760,"date":"2016-06-04T13:15:42","date_gmt":"2016-06-04T17:15:42","modified":"2025-07-07T20:32:01","modified_gmt":"2025-07-08T00:32:01","slug":"wasp-120-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-120-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-120","pl_letter":"b","display_name":"WASP-120 b","planet_radius":"1.473 x Jupiter","derived_description":"WASP-120 b is a gas giant exoplanet that orbits a F-type star. Its mass is 4.85 Jupiters, it takes 3.6 days to complete one orbit of its star, and is 0.0514 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP","st_dist":381.174,"planet_mass":"4.85 Jupiters","st_optmag":10.96,"discovery_date":"2016","pl_orbsmax":0.0514,"period_display":"3.6 days","eccentricity":"0.06","star_id":262383,"pl_orbper":3.6112706,"pl_kepflag":false,"pl_radj":1.473,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":-27,"multiple_planet_system":false,"pl_rade":16.510857,"exo_id":"WASP-120_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.057},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248760","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262383"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248760,
+  "date": "2016-06-04T13:15:42",
+  "date_gmt": "2016-06-04T17:15:42",
+  "modified": "2025-07-07T20:32:01",
+  "modified_gmt": "2025-07-08T00:32:01",
+  "slug": "wasp-120-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-120-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-120",
+    "pl_letter": "b",
+    "display_name": "WASP-120 b",
+    "planet_radius": "1.473 x Jupiter",
+    "derived_description": "WASP-120 b is a gas giant exoplanet that orbits a F-type star. Its mass is 4.85 Jupiters, it takes 3.6 days to complete one orbit of its star, and is 0.0514 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP",
+    "st_dist": 381.174,
+    "planet_mass": "4.85 Jupiters",
+    "st_optmag": 10.96,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0514,
+    "period_display": "3.6 days",
+    "eccentricity": "0.06",
+    "star_id": 262383,
+    "pl_orbper": 3.6112706,
+    "pl_kepflag": false,
+    "pl_radj": 1.473,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": -27,
+    "multiple_planet_system": false,
+    "pl_rade": 16.510857,
+    "exo_id": "WASP-120_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.057
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248760",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262383"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

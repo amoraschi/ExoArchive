@@ -1,1 +1,71 @@
-{"id":263139,"date":"2023-11-28T20:59:54","date_gmt":"2023-11-29T01:59:54","modified":"2025-06-06T07:19:02","modified_gmt":"2025-06-06T11:19:02","slug":"corot-18","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-18/","featured_media":0,"categories":[],"acf":{"display_name":"CoRoT-18","custom_star_title":"","aliases":"","constellation":"Monoceros","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243481],"exo_id":"CoRoT-18","st_optmag":14.868,"st_vj":14.868,"st_dist":764.889,"st_j":14.868,"st_mass":0.95,"dec":-0.0316045,"st_teff":5440,"st_rad":1,"ra":98.1724172,"system_radius":4413137.165,"pl_hostname":"CoRoT-18","stellar_type":"G","tic_id":"TIC 37168957","magnitude":14.868},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263139","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243481"}]}}
+{
+  "id": 263139,
+  "date": "2023-11-28T20:59:54",
+  "date_gmt": "2023-11-29T01:59:54",
+  "modified": "2025-06-06T07:19:02",
+  "modified_gmt": "2025-06-06T11:19:02",
+  "slug": "corot-18",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-18/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-18",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243481
+    ],
+    "exo_id": "CoRoT-18",
+    "st_optmag": 14.868,
+    "st_vj": 14.868,
+    "st_dist": 764.889,
+    "st_j": 14.868,
+    "st_mass": 0.95,
+    "dec": -0.0316045,
+    "st_teff": 5440,
+    "st_rad": 1,
+    "ra": 98.1724172,
+    "system_radius": 4413137.165,
+    "pl_hostname": "CoRoT-18",
+    "stellar_type": "G",
+    "tic_id": "TIC 37168957",
+    "magnitude": 14.868
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263139",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243481"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243541,"date":"2021-10-28T13:34:03","date_gmt":"2021-10-28T17:34:03","modified":"2025-07-07T15:24:38","modified_gmt":"2025-07-07T19:24:38","slug":"epic-206042996-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/epic-206042996-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"EPIC_206042996","pl_letter":"c","display_name":"EPIC 206042996 c","planet_radius":"1.2 x Earth","derived_description":"EPIC 206042996 c is a super Earth exoplanet that orbits a K-type star. Its mass is 1.87 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.0081097706291203 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":451.769,"planet_mass":"1.87 Earths","st_optmag":16.59,"discovery_date":"2021","pl_orbsmax":"","period_display":"0.4 days","eccentricity":"","star_id":263224,"pl_orbper":0.354884,"pl_kepflag":true,"pl_radj":0.10705701,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.2,"exo_id":"EPIC_206042996_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243541","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263224"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 243541,
+  "date": "2021-10-28T13:34:03",
+  "date_gmt": "2021-10-28T17:34:03",
+  "modified": "2025-07-07T15:24:38",
+  "modified_gmt": "2025-07-07T19:24:38",
+  "slug": "epic-206042996-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/epic-206042996-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "EPIC_206042996",
+    "pl_letter": "c",
+    "display_name": "EPIC 206042996 c",
+    "planet_radius": "1.2 x Earth",
+    "derived_description": "EPIC 206042996 c is a super Earth exoplanet that orbits a K-type star. Its mass is 1.87 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.0081097706291203 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 451.769,
+    "planet_mass": "1.87 Earths",
+    "st_optmag": 16.59,
+    "discovery_date": "2021",
+    "pl_orbsmax": "",
+    "period_display": "0.4 days",
+    "eccentricity": "",
+    "star_id": 263224,
+    "pl_orbper": 0.354884,
+    "pl_kepflag": true,
+    "pl_radj": 0.10705701,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.2,
+    "exo_id": "EPIC_206042996_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243541",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263224"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

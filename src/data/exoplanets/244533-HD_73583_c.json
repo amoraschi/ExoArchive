@@ -1,1 +1,79 @@
-{"id":244533,"date":"2022-03-21T13:34:42","date_gmt":"2022-03-21T17:34:42","modified":"2025-07-07T20:36:44","modified_gmt":"2025-07-08T00:36:44","slug":"hd-73583-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-73583-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_73583","pl_letter":"c","display_name":"HD 73583 c","planet_radius":"2.39 x Earth","derived_description":"HD 73583 c is a super Earth exoplanet that orbits a K-type star. Its mass is 9.7 Earths, it takes 18.9 days to complete one orbit of its star, and is 0.1242 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":31.5666,"planet_mass":"9.7 Earths","st_optmag":9.67,"discovery_date":"2022","pl_orbsmax":0.1242,"period_display":"18.9 days","eccentricity":"0.08","star_id":261689,"pl_orbper":18.87974,"pl_kepflag":false,"pl_radj":0.21322189,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":-41.6,"multiple_planet_system":false,"pl_rade":2.39,"exo_id":"HD_73583_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.08},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244533","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261689"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244533,
+  "date": "2022-03-21T13:34:42",
+  "date_gmt": "2022-03-21T17:34:42",
+  "modified": "2025-07-07T20:36:44",
+  "modified_gmt": "2025-07-08T00:36:44",
+  "slug": "hd-73583-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-73583-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_73583",
+    "pl_letter": "c",
+    "display_name": "HD 73583 c",
+    "planet_radius": "2.39 x Earth",
+    "derived_description": "HD 73583 c is a super Earth exoplanet that orbits a K-type star. Its mass is 9.7 Earths, it takes 18.9 days to complete one orbit of its star, and is 0.1242 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 31.5666,
+    "planet_mass": "9.7 Earths",
+    "st_optmag": 9.67,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.1242,
+    "period_display": "18.9 days",
+    "eccentricity": "0.08",
+    "star_id": 261689,
+    "pl_orbper": 18.87974,
+    "pl_kepflag": false,
+    "pl_radj": 0.21322189,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": -41.6,
+    "multiple_planet_system": false,
+    "pl_rade": 2.39,
+    "exo_id": "HD_73583_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.08
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244533",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261689"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

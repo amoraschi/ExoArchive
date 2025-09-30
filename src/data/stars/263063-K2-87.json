@@ -1,1 +1,71 @@
-{"id":263063,"date":"2023-11-28T20:58:57","date_gmt":"2023-11-29T01:58:57","modified":"2025-04-23T05:53:34","modified_gmt":"2025-04-23T09:53:34","slug":"k2-87","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-87/","featured_media":0,"categories":[],"acf":{"display_name":"K2-87","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245190],"exo_id":"K2-87","st_optmag":14.136,"st_vj":14.136,"st_dist":491.242,"st_j":14.136,"st_mass":1.164,"dec":18.8273617,"st_teff":5747,"st_rad":1.401,"ra":66.2363638,"system_radius":14062199.78,"pl_hostname":"K2-87","stellar_type":"G","tic_id":"TIC 17409453","magnitude":14.136},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263063","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245190"}]}}
+{
+  "id": 263063,
+  "date": "2023-11-28T20:58:57",
+  "date_gmt": "2023-11-29T01:58:57",
+  "modified": "2025-04-23T05:53:34",
+  "modified_gmt": "2025-04-23T09:53:34",
+  "slug": "k2-87",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-87/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-87",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245190
+    ],
+    "exo_id": "K2-87",
+    "st_optmag": 14.136,
+    "st_vj": 14.136,
+    "st_dist": 491.242,
+    "st_j": 14.136,
+    "st_mass": 1.164,
+    "dec": 18.8273617,
+    "st_teff": 5747,
+    "st_rad": 1.401,
+    "ra": 66.2363638,
+    "system_radius": 14062199.78,
+    "pl_hostname": "K2-87",
+    "stellar_type": "G",
+    "tic_id": "TIC 17409453",
+    "magnitude": 14.136
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263063",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245190"
+      }
+    ]
+  }
+}

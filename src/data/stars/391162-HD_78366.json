@@ -1,1 +1,69 @@
-{"id":391162,"date":"2024-04-30T20:01:15","date_gmt":"2024-05-01T00:01:15","modified":"2025-04-23T05:57:25","modified_gmt":"2025-04-23T09:57:25","slug":"hd-78366","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-78366/","featured_media":429647,"categories":[],"acf":{"display_name":"HD 78366","custom_star_title":"","aliases":"HR 3625,GJ 334.2","constellation":"Lynx","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_78366","st_optmag":5.962,"st_vj":5.962,"st_dist":18.9498,"st_j":5.962,"st_mass":1.08,"dec":33.8822184,"st_teff":5992,"st_rad":1.045,"ra":137.2127933,"system_radius":149597870,"pl_hostname":"HD_78366","stellar_type":"F","tic_id":"TIC 355127594","magnitude":6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391162","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391162,
+  "date": "2024-04-30T20:01:15",
+  "date_gmt": "2024-05-01T00:01:15",
+  "modified": "2025-04-23T05:57:25",
+  "modified_gmt": "2025-04-23T09:57:25",
+  "slug": "hd-78366",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-78366/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 78366",
+    "custom_star_title": "",
+    "aliases": "HR 3625,GJ 334.2",
+    "constellation": "Lynx",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_78366",
+    "st_optmag": 5.962,
+    "st_vj": 5.962,
+    "st_dist": 18.9498,
+    "st_j": 5.962,
+    "st_mass": 1.08,
+    "dec": 33.8822184,
+    "st_teff": 5992,
+    "st_rad": 1.045,
+    "ra": 137.2127933,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_78366",
+    "stellar_type": "F",
+    "tic_id": "TIC 355127594",
+    "magnitude": 6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391162",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

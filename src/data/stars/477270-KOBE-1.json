@@ -1,1 +1,82 @@
-{"id":477270,"date":"2025-02-28T03:03:28","date_gmt":"2025-02-28T08:03:28","modified":"2025-04-23T05:54:22","modified_gmt":"2025-04-23T09:54:22","slug":"kobe-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kobe-1/","featured_media":429649,"categories":[],"acf":{"display_name":"KOBE-1","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":477282,"1":477281},"exo_id":"KOBE-1","st_optmag":10.1,"st_vj":10.1,"st_dist":23.9718,"st_j":10.1,"st_mass":0.629,"dec":25.3310358,"st_teff":4135,"st_rad":0.619,"ra":19.1660378,"system_radius":24041873.6877,"pl_hostname":"KOBE-1","stellar_type":"K","tic_id":"TIC 16917838","magnitude":10.1},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/477270","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/477282"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/477281"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 477270,
+  "date": "2025-02-28T03:03:28",
+  "date_gmt": "2025-02-28T08:03:28",
+  "modified": "2025-04-23T05:54:22",
+  "modified_gmt": "2025-04-23T09:54:22",
+  "slug": "kobe-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kobe-1/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "KOBE-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 477282,
+      "1": 477281
+    },
+    "exo_id": "KOBE-1",
+    "st_optmag": 10.1,
+    "st_vj": 10.1,
+    "st_dist": 23.9718,
+    "st_j": 10.1,
+    "st_mass": 0.629,
+    "dec": 25.3310358,
+    "st_teff": 4135,
+    "st_rad": 0.619,
+    "ra": 19.1660378,
+    "system_radius": 24041873.6877,
+    "pl_hostname": "KOBE-1",
+    "stellar_type": "K",
+    "tic_id": "TIC 16917838",
+    "magnitude": 10.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/477270",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/477282"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/477281"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

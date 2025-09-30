@@ -1,1 +1,71 @@
-{"id":262999,"date":"2023-11-28T20:58:08","date_gmt":"2023-11-29T01:58:08","modified":"2025-04-23T05:56:17","modified_gmt":"2025-04-23T09:56:17","slug":"kps-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kps-1/","featured_media":0,"categories":[],"acf":{"display_name":"KPS-1","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248128],"exo_id":"KPS-1","st_optmag":12.97,"st_vj":12.97,"st_dist":262.706,"st_j":12.97,"st_mass":0.892,"dec":64.9638452,"st_teff":5165,"st_rad":0.907,"ra":165.167198,"system_radius":4024182.703,"pl_hostname":"KPS-1","stellar_type":"K","tic_id":"TIC 99834717","magnitude":12.97},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262999","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248128"}]}}
+{
+  "id": 262999,
+  "date": "2023-11-28T20:58:08",
+  "date_gmt": "2023-11-29T01:58:08",
+  "modified": "2025-04-23T05:56:17",
+  "modified_gmt": "2025-04-23T09:56:17",
+  "slug": "kps-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kps-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KPS-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248128
+    ],
+    "exo_id": "KPS-1",
+    "st_optmag": 12.97,
+    "st_vj": 12.97,
+    "st_dist": 262.706,
+    "st_j": 12.97,
+    "st_mass": 0.892,
+    "dec": 64.9638452,
+    "st_teff": 5165,
+    "st_rad": 0.907,
+    "ra": 165.167198,
+    "system_radius": 4024182.703,
+    "pl_hostname": "KPS-1",
+    "stellar_type": "K",
+    "tic_id": "TIC 99834717",
+    "magnitude": 12.97
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262999",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248128"
+      }
+    ]
+  }
+}

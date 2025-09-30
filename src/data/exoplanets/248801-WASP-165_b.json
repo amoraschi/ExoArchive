@@ -1,1 +1,79 @@
-{"id":248801,"date":"2018-11-10T12:26:21","date_gmt":"2018-11-10T17:26:21","modified":"2025-07-07T20:33:19","modified_gmt":"2025-07-08T00:33:19","slug":"wasp-165-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-165-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-165","pl_letter":"b","display_name":"WASP-165 b","planet_radius":"1.26 x Jupiter","derived_description":"WASP-165 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.658 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.04823 AU from its star. Its discovery was announced in 2018.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP-South","st_dist":602.236,"planet_mass":"0.658 Jupiters","st_optmag":12.816,"discovery_date":"2018","pl_orbsmax":0.04823,"period_display":"3.5 days","eccentricity":"0.0","star_id":262453,"pl_orbper":3.465509,"pl_kepflag":false,"pl_radj":1.26,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":14.12334,"exo_id":"WASP-165_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248801","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262453"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248801,
+  "date": "2018-11-10T12:26:21",
+  "date_gmt": "2018-11-10T17:26:21",
+  "modified": "2025-07-07T20:33:19",
+  "modified_gmt": "2025-07-08T00:33:19",
+  "slug": "wasp-165-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-165-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-165",
+    "pl_letter": "b",
+    "display_name": "WASP-165 b",
+    "planet_radius": "1.26 x Jupiter",
+    "derived_description": "WASP-165 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.658 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.04823 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP-South",
+    "st_dist": 602.236,
+    "planet_mass": "0.658 Jupiters",
+    "st_optmag": 12.816,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.04823,
+    "period_display": "3.5 days",
+    "eccentricity": "0.0",
+    "star_id": 262453,
+    "pl_orbper": 3.465509,
+    "pl_kepflag": false,
+    "pl_radj": 1.26,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 14.12334,
+    "exo_id": "WASP-165_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248801",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262453"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

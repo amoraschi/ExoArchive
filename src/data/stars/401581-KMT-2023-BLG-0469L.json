@@ -1,1 +1,71 @@
-{"id":401581,"date":"2024-06-13T20:50:30","date_gmt":"2024-06-14T00:50:30","modified":"2025-04-23T05:56:32","modified_gmt":"2025-04-23T09:56:32","slug":"kmt-2023-blg-0469l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-0469l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2023-BLG-0469L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[401627],"exo_id":"KMT-2023-BLG-0469L","st_optmag":"","st_vj":"","st_dist":7070,"st_j":"","st_mass":0.47,"dec":-28.7150611,"st_teff":"","st_rad":"","ra":269.4067917,"system_radius":345571079.7,"pl_hostname":"KMT-2023-BLG-0469L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/401581","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401627"}]}}
+{
+  "id": 401581,
+  "date": "2024-06-13T20:50:30",
+  "date_gmt": "2024-06-14T00:50:30",
+  "modified": "2025-04-23T05:56:32",
+  "modified_gmt": "2025-04-23T09:56:32",
+  "slug": "kmt-2023-blg-0469l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-0469l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2023-BLG-0469L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      401627
+    ],
+    "exo_id": "KMT-2023-BLG-0469L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7070,
+    "st_j": "",
+    "st_mass": 0.47,
+    "dec": -28.7150611,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.4067917,
+    "system_radius": 345571079.7,
+    "pl_hostname": "KMT-2023-BLG-0469L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401581",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401627"
+      }
+    ]
+  }
+}

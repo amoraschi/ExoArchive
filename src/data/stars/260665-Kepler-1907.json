@@ -1,1 +1,76 @@
-{"id":260665,"date":"2023-11-28T20:28:34","date_gmt":"2023-11-29T01:28:34","modified":"2025-04-23T05:54:52","modified_gmt":"2025-04-23T09:54:52","slug":"kepler-1907","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1907/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1907","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246479,"1":246478},"exo_id":"Kepler-1907","st_optmag":13.989,"st_vj":13.989,"st_dist":292.111,"st_j":13.989,"st_mass":0.752,"dec":47.3279236,"st_teff":5159,"st_rad":0.8,"ra":280.7085829,"system_radius":15514795.0977,"pl_hostname":"Kepler-1907","stellar_type":"K","tic_id":"TIC 123130285","magnitude":13.989},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260665","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246479"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246478"}]}}
+{
+  "id": 260665,
+  "date": "2023-11-28T20:28:34",
+  "date_gmt": "2023-11-29T01:28:34",
+  "modified": "2025-04-23T05:54:52",
+  "modified_gmt": "2025-04-23T09:54:52",
+  "slug": "kepler-1907",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1907/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1907",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246479,
+      "1": 246478
+    },
+    "exo_id": "Kepler-1907",
+    "st_optmag": 13.989,
+    "st_vj": 13.989,
+    "st_dist": 292.111,
+    "st_j": 13.989,
+    "st_mass": 0.752,
+    "dec": 47.3279236,
+    "st_teff": 5159,
+    "st_rad": 0.8,
+    "ra": 280.7085829,
+    "system_radius": 15514795.0977,
+    "pl_hostname": "Kepler-1907",
+    "stellar_type": "K",
+    "tic_id": "TIC 123130285",
+    "magnitude": 13.989
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260665",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246479"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246478"
+      }
+    ]
+  }
+}

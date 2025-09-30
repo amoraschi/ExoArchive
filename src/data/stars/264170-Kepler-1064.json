@@ -1,1 +1,71 @@
-{"id":264170,"date":"2023-11-28T21:13:07","date_gmt":"2023-11-29T02:13:07","modified":"2025-04-23T05:53:38","modified_gmt":"2025-04-23T09:53:38","slug":"kepler-1064","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1064/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1064","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245315],"exo_id":"Kepler-1064","st_optmag":13.958,"st_vj":13.958,"st_dist":374,"st_j":13.958,"st_mass":0.85,"dec":37.6888103,"st_teff":5153,"st_rad":0.79,"ra":291.7415821,"system_radius":17697428.021,"pl_hostname":"Kepler-1064","stellar_type":"K","tic_id":"TIC 137315852","magnitude":13.958},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264170","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245315"}]}}
+{
+  "id": 264170,
+  "date": "2023-11-28T21:13:07",
+  "date_gmt": "2023-11-29T02:13:07",
+  "modified": "2025-04-23T05:53:38",
+  "modified_gmt": "2025-04-23T09:53:38",
+  "slug": "kepler-1064",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1064/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1064",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245315
+    ],
+    "exo_id": "Kepler-1064",
+    "st_optmag": 13.958,
+    "st_vj": 13.958,
+    "st_dist": 374,
+    "st_j": 13.958,
+    "st_mass": 0.85,
+    "dec": 37.6888103,
+    "st_teff": 5153,
+    "st_rad": 0.79,
+    "ra": 291.7415821,
+    "system_radius": 17697428.021,
+    "pl_hostname": "Kepler-1064",
+    "stellar_type": "K",
+    "tic_id": "TIC 137315852",
+    "magnitude": 13.958
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264170",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245315"
+      }
+    ]
+  }
+}

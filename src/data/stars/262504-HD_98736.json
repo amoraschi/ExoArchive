@@ -1,1 +1,71 @@
-{"id":262504,"date":"2023-11-28T20:51:50","date_gmt":"2023-11-29T01:51:50","modified":"2025-04-23T05:56:22","modified_gmt":"2025-04-23T09:56:22","slug":"hd_98736","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_98736/","featured_media":0,"categories":[],"acf":{"display_name":"HD 98736","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244622],"exo_id":"HD_98736","st_optmag":7.93,"st_vj":7.93,"st_dist":32.4459,"st_j":7.93,"st_mass":0.92,"dec":18.1896082,"st_teff":5271,"st_rad":0.93,"ra":170.4549045,"system_radius":278850429.68,"pl_hostname":"HD_98736","stellar_type":"K","tic_id":"TIC 3819571","magnitude":7.93},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262504","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244622"}]}}
+{
+  "id": 262504,
+  "date": "2023-11-28T20:51:50",
+  "date_gmt": "2023-11-29T01:51:50",
+  "modified": "2025-04-23T05:56:22",
+  "modified_gmt": "2025-04-23T09:56:22",
+  "slug": "hd_98736",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_98736/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 98736",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244622
+    ],
+    "exo_id": "HD_98736",
+    "st_optmag": 7.93,
+    "st_vj": 7.93,
+    "st_dist": 32.4459,
+    "st_j": 7.93,
+    "st_mass": 0.92,
+    "dec": 18.1896082,
+    "st_teff": 5271,
+    "st_rad": 0.93,
+    "ra": 170.4549045,
+    "system_radius": 278850429.68,
+    "pl_hostname": "HD_98736",
+    "stellar_type": "K",
+    "tic_id": "TIC 3819571",
+    "magnitude": 7.93
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262504",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244622"
+      }
+    ]
+  }
+}

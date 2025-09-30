@@ -1,1 +1,79 @@
-{"id":246748,"date":"2017-10-02T13:32:49","date_gmt":"2017-10-02T17:32:49","modified":"2025-07-07T15:25:46","modified_gmt":"2025-07-07T19:25:46","slug":"kepler-247-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-247-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-247","pl_letter":"c","display_name":"Kepler-247 c","planet_radius":"0.365 x Jupiter","derived_description":"Kepler-247 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 15.7 Earths, it takes 9.4 days to complete one orbit of its star, and is 0.084 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":663.711,"planet_mass":"15.7 Earths","st_optmag":15.199,"discovery_date":"2014","pl_orbsmax":0.084,"period_display":"9.4 days","eccentricity":"0.0","star_id":260846,"pl_orbper":9.439452,"pl_kepflag":true,"pl_radj":0.365,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":4.09,"exo_id":"Kepler-247_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246748","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260846"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246748,
+  "date": "2017-10-02T13:32:49",
+  "date_gmt": "2017-10-02T17:32:49",
+  "modified": "2025-07-07T15:25:46",
+  "modified_gmt": "2025-07-07T19:25:46",
+  "slug": "kepler-247-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-247-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-247",
+    "pl_letter": "c",
+    "display_name": "Kepler-247 c",
+    "planet_radius": "0.365 x Jupiter",
+    "derived_description": "Kepler-247 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 15.7 Earths, it takes 9.4 days to complete one orbit of its star, and is 0.084 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 663.711,
+    "planet_mass": "15.7 Earths",
+    "st_optmag": 15.199,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.084,
+    "period_display": "9.4 days",
+    "eccentricity": "0.0",
+    "star_id": 260846,
+    "pl_orbper": 9.439452,
+    "pl_kepflag": true,
+    "pl_radj": 0.365,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.09,
+    "exo_id": "Kepler-247_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246748",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260846"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

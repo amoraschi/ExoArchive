@@ -1,1 +1,77 @@
-{"id":884266,"date":"2025-07-29T20:42:22","date_gmt":"2025-07-30T00:42:22","modified":"2025-07-29T20:42:22","modified_gmt":"2025-07-30T00:42:22","slug":"toi-2346","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2346/","featured_media":429647,"categories":[],"acf":{"display_name":"TOI-2346","custom_star_title":"","aliases":"","constellation":"Lepus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[884307],"exo_id":"TOI-2346","st_optmag":12.366,"st_vj":12.366,"st_dist":437.484,"st_j":12.366,"st_mass":1.271,"dec":-13.3724686,"st_teff":6480,"st_rad":1.38,"ra":88.0929073,"system_radius":7075979.251,"pl_hostname":"TOI-2346","stellar_type":"F","tic_id":"TIC 317483660","magnitude":12.366},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/884266","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884307"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 884266,
+  "date": "2025-07-29T20:42:22",
+  "date_gmt": "2025-07-30T00:42:22",
+  "modified": "2025-07-29T20:42:22",
+  "modified_gmt": "2025-07-30T00:42:22",
+  "slug": "toi-2346",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2346/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2346",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lepus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      884307
+    ],
+    "exo_id": "TOI-2346",
+    "st_optmag": 12.366,
+    "st_vj": 12.366,
+    "st_dist": 437.484,
+    "st_j": 12.366,
+    "st_mass": 1.271,
+    "dec": -13.3724686,
+    "st_teff": 6480,
+    "st_rad": 1.38,
+    "ra": 88.0929073,
+    "system_radius": 7075979.251,
+    "pl_hostname": "TOI-2346",
+    "stellar_type": "F",
+    "tic_id": "TIC 317483660",
+    "magnitude": 12.366
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884266",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884307"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

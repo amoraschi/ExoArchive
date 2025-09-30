@@ -1,1 +1,71 @@
-{"id":409950,"date":"2024-07-25T22:04:31","date_gmt":"2024-07-26T02:04:31","modified":"2025-04-23T05:55:34","modified_gmt":"2025-04-23T09:55:34","slug":"toi-2019","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2019/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2019","custom_star_title":"","aliases":"","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410027],"exo_id":"TOI-2019","st_optmag":10.263,"st_vj":10.263,"st_dist":198.007,"st_j":10.263,"st_mass":1.1832,"dec":48.955206,"st_teff":5626,"st_rad":1.7457,"ra":234.4317651,"system_radius":19148527.36,"pl_hostname":"TOI-2019","stellar_type":"G","tic_id":"TIC 159781361","magnitude":10.263},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409950","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410027"}]}}
+{
+  "id": 409950,
+  "date": "2024-07-25T22:04:31",
+  "date_gmt": "2024-07-26T02:04:31",
+  "modified": "2025-04-23T05:55:34",
+  "modified_gmt": "2025-04-23T09:55:34",
+  "slug": "toi-2019",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2019/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2019",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410027
+    ],
+    "exo_id": "TOI-2019",
+    "st_optmag": 10.263,
+    "st_vj": 10.263,
+    "st_dist": 198.007,
+    "st_j": 10.263,
+    "st_mass": 1.1832,
+    "dec": 48.955206,
+    "st_teff": 5626,
+    "st_rad": 1.7457,
+    "ra": 234.4317651,
+    "system_radius": 19148527.36,
+    "pl_hostname": "TOI-2019",
+    "stellar_type": "G",
+    "tic_id": "TIC 159781361",
+    "magnitude": 10.263
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409950",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410027"
+      }
+    ]
+  }
+}

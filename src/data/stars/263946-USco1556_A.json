@@ -1,1 +1,71 @@
-{"id":263946,"date":"2023-11-28T21:10:14","date_gmt":"2023-11-29T02:10:14","modified":"2025-04-23T05:57:13","modified_gmt":"2025-04-23T09:57:13","slug":"usco1556_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/usco1556_a/","featured_media":0,"categories":[],"acf":{"display_name":"USco1556 A","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248732],"exo_id":"USco1556_A","st_optmag":15.36,"st_vj":15.36,"st_dist":140.635,"st_j":15.36,"st_mass":0.33,"dec":-25.6890476,"st_teff":3410,"st_rad":0.668108,"ra":239.1037198,"system_radius":523592545000,"pl_hostname":"USco1556_A","stellar_type":"M","tic_id":"TIC 77534376","magnitude":15.36},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263946","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248732"}]}}
+{
+  "id": 263946,
+  "date": "2023-11-28T21:10:14",
+  "date_gmt": "2023-11-29T02:10:14",
+  "modified": "2025-04-23T05:57:13",
+  "modified_gmt": "2025-04-23T09:57:13",
+  "slug": "usco1556_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/usco1556_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "USco1556 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248732
+    ],
+    "exo_id": "USco1556_A",
+    "st_optmag": 15.36,
+    "st_vj": 15.36,
+    "st_dist": 140.635,
+    "st_j": 15.36,
+    "st_mass": 0.33,
+    "dec": -25.6890476,
+    "st_teff": 3410,
+    "st_rad": 0.668108,
+    "ra": 239.1037198,
+    "system_radius": 523592545000,
+    "pl_hostname": "USco1556_A",
+    "stellar_type": "M",
+    "tic_id": "TIC 77534376",
+    "magnitude": 15.36
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263946",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248732"
+      }
+    ]
+  }
+}

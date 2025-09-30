@@ -1,1 +1,71 @@
-{"id":262881,"date":"2023-11-28T20:56:39","date_gmt":"2023-11-29T01:56:39","modified":"2025-04-23T05:55:27","modified_gmt":"2025-04-23T09:55:27","slug":"kepler-437","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-437/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-437","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247220],"exo_id":"Kepler-437","st_optmag":14.628,"st_vj":14.628,"st_dist":304,"st_j":14.628,"st_mass":0.707,"dec":44.0269249,"st_teff":4551,"st_rad":0.68,"ra":297.3473326,"system_radius":43084186.56,"pl_hostname":"Kepler-437","stellar_type":"K","tic_id":"TIC 273138666","magnitude":14.628},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262881","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247220"}]}}
+{
+  "id": 262881,
+  "date": "2023-11-28T20:56:39",
+  "date_gmt": "2023-11-29T01:56:39",
+  "modified": "2025-04-23T05:55:27",
+  "modified_gmt": "2025-04-23T09:55:27",
+  "slug": "kepler-437",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-437/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-437",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247220
+    ],
+    "exo_id": "Kepler-437",
+    "st_optmag": 14.628,
+    "st_vj": 14.628,
+    "st_dist": 304,
+    "st_j": 14.628,
+    "st_mass": 0.707,
+    "dec": 44.0269249,
+    "st_teff": 4551,
+    "st_rad": 0.68,
+    "ra": 297.3473326,
+    "system_radius": 43084186.56,
+    "pl_hostname": "Kepler-437",
+    "stellar_type": "K",
+    "tic_id": "TIC 273138666",
+    "magnitude": 14.628
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262881",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247220"
+      }
+    ]
+  }
+}

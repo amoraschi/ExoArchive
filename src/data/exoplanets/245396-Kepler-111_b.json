@@ -1,1 +1,79 @@
-{"id":245396,"date":"2016-03-16T19:26:21","date_gmt":"2016-03-16T23:26:21","modified":"2025-07-07T17:23:31","modified_gmt":"2025-07-07T21:23:31","slug":"kepler-111-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-111-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-111","pl_letter":"b","display_name":"Kepler-111 b","planet_radius":"1.58 x Earth","derived_description":"Kepler-111 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.12 Earths, it takes 3.3 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":657.223,"planet_mass":"3.12 Earths","st_optmag":13.543,"discovery_date":"2014","pl_orbsmax":0.046,"period_display":"3.3 days","eccentricity":"0.0","star_id":261357,"pl_orbper":3.341815,"pl_kepflag":true,"pl_radj":0.141,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.58,"exo_id":"Kepler-111_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245396","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261357"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245396,
+  "date": "2016-03-16T19:26:21",
+  "date_gmt": "2016-03-16T23:26:21",
+  "modified": "2025-07-07T17:23:31",
+  "modified_gmt": "2025-07-07T21:23:31",
+  "slug": "kepler-111-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-111-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-111",
+    "pl_letter": "b",
+    "display_name": "Kepler-111 b",
+    "planet_radius": "1.58 x Earth",
+    "derived_description": "Kepler-111 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.12 Earths, it takes 3.3 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 657.223,
+    "planet_mass": "3.12 Earths",
+    "st_optmag": 13.543,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.046,
+    "period_display": "3.3 days",
+    "eccentricity": "0.0",
+    "star_id": 261357,
+    "pl_orbper": 3.341815,
+    "pl_kepflag": true,
+    "pl_radj": 0.141,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.58,
+    "exo_id": "Kepler-111_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245396",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261357"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

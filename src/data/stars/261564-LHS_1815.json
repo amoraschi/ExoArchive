@@ -1,1 +1,71 @@
-{"id":261564,"date":"2023-11-28T20:39:56","date_gmt":"2023-11-29T01:39:56","modified":"2025-04-23T05:54:19","modified_gmt":"2025-04-23T09:54:19","slug":"lhs_1815","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/lhs_1815/","featured_media":0,"categories":[],"acf":{"display_name":"LHS 1815","custom_star_title":"","aliases":"","constellation":"Pictor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248140],"exo_id":"LHS_1815","st_optmag":12.167,"st_vj":12.167,"st_dist":29.8424,"st_j":12.167,"st_mass":0.502,"dec":-55.3115376,"st_teff":3643,"st_rad":0.501,"ra":91.0899861,"system_radius":6043753.948,"pl_hostname":"LHS_1815","stellar_type":"M","tic_id":"TIC 260004324","magnitude":12.167},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261564","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248140"}]}}
+{
+  "id": 261564,
+  "date": "2023-11-28T20:39:56",
+  "date_gmt": "2023-11-29T01:39:56",
+  "modified": "2025-04-23T05:54:19",
+  "modified_gmt": "2025-04-23T09:54:19",
+  "slug": "lhs_1815",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/lhs_1815/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "LHS 1815",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pictor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248140
+    ],
+    "exo_id": "LHS_1815",
+    "st_optmag": 12.167,
+    "st_vj": 12.167,
+    "st_dist": 29.8424,
+    "st_j": 12.167,
+    "st_mass": 0.502,
+    "dec": -55.3115376,
+    "st_teff": 3643,
+    "st_rad": 0.501,
+    "ra": 91.0899861,
+    "system_radius": 6043753.948,
+    "pl_hostname": "LHS_1815",
+    "stellar_type": "M",
+    "tic_id": "TIC 260004324",
+    "magnitude": 12.167
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261564",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248140"
+      }
+    ]
+  }
+}

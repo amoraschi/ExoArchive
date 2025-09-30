@@ -1,1 +1,76 @@
-{"id":261502,"date":"2023-11-28T20:39:09","date_gmt":"2023-11-29T01:39:09","modified":"2025-04-23T05:53:53","modified_gmt":"2025-04-23T09:53:53","slug":"kepler-1641","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1641/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1641","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246118,246119],"exo_id":"Kepler-1641","st_optmag":14.49,"st_vj":14.49,"st_dist":860.37,"st_j":14.49,"st_mass":1.12,"dec":41.5745321,"st_teff":6152,"st_rad":1.19,"ra":296.359456,"system_radius":30891960.155,"pl_hostname":"Kepler-1641","stellar_type":"F","tic_id":"TIC 184426431","magnitude":14.49},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261502","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246119"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246118"}]}}
+{
+  "id": 261502,
+  "date": "2023-11-28T20:39:09",
+  "date_gmt": "2023-11-29T01:39:09",
+  "modified": "2025-04-23T05:53:53",
+  "modified_gmt": "2025-04-23T09:53:53",
+  "slug": "kepler-1641",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1641/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1641",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246118,
+      246119
+    ],
+    "exo_id": "Kepler-1641",
+    "st_optmag": 14.49,
+    "st_vj": 14.49,
+    "st_dist": 860.37,
+    "st_j": 14.49,
+    "st_mass": 1.12,
+    "dec": 41.5745321,
+    "st_teff": 6152,
+    "st_rad": 1.19,
+    "ra": 296.359456,
+    "system_radius": 30891960.155,
+    "pl_hostname": "Kepler-1641",
+    "stellar_type": "F",
+    "tic_id": "TIC 184426431",
+    "magnitude": 14.49
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261502",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246119"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246118"
+      }
+    ]
+  }
+}

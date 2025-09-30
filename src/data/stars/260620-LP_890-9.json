@@ -1,1 +1,76 @@
-{"id":260620,"date":"2023-11-28T20:28:02","date_gmt":"2023-11-29T01:28:02","modified":"2025-04-23T05:53:30","modified_gmt":"2025-04-23T09:53:30","slug":"lp_890-9","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/lp_890-9/","featured_media":0,"categories":[],"acf":{"display_name":"LP 890-9","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":248150,"1":248149},"exo_id":"LP_890-9","st_optmag":18,"st_vj":18,"st_dist":32.4298,"st_j":18,"st_mass":0.118,"dec":-28.3157909,"st_teff":2850,"st_rad":0.1556,"ra":64.1309096,"system_radius":5959979.1408,"pl_hostname":"LP_890-9","stellar_type":"M","tic_id":"TIC 44898913","magnitude":18},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260620","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248150"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248149"}]}}
+{
+  "id": 260620,
+  "date": "2023-11-28T20:28:02",
+  "date_gmt": "2023-11-29T01:28:02",
+  "modified": "2025-04-23T05:53:30",
+  "modified_gmt": "2025-04-23T09:53:30",
+  "slug": "lp_890-9",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/lp_890-9/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "LP 890-9",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 248150,
+      "1": 248149
+    },
+    "exo_id": "LP_890-9",
+    "st_optmag": 18,
+    "st_vj": 18,
+    "st_dist": 32.4298,
+    "st_j": 18,
+    "st_mass": 0.118,
+    "dec": -28.3157909,
+    "st_teff": 2850,
+    "st_rad": 0.1556,
+    "ra": 64.1309096,
+    "system_radius": 5959979.1408,
+    "pl_hostname": "LP_890-9",
+    "stellar_type": "M",
+    "tic_id": "TIC 44898913",
+    "magnitude": 18
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260620",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248150"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248149"
+      }
+    ]
+  }
+}

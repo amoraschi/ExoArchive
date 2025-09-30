@@ -1,1 +1,71 @@
-{"id":262027,"date":"2023-11-28T20:45:46","date_gmt":"2023-11-29T01:45:46","modified":"2025-04-23T05:55:17","modified_gmt":"2025-04-23T09:55:17","slug":"hd_8535","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_8535/","featured_media":0,"categories":[],"acf":{"display_name":"HD 8535","custom_star_title":"","aliases":"","constellation":"Phoenix","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244567],"exo_id":"HD_8535","st_optmag":7.7,"st_vj":7.7,"st_dist":55.4401,"st_j":7.7,"st_mass":1.13,"dec":-41.2701007,"st_teff":6136,"st_rad":1.19,"ra":20.9054804,"system_radius":366514781.5,"pl_hostname":"HD_8535","stellar_type":"F","tic_id":"TIC 41862035","magnitude":7.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262027","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244567"}]}}
+{
+  "id": 262027,
+  "date": "2023-11-28T20:45:46",
+  "date_gmt": "2023-11-29T01:45:46",
+  "modified": "2025-04-23T05:55:17",
+  "modified_gmt": "2025-04-23T09:55:17",
+  "slug": "hd_8535",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_8535/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 8535",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244567
+    ],
+    "exo_id": "HD_8535",
+    "st_optmag": 7.7,
+    "st_vj": 7.7,
+    "st_dist": 55.4401,
+    "st_j": 7.7,
+    "st_mass": 1.13,
+    "dec": -41.2701007,
+    "st_teff": 6136,
+    "st_rad": 1.19,
+    "ra": 20.9054804,
+    "system_radius": 366514781.5,
+    "pl_hostname": "HD_8535",
+    "stellar_type": "F",
+    "tic_id": "TIC 41862035",
+    "magnitude": 7.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262027",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244567"
+      }
+    ]
+  }
+}

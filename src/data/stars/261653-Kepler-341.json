@@ -1,1 +1,86 @@
-{"id":261653,"date":"2023-11-28T20:41:03","date_gmt":"2023-11-29T01:41:03","modified":"2025-04-23T05:54:33","modified_gmt":"2025-04-23T09:54:33","slug":"kepler-341","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-341/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-341","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247007,"1":247006,"2":247004,"3":247005},"exo_id":"Kepler-341","st_optmag":14.739,"st_vj":14.739,"st_dist":1047.03,"st_j":14.739,"st_mass":0.976,"dec":43.4727412,"st_teff":6012,"st_rad":1.024,"ra":289.8615609,"system_radius":36202684.54,"pl_hostname":"Kepler-341","stellar_type":"F","tic_id":"TIC 159179987","magnitude":14.739},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261653","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247007"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247006"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247005"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247004"}]}}
+{
+  "id": 261653,
+  "date": "2023-11-28T20:41:03",
+  "date_gmt": "2023-11-29T01:41:03",
+  "modified": "2025-04-23T05:54:33",
+  "modified_gmt": "2025-04-23T09:54:33",
+  "slug": "kepler-341",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-341/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-341",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247007,
+      "1": 247006,
+      "2": 247004,
+      "3": 247005
+    },
+    "exo_id": "Kepler-341",
+    "st_optmag": 14.739,
+    "st_vj": 14.739,
+    "st_dist": 1047.03,
+    "st_j": 14.739,
+    "st_mass": 0.976,
+    "dec": 43.4727412,
+    "st_teff": 6012,
+    "st_rad": 1.024,
+    "ra": 289.8615609,
+    "system_radius": 36202684.54,
+    "pl_hostname": "Kepler-341",
+    "stellar_type": "F",
+    "tic_id": "TIC 159179987",
+    "magnitude": 14.739
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261653",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247007"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247006"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247005"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247004"
+      }
+    ]
+  }
+}

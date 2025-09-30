@@ -1,1 +1,76 @@
-{"id":263602,"date":"2023-11-28T21:05:45","date_gmt":"2023-11-29T02:05:45","modified":"2025-04-23T05:54:09","modified_gmt":"2025-04-23T09:54:09","slug":"kepler-155","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-155/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-155","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246013,246014],"exo_id":"Kepler-155","st_optmag":14.654,"st_vj":14.654,"st_dist":293.499,"st_j":14.654,"st_mass":0.635,"dec":51.0819286,"st_teff":4508,"st_rad":0.62,"ra":288.4957831,"system_radius":36202684.54,"pl_hostname":"Kepler-155","stellar_type":"K","tic_id":"TIC 298969755","magnitude":14.654},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263602","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246014"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246013"}]}}
+{
+  "id": 263602,
+  "date": "2023-11-28T21:05:45",
+  "date_gmt": "2023-11-29T02:05:45",
+  "modified": "2025-04-23T05:54:09",
+  "modified_gmt": "2025-04-23T09:54:09",
+  "slug": "kepler-155",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-155/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-155",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246013,
+      246014
+    ],
+    "exo_id": "Kepler-155",
+    "st_optmag": 14.654,
+    "st_vj": 14.654,
+    "st_dist": 293.499,
+    "st_j": 14.654,
+    "st_mass": 0.635,
+    "dec": 51.0819286,
+    "st_teff": 4508,
+    "st_rad": 0.62,
+    "ra": 288.4957831,
+    "system_radius": 36202684.54,
+    "pl_hostname": "Kepler-155",
+    "stellar_type": "K",
+    "tic_id": "TIC 298969755",
+    "magnitude": 14.654
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263602",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246014"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246013"
+      }
+    ]
+  }
+}

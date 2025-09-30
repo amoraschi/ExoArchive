@@ -1,1 +1,77 @@
-{"id":852479,"date":"2025-05-02T06:12:54","date_gmt":"2025-05-02T10:12:54","modified":"2025-05-02T06:12:54","modified_gmt":"2025-05-02T10:12:54","slug":"toi-3493","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3493/","featured_media":429648,"categories":[],"acf":{"display_name":"TOI-3493","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876438],"exo_id":"TOI-3493","st_optmag":9.317,"st_vj":9.317,"st_dist":96.7224,"st_j":9.317,"st_mass":1.023,"dec":-22.5854441,"st_teff":5844,"st_rad":1.228,"ra":205.7990331,"system_radius":149597870,"pl_hostname":"TOI-3493","stellar_type":"G","tic_id":"TIC 203377303","magnitude":9.317},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/852479","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876438"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 852479,
+  "date": "2025-05-02T06:12:54",
+  "date_gmt": "2025-05-02T10:12:54",
+  "modified": "2025-05-02T06:12:54",
+  "modified_gmt": "2025-05-02T10:12:54",
+  "slug": "toi-3493",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3493/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3493",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876438
+    ],
+    "exo_id": "TOI-3493",
+    "st_optmag": 9.317,
+    "st_vj": 9.317,
+    "st_dist": 96.7224,
+    "st_j": 9.317,
+    "st_mass": 1.023,
+    "dec": -22.5854441,
+    "st_teff": 5844,
+    "st_rad": 1.228,
+    "ra": 205.7990331,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-3493",
+    "stellar_type": "G",
+    "tic_id": "TIC 203377303",
+    "magnitude": 9.317
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/852479",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876438"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

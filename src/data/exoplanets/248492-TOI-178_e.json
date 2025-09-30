@@ -1,1 +1,79 @@
-{"id":248492,"date":"2021-02-18T19:17:14","date_gmt":"2021-02-19T00:17:14","modified":"2025-07-07T17:21:30","modified_gmt":"2025-07-07T21:21:30","slug":"toi-178-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-178-e/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-178","pl_letter":"e","display_name":"TOI-178 e","planet_radius":"2.207 x Earth","derived_description":"TOI-178 e is a Neptune-like exoplanet that orbits a K-type star. Its mass is 3.86 Earths, it takes 10 days to complete one orbit of its star, and is 0.0783 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":62.699,"planet_mass":"3.86 Earths","st_optmag":11.955,"discovery_date":"2021","pl_orbsmax":0.0783,"period_display":"10 days","eccentricity":"","star_id":260907,"pl_orbper":9.961881,"pl_kepflag":false,"pl_radj":0.19689535,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.207,"exo_id":"TOI-178_e","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248492","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260907"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248492,
+  "date": "2021-02-18T19:17:14",
+  "date_gmt": "2021-02-19T00:17:14",
+  "modified": "2025-07-07T17:21:30",
+  "modified_gmt": "2025-07-07T21:21:30",
+  "slug": "toi-178-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-178-e/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-178",
+    "pl_letter": "e",
+    "display_name": "TOI-178 e",
+    "planet_radius": "2.207 x Earth",
+    "derived_description": "TOI-178 e is a Neptune-like exoplanet that orbits a K-type star. Its mass is 3.86 Earths, it takes 10 days to complete one orbit of its star, and is 0.0783 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 62.699,
+    "planet_mass": "3.86 Earths",
+    "st_optmag": 11.955,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.0783,
+    "period_display": "10 days",
+    "eccentricity": "",
+    "star_id": 260907,
+    "pl_orbper": 9.961881,
+    "pl_kepflag": false,
+    "pl_radj": 0.19689535,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.207,
+    "exo_id": "TOI-178_e",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248492",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260907"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

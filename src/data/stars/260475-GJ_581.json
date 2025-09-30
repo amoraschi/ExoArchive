@@ -1,1 +1,81 @@
-{"id":260475,"date":"2023-11-28T20:26:15","date_gmt":"2023-11-29T01:26:15","modified":"2025-04-23T05:53:19","modified_gmt":"2025-04-23T09:53:19","slug":"gj_581","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_581/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 581","custom_star_title":"","aliases":"","constellation":"Libra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243672,243673,243674],"exo_id":"GJ_581","st_optmag":10.57,"st_vj":10.57,"st_dist":6.2981,"st_j":10.57,"st_mass":0.295,"dec":-7.7226935,"st_teff":3500,"st_rad":0.302,"ra":229.8564725,"system_radius":10741127.066,"pl_hostname":"GJ_581","stellar_type":"M","tic_id":"TIC 36853511","magnitude":10.57},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260475","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243674"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243673"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243672"}]}}
+{
+  "id": 260475,
+  "date": "2023-11-28T20:26:15",
+  "date_gmt": "2023-11-29T01:26:15",
+  "modified": "2025-04-23T05:53:19",
+  "modified_gmt": "2025-04-23T09:53:19",
+  "slug": "gj_581",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_581/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 581",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Libra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243672,
+      243673,
+      243674
+    ],
+    "exo_id": "GJ_581",
+    "st_optmag": 10.57,
+    "st_vj": 10.57,
+    "st_dist": 6.2981,
+    "st_j": 10.57,
+    "st_mass": 0.295,
+    "dec": -7.7226935,
+    "st_teff": 3500,
+    "st_rad": 0.302,
+    "ra": 229.8564725,
+    "system_radius": 10741127.066,
+    "pl_hostname": "GJ_581",
+    "stellar_type": "M",
+    "tic_id": "TIC 36853511",
+    "magnitude": 10.57
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260475",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243674"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243673"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243672"
+      }
+    ]
+  }
+}

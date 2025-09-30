@@ -1,1 +1,71 @@
-{"id":260593,"date":"2023-11-28T20:27:43","date_gmt":"2023-11-29T01:27:43","modified":"2025-04-23T05:53:28","modified_gmt":"2025-04-23T09:53:28","slug":"hd_73534","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_73534/","featured_media":0,"categories":[],"acf":{"display_name":"HD 73534","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244531],"exo_id":"HD_73534","st_optmag":8.23,"st_vj":8.23,"st_dist":83.3321,"st_j":8.23,"st_mass":1.16,"dec":12.9599703,"st_teff":4917,"st_rad":2.58,"ra":129.8153421,"system_radius":447297631.3,"pl_hostname":"HD_73534","stellar_type":"K","tic_id":"TIC 21285884","magnitude":8.23},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260593","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244531"}]}}
+{
+  "id": 260593,
+  "date": "2023-11-28T20:27:43",
+  "date_gmt": "2023-11-29T01:27:43",
+  "modified": "2025-04-23T05:53:28",
+  "modified_gmt": "2025-04-23T09:53:28",
+  "slug": "hd_73534",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_73534/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 73534",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244531
+    ],
+    "exo_id": "HD_73534",
+    "st_optmag": 8.23,
+    "st_vj": 8.23,
+    "st_dist": 83.3321,
+    "st_j": 8.23,
+    "st_mass": 1.16,
+    "dec": 12.9599703,
+    "st_teff": 4917,
+    "st_rad": 2.58,
+    "ra": 129.8153421,
+    "system_radius": 447297631.3,
+    "pl_hostname": "HD_73534",
+    "stellar_type": "K",
+    "tic_id": "TIC 21285884",
+    "magnitude": 8.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260593",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244531"
+      }
+    ]
+  }
+}

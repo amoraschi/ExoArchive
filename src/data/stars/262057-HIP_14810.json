@@ -1,1 +1,81 @@
-{"id":262057,"date":"2023-11-28T20:46:09","date_gmt":"2023-11-29T01:46:09","modified":"2025-04-23T05:55:21","modified_gmt":"2025-04-23T09:55:21","slug":"hip_14810","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_14810/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 14810","custom_star_title":"","aliases":"","constellation":"Aries","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244639,244640,244641],"exo_id":"HIP_14810","st_optmag":8.520001,"st_vj":8.520001,"st_dist":50.48,"st_j":8.520001,"st_mass":1.01,"dec":21.0971302,"st_teff":5544,"st_rad":1.07,"ra":47.809275,"system_radius":290219867.8,"pl_hostname":"HIP_14810","stellar_type":"G","tic_id":"TIC 113810736","magnitude":8.520001},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262057","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244641"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244640"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244639"}]}}
+{
+  "id": 262057,
+  "date": "2023-11-28T20:46:09",
+  "date_gmt": "2023-11-29T01:46:09",
+  "modified": "2025-04-23T05:55:21",
+  "modified_gmt": "2025-04-23T09:55:21",
+  "slug": "hip_14810",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_14810/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 14810",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aries",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244639,
+      244640,
+      244641
+    ],
+    "exo_id": "HIP_14810",
+    "st_optmag": 8.520001,
+    "st_vj": 8.520001,
+    "st_dist": 50.48,
+    "st_j": 8.520001,
+    "st_mass": 1.01,
+    "dec": 21.0971302,
+    "st_teff": 5544,
+    "st_rad": 1.07,
+    "ra": 47.809275,
+    "system_radius": 290219867.8,
+    "pl_hostname": "HIP_14810",
+    "stellar_type": "G",
+    "tic_id": "TIC 113810736",
+    "magnitude": 8.520001
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262057",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244641"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244640"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244639"
+      }
+    ]
+  }
+}

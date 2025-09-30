@@ -1,1 +1,79 @@
-{"id":246018,"date":"2016-05-10T14:50:10","date_gmt":"2016-05-10T18:50:10","modified":"2025-03-28T07:33:02","modified_gmt":"2025-03-28T11:33:02","slug":"kepler-1563-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1563-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1563","pl_letter":"b","display_name":"Kepler-1563 b","planet_radius":"0.75 x Earth","derived_description":"Kepler-1563 b is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.347 Earths, it takes 3.4 days to complete one orbit of its star, and is 0.0442 AU from its star. Its discovery was announced in 2016.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":616.697,"planet_mass":"0.347 Earths","st_optmag":13.696,"discovery_date":"2016","pl_orbsmax":0.0442,"period_display":"3.4 days","eccentricity":"0.0","star_id":263845,"pl_orbper":3.43276598,"pl_kepflag":true,"pl_radj":0.06691052,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.75,"exo_id":"Kepler-1563_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246018","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263845"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 246018,
+  "date": "2016-05-10T14:50:10",
+  "date_gmt": "2016-05-10T18:50:10",
+  "modified": "2025-03-28T07:33:02",
+  "modified_gmt": "2025-03-28T11:33:02",
+  "slug": "kepler-1563-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1563-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1563",
+    "pl_letter": "b",
+    "display_name": "Kepler-1563 b",
+    "planet_radius": "0.75 x Earth",
+    "derived_description": "Kepler-1563 b is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.347 Earths, it takes 3.4 days to complete one orbit of its star, and is 0.0442 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 616.697,
+    "planet_mass": "0.347 Earths",
+    "st_optmag": 13.696,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0442,
+    "period_display": "3.4 days",
+    "eccentricity": "0.0",
+    "star_id": 263845,
+    "pl_orbper": 3.43276598,
+    "pl_kepflag": true,
+    "pl_radj": 0.06691052,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.75,
+    "exo_id": "Kepler-1563_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246018",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263845"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

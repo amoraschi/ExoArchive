@@ -1,1 +1,71 @@
-{"id":263612,"date":"2023-11-28T21:05:54","date_gmt":"2023-11-29T02:05:54","modified":"2025-04-23T05:55:56","modified_gmt":"2025-04-23T09:55:56","slug":"kepler-627","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-627/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-627","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247505],"exo_id":"Kepler-627","st_optmag":14.181,"st_vj":14.181,"st_dist":984.307,"st_j":14.181,"st_mass":1.3,"dec":39.7678585,"st_teff":6424,"st_rad":1.49,"ra":292.1042198,"system_radius":33900373.3207,"pl_hostname":"Kepler-627","stellar_type":"F","tic_id":"TIC 137413972","magnitude":14.181},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263612","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247505"}]}}
+{
+  "id": 263612,
+  "date": "2023-11-28T21:05:54",
+  "date_gmt": "2023-11-29T02:05:54",
+  "modified": "2025-04-23T05:55:56",
+  "modified_gmt": "2025-04-23T09:55:56",
+  "slug": "kepler-627",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-627/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-627",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247505
+    ],
+    "exo_id": "Kepler-627",
+    "st_optmag": 14.181,
+    "st_vj": 14.181,
+    "st_dist": 984.307,
+    "st_j": 14.181,
+    "st_mass": 1.3,
+    "dec": 39.7678585,
+    "st_teff": 6424,
+    "st_rad": 1.49,
+    "ra": 292.1042198,
+    "system_radius": 33900373.3207,
+    "pl_hostname": "Kepler-627",
+    "stellar_type": "F",
+    "tic_id": "TIC 137413972",
+    "magnitude": 14.181
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263612",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247505"
+      }
+    ]
+  }
+}

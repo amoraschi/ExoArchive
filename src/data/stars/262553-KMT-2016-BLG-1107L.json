@@ -1,1 +1,71 @@
-{"id":262553,"date":"2023-11-28T20:52:27","date_gmt":"2023-11-29T01:52:27","modified":"2025-04-23T05:56:24","modified_gmt":"2025-04-23T09:56:24","slug":"kmt-2016-blg-1107l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2016-blg-1107l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2016-BLG-1107L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248027],"exo_id":"KMT-2016-BLG-1107L","st_optmag":"","st_vj":"","st_dist":6651,"st_j":"","st_mass":0.087,"dec":-26.0318,"st_teff":"","st_rad":"","ra":266.41775,"system_radius":51162471.54,"pl_hostname":"KMT-2016-BLG-1107L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262553","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248027"}]}}
+{
+  "id": 262553,
+  "date": "2023-11-28T20:52:27",
+  "date_gmt": "2023-11-29T01:52:27",
+  "modified": "2025-04-23T05:56:24",
+  "modified_gmt": "2025-04-23T09:56:24",
+  "slug": "kmt-2016-blg-1107l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2016-blg-1107l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2016-BLG-1107L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248027
+    ],
+    "exo_id": "KMT-2016-BLG-1107L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6651,
+    "st_j": "",
+    "st_mass": 0.087,
+    "dec": -26.0318,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 266.41775,
+    "system_radius": 51162471.54,
+    "pl_hostname": "KMT-2016-BLG-1107L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262553",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248027"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245753,"date":"2016-05-10T14:50:14","date_gmt":"2016-05-10T18:50:14","modified":"2025-07-07T15:23:58","modified_gmt":"2025-07-07T19:23:58","slug":"kepler-1371-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1371-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1371","pl_letter":"c","display_name":"Kepler-1371 c","planet_radius":"0.64 x Earth","derived_description":"Kepler-1371 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.196 Earths, it takes 2 days to complete one orbit of its star, and is 0.02937 AU from its star. Its discovery was announced in 2016.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":515.334,"planet_mass":"0.196 Earths","st_optmag":14.018,"discovery_date":"2016","pl_orbsmax":0.02937,"period_display":"2 days","eccentricity":"0.0","star_id":261431,"pl_orbper":2.00541269,"pl_kepflag":true,"pl_radj":0.05709698,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.64,"exo_id":"Kepler-1371_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245753","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261431"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 245753,
+  "date": "2016-05-10T14:50:14",
+  "date_gmt": "2016-05-10T18:50:14",
+  "modified": "2025-07-07T15:23:58",
+  "modified_gmt": "2025-07-07T19:23:58",
+  "slug": "kepler-1371-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1371-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1371",
+    "pl_letter": "c",
+    "display_name": "Kepler-1371 c",
+    "planet_radius": "0.64 x Earth",
+    "derived_description": "Kepler-1371 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.196 Earths, it takes 2 days to complete one orbit of its star, and is 0.02937 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 515.334,
+    "planet_mass": "0.196 Earths",
+    "st_optmag": 14.018,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.02937,
+    "period_display": "2 days",
+    "eccentricity": "0.0",
+    "star_id": 261431,
+    "pl_orbper": 2.00541269,
+    "pl_kepflag": true,
+    "pl_radj": 0.05709698,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.64,
+    "exo_id": "Kepler-1371_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245753",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261431"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

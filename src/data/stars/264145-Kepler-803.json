@@ -1,1 +1,71 @@
-{"id":264145,"date":"2023-11-28T21:12:48","date_gmt":"2023-11-29T02:12:48","modified":"2025-04-23T05:56:50","modified_gmt":"2025-04-23T09:56:50","slug":"kepler-803","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-803/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-803","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247738],"exo_id":"Kepler-803","st_optmag":13.856,"st_vj":13.856,"st_dist":639.771,"st_j":13.856,"st_mass":1.05,"dec":44.6939033,"st_teff":5919,"st_rad":1.12,"ra":299.2216728,"system_radius":39974046.8427,"pl_hostname":"Kepler-803","stellar_type":"G","tic_id":"TIC 268608781","magnitude":13.856},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264145","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247738"}]}}
+{
+  "id": 264145,
+  "date": "2023-11-28T21:12:48",
+  "date_gmt": "2023-11-29T02:12:48",
+  "modified": "2025-04-23T05:56:50",
+  "modified_gmt": "2025-04-23T09:56:50",
+  "slug": "kepler-803",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-803/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-803",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247738
+    ],
+    "exo_id": "Kepler-803",
+    "st_optmag": 13.856,
+    "st_vj": 13.856,
+    "st_dist": 639.771,
+    "st_j": 13.856,
+    "st_mass": 1.05,
+    "dec": 44.6939033,
+    "st_teff": 5919,
+    "st_rad": 1.12,
+    "ra": 299.2216728,
+    "system_radius": 39974046.8427,
+    "pl_hostname": "Kepler-803",
+    "stellar_type": "G",
+    "tic_id": "TIC 268608781",
+    "magnitude": 13.856
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264145",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247738"
+      }
+    ]
+  }
+}

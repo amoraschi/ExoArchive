@@ -1,1 +1,79 @@
-{"id":245413,"date":"2017-10-02T13:32:42","date_gmt":"2017-10-02T17:32:42","modified":"2025-07-07T17:57:47","modified_gmt":"2025-07-07T21:57:47","slug":"kepler-1130-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1130-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1130","pl_letter":"b","display_name":"Kepler-1130 b","planet_radius":"0.8 x Earth","derived_description":"Kepler-1130 b is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.437 Earths, it takes 5.5 days to complete one orbit of its star, and is 0.05963 AU from its star. Its discovery was announced in 2016.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":249.343,"planet_mass":"0.437 Earths","st_optmag":12.509,"discovery_date":"2016","pl_orbsmax":0.05963,"period_display":"5.5 days","eccentricity":"0.0","star_id":262219,"pl_orbper":5.45298175,"pl_kepflag":true,"pl_radj":0.07137122,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.8,"exo_id":"Kepler-1130_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245413","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262219"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 245413,
+  "date": "2017-10-02T13:32:42",
+  "date_gmt": "2017-10-02T17:32:42",
+  "modified": "2025-07-07T17:57:47",
+  "modified_gmt": "2025-07-07T21:57:47",
+  "slug": "kepler-1130-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1130-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1130",
+    "pl_letter": "b",
+    "display_name": "Kepler-1130 b",
+    "planet_radius": "0.8 x Earth",
+    "derived_description": "Kepler-1130 b is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.437 Earths, it takes 5.5 days to complete one orbit of its star, and is 0.05963 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 249.343,
+    "planet_mass": "0.437 Earths",
+    "st_optmag": 12.509,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.05963,
+    "period_display": "5.5 days",
+    "eccentricity": "0.0",
+    "star_id": 262219,
+    "pl_orbper": 5.45298175,
+    "pl_kepflag": true,
+    "pl_radj": 0.07137122,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.8,
+    "exo_id": "Kepler-1130_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245413",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262219"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

@@ -1,1 +1,77 @@
-{"id":855814,"date":"2025-05-16T06:39:40","date_gmt":"2025-05-16T10:39:40","modified":"2025-05-16T06:39:40","modified_gmt":"2025-05-16T10:39:40","slug":"kmt-2017-blg-2331l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-2331l/","featured_media":429648,"categories":[],"acf":{"display_name":"KMT-2017-BLG-2331L","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876093],"exo_id":"KMT-2017-BLG-2331L","st_optmag":"","st_vj":"","st_dist":8030,"st_j":"","st_mass":0.4,"dec":-29.4612111,"st_teff":"","st_rad":"","ra":264.4072083,"system_radius":320139441.8,"pl_hostname":"KMT-2017-BLG-2331L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/855814","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876093"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 855814,
+  "date": "2025-05-16T06:39:40",
+  "date_gmt": "2025-05-16T10:39:40",
+  "modified": "2025-05-16T06:39:40",
+  "modified_gmt": "2025-05-16T10:39:40",
+  "slug": "kmt-2017-blg-2331l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-2331l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2017-BLG-2331L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876093
+    ],
+    "exo_id": "KMT-2017-BLG-2331L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 8030,
+    "st_j": "",
+    "st_mass": 0.4,
+    "dec": -29.4612111,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 264.4072083,
+    "system_radius": 320139441.8,
+    "pl_hostname": "KMT-2017-BLG-2331L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/855814",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876093"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

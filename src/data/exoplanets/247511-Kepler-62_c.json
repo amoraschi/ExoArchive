@@ -1,1 +1,79 @@
-{"id":247511,"date":"2016-03-16T19:26:14","date_gmt":"2016-03-16T23:26:14","modified":"2025-07-07T20:43:24","modified_gmt":"2025-07-08T00:43:24","slug":"kepler-62-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-62-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-62","pl_letter":"c","display_name":"Kepler-62 c","planet_radius":"0.54 x Earth","derived_description":"Kepler-62 c is a terrestrial exoplanet that orbits a K-type star. Its mass is 4 Earths, it takes 12.4 days to complete one orbit of its star, and is 0.0929 AU from its star. Its discovery was announced in 2013.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":300.874,"planet_mass":"4 Earths","st_optmag":13.965,"discovery_date":"2013","pl_orbsmax":0.0929,"period_display":"12.4 days","eccentricity":"0.0","star_id":260565,"pl_orbper":12.4417,"pl_kepflag":true,"pl_radj":0.048,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.54,"exo_id":"Kepler-62_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247511","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260565"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 247511,
+  "date": "2016-03-16T19:26:14",
+  "date_gmt": "2016-03-16T23:26:14",
+  "modified": "2025-07-07T20:43:24",
+  "modified_gmt": "2025-07-08T00:43:24",
+  "slug": "kepler-62-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-62-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-62",
+    "pl_letter": "c",
+    "display_name": "Kepler-62 c",
+    "planet_radius": "0.54 x Earth",
+    "derived_description": "Kepler-62 c is a terrestrial exoplanet that orbits a K-type star. Its mass is 4 Earths, it takes 12.4 days to complete one orbit of its star, and is 0.0929 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 300.874,
+    "planet_mass": "4 Earths",
+    "st_optmag": 13.965,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.0929,
+    "period_display": "12.4 days",
+    "eccentricity": "0.0",
+    "star_id": 260565,
+    "pl_orbper": 12.4417,
+    "pl_kepflag": true,
+    "pl_radj": 0.048,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.54,
+    "exo_id": "Kepler-62_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247511",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260565"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

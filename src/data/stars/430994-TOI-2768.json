@@ -1,1 +1,71 @@
-{"id":430994,"date":"2024-10-25T00:55:28","date_gmt":"2024-10-25T04:55:28","modified":"2025-04-23T05:55:09","modified_gmt":"2025-04-23T09:55:09","slug":"toi-2768","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2768/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2768","custom_star_title":"","aliases":"","constellation":"Canis Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[431009],"exo_id":"TOI-2768","st_optmag":12.66,"st_vj":12.66,"st_dist":78.4525,"st_j":12.66,"st_mass":0.63,"dec":-15.4812031,"st_teff":4008,"st_rad":0.657,"ra":99.3641336,"system_radius":4039142.49,"pl_hostname":"TOI-2768","stellar_type":"K","tic_id":"TIC 443556801","magnitude":12.66},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/430994","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/431009"}]}}
+{
+  "id": 430994,
+  "date": "2024-10-25T00:55:28",
+  "date_gmt": "2024-10-25T04:55:28",
+  "modified": "2025-04-23T05:55:09",
+  "modified_gmt": "2025-04-23T09:55:09",
+  "slug": "toi-2768",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2768/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2768",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      431009
+    ],
+    "exo_id": "TOI-2768",
+    "st_optmag": 12.66,
+    "st_vj": 12.66,
+    "st_dist": 78.4525,
+    "st_j": 12.66,
+    "st_mass": 0.63,
+    "dec": -15.4812031,
+    "st_teff": 4008,
+    "st_rad": 0.657,
+    "ra": 99.3641336,
+    "system_radius": 4039142.49,
+    "pl_hostname": "TOI-2768",
+    "stellar_type": "K",
+    "tic_id": "TIC 443556801",
+    "magnitude": 12.66
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/430994",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/431009"
+      }
+    ]
+  }
+}

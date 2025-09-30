@@ -1,1 +1,79 @@
-{"id":243447,"date":"2019-04-22T16:48:53","date_gmt":"2019-04-22T20:48:53","modified":"2024-10-24T16:49:28","modified_gmt":"2024-10-24T20:49:28","slug":"bd14-4559-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/bd14-4559-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"BD+14_4559","pl_letter":"b","display_name":"BD+14 4559 b","planet_radius":"1.23 x Jupiter (estimate)","derived_description":"BD+14 4559 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.04 Jupiters, it takes 268.9 days to complete one orbit of its star, and is 0.78 AU from its star. Its discovery was announced in 2009.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"McDonald Observatory","st_dist":49.352,"planet_mass":"1.04 Jupiters","st_optmag":9.78,"discovery_date":"2009","pl_orbsmax":0.78,"period_display":"268.9 days","eccentricity":"0.29","star_id":261791,"pl_orbper":268.94,"pl_kepflag":false,"pl_radj":1.23,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":87.64,"multiple_planet_system":false,"pl_rade":13.8,"exo_id":"BD+14_4559_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.29},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243447","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261791"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243447,
+  "date": "2019-04-22T16:48:53",
+  "date_gmt": "2019-04-22T20:48:53",
+  "modified": "2024-10-24T16:49:28",
+  "modified_gmt": "2024-10-24T20:49:28",
+  "slug": "bd14-4559-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/bd14-4559-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "BD+14_4559",
+    "pl_letter": "b",
+    "display_name": "BD+14 4559 b",
+    "planet_radius": "1.23 x Jupiter (estimate)",
+    "derived_description": "BD+14 4559 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.04 Jupiters, it takes 268.9 days to complete one orbit of its star, and is 0.78 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "McDonald Observatory",
+    "st_dist": 49.352,
+    "planet_mass": "1.04 Jupiters",
+    "st_optmag": 9.78,
+    "discovery_date": "2009",
+    "pl_orbsmax": 0.78,
+    "period_display": "268.9 days",
+    "eccentricity": "0.29",
+    "star_id": 261791,
+    "pl_orbper": 268.94,
+    "pl_kepflag": false,
+    "pl_radj": 1.23,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 87.64,
+    "multiple_planet_system": false,
+    "pl_rade": 13.8,
+    "exo_id": "BD+14_4559_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.29
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243447",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261791"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

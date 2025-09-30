@@ -1,1 +1,69 @@
-{"id":391265,"date":"2024-04-30T20:01:23","date_gmt":"2024-05-01T00:01:23","modified":"2025-04-23T05:57:34","modified_gmt":"2025-04-23T09:57:34","slug":"58-eridani","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/58-eridani/","featured_media":429648,"categories":[],"acf":{"display_name":"58 Eridani","custom_star_title":"","aliases":"HD 30495,HR 1532,GJ 177","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"58_Eridani","st_optmag":5.489,"st_vj":5.489,"st_dist":13.24,"st_j":5.489,"st_mass":1.04,"dec":-16.9344557,"st_teff":5833,"st_rad":0.962,"ra":71.9012154,"system_radius":149597870,"pl_hostname":"58_Eridani","stellar_type":"G","tic_id":"TIC 117979951","magnitude":5.5},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391265","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391265,
+  "date": "2024-04-30T20:01:23",
+  "date_gmt": "2024-05-01T00:01:23",
+  "modified": "2025-04-23T05:57:34",
+  "modified_gmt": "2025-04-23T09:57:34",
+  "slug": "58-eridani",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/58-eridani/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "58 Eridani",
+    "custom_star_title": "",
+    "aliases": "HD 30495,HR 1532,GJ 177",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "58_Eridani",
+    "st_optmag": 5.489,
+    "st_vj": 5.489,
+    "st_dist": 13.24,
+    "st_j": 5.489,
+    "st_mass": 1.04,
+    "dec": -16.9344557,
+    "st_teff": 5833,
+    "st_rad": 0.962,
+    "ra": 71.9012154,
+    "system_radius": 149597870,
+    "pl_hostname": "58_Eridani",
+    "stellar_type": "G",
+    "tic_id": "TIC 117979951",
+    "magnitude": 5.5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391265",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

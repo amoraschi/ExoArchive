@@ -1,1 +1,71 @@
-{"id":263771,"date":"2023-11-28T21:08:00","date_gmt":"2023-11-29T02:08:00","modified":"2025-04-23T05:57:04","modified_gmt":"2025-04-23T09:57:04","slug":"hd_55696","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_55696/","featured_media":0,"categories":[],"acf":{"display_name":"HD 55696","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244479],"exo_id":"HD_55696","st_optmag":7.95,"st_vj":7.95,"st_dist":77.9693,"st_j":7.95,"st_mass":1.29,"dec":-38.174639,"st_teff":6012,"st_rad":1.52,"ra":108.0622029,"system_radius":475721226.6,"pl_hostname":"HD_55696","stellar_type":"F","tic_id":"TIC 22598327","magnitude":7.95},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263771","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244479"}]}}
+{
+  "id": 263771,
+  "date": "2023-11-28T21:08:00",
+  "date_gmt": "2023-11-29T02:08:00",
+  "modified": "2025-04-23T05:57:04",
+  "modified_gmt": "2025-04-23T09:57:04",
+  "slug": "hd_55696",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_55696/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 55696",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244479
+    ],
+    "exo_id": "HD_55696",
+    "st_optmag": 7.95,
+    "st_vj": 7.95,
+    "st_dist": 77.9693,
+    "st_j": 7.95,
+    "st_mass": 1.29,
+    "dec": -38.174639,
+    "st_teff": 6012,
+    "st_rad": 1.52,
+    "ra": 108.0622029,
+    "system_radius": 475721226.6,
+    "pl_hostname": "HD_55696",
+    "stellar_type": "F",
+    "tic_id": "TIC 22598327",
+    "magnitude": 7.95
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263771",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244479"
+      }
+    ]
+  }
+}

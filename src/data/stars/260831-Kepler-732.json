@@ -1,1 +1,76 @@
-{"id":260831,"date":"2023-11-28T20:30:39","date_gmt":"2023-11-29T01:30:39","modified":"2025-04-23T05:54:35","modified_gmt":"2025-04-23T09:54:35","slug":"kepler-732","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-732/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-732","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247642,"1":247641},"exo_id":"Kepler-732","st_optmag":16.53,"st_vj":16.53,"st_dist":174.826,"st_j":16.53,"st_mass":0.49,"dec":45.9585288,"st_teff":3631,"st_rad":0.46,"ra":283.7317274,"system_radius":10337212.817,"pl_hostname":"Kepler-732","stellar_type":"M","tic_id":"TIC 164555597","magnitude":16.53},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260831","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247642"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247641"}]}}
+{
+  "id": 260831,
+  "date": "2023-11-28T20:30:39",
+  "date_gmt": "2023-11-29T01:30:39",
+  "modified": "2025-04-23T05:54:35",
+  "modified_gmt": "2025-04-23T09:54:35",
+  "slug": "kepler-732",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-732/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-732",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247642,
+      "1": 247641
+    },
+    "exo_id": "Kepler-732",
+    "st_optmag": 16.53,
+    "st_vj": 16.53,
+    "st_dist": 174.826,
+    "st_j": 16.53,
+    "st_mass": 0.49,
+    "dec": 45.9585288,
+    "st_teff": 3631,
+    "st_rad": 0.46,
+    "ra": 283.7317274,
+    "system_radius": 10337212.817,
+    "pl_hostname": "Kepler-732",
+    "stellar_type": "M",
+    "tic_id": "TIC 164555597",
+    "magnitude": 16.53
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260831",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247642"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247641"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":260648,"date":"2023-11-28T20:28:22","date_gmt":"2023-11-29T01:28:22","modified":"2025-04-23T05:53:31","modified_gmt":"2025-04-23T09:53:31","slug":"bd-11_4672","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/bd-11_4672/","featured_media":0,"categories":[],"acf":{"display_name":"BD-11 4672","custom_star_title":"","aliases":"","constellation":"Scutum","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243445,"1":243444},"exo_id":"BD-11_4672","st_optmag":10.03,"st_vj":10.03,"st_dist":27.1665,"st_j":10.03,"st_mass":0.651,"dec":-11.6370481,"st_teff":4550,"st_rad":0.639,"ra":278.3688659,"system_radius":353050973.2,"pl_hostname":"BD-11_4672","stellar_type":"K","tic_id":"TIC 217831699","magnitude":10.03},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260648","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243445"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243444"}]}}
+{
+  "id": 260648,
+  "date": "2023-11-28T20:28:22",
+  "date_gmt": "2023-11-29T01:28:22",
+  "modified": "2025-04-23T05:53:31",
+  "modified_gmt": "2025-04-23T09:53:31",
+  "slug": "bd-11_4672",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bd-11_4672/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "BD-11 4672",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scutum",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243445,
+      "1": 243444
+    },
+    "exo_id": "BD-11_4672",
+    "st_optmag": 10.03,
+    "st_vj": 10.03,
+    "st_dist": 27.1665,
+    "st_j": 10.03,
+    "st_mass": 0.651,
+    "dec": -11.6370481,
+    "st_teff": 4550,
+    "st_rad": 0.639,
+    "ra": 278.3688659,
+    "system_radius": 353050973.2,
+    "pl_hostname": "BD-11_4672",
+    "stellar_type": "K",
+    "tic_id": "TIC 217831699",
+    "magnitude": 10.03
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260648",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243445"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243444"
+      }
+    ]
+  }
+}

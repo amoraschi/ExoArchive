@@ -1,1 +1,71 @@
-{"id":887961,"date":"2025-08-07T21:03:18","date_gmt":"2025-08-08T01:03:18","modified":"2025-08-07T21:03:18","modified_gmt":"2025-08-08T01:03:18","slug":"hd-135344-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-135344-a/","featured_media":0,"categories":[],"acf":{"display_name":"HD 135344 A","custom_star_title":"","aliases":"","constellation":"Lupus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[888016],"exo_id":"HD_135344_A","st_optmag":7.765,"st_vj":7.765,"st_dist":141.595,"st_j":7.765,"st_mass":2.32,"dec":-37.1489176,"st_teff":9540,"st_rad":1.5,"ra":228.9538416,"system_radius":2468364855,"pl_hostname":"HD_135344_A","stellar_type":"A","tic_id":"TIC 307606851","magnitude":7.765},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/887961","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/888016"}]}}
+{
+  "id": 887961,
+  "date": "2025-08-07T21:03:18",
+  "date_gmt": "2025-08-08T01:03:18",
+  "modified": "2025-08-07T21:03:18",
+  "modified_gmt": "2025-08-08T01:03:18",
+  "slug": "hd-135344-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-135344-a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 135344 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lupus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      888016
+    ],
+    "exo_id": "HD_135344_A",
+    "st_optmag": 7.765,
+    "st_vj": 7.765,
+    "st_dist": 141.595,
+    "st_j": 7.765,
+    "st_mass": 2.32,
+    "dec": -37.1489176,
+    "st_teff": 9540,
+    "st_rad": 1.5,
+    "ra": 228.9538416,
+    "system_radius": 2468364855,
+    "pl_hostname": "HD_135344_A",
+    "stellar_type": "A",
+    "tic_id": "TIC 307606851",
+    "magnitude": 7.765
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/887961",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/888016"
+      }
+    ]
+  }
+}

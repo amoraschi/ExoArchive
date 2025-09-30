@@ -1,1 +1,71 @@
-{"id":260724,"date":"2023-11-28T20:29:18","date_gmt":"2023-11-29T01:29:18","modified":"2025-04-23T05:53:35","modified_gmt":"2025-04-23T09:53:35","slug":"mwc_758","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/mwc_758/","featured_media":0,"categories":[],"acf":{"display_name":"MWC 758","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248192],"exo_id":"MWC_758","st_optmag":8.270001,"st_vj":8.270001,"st_dist":159.537,"st_j":8.270001,"st_mass":1.5,"dec":25.3324076,"st_teff":7314,"st_rad":2.01446,"ra":82.6147199,"system_radius":14959787000,"pl_hostname":"MWC_758","stellar_type":"A","tic_id":"TIC 73816033","magnitude":8.270001},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260724","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248192"}]}}
+{
+  "id": 260724,
+  "date": "2023-11-28T20:29:18",
+  "date_gmt": "2023-11-29T01:29:18",
+  "modified": "2025-04-23T05:53:35",
+  "modified_gmt": "2025-04-23T09:53:35",
+  "slug": "mwc_758",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/mwc_758/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MWC 758",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248192
+    ],
+    "exo_id": "MWC_758",
+    "st_optmag": 8.270001,
+    "st_vj": 8.270001,
+    "st_dist": 159.537,
+    "st_j": 8.270001,
+    "st_mass": 1.5,
+    "dec": 25.3324076,
+    "st_teff": 7314,
+    "st_rad": 2.01446,
+    "ra": 82.6147199,
+    "system_radius": 14959787000,
+    "pl_hostname": "MWC_758",
+    "stellar_type": "A",
+    "tic_id": "TIC 73816033",
+    "magnitude": 8.270001
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260724",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248192"
+      }
+    ]
+  }
+}

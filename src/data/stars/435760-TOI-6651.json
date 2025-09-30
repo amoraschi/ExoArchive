@@ -1,1 +1,71 @@
-{"id":435760,"date":"2024-11-22T00:43:42","date_gmt":"2024-11-22T05:43:42","modified":"2025-05-09T06:26:31","modified_gmt":"2025-05-09T10:26:31","slug":"toi-6651","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-6651/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-6651","custom_star_title":"","aliases":"","constellation":"Andromeda","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[435785],"exo_id":"TOI-6651","st_optmag":10.242,"st_vj":10.242,"st_dist":212.128,"st_j":10.242,"st_mass":1.323,"dec":35.3890405,"st_teff":5940,"st_rad":1.721,"ra":15.7885904,"system_radius":9469545.171,"pl_hostname":"TOI-6651","stellar_type":"G","tic_id":"TIC 174328045","magnitude":10.242},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/435760","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/435785"}]}}
+{
+  "id": 435760,
+  "date": "2024-11-22T00:43:42",
+  "date_gmt": "2024-11-22T05:43:42",
+  "modified": "2025-05-09T06:26:31",
+  "modified_gmt": "2025-05-09T10:26:31",
+  "slug": "toi-6651",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6651/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6651",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      435785
+    ],
+    "exo_id": "TOI-6651",
+    "st_optmag": 10.242,
+    "st_vj": 10.242,
+    "st_dist": 212.128,
+    "st_j": 10.242,
+    "st_mass": 1.323,
+    "dec": 35.3890405,
+    "st_teff": 5940,
+    "st_rad": 1.721,
+    "ra": 15.7885904,
+    "system_radius": 9469545.171,
+    "pl_hostname": "TOI-6651",
+    "stellar_type": "G",
+    "tic_id": "TIC 174328045",
+    "magnitude": 10.242
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/435760",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/435785"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":410109,"date":"2024-07-25T22:53:31","date_gmt":"2024-07-26T02:53:31","modified":"2025-03-28T07:28:47","modified_gmt":"2025-03-28T11:28:47","slug":"toi-2088-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2088-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2088","pl_letter":"b","display_name":"TOI-2088 b","planet_radius":"0.32858634 x Jupiter","derived_description":"TOI-2088 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 37 Earths, it takes 124.7 days to complete one orbit of its star, and is 0.472 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":126.46,"planet_mass":"37 Earths","st_optmag":11.638,"discovery_date":"2024","pl_orbsmax":0.472,"period_display":"124.7 days","eccentricity":"0.0","star_id":409986,"pl_orbper":124.72997,"pl_kepflag":false,"pl_radj":0.32858634,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":3.6831179,"exo_id":"TOI-2088_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410109","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/409986"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 410109,
+  "date": "2024-07-25T22:53:31",
+  "date_gmt": "2024-07-26T02:53:31",
+  "modified": "2025-03-28T07:28:47",
+  "modified_gmt": "2025-03-28T11:28:47",
+  "slug": "toi-2088-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2088-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2088",
+    "pl_letter": "b",
+    "display_name": "TOI-2088 b",
+    "planet_radius": "0.32858634 x Jupiter",
+    "derived_description": "TOI-2088 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 37 Earths, it takes 124.7 days to complete one orbit of its star, and is 0.472 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 126.46,
+    "planet_mass": "37 Earths",
+    "st_optmag": 11.638,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.472,
+    "period_display": "124.7 days",
+    "eccentricity": "0.0",
+    "star_id": 409986,
+    "pl_orbper": 124.72997,
+    "pl_kepflag": false,
+    "pl_radj": 0.32858634,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 3.6831179,
+    "exo_id": "TOI-2088_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410109",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409986"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243920,"date":"2019-04-22T16:48:41","date_gmt":"2019-04-22T20:48:41","modified":"2025-07-07T17:21:28","modified_gmt":"2025-07-07T21:21:28","slug":"hd-109271-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-109271-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_109271","pl_letter":"c","display_name":"HD 109271 c","planet_radius":"0.47 x Jupiter (estimate)","derived_description":"HD 109271 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 24.154 Earths, it takes 30.9 days to complete one orbit of its star, and is 0.196 AU from its star. Its discovery was announced in 2013.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":55.8716,"planet_mass":"24.154 Earths","st_optmag":8.04,"discovery_date":"2013","pl_orbsmax":0.196,"period_display":"30.9 days","eccentricity":"0.15","star_id":262339,"pl_orbper":30.93,"pl_kepflag":false,"pl_radj":0.47,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":4,"multiple_planet_system":false,"pl_rade":5.27,"exo_id":"HD_109271_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.15},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243920","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262339"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243920,
+  "date": "2019-04-22T16:48:41",
+  "date_gmt": "2019-04-22T20:48:41",
+  "modified": "2025-07-07T17:21:28",
+  "modified_gmt": "2025-07-07T21:21:28",
+  "slug": "hd-109271-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-109271-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_109271",
+    "pl_letter": "c",
+    "display_name": "HD 109271 c",
+    "planet_radius": "0.47 x Jupiter (estimate)",
+    "derived_description": "HD 109271 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 24.154 Earths, it takes 30.9 days to complete one orbit of its star, and is 0.196 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 55.8716,
+    "planet_mass": "24.154 Earths",
+    "st_optmag": 8.04,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.196,
+    "period_display": "30.9 days",
+    "eccentricity": "0.15",
+    "star_id": 262339,
+    "pl_orbper": 30.93,
+    "pl_kepflag": false,
+    "pl_radj": 0.47,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": 4,
+    "multiple_planet_system": false,
+    "pl_rade": 5.27,
+    "exo_id": "HD_109271_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.15
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243920",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262339"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

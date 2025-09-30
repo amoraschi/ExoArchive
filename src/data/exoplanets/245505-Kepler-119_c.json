@@ -1,1 +1,79 @@
-{"id":245505,"date":"2016-03-16T19:26:21","date_gmt":"2016-03-16T23:26:21","modified":"2025-07-07T20:41:28","modified_gmt":"2025-07-08T00:41:28","slug":"kepler-119-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-119-c/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-119","pl_letter":"c","display_name":"Kepler-119 c","planet_radius":"0.92 x Earth","derived_description":"Kepler-119 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.721 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.049 AU from its star. Its discovery was announced in 2014.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":701.996,"planet_mass":"0.721 Earths","st_optmag":14.375,"discovery_date":"2014","pl_orbsmax":0.049,"period_display":"4.1 days","eccentricity":"0.0","star_id":262643,"pl_orbper":4.125103,"pl_kepflag":true,"pl_radj":0.082,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.92,"exo_id":"Kepler-119_c","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245505","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262643"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 245505,
+  "date": "2016-03-16T19:26:21",
+  "date_gmt": "2016-03-16T23:26:21",
+  "modified": "2025-07-07T20:41:28",
+  "modified_gmt": "2025-07-08T00:41:28",
+  "slug": "kepler-119-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-119-c/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-119",
+    "pl_letter": "c",
+    "display_name": "Kepler-119 c",
+    "planet_radius": "0.92 x Earth",
+    "derived_description": "Kepler-119 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.721 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.049 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 701.996,
+    "planet_mass": "0.721 Earths",
+    "st_optmag": 14.375,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.049,
+    "period_display": "4.1 days",
+    "eccentricity": "0.0",
+    "star_id": 262643,
+    "pl_orbper": 4.125103,
+    "pl_kepflag": true,
+    "pl_radj": 0.082,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.92,
+    "exo_id": "Kepler-119_c",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245505",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262643"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263306,"date":"2023-11-28T21:01:59","date_gmt":"2023-11-29T02:01:59","modified":"2025-04-23T05:55:59","modified_gmt":"2025-04-23T09:55:59","slug":"toi-169","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-169/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-169","custom_star_title":"","aliases":"","constellation":"Tucana","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248480],"exo_id":"TOI-169","st_optmag":12.355,"st_vj":12.355,"st_dist":407.84,"st_j":12.355,"st_mass":1.147,"dec":-75.1989452,"st_teff":5880,"st_rad":1.288,"ra":16.7786879,"system_radius":5271828.9388,"pl_hostname":"TOI-169","stellar_type":"G","tic_id":"TIC 183120439","magnitude":12.355},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263306","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248480"}]}}
+{
+  "id": 263306,
+  "date": "2023-11-28T21:01:59",
+  "date_gmt": "2023-11-29T02:01:59",
+  "modified": "2025-04-23T05:55:59",
+  "modified_gmt": "2025-04-23T09:55:59",
+  "slug": "toi-169",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-169/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-169",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Tucana",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248480
+    ],
+    "exo_id": "TOI-169",
+    "st_optmag": 12.355,
+    "st_vj": 12.355,
+    "st_dist": 407.84,
+    "st_j": 12.355,
+    "st_mass": 1.147,
+    "dec": -75.1989452,
+    "st_teff": 5880,
+    "st_rad": 1.288,
+    "ra": 16.7786879,
+    "system_radius": 5271828.9388,
+    "pl_hostname": "TOI-169",
+    "stellar_type": "G",
+    "tic_id": "TIC 183120439",
+    "magnitude": 12.355
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248480"
+      }
+    ]
+  }
+}

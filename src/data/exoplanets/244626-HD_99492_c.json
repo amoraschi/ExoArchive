@@ -1,1 +1,79 @@
-{"id":244626,"date":"2023-09-21T19:31:25","date_gmt":"2023-09-21T23:31:25","modified":"2025-07-07T17:21:42","modified_gmt":"2025-07-07T21:21:42","slug":"hd-99492-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-99492-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_99492","pl_letter":"c","display_name":"HD 99492 c","planet_radius":"0.394 x Jupiter (estimate)","derived_description":"HD 99492 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 17.9 Earths, it takes 95.2 days to complete one orbit of its star, and is 0.38660377857992 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Roque de los Muchachos Observatory","st_dist":18.2038,"planet_mass":"17.9 Earths","st_optmag":7.56727,"discovery_date":"2023","pl_orbsmax":"","period_display":"95.2 days","eccentricity":"0.06","star_id":260398,"pl_orbper":95.233,"pl_kepflag":false,"pl_radj":0.394,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":137.5,"multiple_planet_system":false,"pl_rade":4.42,"exo_id":"HD_99492_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.063},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244626","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260398"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244626,
+  "date": "2023-09-21T19:31:25",
+  "date_gmt": "2023-09-21T23:31:25",
+  "modified": "2025-07-07T17:21:42",
+  "modified_gmt": "2025-07-07T21:21:42",
+  "slug": "hd-99492-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-99492-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_99492",
+    "pl_letter": "c",
+    "display_name": "HD 99492 c",
+    "planet_radius": "0.394 x Jupiter (estimate)",
+    "derived_description": "HD 99492 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 17.9 Earths, it takes 95.2 days to complete one orbit of its star, and is 0.38660377857992 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Roque de los Muchachos Observatory",
+    "st_dist": 18.2038,
+    "planet_mass": "17.9 Earths",
+    "st_optmag": 7.56727,
+    "discovery_date": "2023",
+    "pl_orbsmax": "",
+    "period_display": "95.2 days",
+    "eccentricity": "0.06",
+    "star_id": 260398,
+    "pl_orbper": 95.233,
+    "pl_kepflag": false,
+    "pl_radj": 0.394,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 137.5,
+    "multiple_planet_system": false,
+    "pl_rade": 4.42,
+    "exo_id": "HD_99492_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.063
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244626",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260398"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

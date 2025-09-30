@@ -1,1 +1,69 @@
-{"id":391286,"date":"2024-04-30T20:01:25","date_gmt":"2024-05-01T00:01:25","modified":"2025-04-23T05:57:35","modified_gmt":"2025-04-23T09:57:35","slug":"212-puppis-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/212-puppis-a/","featured_media":429647,"categories":[],"acf":{"display_name":"212 Puppis A","custom_star_title":"","aliases":"HD 64379,HR 3079,GJ 292A","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"212_Puppis_A","st_optmag":5.085,"st_vj":5.085,"st_dist":18.3274,"st_j":5.085,"st_mass":1.33,"dec":-34.7054399,"st_teff":6525,"st_rad":1.246,"ra":118.0652624,"system_radius":149597870,"pl_hostname":"212_Puppis_A","stellar_type":"F","tic_id":"TIC 150796339","magnitude":5.1},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391286","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391286,
+  "date": "2024-04-30T20:01:25",
+  "date_gmt": "2024-05-01T00:01:25",
+  "modified": "2025-04-23T05:57:35",
+  "modified_gmt": "2025-04-23T09:57:35",
+  "slug": "212-puppis-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/212-puppis-a/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "212 Puppis A",
+    "custom_star_title": "",
+    "aliases": "HD 64379,HR 3079,GJ 292A",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "212_Puppis_A",
+    "st_optmag": 5.085,
+    "st_vj": 5.085,
+    "st_dist": 18.3274,
+    "st_j": 5.085,
+    "st_mass": 1.33,
+    "dec": -34.7054399,
+    "st_teff": 6525,
+    "st_rad": 1.246,
+    "ra": 118.0652624,
+    "system_radius": 149597870,
+    "pl_hostname": "212_Puppis_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 150796339",
+    "magnitude": 5.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391286",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

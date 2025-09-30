@@ -1,1 +1,76 @@
-{"id":261617,"date":"2023-11-28T20:40:36","date_gmt":"2023-11-29T01:40:36","modified":"2025-04-23T05:54:11","modified_gmt":"2025-04-23T09:54:11","slug":"kepler-280","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-280/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-280","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246846,246847],"exo_id":"Kepler-280","st_optmag":14.35,"st_vj":14.35,"st_dist":780.361,"st_j":14.35,"st_mass":0.962,"dec":42.1804735,"st_teff":5744,"st_rad":0.886,"ra":291.3905325,"system_radius":8377480.72,"pl_hostname":"Kepler-280","stellar_type":"G","tic_id":"TIC 159716174","magnitude":14.35},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261617","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246847"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246846"}]}}
+{
+  "id": 261617,
+  "date": "2023-11-28T20:40:36",
+  "date_gmt": "2023-11-29T01:40:36",
+  "modified": "2025-04-23T05:54:11",
+  "modified_gmt": "2025-04-23T09:54:11",
+  "slug": "kepler-280",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-280/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-280",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246846,
+      246847
+    ],
+    "exo_id": "Kepler-280",
+    "st_optmag": 14.35,
+    "st_vj": 14.35,
+    "st_dist": 780.361,
+    "st_j": 14.35,
+    "st_mass": 0.962,
+    "dec": 42.1804735,
+    "st_teff": 5744,
+    "st_rad": 0.886,
+    "ra": 291.3905325,
+    "system_radius": 8377480.72,
+    "pl_hostname": "Kepler-280",
+    "stellar_type": "G",
+    "tic_id": "TIC 159716174",
+    "magnitude": 14.35
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261617",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246847"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246846"
+      }
+    ]
+  }
+}

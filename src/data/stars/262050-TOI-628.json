@@ -1,1 +1,71 @@
-{"id":262050,"date":"2023-11-28T20:46:04","date_gmt":"2023-11-29T01:46:04","modified":"2025-04-23T05:55:20","modified_gmt":"2025-04-23T09:55:20","slug":"toi-628","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-628/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-628","custom_star_title":"","aliases":"","constellation":"Monoceros","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248669],"exo_id":"TOI-628","st_optmag":10.112,"st_vj":10.112,"st_dist":178.68,"st_j":10.112,"st_mass":1.311,"dec":1.7675497,"st_teff":6250,"st_rad":1.345,"ra":99.2630608,"system_radius":7270456.482,"pl_hostname":"TOI-628","stellar_type":"F","tic_id":"TIC 281408474","magnitude":10.112},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262050","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248669"}]}}
+{
+  "id": 262050,
+  "date": "2023-11-28T20:46:04",
+  "date_gmt": "2023-11-29T01:46:04",
+  "modified": "2025-04-23T05:55:20",
+  "modified_gmt": "2025-04-23T09:55:20",
+  "slug": "toi-628",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-628/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-628",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248669
+    ],
+    "exo_id": "TOI-628",
+    "st_optmag": 10.112,
+    "st_vj": 10.112,
+    "st_dist": 178.68,
+    "st_j": 10.112,
+    "st_mass": 1.311,
+    "dec": 1.7675497,
+    "st_teff": 6250,
+    "st_rad": 1.345,
+    "ra": 99.2630608,
+    "system_radius": 7270456.482,
+    "pl_hostname": "TOI-628",
+    "stellar_type": "F",
+    "tic_id": "TIC 281408474",
+    "magnitude": 10.112
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262050",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248669"
+      }
+    ]
+  }
+}

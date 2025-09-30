@@ -1,1 +1,91 @@
-{"id":260617,"date":"2023-11-28T20:28:00","date_gmt":"2023-11-29T01:28:00","modified":"2025-04-23T05:53:22","modified_gmt":"2025-04-23T09:53:22","slug":"hd_158259","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_158259/","featured_media":0,"categories":[],"acf":{"display_name":"HD 158259","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244094,244095,244096,244097,244098],"exo_id":"HD_158259","st_optmag":6.47915,"st_vj":6.47915,"st_dist":27.0498,"st_j":6.47915,"st_mass":1.08,"dec":52.7904721,"st_teff":5801.89,"st_rad":1.21,"ra":261.3495847,"system_radius":149597870,"pl_hostname":"HD_158259","stellar_type":"G","tic_id":"TIC 188768068","magnitude":6.47915},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260617","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244098"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244097"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244096"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244095"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244094"}]}}
+{
+  "id": 260617,
+  "date": "2023-11-28T20:28:00",
+  "date_gmt": "2023-11-29T01:28:00",
+  "modified": "2025-04-23T05:53:22",
+  "modified_gmt": "2025-04-23T09:53:22",
+  "slug": "hd_158259",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_158259/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 158259",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244094,
+      244095,
+      244096,
+      244097,
+      244098
+    ],
+    "exo_id": "HD_158259",
+    "st_optmag": 6.47915,
+    "st_vj": 6.47915,
+    "st_dist": 27.0498,
+    "st_j": 6.47915,
+    "st_mass": 1.08,
+    "dec": 52.7904721,
+    "st_teff": 5801.89,
+    "st_rad": 1.21,
+    "ra": 261.3495847,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_158259",
+    "stellar_type": "G",
+    "tic_id": "TIC 188768068",
+    "magnitude": 6.47915
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260617",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244098"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244097"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244096"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244095"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244094"
+      }
+    ]
+  }
+}

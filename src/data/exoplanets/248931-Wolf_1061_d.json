@@ -1,1 +1,79 @@
-{"id":248931,"date":"2019-04-22T16:48:56","date_gmt":"2019-04-22T20:48:56","modified":"2025-07-07T20:40:51","modified_gmt":"2025-07-08T00:40:51","slug":"wolf-1061-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wolf-1061-d/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Wolf_1061","pl_letter":"d","display_name":"Wolf 1061 d","planet_radius":"0.24 x Jupiter (estimate)","derived_description":"Wolf 1061 d is a Neptune-like exoplanet that orbits a M-type star. Its mass is 7.7 Earths, it takes 217.2 days to complete one orbit of its star, and is 0.47 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":4.30592,"planet_mass":"7.7 Earths","st_optmag":10.1,"discovery_date":"2015","pl_orbsmax":0.47,"period_display":"217.2 days","eccentricity":"0.55","star_id":261988,"pl_orbper":217.21,"pl_kepflag":false,"pl_radj":0.24,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":102,"multiple_planet_system":false,"pl_rade":2.69,"exo_id":"Wolf_1061_d","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.55},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248931","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261988"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248931,
+  "date": "2019-04-22T16:48:56",
+  "date_gmt": "2019-04-22T20:48:56",
+  "modified": "2025-07-07T20:40:51",
+  "modified_gmt": "2025-07-08T00:40:51",
+  "slug": "wolf-1061-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wolf-1061-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Wolf_1061",
+    "pl_letter": "d",
+    "display_name": "Wolf 1061 d",
+    "planet_radius": "0.24 x Jupiter (estimate)",
+    "derived_description": "Wolf 1061 d is a Neptune-like exoplanet that orbits a M-type star. Its mass is 7.7 Earths, it takes 217.2 days to complete one orbit of its star, and is 0.47 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 4.30592,
+    "planet_mass": "7.7 Earths",
+    "st_optmag": 10.1,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.47,
+    "period_display": "217.2 days",
+    "eccentricity": "0.55",
+    "star_id": 261988,
+    "pl_orbper": 217.21,
+    "pl_kepflag": false,
+    "pl_radj": 0.24,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 102,
+    "multiple_planet_system": false,
+    "pl_rade": 2.69,
+    "exo_id": "Wolf_1061_d",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.55
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248931",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261988"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

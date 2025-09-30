@@ -1,1 +1,77 @@
-{"id":874417,"date":"2025-06-26T20:02:05","date_gmt":"2025-06-27T00:02:05","modified":"2025-06-26T20:02:05","modified_gmt":"2025-06-27T00:02:05","slug":"corot-32","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-32/","featured_media":429647,"categories":[],"acf":{"display_name":"CoRoT-32","custom_star_title":"","aliases":"","constellation":"Monoceros","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876029],"exo_id":"CoRoT-32","st_optmag":13.626,"st_vj":13.626,"st_dist":576.683,"st_j":13.626,"st_mass":1.08,"dec":9.2573953,"st_teff":5970,"st_rad":0.79,"ra":100.1951714,"system_radius":10621448.77,"pl_hostname":"CoRoT-32","stellar_type":"F","tic_id":"TIC 220323515","magnitude":13.626},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/874417","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876029"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 874417,
+  "date": "2025-06-26T20:02:05",
+  "date_gmt": "2025-06-27T00:02:05",
+  "modified": "2025-06-26T20:02:05",
+  "modified_gmt": "2025-06-27T00:02:05",
+  "slug": "corot-32",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-32/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-32",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876029
+    ],
+    "exo_id": "CoRoT-32",
+    "st_optmag": 13.626,
+    "st_vj": 13.626,
+    "st_dist": 576.683,
+    "st_j": 13.626,
+    "st_mass": 1.08,
+    "dec": 9.2573953,
+    "st_teff": 5970,
+    "st_rad": 0.79,
+    "ra": 100.1951714,
+    "system_radius": 10621448.77,
+    "pl_hostname": "CoRoT-32",
+    "stellar_type": "F",
+    "tic_id": "TIC 220323515",
+    "magnitude": 13.626
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/874417",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876029"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263533,"date":"2023-11-28T21:04:52","date_gmt":"2023-11-29T02:04:52","modified":"2025-04-23T05:53:46","modified_gmt":"2025-04-23T09:53:46","slug":"kepler-1341","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1341/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1341","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245712],"exo_id":"Kepler-1341","st_optmag":15.356,"st_vj":15.356,"st_dist":476.957,"st_j":15.356,"st_mass":0.79,"dec":44.1593503,"st_teff":4662,"st_rad":0.72,"ra":280.5116813,"system_radius":70710425.2129,"pl_hostname":"Kepler-1341","stellar_type":"K","tic_id":"TIC 123126460","magnitude":15.356},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263533","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245712"}]}}
+{
+  "id": 263533,
+  "date": "2023-11-28T21:04:52",
+  "date_gmt": "2023-11-29T02:04:52",
+  "modified": "2025-04-23T05:53:46",
+  "modified_gmt": "2025-04-23T09:53:46",
+  "slug": "kepler-1341",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1341/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1341",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245712
+    ],
+    "exo_id": "Kepler-1341",
+    "st_optmag": 15.356,
+    "st_vj": 15.356,
+    "st_dist": 476.957,
+    "st_j": 15.356,
+    "st_mass": 0.79,
+    "dec": 44.1593503,
+    "st_teff": 4662,
+    "st_rad": 0.72,
+    "ra": 280.5116813,
+    "system_radius": 70710425.2129,
+    "pl_hostname": "Kepler-1341",
+    "stellar_type": "K",
+    "tic_id": "TIC 123126460",
+    "magnitude": 15.356
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263533",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245712"
+      }
+    ]
+  }
+}

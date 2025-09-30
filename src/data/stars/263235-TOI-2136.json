@@ -1,1 +1,71 @@
-{"id":263235,"date":"2023-11-28T21:01:06","date_gmt":"2023-11-29T02:01:06","modified":"2025-04-23T05:56:52","modified_gmt":"2025-04-23T09:56:52","slug":"toi-2136","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2136/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2136","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248526],"exo_id":"TOI-2136","st_optmag":14.32,"st_vj":14.32,"st_dist":33.3631,"st_j":14.32,"st_mass":0.34,"dec":36.5631318,"st_teff":3342,"st_rad":0.34,"ra":281.1763433,"system_radius":8527078.59,"pl_hostname":"TOI-2136","stellar_type":"M","tic_id":"TIC 336128819","magnitude":14.32},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263235","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248526"}]}}
+{
+  "id": 263235,
+  "date": "2023-11-28T21:01:06",
+  "date_gmt": "2023-11-29T02:01:06",
+  "modified": "2025-04-23T05:56:52",
+  "modified_gmt": "2025-04-23T09:56:52",
+  "slug": "toi-2136",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2136/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2136",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248526
+    ],
+    "exo_id": "TOI-2136",
+    "st_optmag": 14.32,
+    "st_vj": 14.32,
+    "st_dist": 33.3631,
+    "st_j": 14.32,
+    "st_mass": 0.34,
+    "dec": 36.5631318,
+    "st_teff": 3342,
+    "st_rad": 0.34,
+    "ra": 281.1763433,
+    "system_radius": 8527078.59,
+    "pl_hostname": "TOI-2136",
+    "stellar_type": "M",
+    "tic_id": "TIC 336128819",
+    "magnitude": 14.32
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263235",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248526"
+      }
+    ]
+  }
+}

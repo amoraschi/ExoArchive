@@ -1,1 +1,71 @@
-{"id":439630,"date":"2024-12-13T01:15:43","date_gmt":"2024-12-13T06:15:43","modified":"2025-05-09T06:26:31","modified_gmt":"2025-05-09T10:26:31","slug":"ngts-33","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngts-33/","featured_media":0,"categories":[],"acf":{"display_name":"NGTS-33","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[439674],"exo_id":"NGTS-33","st_optmag":11.604,"st_vj":11.604,"st_dist":437.855,"st_j":11.604,"st_mass":1.6,"dec":-35.8505185,"st_teff":7437,"st_rad":1.47,"ra":107.8333348,"system_radius":7180697.76,"pl_hostname":"NGTS-33","stellar_type":"A","tic_id":"TIC 97921547","magnitude":11.604},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/439630","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439674"}]}}
+{
+  "id": 439630,
+  "date": "2024-12-13T01:15:43",
+  "date_gmt": "2024-12-13T06:15:43",
+  "modified": "2025-05-09T06:26:31",
+  "modified_gmt": "2025-05-09T10:26:31",
+  "slug": "ngts-33",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-33/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-33",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      439674
+    ],
+    "exo_id": "NGTS-33",
+    "st_optmag": 11.604,
+    "st_vj": 11.604,
+    "st_dist": 437.855,
+    "st_j": 11.604,
+    "st_mass": 1.6,
+    "dec": -35.8505185,
+    "st_teff": 7437,
+    "st_rad": 1.47,
+    "ra": 107.8333348,
+    "system_radius": 7180697.76,
+    "pl_hostname": "NGTS-33",
+    "stellar_type": "A",
+    "tic_id": "TIC 97921547",
+    "magnitude": 11.604
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439630",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439674"
+      }
+    ]
+  }
+}

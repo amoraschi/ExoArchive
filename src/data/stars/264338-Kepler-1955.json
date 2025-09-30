@@ -1,1 +1,71 @@
-{"id":264338,"date":"2023-11-28T21:15:16","date_gmt":"2023-11-29T02:15:16","modified":"2025-04-23T05:56:47","modified_gmt":"2025-04-23T09:56:47","slug":"kepler-1955","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1955/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1955","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246540],"exo_id":"Kepler-1955","st_optmag":12.609,"st_vj":12.609,"st_dist":449.351,"st_j":12.609,"st_mass":1.049,"dec":40.4777528,"st_teff":5825,"st_rad":1.291,"ra":299.5347603,"system_radius":17890409.2733,"pl_hostname":"Kepler-1955","stellar_type":"G","tic_id":"TIC 172372582","magnitude":12.609},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264338","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246540"}]}}
+{
+  "id": 264338,
+  "date": "2023-11-28T21:15:16",
+  "date_gmt": "2023-11-29T02:15:16",
+  "modified": "2025-04-23T05:56:47",
+  "modified_gmt": "2025-04-23T09:56:47",
+  "slug": "kepler-1955",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1955/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1955",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246540
+    ],
+    "exo_id": "Kepler-1955",
+    "st_optmag": 12.609,
+    "st_vj": 12.609,
+    "st_dist": 449.351,
+    "st_j": 12.609,
+    "st_mass": 1.049,
+    "dec": 40.4777528,
+    "st_teff": 5825,
+    "st_rad": 1.291,
+    "ra": 299.5347603,
+    "system_radius": 17890409.2733,
+    "pl_hostname": "Kepler-1955",
+    "stellar_type": "G",
+    "tic_id": "TIC 172372582",
+    "magnitude": 12.609
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264338",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246540"
+      }
+    ]
+  }
+}

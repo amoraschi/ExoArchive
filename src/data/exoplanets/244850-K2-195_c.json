@@ -1,1 +1,79 @@
-{"id":244850,"date":"2018-02-16T12:26:08","date_gmt":"2018-02-16T17:26:08","modified":"2025-07-07T20:32:47","modified_gmt":"2025-07-08T00:32:47","slug":"k2-195-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-195-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-195","pl_letter":"c","display_name":"K2-195 c","planet_radius":"0.22979917 x Jupiter","derived_description":"K2-195 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.16 Earths, it takes 28.5 days to complete one orbit of its star, and is 0.1802685329645 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":315.014,"planet_mass":"7.16 Earths","st_optmag":12.524,"discovery_date":"2018","pl_orbsmax":"","period_display":"28.5 days","eccentricity":"","star_id":261295,"pl_orbper":28.482786,"pl_kepflag":true,"pl_radj":0.22979917,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.57581891,"exo_id":"K2-195_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244850","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261295"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244850,
+  "date": "2018-02-16T12:26:08",
+  "date_gmt": "2018-02-16T17:26:08",
+  "modified": "2025-07-07T20:32:47",
+  "modified_gmt": "2025-07-08T00:32:47",
+  "slug": "k2-195-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-195-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-195",
+    "pl_letter": "c",
+    "display_name": "K2-195 c",
+    "planet_radius": "0.22979917 x Jupiter",
+    "derived_description": "K2-195 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.16 Earths, it takes 28.5 days to complete one orbit of its star, and is 0.1802685329645 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 315.014,
+    "planet_mass": "7.16 Earths",
+    "st_optmag": 12.524,
+    "discovery_date": "2018",
+    "pl_orbsmax": "",
+    "period_display": "28.5 days",
+    "eccentricity": "",
+    "star_id": 261295,
+    "pl_orbper": 28.482786,
+    "pl_kepflag": true,
+    "pl_radj": 0.22979917,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.57581891,
+    "exo_id": "K2-195_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244850",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261295"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

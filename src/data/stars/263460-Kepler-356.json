@@ -1,1 +1,76 @@
-{"id":263460,"date":"2023-11-28T21:03:57","date_gmt":"2023-11-29T02:03:57","modified":"2025-04-23T05:53:49","modified_gmt":"2025-04-23T09:53:49","slug":"kepler-356","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-356/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-356","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247044,247045],"exo_id":"Kepler-356","st_optmag":13.058,"st_vj":13.058,"st_dist":707.559,"st_j":13.058,"st_mass":1.163,"dec":37.6827919,"st_teff":6133,"st_rad":1.335,"ra":292.4210998,"system_radius":17203755.05,"pl_hostname":"Kepler-356","stellar_type":"F","tic_id":"TIC 137636895","magnitude":13.058},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263460","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247045"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247044"}]}}
+{
+  "id": 263460,
+  "date": "2023-11-28T21:03:57",
+  "date_gmt": "2023-11-29T02:03:57",
+  "modified": "2025-04-23T05:53:49",
+  "modified_gmt": "2025-04-23T09:53:49",
+  "slug": "kepler-356",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-356/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-356",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247044,
+      247045
+    ],
+    "exo_id": "Kepler-356",
+    "st_optmag": 13.058,
+    "st_vj": 13.058,
+    "st_dist": 707.559,
+    "st_j": 13.058,
+    "st_mass": 1.163,
+    "dec": 37.6827919,
+    "st_teff": 6133,
+    "st_rad": 1.335,
+    "ra": 292.4210998,
+    "system_radius": 17203755.05,
+    "pl_hostname": "Kepler-356",
+    "stellar_type": "F",
+    "tic_id": "TIC 137636895",
+    "magnitude": 13.058
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263460",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247045"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247044"
+      }
+    ]
+  }
+}

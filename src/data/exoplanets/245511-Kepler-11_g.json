@@ -1,1 +1,79 @@
-{"id":245511,"date":"2016-03-16T19:26:23","date_gmt":"2016-03-16T23:26:23","modified":"2025-07-07T17:21:31","modified_gmt":"2025-07-07T21:21:31","slug":"kepler-11-g","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-11-g/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-11","pl_letter":"g","display_name":"Kepler-11 g","planet_radius":"0.297 x Jupiter","derived_description":"Kepler-11 g is a Neptune-like exoplanet that orbits a G-type star. Its mass is 25 Earths, it takes 118.4 days to complete one orbit of its star, and is 0.466 AU from its star. Its discovery was announced in 2010.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":646.346,"planet_mass":"25 Earths","st_optmag":13.817,"discovery_date":"2010","pl_orbsmax":0.466,"period_display":"118.4 days","eccentricity":"< 0.15","star_id":261576,"pl_orbper":118.3807,"pl_kepflag":true,"pl_radj":0.297,"pl_disc":2010,"pl_publ_date":"2010","planet_orbit_period":97,"multiple_planet_system":false,"pl_rade":3.33,"exo_id":"Kepler-11_g","planet_size_class":"sub-Neptunian","pl_eccenlim":0.15,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245511","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261576"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245511,
+  "date": "2016-03-16T19:26:23",
+  "date_gmt": "2016-03-16T23:26:23",
+  "modified": "2025-07-07T17:21:31",
+  "modified_gmt": "2025-07-07T21:21:31",
+  "slug": "kepler-11-g",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-11-g/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-11",
+    "pl_letter": "g",
+    "display_name": "Kepler-11 g",
+    "planet_radius": "0.297 x Jupiter",
+    "derived_description": "Kepler-11 g is a Neptune-like exoplanet that orbits a G-type star. Its mass is 25 Earths, it takes 118.4 days to complete one orbit of its star, and is 0.466 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 646.346,
+    "planet_mass": "25 Earths",
+    "st_optmag": 13.817,
+    "discovery_date": "2010",
+    "pl_orbsmax": 0.466,
+    "period_display": "118.4 days",
+    "eccentricity": "< 0.15",
+    "star_id": 261576,
+    "pl_orbper": 118.3807,
+    "pl_kepflag": true,
+    "pl_radj": 0.297,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": 97,
+    "multiple_planet_system": false,
+    "pl_rade": 3.33,
+    "exo_id": "Kepler-11_g",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0.15,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245511",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261576"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

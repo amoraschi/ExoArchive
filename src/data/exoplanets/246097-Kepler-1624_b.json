@@ -1,1 +1,79 @@
-{"id":246097,"date":"2016-05-10T14:50:04","date_gmt":"2016-05-10T18:50:04","modified":"2025-07-07T15:25:40","modified_gmt":"2025-07-07T19:25:40","slug":"kepler-1624-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1624-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1624","pl_letter":"b","display_name":"Kepler-1624 b","planet_radius":"0.50851994 x Jupiter","derived_description":"Kepler-1624 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 27.6 Earths, it takes 3.3 days to complete one orbit of its star, and is 0.0327 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":258.979,"planet_mass":"27.6 Earths","st_optmag":16.597,"discovery_date":"2016","pl_orbsmax":0.0327,"period_display":"3.3 days","eccentricity":"0.0","star_id":262795,"pl_orbper":3.290304518,"pl_kepflag":true,"pl_radj":0.50851994,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":5.7,"exo_id":"Kepler-1624_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246097","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262795"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246097,
+  "date": "2016-05-10T14:50:04",
+  "date_gmt": "2016-05-10T18:50:04",
+  "modified": "2025-07-07T15:25:40",
+  "modified_gmt": "2025-07-07T19:25:40",
+  "slug": "kepler-1624-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1624-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1624",
+    "pl_letter": "b",
+    "display_name": "Kepler-1624 b",
+    "planet_radius": "0.50851994 x Jupiter",
+    "derived_description": "Kepler-1624 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 27.6 Earths, it takes 3.3 days to complete one orbit of its star, and is 0.0327 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 258.979,
+    "planet_mass": "27.6 Earths",
+    "st_optmag": 16.597,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0327,
+    "period_display": "3.3 days",
+    "eccentricity": "0.0",
+    "star_id": 262795,
+    "pl_orbper": 3.290304518,
+    "pl_kepflag": true,
+    "pl_radj": 0.50851994,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 5.7,
+    "exo_id": "Kepler-1624_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246097",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262795"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

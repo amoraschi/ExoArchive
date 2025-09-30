@@ -1,1 +1,79 @@
-{"id":243909,"date":"2021-01-29T19:17:02","date_gmt":"2021-01-30T00:17:02","modified":"2025-07-07T20:34:53","modified_gmt":"2025-07-08T00:34:53","slug":"hd-108236-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-108236-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_108236","pl_letter":"b","display_name":"HD 108236 b","planet_radius":"1.615 x Earth","derived_description":"HD 108236 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.24 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.04527 AU from its star. Its discovery was announced in 2020.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":64.5978,"planet_mass":"3.24 Earths","st_optmag":9.25,"discovery_date":"2020","pl_orbsmax":0.04527,"period_display":"3.8 days","eccentricity":"0.04","star_id":260795,"pl_orbper":3.795963,"pl_kepflag":false,"pl_radj":0.14408065,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":126,"multiple_planet_system":false,"pl_rade":1.615,"exo_id":"HD_108236_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.045},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243909","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260795"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 243909,
+  "date": "2021-01-29T19:17:02",
+  "date_gmt": "2021-01-30T00:17:02",
+  "modified": "2025-07-07T20:34:53",
+  "modified_gmt": "2025-07-08T00:34:53",
+  "slug": "hd-108236-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-108236-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_108236",
+    "pl_letter": "b",
+    "display_name": "HD 108236 b",
+    "planet_radius": "1.615 x Earth",
+    "derived_description": "HD 108236 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.24 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.04527 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 64.5978,
+    "planet_mass": "3.24 Earths",
+    "st_optmag": 9.25,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.04527,
+    "period_display": "3.8 days",
+    "eccentricity": "0.04",
+    "star_id": 260795,
+    "pl_orbper": 3.795963,
+    "pl_kepflag": false,
+    "pl_radj": 0.14408065,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 126,
+    "multiple_planet_system": false,
+    "pl_rade": 1.615,
+    "exo_id": "HD_108236_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.045
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243909",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260795"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

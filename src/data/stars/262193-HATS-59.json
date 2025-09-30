@@ -1,1 +1,76 @@
-{"id":262193,"date":"2023-11-28T20:47:54","date_gmt":"2023-11-29T01:47:54","modified":"2025-04-23T05:55:43","modified_gmt":"2025-04-23T09:55:43","slug":"hats-59","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-59/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-59","custom_star_title":"","aliases":"","constellation":"Crater","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243844,243845],"exo_id":"HATS-59","st_optmag":14.033,"st_vj":14.033,"st_dist":642.884,"st_j":14.033,"st_mass":1.038,"dec":-22.388177,"st_teff":5670,"st_rad":1.036,"ra":170.324325,"system_radius":374593066.48,"pl_hostname":"HATS-59","stellar_type":"G","tic_id":"TIC 437261733","magnitude":14.033},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262193","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243845"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243844"}]}}
+{
+  "id": 262193,
+  "date": "2023-11-28T20:47:54",
+  "date_gmt": "2023-11-29T01:47:54",
+  "modified": "2025-04-23T05:55:43",
+  "modified_gmt": "2025-04-23T09:55:43",
+  "slug": "hats-59",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-59/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-59",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Crater",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243844,
+      243845
+    ],
+    "exo_id": "HATS-59",
+    "st_optmag": 14.033,
+    "st_vj": 14.033,
+    "st_dist": 642.884,
+    "st_j": 14.033,
+    "st_mass": 1.038,
+    "dec": -22.388177,
+    "st_teff": 5670,
+    "st_rad": 1.036,
+    "ra": 170.324325,
+    "system_radius": 374593066.48,
+    "pl_hostname": "HATS-59",
+    "stellar_type": "G",
+    "tic_id": "TIC 437261733",
+    "magnitude": 14.033
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262193",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243845"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243844"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":410099,"date":"2024-07-25T22:53:24","date_gmt":"2024-07-26T02:53:24","modified":"2025-03-28T07:25:41","modified_gmt":"2025-03-28T11:25:41","slug":"toi-1753-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1753-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1753","pl_letter":"b","display_name":"TOI-1753 b","planet_radius":"2.47852533 x Earth","derived_description":"TOI-1753 b is a super Earth exoplanet that orbits a G-type star. Its mass is 16.6 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.059 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":226.671,"planet_mass":"16.6 Earths","st_optmag":11.831,"discovery_date":"2024","pl_orbsmax":0.059,"period_display":"5.4 days","eccentricity":"0.0","star_id":409978,"pl_orbper":5.3846104,"pl_kepflag":false,"pl_radj":0.2211196,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":2.47852533,"exo_id":"TOI-1753_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410099","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/409978"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 410099,
+  "date": "2024-07-25T22:53:24",
+  "date_gmt": "2024-07-26T02:53:24",
+  "modified": "2025-03-28T07:25:41",
+  "modified_gmt": "2025-03-28T11:25:41",
+  "slug": "toi-1753-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1753-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1753",
+    "pl_letter": "b",
+    "display_name": "TOI-1753 b",
+    "planet_radius": "2.47852533 x Earth",
+    "derived_description": "TOI-1753 b is a super Earth exoplanet that orbits a G-type star. Its mass is 16.6 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.059 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 226.671,
+    "planet_mass": "16.6 Earths",
+    "st_optmag": 11.831,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.059,
+    "period_display": "5.4 days",
+    "eccentricity": "0.0",
+    "star_id": 409978,
+    "pl_orbper": 5.3846104,
+    "pl_kepflag": false,
+    "pl_radj": 0.2211196,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 2.47852533,
+    "exo_id": "TOI-1753_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410099",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409978"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

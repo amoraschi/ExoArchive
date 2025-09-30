@@ -1,1 +1,71 @@
-{"id":261094,"date":"2023-11-28T20:33:58","date_gmt":"2023-11-29T01:33:58","modified":"2025-04-23T05:54:17","modified_gmt":"2025-04-23T09:54:17","slug":"hat-p-50","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-50/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-50","custom_star_title":"","aliases":"","constellation":"Canis Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243768],"exo_id":"HAT-P-50","st_optmag":11.703,"st_vj":11.703,"st_dist":515.458,"st_j":11.703,"st_mass":1.273,"dec":12.1393474,"st_teff":6280,"st_rad":1.698,"ra":118.0634379,"system_radius":6776783.511,"pl_hostname":"HAT-P-50","stellar_type":"F","tic_id":"TIC 17746821","magnitude":11.703},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261094","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243768"}]}}
+{
+  "id": 261094,
+  "date": "2023-11-28T20:33:58",
+  "date_gmt": "2023-11-29T01:33:58",
+  "modified": "2025-04-23T05:54:17",
+  "modified_gmt": "2025-04-23T09:54:17",
+  "slug": "hat-p-50",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-50/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-50",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243768
+    ],
+    "exo_id": "HAT-P-50",
+    "st_optmag": 11.703,
+    "st_vj": 11.703,
+    "st_dist": 515.458,
+    "st_j": 11.703,
+    "st_mass": 1.273,
+    "dec": 12.1393474,
+    "st_teff": 6280,
+    "st_rad": 1.698,
+    "ra": 118.0634379,
+    "system_radius": 6776783.511,
+    "pl_hostname": "HAT-P-50",
+    "stellar_type": "F",
+    "tic_id": "TIC 17746821",
+    "magnitude": 11.703
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261094",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243768"
+      }
+    ]
+  }
+}

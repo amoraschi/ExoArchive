@@ -1,1 +1,79 @@
-{"id":417288,"date":"2024-08-21T23:47:28","date_gmt":"2024-08-22T03:47:28","modified":"2025-07-07T20:42:09","modified_gmt":"2025-07-08T00:42:09","slug":"hd-118203-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-118203-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_118203","pl_letter":"c","display_name":"HD 118203 c","planet_radius":"1.1 x Jupiter (estimate)","derived_description":"HD 118203 c is a gas giant exoplanet that orbits a G-type star. Its mass is 11.79 Jupiters, it takes 14 years to complete one orbit of its star, and is 6.28 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":92.2589,"planet_mass":"11.79 Jupiters","st_optmag":8.05,"discovery_date":"2024","pl_orbsmax":6.28,"period_display":"14 years","eccentricity":"0.26","star_id":260711,"pl_orbper":5103,"pl_kepflag":false,"pl_radj":1.1,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":175,"multiple_planet_system":false,"pl_rade":12.4,"exo_id":"HD_118203_c","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.26},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/417288","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260711"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 417288,
+  "date": "2024-08-21T23:47:28",
+  "date_gmt": "2024-08-22T03:47:28",
+  "modified": "2025-07-07T20:42:09",
+  "modified_gmt": "2025-07-08T00:42:09",
+  "slug": "hd-118203-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-118203-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_118203",
+    "pl_letter": "c",
+    "display_name": "HD 118203 c",
+    "planet_radius": "1.1 x Jupiter (estimate)",
+    "derived_description": "HD 118203 c is a gas giant exoplanet that orbits a G-type star. Its mass is 11.79 Jupiters, it takes 14 years to complete one orbit of its star, and is 6.28 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 92.2589,
+    "planet_mass": "11.79 Jupiters",
+    "st_optmag": 8.05,
+    "discovery_date": "2024",
+    "pl_orbsmax": 6.28,
+    "period_display": "14 years",
+    "eccentricity": "0.26",
+    "star_id": 260711,
+    "pl_orbper": 5103,
+    "pl_kepflag": false,
+    "pl_radj": 1.1,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 175,
+    "multiple_planet_system": false,
+    "pl_rade": 12.4,
+    "exo_id": "HD_118203_c",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.26
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/417288",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260711"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

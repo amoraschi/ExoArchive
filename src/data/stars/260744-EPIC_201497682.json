@@ -1,1 +1,71 @@
-{"id":260744,"date":"2023-11-28T20:29:34","date_gmt":"2023-11-29T01:29:34","modified":"2025-04-23T05:56:09","modified_gmt":"2025-04-23T09:56:09","slug":"epic_201497682","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/epic_201497682/","featured_media":0,"categories":[],"acf":{"display_name":"EPIC 201497682","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243528],"exo_id":"EPIC_201497682","st_optmag":13.948,"st_vj":13.948,"st_dist":253.026,"st_j":13.948,"st_mass":0.78,"dec":0.4880606,"st_teff":4991,"st_rad":0.554,"ra":168.9366786,"system_radius":149597870,"pl_hostname":"EPIC_201497682","stellar_type":"K","tic_id":"TIC 301610040","magnitude":13.948},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260744","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243528"}]}}
+{
+  "id": 260744,
+  "date": "2023-11-28T20:29:34",
+  "date_gmt": "2023-11-29T01:29:34",
+  "modified": "2025-04-23T05:56:09",
+  "modified_gmt": "2025-04-23T09:56:09",
+  "slug": "epic_201497682",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/epic_201497682/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "EPIC 201497682",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243528
+    ],
+    "exo_id": "EPIC_201497682",
+    "st_optmag": 13.948,
+    "st_vj": 13.948,
+    "st_dist": 253.026,
+    "st_j": 13.948,
+    "st_mass": 0.78,
+    "dec": 0.4880606,
+    "st_teff": 4991,
+    "st_rad": 0.554,
+    "ra": 168.9366786,
+    "system_radius": 149597870,
+    "pl_hostname": "EPIC_201497682",
+    "stellar_type": "K",
+    "tic_id": "TIC 301610040",
+    "magnitude": 13.948
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260744",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243528"
+      }
+    ]
+  }
+}

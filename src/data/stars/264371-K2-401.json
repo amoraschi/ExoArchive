@@ -1,1 +1,71 @@
-{"id":264371,"date":"2023-11-28T21:15:41","date_gmt":"2023-11-29T02:15:41","modified":"2025-04-23T05:56:29","modified_gmt":"2025-04-23T09:56:29","slug":"k2-401","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-401/","featured_media":0,"categories":[],"acf":{"display_name":"K2-401","custom_star_title":"","aliases":"","constellation":"Sextans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245112],"exo_id":"K2-401","st_optmag":14.014,"st_vj":14.014,"st_dist":200.727,"st_j":14.014,"st_mass":0.87,"dec":3.9548275,"st_teff":4213,"st_rad":0.675,"ra":154.987604,"system_radius":149597870,"pl_hostname":"K2-401","stellar_type":"K","tic_id":"TIC 345063080","magnitude":14.014},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264371","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245112"}]}}
+{
+  "id": 264371,
+  "date": "2023-11-28T21:15:41",
+  "date_gmt": "2023-11-29T02:15:41",
+  "modified": "2025-04-23T05:56:29",
+  "modified_gmt": "2025-04-23T09:56:29",
+  "slug": "k2-401",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-401/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-401",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sextans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245112
+    ],
+    "exo_id": "K2-401",
+    "st_optmag": 14.014,
+    "st_vj": 14.014,
+    "st_dist": 200.727,
+    "st_j": 14.014,
+    "st_mass": 0.87,
+    "dec": 3.9548275,
+    "st_teff": 4213,
+    "st_rad": 0.675,
+    "ra": 154.987604,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-401",
+    "stellar_type": "K",
+    "tic_id": "TIC 345063080",
+    "magnitude": 14.014
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264371",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245112"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245138,"date":"2016-07-18T13:25:29","date_gmt":"2016-07-18T17:25:29","modified":"2025-03-28T07:27:01","modified_gmt":"2025-03-28T11:27:01","slug":"k2-48-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-48-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-48","pl_letter":"b","display_name":"K2-48 b","planet_radius":"2.24 x Earth","derived_description":"K2-48 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.65 Earths, it takes 20.5 days to complete one orbit of its star, and is 0.1344 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":313.764,"planet_mass":"5.65 Earths","st_optmag":14.345,"discovery_date":"2016","pl_orbsmax":0.1344,"period_display":"20.5 days","eccentricity":"","star_id":261293,"pl_orbper":20.5065,"pl_kepflag":true,"pl_radj":0.19983941,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.24,"exo_id":"K2-48_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245138","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261293"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245138,
+  "date": "2016-07-18T13:25:29",
+  "date_gmt": "2016-07-18T17:25:29",
+  "modified": "2025-03-28T07:27:01",
+  "modified_gmt": "2025-03-28T11:27:01",
+  "slug": "k2-48-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-48-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-48",
+    "pl_letter": "b",
+    "display_name": "K2-48 b",
+    "planet_radius": "2.24 x Earth",
+    "derived_description": "K2-48 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.65 Earths, it takes 20.5 days to complete one orbit of its star, and is 0.1344 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 313.764,
+    "planet_mass": "5.65 Earths",
+    "st_optmag": 14.345,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1344,
+    "period_display": "20.5 days",
+    "eccentricity": "",
+    "star_id": 261293,
+    "pl_orbper": 20.5065,
+    "pl_kepflag": true,
+    "pl_radj": 0.19983941,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.24,
+    "exo_id": "K2-48_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245138",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261293"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

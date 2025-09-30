@@ -1,1 +1,79 @@
-{"id":248148,"date":"2023-05-23T12:01:58","date_gmt":"2023-05-23T16:01:58","modified":"2025-07-07T20:37:54","modified_gmt":"2025-07-08T00:37:54","slug":"lp-791-18-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/lp-791-18-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"LP_791-18","pl_letter":"d","display_name":"LP 791-18 d","planet_radius":"1.032 x Earth","derived_description":"LP 791-18 d is a super Earth exoplanet that orbits a M-type star. Its mass is 0.9 Earths, it takes 2.8 days to complete one orbit of its star, and is 0.01992 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Spitzer Space Telescope","st_dist":26.4927,"planet_mass":"0.9 Earths","st_optmag":16.91,"discovery_date":"2023","pl_orbsmax":0.01992,"period_display":"2.8 days","eccentricity":"0.0","star_id":260443,"pl_orbper":2.753436,"pl_kepflag":false,"pl_radj":0.09206903,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.032,"exo_id":"LP_791-18_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.0015},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248148","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260443"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248148,
+  "date": "2023-05-23T12:01:58",
+  "date_gmt": "2023-05-23T16:01:58",
+  "modified": "2025-07-07T20:37:54",
+  "modified_gmt": "2025-07-08T00:37:54",
+  "slug": "lp-791-18-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/lp-791-18-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LP_791-18",
+    "pl_letter": "d",
+    "display_name": "LP 791-18 d",
+    "planet_radius": "1.032 x Earth",
+    "derived_description": "LP 791-18 d is a super Earth exoplanet that orbits a M-type star. Its mass is 0.9 Earths, it takes 2.8 days to complete one orbit of its star, and is 0.01992 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Spitzer Space Telescope",
+    "st_dist": 26.4927,
+    "planet_mass": "0.9 Earths",
+    "st_optmag": 16.91,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.01992,
+    "period_display": "2.8 days",
+    "eccentricity": "0.0",
+    "star_id": 260443,
+    "pl_orbper": 2.753436,
+    "pl_kepflag": false,
+    "pl_radj": 0.09206903,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.032,
+    "exo_id": "LP_791-18_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0015
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248148",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260443"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

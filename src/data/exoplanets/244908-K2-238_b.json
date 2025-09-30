@@ -1,1 +1,79 @@
-{"id":244908,"date":"2018-07-14T13:26:14","date_gmt":"2018-07-14T17:26:14","modified":"2025-03-28T07:25:53","modified_gmt":"2025-03-28T11:25:53","slug":"k2-238-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-238-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"K2-238","pl_letter":"b","display_name":"K2-238 b","planet_radius":"1.3 x Jupiter","derived_description":"K2-238 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.86 Jupiters, it takes 3.2 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2018.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"K2","st_dist":537.963,"planet_mass":"0.86 Jupiters","st_optmag":13.973,"discovery_date":"2018","pl_orbsmax":0.046,"period_display":"3.2 days","eccentricity":"0.0","star_id":261138,"pl_orbper":3.20466,"pl_kepflag":true,"pl_radj":1.3,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":14.5717,"exo_id":"K2-238_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244908","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261138"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244908,
+  "date": "2018-07-14T13:26:14",
+  "date_gmt": "2018-07-14T17:26:14",
+  "modified": "2025-03-28T07:25:53",
+  "modified_gmt": "2025-03-28T11:25:53",
+  "slug": "k2-238-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-238-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-238",
+    "pl_letter": "b",
+    "display_name": "K2-238 b",
+    "planet_radius": "1.3 x Jupiter",
+    "derived_description": "K2-238 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.86 Jupiters, it takes 3.2 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 537.963,
+    "planet_mass": "0.86 Jupiters",
+    "st_optmag": 13.973,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.046,
+    "period_display": "3.2 days",
+    "eccentricity": "0.0",
+    "star_id": 261138,
+    "pl_orbper": 3.20466,
+    "pl_kepflag": true,
+    "pl_radj": 1.3,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 14.5717,
+    "exo_id": "K2-238_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244908",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261138"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

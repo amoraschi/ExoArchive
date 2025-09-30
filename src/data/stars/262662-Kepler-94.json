@@ -1,1 +1,76 @@
-{"id":262662,"date":"2023-11-28T20:53:50","date_gmt":"2023-11-29T01:53:50","modified":"2025-04-23T05:55:55","modified_gmt":"2025-04-23T09:55:55","slug":"kepler-94","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-94/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-94","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247941,"1":247940},"exo_id":"Kepler-94","st_optmag":13.071,"st_vj":13.071,"st_dist":191.904,"st_j":13.071,"st_mass":0.81,"dec":47.4972606,"st_teff":4781,"st_rad":0.76,"ra":281.1947316,"system_radius":238878869.3035,"pl_hostname":"Kepler-94","stellar_type":"K","tic_id":"TIC 123309556","magnitude":13.071},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262662","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247941"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247940"}]}}
+{
+  "id": 262662,
+  "date": "2023-11-28T20:53:50",
+  "date_gmt": "2023-11-29T01:53:50",
+  "modified": "2025-04-23T05:55:55",
+  "modified_gmt": "2025-04-23T09:55:55",
+  "slug": "kepler-94",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-94/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-94",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247941,
+      "1": 247940
+    },
+    "exo_id": "Kepler-94",
+    "st_optmag": 13.071,
+    "st_vj": 13.071,
+    "st_dist": 191.904,
+    "st_j": 13.071,
+    "st_mass": 0.81,
+    "dec": 47.4972606,
+    "st_teff": 4781,
+    "st_rad": 0.76,
+    "ra": 281.1947316,
+    "system_radius": 238878869.3035,
+    "pl_hostname": "Kepler-94",
+    "stellar_type": "K",
+    "tic_id": "TIC 123309556",
+    "magnitude": 13.071
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262662",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247941"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247940"
+      }
+    ]
+  }
+}

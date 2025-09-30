@@ -1,1 +1,71 @@
-{"id":261260,"date":"2023-11-28T20:36:06","date_gmt":"2023-11-29T01:36:06","modified":"2025-04-23T05:55:38","modified_gmt":"2025-04-23T09:55:38","slug":"kepler-1915","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1915/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1915","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246488],"exo_id":"Kepler-1915","st_optmag":16.261,"st_vj":16.261,"st_dist":1514.66,"st_j":16.261,"st_mass":1.03,"dec":44.2505116,"st_teff":6020,"st_rad":1.057,"ra":301.2786852,"system_radius":17054157.18,"pl_hostname":"Kepler-1915","stellar_type":"F","tic_id":"TIC 185184560","magnitude":16.261},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261260","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246488"}]}}
+{
+  "id": 261260,
+  "date": "2023-11-28T20:36:06",
+  "date_gmt": "2023-11-29T01:36:06",
+  "modified": "2025-04-23T05:55:38",
+  "modified_gmt": "2025-04-23T09:55:38",
+  "slug": "kepler-1915",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1915/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1915",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246488
+    ],
+    "exo_id": "Kepler-1915",
+    "st_optmag": 16.261,
+    "st_vj": 16.261,
+    "st_dist": 1514.66,
+    "st_j": 16.261,
+    "st_mass": 1.03,
+    "dec": 44.2505116,
+    "st_teff": 6020,
+    "st_rad": 1.057,
+    "ra": 301.2786852,
+    "system_radius": 17054157.18,
+    "pl_hostname": "Kepler-1915",
+    "stellar_type": "F",
+    "tic_id": "TIC 185184560",
+    "magnitude": 16.261
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261260",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246488"
+      }
+    ]
+  }
+}

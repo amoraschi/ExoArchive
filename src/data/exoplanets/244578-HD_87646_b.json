@@ -1,1 +1,79 @@
-{"id":244578,"date":"2019-04-22T16:49:26","date_gmt":"2019-04-22T20:49:26","modified":"2024-10-24T19:10:38","modified_gmt":"2024-10-24T23:10:38","slug":"hd-87646-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-87646-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_87646","pl_letter":"b","display_name":"HD 87646 b","planet_radius":"1.1 x Jupiter (estimate)","derived_description":"HD 87646 b is a gas giant exoplanet that orbits a G-type star. Its mass is 12.4 Jupiters, it takes 13.5 days to complete one orbit of its star, and is 0.117 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Apache Point Observatory","st_dist":73.58352,"planet_mass":"12.4 Jupiters","st_optmag":8.07,"discovery_date":"2016","pl_orbsmax":0.117,"period_display":"13.5 days","eccentricity":"0.05","star_id":261986,"pl_orbper":13.481,"pl_kepflag":false,"pl_radj":1.1,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":298,"multiple_planet_system":false,"pl_rade":12.4,"exo_id":"HD_87646_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244578","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261986"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244578,
+  "date": "2019-04-22T16:49:26",
+  "date_gmt": "2019-04-22T20:49:26",
+  "modified": "2024-10-24T19:10:38",
+  "modified_gmt": "2024-10-24T23:10:38",
+  "slug": "hd-87646-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-87646-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_87646",
+    "pl_letter": "b",
+    "display_name": "HD 87646 b",
+    "planet_radius": "1.1 x Jupiter (estimate)",
+    "derived_description": "HD 87646 b is a gas giant exoplanet that orbits a G-type star. Its mass is 12.4 Jupiters, it takes 13.5 days to complete one orbit of its star, and is 0.117 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Apache Point Observatory",
+    "st_dist": 73.58352,
+    "planet_mass": "12.4 Jupiters",
+    "st_optmag": 8.07,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.117,
+    "period_display": "13.5 days",
+    "eccentricity": "0.05",
+    "star_id": 261986,
+    "pl_orbper": 13.481,
+    "pl_kepflag": false,
+    "pl_radj": 1.1,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 298,
+    "multiple_planet_system": false,
+    "pl_rade": 12.4,
+    "exo_id": "HD_87646_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244578",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261986"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

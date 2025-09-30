@@ -1,1 +1,76 @@
-{"id":261470,"date":"2023-11-28T20:38:45","date_gmt":"2023-11-29T01:38:45","modified":"2025-04-23T05:54:51","modified_gmt":"2025-04-23T09:54:51","slug":"kepler-190","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-190/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-190","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246481,246482],"exo_id":"Kepler-190","st_optmag":14.336,"st_vj":14.336,"st_dist":433.387,"st_j":14.336,"st_mass":0.834,"dec":44.7337701,"st_teff":5106,"st_rad":0.795,"ra":288.5839761,"system_radius":6731904.15,"pl_hostname":"Kepler-190","stellar_type":"K","tic_id":"TIC 158789380","magnitude":14.336},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261470","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246482"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246481"}]}}
+{
+  "id": 261470,
+  "date": "2023-11-28T20:38:45",
+  "date_gmt": "2023-11-29T01:38:45",
+  "modified": "2025-04-23T05:54:51",
+  "modified_gmt": "2025-04-23T09:54:51",
+  "slug": "kepler-190",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-190/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-190",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246481,
+      246482
+    ],
+    "exo_id": "Kepler-190",
+    "st_optmag": 14.336,
+    "st_vj": 14.336,
+    "st_dist": 433.387,
+    "st_j": 14.336,
+    "st_mass": 0.834,
+    "dec": 44.7337701,
+    "st_teff": 5106,
+    "st_rad": 0.795,
+    "ra": 288.5839761,
+    "system_radius": 6731904.15,
+    "pl_hostname": "Kepler-190",
+    "stellar_type": "K",
+    "tic_id": "TIC 158789380",
+    "magnitude": 14.336
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261470",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246482"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246481"
+      }
+    ]
+  }
+}

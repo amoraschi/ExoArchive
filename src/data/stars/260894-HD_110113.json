@@ -1,1 +1,76 @@
-{"id":260894,"date":"2023-11-28T20:31:27","date_gmt":"2023-11-29T01:31:27","modified":"2025-04-23T05:53:35","modified_gmt":"2025-04-23T09:53:35","slug":"hd_110113","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_110113/","featured_media":0,"categories":[],"acf":{"display_name":"HD 110113","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243929,243930],"exo_id":"HD_110113","st_optmag":10.09,"st_vj":10.09,"st_dist":106.307,"st_j":10.09,"st_mass":0.997,"dec":-44.3120777,"st_teff":5732,"st_rad":0.968,"ra":190.0365636,"system_radius":10172655.16,"pl_hostname":"HD_110113","stellar_type":"G","tic_id":"TIC 73228647","magnitude":10.09},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260894","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243930"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243929"}]}}
+{
+  "id": 260894,
+  "date": "2023-11-28T20:31:27",
+  "date_gmt": "2023-11-29T01:31:27",
+  "modified": "2025-04-23T05:53:35",
+  "modified_gmt": "2025-04-23T09:53:35",
+  "slug": "hd_110113",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_110113/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 110113",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243929,
+      243930
+    ],
+    "exo_id": "HD_110113",
+    "st_optmag": 10.09,
+    "st_vj": 10.09,
+    "st_dist": 106.307,
+    "st_j": 10.09,
+    "st_mass": 0.997,
+    "dec": -44.3120777,
+    "st_teff": 5732,
+    "st_rad": 0.968,
+    "ra": 190.0365636,
+    "system_radius": 10172655.16,
+    "pl_hostname": "HD_110113",
+    "stellar_type": "G",
+    "tic_id": "TIC 73228647",
+    "magnitude": 10.09
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260894",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243930"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243929"
+      }
+    ]
+  }
+}

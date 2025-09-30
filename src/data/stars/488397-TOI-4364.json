@@ -1,1 +1,77 @@
-{"id":488397,"date":"2025-03-21T04:30:18","date_gmt":"2025-03-21T08:30:18","modified":"2025-04-23T05:57:24","modified_gmt":"2025-04-23T09:57:24","slug":"toi-4364","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4364/","featured_media":429650,"categories":[],"acf":{"display_name":"TOI-4364","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[488402],"exo_id":"TOI-4364","st_optmag":13.564,"st_vj":13.564,"st_dist":43.9662,"st_j":13.564,"st_mass":0.487,"dec":-4.2392481,"st_teff":3528,"st_rad":0.4684,"ra":80.066927,"system_radius":7110386.7611,"pl_hostname":"TOI-4364","stellar_type":"M","tic_id":"TIC 4070275","magnitude":13.564},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/488397","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/488402"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429650"}]}}
+{
+  "id": 488397,
+  "date": "2025-03-21T04:30:18",
+  "date_gmt": "2025-03-21T08:30:18",
+  "modified": "2025-04-23T05:57:24",
+  "modified_gmt": "2025-04-23T09:57:24",
+  "slug": "toi-4364",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4364/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4364",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      488402
+    ],
+    "exo_id": "TOI-4364",
+    "st_optmag": 13.564,
+    "st_vj": 13.564,
+    "st_dist": 43.9662,
+    "st_j": 13.564,
+    "st_mass": 0.487,
+    "dec": -4.2392481,
+    "st_teff": 3528,
+    "st_rad": 0.4684,
+    "ra": 80.066927,
+    "system_radius": 7110386.7611,
+    "pl_hostname": "TOI-4364",
+    "stellar_type": "M",
+    "tic_id": "TIC 4070275",
+    "magnitude": 13.564
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/488397",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/488402"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

@@ -1,1 +1,77 @@
-{"id":855813,"date":"2025-05-16T06:39:40","date_gmt":"2025-05-16T10:39:40","modified":"2025-05-16T06:39:40","modified_gmt":"2025-05-16T10:39:40","slug":"kmt-2017-blg-1057l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-1057l/","featured_media":429648,"categories":[],"acf":{"display_name":"KMT-2017-BLG-1057L","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876081],"exo_id":"KMT-2017-BLG-1057L","st_optmag":"","st_vj":"","st_dist":6500,"st_j":"","st_mass":0.57,"dec":-22.3351111,"st_teff":"","st_rad":"","ra":265.486,"system_radius":353050973.2,"pl_hostname":"KMT-2017-BLG-1057L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/855813","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876081"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 855813,
+  "date": "2025-05-16T06:39:40",
+  "date_gmt": "2025-05-16T10:39:40",
+  "modified": "2025-05-16T06:39:40",
+  "modified_gmt": "2025-05-16T10:39:40",
+  "slug": "kmt-2017-blg-1057l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-1057l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2017-BLG-1057L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876081
+    ],
+    "exo_id": "KMT-2017-BLG-1057L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6500,
+    "st_j": "",
+    "st_mass": 0.57,
+    "dec": -22.3351111,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 265.486,
+    "system_radius": 353050973.2,
+    "pl_hostname": "KMT-2017-BLG-1057L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/855813",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876081"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

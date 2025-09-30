@@ -1,1 +1,71 @@
-{"id":263239,"date":"2023-11-28T21:01:09","date_gmt":"2023-11-29T02:01:09","modified":"2025-04-23T05:56:52","modified_gmt":"2025-04-23T09:56:52","slug":"hd_178911_b","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_178911_b/","featured_media":0,"categories":[],"acf":{"display_name":"HD 178911 B","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244159],"exo_id":"HD_178911_B","st_optmag":7.97,"st_vj":7.97,"st_dist":40.9727,"st_j":7.97,"st_mass":1.24,"dec":34.6006972,"st_teff":5588,"st_rad":1.08,"ra":287.2632091,"system_radius":50863275.8,"pl_hostname":"HD_178911_B","stellar_type":"G","tic_id":"TIC 42812945","magnitude":7.97},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263239","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244159"}]}}
+{
+  "id": 263239,
+  "date": "2023-11-28T21:01:09",
+  "date_gmt": "2023-11-29T02:01:09",
+  "modified": "2025-04-23T05:56:52",
+  "modified_gmt": "2025-04-23T09:56:52",
+  "slug": "hd_178911_b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_178911_b/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 178911 B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244159
+    ],
+    "exo_id": "HD_178911_B",
+    "st_optmag": 7.97,
+    "st_vj": 7.97,
+    "st_dist": 40.9727,
+    "st_j": 7.97,
+    "st_mass": 1.24,
+    "dec": 34.6006972,
+    "st_teff": 5588,
+    "st_rad": 1.08,
+    "ra": 287.2632091,
+    "system_radius": 50863275.8,
+    "pl_hostname": "HD_178911_B",
+    "stellar_type": "G",
+    "tic_id": "TIC 42812945",
+    "magnitude": 7.97
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263239",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244159"
+      }
+    ]
+  }
+}

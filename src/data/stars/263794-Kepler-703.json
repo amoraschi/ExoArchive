@@ -1,1 +1,71 @@
-{"id":263794,"date":"2023-11-28T21:08:18","date_gmt":"2023-11-29T02:08:18","modified":"2025-04-23T05:56:51","modified_gmt":"2025-04-23T09:56:51","slug":"kepler-703","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-703/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-703","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247608],"exo_id":"Kepler-703","st_optmag":15.599,"st_vj":15.599,"st_dist":1156.83,"st_j":15.599,"st_mass":1.18,"dec":41.742699,"st_teff":6185,"st_rad":1.27,"ra":299.1868586,"system_radius":8003486.045,"pl_hostname":"Kepler-703","stellar_type":"F","tic_id":"TIC 171968443","magnitude":15.599},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263794","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247608"}]}}
+{
+  "id": 263794,
+  "date": "2023-11-28T21:08:18",
+  "date_gmt": "2023-11-29T02:08:18",
+  "modified": "2025-04-23T05:56:51",
+  "modified_gmt": "2025-04-23T09:56:51",
+  "slug": "kepler-703",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-703/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-703",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247608
+    ],
+    "exo_id": "Kepler-703",
+    "st_optmag": 15.599,
+    "st_vj": 15.599,
+    "st_dist": 1156.83,
+    "st_j": 15.599,
+    "st_mass": 1.18,
+    "dec": 41.742699,
+    "st_teff": 6185,
+    "st_rad": 1.27,
+    "ra": 299.1868586,
+    "system_radius": 8003486.045,
+    "pl_hostname": "Kepler-703",
+    "stellar_type": "F",
+    "tic_id": "TIC 171968443",
+    "magnitude": 15.599
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263794",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247608"
+      }
+    ]
+  }
+}

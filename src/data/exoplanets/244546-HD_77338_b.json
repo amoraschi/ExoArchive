@@ -1,1 +1,79 @@
-{"id":244546,"date":"2019-04-22T16:48:40","date_gmt":"2019-04-22T20:48:40","modified":"2024-10-25T05:20:25","modified_gmt":"2024-10-25T09:20:25","slug":"hd-77338-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-77338-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_77338","pl_letter":"b","display_name":"HD 77338 b","planet_radius":"0.368 x Jupiter (estimate)","derived_description":"HD 77338 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 15.9 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.06 AU from its star. Its discovery was announced in 2012.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":45.935,"planet_mass":"15.9 Earths","st_optmag":8.63,"discovery_date":"2012","pl_orbsmax":0.06,"period_display":"5.7 days","eccentricity":"0.09","star_id":260669,"pl_orbper":5.7361,"pl_kepflag":false,"pl_radj":0.368,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":223.454,"multiple_planet_system":false,"pl_rade":4.12,"exo_id":"HD_77338_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.09},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244546","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260669"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244546,
+  "date": "2019-04-22T16:48:40",
+  "date_gmt": "2019-04-22T20:48:40",
+  "modified": "2024-10-25T05:20:25",
+  "modified_gmt": "2024-10-25T09:20:25",
+  "slug": "hd-77338-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-77338-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_77338",
+    "pl_letter": "b",
+    "display_name": "HD 77338 b",
+    "planet_radius": "0.368 x Jupiter (estimate)",
+    "derived_description": "HD 77338 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 15.9 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.06 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 45.935,
+    "planet_mass": "15.9 Earths",
+    "st_optmag": 8.63,
+    "discovery_date": "2012",
+    "pl_orbsmax": 0.06,
+    "period_display": "5.7 days",
+    "eccentricity": "0.09",
+    "star_id": 260669,
+    "pl_orbper": 5.7361,
+    "pl_kepflag": false,
+    "pl_radj": 0.368,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": 223.454,
+    "multiple_planet_system": false,
+    "pl_rade": 4.12,
+    "exo_id": "HD_77338_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.09
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244546",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260669"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

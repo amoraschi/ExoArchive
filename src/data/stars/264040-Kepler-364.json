@@ -1,1 +1,76 @@
-{"id":264040,"date":"2023-11-28T21:11:25","date_gmt":"2023-11-29T02:11:25","modified":"2025-04-23T05:53:28","modified_gmt":"2025-04-23T09:53:28","slug":"kepler-364","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-364/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-364","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247065,"1":247064},"exo_id":"Kepler-364","st_optmag":13.754,"st_vj":13.754,"st_dist":891.462,"st_j":13.754,"st_mass":1.076,"dec":47.3986233,"st_teff":6108,"st_rad":1.284,"ra":281.5699998,"system_radius":46674535.44,"pl_hostname":"Kepler-364","stellar_type":"F","tic_id":"TIC 123358019","magnitude":13.754},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264040","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247065"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247064"}]}}
+{
+  "id": 264040,
+  "date": "2023-11-28T21:11:25",
+  "date_gmt": "2023-11-29T02:11:25",
+  "modified": "2025-04-23T05:53:28",
+  "modified_gmt": "2025-04-23T09:53:28",
+  "slug": "kepler-364",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-364/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-364",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247065,
+      "1": 247064
+    },
+    "exo_id": "Kepler-364",
+    "st_optmag": 13.754,
+    "st_vj": 13.754,
+    "st_dist": 891.462,
+    "st_j": 13.754,
+    "st_mass": 1.076,
+    "dec": 47.3986233,
+    "st_teff": 6108,
+    "st_rad": 1.284,
+    "ra": 281.5699998,
+    "system_radius": 46674535.44,
+    "pl_hostname": "Kepler-364",
+    "stellar_type": "F",
+    "tic_id": "TIC 123358019",
+    "magnitude": 13.754
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264040",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247065"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247064"
+      }
+    ]
+  }
+}

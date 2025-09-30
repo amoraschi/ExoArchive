@@ -1,1 +1,79 @@
-{"id":244019,"date":"2019-04-22T16:48:39","date_gmt":"2019-04-22T20:48:39","modified":"2024-10-24T18:01:27","modified_gmt":"2024-10-24T22:01:27","slug":"hd-13931-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-13931-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_13931","pl_letter":"b","display_name":"HD 13931 b","planet_radius":"1.18 x Jupiter (estimate)","derived_description":"HD 13931 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.8 Jupiters, it takes 11.6 years to complete one orbit of its star, and is 5.15 AU from its star. Its discovery was announced in 2009.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":47.3963,"planet_mass":"2.8 Jupiters","st_optmag":7.61,"discovery_date":"2009","pl_orbsmax":5.15,"period_display":"11.6 years","eccentricity":"0.02","star_id":263695,"pl_orbper":4218,"pl_kepflag":false,"pl_radj":1.18,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":-6,"multiple_planet_system":false,"pl_rade":13.2,"exo_id":"HD_13931_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.02},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244019","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263695"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244019,
+  "date": "2019-04-22T16:48:39",
+  "date_gmt": "2019-04-22T20:48:39",
+  "modified": "2024-10-24T18:01:27",
+  "modified_gmt": "2024-10-24T22:01:27",
+  "slug": "hd-13931-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-13931-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_13931",
+    "pl_letter": "b",
+    "display_name": "HD 13931 b",
+    "planet_radius": "1.18 x Jupiter (estimate)",
+    "derived_description": "HD 13931 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.8 Jupiters, it takes 11.6 years to complete one orbit of its star, and is 5.15 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 47.3963,
+    "planet_mass": "2.8 Jupiters",
+    "st_optmag": 7.61,
+    "discovery_date": "2009",
+    "pl_orbsmax": 5.15,
+    "period_display": "11.6 years",
+    "eccentricity": "0.02",
+    "star_id": 263695,
+    "pl_orbper": 4218,
+    "pl_kepflag": false,
+    "pl_radj": 1.18,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": -6,
+    "multiple_planet_system": false,
+    "pl_rade": 13.2,
+    "exo_id": "HD_13931_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.02
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244019",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263695"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

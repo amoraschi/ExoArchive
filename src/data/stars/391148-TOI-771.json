@@ -1,1 +1,76 @@
-{"id":391148,"date":"2024-04-30T20:00:27","date_gmt":"2024-05-01T00:00:27","modified":"2025-05-09T06:26:29","modified_gmt":"2025-05-09T10:26:29","slug":"toi-771","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-771/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-771","custom_star_title":"","aliases":"","constellation":"Carina","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":876484,"1":391751},"exo_id":"TOI-771","st_optmag":14.888,"st_vj":14.888,"st_dist":25.2788,"st_j":14.888,"st_mass":0.22,"dec":-72.9851736,"st_teff":3370,"st_rad":0.232,"ra":164.1138903,"system_radius":6881502.02,"pl_hostname":"TOI-771","stellar_type":"M","tic_id":"TIC 277634430","magnitude":14.888},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391148","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876484"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/391751"}]}}
+{
+  "id": 391148,
+  "date": "2024-04-30T20:00:27",
+  "date_gmt": "2024-05-01T00:00:27",
+  "modified": "2025-05-09T06:26:29",
+  "modified_gmt": "2025-05-09T10:26:29",
+  "slug": "toi-771",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-771/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-771",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 876484,
+      "1": 391751
+    },
+    "exo_id": "TOI-771",
+    "st_optmag": 14.888,
+    "st_vj": 14.888,
+    "st_dist": 25.2788,
+    "st_j": 14.888,
+    "st_mass": 0.22,
+    "dec": -72.9851736,
+    "st_teff": 3370,
+    "st_rad": 0.232,
+    "ra": 164.1138903,
+    "system_radius": 6881502.02,
+    "pl_hostname": "TOI-771",
+    "stellar_type": "M",
+    "tic_id": "TIC 277634430",
+    "magnitude": 14.888
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391148",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876484"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/391751"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262801,"date":"2023-11-28T20:55:38","date_gmt":"2023-11-29T01:55:38","modified":"2025-04-23T05:54:39","modified_gmt":"2025-04-23T09:54:39","slug":"koi-7913_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/koi-7913_a/","featured_media":0,"categories":[],"acf":{"display_name":"KOI-7913 A","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248121],"exo_id":"KOI-7913_A","st_optmag":14.23,"st_vj":14.23,"st_dist":271.277,"st_j":14.23,"st_mass":0.76,"dec":45.1587234,"st_teff":4324,"st_rad":0.788,"ra":286.7485252,"system_radius":21781449.872,"pl_hostname":"KOI-7913_A","stellar_type":"K","tic_id":"TIC 158320130","magnitude":14.23},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262801","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248121"}]}}
+{
+  "id": 262801,
+  "date": "2023-11-28T20:55:38",
+  "date_gmt": "2023-11-29T01:55:38",
+  "modified": "2025-04-23T05:54:39",
+  "modified_gmt": "2025-04-23T09:54:39",
+  "slug": "koi-7913_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-7913_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-7913 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248121
+    ],
+    "exo_id": "KOI-7913_A",
+    "st_optmag": 14.23,
+    "st_vj": 14.23,
+    "st_dist": 271.277,
+    "st_j": 14.23,
+    "st_mass": 0.76,
+    "dec": 45.1587234,
+    "st_teff": 4324,
+    "st_rad": 0.788,
+    "ra": 286.7485252,
+    "system_radius": 21781449.872,
+    "pl_hostname": "KOI-7913_A",
+    "stellar_type": "K",
+    "tic_id": "TIC 158320130",
+    "magnitude": 14.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262801",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248121"
+      }
+    ]
+  }
+}

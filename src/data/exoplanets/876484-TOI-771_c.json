@@ -1,1 +1,79 @@
-{"id":876484,"date":"2025-07-07T20:41:57","date_gmt":"2025-07-08T00:41:57","modified":"2025-07-07T20:41:57","modified_gmt":"2025-07-08T00:41:57","slug":"toi-771-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-771-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-771","pl_letter":"c","display_name":"TOI-771 c","planet_radius":"1.5 x Earth (estimate)","derived_description":"TOI-771 c is a super Earth exoplanet that orbits a M-type star. Its mass is 2.87 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2025.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Paranal Observatory","st_dist":25.2788,"planet_mass":"2.87 Earths","st_optmag":14.888,"discovery_date":"2025","pl_orbsmax":0.046,"period_display":"7.6 days","eccentricity":"0.07","star_id":391148,"pl_orbper":7.61,"pl_kepflag":false,"pl_radj":0.134,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":-82,"multiple_planet_system":false,"pl_rade":1.5,"exo_id":"TOI-771_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.065},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876484","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/391148"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 876484,
+  "date": "2025-07-07T20:41:57",
+  "date_gmt": "2025-07-08T00:41:57",
+  "modified": "2025-07-07T20:41:57",
+  "modified_gmt": "2025-07-08T00:41:57",
+  "slug": "toi-771-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-771-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-771",
+    "pl_letter": "c",
+    "display_name": "TOI-771 c",
+    "planet_radius": "1.5 x Earth (estimate)",
+    "derived_description": "TOI-771 c is a super Earth exoplanet that orbits a M-type star. Its mass is 2.87 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Paranal Observatory",
+    "st_dist": 25.2788,
+    "planet_mass": "2.87 Earths",
+    "st_optmag": 14.888,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.046,
+    "period_display": "7.6 days",
+    "eccentricity": "0.07",
+    "star_id": 391148,
+    "pl_orbper": 7.61,
+    "pl_kepflag": false,
+    "pl_radj": 0.134,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": -82,
+    "multiple_planet_system": false,
+    "pl_rade": 1.5,
+    "exo_id": "TOI-771_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.065
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876484",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391148"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

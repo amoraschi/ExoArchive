@@ -1,1 +1,86 @@
-{"id":260809,"date":"2023-11-28T20:30:22","date_gmt":"2023-11-29T01:30:22","modified":"2025-04-23T05:54:23","modified_gmt":"2025-04-23T09:54:23","slug":"hd_3167","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_3167/","featured_media":0,"categories":[],"acf":{"display_name":"HD 3167","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244391,"1":244390,"2":244388,"3":244389},"exo_id":"HD_3167","st_optmag":8.97,"st_vj":8.97,"st_dist":47.2899,"st_j":8.97,"st_mass":0.837,"dec":4.3807215,"st_teff":5261,"st_rad":0.88,"ra":8.7401487,"system_radius":58118772.495,"pl_hostname":"HD_3167","stellar_type":"K","tic_id":"TIC 318707987","magnitude":8.97},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260809","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244391"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244390"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244389"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244388"}]}}
+{
+  "id": 260809,
+  "date": "2023-11-28T20:30:22",
+  "date_gmt": "2023-11-29T01:30:22",
+  "modified": "2025-04-23T05:54:23",
+  "modified_gmt": "2025-04-23T09:54:23",
+  "slug": "hd_3167",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_3167/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 3167",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244391,
+      "1": 244390,
+      "2": 244388,
+      "3": 244389
+    },
+    "exo_id": "HD_3167",
+    "st_optmag": 8.97,
+    "st_vj": 8.97,
+    "st_dist": 47.2899,
+    "st_j": 8.97,
+    "st_mass": 0.837,
+    "dec": 4.3807215,
+    "st_teff": 5261,
+    "st_rad": 0.88,
+    "ra": 8.7401487,
+    "system_radius": 58118772.495,
+    "pl_hostname": "HD_3167",
+    "stellar_type": "K",
+    "tic_id": "TIC 318707987",
+    "magnitude": 8.97
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260809",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244391"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244390"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244389"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244388"
+      }
+    ]
+  }
+}

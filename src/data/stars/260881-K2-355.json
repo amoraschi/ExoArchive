@@ -1,1 +1,71 @@
-{"id":260881,"date":"2023-11-28T20:31:18","date_gmt":"2023-11-29T01:31:18","modified":"2025-04-23T05:56:13","modified_gmt":"2025-04-23T09:56:13","slug":"k2-355","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-355/","featured_media":0,"categories":[],"acf":{"display_name":"K2-355","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245046],"exo_id":"K2-355","st_optmag":13.707,"st_vj":13.707,"st_dist":500.497,"st_j":13.707,"st_mass":0.96,"dec":13.5027816,"st_teff":5790,"st_rad":0.92,"ra":124.6426189,"system_radius":9454585.384,"pl_hostname":"K2-355","stellar_type":"G","tic_id":"TIC 186853124","magnitude":13.707},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260881","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245046"}]}}
+{
+  "id": 260881,
+  "date": "2023-11-28T20:31:18",
+  "date_gmt": "2023-11-29T01:31:18",
+  "modified": "2025-04-23T05:56:13",
+  "modified_gmt": "2025-04-23T09:56:13",
+  "slug": "k2-355",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-355/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-355",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245046
+    ],
+    "exo_id": "K2-355",
+    "st_optmag": 13.707,
+    "st_vj": 13.707,
+    "st_dist": 500.497,
+    "st_j": 13.707,
+    "st_mass": 0.96,
+    "dec": 13.5027816,
+    "st_teff": 5790,
+    "st_rad": 0.92,
+    "ra": 124.6426189,
+    "system_radius": 9454585.384,
+    "pl_hostname": "K2-355",
+    "stellar_type": "G",
+    "tic_id": "TIC 186853124",
+    "magnitude": 13.707
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260881",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245046"
+      }
+    ]
+  }
+}

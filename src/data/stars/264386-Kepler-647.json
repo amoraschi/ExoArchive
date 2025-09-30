@@ -1,1 +1,76 @@
-{"id":264386,"date":"2023-11-28T21:15:53","date_gmt":"2023-11-29T02:15:53","modified":"2025-04-23T05:55:04","modified_gmt":"2025-04-23T09:55:04","slug":"kepler-647","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-647/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-647","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247536,"1":247535},"exo_id":"Kepler-647","st_optmag":14.067,"st_vj":14.067,"st_dist":1087.87,"st_j":14.067,"st_mass":1.03,"dec":44.5916225,"st_teff":6020,"st_rad":1.07,"ra":284.7882977,"system_radius":27362946.4017,"pl_hostname":"Kepler-647","stellar_type":"F","tic_id":"TIC 164786172","magnitude":14.067},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264386","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247536"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247535"}]}}
+{
+  "id": 264386,
+  "date": "2023-11-28T21:15:53",
+  "date_gmt": "2023-11-29T02:15:53",
+  "modified": "2025-04-23T05:55:04",
+  "modified_gmt": "2025-04-23T09:55:04",
+  "slug": "kepler-647",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-647/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-647",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247536,
+      "1": 247535
+    },
+    "exo_id": "Kepler-647",
+    "st_optmag": 14.067,
+    "st_vj": 14.067,
+    "st_dist": 1087.87,
+    "st_j": 14.067,
+    "st_mass": 1.03,
+    "dec": 44.5916225,
+    "st_teff": 6020,
+    "st_rad": 1.07,
+    "ra": 284.7882977,
+    "system_radius": 27362946.4017,
+    "pl_hostname": "Kepler-647",
+    "stellar_type": "F",
+    "tic_id": "TIC 164786172",
+    "magnitude": 14.067
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264386",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247536"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247535"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262424,"date":"2023-11-28T20:50:49","date_gmt":"2023-11-29T01:50:49","modified":"2025-06-06T07:19:42","modified_gmt":"2025-06-06T11:19:42","slug":"gj_3470","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_3470/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 3470","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243637],"exo_id":"GJ_3470","st_optmag":12.332,"st_vj":12.332,"st_dist":29.4214,"st_j":12.332,"st_mass":0.539,"dec":15.391209,"st_teff":3600,"st_rad":0.547,"ra":119.7735021,"system_radius":5310724.385,"pl_hostname":"GJ_3470","stellar_type":"M","tic_id":"TIC 19028197","magnitude":12.332},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262424","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243637"}]}}
+{
+  "id": 262424,
+  "date": "2023-11-28T20:50:49",
+  "date_gmt": "2023-11-29T01:50:49",
+  "modified": "2025-06-06T07:19:42",
+  "modified_gmt": "2025-06-06T11:19:42",
+  "slug": "gj_3470",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_3470/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 3470",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243637
+    ],
+    "exo_id": "GJ_3470",
+    "st_optmag": 12.332,
+    "st_vj": 12.332,
+    "st_dist": 29.4214,
+    "st_j": 12.332,
+    "st_mass": 0.539,
+    "dec": 15.391209,
+    "st_teff": 3600,
+    "st_rad": 0.547,
+    "ra": 119.7735021,
+    "system_radius": 5310724.385,
+    "pl_hostname": "GJ_3470",
+    "stellar_type": "M",
+    "tic_id": "TIC 19028197",
+    "magnitude": 12.332
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262424",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243637"
+      }
+    ]
+  }
+}

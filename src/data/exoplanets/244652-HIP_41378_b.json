@@ -1,1 +1,79 @@
-{"id":244652,"date":"2019-04-22T16:49:20","date_gmt":"2019-04-22T20:49:20","modified":"2025-09-17T23:33:32","modified_gmt":"2025-09-18T03:33:32","slug":"hip-41378-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-41378-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HIP_41378","pl_letter":"b","display_name":"HIP 41378 b","planet_radius":"0.23151079 x Jupiter","derived_description":"HIP 41378 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.89 Earths, it takes 15.6 days to complete one orbit of its star, and is 0.12822869507633 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":106.289,"planet_mass":"6.89 Earths","st_optmag":8.93,"discovery_date":"2016","pl_orbsmax":"","period_display":"15.6 days","eccentricity":"","star_id":261135,"pl_orbper":15.57208,"pl_kepflag":true,"pl_radj":0.23151079,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.595,"exo_id":"HIP_41378_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244652","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261135"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244652,
+  "date": "2019-04-22T16:49:20",
+  "date_gmt": "2019-04-22T20:49:20",
+  "modified": "2025-09-17T23:33:32",
+  "modified_gmt": "2025-09-18T03:33:32",
+  "slug": "hip-41378-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-41378-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_41378",
+    "pl_letter": "b",
+    "display_name": "HIP 41378 b",
+    "planet_radius": "0.23151079 x Jupiter",
+    "derived_description": "HIP 41378 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.89 Earths, it takes 15.6 days to complete one orbit of its star, and is 0.12822869507633 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 106.289,
+    "planet_mass": "6.89 Earths",
+    "st_optmag": 8.93,
+    "discovery_date": "2016",
+    "pl_orbsmax": "",
+    "period_display": "15.6 days",
+    "eccentricity": "",
+    "star_id": 261135,
+    "pl_orbper": 15.57208,
+    "pl_kepflag": true,
+    "pl_radj": 0.23151079,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.595,
+    "exo_id": "HIP_41378_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244652",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261135"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244645,"date":"2023-09-07T20:15:22","date_gmt":"2023-09-08T00:15:22","modified":"2025-06-25T12:06:10","modified_gmt":"2025-06-25T16:06:10","slug":"hip-29442-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-29442-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_42813","pl_letter":"c","display_name":"HIP 29442 c","planet_radius":"1.551 x Earth","derived_description":"HIP 29442 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.5 Earths, it takes 3.5 days to complete one orbit of its star, and is 0.04518 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Paranal Observatory","st_dist":68.192,"planet_mass":"4.5 Earths","st_optmag":9.49,"discovery_date":"2023","pl_orbsmax":0.04518,"period_display":"3.5 days","eccentricity":"","star_id":406603,"pl_orbper":3.5379559,"pl_kepflag":false,"pl_radj":0.13837119,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.551,"exo_id":"HIP_29442_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244645","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/406603"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244645,
+  "date": "2023-09-07T20:15:22",
+  "date_gmt": "2023-09-08T00:15:22",
+  "modified": "2025-06-25T12:06:10",
+  "modified_gmt": "2025-06-25T16:06:10",
+  "slug": "hip-29442-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-29442-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_42813",
+    "pl_letter": "c",
+    "display_name": "HIP 29442 c",
+    "planet_radius": "1.551 x Earth",
+    "derived_description": "HIP 29442 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.5 Earths, it takes 3.5 days to complete one orbit of its star, and is 0.04518 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Paranal Observatory",
+    "st_dist": 68.192,
+    "planet_mass": "4.5 Earths",
+    "st_optmag": 9.49,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.04518,
+    "period_display": "3.5 days",
+    "eccentricity": "",
+    "star_id": 406603,
+    "pl_orbper": 3.5379559,
+    "pl_kepflag": false,
+    "pl_radj": 0.13837119,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.551,
+    "exo_id": "HIP_29442_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244645",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406603"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262900,"date":"2023-11-28T20:56:54","date_gmt":"2023-11-29T01:56:54","modified":"2025-04-23T05:55:23","modified_gmt":"2025-04-23T09:55:23","slug":"kepler-578","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-578/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-578","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247427],"exo_id":"Kepler-578","st_optmag":14.578,"st_vj":14.578,"st_dist":541.432,"st_j":14.578,"st_mass":0.87,"dec":39.563696,"st_teff":5334,"st_rad":0.83,"ra":288.7549882,"system_radius":3979303.342,"pl_hostname":"Kepler-578","stellar_type":"G","tic_id":"TIC 121734474","magnitude":14.578},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262900","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247427"}]}}
+{
+  "id": 262900,
+  "date": "2023-11-28T20:56:54",
+  "date_gmt": "2023-11-29T01:56:54",
+  "modified": "2025-04-23T05:55:23",
+  "modified_gmt": "2025-04-23T09:55:23",
+  "slug": "kepler-578",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-578/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-578",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247427
+    ],
+    "exo_id": "Kepler-578",
+    "st_optmag": 14.578,
+    "st_vj": 14.578,
+    "st_dist": 541.432,
+    "st_j": 14.578,
+    "st_mass": 0.87,
+    "dec": 39.563696,
+    "st_teff": 5334,
+    "st_rad": 0.83,
+    "ra": 288.7549882,
+    "system_radius": 3979303.342,
+    "pl_hostname": "Kepler-578",
+    "stellar_type": "G",
+    "tic_id": "TIC 121734474",
+    "magnitude": 14.578
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262900",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247427"
+      }
+    ]
+  }
+}

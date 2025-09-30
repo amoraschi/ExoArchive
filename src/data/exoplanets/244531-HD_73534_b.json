@@ -1,1 +1,79 @@
-{"id":244531,"date":"2019-04-22T16:48:40","date_gmt":"2019-04-22T20:48:40","modified":"2024-10-24T19:04:39","modified_gmt":"2024-10-24T23:04:39","slug":"hd-73534-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-73534-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_73534","pl_letter":"b","display_name":"HD 73534 b","planet_radius":"1.23 x Jupiter (estimate)","derived_description":"HD 73534 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.112 Jupiters, it takes 4.8 years to complete one orbit of its star, and is 2.99 AU from its star. Its discovery was announced in 2008.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":83.3321,"planet_mass":"1.112 Jupiters","st_optmag":8.23,"discovery_date":"2008","pl_orbsmax":2.99,"period_display":"4.8 years","eccentricity":"0.13","star_id":260593,"pl_orbper":1750,"pl_kepflag":false,"pl_radj":1.23,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":168,"multiple_planet_system":false,"pl_rade":13.7,"exo_id":"HD_73534_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.126},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244531","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260593"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244531,
+  "date": "2019-04-22T16:48:40",
+  "date_gmt": "2019-04-22T20:48:40",
+  "modified": "2024-10-24T19:04:39",
+  "modified_gmt": "2024-10-24T23:04:39",
+  "slug": "hd-73534-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-73534-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_73534",
+    "pl_letter": "b",
+    "display_name": "HD 73534 b",
+    "planet_radius": "1.23 x Jupiter (estimate)",
+    "derived_description": "HD 73534 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.112 Jupiters, it takes 4.8 years to complete one orbit of its star, and is 2.99 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 83.3321,
+    "planet_mass": "1.112 Jupiters",
+    "st_optmag": 8.23,
+    "discovery_date": "2008",
+    "pl_orbsmax": 2.99,
+    "period_display": "4.8 years",
+    "eccentricity": "0.13",
+    "star_id": 260593,
+    "pl_orbper": 1750,
+    "pl_kepflag": false,
+    "pl_radj": 1.23,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": 168,
+    "multiple_planet_system": false,
+    "pl_rade": 13.7,
+    "exo_id": "HD_73534_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.126
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244531",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260593"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

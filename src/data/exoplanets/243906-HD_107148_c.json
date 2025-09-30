@@ -1,1 +1,79 @@
-{"id":243906,"date":"2021-06-17T13:33:02","date_gmt":"2021-06-17T17:33:02","modified":"2025-07-07T20:34:57","modified_gmt":"2025-07-08T00:34:57","slug":"hd-107148-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-107148-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_107148","pl_letter":"c","display_name":"HD 107148 c","planet_radius":"0.42 x Jupiter (estimate)","derived_description":"HD 107148 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19.89605828 Earths, it takes 18.3 days to complete one orbit of its star, and is 0.1407 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":49.4156,"planet_mass":"19.89605828 Earths","st_optmag":8.01,"discovery_date":"2021","pl_orbsmax":0.1407,"period_display":"18.3 days","eccentricity":"0.34","star_id":261281,"pl_orbper":18.3267,"pl_kepflag":false,"pl_radj":0.42,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":-44.6907,"multiple_planet_system":false,"pl_rade":4.7,"exo_id":"HD_107148_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.34},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243906","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261281"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243906,
+  "date": "2021-06-17T13:33:02",
+  "date_gmt": "2021-06-17T17:33:02",
+  "modified": "2025-07-07T20:34:57",
+  "modified_gmt": "2025-07-08T00:34:57",
+  "slug": "hd-107148-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-107148-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_107148",
+    "pl_letter": "c",
+    "display_name": "HD 107148 c",
+    "planet_radius": "0.42 x Jupiter (estimate)",
+    "derived_description": "HD 107148 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19.89605828 Earths, it takes 18.3 days to complete one orbit of its star, and is 0.1407 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 49.4156,
+    "planet_mass": "19.89605828 Earths",
+    "st_optmag": 8.01,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.1407,
+    "period_display": "18.3 days",
+    "eccentricity": "0.34",
+    "star_id": 261281,
+    "pl_orbper": 18.3267,
+    "pl_kepflag": false,
+    "pl_radj": 0.42,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": -44.6907,
+    "multiple_planet_system": false,
+    "pl_rade": 4.7,
+    "exo_id": "HD_107148_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.34
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243906",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261281"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

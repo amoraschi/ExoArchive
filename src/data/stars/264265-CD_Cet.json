@@ -1,1 +1,71 @@
-{"id":264265,"date":"2023-11-28T21:14:21","date_gmt":"2023-11-29T02:14:21","modified":"2025-04-23T05:57:17","modified_gmt":"2025-04-23T09:57:17","slug":"cd_cet","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/cd_cet/","featured_media":0,"categories":[],"acf":{"display_name":"CD Ceti","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243468],"exo_id":"CD_Cet","st_optmag":13.95,"st_vj":13.95,"st_dist":8.60715,"st_j":13.95,"st_mass":0.161,"dec":4.7751881,"st_teff":3130,"st_rad":0.175,"ra":48.3530155,"system_radius":2767560.595,"pl_hostname":"CD_Cet","stellar_type":"M","tic_id":"TIC 328465904","magnitude":13.95},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264265","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243468"}]}}
+{
+  "id": 264265,
+  "date": "2023-11-28T21:14:21",
+  "date_gmt": "2023-11-29T02:14:21",
+  "modified": "2025-04-23T05:57:17",
+  "modified_gmt": "2025-04-23T09:57:17",
+  "slug": "cd_cet",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/cd_cet/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CD Ceti",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243468
+    ],
+    "exo_id": "CD_Cet",
+    "st_optmag": 13.95,
+    "st_vj": 13.95,
+    "st_dist": 8.60715,
+    "st_j": 13.95,
+    "st_mass": 0.161,
+    "dec": 4.7751881,
+    "st_teff": 3130,
+    "st_rad": 0.175,
+    "ra": 48.3530155,
+    "system_radius": 2767560.595,
+    "pl_hostname": "CD_Cet",
+    "stellar_type": "M",
+    "tic_id": "TIC 328465904",
+    "magnitude": 13.95
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264265",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243468"
+      }
+    ]
+  }
+}

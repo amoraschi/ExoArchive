@@ -1,1 +1,71 @@
-{"id":263597,"date":"2023-11-28T21:05:41","date_gmt":"2023-11-29T02:05:41","modified":"2025-04-23T05:56:32","modified_gmt":"2025-04-23T09:56:32","slug":"kepler-1904","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1904/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1904","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246475],"exo_id":"Kepler-1904","st_optmag":16.367,"st_vj":16.367,"st_dist":270.854,"st_j":16.367,"st_mass":0.526,"dec":51.1542215,"st_teff":3805,"st_rad":0.497,"ra":288.8744026,"system_radius":6522467.132,"pl_hostname":"Kepler-1904","stellar_type":"M","tic_id":"TIC 299089587","magnitude":16.367},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263597","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246475"}]}}
+{
+  "id": 263597,
+  "date": "2023-11-28T21:05:41",
+  "date_gmt": "2023-11-29T02:05:41",
+  "modified": "2025-04-23T05:56:32",
+  "modified_gmt": "2025-04-23T09:56:32",
+  "slug": "kepler-1904",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1904/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1904",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246475
+    ],
+    "exo_id": "Kepler-1904",
+    "st_optmag": 16.367,
+    "st_vj": 16.367,
+    "st_dist": 270.854,
+    "st_j": 16.367,
+    "st_mass": 0.526,
+    "dec": 51.1542215,
+    "st_teff": 3805,
+    "st_rad": 0.497,
+    "ra": 288.8744026,
+    "system_radius": 6522467.132,
+    "pl_hostname": "Kepler-1904",
+    "stellar_type": "M",
+    "tic_id": "TIC 299089587",
+    "magnitude": 16.367
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263597",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246475"
+      }
+    ]
+  }
+}

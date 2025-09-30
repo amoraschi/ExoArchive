@@ -1,1 +1,71 @@
-{"id":263048,"date":"2023-11-28T20:58:45","date_gmt":"2023-11-29T01:58:45","modified":"2025-04-23T05:56:42","modified_gmt":"2025-04-23T09:56:42","slug":"toi-2109","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2109/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2109","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248525],"exo_id":"TOI-2109","st_optmag":10.217,"st_vj":10.217,"st_dist":262.041,"st_j":10.217,"st_mass":1.453,"dec":16.5799153,"st_teff":6540,"st_rad":1.698,"ra":253.1862971,"system_radius":2679297.8517,"pl_hostname":"TOI-2109","stellar_type":"F","tic_id":"TIC 392476080","magnitude":10.217},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263048","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248525"}]}}
+{
+  "id": 263048,
+  "date": "2023-11-28T20:58:45",
+  "date_gmt": "2023-11-29T01:58:45",
+  "modified": "2025-04-23T05:56:42",
+  "modified_gmt": "2025-04-23T09:56:42",
+  "slug": "toi-2109",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2109/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2109",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248525
+    ],
+    "exo_id": "TOI-2109",
+    "st_optmag": 10.217,
+    "st_vj": 10.217,
+    "st_dist": 262.041,
+    "st_j": 10.217,
+    "st_mass": 1.453,
+    "dec": 16.5799153,
+    "st_teff": 6540,
+    "st_rad": 1.698,
+    "ra": 253.1862971,
+    "system_radius": 2679297.8517,
+    "pl_hostname": "TOI-2109",
+    "stellar_type": "F",
+    "tic_id": "TIC 392476080",
+    "magnitude": 10.217
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263048",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248525"
+      }
+    ]
+  }
+}

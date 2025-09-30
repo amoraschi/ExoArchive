@@ -1,1 +1,79 @@
-{"id":247312,"date":"2016-03-16T19:26:24","date_gmt":"2016-03-16T23:26:24","modified":"2025-07-07T17:22:25","modified_gmt":"2025-07-07T21:22:25","slug":"kepler-49-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-49-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-49","pl_letter":"d","display_name":"Kepler-49 d","planet_radius":"1.6 x Earth","derived_description":"Kepler-49 d is a super Earth exoplanet that orbits a K-type star. Its mass is 0.7424824 Jupiters, it takes 2.6 days to complete one orbit of its star, and is 0.031 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":311.222,"planet_mass":"0.7424824 Jupiters","st_optmag":15.655,"discovery_date":"2014","pl_orbsmax":0.031,"period_display":"2.6 days","eccentricity":"0.0","star_id":261961,"pl_orbper":2.576549,"pl_kepflag":true,"pl_radj":0.143,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.6,"exo_id":"Kepler-49_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247312","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261961"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247312,
+  "date": "2016-03-16T19:26:24",
+  "date_gmt": "2016-03-16T23:26:24",
+  "modified": "2025-07-07T17:22:25",
+  "modified_gmt": "2025-07-07T21:22:25",
+  "slug": "kepler-49-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-49-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-49",
+    "pl_letter": "d",
+    "display_name": "Kepler-49 d",
+    "planet_radius": "1.6 x Earth",
+    "derived_description": "Kepler-49 d is a super Earth exoplanet that orbits a K-type star. Its mass is 0.7424824 Jupiters, it takes 2.6 days to complete one orbit of its star, and is 0.031 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 311.222,
+    "planet_mass": "0.7424824 Jupiters",
+    "st_optmag": 15.655,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.031,
+    "period_display": "2.6 days",
+    "eccentricity": "0.0",
+    "star_id": 261961,
+    "pl_orbper": 2.576549,
+    "pl_kepflag": true,
+    "pl_radj": 0.143,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.6,
+    "exo_id": "Kepler-49_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247312",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261961"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

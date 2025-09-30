@@ -1,1 +1,69 @@
-{"id":391274,"date":"2024-04-30T20:01:24","date_gmt":"2024-05-01T00:01:24","modified":"2025-04-23T05:57:34","modified_gmt":"2025-04-23T09:57:34","slug":"gamma-leporis-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gamma-leporis-a/","featured_media":429647,"categories":[],"acf":{"display_name":"Gamma Leporis A","custom_star_title":"","aliases":"GammaLeporisA,HD38393,HR1983,GJ216A,HD 38393,HR 1983,GJ 216A","constellation":"Lepus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Gamma_Leporis_A","st_optmag":3.596,"st_vj":3.596,"st_dist":8.905,"st_j":3.596,"st_mass":1.23,"dec":-22.4483855,"st_teff":6313,"st_rad":1.28,"ra":86.1157942,"system_radius":149597870,"pl_hostname":"Gamma_Leporis_A","stellar_type":"F","tic_id":"TIC 93280676","magnitude":3.6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391274","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391274,
+  "date": "2024-04-30T20:01:24",
+  "date_gmt": "2024-05-01T00:01:24",
+  "modified": "2025-04-23T05:57:34",
+  "modified_gmt": "2025-04-23T09:57:34",
+  "slug": "gamma-leporis-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gamma-leporis-a/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Gamma Leporis A",
+    "custom_star_title": "",
+    "aliases": "GammaLeporisA,HD38393,HR1983,GJ216A,HD 38393,HR 1983,GJ 216A",
+    "constellation": "Lepus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Gamma_Leporis_A",
+    "st_optmag": 3.596,
+    "st_vj": 3.596,
+    "st_dist": 8.905,
+    "st_j": 3.596,
+    "st_mass": 1.23,
+    "dec": -22.4483855,
+    "st_teff": 6313,
+    "st_rad": 1.28,
+    "ra": 86.1157942,
+    "system_radius": 149597870,
+    "pl_hostname": "Gamma_Leporis_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 93280676",
+    "magnitude": 3.6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391274",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

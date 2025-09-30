@@ -1,1 +1,81 @@
-{"id":263033,"date":"2023-11-28T20:58:34","date_gmt":"2023-11-29T01:58:34","modified":"2025-04-23T05:54:02","modified_gmt":"2025-04-23T09:54:02","slug":"kepler-281","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-281/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-281","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246850,"1":246848,"2":246849},"exo_id":"Kepler-281","st_optmag":15.931,"st_vj":15.931,"st_dist":1745.45,"st_j":15.931,"st_mass":0.95,"dec":44.7706524,"st_teff":5723,"st_rad":0.899,"ra":294.1081465,"system_radius":81620597.872,"pl_hostname":"Kepler-281","stellar_type":"G","tic_id":"TIC 270858032","magnitude":15.931},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263033","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246850"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246849"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246848"}]}}
+{
+  "id": 263033,
+  "date": "2023-11-28T20:58:34",
+  "date_gmt": "2023-11-29T01:58:34",
+  "modified": "2025-04-23T05:54:02",
+  "modified_gmt": "2025-04-23T09:54:02",
+  "slug": "kepler-281",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-281/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-281",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246850,
+      "1": 246848,
+      "2": 246849
+    },
+    "exo_id": "Kepler-281",
+    "st_optmag": 15.931,
+    "st_vj": 15.931,
+    "st_dist": 1745.45,
+    "st_j": 15.931,
+    "st_mass": 0.95,
+    "dec": 44.7706524,
+    "st_teff": 5723,
+    "st_rad": 0.899,
+    "ra": 294.1081465,
+    "system_radius": 81620597.872,
+    "pl_hostname": "Kepler-281",
+    "stellar_type": "G",
+    "tic_id": "TIC 270858032",
+    "magnitude": 15.931
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263033",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246850"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246849"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246848"
+      }
+    ]
+  }
+}

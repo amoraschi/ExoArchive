@@ -1,1 +1,71 @@
-{"id":399268,"date":"2024-05-31T20:29:41","date_gmt":"2024-06-01T00:29:41","modified":"2025-04-23T05:56:13","modified_gmt":"2025-04-23T09:56:13","slug":"toi-6008","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-6008/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-6008","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[399276],"exo_id":"TOI-6008","st_optmag":15.97,"st_vj":15.97,"st_dist":23.1008,"st_j":15.97,"st_mass":0.23,"dec":49.6468992,"st_teff":3075,"st_rad":0.242,"ra":310.4487344,"system_radius":1612216.24499,"pl_hostname":"TOI-6008","stellar_type":"M","tic_id":"TIC 286201103","magnitude":15.97},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/399268","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/399276"}]}}
+{
+  "id": 399268,
+  "date": "2024-05-31T20:29:41",
+  "date_gmt": "2024-06-01T00:29:41",
+  "modified": "2025-04-23T05:56:13",
+  "modified_gmt": "2025-04-23T09:56:13",
+  "slug": "toi-6008",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6008/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6008",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      399276
+    ],
+    "exo_id": "TOI-6008",
+    "st_optmag": 15.97,
+    "st_vj": 15.97,
+    "st_dist": 23.1008,
+    "st_j": 15.97,
+    "st_mass": 0.23,
+    "dec": 49.6468992,
+    "st_teff": 3075,
+    "st_rad": 0.242,
+    "ra": 310.4487344,
+    "system_radius": 1612216.24499,
+    "pl_hostname": "TOI-6008",
+    "stellar_type": "M",
+    "tic_id": "TIC 286201103",
+    "magnitude": 15.97
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/399268",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/399276"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263571,"date":"2023-11-28T21:05:21","date_gmt":"2023-11-29T02:05:21","modified":"2025-04-23T05:56:11","modified_gmt":"2025-04-23T09:56:11","slug":"epic_211945201","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/epic_211945201/","featured_media":0,"categories":[],"acf":{"display_name":"EPIC 211945201","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243547],"exo_id":"EPIC_211945201","st_optmag":10.154,"st_vj":10.154,"st_dist":181.69,"st_j":10.154,"st_mass":1.17,"dec":19.4020565,"st_teff":6069,"st_rad":1.39,"ra":136.5741931,"system_radius":22334961.991,"pl_hostname":"EPIC_211945201","stellar_type":"F","tic_id":"TIC 243244680","magnitude":10.154},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263571","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243547"}]}}
+{
+  "id": 263571,
+  "date": "2023-11-28T21:05:21",
+  "date_gmt": "2023-11-29T02:05:21",
+  "modified": "2025-04-23T05:56:11",
+  "modified_gmt": "2025-04-23T09:56:11",
+  "slug": "epic_211945201",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/epic_211945201/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "EPIC 211945201",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243547
+    ],
+    "exo_id": "EPIC_211945201",
+    "st_optmag": 10.154,
+    "st_vj": 10.154,
+    "st_dist": 181.69,
+    "st_j": 10.154,
+    "st_mass": 1.17,
+    "dec": 19.4020565,
+    "st_teff": 6069,
+    "st_rad": 1.39,
+    "ra": 136.5741931,
+    "system_radius": 22334961.991,
+    "pl_hostname": "EPIC_211945201",
+    "stellar_type": "F",
+    "tic_id": "TIC 243244680",
+    "magnitude": 10.154
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263571",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243547"
+      }
+    ]
+  }
+}

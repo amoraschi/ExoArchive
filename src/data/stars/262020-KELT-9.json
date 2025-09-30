@@ -1,1 +1,71 @@
-{"id":262020,"date":"2023-11-28T20:45:40","date_gmt":"2023-11-29T01:45:40","modified":"2025-04-23T05:53:39","modified_gmt":"2025-04-23T09:53:39","slug":"kelt-9","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-9/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-9","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245227],"exo_id":"KELT-9","st_optmag":7.55,"st_vj":7.55,"st_dist":204.455,"st_j":7.55,"st_mass":2.52,"dec":39.9389161,"st_teff":10170,"st_rad":2.362,"ra":307.8598998,"system_radius":5179078.2594,"pl_hostname":"KELT-9","stellar_type":"B","tic_id":"TIC 16740101","magnitude":7.55},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262020","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245227"}]}}
+{
+  "id": 262020,
+  "date": "2023-11-28T20:45:40",
+  "date_gmt": "2023-11-29T01:45:40",
+  "modified": "2025-04-23T05:53:39",
+  "modified_gmt": "2025-04-23T09:53:39",
+  "slug": "kelt-9",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-9/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-9",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245227
+    ],
+    "exo_id": "KELT-9",
+    "st_optmag": 7.55,
+    "st_vj": 7.55,
+    "st_dist": 204.455,
+    "st_j": 7.55,
+    "st_mass": 2.52,
+    "dec": 39.9389161,
+    "st_teff": 10170,
+    "st_rad": 2.362,
+    "ra": 307.8598998,
+    "system_radius": 5179078.2594,
+    "pl_hostname": "KELT-9",
+    "stellar_type": "B",
+    "tic_id": "TIC 16740101",
+    "magnitude": 7.55
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262020",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245227"
+      }
+    ]
+  }
+}

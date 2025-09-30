@@ -1,1 +1,79 @@
-{"id":248452,"date":"2021-10-14T13:04:15","date_gmt":"2021-10-14T17:04:15","modified":"2025-07-07T20:35:09","modified_gmt":"2025-07-08T00:35:09","slug":"toi-1431-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1431-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1431","pl_letter":"b","display_name":"TOI-1431 b","planet_radius":"1.49 x Jupiter","derived_description":"TOI-1431 b is a gas giant exoplanet that orbits a A-type star. Its mass is 3.12 Jupiters, it takes 2.7 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":148.925,"planet_mass":"3.12 Jupiters","st_optmag":8.03,"discovery_date":"2021","pl_orbsmax":0.046,"period_display":"2.7 days","eccentricity":"0.0","star_id":263059,"pl_orbper":2.650237,"pl_kepflag":false,"pl_radj":1.49,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":108,"multiple_planet_system":false,"pl_rade":16.70138124,"exo_id":"TOI-1431_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.0022},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248452","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263059"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248452,
+  "date": "2021-10-14T13:04:15",
+  "date_gmt": "2021-10-14T17:04:15",
+  "modified": "2025-07-07T20:35:09",
+  "modified_gmt": "2025-07-08T00:35:09",
+  "slug": "toi-1431-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1431-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1431",
+    "pl_letter": "b",
+    "display_name": "TOI-1431 b",
+    "planet_radius": "1.49 x Jupiter",
+    "derived_description": "TOI-1431 b is a gas giant exoplanet that orbits a A-type star. Its mass is 3.12 Jupiters, it takes 2.7 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 148.925,
+    "planet_mass": "3.12 Jupiters",
+    "st_optmag": 8.03,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.046,
+    "period_display": "2.7 days",
+    "eccentricity": "0.0",
+    "star_id": 263059,
+    "pl_orbper": 2.650237,
+    "pl_kepflag": false,
+    "pl_radj": 1.49,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 108,
+    "multiple_planet_system": false,
+    "pl_rade": 16.70138124,
+    "exo_id": "TOI-1431_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0022
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248452",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263059"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

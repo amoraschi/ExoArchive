@@ -1,1 +1,79 @@
-{"id":248020,"date":"2017-10-02T13:32:29","date_gmt":"2017-10-02T17:32:29","modified":"2025-06-25T12:05:58","modified_gmt":"2025-06-25T16:05:58","slug":"kic-8540376-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kic-8540376-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"KOI-7892","pl_letter":"b","display_name":"KIC 8540376 b","planet_radius":"0.3657775 x Jupiter","derived_description":"KIC 8540376 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 15.8 Earths, it takes 31.8 days to complete one orbit of its star, and is 0.19906158501537 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1072.3,"planet_mass":"15.8 Earths","st_optmag":14.411,"discovery_date":"2015","pl_orbsmax":"","period_display":"31.8 days","eccentricity":"","star_id":261803,"pl_orbper":31.8099,"pl_kepflag":true,"pl_radj":0.3657775,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":4.1,"exo_id":"KIC_8540376_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248020","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261803"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248020,
+  "date": "2017-10-02T13:32:29",
+  "date_gmt": "2017-10-02T17:32:29",
+  "modified": "2025-06-25T12:05:58",
+  "modified_gmt": "2025-06-25T16:05:58",
+  "slug": "kic-8540376-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kic-8540376-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KOI-7892",
+    "pl_letter": "b",
+    "display_name": "KIC 8540376 b",
+    "planet_radius": "0.3657775 x Jupiter",
+    "derived_description": "KIC 8540376 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 15.8 Earths, it takes 31.8 days to complete one orbit of its star, and is 0.19906158501537 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1072.3,
+    "planet_mass": "15.8 Earths",
+    "st_optmag": 14.411,
+    "discovery_date": "2015",
+    "pl_orbsmax": "",
+    "period_display": "31.8 days",
+    "eccentricity": "",
+    "star_id": 261803,
+    "pl_orbper": 31.8099,
+    "pl_kepflag": true,
+    "pl_radj": 0.3657775,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.1,
+    "exo_id": "KIC_8540376_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248020",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261803"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":387725,"date":"2024-04-16T12:03:41","date_gmt":"2024-04-16T16:03:41","modified":"2025-04-23T05:55:36","modified_gmt":"2025-04-23T09:55:36","slug":"ngc_2682_sand_1429","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngc_2682_sand_1429/","featured_media":0,"categories":[],"acf":{"display_name":"NGC 2682 Sand 1429","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[387747],"exo_id":"NGC_2682_Sand_1429","st_optmag":12.704,"st_vj":12.704,"st_dist":852.793,"st_j":12.704,"st_mass":1.26,"dec":11.6899626,"st_teff":6000,"st_rad":2.13,"ra":133.0147781,"system_radius":57445582.08,"pl_hostname":"NGC_2682_Sand_1429","stellar_type":"F","tic_id":"TIC 437039505","magnitude":12.704},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/387725","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/387747"}]}}
+{
+  "id": 387725,
+  "date": "2024-04-16T12:03:41",
+  "date_gmt": "2024-04-16T16:03:41",
+  "modified": "2025-04-23T05:55:36",
+  "modified_gmt": "2025-04-23T09:55:36",
+  "slug": "ngc_2682_sand_1429",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngc_2682_sand_1429/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGC 2682 Sand 1429",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      387747
+    ],
+    "exo_id": "NGC_2682_Sand_1429",
+    "st_optmag": 12.704,
+    "st_vj": 12.704,
+    "st_dist": 852.793,
+    "st_j": 12.704,
+    "st_mass": 1.26,
+    "dec": 11.6899626,
+    "st_teff": 6000,
+    "st_rad": 2.13,
+    "ra": 133.0147781,
+    "system_radius": 57445582.08,
+    "pl_hostname": "NGC_2682_Sand_1429",
+    "stellar_type": "F",
+    "tic_id": "TIC 437039505",
+    "magnitude": 12.704
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/387725",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/387747"
+      }
+    ]
+  }
+}

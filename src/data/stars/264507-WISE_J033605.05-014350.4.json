@@ -1,1 +1,71 @@
-{"id":264507,"date":"2023-11-28T21:17:24","date_gmt":"2023-11-29T02:17:24","modified":"2025-04-23T05:57:22","modified_gmt":"2025-04-23T09:57:22","slug":"wise_j03360505-0143504","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wise_j03360505-0143504/","featured_media":0,"categories":[],"acf":{"display_name":"WISE J033605.05-014350.4","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248927],"exo_id":"WISE_J033605.05-014350.4","st_optmag":"","st_vj":"","st_dist":"","st_j":"","st_mass":0.0131,"dec":-1.7306944,"st_teff":415,"st_rad":"","ra":54.0210417,"system_radius":145109933.9,"pl_hostname":"WISE_J033605.05-014350.4","stellar_type":"Y","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264507","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248927"}]}}
+{
+  "id": 264507,
+  "date": "2023-11-28T21:17:24",
+  "date_gmt": "2023-11-29T02:17:24",
+  "modified": "2025-04-23T05:57:22",
+  "modified_gmt": "2025-04-23T09:57:22",
+  "slug": "wise_j03360505-0143504",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wise_j03360505-0143504/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WISE J033605.05-014350.4",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248927
+    ],
+    "exo_id": "WISE_J033605.05-014350.4",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": "",
+    "st_j": "",
+    "st_mass": 0.0131,
+    "dec": -1.7306944,
+    "st_teff": 415,
+    "st_rad": "",
+    "ra": 54.0210417,
+    "system_radius": 145109933.9,
+    "pl_hostname": "WISE_J033605.05-014350.4",
+    "stellar_type": "Y",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264507",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248927"
+      }
+    ]
+  }
+}

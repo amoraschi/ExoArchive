@@ -1,1 +1,81 @@
-{"id":260675,"date":"2023-11-28T20:28:41","date_gmt":"2023-11-29T01:28:41","modified":"2025-04-23T05:53:32","modified_gmt":"2025-04-23T09:53:32","slug":"hd_96700","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_96700/","featured_media":0,"categories":[],"acf":{"display_name":"HD 96700","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244613,244614,244615],"exo_id":"HD_96700","st_optmag":6.51,"st_vj":6.51,"st_dist":25.4111,"st_j":6.51,"st_mass":0.89,"dec":-30.1751383,"st_teff":5845,"st_rad":1.16,"ra":166.9742616,"system_radius":63429496.88,"pl_hostname":"HD_96700","stellar_type":"G","tic_id":"TIC 23270430","magnitude":6.51},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260675","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244615"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244614"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244613"}]}}
+{
+  "id": 260675,
+  "date": "2023-11-28T20:28:41",
+  "date_gmt": "2023-11-29T01:28:41",
+  "modified": "2025-04-23T05:53:32",
+  "modified_gmt": "2025-04-23T09:53:32",
+  "slug": "hd_96700",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_96700/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 96700",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244613,
+      244614,
+      244615
+    ],
+    "exo_id": "HD_96700",
+    "st_optmag": 6.51,
+    "st_vj": 6.51,
+    "st_dist": 25.4111,
+    "st_j": 6.51,
+    "st_mass": 0.89,
+    "dec": -30.1751383,
+    "st_teff": 5845,
+    "st_rad": 1.16,
+    "ra": 166.9742616,
+    "system_radius": 63429496.88,
+    "pl_hostname": "HD_96700",
+    "stellar_type": "G",
+    "tic_id": "TIC 23270430",
+    "magnitude": 6.51
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260675",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244615"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244614"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244613"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244625,"date":"2019-04-22T16:48:41","date_gmt":"2019-04-22T20:48:41","modified":"2025-07-07T20:44:13","modified_gmt":"2025-07-08T00:44:13","slug":"hd-99492-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-99492-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_99492","pl_letter":"b","display_name":"HD 99492 b","planet_radius":"0.486 x Jupiter (estimate)","derived_description":"HD 99492 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 25.5 Earths, it takes 17.1 days to complete one orbit of its star, and is 0.12 AU from its star. Its discovery was announced in 2004.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":18.2038,"planet_mass":"25.5 Earths","st_optmag":7.56727,"discovery_date":"2004","pl_orbsmax":0.12,"period_display":"17.1 days","eccentricity":"0.03","star_id":260398,"pl_orbper":17.0503,"pl_kepflag":false,"pl_radj":0.486,"pl_disc":2004,"pl_publ_date":"2004","planet_orbit_period":154.3,"multiple_planet_system":false,"pl_rade":5.44,"exo_id":"HD_99492_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.034},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244625","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260398"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244625,
+  "date": "2019-04-22T16:48:41",
+  "date_gmt": "2019-04-22T20:48:41",
+  "modified": "2025-07-07T20:44:13",
+  "modified_gmt": "2025-07-08T00:44:13",
+  "slug": "hd-99492-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-99492-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_99492",
+    "pl_letter": "b",
+    "display_name": "HD 99492 b",
+    "planet_radius": "0.486 x Jupiter (estimate)",
+    "derived_description": "HD 99492 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 25.5 Earths, it takes 17.1 days to complete one orbit of its star, and is 0.12 AU from its star. Its discovery was announced in 2004.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 18.2038,
+    "planet_mass": "25.5 Earths",
+    "st_optmag": 7.56727,
+    "discovery_date": "2004",
+    "pl_orbsmax": 0.12,
+    "period_display": "17.1 days",
+    "eccentricity": "0.03",
+    "star_id": 260398,
+    "pl_orbper": 17.0503,
+    "pl_kepflag": false,
+    "pl_radj": 0.486,
+    "pl_disc": 2004,
+    "pl_publ_date": "2004",
+    "planet_orbit_period": 154.3,
+    "multiple_planet_system": false,
+    "pl_rade": 5.44,
+    "exo_id": "HD_99492_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.034
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244625",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260398"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

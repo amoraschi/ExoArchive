@@ -1,1 +1,71 @@
-{"id":263885,"date":"2023-11-28T21:09:28","date_gmt":"2023-11-29T02:09:28","modified":"2025-04-23T05:57:10","modified_gmt":"2025-04-23T09:57:10","slug":"hd_88133","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_88133/","featured_media":0,"categories":[],"acf":{"display_name":"HD 88133","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244581],"exo_id":"HD_88133","st_optmag":8.01852,"st_vj":8.01852,"st_dist":73.6123,"st_j":8.01852,"st_mass":1.26,"dec":18.1857284,"st_teff":5392,"st_rad":2.2,"ra":152.5319349,"system_radius":7165737.973,"pl_hostname":"HD_88133","stellar_type":"G","tic_id":"TIC 27073220","magnitude":8.01852},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263885","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244581"}]}}
+{
+  "id": 263885,
+  "date": "2023-11-28T21:09:28",
+  "date_gmt": "2023-11-29T02:09:28",
+  "modified": "2025-04-23T05:57:10",
+  "modified_gmt": "2025-04-23T09:57:10",
+  "slug": "hd_88133",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_88133/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 88133",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244581
+    ],
+    "exo_id": "HD_88133",
+    "st_optmag": 8.01852,
+    "st_vj": 8.01852,
+    "st_dist": 73.6123,
+    "st_j": 8.01852,
+    "st_mass": 1.26,
+    "dec": 18.1857284,
+    "st_teff": 5392,
+    "st_rad": 2.2,
+    "ra": 152.5319349,
+    "system_radius": 7165737.973,
+    "pl_hostname": "HD_88133",
+    "stellar_type": "G",
+    "tic_id": "TIC 27073220",
+    "magnitude": 8.01852
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263885",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244581"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262666,"date":"2023-11-28T20:53:53","date_gmt":"2023-11-29T01:53:53","modified":"2025-04-23T05:56:28","modified_gmt":"2025-04-23T09:56:28","slug":"toi-1696","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1696/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1696","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248479],"exo_id":"TOI-1696","st_optmag":16.82,"st_vj":16.82,"st_dist":64.9172,"st_j":16.82,"st_mass":0.255,"dec":48.8198312,"st_teff":3185,"st_rad":0.2775,"ra":65.280648,"system_radius":3425791.223,"pl_hostname":"TOI-1696","stellar_type":"M","tic_id":"TIC 470381900","magnitude":16.82},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262666","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248479"}]}}
+{
+  "id": 262666,
+  "date": "2023-11-28T20:53:53",
+  "date_gmt": "2023-11-29T01:53:53",
+  "modified": "2025-04-23T05:56:28",
+  "modified_gmt": "2025-04-23T09:56:28",
+  "slug": "toi-1696",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1696/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1696",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248479
+    ],
+    "exo_id": "TOI-1696",
+    "st_optmag": 16.82,
+    "st_vj": 16.82,
+    "st_dist": 64.9172,
+    "st_j": 16.82,
+    "st_mass": 0.255,
+    "dec": 48.8198312,
+    "st_teff": 3185,
+    "st_rad": 0.2775,
+    "ra": 65.280648,
+    "system_radius": 3425791.223,
+    "pl_hostname": "TOI-1696",
+    "stellar_type": "M",
+    "tic_id": "TIC 470381900",
+    "magnitude": 16.82
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262666",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248479"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263234,"date":"2023-11-28T21:01:05","date_gmt":"2023-11-29T02:01:05","modified":"2025-04-23T05:56:11","modified_gmt":"2025-04-23T09:56:11","slug":"toi-905","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-905/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-905","custom_star_title":"","aliases":"","constellation":"Apus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248698],"exo_id":"TOI-905","st_optmag":11.08,"st_vj":11.08,"st_dist":158.649,"st_j":11.08,"st_mass":0.968,"dec":-71.3616316,"st_teff":5570,"st_rad":0.918,"ra":227.6586754,"system_radius":6980236.6142,"pl_hostname":"TOI-905","stellar_type":"G","tic_id":"TIC 261867566","magnitude":11.08},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263234","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248698"}]}}
+{
+  "id": 263234,
+  "date": "2023-11-28T21:01:05",
+  "date_gmt": "2023-11-29T02:01:05",
+  "modified": "2025-04-23T05:56:11",
+  "modified_gmt": "2025-04-23T09:56:11",
+  "slug": "toi-905",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-905/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-905",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Apus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248698
+    ],
+    "exo_id": "TOI-905",
+    "st_optmag": 11.08,
+    "st_vj": 11.08,
+    "st_dist": 158.649,
+    "st_j": 11.08,
+    "st_mass": 0.968,
+    "dec": -71.3616316,
+    "st_teff": 5570,
+    "st_rad": 0.918,
+    "ra": 227.6586754,
+    "system_radius": 6980236.6142,
+    "pl_hostname": "TOI-905",
+    "stellar_type": "G",
+    "tic_id": "TIC 261867566",
+    "magnitude": 11.08
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263234",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248698"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":247352,"date":"2017-10-02T13:33:00","date_gmt":"2017-10-02T17:33:00","modified":"2025-03-28T07:31:10","modified_gmt":"2025-03-28T11:31:10","slug":"kepler-528-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-528-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-528","pl_letter":"b","display_name":"Kepler-528 b","planet_radius":"2.08 x Earth","derived_description":"Kepler-528 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.98 Earths, it takes 19.8 days to complete one orbit of its star, and is 0.14219 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":784.23,"planet_mass":"4.98 Earths","st_optmag":14.064,"discovery_date":"2016","pl_orbsmax":0.14219,"period_display":"19.8 days","eccentricity":"0.0","star_id":262860,"pl_orbper":19.78297415,"pl_kepflag":true,"pl_radj":0.18556517,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.08,"exo_id":"Kepler-528_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247352","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262860"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247352,
+  "date": "2017-10-02T13:33:00",
+  "date_gmt": "2017-10-02T17:33:00",
+  "modified": "2025-03-28T07:31:10",
+  "modified_gmt": "2025-03-28T11:31:10",
+  "slug": "kepler-528-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-528-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-528",
+    "pl_letter": "b",
+    "display_name": "Kepler-528 b",
+    "planet_radius": "2.08 x Earth",
+    "derived_description": "Kepler-528 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.98 Earths, it takes 19.8 days to complete one orbit of its star, and is 0.14219 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 784.23,
+    "planet_mass": "4.98 Earths",
+    "st_optmag": 14.064,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.14219,
+    "period_display": "19.8 days",
+    "eccentricity": "0.0",
+    "star_id": 262860,
+    "pl_orbper": 19.78297415,
+    "pl_kepflag": true,
+    "pl_radj": 0.18556517,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.08,
+    "exo_id": "Kepler-528_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247352",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262860"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260508,"date":"2023-11-28T20:26:40","date_gmt":"2023-11-29T01:26:40","modified":"2025-04-23T05:55:10","modified_gmt":"2025-04-23T09:55:10","slug":"toi-150","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-150/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-150","custom_star_title":"","aliases":"","constellation":"Volans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248462],"exo_id":"TOI-150","st_optmag":11.39,"st_vj":11.39,"st_dist":336.267,"st_j":11.39,"st_mass":1.351,"dec":-73.6060358,"st_teff":6255,"st_rad":1.526,"ra":112.965421,"system_radius":10527202.1119,"pl_hostname":"TOI-150","stellar_type":"F","tic_id":"TIC 271893367","magnitude":11.39},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260508","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248462"}]}}
+{
+  "id": 260508,
+  "date": "2023-11-28T20:26:40",
+  "date_gmt": "2023-11-29T01:26:40",
+  "modified": "2025-04-23T05:55:10",
+  "modified_gmt": "2025-04-23T09:55:10",
+  "slug": "toi-150",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-150/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-150",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248462
+    ],
+    "exo_id": "TOI-150",
+    "st_optmag": 11.39,
+    "st_vj": 11.39,
+    "st_dist": 336.267,
+    "st_j": 11.39,
+    "st_mass": 1.351,
+    "dec": -73.6060358,
+    "st_teff": 6255,
+    "st_rad": 1.526,
+    "ra": 112.965421,
+    "system_radius": 10527202.1119,
+    "pl_hostname": "TOI-150",
+    "stellar_type": "F",
+    "tic_id": "TIC 271893367",
+    "magnitude": 11.39
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260508",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248462"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262759,"date":"2023-11-28T20:55:04","date_gmt":"2023-11-29T01:55:04","modified":"2025-04-23T05:56:16","modified_gmt":"2025-04-23T09:56:16","slug":"k2-8","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-8/","featured_media":0,"categories":[],"acf":{"display_name":"K2-8","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245193,245194],"exo_id":"K2-8","st_optmag":14.801,"st_vj":14.801,"st_dist":403.513,"st_j":14.801,"st_mass":0.78,"dec":-0.2844389,"st_teff":4870,"st_rad":0.74,"ra":169.7935178,"system_radius":12805577.672,"pl_hostname":"K2-8","stellar_type":"K","tic_id":"TIC 38114658","magnitude":14.801},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262759","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245194"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245193"}]}}
+{
+  "id": 262759,
+  "date": "2023-11-28T20:55:04",
+  "date_gmt": "2023-11-29T01:55:04",
+  "modified": "2025-04-23T05:56:16",
+  "modified_gmt": "2025-04-23T09:56:16",
+  "slug": "k2-8",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-8/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-8",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245193,
+      245194
+    ],
+    "exo_id": "K2-8",
+    "st_optmag": 14.801,
+    "st_vj": 14.801,
+    "st_dist": 403.513,
+    "st_j": 14.801,
+    "st_mass": 0.78,
+    "dec": -0.2844389,
+    "st_teff": 4870,
+    "st_rad": 0.74,
+    "ra": 169.7935178,
+    "system_radius": 12805577.672,
+    "pl_hostname": "K2-8",
+    "stellar_type": "K",
+    "tic_id": "TIC 38114658",
+    "magnitude": 14.801
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262759",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245194"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245193"
+      }
+    ]
+  }
+}

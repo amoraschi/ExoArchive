@@ -1,1 +1,71 @@
-{"id":261428,"date":"2023-11-28T20:38:14","date_gmt":"2023-11-29T01:38:14","modified":"2025-04-23T05:57:19","modified_gmt":"2025-04-23T09:57:19","slug":"kepler-1367","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1367/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1367","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245745],"exo_id":"Kepler-1367","st_optmag":16.012,"st_vj":16.012,"st_dist":401.484,"st_j":16.012,"st_mass":0.62,"dec":47.8787308,"st_teff":4106,"st_rad":0.6,"ra":288.4166786,"system_radius":3530509.732,"pl_hostname":"Kepler-1367","stellar_type":"K","tic_id":"TIC 158731868","magnitude":16.012},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261428","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245745"}]}}
+{
+  "id": 261428,
+  "date": "2023-11-28T20:38:14",
+  "date_gmt": "2023-11-29T01:38:14",
+  "modified": "2025-04-23T05:57:19",
+  "modified_gmt": "2025-04-23T09:57:19",
+  "slug": "kepler-1367",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1367/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1367",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245745
+    ],
+    "exo_id": "Kepler-1367",
+    "st_optmag": 16.012,
+    "st_vj": 16.012,
+    "st_dist": 401.484,
+    "st_j": 16.012,
+    "st_mass": 0.62,
+    "dec": 47.8787308,
+    "st_teff": 4106,
+    "st_rad": 0.6,
+    "ra": 288.4166786,
+    "system_radius": 3530509.732,
+    "pl_hostname": "Kepler-1367",
+    "stellar_type": "K",
+    "tic_id": "TIC 158731868",
+    "magnitude": 16.012
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261428",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245745"
+      }
+    ]
+  }
+}

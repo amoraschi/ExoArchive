@@ -1,1 +1,71 @@
-{"id":264003,"date":"2023-11-28T21:10:57","date_gmt":"2023-11-29T02:10:57","modified":"2025-04-23T05:56:39","modified_gmt":"2025-04-23T09:56:39","slug":"kepler-1856","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1856/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1856","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246408],"exo_id":"Kepler-1856","st_optmag":15.621,"st_vj":15.621,"st_dist":848.76,"st_j":15.621,"st_mass":0.782,"dec":51.3478777,"st_teff":4948,"st_rad":0.816,"ra":295.9091695,"system_radius":3216354.205,"pl_hostname":"Kepler-1856","stellar_type":"K","tic_id":"TIC 27687265","magnitude":15.621},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264003","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246408"}]}}
+{
+  "id": 264003,
+  "date": "2023-11-28T21:10:57",
+  "date_gmt": "2023-11-29T02:10:57",
+  "modified": "2025-04-23T05:56:39",
+  "modified_gmt": "2025-04-23T09:56:39",
+  "slug": "kepler-1856",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1856/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1856",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246408
+    ],
+    "exo_id": "Kepler-1856",
+    "st_optmag": 15.621,
+    "st_vj": 15.621,
+    "st_dist": 848.76,
+    "st_j": 15.621,
+    "st_mass": 0.782,
+    "dec": 51.3478777,
+    "st_teff": 4948,
+    "st_rad": 0.816,
+    "ra": 295.9091695,
+    "system_radius": 3216354.205,
+    "pl_hostname": "Kepler-1856",
+    "stellar_type": "K",
+    "tic_id": "TIC 27687265",
+    "magnitude": 15.621
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264003",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246408"
+      }
+    ]
+  }
+}

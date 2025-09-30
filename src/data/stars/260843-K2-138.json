@@ -1,1 +1,96 @@
-{"id":260843,"date":"2023-11-28T20:30:48","date_gmt":"2023-11-29T01:30:48","modified":"2025-04-23T05:53:16","modified_gmt":"2025-04-23T09:53:16","slug":"k2-138","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-138/","featured_media":0,"categories":[],"acf":{"display_name":"K2-138","custom_star_title":"","aliases":"","constellation":"Aquarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244767,"1":244762,"2":244763,"3":244764,"4":244765,"5":244766},"exo_id":"K2-138","st_optmag":12.246,"st_vj":12.246,"st_dist":202.585,"st_j":12.246,"st_mass":0.935,"dec":-10.8497391,"st_teff":5356.3,"st_rad":0.863,"ra":348.9490311,"system_radius":34570571.7783,"pl_hostname":"K2-138","stellar_type":"G","tic_id":"TIC 4610830","magnitude":12.246},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260843","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244767"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244766"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244765"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244764"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244763"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244762"}]}}
+{
+  "id": 260843,
+  "date": "2023-11-28T20:30:48",
+  "date_gmt": "2023-11-29T01:30:48",
+  "modified": "2025-04-23T05:53:16",
+  "modified_gmt": "2025-04-23T09:53:16",
+  "slug": "k2-138",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-138/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-138",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244767,
+      "1": 244762,
+      "2": 244763,
+      "3": 244764,
+      "4": 244765,
+      "5": 244766
+    },
+    "exo_id": "K2-138",
+    "st_optmag": 12.246,
+    "st_vj": 12.246,
+    "st_dist": 202.585,
+    "st_j": 12.246,
+    "st_mass": 0.935,
+    "dec": -10.8497391,
+    "st_teff": 5356.3,
+    "st_rad": 0.863,
+    "ra": 348.9490311,
+    "system_radius": 34570571.7783,
+    "pl_hostname": "K2-138",
+    "stellar_type": "G",
+    "tic_id": "TIC 4610830",
+    "magnitude": 12.246
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260843",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244767"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244766"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244765"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244764"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244763"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244762"
+      }
+    ]
+  }
+}

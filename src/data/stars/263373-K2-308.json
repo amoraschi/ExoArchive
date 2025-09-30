@@ -1,1 +1,71 @@
-{"id":263373,"date":"2023-11-28T21:02:50","date_gmt":"2023-11-29T02:02:50","modified":"2025-04-23T05:53:18","modified_gmt":"2025-04-23T09:53:18","slug":"k2-308","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-308/","featured_media":0,"categories":[],"acf":{"display_name":"K2-308","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244991],"exo_id":"K2-308","st_optmag":15.072,"st_vj":15.072,"st_dist":1314.53,"st_j":15.072,"st_mass":1.09,"dec":16.4141986,"st_teff":6100,"st_rad":1.24,"ra":78.3391194,"system_radius":149597870,"pl_hostname":"K2-308","stellar_type":"F","tic_id":"TIC 411697517","magnitude":15.072},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263373","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244991"}]}}
+{
+  "id": 263373,
+  "date": "2023-11-28T21:02:50",
+  "date_gmt": "2023-11-29T02:02:50",
+  "modified": "2025-04-23T05:53:18",
+  "modified_gmt": "2025-04-23T09:53:18",
+  "slug": "k2-308",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-308/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-308",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244991
+    ],
+    "exo_id": "K2-308",
+    "st_optmag": 15.072,
+    "st_vj": 15.072,
+    "st_dist": 1314.53,
+    "st_j": 15.072,
+    "st_mass": 1.09,
+    "dec": 16.4141986,
+    "st_teff": 6100,
+    "st_rad": 1.24,
+    "ra": 78.3391194,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-308",
+    "stellar_type": "F",
+    "tic_id": "TIC 411697517",
+    "magnitude": 15.072
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263373",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244991"
+      }
+    ]
+  }
+}

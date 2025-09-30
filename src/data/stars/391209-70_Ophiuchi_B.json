@@ -1,1 +1,69 @@
-{"id":391209,"date":"2024-04-30T20:01:19","date_gmt":"2024-05-01T00:01:19","modified":"2025-04-23T05:57:29","modified_gmt":"2025-04-23T09:57:29","slug":"70-ophiuchi-b","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/70-ophiuchi-b/","featured_media":429649,"categories":[],"acf":{"display_name":"70 Ophiuchi B","custom_star_title":"","aliases":"HD 165341 B,HR 6752 B,GJ 702B","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"70_Ophiuchi_B","st_optmag":6.061,"st_vj":6.061,"st_dist":5.1225,"st_j":6.061,"st_mass":0.78,"dec":2.498947,"st_teff":4475,"st_rad":0.674,"ra":271.3644289,"system_radius":149597870,"pl_hostname":"70_Ophiuchi_B","stellar_type":"K","tic_id":"TIC 398120047","magnitude":6.1},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391209","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391209,
+  "date": "2024-04-30T20:01:19",
+  "date_gmt": "2024-05-01T00:01:19",
+  "modified": "2025-04-23T05:57:29",
+  "modified_gmt": "2025-04-23T09:57:29",
+  "slug": "70-ophiuchi-b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/70-ophiuchi-b/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "70 Ophiuchi B",
+    "custom_star_title": "",
+    "aliases": "HD 165341 B,HR 6752 B,GJ 702B",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "70_Ophiuchi_B",
+    "st_optmag": 6.061,
+    "st_vj": 6.061,
+    "st_dist": 5.1225,
+    "st_j": 6.061,
+    "st_mass": 0.78,
+    "dec": 2.498947,
+    "st_teff": 4475,
+    "st_rad": 0.674,
+    "ra": 271.3644289,
+    "system_radius": 149597870,
+    "pl_hostname": "70_Ophiuchi_B",
+    "stellar_type": "K",
+    "tic_id": "TIC 398120047",
+    "magnitude": 6.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391209",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

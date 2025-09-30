@@ -1,1 +1,76 @@
-{"id":263951,"date":"2023-11-28T21:10:18","date_gmt":"2023-11-29T02:10:18","modified":"2025-04-23T05:53:42","modified_gmt":"2025-04-23T09:53:42","slug":"k2-146","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-146/","featured_media":0,"categories":[],"acf":{"display_name":"K2-146","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244774,"1":244773},"exo_id":"K2-146","st_optmag":16.7,"st_vj":16.7,"st_dist":79.3002,"st_j":16.7,"st_mass":0.331,"dec":19.0923416,"st_teff":3385,"st_rad":0.33,"ra":130.0266951,"system_radius":4891850.349,"pl_hostname":"K2-146","stellar_type":"M","tic_id":"TIC 175261852","magnitude":16.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263951","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244774"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244773"}]}}
+{
+  "id": 263951,
+  "date": "2023-11-28T21:10:18",
+  "date_gmt": "2023-11-29T02:10:18",
+  "modified": "2025-04-23T05:53:42",
+  "modified_gmt": "2025-04-23T09:53:42",
+  "slug": "k2-146",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-146/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-146",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244774,
+      "1": 244773
+    },
+    "exo_id": "K2-146",
+    "st_optmag": 16.7,
+    "st_vj": 16.7,
+    "st_dist": 79.3002,
+    "st_j": 16.7,
+    "st_mass": 0.331,
+    "dec": 19.0923416,
+    "st_teff": 3385,
+    "st_rad": 0.33,
+    "ra": 130.0266951,
+    "system_radius": 4891850.349,
+    "pl_hostname": "K2-146",
+    "stellar_type": "M",
+    "tic_id": "TIC 175261852",
+    "magnitude": 16.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263951",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244774"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244773"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":439621,"date":"2024-12-13T01:15:39","date_gmt":"2024-12-13T06:15:39","modified":"2025-04-25T05:59:14","modified_gmt":"2025-04-25T09:59:14","slug":"toi-1768","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1768/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1768","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[439658],"exo_id":"TOI-1768","st_optmag":10.419,"st_vj":10.419,"st_dist":157.597,"st_j":10.419,"st_mass":1.1,"dec":55.5399599,"st_teff":5994,"st_rad":1.1,"ra":152.1027826,"system_radius":11426434.90847,"pl_hostname":"TOI-1768","stellar_type":"F","tic_id":"TIC 137906197","magnitude":10.419},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/439621","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439658"}]}}
+{
+  "id": 439621,
+  "date": "2024-12-13T01:15:39",
+  "date_gmt": "2024-12-13T06:15:39",
+  "modified": "2025-04-25T05:59:14",
+  "modified_gmt": "2025-04-25T09:59:14",
+  "slug": "toi-1768",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1768/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1768",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      439658
+    ],
+    "exo_id": "TOI-1768",
+    "st_optmag": 10.419,
+    "st_vj": 10.419,
+    "st_dist": 157.597,
+    "st_j": 10.419,
+    "st_mass": 1.1,
+    "dec": 55.5399599,
+    "st_teff": 5994,
+    "st_rad": 1.1,
+    "ra": 152.1027826,
+    "system_radius": 11426434.90847,
+    "pl_hostname": "TOI-1768",
+    "stellar_type": "F",
+    "tic_id": "TIC 137906197",
+    "magnitude": 10.419
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439621",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439658"
+      }
+    ]
+  }
+}

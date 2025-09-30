@@ -1,1 +1,71 @@
-{"id":261125,"date":"2023-11-28T20:34:22","date_gmt":"2023-11-29T01:34:22","modified":"2025-04-23T05:53:26","modified_gmt":"2025-04-23T09:53:26","slug":"hat-p-18","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-18/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-18","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243732],"exo_id":"HAT-P-18","st_optmag":12.597,"st_vj":12.597,"st_dist":161.4,"st_j":12.597,"st_mass":0.77,"dec":33.0123251,"st_teff":4803,"st_rad":0.749,"ra":256.346376,"system_radius":8362520.933,"pl_hostname":"HAT-P-18","stellar_type":"K","tic_id":"TIC 21744120","magnitude":12.597},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261125","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243732"}]}}
+{
+  "id": 261125,
+  "date": "2023-11-28T20:34:22",
+  "date_gmt": "2023-11-29T01:34:22",
+  "modified": "2025-04-23T05:53:26",
+  "modified_gmt": "2025-04-23T09:53:26",
+  "slug": "hat-p-18",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-18/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-18",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243732
+    ],
+    "exo_id": "HAT-P-18",
+    "st_optmag": 12.597,
+    "st_vj": 12.597,
+    "st_dist": 161.4,
+    "st_j": 12.597,
+    "st_mass": 0.77,
+    "dec": 33.0123251,
+    "st_teff": 4803,
+    "st_rad": 0.749,
+    "ra": 256.346376,
+    "system_radius": 8362520.933,
+    "pl_hostname": "HAT-P-18",
+    "stellar_type": "K",
+    "tic_id": "TIC 21744120",
+    "magnitude": 12.597
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261125",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243732"
+      }
+    ]
+  }
+}

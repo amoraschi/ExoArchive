@@ -1,1 +1,91 @@
-{"id":261595,"date":"2023-11-28T20:40:19","date_gmt":"2023-11-29T01:40:19","modified":"2025-08-14T21:14:07","modified_gmt":"2025-08-15T01:14:07","slug":"kepler-238","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-238/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-238","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246720,246721,246722,246723,246724],"exo_id":"Kepler-238","st_optmag":15.297,"st_vj":15.297,"st_dist":1798.75,"st_j":15.297,"st_mass":1.06,"dec":40.6378141,"st_teff":5800,"st_rad":0.96,"ra":287.8971066,"system_radius":42837350.0745,"pl_hostname":"Kepler-238","stellar_type":"G","tic_id":"TIC 121460918","magnitude":15.297},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261595","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246724"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246723"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246722"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246721"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246720"}]}}
+{
+  "id": 261595,
+  "date": "2023-11-28T20:40:19",
+  "date_gmt": "2023-11-29T01:40:19",
+  "modified": "2025-08-14T21:14:07",
+  "modified_gmt": "2025-08-15T01:14:07",
+  "slug": "kepler-238",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-238/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-238",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246720,
+      246721,
+      246722,
+      246723,
+      246724
+    ],
+    "exo_id": "Kepler-238",
+    "st_optmag": 15.297,
+    "st_vj": 15.297,
+    "st_dist": 1798.75,
+    "st_j": 15.297,
+    "st_mass": 1.06,
+    "dec": 40.6378141,
+    "st_teff": 5800,
+    "st_rad": 0.96,
+    "ra": 287.8971066,
+    "system_radius": 42837350.0745,
+    "pl_hostname": "Kepler-238",
+    "stellar_type": "G",
+    "tic_id": "TIC 121460918",
+    "magnitude": 15.297
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261595",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246724"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246723"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246722"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246721"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246720"
+      }
+    ]
+  }
+}

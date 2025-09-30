@@ -1,1 +1,71 @@
-{"id":262373,"date":"2023-11-28T20:50:09","date_gmt":"2023-11-29T01:50:09","modified":"2025-04-23T05:54:01","modified_gmt":"2025-04-23T09:54:01","slug":"l_168-9","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/l_168-9/","featured_media":0,"categories":[],"acf":{"display_name":"L 168-9","custom_star_title":"","aliases":"","constellation":"Tucana","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248129],"exo_id":"L_168-9","st_optmag":11.005,"st_vj":11.005,"st_dist":25.1496,"st_j":11.005,"st_mass":0.614,"dec":-60.0657292,"st_teff":3842,"st_rad":0.604,"ra":350.0285917,"system_radius":3111635.696,"pl_hostname":"L_168-9","stellar_type":"M","tic_id":"TIC 234994474","magnitude":11.005},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262373","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248129"}]}}
+{
+  "id": 262373,
+  "date": "2023-11-28T20:50:09",
+  "date_gmt": "2023-11-29T01:50:09",
+  "modified": "2025-04-23T05:54:01",
+  "modified_gmt": "2025-04-23T09:54:01",
+  "slug": "l_168-9",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/l_168-9/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "L 168-9",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Tucana",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248129
+    ],
+    "exo_id": "L_168-9",
+    "st_optmag": 11.005,
+    "st_vj": 11.005,
+    "st_dist": 25.1496,
+    "st_j": 11.005,
+    "st_mass": 0.614,
+    "dec": -60.0657292,
+    "st_teff": 3842,
+    "st_rad": 0.604,
+    "ra": 350.0285917,
+    "system_radius": 3111635.696,
+    "pl_hostname": "L_168-9",
+    "stellar_type": "M",
+    "tic_id": "TIC 234994474",
+    "magnitude": 11.005
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262373",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248129"
+      }
+    ]
+  }
+}

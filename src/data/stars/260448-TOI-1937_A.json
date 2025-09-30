@@ -1,1 +1,71 @@
-{"id":260448,"date":"2023-11-28T20:25:54","date_gmt":"2023-11-29T01:25:54","modified":"2025-04-23T05:57:00","modified_gmt":"2025-04-23T09:57:00","slug":"toi-1937_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1937_a/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1937 A","custom_star_title":"","aliases":"","constellation":"Carina","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248504],"exo_id":"TOI-1937_A","st_optmag":13.18,"st_vj":13.18,"st_dist":415.135,"st_j":13.18,"st_mass":1.072,"dec":-52.3832587,"st_teff":5814,"st_rad":1.08,"ra":116.3707214,"system_radius":2890230.8484,"pl_hostname":"TOI-1937_A","stellar_type":"G","tic_id":"TIC 268301217","magnitude":13.18},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260448","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248504"}]}}
+{
+  "id": 260448,
+  "date": "2023-11-28T20:25:54",
+  "date_gmt": "2023-11-29T01:25:54",
+  "modified": "2025-04-23T05:57:00",
+  "modified_gmt": "2025-04-23T09:57:00",
+  "slug": "toi-1937_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1937_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1937 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248504
+    ],
+    "exo_id": "TOI-1937_A",
+    "st_optmag": 13.18,
+    "st_vj": 13.18,
+    "st_dist": 415.135,
+    "st_j": 13.18,
+    "st_mass": 1.072,
+    "dec": -52.3832587,
+    "st_teff": 5814,
+    "st_rad": 1.08,
+    "ra": 116.3707214,
+    "system_radius": 2890230.8484,
+    "pl_hostname": "TOI-1937_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 268301217",
+    "magnitude": 13.18
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260448",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248504"
+      }
+    ]
+  }
+}

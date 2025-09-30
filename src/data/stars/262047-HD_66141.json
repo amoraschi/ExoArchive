@@ -1,1 +1,71 @@
-{"id":262047,"date":"2023-11-28T20:46:02","date_gmt":"2023-11-29T01:46:02","modified":"2025-04-23T05:55:20","modified_gmt":"2025-04-23T09:55:20","slug":"hd_66141","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_66141/","featured_media":0,"categories":[],"acf":{"display_name":"HD 66141","custom_star_title":"","aliases":"","constellation":"Canis Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244505],"exo_id":"HD_66141","st_optmag":4.37821,"st_vj":4.37821,"st_dist":68.1509,"st_j":4.37821,"st_mass":1.1,"dec":2.3350265,"st_teff":4323,"st_rad":21.4,"ra":120.5662825,"system_radius":179517444,"pl_hostname":"HD_66141","stellar_type":"K","tic_id":"TIC 452867458","magnitude":4.37821},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262047","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244505"}]}}
+{
+  "id": 262047,
+  "date": "2023-11-28T20:46:02",
+  "date_gmt": "2023-11-29T01:46:02",
+  "modified": "2025-04-23T05:55:20",
+  "modified_gmt": "2025-04-23T09:55:20",
+  "slug": "hd_66141",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_66141/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 66141",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244505
+    ],
+    "exo_id": "HD_66141",
+    "st_optmag": 4.37821,
+    "st_vj": 4.37821,
+    "st_dist": 68.1509,
+    "st_j": 4.37821,
+    "st_mass": 1.1,
+    "dec": 2.3350265,
+    "st_teff": 4323,
+    "st_rad": 21.4,
+    "ra": 120.5662825,
+    "system_radius": 179517444,
+    "pl_hostname": "HD_66141",
+    "stellar_type": "K",
+    "tic_id": "TIC 452867458",
+    "magnitude": 4.37821
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262047",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244505"
+      }
+    ]
+  }
+}

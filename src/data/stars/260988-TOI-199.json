@@ -1,1 +1,76 @@
-{"id":260988,"date":"2023-11-28T20:32:38","date_gmt":"2023-11-29T01:32:38","modified":"2025-04-23T05:56:14","modified_gmt":"2025-04-23T09:56:14","slug":"toi-199","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-199/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-199","custom_star_title":"","aliases":"","constellation":"Dorado","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248506,248507],"exo_id":"TOI-199","st_optmag":10.701,"st_vj":10.701,"st_dist":102.27,"st_j":10.701,"st_mass":0.936,"dec":-59.8954326,"st_teff":5255,"st_rad":0.82,"ra":80.1058735,"system_radius":120725481.09,"pl_hostname":"TOI-199","stellar_type":"K","tic_id":"TIC 309792357","magnitude":10.701},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260988","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248507"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248506"}]}}
+{
+  "id": 260988,
+  "date": "2023-11-28T20:32:38",
+  "date_gmt": "2023-11-29T01:32:38",
+  "modified": "2025-04-23T05:56:14",
+  "modified_gmt": "2025-04-23T09:56:14",
+  "slug": "toi-199",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-199/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-199",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Dorado",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248506,
+      248507
+    ],
+    "exo_id": "TOI-199",
+    "st_optmag": 10.701,
+    "st_vj": 10.701,
+    "st_dist": 102.27,
+    "st_j": 10.701,
+    "st_mass": 0.936,
+    "dec": -59.8954326,
+    "st_teff": 5255,
+    "st_rad": 0.82,
+    "ra": 80.1058735,
+    "system_radius": 120725481.09,
+    "pl_hostname": "TOI-199",
+    "stellar_type": "K",
+    "tic_id": "TIC 309792357",
+    "magnitude": 10.701
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260988",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248507"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248506"
+      }
+    ]
+  }
+}

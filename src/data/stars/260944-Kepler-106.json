@@ -1,1 +1,86 @@
-{"id":260944,"date":"2023-11-28T20:32:05","date_gmt":"2023-11-29T01:32:05","modified":"2025-04-23T05:53:56","modified_gmt":"2025-04-23T09:53:56","slug":"kepler-106","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-106/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-106","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245323,"1":245326,"2":245324,"3":245325},"exo_id":"Kepler-106","st_optmag":12.923,"st_vj":12.923,"st_dist":444.322,"st_j":12.923,"st_mass":1,"dec":44.3375497,"st_teff":5858,"st_rad":1.04,"ra":300.864006,"system_radius":35912464.6722,"pl_hostname":"Kepler-106","stellar_type":"G","tic_id":"TIC 184997417","magnitude":12.923},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260944","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245326"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245325"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245324"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245323"}]}}
+{
+  "id": 260944,
+  "date": "2023-11-28T20:32:05",
+  "date_gmt": "2023-11-29T01:32:05",
+  "modified": "2025-04-23T05:53:56",
+  "modified_gmt": "2025-04-23T09:53:56",
+  "slug": "kepler-106",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-106/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-106",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245323,
+      "1": 245326,
+      "2": 245324,
+      "3": 245325
+    },
+    "exo_id": "Kepler-106",
+    "st_optmag": 12.923,
+    "st_vj": 12.923,
+    "st_dist": 444.322,
+    "st_j": 12.923,
+    "st_mass": 1,
+    "dec": 44.3375497,
+    "st_teff": 5858,
+    "st_rad": 1.04,
+    "ra": 300.864006,
+    "system_radius": 35912464.6722,
+    "pl_hostname": "Kepler-106",
+    "stellar_type": "G",
+    "tic_id": "TIC 184997417",
+    "magnitude": 12.923
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260944",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245326"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245325"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245324"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245323"
+      }
+    ]
+  }
+}

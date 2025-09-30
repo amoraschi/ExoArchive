@@ -1,1 +1,79 @@
-{"id":244694,"date":"2022-05-12T13:02:30","date_gmt":"2022-05-12T17:02:30","modified":"2025-07-07T20:36:41","modified_gmt":"2025-07-08T00:36:41","slug":"hip-94235-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-94235-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HIP_94235","pl_letter":"b","display_name":"HIP 94235 b","planet_radius":"0.26764253 x Jupiter","derived_description":"HIP 94235 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 1.19246736 Jupiters, it takes 7.7 days to complete one orbit of its star, and is 0.0787 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":58.5146,"planet_mass":"1.19246736 Jupiters","st_optmag":8.31,"discovery_date":"2022","pl_orbsmax":0.0787,"period_display":"7.7 days","eccentricity":"0.32","star_id":263343,"pl_orbper":7.713057,"pl_kepflag":false,"pl_radj":0.26764253,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":17,"multiple_planet_system":false,"pl_rade":3,"exo_id":"HIP_94235_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.32},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244694","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263343"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244694,
+  "date": "2022-05-12T13:02:30",
+  "date_gmt": "2022-05-12T17:02:30",
+  "modified": "2025-07-07T20:36:41",
+  "modified_gmt": "2025-07-08T00:36:41",
+  "slug": "hip-94235-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-94235-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_94235",
+    "pl_letter": "b",
+    "display_name": "HIP 94235 b",
+    "planet_radius": "0.26764253 x Jupiter",
+    "derived_description": "HIP 94235 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 1.19246736 Jupiters, it takes 7.7 days to complete one orbit of its star, and is 0.0787 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 58.5146,
+    "planet_mass": "1.19246736 Jupiters",
+    "st_optmag": 8.31,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.0787,
+    "period_display": "7.7 days",
+    "eccentricity": "0.32",
+    "star_id": 263343,
+    "pl_orbper": 7.713057,
+    "pl_kepflag": false,
+    "pl_radj": 0.26764253,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 17,
+    "multiple_planet_system": false,
+    "pl_rade": 3,
+    "exo_id": "HIP_94235_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.32
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244694",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263343"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,69 @@
-{"id":391195,"date":"2024-04-30T20:01:18","date_gmt":"2024-05-01T00:01:18","modified":"2025-04-23T05:57:28","modified_gmt":"2025-04-23T09:57:28","slug":"chi-herculis","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/chi-herculis/","featured_media":429648,"categories":[],"acf":{"display_name":"Chi Herculis","custom_star_title":"","aliases":"HD 142373,HR 5914,GJ 602","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Chi_Herculis","st_optmag":4.608,"st_vj":4.608,"st_dist":15.8975,"st_j":4.608,"st_mass":1.08,"dec":42.4515175,"st_teff":5820,"st_rad":1.742,"ra":238.168921,"system_radius":149597870,"pl_hostname":"Chi_Herculis","stellar_type":"G","tic_id":"TIC 157364190","magnitude":4.6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391195","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391195,
+  "date": "2024-04-30T20:01:18",
+  "date_gmt": "2024-05-01T00:01:18",
+  "modified": "2025-04-23T05:57:28",
+  "modified_gmt": "2025-04-23T09:57:28",
+  "slug": "chi-herculis",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/chi-herculis/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Chi Herculis",
+    "custom_star_title": "",
+    "aliases": "HD 142373,HR 5914,GJ 602",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Chi_Herculis",
+    "st_optmag": 4.608,
+    "st_vj": 4.608,
+    "st_dist": 15.8975,
+    "st_j": 4.608,
+    "st_mass": 1.08,
+    "dec": 42.4515175,
+    "st_teff": 5820,
+    "st_rad": 1.742,
+    "ra": 238.168921,
+    "system_radius": 149597870,
+    "pl_hostname": "Chi_Herculis",
+    "stellar_type": "G",
+    "tic_id": "TIC 157364190",
+    "magnitude": 4.6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391195",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263208,"date":"2023-11-28T21:00:46","date_gmt":"2023-11-29T02:00:46","modified":"2025-04-23T05:56:51","modified_gmt":"2025-04-23T09:56:51","slug":"ct_cha","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ct_cha/","featured_media":0,"categories":[],"acf":{"display_name":"CT Chamaleontis","custom_star_title":"","aliases":"","constellation":"Chamaeleon","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243512],"exo_id":"CT_Cha","st_optmag":12.335,"st_vj":12.335,"st_dist":190.72,"st_j":12.335,"st_mass":"","dec":-76.4553693,"st_teff":4403,"st_rad":1.679694,"ra":166.0375038,"system_radius":65823062800,"pl_hostname":"CT_Cha","stellar_type":"K","tic_id":"TIC 454259409","magnitude":12.335},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263208","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243512"}]}}
+{
+  "id": 263208,
+  "date": "2023-11-28T21:00:46",
+  "date_gmt": "2023-11-29T02:00:46",
+  "modified": "2025-04-23T05:56:51",
+  "modified_gmt": "2025-04-23T09:56:51",
+  "slug": "ct_cha",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ct_cha/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CT Chamaleontis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Chamaeleon",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243512
+    ],
+    "exo_id": "CT_Cha",
+    "st_optmag": 12.335,
+    "st_vj": 12.335,
+    "st_dist": 190.72,
+    "st_j": 12.335,
+    "st_mass": "",
+    "dec": -76.4553693,
+    "st_teff": 4403,
+    "st_rad": 1.679694,
+    "ra": 166.0375038,
+    "system_radius": 65823062800,
+    "pl_hostname": "CT_Cha",
+    "stellar_type": "K",
+    "tic_id": "TIC 454259409",
+    "magnitude": 12.335
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263208",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243512"
+      }
+    ]
+  }
+}

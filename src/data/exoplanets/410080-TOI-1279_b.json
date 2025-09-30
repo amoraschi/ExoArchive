@@ -1,1 +1,79 @@
-{"id":410080,"date":"2024-07-25T22:53:13","date_gmt":"2024-07-26T02:53:13","modified":"2025-03-28T07:32:26","modified_gmt":"2025-03-28T11:32:26","slug":"toi-1279-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1279-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1279","pl_letter":"b","display_name":"TOI-1279 b","planet_radius":"2.66146528 x Earth","derived_description":"TOI-1279 b is a super Earth exoplanet that orbits a G-type star. Its mass is 10.6 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.085 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":107.055,"planet_mass":"10.6 Earths","st_optmag":10.714,"discovery_date":"2024","pl_orbsmax":0.085,"period_display":"9.6 days","eccentricity":"0.0","star_id":409970,"pl_orbper":9.61419,"pl_kepflag":false,"pl_radj":0.23744044,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":2.66146528,"exo_id":"TOI-1279_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410080","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/409970"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 410080,
+  "date": "2024-07-25T22:53:13",
+  "date_gmt": "2024-07-26T02:53:13",
+  "modified": "2025-03-28T07:32:26",
+  "modified_gmt": "2025-03-28T11:32:26",
+  "slug": "toi-1279-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1279-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1279",
+    "pl_letter": "b",
+    "display_name": "TOI-1279 b",
+    "planet_radius": "2.66146528 x Earth",
+    "derived_description": "TOI-1279 b is a super Earth exoplanet that orbits a G-type star. Its mass is 10.6 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.085 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 107.055,
+    "planet_mass": "10.6 Earths",
+    "st_optmag": 10.714,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.085,
+    "period_display": "9.6 days",
+    "eccentricity": "0.0",
+    "star_id": 409970,
+    "pl_orbper": 9.61419,
+    "pl_kepflag": false,
+    "pl_radj": 0.23744044,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 2.66146528,
+    "exo_id": "TOI-1279_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410080",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409970"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

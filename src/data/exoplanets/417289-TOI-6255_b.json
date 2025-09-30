@@ -1,1 +1,79 @@
-{"id":417289,"date":"2024-08-21T23:47:29","date_gmt":"2024-08-22T03:47:29","modified":"2025-03-28T07:28:44","modified_gmt":"2025-03-28T11:28:44","slug":"toi-6255-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-6255-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-6255","pl_letter":"b","display_name":"TOI-6255 b","planet_radius":"1.079 x Earth","derived_description":"TOI-6255 b is a super Earth exoplanet that orbits a M-type star. Its mass is 1.44 Earths, it takes 0.2 days to complete one orbit of its star, and is 0.0053145464096393 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":20.3167,"planet_mass":"1.44 Earths","st_optmag":12.747,"discovery_date":"2024","pl_orbsmax":"","period_display":"0.2 days","eccentricity":"0.0","star_id":417283,"pl_orbper":0.23818244,"pl_kepflag":false,"pl_radj":0.0962621,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.079,"exo_id":"TOI-6255_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/417289","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/417283"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 417289,
+  "date": "2024-08-21T23:47:29",
+  "date_gmt": "2024-08-22T03:47:29",
+  "modified": "2025-03-28T07:28:44",
+  "modified_gmt": "2025-03-28T11:28:44",
+  "slug": "toi-6255-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-6255-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-6255",
+    "pl_letter": "b",
+    "display_name": "TOI-6255 b",
+    "planet_radius": "1.079 x Earth",
+    "derived_description": "TOI-6255 b is a super Earth exoplanet that orbits a M-type star. Its mass is 1.44 Earths, it takes 0.2 days to complete one orbit of its star, and is 0.0053145464096393 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 20.3167,
+    "planet_mass": "1.44 Earths",
+    "st_optmag": 12.747,
+    "discovery_date": "2024",
+    "pl_orbsmax": "",
+    "period_display": "0.2 days",
+    "eccentricity": "0.0",
+    "star_id": 417283,
+    "pl_orbper": 0.23818244,
+    "pl_kepflag": false,
+    "pl_radj": 0.0962621,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.079,
+    "exo_id": "TOI-6255_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/417289",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/417283"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

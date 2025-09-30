@@ -1,1 +1,79 @@
-{"id":244192,"date":"2021-11-05T13:34:06","date_gmt":"2021-11-05T17:34:06","modified":"2025-07-07T17:22:35","modified_gmt":"2025-07-07T21:22:35","slug":"hd-189567-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-189567-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_189567","pl_letter":"c","display_name":"HD 189567 c","planet_radius":"0.227 x Jupiter (estimate)","derived_description":"HD 189567 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7 Earths, it takes 33.7 days to complete one orbit of its star, and is 0.197 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":17.9323,"planet_mass":"7 Earths","st_optmag":6.07,"discovery_date":"2021","pl_orbsmax":0.197,"period_display":"33.7 days","eccentricity":"0.16","star_id":260674,"pl_orbper":33.688,"pl_kepflag":false,"pl_radj":0.227,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":219,"multiple_planet_system":false,"pl_rade":2.54,"exo_id":"HD_189567_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.16},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244192","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260674"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244192,
+  "date": "2021-11-05T13:34:06",
+  "date_gmt": "2021-11-05T17:34:06",
+  "modified": "2025-07-07T17:22:35",
+  "modified_gmt": "2025-07-07T21:22:35",
+  "slug": "hd-189567-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-189567-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_189567",
+    "pl_letter": "c",
+    "display_name": "HD 189567 c",
+    "planet_radius": "0.227 x Jupiter (estimate)",
+    "derived_description": "HD 189567 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7 Earths, it takes 33.7 days to complete one orbit of its star, and is 0.197 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 17.9323,
+    "planet_mass": "7 Earths",
+    "st_optmag": 6.07,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.197,
+    "period_display": "33.7 days",
+    "eccentricity": "0.16",
+    "star_id": 260674,
+    "pl_orbper": 33.688,
+    "pl_kepflag": false,
+    "pl_radj": 0.227,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 219,
+    "multiple_planet_system": false,
+    "pl_rade": 2.54,
+    "exo_id": "HD_189567_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.16
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244192",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260674"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

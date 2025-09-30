@@ -1,1 +1,71 @@
-{"id":261779,"date":"2023-11-28T20:42:37","date_gmt":"2023-11-29T01:42:37","modified":"2025-04-23T05:56:46","modified_gmt":"2025-04-23T09:56:46","slug":"kepler-805","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-805/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-805","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247741],"exo_id":"Kepler-805","st_optmag":12.586,"st_vj":12.586,"st_dist":638.49,"st_j":12.586,"st_mass":1.19,"dec":45.053364,"st_teff":6112,"st_rad":1.65,"ra":293.2300178,"system_radius":29698169.1524,"pl_hostname":"Kepler-805","stellar_type":"F","tic_id":"TIC 275573748","magnitude":12.586},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261779","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247741"}]}}
+{
+  "id": 261779,
+  "date": "2023-11-28T20:42:37",
+  "date_gmt": "2023-11-29T01:42:37",
+  "modified": "2025-04-23T05:56:46",
+  "modified_gmt": "2025-04-23T09:56:46",
+  "slug": "kepler-805",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-805/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-805",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247741
+    ],
+    "exo_id": "Kepler-805",
+    "st_optmag": 12.586,
+    "st_vj": 12.586,
+    "st_dist": 638.49,
+    "st_j": 12.586,
+    "st_mass": 1.19,
+    "dec": 45.053364,
+    "st_teff": 6112,
+    "st_rad": 1.65,
+    "ra": 293.2300178,
+    "system_radius": 29698169.1524,
+    "pl_hostname": "Kepler-805",
+    "stellar_type": "F",
+    "tic_id": "TIC 275573748",
+    "magnitude": 12.586
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261779",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247741"
+      }
+    ]
+  }
+}

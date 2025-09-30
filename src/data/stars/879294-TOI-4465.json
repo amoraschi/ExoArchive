@@ -1,1 +1,77 @@
-{"id":879294,"date":"2025-07-17T20:19:08","date_gmt":"2025-07-18T00:19:08","modified":"2025-07-17T20:19:08","modified_gmt":"2025-07-18T00:19:08","slug":"toi-4465","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4465/","featured_media":429648,"categories":[],"acf":{"display_name":"TOI-4465","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[879306],"exo_id":"TOI-4465","st_optmag":10.427,"st_vj":10.427,"st_dist":121.139,"st_j":10.427,"st_mass":0.93,"dec":15.8418856,"st_teff":5545,"st_rad":1.014,"ra":276.1340312,"system_radius":62232713.92,"pl_hostname":"TOI-4465","stellar_type":"G","tic_id":"TIC 157236902","magnitude":10.427},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/879294","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/879306"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 879294,
+  "date": "2025-07-17T20:19:08",
+  "date_gmt": "2025-07-18T00:19:08",
+  "modified": "2025-07-17T20:19:08",
+  "modified_gmt": "2025-07-18T00:19:08",
+  "slug": "toi-4465",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4465/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4465",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      879306
+    ],
+    "exo_id": "TOI-4465",
+    "st_optmag": 10.427,
+    "st_vj": 10.427,
+    "st_dist": 121.139,
+    "st_j": 10.427,
+    "st_mass": 0.93,
+    "dec": 15.8418856,
+    "st_teff": 5545,
+    "st_rad": 1.014,
+    "ra": 276.1340312,
+    "system_radius": 62232713.92,
+    "pl_hostname": "TOI-4465",
+    "stellar_type": "G",
+    "tic_id": "TIC 157236902",
+    "magnitude": 10.427
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/879294",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/879306"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

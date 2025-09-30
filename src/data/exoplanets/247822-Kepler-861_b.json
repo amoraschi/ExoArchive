@@ -1,1 +1,79 @@
-{"id":247822,"date":"2017-10-02T13:32:30","date_gmt":"2017-10-02T17:32:30","modified":"2025-07-07T17:56:54","modified_gmt":"2025-07-07T21:56:54","slug":"kepler-861-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-861-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-861","pl_letter":"b","display_name":"Kepler-861 b","planet_radius":"0.20340798 x Jupiter","derived_description":"Kepler-861 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.82 Earths, it takes 3.9 days to complete one orbit of its star, and is 0.0463 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":850.327,"planet_mass":"5.82 Earths","st_optmag":15.993,"discovery_date":"2016","pl_orbsmax":0.0463,"period_display":"3.9 days","eccentricity":"0.0","star_id":260860,"pl_orbper":3.949631375,"pl_kepflag":true,"pl_radj":0.20340798,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.28,"exo_id":"Kepler-861_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247822","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260860"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247822,
+  "date": "2017-10-02T13:32:30",
+  "date_gmt": "2017-10-02T17:32:30",
+  "modified": "2025-07-07T17:56:54",
+  "modified_gmt": "2025-07-07T21:56:54",
+  "slug": "kepler-861-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-861-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-861",
+    "pl_letter": "b",
+    "display_name": "Kepler-861 b",
+    "planet_radius": "0.20340798 x Jupiter",
+    "derived_description": "Kepler-861 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.82 Earths, it takes 3.9 days to complete one orbit of its star, and is 0.0463 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 850.327,
+    "planet_mass": "5.82 Earths",
+    "st_optmag": 15.993,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0463,
+    "period_display": "3.9 days",
+    "eccentricity": "0.0",
+    "star_id": 260860,
+    "pl_orbper": 3.949631375,
+    "pl_kepflag": true,
+    "pl_radj": 0.20340798,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.28,
+    "exo_id": "Kepler-861_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247822",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260860"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

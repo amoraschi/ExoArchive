@@ -1,1 +1,71 @@
-{"id":263230,"date":"2023-11-28T21:01:02","date_gmt":"2023-11-29T02:01:02","modified":"2025-04-23T05:56:06","modified_gmt":"2025-04-23T09:56:06","slug":"toi-564","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-564/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-564","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248662],"exo_id":"TOI-564","st_optmag":11.097,"st_vj":11.097,"st_dist":199.581,"st_j":11.097,"st_mass":0.998,"dec":-16.0363275,"st_teff":5640,"st_rad":1.088,"ra":130.2951535,"system_radius":4090005.7658,"pl_hostname":"TOI-564","stellar_type":"G","tic_id":"TIC 1003831","magnitude":11.097},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263230","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248662"}]}}
+{
+  "id": 263230,
+  "date": "2023-11-28T21:01:02",
+  "date_gmt": "2023-11-29T02:01:02",
+  "modified": "2025-04-23T05:56:06",
+  "modified_gmt": "2025-04-23T09:56:06",
+  "slug": "toi-564",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-564/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-564",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248662
+    ],
+    "exo_id": "TOI-564",
+    "st_optmag": 11.097,
+    "st_vj": 11.097,
+    "st_dist": 199.581,
+    "st_j": 11.097,
+    "st_mass": 0.998,
+    "dec": -16.0363275,
+    "st_teff": 5640,
+    "st_rad": 1.088,
+    "ra": 130.2951535,
+    "system_radius": 4090005.7658,
+    "pl_hostname": "TOI-564",
+    "stellar_type": "G",
+    "tic_id": "TIC 1003831",
+    "magnitude": 11.097
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263230",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248662"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262994,"date":"2023-11-28T20:58:04","date_gmt":"2023-11-29T01:58:04","modified":"2025-04-23T05:56:39","modified_gmt":"2025-04-23T09:56:39","slug":"hats-71","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-71/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-71","custom_star_title":"","aliases":"","constellation":"Tucana","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243859],"exo_id":"HATS-71","st_optmag":16.437,"st_vj":16.437,"st_dist":140.225,"st_j":16.437,"st_mass":0.4861,"dec":-61.7561333,"st_teff":3405,"st_rad":0.4783,"ra":15.5518893,"system_radius":5602440.2315,"pl_hostname":"HATS-71","stellar_type":"M","tic_id":"TIC 234523599","magnitude":16.437},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262994","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243859"}]}}
+{
+  "id": 262994,
+  "date": "2023-11-28T20:58:04",
+  "date_gmt": "2023-11-29T01:58:04",
+  "modified": "2025-04-23T05:56:39",
+  "modified_gmt": "2025-04-23T09:56:39",
+  "slug": "hats-71",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-71/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-71",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Tucana",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243859
+    ],
+    "exo_id": "HATS-71",
+    "st_optmag": 16.437,
+    "st_vj": 16.437,
+    "st_dist": 140.225,
+    "st_j": 16.437,
+    "st_mass": 0.4861,
+    "dec": -61.7561333,
+    "st_teff": 3405,
+    "st_rad": 0.4783,
+    "ra": 15.5518893,
+    "system_radius": 5602440.2315,
+    "pl_hostname": "HATS-71",
+    "stellar_type": "M",
+    "tic_id": "TIC 234523599",
+    "magnitude": 16.437
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262994",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243859"
+      }
+    ]
+  }
+}

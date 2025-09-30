@@ -1,1 +1,79 @@
-{"id":244284,"date":"2020-12-17T19:17:23","date_gmt":"2020-12-18T00:17:23","modified":"2025-07-07T15:24:22","modified_gmt":"2025-07-07T19:24:22","slug":"hd-216520-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-216520-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_216520","pl_letter":"b","display_name":"HD 216520 b","planet_radius":"0.284 x Jupiter (estimate)","derived_description":"HD 216520 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.26 Earths, it takes 35.5 days to complete one orbit of its star, and is 0.198 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":19.552,"planet_mass":"10.26 Earths","st_optmag":7.53,"discovery_date":"2020","pl_orbsmax":0.198,"period_display":"35.5 days","eccentricity":"0.09","star_id":261558,"pl_orbper":35.45,"pl_kepflag":false,"pl_radj":0.284,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":220.95,"multiple_planet_system":false,"pl_rade":3.18,"exo_id":"HD_216520_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.09},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244284","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261558"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244284,
+  "date": "2020-12-17T19:17:23",
+  "date_gmt": "2020-12-18T00:17:23",
+  "modified": "2025-07-07T15:24:22",
+  "modified_gmt": "2025-07-07T19:24:22",
+  "slug": "hd-216520-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-216520-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_216520",
+    "pl_letter": "b",
+    "display_name": "HD 216520 b",
+    "planet_radius": "0.284 x Jupiter (estimate)",
+    "derived_description": "HD 216520 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.26 Earths, it takes 35.5 days to complete one orbit of its star, and is 0.198 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 19.552,
+    "planet_mass": "10.26 Earths",
+    "st_optmag": 7.53,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.198,
+    "period_display": "35.5 days",
+    "eccentricity": "0.09",
+    "star_id": 261558,
+    "pl_orbper": 35.45,
+    "pl_kepflag": false,
+    "pl_radj": 0.284,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 220.95,
+    "multiple_planet_system": false,
+    "pl_rade": 3.18,
+    "exo_id": "HD_216520_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.09
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244284",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261558"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

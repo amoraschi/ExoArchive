@@ -1,1 +1,71 @@
-{"id":263296,"date":"2023-11-28T21:01:52","date_gmt":"2023-11-29T02:01:52","modified":"2025-04-23T05:56:55","modified_gmt":"2025-04-23T09:56:55","slug":"hats-38","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-38/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-38","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243821],"exo_id":"HATS-38","st_optmag":11.967,"st_vj":11.967,"st_dist":343.525,"st_j":11.967,"st_mass":0.89,"dec":-25.2762982,"st_teff":5732,"st_rad":1.105,"ra":154.2710615,"system_radius":7533748.7332,"pl_hostname":"HATS-38","stellar_type":"G","tic_id":"TIC 168281028","magnitude":11.967},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263296","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243821"}]}}
+{
+  "id": 263296,
+  "date": "2023-11-28T21:01:52",
+  "date_gmt": "2023-11-29T02:01:52",
+  "modified": "2025-04-23T05:56:55",
+  "modified_gmt": "2025-04-23T09:56:55",
+  "slug": "hats-38",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-38/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-38",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243821
+    ],
+    "exo_id": "HATS-38",
+    "st_optmag": 11.967,
+    "st_vj": 11.967,
+    "st_dist": 343.525,
+    "st_j": 11.967,
+    "st_mass": 0.89,
+    "dec": -25.2762982,
+    "st_teff": 5732,
+    "st_rad": 1.105,
+    "ra": 154.2710615,
+    "system_radius": 7533748.7332,
+    "pl_hostname": "HATS-38",
+    "stellar_type": "G",
+    "tic_id": "TIC 168281028",
+    "magnitude": 11.967
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263296",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243821"
+      }
+    ]
+  }
+}

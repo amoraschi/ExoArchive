@@ -1,1 +1,79 @@
-{"id":244028,"date":"2019-04-22T16:49:07","date_gmt":"2019-04-22T20:49:07","modified":"2025-07-07T17:56:33","modified_gmt":"2025-07-07T21:56:33","slug":"hd-141399-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-141399-d/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_141399","pl_letter":"d","display_name":"HD 141399 d","planet_radius":"1.22 x Jupiter (estimate)","derived_description":"HD 141399 d is a gas giant exoplanet that orbits a G-type star. Its mass is 1.18 Jupiters, it takes 2.9 years to complete one orbit of its star, and is 2.09 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":37.0169,"planet_mass":"1.18 Jupiters","st_optmag":7.20856,"discovery_date":"2014","pl_orbsmax":2.09,"period_display":"2.9 years","eccentricity":"0.07","star_id":261146,"pl_orbper":1069.8,"pl_kepflag":false,"pl_radj":1.22,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":-140,"multiple_planet_system":false,"pl_rade":13.7,"exo_id":"HD_141399_d","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.074},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244028","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261146"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244028,
+  "date": "2019-04-22T16:49:07",
+  "date_gmt": "2019-04-22T20:49:07",
+  "modified": "2025-07-07T17:56:33",
+  "modified_gmt": "2025-07-07T21:56:33",
+  "slug": "hd-141399-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-141399-d/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_141399",
+    "pl_letter": "d",
+    "display_name": "HD 141399 d",
+    "planet_radius": "1.22 x Jupiter (estimate)",
+    "derived_description": "HD 141399 d is a gas giant exoplanet that orbits a G-type star. Its mass is 1.18 Jupiters, it takes 2.9 years to complete one orbit of its star, and is 2.09 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 37.0169,
+    "planet_mass": "1.18 Jupiters",
+    "st_optmag": 7.20856,
+    "discovery_date": "2014",
+    "pl_orbsmax": 2.09,
+    "period_display": "2.9 years",
+    "eccentricity": "0.07",
+    "star_id": 261146,
+    "pl_orbper": 1069.8,
+    "pl_kepflag": false,
+    "pl_radj": 1.22,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": -140,
+    "multiple_planet_system": false,
+    "pl_rade": 13.7,
+    "exo_id": "HD_141399_d",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.074
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244028",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261146"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

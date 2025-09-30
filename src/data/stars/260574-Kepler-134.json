@@ -1,1 +1,76 @@
-{"id":260574,"date":"2023-11-28T20:27:30","date_gmt":"2023-11-29T01:27:30","modified":"2025-04-23T05:54:33","modified_gmt":"2025-04-23T09:54:33","slug":"kepler-134","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-134/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-134","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245722,"1":245721},"exo_id":"Kepler-134","st_optmag":12.318,"st_vj":12.318,"st_dist":334.797,"st_j":12.318,"st_mass":0.956,"dec":49.5984448,"st_teff":5983,"st_rad":1.176,"ra":284.7391156,"system_radius":13763004.04,"pl_hostname":"Kepler-134","stellar_type":"F","tic_id":"TIC 48448369","magnitude":12.318},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260574","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245722"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245721"}]}}
+{
+  "id": 260574,
+  "date": "2023-11-28T20:27:30",
+  "date_gmt": "2023-11-29T01:27:30",
+  "modified": "2025-04-23T05:54:33",
+  "modified_gmt": "2025-04-23T09:54:33",
+  "slug": "kepler-134",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-134/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-134",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245722,
+      "1": 245721
+    },
+    "exo_id": "Kepler-134",
+    "st_optmag": 12.318,
+    "st_vj": 12.318,
+    "st_dist": 334.797,
+    "st_j": 12.318,
+    "st_mass": 0.956,
+    "dec": 49.5984448,
+    "st_teff": 5983,
+    "st_rad": 1.176,
+    "ra": 284.7391156,
+    "system_radius": 13763004.04,
+    "pl_hostname": "Kepler-134",
+    "stellar_type": "F",
+    "tic_id": "TIC 48448369",
+    "magnitude": 12.318
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260574",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245722"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245721"
+      }
+    ]
+  }
+}

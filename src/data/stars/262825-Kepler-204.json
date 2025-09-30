@@ -1,1 +1,76 @@
-{"id":262825,"date":"2023-11-28T20:55:56","date_gmt":"2023-11-29T01:55:56","modified":"2025-04-23T05:53:56","modified_gmt":"2025-04-23T09:53:56","slug":"kepler-204","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-204/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-204","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246619,"1":246618},"exo_id":"Kepler-204","st_optmag":13.977,"st_vj":13.977,"st_dist":686.723,"st_j":13.977,"st_mass":1.038,"dec":41.761845,"st_teff":5812,"st_rad":1.238,"ra":285.347162,"system_radius":25880431.51,"pl_hostname":"Kepler-204","stellar_type":"G","tic_id":"TIC 120495446","magnitude":13.977},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262825","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246619"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246618"}]}}
+{
+  "id": 262825,
+  "date": "2023-11-28T20:55:56",
+  "date_gmt": "2023-11-29T01:55:56",
+  "modified": "2025-04-23T05:53:56",
+  "modified_gmt": "2025-04-23T09:53:56",
+  "slug": "kepler-204",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-204/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-204",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246619,
+      "1": 246618
+    },
+    "exo_id": "Kepler-204",
+    "st_optmag": 13.977,
+    "st_vj": 13.977,
+    "st_dist": 686.723,
+    "st_j": 13.977,
+    "st_mass": 1.038,
+    "dec": 41.761845,
+    "st_teff": 5812,
+    "st_rad": 1.238,
+    "ra": 285.347162,
+    "system_radius": 25880431.51,
+    "pl_hostname": "Kepler-204",
+    "stellar_type": "G",
+    "tic_id": "TIC 120495446",
+    "magnitude": 13.977
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262825",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246619"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246618"
+      }
+    ]
+  }
+}

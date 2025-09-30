@@ -1,1 +1,79 @@
-{"id":244899,"date":"2018-02-16T12:26:00","date_gmt":"2018-02-16T17:26:00","modified":"2025-09-17T23:33:30","modified_gmt":"2025-09-18T03:33:30","slug":"k2-229-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-229-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-229","pl_letter":"c","display_name":"K2-229 c","planet_radius":"2.03 x Earth","derived_description":"K2-229 c is a super Earth exoplanet that orbits a G-type star. Its mass is 7 Earths, it takes 8.3 days to complete one orbit of its star, and is 0.0769 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":102.564,"planet_mass":"7 Earths","st_optmag":10.985,"discovery_date":"2018","pl_orbsmax":0.0769,"period_display":"8.3 days","eccentricity":"0.0","star_id":263333,"pl_orbper":8.32727,"pl_kepflag":true,"pl_radj":0.18110447,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.03,"exo_id":"K2-229_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244899","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263333"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244899,
+  "date": "2018-02-16T12:26:00",
+  "date_gmt": "2018-02-16T17:26:00",
+  "modified": "2025-09-17T23:33:30",
+  "modified_gmt": "2025-09-18T03:33:30",
+  "slug": "k2-229-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-229-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-229",
+    "pl_letter": "c",
+    "display_name": "K2-229 c",
+    "planet_radius": "2.03 x Earth",
+    "derived_description": "K2-229 c is a super Earth exoplanet that orbits a G-type star. Its mass is 7 Earths, it takes 8.3 days to complete one orbit of its star, and is 0.0769 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 102.564,
+    "planet_mass": "7 Earths",
+    "st_optmag": 10.985,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.0769,
+    "period_display": "8.3 days",
+    "eccentricity": "0.0",
+    "star_id": 263333,
+    "pl_orbper": 8.32727,
+    "pl_kepflag": true,
+    "pl_radj": 0.18110447,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.03,
+    "exo_id": "K2-229_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244899",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263333"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

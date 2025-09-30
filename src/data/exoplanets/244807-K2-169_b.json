@@ -1,1 +1,79 @@
-{"id":244807,"date":"2018-02-16T12:26:05","date_gmt":"2018-02-16T17:26:05","modified":"2025-07-07T17:23:11","modified_gmt":"2025-07-07T21:23:11","slug":"k2-169-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-169-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-169","pl_letter":"b","display_name":"K2-169 b","planet_radius":"1.27328671 x Earth","derived_description":"K2-169 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.16 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.067013938900212 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":235.867,"planet_mass":"2.16 Earths","st_optmag":12.23,"discovery_date":"2018","pl_orbsmax":"","period_display":"6.4 days","eccentricity":"","star_id":263368,"pl_orbper":6.380803,"pl_kepflag":true,"pl_radj":0.11359503,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.27328671,"exo_id":"K2-169_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244807","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263368"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244807,
+  "date": "2018-02-16T12:26:05",
+  "date_gmt": "2018-02-16T17:26:05",
+  "modified": "2025-07-07T17:23:11",
+  "modified_gmt": "2025-07-07T21:23:11",
+  "slug": "k2-169-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-169-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-169",
+    "pl_letter": "b",
+    "display_name": "K2-169 b",
+    "planet_radius": "1.27328671 x Earth",
+    "derived_description": "K2-169 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.16 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.067013938900212 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 235.867,
+    "planet_mass": "2.16 Earths",
+    "st_optmag": 12.23,
+    "discovery_date": "2018",
+    "pl_orbsmax": "",
+    "period_display": "6.4 days",
+    "eccentricity": "",
+    "star_id": 263368,
+    "pl_orbper": 6.380803,
+    "pl_kepflag": true,
+    "pl_radj": 0.11359503,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.27328671,
+    "exo_id": "K2-169_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244807",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263368"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

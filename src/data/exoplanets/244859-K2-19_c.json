@@ -1,1 +1,79 @@
-{"id":244859,"date":"2017-10-02T13:32:40","date_gmt":"2017-10-02T17:32:40","modified":"2025-07-07T15:25:13","modified_gmt":"2025-07-07T19:25:13","slug":"k2-19-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-19-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-19","pl_letter":"c","display_name":"K2-19 c","planet_radius":"0.36577813 x Jupiter","derived_description":"K2-19 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.8 Earths, it takes 11.9 days to complete one orbit of its star, and is 0.0971 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":289.827,"planet_mass":"10.8 Earths","st_optmag":13.024,"discovery_date":"2015","pl_orbsmax":0.0971,"period_display":"11.9 days","eccentricity":"0.21","star_id":260762,"pl_orbper":11.8993,"pl_kepflag":true,"pl_radj":0.36577813,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":275,"multiple_planet_system":false,"pl_rade":4.1,"exo_id":"K2-19_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.21},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244859","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260762"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244859,
+  "date": "2017-10-02T13:32:40",
+  "date_gmt": "2017-10-02T17:32:40",
+  "modified": "2025-07-07T15:25:13",
+  "modified_gmt": "2025-07-07T19:25:13",
+  "slug": "k2-19-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-19-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-19",
+    "pl_letter": "c",
+    "display_name": "K2-19 c",
+    "planet_radius": "0.36577813 x Jupiter",
+    "derived_description": "K2-19 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.8 Earths, it takes 11.9 days to complete one orbit of its star, and is 0.0971 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 289.827,
+    "planet_mass": "10.8 Earths",
+    "st_optmag": 13.024,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.0971,
+    "period_display": "11.9 days",
+    "eccentricity": "0.21",
+    "star_id": 260762,
+    "pl_orbper": 11.8993,
+    "pl_kepflag": true,
+    "pl_radj": 0.36577813,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 275,
+    "multiple_planet_system": false,
+    "pl_rade": 4.1,
+    "exo_id": "K2-19_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.21
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244859",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260762"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

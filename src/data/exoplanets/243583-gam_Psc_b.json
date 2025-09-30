@@ -1,1 +1,79 @@
-{"id":243583,"date":"2022-01-13T17:04:31","date_gmt":"2022-01-13T22:04:31","modified":"2024-10-24T17:06:28","modified_gmt":"2024-10-24T21:06:28","slug":"gamma-piscium-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gamma-piscium-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"gam_Psc","pl_letter":"b","display_name":"Gamma Piscium b","planet_radius":"1.22 x Jupiter (estimate)","derived_description":"Gamma Piscium b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.34 Jupiters, it takes 1.5 years to complete one orbit of its star, and is 1.32 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Okayama Astrophysical Observatory","st_dist":41.3107,"planet_mass":"1.34 Jupiters","st_optmag":3.69252,"discovery_date":"2021","pl_orbsmax":1.32,"period_display":"1.5 years","eccentricity":"0.2","star_id":264413,"pl_orbper":555.1,"pl_kepflag":false,"pl_radj":1.22,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":44,"multiple_planet_system":false,"pl_rade":13.6,"exo_id":"gam_Psc_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.204},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243583","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264413"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243583,
+  "date": "2022-01-13T17:04:31",
+  "date_gmt": "2022-01-13T22:04:31",
+  "modified": "2024-10-24T17:06:28",
+  "modified_gmt": "2024-10-24T21:06:28",
+  "slug": "gamma-piscium-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gamma-piscium-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "gam_Psc",
+    "pl_letter": "b",
+    "display_name": "Gamma Piscium b",
+    "planet_radius": "1.22 x Jupiter (estimate)",
+    "derived_description": "Gamma Piscium b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.34 Jupiters, it takes 1.5 years to complete one orbit of its star, and is 1.32 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Okayama Astrophysical Observatory",
+    "st_dist": 41.3107,
+    "planet_mass": "1.34 Jupiters",
+    "st_optmag": 3.69252,
+    "discovery_date": "2021",
+    "pl_orbsmax": 1.32,
+    "period_display": "1.5 years",
+    "eccentricity": "0.2",
+    "star_id": 264413,
+    "pl_orbper": 555.1,
+    "pl_kepflag": false,
+    "pl_radj": 1.22,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 44,
+    "multiple_planet_system": false,
+    "pl_rade": 13.6,
+    "exo_id": "gam_Psc_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.204
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243583",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264413"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

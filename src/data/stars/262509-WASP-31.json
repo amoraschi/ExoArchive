@@ -1,1 +1,71 @@
-{"id":262509,"date":"2023-11-28T20:51:53","date_gmt":"2023-11-29T01:51:53","modified":"2025-04-23T05:54:49","modified_gmt":"2025-04-23T09:54:49","slug":"wasp-31","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-31/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-31","custom_star_title":"","aliases":"","constellation":"Crater","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248843],"exo_id":"WASP-31","st_optmag":11.658,"st_vj":11.658,"st_dist":383.829,"st_j":11.658,"st_mass":1.163,"dec":-19.0547781,"st_teff":6302,"st_rad":1.252,"ra":169.4388603,"system_radius":6969764.7633,"pl_hostname":"WASP-31","stellar_type":"F","tic_id":"TIC 437248515","magnitude":11.658},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262509","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248843"}]}}
+{
+  "id": 262509,
+  "date": "2023-11-28T20:51:53",
+  "date_gmt": "2023-11-29T01:51:53",
+  "modified": "2025-04-23T05:54:49",
+  "modified_gmt": "2025-04-23T09:54:49",
+  "slug": "wasp-31",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-31/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-31",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Crater",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248843
+    ],
+    "exo_id": "WASP-31",
+    "st_optmag": 11.658,
+    "st_vj": 11.658,
+    "st_dist": 383.829,
+    "st_j": 11.658,
+    "st_mass": 1.163,
+    "dec": -19.0547781,
+    "st_teff": 6302,
+    "st_rad": 1.252,
+    "ra": 169.4388603,
+    "system_radius": 6969764.7633,
+    "pl_hostname": "WASP-31",
+    "stellar_type": "F",
+    "tic_id": "TIC 437248515",
+    "magnitude": 11.658
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262509",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248843"
+      }
+    ]
+  }
+}

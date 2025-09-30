@@ -1,1 +1,76 @@
-{"id":261229,"date":"2023-11-28T20:35:42","date_gmt":"2023-11-29T01:35:42","modified":"2025-04-23T05:53:26","modified_gmt":"2025-04-23T09:53:26","slug":"k2-407","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-407/","featured_media":0,"categories":[],"acf":{"display_name":"K2-407","custom_star_title":"","aliases":"","constellation":"Libra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245118,245119],"exo_id":"K2-407","st_optmag":11.969,"st_vj":11.969,"st_dist":218.376,"st_j":11.969,"st_mass":0.881,"dec":-23.0067371,"st_teff":5563,"st_rad":0.927,"ra":232.5552584,"system_radius":149597870,"pl_hostname":"K2-407","stellar_type":"G","tic_id":"TIC 422685031","magnitude":11.969},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261229","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245119"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245118"}]}}
+{
+  "id": 261229,
+  "date": "2023-11-28T20:35:42",
+  "date_gmt": "2023-11-29T01:35:42",
+  "modified": "2025-04-23T05:53:26",
+  "modified_gmt": "2025-04-23T09:53:26",
+  "slug": "k2-407",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-407/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-407",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Libra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245118,
+      245119
+    ],
+    "exo_id": "K2-407",
+    "st_optmag": 11.969,
+    "st_vj": 11.969,
+    "st_dist": 218.376,
+    "st_j": 11.969,
+    "st_mass": 0.881,
+    "dec": -23.0067371,
+    "st_teff": 5563,
+    "st_rad": 0.927,
+    "ra": 232.5552584,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-407",
+    "stellar_type": "G",
+    "tic_id": "TIC 422685031",
+    "magnitude": 11.969
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261229",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245119"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245118"
+      }
+    ]
+  }
+}

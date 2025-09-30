@@ -1,1 +1,69 @@
-{"id":391245,"date":"2024-04-30T20:01:22","date_gmt":"2024-05-01T00:01:22","modified":"2025-04-23T05:57:32","modified_gmt":"2025-04-23T09:57:32","slug":"kappa-tucanae-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kappa-tucanae-a/","featured_media":429647,"categories":[],"acf":{"display_name":"Kappa Tucanae A","custom_star_title":"","aliases":"HD 7788 A,HR 377 A,GJ 9049A","constellation":"Tucana","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Kappa_Tucanae_A","st_optmag":4.912,"st_vj":4.912,"st_dist":23.2606,"st_j":4.912,"st_mass":1.35,"dec":-68.8759448,"st_teff":6436,"st_rad":1.588,"ra":18.9420379,"system_radius":149597870,"pl_hostname":"Kappa_Tucanae_A","stellar_type":"F","tic_id":"TIC 52194638","magnitude":4.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391245","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391245,
+  "date": "2024-04-30T20:01:22",
+  "date_gmt": "2024-05-01T00:01:22",
+  "modified": "2025-04-23T05:57:32",
+  "modified_gmt": "2025-04-23T09:57:32",
+  "slug": "kappa-tucanae-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kappa-tucanae-a/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Kappa Tucanae A",
+    "custom_star_title": "",
+    "aliases": "HD 7788 A,HR 377 A,GJ 9049A",
+    "constellation": "Tucana",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Kappa_Tucanae_A",
+    "st_optmag": 4.912,
+    "st_vj": 4.912,
+    "st_dist": 23.2606,
+    "st_j": 4.912,
+    "st_mass": 1.35,
+    "dec": -68.8759448,
+    "st_teff": 6436,
+    "st_rad": 1.588,
+    "ra": 18.9420379,
+    "system_radius": 149597870,
+    "pl_hostname": "Kappa_Tucanae_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 52194638",
+    "magnitude": 4.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391245",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

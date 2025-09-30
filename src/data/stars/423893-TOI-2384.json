@@ -1,1 +1,71 @@
-{"id":423893,"date":"2024-09-19T23:51:20","date_gmt":"2024-09-20T03:51:20","modified":"2025-04-23T05:54:14","modified_gmt":"2025-04-23T09:54:14","slug":"toi-2384","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2384/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2384","custom_star_title":"","aliases":"","constellation":"Horologium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[423906],"exo_id":"TOI-2384","st_optmag":15.103,"st_vj":15.103,"st_dist":191.51,"st_j":15.103,"st_mass":0.635,"dec":-65.0001957,"st_teff":3943,"st_rad":0.6113,"ra":36.1561463,"system_radius":4178268.5091,"pl_hostname":"TOI-2384","stellar_type":"K","tic_id":"TIC 382602147","magnitude":15.103},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/423893","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/423906"}]}}
+{
+  "id": 423893,
+  "date": "2024-09-19T23:51:20",
+  "date_gmt": "2024-09-20T03:51:20",
+  "modified": "2025-04-23T05:54:14",
+  "modified_gmt": "2025-04-23T09:54:14",
+  "slug": "toi-2384",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2384/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2384",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Horologium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      423906
+    ],
+    "exo_id": "TOI-2384",
+    "st_optmag": 15.103,
+    "st_vj": 15.103,
+    "st_dist": 191.51,
+    "st_j": 15.103,
+    "st_mass": 0.635,
+    "dec": -65.0001957,
+    "st_teff": 3943,
+    "st_rad": 0.6113,
+    "ra": 36.1561463,
+    "system_radius": 4178268.5091,
+    "pl_hostname": "TOI-2384",
+    "stellar_type": "K",
+    "tic_id": "TIC 382602147",
+    "magnitude": 15.103
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/423893",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/423906"
+      }
+    ]
+  }
+}

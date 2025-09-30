@@ -1,1 +1,76 @@
-{"id":313786,"date":"2024-03-02T14:17:26","date_gmt":"2024-03-02T19:17:26","modified":"2025-04-23T05:53:45","modified_gmt":"2025-04-23T09:53:45","slug":"toi-1386","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1386/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1386","custom_star_title":"","aliases":"","constellation":"Lacerta","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[313814,313815],"exo_id":"TOI-1386","st_optmag":10.61,"st_vj":10.61,"st_dist":146.858,"st_j":10.61,"st_mass":1.0363,"dec":54.3190454,"st_teff":5735,"st_rad":1.0235,"ra":334.5041029,"system_radius":112198402.5,"pl_hostname":"TOI-1386","stellar_type":"G","tic_id":"TIC 343019899","magnitude":10.61},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/313786","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313815"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313814"}]}}
+{
+  "id": 313786,
+  "date": "2024-03-02T14:17:26",
+  "date_gmt": "2024-03-02T19:17:26",
+  "modified": "2025-04-23T05:53:45",
+  "modified_gmt": "2025-04-23T09:53:45",
+  "slug": "toi-1386",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1386/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1386",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lacerta",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      313814,
+      313815
+    ],
+    "exo_id": "TOI-1386",
+    "st_optmag": 10.61,
+    "st_vj": 10.61,
+    "st_dist": 146.858,
+    "st_j": 10.61,
+    "st_mass": 1.0363,
+    "dec": 54.3190454,
+    "st_teff": 5735,
+    "st_rad": 1.0235,
+    "ra": 334.5041029,
+    "system_radius": 112198402.5,
+    "pl_hostname": "TOI-1386",
+    "stellar_type": "G",
+    "tic_id": "TIC 343019899",
+    "magnitude": 10.61
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313786",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313815"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313814"
+      }
+    ]
+  }
+}

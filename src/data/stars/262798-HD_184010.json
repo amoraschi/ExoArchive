@@ -1,1 +1,81 @@
-{"id":262798,"date":"2023-11-28T20:55:35","date_gmt":"2023-11-29T01:55:35","modified":"2025-04-23T05:56:30","modified_gmt":"2025-04-23T09:56:30","slug":"hd_184010","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_184010/","featured_media":0,"categories":[],"acf":{"display_name":"HD 184010","custom_star_title":"","aliases":"","constellation":"Vulpecula","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244178,244179,244180],"exo_id":"HD_184010","st_optmag":5.88639,"st_vj":5.88639,"st_dist":60.7993,"st_j":5.88639,"st_mass":1.35,"dec":26.6172796,"st_teff":4971,"st_rad":4.86,"ra":292.8401421,"system_radius":287227910.4,"pl_hostname":"HD_184010","stellar_type":"K","tic_id":"TIC 113329742","magnitude":5.88639},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262798","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244180"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244179"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244178"}]}}
+{
+  "id": 262798,
+  "date": "2023-11-28T20:55:35",
+  "date_gmt": "2023-11-29T01:55:35",
+  "modified": "2025-04-23T05:56:30",
+  "modified_gmt": "2025-04-23T09:56:30",
+  "slug": "hd_184010",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_184010/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 184010",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vulpecula",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244178,
+      244179,
+      244180
+    ],
+    "exo_id": "HD_184010",
+    "st_optmag": 5.88639,
+    "st_vj": 5.88639,
+    "st_dist": 60.7993,
+    "st_j": 5.88639,
+    "st_mass": 1.35,
+    "dec": 26.6172796,
+    "st_teff": 4971,
+    "st_rad": 4.86,
+    "ra": 292.8401421,
+    "system_radius": 287227910.4,
+    "pl_hostname": "HD_184010",
+    "stellar_type": "K",
+    "tic_id": "TIC 113329742",
+    "magnitude": 5.88639
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262798",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244180"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244179"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244178"
+      }
+    ]
+  }
+}

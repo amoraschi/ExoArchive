@@ -1,1 +1,79 @@
-{"id":246936,"date":"2017-10-02T13:32:59","date_gmt":"2017-10-02T17:32:59","modified":"2025-07-07T20:42:32","modified_gmt":"2025-07-08T00:42:32","slug":"kepler-319-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-319-d/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-319","pl_letter":"d","display_name":"Kepler-319 d","planet_radius":"0.204 x Jupiter","derived_description":"Kepler-319 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.86 Earths, it takes 31.8 days to complete one orbit of its star, and is 0.191 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":503.436,"planet_mass":"5.86 Earths","st_optmag":13.926,"discovery_date":"2014","pl_orbsmax":0.191,"period_display":"31.8 days","eccentricity":"0.0","star_id":262090,"pl_orbper":31.781925,"pl_kepflag":true,"pl_radj":0.204,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.29,"exo_id":"Kepler-319_d","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246936","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262090"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246936,
+  "date": "2017-10-02T13:32:59",
+  "date_gmt": "2017-10-02T17:32:59",
+  "modified": "2025-07-07T20:42:32",
+  "modified_gmt": "2025-07-08T00:42:32",
+  "slug": "kepler-319-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-319-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-319",
+    "pl_letter": "d",
+    "display_name": "Kepler-319 d",
+    "planet_radius": "0.204 x Jupiter",
+    "derived_description": "Kepler-319 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.86 Earths, it takes 31.8 days to complete one orbit of its star, and is 0.191 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 503.436,
+    "planet_mass": "5.86 Earths",
+    "st_optmag": 13.926,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.191,
+    "period_display": "31.8 days",
+    "eccentricity": "0.0",
+    "star_id": 262090,
+    "pl_orbper": 31.781925,
+    "pl_kepflag": true,
+    "pl_radj": 0.204,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.29,
+    "exo_id": "Kepler-319_d",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246936",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262090"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

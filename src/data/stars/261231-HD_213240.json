@@ -1,1 +1,71 @@
-{"id":261231,"date":"2023-11-28T20:35:43","date_gmt":"2023-11-29T01:35:43","modified":"2025-04-23T05:54:19","modified_gmt":"2025-04-23T09:54:19","slug":"hd_213240","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_213240/","featured_media":0,"categories":[],"acf":{"display_name":"HD 213240","custom_star_title":"","aliases":"","constellation":"Grus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244269],"exo_id":"HD_213240","st_optmag":6.81,"st_vj":6.81,"st_dist":40.8707,"st_j":6.81,"st_mass":1.57,"dec":-49.4341037,"st_teff":5979,"st_rad":1.51,"ra":337.7506266,"system_radius":282739974.3,"pl_hostname":"HD_213240","stellar_type":"F","tic_id":"TIC 144068704","magnitude":6.81},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261231","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244269"}]}}
+{
+  "id": 261231,
+  "date": "2023-11-28T20:35:43",
+  "date_gmt": "2023-11-29T01:35:43",
+  "modified": "2025-04-23T05:54:19",
+  "modified_gmt": "2025-04-23T09:54:19",
+  "slug": "hd_213240",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_213240/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 213240",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Grus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244269
+    ],
+    "exo_id": "HD_213240",
+    "st_optmag": 6.81,
+    "st_vj": 6.81,
+    "st_dist": 40.8707,
+    "st_j": 6.81,
+    "st_mass": 1.57,
+    "dec": -49.4341037,
+    "st_teff": 5979,
+    "st_rad": 1.51,
+    "ra": 337.7506266,
+    "system_radius": 282739974.3,
+    "pl_hostname": "HD_213240",
+    "stellar_type": "F",
+    "tic_id": "TIC 144068704",
+    "magnitude": 6.81
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261231",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244269"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":247780,"date":"2019-07-26T13:26:31","date_gmt":"2019-07-26T17:26:31","modified":"2025-07-07T20:33:59","modified_gmt":"2025-07-08T00:33:59","slug":"kepler-82-f","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-82-f/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-82","pl_letter":"f","display_name":"Kepler-82 f","planet_radius":"0.432 x Jupiter (estimate)","derived_description":"Kepler-82 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 20.9 Earths, it takes 75.7 days to complete one orbit of its star, and is 0.3395 AU from its star. Its discovery was announced in 2019.","planet_type":"Neptune-like","pl_discmethod":"Transit Timing Variations","pl_facility":"KOINet","st_dist":904.326,"planet_mass":"20.9 Earths","st_optmag":15.131,"discovery_date":"2019","pl_orbsmax":0.3395,"period_display":"75.7 days","eccentricity":"0.0","star_id":260845,"pl_orbper":75.732,"pl_kepflag":false,"pl_radj":0.432,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":62,"multiple_planet_system":false,"pl_rade":4.84,"exo_id":"Kepler-82_f","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.0014},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247780","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260845"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247780,
+  "date": "2019-07-26T13:26:31",
+  "date_gmt": "2019-07-26T17:26:31",
+  "modified": "2025-07-07T20:33:59",
+  "modified_gmt": "2025-07-08T00:33:59",
+  "slug": "kepler-82-f",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-82-f/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-82",
+    "pl_letter": "f",
+    "display_name": "Kepler-82 f",
+    "planet_radius": "0.432 x Jupiter (estimate)",
+    "derived_description": "Kepler-82 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 20.9 Earths, it takes 75.7 days to complete one orbit of its star, and is 0.3395 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit Timing Variations",
+    "pl_facility": "KOINet",
+    "st_dist": 904.326,
+    "planet_mass": "20.9 Earths",
+    "st_optmag": 15.131,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.3395,
+    "period_display": "75.7 days",
+    "eccentricity": "0.0",
+    "star_id": 260845,
+    "pl_orbper": 75.732,
+    "pl_kepflag": false,
+    "pl_radj": 0.432,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 62,
+    "multiple_planet_system": false,
+    "pl_rade": 4.84,
+    "exo_id": "Kepler-82_f",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0014
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247780",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260845"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

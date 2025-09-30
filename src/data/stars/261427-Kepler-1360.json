@@ -1,1 +1,71 @@
-{"id":261427,"date":"2023-11-28T20:38:13","date_gmt":"2023-11-29T01:38:13","modified":"2025-04-23T05:56:41","modified_gmt":"2025-04-23T09:56:41","slug":"kepler-1360","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1360/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1360","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245737],"exo_id":"Kepler-1360","st_optmag":14.007,"st_vj":14.007,"st_dist":1516.27,"st_j":14.007,"st_mass":1.51,"dec":45.6231826,"st_teff":6778,"st_rad":1.83,"ra":300.3440482,"system_radius":42874749.542,"pl_hostname":"Kepler-1360","stellar_type":"F","tic_id":"TIC 239287622","magnitude":14.007},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261427","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245737"}]}}
+{
+  "id": 261427,
+  "date": "2023-11-28T20:38:13",
+  "date_gmt": "2023-11-29T01:38:13",
+  "modified": "2025-04-23T05:56:41",
+  "modified_gmt": "2025-04-23T09:56:41",
+  "slug": "kepler-1360",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1360/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1360",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245737
+    ],
+    "exo_id": "Kepler-1360",
+    "st_optmag": 14.007,
+    "st_vj": 14.007,
+    "st_dist": 1516.27,
+    "st_j": 14.007,
+    "st_mass": 1.51,
+    "dec": 45.6231826,
+    "st_teff": 6778,
+    "st_rad": 1.83,
+    "ra": 300.3440482,
+    "system_radius": 42874749.542,
+    "pl_hostname": "Kepler-1360",
+    "stellar_type": "F",
+    "tic_id": "TIC 239287622",
+    "magnitude": 14.007
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261427",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245737"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243963,"date":"2019-04-22T16:48:41","date_gmt":"2019-04-22T20:48:41","modified":"2025-07-07T20:39:11","modified_gmt":"2025-07-08T00:39:11","slug":"hd-118203-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-118203-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_118203","pl_letter":"b","display_name":"HD 118203 b","planet_radius":"1.14 x Jupiter","derived_description":"HD 118203 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.14 Jupiters, it takes 6.1 days to complete one orbit of its star, and is 0.0713 AU from its star. Its discovery was announced in 2005.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Haute-Provence Observatory","st_dist":92.2589,"planet_mass":"2.14 Jupiters","st_optmag":8.05,"discovery_date":"2005","pl_orbsmax":0.0713,"period_display":"6.1 days","eccentricity":"0.31","star_id":260711,"pl_orbper":6.1349779,"pl_kepflag":false,"pl_radj":1.14,"pl_disc":2005,"pl_publ_date":"2005","planet_orbit_period":155.5,"multiple_planet_system":false,"pl_rade":12.778238,"exo_id":"HD_118203_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.3136},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243963","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260711"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243963,
+  "date": "2019-04-22T16:48:41",
+  "date_gmt": "2019-04-22T20:48:41",
+  "modified": "2025-07-07T20:39:11",
+  "modified_gmt": "2025-07-08T00:39:11",
+  "slug": "hd-118203-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-118203-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_118203",
+    "pl_letter": "b",
+    "display_name": "HD 118203 b",
+    "planet_radius": "1.14 x Jupiter",
+    "derived_description": "HD 118203 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.14 Jupiters, it takes 6.1 days to complete one orbit of its star, and is 0.0713 AU from its star. Its discovery was announced in 2005.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Haute-Provence Observatory",
+    "st_dist": 92.2589,
+    "planet_mass": "2.14 Jupiters",
+    "st_optmag": 8.05,
+    "discovery_date": "2005",
+    "pl_orbsmax": 0.0713,
+    "period_display": "6.1 days",
+    "eccentricity": "0.31",
+    "star_id": 260711,
+    "pl_orbper": 6.1349779,
+    "pl_kepflag": false,
+    "pl_radj": 1.14,
+    "pl_disc": 2005,
+    "pl_publ_date": "2005",
+    "planet_orbit_period": 155.5,
+    "multiple_planet_system": false,
+    "pl_rade": 12.778238,
+    "exo_id": "HD_118203_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.3136
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243963",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260711"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

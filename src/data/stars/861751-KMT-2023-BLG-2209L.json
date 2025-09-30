@@ -1,1 +1,77 @@
-{"id":861751,"date":"2025-06-06T07:19:53","date_gmt":"2025-06-06T11:19:53","modified":"2025-06-06T07:19:53","modified_gmt":"2025-06-06T11:19:53","slug":"kmt-2023-blg-2209l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-2209l/","featured_media":429648,"categories":[],"acf":{"display_name":"KMT-2023-BLG-2209L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[873898],"exo_id":"KMT-2023-BLG-2209L","st_optmag":"","st_vj":"","st_dist":5570,"st_j":"","st_mass":0.73,"dec":-29.3056694,"st_teff":"","st_rad":"","ra":268.9942083,"system_radius":525088523.7,"pl_hostname":"KMT-2023-BLG-2209L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/861751","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/873898"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 861751,
+  "date": "2025-06-06T07:19:53",
+  "date_gmt": "2025-06-06T11:19:53",
+  "modified": "2025-06-06T07:19:53",
+  "modified_gmt": "2025-06-06T11:19:53",
+  "slug": "kmt-2023-blg-2209l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-2209l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2023-BLG-2209L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      873898
+    ],
+    "exo_id": "KMT-2023-BLG-2209L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5570,
+    "st_j": "",
+    "st_mass": 0.73,
+    "dec": -29.3056694,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.9942083,
+    "system_radius": 525088523.7,
+    "pl_hostname": "KMT-2023-BLG-2209L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/861751",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/873898"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

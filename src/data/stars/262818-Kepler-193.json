@@ -1,1 +1,76 @@
-{"id":262818,"date":"2023-11-28T20:55:51","date_gmt":"2023-11-29T01:55:51","modified":"2025-04-23T05:54:52","modified_gmt":"2025-04-23T09:54:52","slug":"kepler-193","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-193/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-193","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246520,246521],"exo_id":"Kepler-193","st_optmag":14.712,"st_vj":14.712,"st_dist":1009.1,"st_j":14.712,"st_mass":1.051,"dec":46.5772484,"st_teff":6335,"st_rad":1.147,"ra":296.4985951,"system_radius":42784990.82,"pl_hostname":"Kepler-193","stellar_type":"F","tic_id":"TIC 272496083","magnitude":14.712},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262818","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246521"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246520"}]}}
+{
+  "id": 262818,
+  "date": "2023-11-28T20:55:51",
+  "date_gmt": "2023-11-29T01:55:51",
+  "modified": "2025-04-23T05:54:52",
+  "modified_gmt": "2025-04-23T09:54:52",
+  "slug": "kepler-193",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-193/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-193",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246520,
+      246521
+    ],
+    "exo_id": "Kepler-193",
+    "st_optmag": 14.712,
+    "st_vj": 14.712,
+    "st_dist": 1009.1,
+    "st_j": 14.712,
+    "st_mass": 1.051,
+    "dec": 46.5772484,
+    "st_teff": 6335,
+    "st_rad": 1.147,
+    "ra": 296.4985951,
+    "system_radius": 42784990.82,
+    "pl_hostname": "Kepler-193",
+    "stellar_type": "F",
+    "tic_id": "TIC 272496083",
+    "magnitude": 14.712
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262818",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246521"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246520"
+      }
+    ]
+  }
+}

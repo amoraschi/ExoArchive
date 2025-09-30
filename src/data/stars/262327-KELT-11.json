@@ -1,1 +1,71 @@
-{"id":262327,"date":"2023-11-28T20:49:35","date_gmt":"2023-11-29T01:49:35","modified":"2025-06-13T07:33:33","modified_gmt":"2025-06-13T11:33:33","slug":"kelt-11","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-11/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-11","custom_star_title":"","aliases":"","constellation":"Sextans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245207],"exo_id":"KELT-11","st_optmag":8.04,"st_vj":8.04,"st_dist":99.1596,"st_j":8.04,"st_mass":1.44,"dec":-9.3993646,"st_teff":5375,"st_rad":2.69,"ra":161.7069053,"system_radius":9319947.301,"pl_hostname":"KELT-11","stellar_type":"G","tic_id":"TIC 55092869","magnitude":8.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262327","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245207"}]}}
+{
+  "id": 262327,
+  "date": "2023-11-28T20:49:35",
+  "date_gmt": "2023-11-29T01:49:35",
+  "modified": "2025-06-13T07:33:33",
+  "modified_gmt": "2025-06-13T11:33:33",
+  "slug": "kelt-11",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-11/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-11",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sextans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245207
+    ],
+    "exo_id": "KELT-11",
+    "st_optmag": 8.04,
+    "st_vj": 8.04,
+    "st_dist": 99.1596,
+    "st_j": 8.04,
+    "st_mass": 1.44,
+    "dec": -9.3993646,
+    "st_teff": 5375,
+    "st_rad": 2.69,
+    "ra": 161.7069053,
+    "system_radius": 9319947.301,
+    "pl_hostname": "KELT-11",
+    "stellar_type": "G",
+    "tic_id": "TIC 55092869",
+    "magnitude": 8.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262327",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245207"
+      }
+    ]
+  }
+}

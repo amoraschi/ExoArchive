@@ -1,1 +1,79 @@
-{"id":401612,"date":"2024-06-13T21:28:49","date_gmt":"2024-06-14T01:28:49","modified":"2025-03-28T07:28:50","modified_gmt":"2025-03-28T11:28:50","slug":"toi-4527-01","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-4527-01/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-4527","pl_letter":"b","display_name":"TOI-4527.01","planet_radius":"0.9086617 x Earth","derived_description":"TOI-4527.01 is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.689 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.008332353 AU from its star. Its discovery was announced in 2024.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":18.1037,"planet_mass":"0.689 Earths","st_optmag":10.917,"discovery_date":"2024","pl_orbsmax":0.008332353,"period_display":"0.4 days","eccentricity":"","star_id":401574,"pl_orbper":0.3994445,"pl_kepflag":false,"pl_radj":0.08097753,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.9086617,"exo_id":"TOI-4527.01","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401612","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/401574"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 401612,
+  "date": "2024-06-13T21:28:49",
+  "date_gmt": "2024-06-14T01:28:49",
+  "modified": "2025-03-28T07:28:50",
+  "modified_gmt": "2025-03-28T11:28:50",
+  "slug": "toi-4527-01",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-4527-01/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-4527",
+    "pl_letter": "b",
+    "display_name": "TOI-4527.01",
+    "planet_radius": "0.9086617 x Earth",
+    "derived_description": "TOI-4527.01 is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.689 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.008332353 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 18.1037,
+    "planet_mass": "0.689 Earths",
+    "st_optmag": 10.917,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.008332353,
+    "period_display": "0.4 days",
+    "eccentricity": "",
+    "star_id": 401574,
+    "pl_orbper": 0.3994445,
+    "pl_kepflag": false,
+    "pl_radj": 0.08097753,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.9086617,
+    "exo_id": "TOI-4527.01",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401612",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401574"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

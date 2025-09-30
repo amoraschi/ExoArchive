@@ -1,1 +1,76 @@
-{"id":264257,"date":"2023-11-28T21:14:15","date_gmt":"2023-11-29T02:14:15","modified":"2025-04-23T05:53:13","modified_gmt":"2025-04-23T09:53:13","slug":"k2-350","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-350/","featured_media":0,"categories":[],"acf":{"display_name":"K2-350","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245039,"1":245038},"exo_id":"K2-350","st_optmag":13.449,"st_vj":13.449,"st_dist":489.368,"st_j":13.449,"st_mass":0.98,"dec":-14.0092516,"st_teff":5789,"st_rad":1.04,"ra":204.0355092,"system_radius":149597870,"pl_hostname":"K2-350","stellar_type":"G","tic_id":"TIC 294319820","magnitude":13.449},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264257","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245039"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245038"}]}}
+{
+  "id": 264257,
+  "date": "2023-11-28T21:14:15",
+  "date_gmt": "2023-11-29T02:14:15",
+  "modified": "2025-04-23T05:53:13",
+  "modified_gmt": "2025-04-23T09:53:13",
+  "slug": "k2-350",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-350/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-350",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245039,
+      "1": 245038
+    },
+    "exo_id": "K2-350",
+    "st_optmag": 13.449,
+    "st_vj": 13.449,
+    "st_dist": 489.368,
+    "st_j": 13.449,
+    "st_mass": 0.98,
+    "dec": -14.0092516,
+    "st_teff": 5789,
+    "st_rad": 1.04,
+    "ra": 204.0355092,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-350",
+    "stellar_type": "G",
+    "tic_id": "TIC 294319820",
+    "magnitude": 13.449
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264257",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245039"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245038"
+      }
+    ]
+  }
+}

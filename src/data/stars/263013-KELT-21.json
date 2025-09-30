@@ -1,1 +1,71 @@
-{"id":263013,"date":"2023-11-28T20:58:19","date_gmt":"2023-11-29T01:58:19","modified":"2025-04-23T05:55:37","modified_gmt":"2025-04-23T09:55:37","slug":"kelt-21","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-21/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-21","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245217],"exo_id":"KELT-21","st_optmag":10.484,"st_vj":10.484,"st_dist":470.878,"st_j":10.484,"st_mass":1.458,"dec":32.5810446,"st_teff":7598,"st_rad":1.638,"ra":304.8000322,"system_radius":7814992.7288,"pl_hostname":"KELT-21","stellar_type":"A","tic_id":"TIC 203189770","magnitude":10.484},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263013","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245217"}]}}
+{
+  "id": 263013,
+  "date": "2023-11-28T20:58:19",
+  "date_gmt": "2023-11-29T01:58:19",
+  "modified": "2025-04-23T05:55:37",
+  "modified_gmt": "2025-04-23T09:55:37",
+  "slug": "kelt-21",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-21/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-21",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245217
+    ],
+    "exo_id": "KELT-21",
+    "st_optmag": 10.484,
+    "st_vj": 10.484,
+    "st_dist": 470.878,
+    "st_j": 10.484,
+    "st_mass": 1.458,
+    "dec": 32.5810446,
+    "st_teff": 7598,
+    "st_rad": 1.638,
+    "ra": 304.8000322,
+    "system_radius": 7814992.7288,
+    "pl_hostname": "KELT-21",
+    "stellar_type": "A",
+    "tic_id": "TIC 203189770",
+    "magnitude": 10.484
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263013",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245217"
+      }
+    ]
+  }
+}

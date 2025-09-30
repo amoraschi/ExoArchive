@@ -1,1 +1,71 @@
-{"id":261364,"date":"2023-11-28T20:37:25","date_gmt":"2023-11-29T01:37:25","modified":"2025-04-23T05:55:35","modified_gmt":"2025-04-23T09:55:35","slug":"kepler-1119","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1119/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1119","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245395],"exo_id":"Kepler-1119","st_optmag":15.296,"st_vj":15.296,"st_dist":1757.23,"st_j":15.296,"st_mass":1.11,"dec":44.3274936,"st_teff":6083,"st_rad":1.17,"ra":297.0191018,"system_radius":12147347.044,"pl_hostname":"Kepler-1119","stellar_type":"F","tic_id":"TIC 272940104","magnitude":15.296},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261364","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245395"}]}}
+{
+  "id": 261364,
+  "date": "2023-11-28T20:37:25",
+  "date_gmt": "2023-11-29T01:37:25",
+  "modified": "2025-04-23T05:55:35",
+  "modified_gmt": "2025-04-23T09:55:35",
+  "slug": "kepler-1119",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1119/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1119",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245395
+    ],
+    "exo_id": "Kepler-1119",
+    "st_optmag": 15.296,
+    "st_vj": 15.296,
+    "st_dist": 1757.23,
+    "st_j": 15.296,
+    "st_mass": 1.11,
+    "dec": 44.3274936,
+    "st_teff": 6083,
+    "st_rad": 1.17,
+    "ra": 297.0191018,
+    "system_radius": 12147347.044,
+    "pl_hostname": "Kepler-1119",
+    "stellar_type": "F",
+    "tic_id": "TIC 272940104",
+    "magnitude": 15.296
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261364",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245395"
+      }
+    ]
+  }
+}

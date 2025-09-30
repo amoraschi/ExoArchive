@@ -1,1 +1,71 @@
-{"id":387724,"date":"2024-04-16T12:02:44","date_gmt":"2024-04-16T16:02:44","modified":"2025-04-23T05:55:17","modified_gmt":"2025-04-23T09:55:17","slug":"toi-4515","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4515/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4515","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[387754],"exo_id":"TOI-4515","st_optmag":11.938,"st_vj":11.938,"st_dist":193.499,"st_j":11.938,"st_mass":0.949,"dec":21.5130638,"st_teff":5433,"st_rad":0.86,"ra":21.1861778,"system_radius":17652548.66,"pl_hostname":"TOI-4515","stellar_type":"G","tic_id":"TIC 456862677","magnitude":11.938},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/387724","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/387754"}]}}
+{
+  "id": 387724,
+  "date": "2024-04-16T12:02:44",
+  "date_gmt": "2024-04-16T16:02:44",
+  "modified": "2025-04-23T05:55:17",
+  "modified_gmt": "2025-04-23T09:55:17",
+  "slug": "toi-4515",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4515/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4515",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      387754
+    ],
+    "exo_id": "TOI-4515",
+    "st_optmag": 11.938,
+    "st_vj": 11.938,
+    "st_dist": 193.499,
+    "st_j": 11.938,
+    "st_mass": 0.949,
+    "dec": 21.5130638,
+    "st_teff": 5433,
+    "st_rad": 0.86,
+    "ra": 21.1861778,
+    "system_radius": 17652548.66,
+    "pl_hostname": "TOI-4515",
+    "stellar_type": "G",
+    "tic_id": "TIC 456862677",
+    "magnitude": 11.938
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/387724",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/387754"
+      }
+    ]
+  }
+}

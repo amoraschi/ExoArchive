@@ -1,1 +1,71 @@
-{"id":263072,"date":"2023-11-28T20:59:03","date_gmt":"2023-11-29T01:59:03","modified":"2025-04-23T05:56:03","modified_gmt":"2025-04-23T09:56:03","slug":"hat-p-5","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-5/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-5","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243778],"exo_id":"HAT-P-5","st_optmag":11.954,"st_vj":11.954,"st_dist":303.336,"st_j":11.954,"st_mass":1.04,"dec":36.6214617,"st_teff":5960,"st_rad":1.12,"ra":274.4055335,"system_radius":6093121.2451,"pl_hostname":"HAT-P-5","stellar_type":"F","tic_id":"TIC 76419763","magnitude":11.954},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263072","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243778"}]}}
+{
+  "id": 263072,
+  "date": "2023-11-28T20:59:03",
+  "date_gmt": "2023-11-29T01:59:03",
+  "modified": "2025-04-23T05:56:03",
+  "modified_gmt": "2025-04-23T09:56:03",
+  "slug": "hat-p-5",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-5/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-5",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243778
+    ],
+    "exo_id": "HAT-P-5",
+    "st_optmag": 11.954,
+    "st_vj": 11.954,
+    "st_dist": 303.336,
+    "st_j": 11.954,
+    "st_mass": 1.04,
+    "dec": 36.6214617,
+    "st_teff": 5960,
+    "st_rad": 1.12,
+    "ra": 274.4055335,
+    "system_radius": 6093121.2451,
+    "pl_hostname": "HAT-P-5",
+    "stellar_type": "F",
+    "tic_id": "TIC 76419763",
+    "magnitude": 11.954
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263072",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243778"
+      }
+    ]
+  }
+}

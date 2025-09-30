@@ -1,1 +1,79 @@
-{"id":245388,"date":"2017-10-02T13:32:40","date_gmt":"2017-10-02T17:32:40","modified":"2025-07-07T17:57:22","modified_gmt":"2025-07-07T21:57:22","slug":"kepler-1112-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1112-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1112","pl_letter":"b","display_name":"Kepler-1112 b","planet_radius":"0.26942635 x Jupiter","derived_description":"Kepler-1112 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.38 Earths, it takes 14.4 days to complete one orbit of its star, and is 0.1239 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1671.28,"planet_mass":"9.38 Earths","st_optmag":14.74,"discovery_date":"2016","pl_orbsmax":0.1239,"period_display":"14.4 days","eccentricity":"0.0","star_id":262433,"pl_orbper":14.36267939,"pl_kepflag":true,"pl_radj":0.26942635,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.02,"exo_id":"Kepler-1112_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245388","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262433"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245388,
+  "date": "2017-10-02T13:32:40",
+  "date_gmt": "2017-10-02T17:32:40",
+  "modified": "2025-07-07T17:57:22",
+  "modified_gmt": "2025-07-07T21:57:22",
+  "slug": "kepler-1112-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1112-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1112",
+    "pl_letter": "b",
+    "display_name": "Kepler-1112 b",
+    "planet_radius": "0.26942635 x Jupiter",
+    "derived_description": "Kepler-1112 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.38 Earths, it takes 14.4 days to complete one orbit of its star, and is 0.1239 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1671.28,
+    "planet_mass": "9.38 Earths",
+    "st_optmag": 14.74,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1239,
+    "period_display": "14.4 days",
+    "eccentricity": "0.0",
+    "star_id": 262433,
+    "pl_orbper": 14.36267939,
+    "pl_kepflag": true,
+    "pl_radj": 0.26942635,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.02,
+    "exo_id": "Kepler-1112_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245388",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262433"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

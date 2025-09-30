@@ -1,1 +1,71 @@
-{"id":260906,"date":"2023-11-28T20:31:37","date_gmt":"2023-11-29T01:31:37","modified":"2025-06-06T07:19:52","modified_gmt":"2025-06-06T11:19:52","slug":"ltt_9779","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ltt_9779/","featured_media":0,"categories":[],"acf":{"display_name":"LTT 9779","custom_star_title":"","aliases":"","constellation":"Sculptor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248156],"exo_id":"LTT_9779","st_optmag":9.79,"st_vj":9.79,"st_dist":80.4373,"st_j":9.79,"st_mass":1.02,"dec":-37.6282237,"st_teff":5443,"st_rad":0.949,"ra":358.6688767,"system_radius":2511748.2373,"pl_hostname":"LTT_9779","stellar_type":"G","tic_id":"TIC 183985250","magnitude":9.79},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260906","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248156"}]}}
+{
+  "id": 260906,
+  "date": "2023-11-28T20:31:37",
+  "date_gmt": "2023-11-29T01:31:37",
+  "modified": "2025-06-06T07:19:52",
+  "modified_gmt": "2025-06-06T11:19:52",
+  "slug": "ltt_9779",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ltt_9779/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "LTT 9779",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sculptor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248156
+    ],
+    "exo_id": "LTT_9779",
+    "st_optmag": 9.79,
+    "st_vj": 9.79,
+    "st_dist": 80.4373,
+    "st_j": 9.79,
+    "st_mass": 1.02,
+    "dec": -37.6282237,
+    "st_teff": 5443,
+    "st_rad": 0.949,
+    "ra": 358.6688767,
+    "system_radius": 2511748.2373,
+    "pl_hostname": "LTT_9779",
+    "stellar_type": "G",
+    "tic_id": "TIC 183985250",
+    "magnitude": 9.79
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260906",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248156"
+      }
+    ]
+  }
+}

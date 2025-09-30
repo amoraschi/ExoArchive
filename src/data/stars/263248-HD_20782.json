@@ -1,1 +1,71 @@
-{"id":263248,"date":"2023-11-28T21:01:16","date_gmt":"2023-11-29T02:01:16","modified":"2025-04-23T05:56:53","modified_gmt":"2025-04-23T09:56:53","slug":"hd_20782","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_20782/","featured_media":0,"categories":[],"acf":{"display_name":"HD 20782","custom_star_title":"","aliases":"","constellation":"Fornax","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244248],"exo_id":"HD_20782","st_optmag":7.36,"st_vj":7.36,"st_dist":35.9864,"st_j":7.36,"st_mass":1.04,"dec":-28.8543535,"st_teff":5782.13,"st_rad":1.12681,"ra":50.0166232,"system_radius":204186132.763,"pl_hostname":"HD_20782","stellar_type":"G","tic_id":"TIC 144503325","magnitude":7.36},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263248","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244248"}]}}
+{
+  "id": 263248,
+  "date": "2023-11-28T21:01:16",
+  "date_gmt": "2023-11-29T02:01:16",
+  "modified": "2025-04-23T05:56:53",
+  "modified_gmt": "2025-04-23T09:56:53",
+  "slug": "hd_20782",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_20782/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 20782",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Fornax",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244248
+    ],
+    "exo_id": "HD_20782",
+    "st_optmag": 7.36,
+    "st_vj": 7.36,
+    "st_dist": 35.9864,
+    "st_j": 7.36,
+    "st_mass": 1.04,
+    "dec": -28.8543535,
+    "st_teff": 5782.13,
+    "st_rad": 1.12681,
+    "ra": 50.0166232,
+    "system_radius": 204186132.763,
+    "pl_hostname": "HD_20782",
+    "stellar_type": "G",
+    "tic_id": "TIC 144503325",
+    "magnitude": 7.36
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263248",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244248"
+      }
+    ]
+  }
+}

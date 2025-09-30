@@ -1,1 +1,79 @@
-{"id":244518,"date":"2019-04-22T16:48:40","date_gmt":"2019-04-22T20:48:40","modified":"2025-06-25T12:04:48","modified_gmt":"2025-06-25T16:04:48","slug":"hd-69830-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-69830-d/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_69830","pl_letter":"d","display_name":"HD 69830 d","planet_radius":"0.397 x Jupiter (estimate)","derived_description":"HD 69830 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 18.1 Earths, it takes 197 days to complete one orbit of its star, and is 0.63 AU from its star. Its discovery was announced in 2006.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":12.5794,"planet_mass":"18.1 Earths","st_optmag":5.951,"discovery_date":"2006","pl_orbsmax":0.63,"period_display":"197 days","eccentricity":"0.07","star_id":260568,"pl_orbper":197,"pl_kepflag":false,"pl_radj":0.397,"pl_disc":2006,"pl_publ_date":"2006","planet_orbit_period":224,"multiple_planet_system":false,"pl_rade":4.45,"exo_id":"HD_69830_d","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.07},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244518","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260568"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244518,
+  "date": "2019-04-22T16:48:40",
+  "date_gmt": "2019-04-22T20:48:40",
+  "modified": "2025-06-25T12:04:48",
+  "modified_gmt": "2025-06-25T16:04:48",
+  "slug": "hd-69830-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-69830-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_69830",
+    "pl_letter": "d",
+    "display_name": "HD 69830 d",
+    "planet_radius": "0.397 x Jupiter (estimate)",
+    "derived_description": "HD 69830 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 18.1 Earths, it takes 197 days to complete one orbit of its star, and is 0.63 AU from its star. Its discovery was announced in 2006.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 12.5794,
+    "planet_mass": "18.1 Earths",
+    "st_optmag": 5.951,
+    "discovery_date": "2006",
+    "pl_orbsmax": 0.63,
+    "period_display": "197 days",
+    "eccentricity": "0.07",
+    "star_id": 260568,
+    "pl_orbper": 197,
+    "pl_kepflag": false,
+    "pl_radj": 0.397,
+    "pl_disc": 2006,
+    "pl_publ_date": "2006",
+    "planet_orbit_period": 224,
+    "multiple_planet_system": false,
+    "pl_rade": 4.45,
+    "exo_id": "HD_69830_d",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.07
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244518",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260568"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

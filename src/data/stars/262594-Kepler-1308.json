@@ -1,1 +1,71 @@
-{"id":262594,"date":"2023-11-28T20:52:58","date_gmt":"2023-11-29T01:52:58","modified":"2025-04-23T05:55:49","modified_gmt":"2025-04-23T09:55:49","slug":"kepler-1308","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1308/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1308","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245659],"exo_id":"Kepler-1308","st_optmag":16.4,"st_vj":16.4,"st_dist":112.705,"st_j":16.4,"st_mass":0.35,"dec":38.5207097,"st_teff":3468,"st_rad":0.34,"ra":285.9287514,"system_radius":3739946.75,"pl_hostname":"Kepler-1308","stellar_type":"M","tic_id":"TIC 120693011","magnitude":16.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262594","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245659"}]}}
+{
+  "id": 262594,
+  "date": "2023-11-28T20:52:58",
+  "date_gmt": "2023-11-29T01:52:58",
+  "modified": "2025-04-23T05:55:49",
+  "modified_gmt": "2025-04-23T09:55:49",
+  "slug": "kepler-1308",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1308/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1308",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245659
+    ],
+    "exo_id": "Kepler-1308",
+    "st_optmag": 16.4,
+    "st_vj": 16.4,
+    "st_dist": 112.705,
+    "st_j": 16.4,
+    "st_mass": 0.35,
+    "dec": 38.5207097,
+    "st_teff": 3468,
+    "st_rad": 0.34,
+    "ra": 285.9287514,
+    "system_radius": 3739946.75,
+    "pl_hostname": "Kepler-1308",
+    "stellar_type": "M",
+    "tic_id": "TIC 120693011",
+    "magnitude": 16.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262594",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245659"
+      }
+    ]
+  }
+}

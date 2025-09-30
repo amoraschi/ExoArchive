@@ -1,1 +1,79 @@
-{"id":244116,"date":"2019-04-22T16:48:46","date_gmt":"2019-04-22T20:48:46","modified":"2025-07-07T20:39:44","modified_gmt":"2025-07-08T00:39:44","slug":"hd-163607-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-163607-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_163607","pl_letter":"b","display_name":"HD 163607 b","planet_radius":"1.24 x Jupiter (estimate)","derived_description":"HD 163607 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.7836 Jupiters, it takes 75.2 days to complete one orbit of its star, and is 0.362 AU from its star. Its discovery was announced in 2010.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":67.7855,"planet_mass":"0.7836 Jupiters","st_optmag":8,"discovery_date":"2010","pl_orbsmax":0.362,"period_display":"75.2 days","eccentricity":"0.74","star_id":262338,"pl_orbper":75.2203,"pl_kepflag":false,"pl_radj":1.24,"pl_disc":2010,"pl_publ_date":"2010","planet_orbit_period":79.6,"multiple_planet_system":false,"pl_rade":13.9,"exo_id":"HD_163607_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.7441},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244116","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262338"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244116,
+  "date": "2019-04-22T16:48:46",
+  "date_gmt": "2019-04-22T20:48:46",
+  "modified": "2025-07-07T20:39:44",
+  "modified_gmt": "2025-07-08T00:39:44",
+  "slug": "hd-163607-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-163607-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_163607",
+    "pl_letter": "b",
+    "display_name": "HD 163607 b",
+    "planet_radius": "1.24 x Jupiter (estimate)",
+    "derived_description": "HD 163607 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.7836 Jupiters, it takes 75.2 days to complete one orbit of its star, and is 0.362 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 67.7855,
+    "planet_mass": "0.7836 Jupiters",
+    "st_optmag": 8,
+    "discovery_date": "2010",
+    "pl_orbsmax": 0.362,
+    "period_display": "75.2 days",
+    "eccentricity": "0.74",
+    "star_id": 262338,
+    "pl_orbper": 75.2203,
+    "pl_kepflag": false,
+    "pl_radj": 1.24,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": 79.6,
+    "multiple_planet_system": false,
+    "pl_rade": 13.9,
+    "exo_id": "HD_163607_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.7441
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244116",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262338"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

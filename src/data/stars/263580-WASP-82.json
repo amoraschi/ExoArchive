@@ -1,1 +1,71 @@
-{"id":263580,"date":"2023-11-28T21:05:28","date_gmt":"2023-11-29T02:05:28","modified":"2025-04-23T05:55:45","modified_gmt":"2025-04-23T09:55:45","slug":"wasp-82","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-82/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-82","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248902],"exo_id":"WASP-82","st_optmag":10.073,"st_vj":10.073,"st_dist":275.664,"st_j":10.073,"st_mass":1.48,"dec":1.8938365,"st_teff":6480,"st_rad":2.1,"ra":72.6605916,"system_radius":6687024.789,"pl_hostname":"WASP-82","stellar_type":"F","tic_id":"TIC 452808876","magnitude":10.073},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263580","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248902"}]}}
+{
+  "id": 263580,
+  "date": "2023-11-28T21:05:28",
+  "date_gmt": "2023-11-29T02:05:28",
+  "modified": "2025-04-23T05:55:45",
+  "modified_gmt": "2025-04-23T09:55:45",
+  "slug": "wasp-82",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-82/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-82",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248902
+    ],
+    "exo_id": "WASP-82",
+    "st_optmag": 10.073,
+    "st_vj": 10.073,
+    "st_dist": 275.664,
+    "st_j": 10.073,
+    "st_mass": 1.48,
+    "dec": 1.8938365,
+    "st_teff": 6480,
+    "st_rad": 2.1,
+    "ra": 72.6605916,
+    "system_radius": 6687024.789,
+    "pl_hostname": "WASP-82",
+    "stellar_type": "F",
+    "tic_id": "TIC 452808876",
+    "magnitude": 10.073
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263580",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248902"
+      }
+    ]
+  }
+}

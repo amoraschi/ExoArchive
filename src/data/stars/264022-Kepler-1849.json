@@ -1,1 +1,71 @@
-{"id":264022,"date":"2023-11-28T21:11:12","date_gmt":"2023-11-29T02:11:12","modified":"2025-04-23T05:57:19","modified_gmt":"2025-04-23T09:57:19","slug":"kepler-1849","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1849/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1849","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246398],"exo_id":"Kepler-1849","st_optmag":15.997,"st_vj":15.997,"st_dist":631.884,"st_j":15.997,"st_mass":0.709,"dec":41.2557275,"st_teff":4806,"st_rad":0.729,"ra":285.29193,"system_radius":38850566.839,"pl_hostname":"Kepler-1849","stellar_type":"K","tic_id":"TIC 399821807","magnitude":15.997},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264022","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246398"}]}}
+{
+  "id": 264022,
+  "date": "2023-11-28T21:11:12",
+  "date_gmt": "2023-11-29T02:11:12",
+  "modified": "2025-04-23T05:57:19",
+  "modified_gmt": "2025-04-23T09:57:19",
+  "slug": "kepler-1849",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1849/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1849",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246398
+    ],
+    "exo_id": "Kepler-1849",
+    "st_optmag": 15.997,
+    "st_vj": 15.997,
+    "st_dist": 631.884,
+    "st_j": 15.997,
+    "st_mass": 0.709,
+    "dec": 41.2557275,
+    "st_teff": 4806,
+    "st_rad": 0.729,
+    "ra": 285.29193,
+    "system_radius": 38850566.839,
+    "pl_hostname": "Kepler-1849",
+    "stellar_type": "K",
+    "tic_id": "TIC 399821807",
+    "magnitude": 15.997
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264022",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246398"
+      }
+    ]
+  }
+}

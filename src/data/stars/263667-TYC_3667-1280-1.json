@@ -1,1 +1,71 @@
-{"id":263667,"date":"2023-11-28T21:06:36","date_gmt":"2023-11-29T02:06:36","modified":"2025-04-23T05:57:01","modified_gmt":"2025-04-23T09:57:01","slug":"tyc_3667-1280-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tyc_3667-1280-1/","featured_media":0,"categories":[],"acf":{"display_name":"TYC 3667-1280-1","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248723],"exo_id":"TYC_3667-1280-1","st_optmag":9.856,"st_vj":9.856,"st_dist":477.516,"st_j":9.856,"st_mass":1.87,"dec":58.4261485,"st_teff":5130,"st_rad":6.26,"ra":12.8875757,"system_radius":31415552.7,"pl_hostname":"TYC_3667-1280-1","stellar_type":"K","tic_id":"TIC 312545949","magnitude":9.856},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263667","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248723"}]}}
+{
+  "id": 263667,
+  "date": "2023-11-28T21:06:36",
+  "date_gmt": "2023-11-29T02:06:36",
+  "modified": "2025-04-23T05:57:01",
+  "modified_gmt": "2025-04-23T09:57:01",
+  "slug": "tyc_3667-1280-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tyc_3667-1280-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TYC 3667-1280-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248723
+    ],
+    "exo_id": "TYC_3667-1280-1",
+    "st_optmag": 9.856,
+    "st_vj": 9.856,
+    "st_dist": 477.516,
+    "st_j": 9.856,
+    "st_mass": 1.87,
+    "dec": 58.4261485,
+    "st_teff": 5130,
+    "st_rad": 6.26,
+    "ra": 12.8875757,
+    "system_radius": 31415552.7,
+    "pl_hostname": "TYC_3667-1280-1",
+    "stellar_type": "K",
+    "tic_id": "TIC 312545949",
+    "magnitude": 9.856
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263667",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248723"
+      }
+    ]
+  }
+}

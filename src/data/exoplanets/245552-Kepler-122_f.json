@@ -1,1 +1,79 @@
-{"id":245552,"date":"2016-03-16T19:26:21","date_gmt":"2016-03-16T23:26:21","modified":"2025-07-07T17:21:27","modified_gmt":"2025-07-07T21:21:27","slug":"kepler-122-f","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-122-f/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-122","pl_letter":"f","display_name":"Kepler-122 f","planet_radius":"1.75 x Earth","derived_description":"Kepler-122 f is a super Earth exoplanet that orbits a F-type star. Its mass is 36 Earths, it takes 56.3 days to complete one orbit of its star, and is 0.28575 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit Timing Variations","pl_facility":"Kepler","st_dist":1027.45,"planet_mass":"36 Earths","st_optmag":14.403,"discovery_date":"2014","pl_orbsmax":0.28575,"period_display":"56.3 days","eccentricity":"0.0","star_id":262570,"pl_orbper":56.268,"pl_kepflag":true,"pl_radj":0.156,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.75,"exo_id":"Kepler-122_f","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245552","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262570"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245552,
+  "date": "2016-03-16T19:26:21",
+  "date_gmt": "2016-03-16T23:26:21",
+  "modified": "2025-07-07T17:21:27",
+  "modified_gmt": "2025-07-07T21:21:27",
+  "slug": "kepler-122-f",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-122-f/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-122",
+    "pl_letter": "f",
+    "display_name": "Kepler-122 f",
+    "planet_radius": "1.75 x Earth",
+    "derived_description": "Kepler-122 f is a super Earth exoplanet that orbits a F-type star. Its mass is 36 Earths, it takes 56.3 days to complete one orbit of its star, and is 0.28575 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit Timing Variations",
+    "pl_facility": "Kepler",
+    "st_dist": 1027.45,
+    "planet_mass": "36 Earths",
+    "st_optmag": 14.403,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.28575,
+    "period_display": "56.3 days",
+    "eccentricity": "0.0",
+    "star_id": 262570,
+    "pl_orbper": 56.268,
+    "pl_kepflag": true,
+    "pl_radj": 0.156,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.75,
+    "exo_id": "Kepler-122_f",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245552",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262570"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

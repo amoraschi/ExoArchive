@@ -1,1 +1,86 @@
-{"id":260590,"date":"2023-11-28T20:27:41","date_gmt":"2023-11-29T01:27:41","modified":"2025-04-23T05:53:40","modified_gmt":"2025-04-23T09:53:40","slug":"kepler-197","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-197/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-197","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246566,246567,246568,246569],"exo_id":"Kepler-197","st_optmag":11.775,"st_vj":11.775,"st_dist":330.575,"st_j":11.775,"st_mass":0.857,"dec":50.5592348,"st_teff":6004,"st_rad":1.12,"ra":295.2264739,"system_radius":24534050.68,"pl_hostname":"Kepler-197","stellar_type":"F","tic_id":"TIC 27397848","magnitude":11.775},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260590","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246569"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246568"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246567"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246566"}]}}
+{
+  "id": 260590,
+  "date": "2023-11-28T20:27:41",
+  "date_gmt": "2023-11-29T01:27:41",
+  "modified": "2025-04-23T05:53:40",
+  "modified_gmt": "2025-04-23T09:53:40",
+  "slug": "kepler-197",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-197/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-197",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246566,
+      246567,
+      246568,
+      246569
+    ],
+    "exo_id": "Kepler-197",
+    "st_optmag": 11.775,
+    "st_vj": 11.775,
+    "st_dist": 330.575,
+    "st_j": 11.775,
+    "st_mass": 0.857,
+    "dec": 50.5592348,
+    "st_teff": 6004,
+    "st_rad": 1.12,
+    "ra": 295.2264739,
+    "system_radius": 24534050.68,
+    "pl_hostname": "Kepler-197",
+    "stellar_type": "F",
+    "tic_id": "TIC 27397848",
+    "magnitude": 11.775
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260590",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246569"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246568"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246567"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246566"
+      }
+    ]
+  }
+}

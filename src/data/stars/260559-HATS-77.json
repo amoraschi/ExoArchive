@@ -1,1 +1,71 @@
-{"id":260559,"date":"2023-11-28T20:27:19","date_gmt":"2023-11-29T01:27:19","modified":"2025-04-23T05:54:18","modified_gmt":"2025-04-23T09:54:18","slug":"hats-77","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-77/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-77","custom_star_title":"","aliases":"","constellation":"Antlia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243864],"exo_id":"HATS-77","st_optmag":16.195,"st_vj":16.195,"st_dist":436.176,"st_j":16.195,"st_mass":0.655,"dec":-27.3928174,"st_teff":4071,"st_rad":0.6428,"ra":149.8236672,"system_radius":5395995.1709,"pl_hostname":"HATS-77","stellar_type":"K","tic_id":"TIC 11561667","magnitude":16.195},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260559","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243864"}]}}
+{
+  "id": 260559,
+  "date": "2023-11-28T20:27:19",
+  "date_gmt": "2023-11-29T01:27:19",
+  "modified": "2025-04-23T05:54:18",
+  "modified_gmt": "2025-04-23T09:54:18",
+  "slug": "hats-77",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-77/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-77",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Antlia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243864
+    ],
+    "exo_id": "HATS-77",
+    "st_optmag": 16.195,
+    "st_vj": 16.195,
+    "st_dist": 436.176,
+    "st_j": 16.195,
+    "st_mass": 0.655,
+    "dec": -27.3928174,
+    "st_teff": 4071,
+    "st_rad": 0.6428,
+    "ra": 149.8236672,
+    "system_radius": 5395995.1709,
+    "pl_hostname": "HATS-77",
+    "stellar_type": "K",
+    "tic_id": "TIC 11561667",
+    "magnitude": 16.195
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260559",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243864"
+      }
+    ]
+  }
+}

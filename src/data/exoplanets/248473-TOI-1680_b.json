@@ -1,1 +1,79 @@
-{"id":248473,"date":"2023-07-28T16:01:28","date_gmt":"2023-07-28T20:01:28","modified":"2025-03-28T07:21:57","modified_gmt":"2025-03-28T11:21:57","slug":"toi-1680-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1680-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1680","pl_letter":"b","display_name":"TOI-1680 b","planet_radius":"1.466 x Earth","derived_description":"TOI-1680 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.75 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.03144 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":37.2209,"planet_mass":"2.75 Earths","st_optmag":15.87,"discovery_date":"2023","pl_orbsmax":0.03144,"period_display":"4.8 days","eccentricity":"","star_id":262706,"pl_orbper":4.8026345,"pl_kepflag":false,"pl_radj":0.13078799,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.466,"exo_id":"TOI-1680_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248473","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262706"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248473,
+  "date": "2023-07-28T16:01:28",
+  "date_gmt": "2023-07-28T20:01:28",
+  "modified": "2025-03-28T07:21:57",
+  "modified_gmt": "2025-03-28T11:21:57",
+  "slug": "toi-1680-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1680-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1680",
+    "pl_letter": "b",
+    "display_name": "TOI-1680 b",
+    "planet_radius": "1.466 x Earth",
+    "derived_description": "TOI-1680 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.75 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.03144 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 37.2209,
+    "planet_mass": "2.75 Earths",
+    "st_optmag": 15.87,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.03144,
+    "period_display": "4.8 days",
+    "eccentricity": "",
+    "star_id": 262706,
+    "pl_orbper": 4.8026345,
+    "pl_kepflag": false,
+    "pl_radj": 0.13078799,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.466,
+    "exo_id": "TOI-1680_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248473",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262706"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

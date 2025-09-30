@@ -1,1 +1,69 @@
-{"id":391211,"date":"2024-04-30T20:01:19","date_gmt":"2024-05-01T00:01:19","modified":"2025-04-23T05:57:29","modified_gmt":"2025-04-23T09:57:29","slug":"hd-166620","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-166620/","featured_media":429649,"categories":[],"acf":{"display_name":"HD 166620","custom_star_title":"","aliases":"HR 6806,GJ 706","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_166620","st_optmag":6.377,"st_vj":6.377,"st_dist":11.0959,"st_j":6.377,"st_mass":0.78,"dec":38.4577772,"st_teff":5028,"st_rad":0.794,"ra":272.4059009,"system_radius":149597870,"pl_hostname":"HD_166620","stellar_type":"K","tic_id":"TIC 75946144","magnitude":6.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391211","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391211,
+  "date": "2024-04-30T20:01:19",
+  "date_gmt": "2024-05-01T00:01:19",
+  "modified": "2025-04-23T05:57:29",
+  "modified_gmt": "2025-04-23T09:57:29",
+  "slug": "hd-166620",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-166620/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 166620",
+    "custom_star_title": "",
+    "aliases": "HR 6806,GJ 706",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_166620",
+    "st_optmag": 6.377,
+    "st_vj": 6.377,
+    "st_dist": 11.0959,
+    "st_j": 6.377,
+    "st_mass": 0.78,
+    "dec": 38.4577772,
+    "st_teff": 5028,
+    "st_rad": 0.794,
+    "ra": 272.4059009,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_166620",
+    "stellar_type": "K",
+    "tic_id": "TIC 75946144",
+    "magnitude": 6.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391211",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

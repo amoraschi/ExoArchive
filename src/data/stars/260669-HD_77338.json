@@ -1,1 +1,71 @@
-{"id":260669,"date":"2023-11-28T20:28:36","date_gmt":"2023-11-29T01:28:36","modified":"2025-04-23T05:53:32","modified_gmt":"2025-04-23T09:53:32","slug":"hd_77338","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_77338/","featured_media":0,"categories":[],"acf":{"display_name":"HD 77338","custom_star_title":"","aliases":"","constellation":"Pyxis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244546],"exo_id":"HD_77338","st_optmag":8.63,"st_vj":8.63,"st_dist":45.935,"st_j":8.63,"st_mass":1.37,"dec":-25.5282343,"st_teff":5341,"st_rad":0.97,"ra":135.3022475,"system_radius":8975872.2,"pl_hostname":"HD_77338","stellar_type":"G","tic_id":"TIC 37533318","magnitude":8.63},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260669","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244546"}]}}
+{
+  "id": 260669,
+  "date": "2023-11-28T20:28:36",
+  "date_gmt": "2023-11-29T01:28:36",
+  "modified": "2025-04-23T05:53:32",
+  "modified_gmt": "2025-04-23T09:53:32",
+  "slug": "hd_77338",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_77338/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 77338",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pyxis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244546
+    ],
+    "exo_id": "HD_77338",
+    "st_optmag": 8.63,
+    "st_vj": 8.63,
+    "st_dist": 45.935,
+    "st_j": 8.63,
+    "st_mass": 1.37,
+    "dec": -25.5282343,
+    "st_teff": 5341,
+    "st_rad": 0.97,
+    "ra": 135.3022475,
+    "system_radius": 8975872.2,
+    "pl_hostname": "HD_77338",
+    "stellar_type": "G",
+    "tic_id": "TIC 37533318",
+    "magnitude": 8.63
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260669",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244546"
+      }
+    ]
+  }
+}

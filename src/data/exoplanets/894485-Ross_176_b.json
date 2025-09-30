@@ -1,1 +1,79 @@
-{"id":894485,"date":"2025-08-14T22:09:24","date_gmt":"2025-08-15T02:09:24","modified":"2025-08-14T22:09:24","modified_gmt":"2025-08-15T02:09:24","slug":"ross-176-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ross-176-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Ross_176","pl_letter":"b","display_name":"Ross 176 b","planet_radius":"1.84 x Earth","derived_description":"Ross 176 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.57 Earths, it takes 5 days to complete one orbit of its star, and is 0.0464 AU from its star. Its discovery was announced in 2025.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":46.4488,"planet_mass":"4.57 Earths","st_optmag":11.524,"discovery_date":"2025","pl_orbsmax":0.0464,"period_display":"5 days","eccentricity":"0.25","star_id":894445,"pl_orbper":5.0066338,"pl_kepflag":false,"pl_radj":0.16415409,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":101,"multiple_planet_system":false,"pl_rade":1.84,"exo_id":"Ross_176_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.25},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/894485","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/894445"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 894485,
+  "date": "2025-08-14T22:09:24",
+  "date_gmt": "2025-08-15T02:09:24",
+  "modified": "2025-08-14T22:09:24",
+  "modified_gmt": "2025-08-15T02:09:24",
+  "slug": "ross-176-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ross-176-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Ross_176",
+    "pl_letter": "b",
+    "display_name": "Ross 176 b",
+    "planet_radius": "1.84 x Earth",
+    "derived_description": "Ross 176 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.57 Earths, it takes 5 days to complete one orbit of its star, and is 0.0464 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 46.4488,
+    "planet_mass": "4.57 Earths",
+    "st_optmag": 11.524,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.0464,
+    "period_display": "5 days",
+    "eccentricity": "0.25",
+    "star_id": 894445,
+    "pl_orbper": 5.0066338,
+    "pl_kepflag": false,
+    "pl_radj": 0.16415409,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 101,
+    "multiple_planet_system": false,
+    "pl_rade": 1.84,
+    "exo_id": "Ross_176_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.25
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/894485",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/894445"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

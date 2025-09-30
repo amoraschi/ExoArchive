@@ -1,1 +1,79 @@
-{"id":247076,"date":"2016-03-16T19:26:24","date_gmt":"2016-03-16T23:26:24","modified":"2025-07-07T20:42:00","modified_gmt":"2025-07-08T00:42:00","slug":"kepler-36-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-36-b/","featured_media":314815,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-36","pl_letter":"b","display_name":"Kepler-36 b","planet_radius":"1.498 x Earth","derived_description":"Kepler-36 b is a super Earth exoplanet that orbits a F-type star. Its mass is 3.83 Earths, it takes 13.9 days to complete one orbit of its star, and is 0.11419 AU from its star. Its discovery was announced in 2012.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":527.956,"planet_mass":"3.83 Earths","st_optmag":11.941,"discovery_date":"2012","pl_orbsmax":0.11419,"period_display":"13.9 days","eccentricity":"0.0","star_id":262858,"pl_orbper":13.86825,"pl_kepflag":true,"pl_radj":0.13364261,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.498,"exo_id":"Kepler-36_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247076","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262858"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/314815"}]}}
+{
+  "id": 247076,
+  "date": "2016-03-16T19:26:24",
+  "date_gmt": "2016-03-16T23:26:24",
+  "modified": "2025-07-07T20:42:00",
+  "modified_gmt": "2025-07-08T00:42:00",
+  "slug": "kepler-36-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-36-b/",
+  "featured_media": 314815,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-36",
+    "pl_letter": "b",
+    "display_name": "Kepler-36 b",
+    "planet_radius": "1.498 x Earth",
+    "derived_description": "Kepler-36 b is a super Earth exoplanet that orbits a F-type star. Its mass is 3.83 Earths, it takes 13.9 days to complete one orbit of its star, and is 0.11419 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 527.956,
+    "planet_mass": "3.83 Earths",
+    "st_optmag": 11.941,
+    "discovery_date": "2012",
+    "pl_orbsmax": 0.11419,
+    "period_display": "13.9 days",
+    "eccentricity": "0.0",
+    "star_id": 262858,
+    "pl_orbper": 13.86825,
+    "pl_kepflag": true,
+    "pl_radj": 0.13364261,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.498,
+    "exo_id": "Kepler-36_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247076",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262858"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/314815"
+      }
+    ]
+  }
+}

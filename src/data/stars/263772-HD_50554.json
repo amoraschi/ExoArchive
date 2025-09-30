@@ -1,1 +1,71 @@
-{"id":263772,"date":"2023-11-28T21:08:01","date_gmt":"2023-11-29T02:08:01","modified":"2025-04-23T05:54:49","modified_gmt":"2025-04-23T09:54:49","slug":"hd_50554","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_50554/","featured_media":0,"categories":[],"acf":{"display_name":"HD 50554","custom_star_title":"","aliases":"","constellation":"Gemini","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244471],"exo_id":"HD_50554","st_optmag":6.8561,"st_vj":6.8561,"st_dist":31.1664,"st_j":6.8561,"st_mass":1.04,"dec":24.2451409,"st_teff":5987,"st_rad":1.02,"ra":103.678273,"system_radius":352003788.11,"pl_hostname":"HD_50554","stellar_type":"F","tic_id":"TIC 80224448","magnitude":6.8561},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263772","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244471"}]}}
+{
+  "id": 263772,
+  "date": "2023-11-28T21:08:01",
+  "date_gmt": "2023-11-29T02:08:01",
+  "modified": "2025-04-23T05:54:49",
+  "modified_gmt": "2025-04-23T09:54:49",
+  "slug": "hd_50554",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_50554/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 50554",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Gemini",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244471
+    ],
+    "exo_id": "HD_50554",
+    "st_optmag": 6.8561,
+    "st_vj": 6.8561,
+    "st_dist": 31.1664,
+    "st_j": 6.8561,
+    "st_mass": 1.04,
+    "dec": 24.2451409,
+    "st_teff": 5987,
+    "st_rad": 1.02,
+    "ra": 103.678273,
+    "system_radius": 352003788.11,
+    "pl_hostname": "HD_50554",
+    "stellar_type": "F",
+    "tic_id": "TIC 80224448",
+    "magnitude": 6.8561
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263772",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244471"
+      }
+    ]
+  }
+}

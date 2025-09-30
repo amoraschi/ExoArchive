@@ -1,1 +1,71 @@
-{"id":262381,"date":"2023-11-28T20:50:16","date_gmt":"2023-11-29T01:50:16","modified":"2025-04-23T05:53:26","modified_gmt":"2025-04-23T09:53:26","slug":"hats-68","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-68/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-68","custom_star_title":"","aliases":"","constellation":"Tucana","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243855],"exo_id":"HATS-68","st_optmag":12.312,"st_vj":12.312,"st_dist":603.955,"st_j":12.312,"st_mass":1.351,"dec":-58.9047242,"st_teff":6147,"st_rad":1.748,"ra":15.006077,"system_radius":7586107.9877,"pl_hostname":"HATS-68","stellar_type":"F","tic_id":"TIC 322307342","magnitude":12.312},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262381","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243855"}]}}
+{
+  "id": 262381,
+  "date": "2023-11-28T20:50:16",
+  "date_gmt": "2023-11-29T01:50:16",
+  "modified": "2025-04-23T05:53:26",
+  "modified_gmt": "2025-04-23T09:53:26",
+  "slug": "hats-68",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-68/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-68",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Tucana",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243855
+    ],
+    "exo_id": "HATS-68",
+    "st_optmag": 12.312,
+    "st_vj": 12.312,
+    "st_dist": 603.955,
+    "st_j": 12.312,
+    "st_mass": 1.351,
+    "dec": -58.9047242,
+    "st_teff": 6147,
+    "st_rad": 1.748,
+    "ra": 15.006077,
+    "system_radius": 7586107.9877,
+    "pl_hostname": "HATS-68",
+    "stellar_type": "F",
+    "tic_id": "TIC 322307342",
+    "magnitude": 12.312
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262381",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243855"
+      }
+    ]
+  }
+}

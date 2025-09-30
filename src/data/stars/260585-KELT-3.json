@@ -1,1 +1,71 @@
-{"id":260585,"date":"2023-11-28T20:27:38","date_gmt":"2023-11-29T01:27:38","modified":"2025-06-06T07:19:33","modified_gmt":"2025-06-06T11:19:33","slug":"kelt-3","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-3/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-3","custom_star_title":"","aliases":"","constellation":"Leo Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245221],"exo_id":"KELT-3","st_optmag":9.816,"st_vj":9.816,"st_dist":210.252,"st_j":9.816,"st_mass":1.96,"dec":40.3879446,"st_teff":6304,"st_rad":1.7,"ra":148.6431193,"system_radius":6167920.1801,"pl_hostname":"KELT-3","stellar_type":"F","tic_id":"TIC 67666096","magnitude":9.816},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260585","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245221"}]}}
+{
+  "id": 260585,
+  "date": "2023-11-28T20:27:38",
+  "date_gmt": "2023-11-29T01:27:38",
+  "modified": "2025-06-06T07:19:33",
+  "modified_gmt": "2025-06-06T11:19:33",
+  "slug": "kelt-3",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-3/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-3",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245221
+    ],
+    "exo_id": "KELT-3",
+    "st_optmag": 9.816,
+    "st_vj": 9.816,
+    "st_dist": 210.252,
+    "st_j": 9.816,
+    "st_mass": 1.96,
+    "dec": 40.3879446,
+    "st_teff": 6304,
+    "st_rad": 1.7,
+    "ra": 148.6431193,
+    "system_radius": 6167920.1801,
+    "pl_hostname": "KELT-3",
+    "stellar_type": "F",
+    "tic_id": "TIC 67666096",
+    "magnitude": 9.816
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260585",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245221"
+      }
+    ]
+  }
+}

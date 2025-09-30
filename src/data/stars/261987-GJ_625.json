@@ -1,1 +1,71 @@
-{"id":261987,"date":"2023-11-28T20:45:16","date_gmt":"2023-11-29T01:45:16","modified":"2025-04-23T05:55:16","modified_gmt":"2025-04-23T09:55:16","slug":"gj_625","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_625/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 625","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243676],"exo_id":"GJ_625","st_optmag":10.066,"st_vj":10.066,"st_dist":6.47249,"st_j":10.066,"st_mass":0.3,"dec":54.3033625,"st_teff":3499,"st_rad":0.31,"ra":246.3557854,"system_radius":11722638.69107,"pl_hostname":"GJ_625","stellar_type":"M","tic_id":"TIC 207492082","magnitude":10.066},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261987","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243676"}]}}
+{
+  "id": 261987,
+  "date": "2023-11-28T20:45:16",
+  "date_gmt": "2023-11-29T01:45:16",
+  "modified": "2025-04-23T05:55:16",
+  "modified_gmt": "2025-04-23T09:55:16",
+  "slug": "gj_625",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_625/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 625",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243676
+    ],
+    "exo_id": "GJ_625",
+    "st_optmag": 10.066,
+    "st_vj": 10.066,
+    "st_dist": 6.47249,
+    "st_j": 10.066,
+    "st_mass": 0.3,
+    "dec": 54.3033625,
+    "st_teff": 3499,
+    "st_rad": 0.31,
+    "ra": 246.3557854,
+    "system_radius": 11722638.69107,
+    "pl_hostname": "GJ_625",
+    "stellar_type": "M",
+    "tic_id": "TIC 207492082",
+    "magnitude": 10.066
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261987",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243676"
+      }
+    ]
+  }
+}

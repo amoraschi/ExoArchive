@@ -1,1 +1,71 @@
-{"id":260870,"date":"2023-11-28T20:31:09","date_gmt":"2023-11-29T01:31:09","modified":"2025-04-23T05:53:49","modified_gmt":"2025-04-23T09:53:49","slug":"corot-36","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-36/","featured_media":0,"categories":[],"acf":{"display_name":"CoRoT-36","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243500],"exo_id":"CoRoT-36","st_optmag":13.126,"st_vj":13.126,"st_dist":925.958,"st_j":13.126,"st_mass":1.32,"dec":7.1833465,"st_teff":6730,"st_rad":1.52,"ra":277.7510149,"system_radius":9873459.42,"pl_hostname":"CoRoT-36","stellar_type":"F","tic_id":"TIC 405004589","magnitude":13.126},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260870","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243500"}]}}
+{
+  "id": 260870,
+  "date": "2023-11-28T20:31:09",
+  "date_gmt": "2023-11-29T01:31:09",
+  "modified": "2025-04-23T05:53:49",
+  "modified_gmt": "2025-04-23T09:53:49",
+  "slug": "corot-36",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-36/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-36",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243500
+    ],
+    "exo_id": "CoRoT-36",
+    "st_optmag": 13.126,
+    "st_vj": 13.126,
+    "st_dist": 925.958,
+    "st_j": 13.126,
+    "st_mass": 1.32,
+    "dec": 7.1833465,
+    "st_teff": 6730,
+    "st_rad": 1.52,
+    "ra": 277.7510149,
+    "system_radius": 9873459.42,
+    "pl_hostname": "CoRoT-36",
+    "stellar_type": "F",
+    "tic_id": "TIC 405004589",
+    "magnitude": 13.126
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260870",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243500"
+      }
+    ]
+  }
+}

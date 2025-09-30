@@ -1,1 +1,71 @@
-{"id":261731,"date":"2023-11-28T20:42:01","date_gmt":"2023-11-29T01:42:01","modified":"2025-04-23T05:56:21","modified_gmt":"2025-04-23T09:56:21","slug":"kepler-738","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-738/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-738","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247648],"exo_id":"Kepler-738","st_optmag":15.793,"st_vj":15.793,"st_dist":1113.65,"st_j":15.793,"st_mass":0.86,"dec":46.5679011,"st_teff":5327,"st_rad":0.82,"ra":287.5696516,"system_radius":23217589.424,"pl_hostname":"Kepler-738","stellar_type":"G","tic_id":"TIC 158490928","magnitude":15.793},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261731","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247648"}]}}
+{
+  "id": 261731,
+  "date": "2023-11-28T20:42:01",
+  "date_gmt": "2023-11-29T01:42:01",
+  "modified": "2025-04-23T05:56:21",
+  "modified_gmt": "2025-04-23T09:56:21",
+  "slug": "kepler-738",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-738/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-738",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247648
+    ],
+    "exo_id": "Kepler-738",
+    "st_optmag": 15.793,
+    "st_vj": 15.793,
+    "st_dist": 1113.65,
+    "st_j": 15.793,
+    "st_mass": 0.86,
+    "dec": 46.5679011,
+    "st_teff": 5327,
+    "st_rad": 0.82,
+    "ra": 287.5696516,
+    "system_radius": 23217589.424,
+    "pl_hostname": "Kepler-738",
+    "stellar_type": "G",
+    "tic_id": "TIC 158490928",
+    "magnitude": 15.793
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261731",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247648"
+      }
+    ]
+  }
+}

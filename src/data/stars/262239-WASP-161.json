@@ -1,1 +1,71 @@
-{"id":262239,"date":"2023-11-28T20:48:28","date_gmt":"2023-11-29T01:48:28","modified":"2025-04-23T05:53:51","modified_gmt":"2025-04-23T09:53:51","slug":"wasp-161","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-161/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-161","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248797],"exo_id":"WASP-161","st_optmag":11.079,"st_vj":11.079,"st_dist":343.08,"st_j":11.079,"st_mass":1.39,"dec":-11.5009889,"st_teff":6400,"st_rad":1.712,"ra":126.3378248,"system_radius":10067936.651,"pl_hostname":"WASP-161","stellar_type":"F","tic_id":"TIC 50712784","magnitude":11.079},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262239","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248797"}]}}
+{
+  "id": 262239,
+  "date": "2023-11-28T20:48:28",
+  "date_gmt": "2023-11-29T01:48:28",
+  "modified": "2025-04-23T05:53:51",
+  "modified_gmt": "2025-04-23T09:53:51",
+  "slug": "wasp-161",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-161/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-161",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248797
+    ],
+    "exo_id": "WASP-161",
+    "st_optmag": 11.079,
+    "st_vj": 11.079,
+    "st_dist": 343.08,
+    "st_j": 11.079,
+    "st_mass": 1.39,
+    "dec": -11.5009889,
+    "st_teff": 6400,
+    "st_rad": 1.712,
+    "ra": 126.3378248,
+    "system_radius": 10067936.651,
+    "pl_hostname": "WASP-161",
+    "stellar_type": "F",
+    "tic_id": "TIC 50712784",
+    "magnitude": 11.079
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262239",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248797"
+      }
+    ]
+  }
+}

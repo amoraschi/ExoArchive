@@ -1,1 +1,71 @@
-{"id":260391,"date":"2023-11-28T20:25:11","date_gmt":"2023-11-29T01:25:11","modified":"2025-04-23T05:53:13","modified_gmt":"2025-04-23T09:53:13","slug":"ogle-2016-blg-1227l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2016-blg-1227l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2016-BLG-1227L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248277],"exo_id":"OGLE-2016-BLG-1227L","st_optmag":"","st_vj":"","st_dist":"","st_j":"","st_mass":0.1,"dec":-33.7597778,"st_teff":"","st_rad":"","ra":265.597125,"system_radius":508632758,"pl_hostname":"OGLE-2016-BLG-1227L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260391","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248277"}]}}
+{
+  "id": 260391,
+  "date": "2023-11-28T20:25:11",
+  "date_gmt": "2023-11-29T01:25:11",
+  "modified": "2025-04-23T05:53:13",
+  "modified_gmt": "2025-04-23T09:53:13",
+  "slug": "ogle-2016-blg-1227l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2016-blg-1227l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2016-BLG-1227L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248277
+    ],
+    "exo_id": "OGLE-2016-BLG-1227L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": "",
+    "st_j": "",
+    "st_mass": 0.1,
+    "dec": -33.7597778,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 265.597125,
+    "system_radius": 508632758,
+    "pl_hostname": "OGLE-2016-BLG-1227L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260391",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248277"
+      }
+    ]
+  }
+}

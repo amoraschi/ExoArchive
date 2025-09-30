@@ -1,1 +1,79 @@
-{"id":482331,"date":"2025-03-14T06:54:06","date_gmt":"2025-03-14T10:54:06","modified":"2025-07-07T20:39:06","modified_gmt":"2025-07-08T00:39:06","slug":"barnard-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/barnard-d/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Barnard's_star","pl_letter":"d","display_name":"Barnard d","planet_radius":"0.694 x Earth (estimate)","derived_description":"Barnard d is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.263 Earths, it takes 2.3 days to complete one orbit of its star, and is 0.0188 AU from its star. Its discovery was announced in 2025.","planet_type":"Terrestrial","pl_discmethod":"Radial Velocity","pl_facility":"Gemini Observatory","st_dist":1.82655,"planet_mass":"0.263 Earths","st_optmag":9.54,"discovery_date":"2025","pl_orbsmax":0.0188,"period_display":"2.3 days","eccentricity":"0.04","star_id":427392,"pl_orbper":2.3402,"pl_kepflag":false,"pl_radj":0.062,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":-51.8,"multiple_planet_system":false,"pl_rade":0.694,"exo_id":"Barnard_d","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/482331","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/427392"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 482331,
+  "date": "2025-03-14T06:54:06",
+  "date_gmt": "2025-03-14T10:54:06",
+  "modified": "2025-07-07T20:39:06",
+  "modified_gmt": "2025-07-08T00:39:06",
+  "slug": "barnard-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/barnard-d/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Barnard's_star",
+    "pl_letter": "d",
+    "display_name": "Barnard d",
+    "planet_radius": "0.694 x Earth (estimate)",
+    "derived_description": "Barnard d is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.263 Earths, it takes 2.3 days to complete one orbit of its star, and is 0.0188 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Gemini Observatory",
+    "st_dist": 1.82655,
+    "planet_mass": "0.263 Earths",
+    "st_optmag": 9.54,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.0188,
+    "period_display": "2.3 days",
+    "eccentricity": "0.04",
+    "star_id": 427392,
+    "pl_orbper": 2.3402,
+    "pl_kepflag": false,
+    "pl_radj": 0.062,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": -51.8,
+    "multiple_planet_system": false,
+    "pl_rade": 0.694,
+    "exo_id": "Barnard_d",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/482331",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/427392"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

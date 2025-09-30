@@ -1,1 +1,79 @@
-{"id":244197,"date":"2019-04-22T16:48:43","date_gmt":"2019-04-22T20:48:43","modified":"2025-07-07T20:39:54","modified_gmt":"2025-07-08T00:39:54","slug":"hd-190360-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-190360-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_190360","pl_letter":"c","display_name":"HD 190360 c","planet_radius":"0.409 x Jupiter (estimate)","derived_description":"HD 190360 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19.069 Earths, it takes 17.1 days to complete one orbit of its star, and is 0.1304 AU from its star. Its discovery was announced in 2005.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":16.0035,"planet_mass":"19.069 Earths","st_optmag":5.745,"discovery_date":"2005","pl_orbsmax":0.1304,"period_display":"17.1 days","eccentricity":"0.24","star_id":262304,"pl_orbper":17.111,"pl_kepflag":false,"pl_radj":0.409,"pl_disc":2005,"pl_publ_date":"2005","planet_orbit_period":5,"multiple_planet_system":false,"pl_rade":4.59,"exo_id":"HD_190360_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.237},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244197","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262304"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244197,
+  "date": "2019-04-22T16:48:43",
+  "date_gmt": "2019-04-22T20:48:43",
+  "modified": "2025-07-07T20:39:54",
+  "modified_gmt": "2025-07-08T00:39:54",
+  "slug": "hd-190360-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-190360-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_190360",
+    "pl_letter": "c",
+    "display_name": "HD 190360 c",
+    "planet_radius": "0.409 x Jupiter (estimate)",
+    "derived_description": "HD 190360 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19.069 Earths, it takes 17.1 days to complete one orbit of its star, and is 0.1304 AU from its star. Its discovery was announced in 2005.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 16.0035,
+    "planet_mass": "19.069 Earths",
+    "st_optmag": 5.745,
+    "discovery_date": "2005",
+    "pl_orbsmax": 0.1304,
+    "period_display": "17.1 days",
+    "eccentricity": "0.24",
+    "star_id": 262304,
+    "pl_orbper": 17.111,
+    "pl_kepflag": false,
+    "pl_radj": 0.409,
+    "pl_disc": 2005,
+    "pl_publ_date": "2005",
+    "planet_orbit_period": 5,
+    "multiple_planet_system": false,
+    "pl_rade": 4.59,
+    "exo_id": "HD_190360_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.237
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244197",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262304"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

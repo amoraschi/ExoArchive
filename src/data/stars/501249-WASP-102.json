@@ -1,1 +1,77 @@
-{"id":501249,"date":"2025-04-25T05:59:16","date_gmt":"2025-04-25T09:59:16","modified":"2025-04-25T05:59:16","modified_gmt":"2025-04-25T09:59:16","slug":"wasp-102","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-102/","featured_media":429647,"categories":[],"acf":{"display_name":"WASP-102","custom_star_title":"","aliases":"","constellation":"Pegasus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876421],"exo_id":"WASP-102","st_optmag":12.667,"st_vj":12.667,"st_dist":535.689,"st_j":12.667,"st_mass":1.08,"dec":15.8566392,"st_teff":5990,"st_rad":1.375,"ra":336.4643016,"system_radius":6133512.67,"pl_hostname":"WASP-102","stellar_type":"F","tic_id":"TIC 51637609","magnitude":12.667},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/501249","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876421"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 501249,
+  "date": "2025-04-25T05:59:16",
+  "date_gmt": "2025-04-25T09:59:16",
+  "modified": "2025-04-25T05:59:16",
+  "modified_gmt": "2025-04-25T09:59:16",
+  "slug": "wasp-102",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-102/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-102",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pegasus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876421
+    ],
+    "exo_id": "WASP-102",
+    "st_optmag": 12.667,
+    "st_vj": 12.667,
+    "st_dist": 535.689,
+    "st_j": 12.667,
+    "st_mass": 1.08,
+    "dec": 15.8566392,
+    "st_teff": 5990,
+    "st_rad": 1.375,
+    "ra": 336.4643016,
+    "system_radius": 6133512.67,
+    "pl_hostname": "WASP-102",
+    "stellar_type": "F",
+    "tic_id": "TIC 51637609",
+    "magnitude": 12.667
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/501249",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876421"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

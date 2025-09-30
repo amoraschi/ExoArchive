@@ -1,1 +1,71 @@
-{"id":260488,"date":"2023-11-28T20:26:25","date_gmt":"2023-11-29T01:26:25","modified":"2025-04-23T05:54:14","modified_gmt":"2025-04-23T09:54:14","slug":"k2-319","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-319/","featured_media":0,"categories":[],"acf":{"display_name":"K2-319","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244999],"exo_id":"K2-319","st_optmag":12.213,"st_vj":12.213,"st_dist":209.071,"st_j":12.213,"st_mass":0.954,"dec":3.0399357,"st_teff":5440,"st_rad":0.898,"ra":166.8010058,"system_radius":22679037.092,"pl_hostname":"K2-319","stellar_type":"G","tic_id":"TIC 301540319","magnitude":12.213},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260488","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244999"}]}}
+{
+  "id": 260488,
+  "date": "2023-11-28T20:26:25",
+  "date_gmt": "2023-11-29T01:26:25",
+  "modified": "2025-04-23T05:54:14",
+  "modified_gmt": "2025-04-23T09:54:14",
+  "slug": "k2-319",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-319/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-319",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244999
+    ],
+    "exo_id": "K2-319",
+    "st_optmag": 12.213,
+    "st_vj": 12.213,
+    "st_dist": 209.071,
+    "st_j": 12.213,
+    "st_mass": 0.954,
+    "dec": 3.0399357,
+    "st_teff": 5440,
+    "st_rad": 0.898,
+    "ra": 166.8010058,
+    "system_radius": 22679037.092,
+    "pl_hostname": "K2-319",
+    "stellar_type": "G",
+    "tic_id": "TIC 301540319",
+    "magnitude": 12.213
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260488",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244999"
+      }
+    ]
+  }
+}

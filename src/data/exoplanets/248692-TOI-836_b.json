@@ -1,1 +1,79 @@
-{"id":248692,"date":"2023-03-07T19:15:48","date_gmt":"2023-03-08T00:15:48","modified":"2025-07-07T20:37:29","modified_gmt":"2025-07-08T00:37:29","slug":"toi-836-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-836-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-836","pl_letter":"b","display_name":"TOI-836 b","planet_radius":"1.704 x Earth","derived_description":"TOI-836 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.53 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.0422 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":27.5024,"planet_mass":"4.53 Earths","st_optmag":9.92,"discovery_date":"2023","pl_orbsmax":0.0422,"period_display":"3.8 days","eccentricity":"0.05","star_id":261585,"pl_orbper":3.81673,"pl_kepflag":false,"pl_radj":0.15202096,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":9,"multiple_planet_system":false,"pl_rade":1.704,"exo_id":"TOI-836_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.053},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248692","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261585"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248692,
+  "date": "2023-03-07T19:15:48",
+  "date_gmt": "2023-03-08T00:15:48",
+  "modified": "2025-07-07T20:37:29",
+  "modified_gmt": "2025-07-08T00:37:29",
+  "slug": "toi-836-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-836-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-836",
+    "pl_letter": "b",
+    "display_name": "TOI-836 b",
+    "planet_radius": "1.704 x Earth",
+    "derived_description": "TOI-836 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.53 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.0422 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 27.5024,
+    "planet_mass": "4.53 Earths",
+    "st_optmag": 9.92,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.0422,
+    "period_display": "3.8 days",
+    "eccentricity": "0.05",
+    "star_id": 261585,
+    "pl_orbper": 3.81673,
+    "pl_kepflag": false,
+    "pl_radj": 0.15202096,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 9,
+    "multiple_planet_system": false,
+    "pl_rade": 1.704,
+    "exo_id": "TOI-836_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.053
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248692",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261585"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

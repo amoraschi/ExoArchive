@@ -1,1 +1,71 @@
-{"id":260439,"date":"2023-11-28T20:25:48","date_gmt":"2023-11-29T01:25:48","modified":"2025-04-23T05:53:16","modified_gmt":"2025-04-23T09:53:16","slug":"70_vir","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/70_vir/","featured_media":0,"categories":[],"acf":{"display_name":"70 Virginis","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243421],"exo_id":"70_Vir","st_optmag":4.96808,"st_vj":4.96808,"st_dist":17.9011,"st_j":4.96808,"st_mass":1.09,"dec":13.7763085,"st_teff":5495,"st_rad":1.89,"ra":202.1064898,"system_radius":71956575.47,"pl_hostname":"70_Vir","stellar_type":"G","tic_id":"TIC 95473936","magnitude":4.96808},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260439","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243421"}]}}
+{
+  "id": 260439,
+  "date": "2023-11-28T20:25:48",
+  "date_gmt": "2023-11-29T01:25:48",
+  "modified": "2025-04-23T05:53:16",
+  "modified_gmt": "2025-04-23T09:53:16",
+  "slug": "70_vir",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/70_vir/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "70 Virginis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243421
+    ],
+    "exo_id": "70_Vir",
+    "st_optmag": 4.96808,
+    "st_vj": 4.96808,
+    "st_dist": 17.9011,
+    "st_j": 4.96808,
+    "st_mass": 1.09,
+    "dec": 13.7763085,
+    "st_teff": 5495,
+    "st_rad": 1.89,
+    "ra": 202.1064898,
+    "system_radius": 71956575.47,
+    "pl_hostname": "70_Vir",
+    "stellar_type": "G",
+    "tic_id": "TIC 95473936",
+    "magnitude": 4.96808
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260439",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243421"
+      }
+    ]
+  }
+}

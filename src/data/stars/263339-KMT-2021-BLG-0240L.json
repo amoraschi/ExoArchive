@@ -1,1 +1,71 @@
-{"id":263339,"date":"2023-11-28T21:02:24","date_gmt":"2023-11-29T02:02:24","modified":"2025-04-23T05:56:56","modified_gmt":"2025-04-23T09:56:56","slug":"kmt-2021-blg-0240l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-0240l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2021-BLG-0240L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248079],"exo_id":"KMT-2021-BLG-0240L","st_optmag":"","st_vj":"","st_dist":6600,"st_j":"","st_mass":0.56,"dec":-30.0049694,"st_teff":"","st_rad":"","ra":267.5772917,"system_radius":418874036,"pl_hostname":"KMT-2021-BLG-0240L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263339","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248079"}]}}
+{
+  "id": 263339,
+  "date": "2023-11-28T21:02:24",
+  "date_gmt": "2023-11-29T02:02:24",
+  "modified": "2025-04-23T05:56:56",
+  "modified_gmt": "2025-04-23T09:56:56",
+  "slug": "kmt-2021-blg-0240l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-0240l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2021-BLG-0240L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248079
+    ],
+    "exo_id": "KMT-2021-BLG-0240L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6600,
+    "st_j": "",
+    "st_mass": 0.56,
+    "dec": -30.0049694,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 267.5772917,
+    "system_radius": 418874036,
+    "pl_hostname": "KMT-2021-BLG-0240L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263339",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248079"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":263148,"date":"2023-11-28T21:00:01","date_gmt":"2023-11-29T02:00:01","modified":"2025-06-13T07:33:47","modified_gmt":"2025-06-13T11:33:47","slug":"kepler-949","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-949/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-949","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247939,"1":247938},"exo_id":"Kepler-949","st_optmag":14.718,"st_vj":14.718,"st_dist":486.105,"st_j":14.718,"st_mass":0.89,"dec":46.45366,"st_teff":5403,"st_rad":0.86,"ra":298.6079128,"system_radius":20853943.078,"pl_hostname":"Kepler-949","stellar_type":"G","tic_id":"TIC 268060310","magnitude":14.718},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263148","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247939"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247938"}]}}
+{
+  "id": 263148,
+  "date": "2023-11-28T21:00:01",
+  "date_gmt": "2023-11-29T02:00:01",
+  "modified": "2025-06-13T07:33:47",
+  "modified_gmt": "2025-06-13T11:33:47",
+  "slug": "kepler-949",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-949/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-949",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247939,
+      "1": 247938
+    },
+    "exo_id": "Kepler-949",
+    "st_optmag": 14.718,
+    "st_vj": 14.718,
+    "st_dist": 486.105,
+    "st_j": 14.718,
+    "st_mass": 0.89,
+    "dec": 46.45366,
+    "st_teff": 5403,
+    "st_rad": 0.86,
+    "ra": 298.6079128,
+    "system_radius": 20853943.078,
+    "pl_hostname": "Kepler-949",
+    "stellar_type": "G",
+    "tic_id": "TIC 268060310",
+    "magnitude": 14.718
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263148",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247939"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247938"
+      }
+    ]
+  }
+}

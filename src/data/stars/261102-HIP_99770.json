@@ -1,1 +1,71 @@
-{"id":261102,"date":"2023-11-28T20:34:04","date_gmt":"2023-11-29T01:34:04","modified":"2025-04-23T05:54:08","modified_gmt":"2025-04-23T09:54:08","slug":"hip_99770","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_99770/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 99770","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244701],"exo_id":"HIP_99770","st_optmag":4.94292,"st_vj":4.94292,"st_dist":40.0765,"st_j":4.94292,"st_mass":1.85,"dec":36.8066046,"st_teff":8000,"st_rad":1.93986,"ra":303.6338344,"system_radius":2528204003,"pl_hostname":"HIP_99770","stellar_type":"A","tic_id":"TIC 10988057","magnitude":4.94292},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261102","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244701"}]}}
+{
+  "id": 261102,
+  "date": "2023-11-28T20:34:04",
+  "date_gmt": "2023-11-29T01:34:04",
+  "modified": "2025-04-23T05:54:08",
+  "modified_gmt": "2025-04-23T09:54:08",
+  "slug": "hip_99770",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_99770/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 99770",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244701
+    ],
+    "exo_id": "HIP_99770",
+    "st_optmag": 4.94292,
+    "st_vj": 4.94292,
+    "st_dist": 40.0765,
+    "st_j": 4.94292,
+    "st_mass": 1.85,
+    "dec": 36.8066046,
+    "st_teff": 8000,
+    "st_rad": 1.93986,
+    "ra": 303.6338344,
+    "system_radius": 2528204003,
+    "pl_hostname": "HIP_99770",
+    "stellar_type": "A",
+    "tic_id": "TIC 10988057",
+    "magnitude": 4.94292
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261102",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244701"
+      }
+    ]
+  }
+}

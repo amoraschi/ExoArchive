@@ -1,1 +1,71 @@
-{"id":263519,"date":"2023-11-28T21:04:41","date_gmt":"2023-11-29T02:04:41","modified":"2025-04-23T05:55:25","modified_gmt":"2025-04-23T09:55:25","slug":"toi-1693","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1693/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1693","custom_star_title":"","aliases":"","constellation":"Auriga","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248475],"exo_id":"TOI-1693","st_optmag":12.962,"st_vj":12.962,"st_dist":30.7947,"st_j":12.962,"st_mass":0.49,"dec":34.7730904,"st_teff":3499,"st_rad":0.46,"ra":90.3083455,"system_radius":3380911.862,"pl_hostname":"TOI-1693","stellar_type":"M","tic_id":"TIC 353475866","magnitude":12.962},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263519","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248475"}]}}
+{
+  "id": 263519,
+  "date": "2023-11-28T21:04:41",
+  "date_gmt": "2023-11-29T02:04:41",
+  "modified": "2025-04-23T05:55:25",
+  "modified_gmt": "2025-04-23T09:55:25",
+  "slug": "toi-1693",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1693/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1693",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Auriga",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248475
+    ],
+    "exo_id": "TOI-1693",
+    "st_optmag": 12.962,
+    "st_vj": 12.962,
+    "st_dist": 30.7947,
+    "st_j": 12.962,
+    "st_mass": 0.49,
+    "dec": 34.7730904,
+    "st_teff": 3499,
+    "st_rad": 0.46,
+    "ra": 90.3083455,
+    "system_radius": 3380911.862,
+    "pl_hostname": "TOI-1693",
+    "stellar_type": "M",
+    "tic_id": "TIC 353475866",
+    "magnitude": 12.962
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263519",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248475"
+      }
+    ]
+  }
+}

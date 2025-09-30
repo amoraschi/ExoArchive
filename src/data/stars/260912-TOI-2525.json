@@ -1,1 +1,76 @@
-{"id":260912,"date":"2023-11-28T20:31:41","date_gmt":"2023-11-29T01:31:41","modified":"2025-04-23T05:53:18","modified_gmt":"2025-04-23T09:53:18","slug":"toi-2525","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2525/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2525","custom_star_title":"","aliases":"","constellation":"Pictor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248561,248562],"exo_id":"TOI-2525","st_optmag":14.216,"st_vj":14.216,"st_dist":395.398,"st_j":14.216,"st_mass":0.849,"dec":-60.5213081,"st_teff":5096,"st_rad":0.785,"ra":86.8509737,"system_radius":37249869.63,"pl_hostname":"TOI-2525","stellar_type":"K","tic_id":"TIC 149601126","magnitude":14.216},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260912","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248562"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248561"}]}}
+{
+  "id": 260912,
+  "date": "2023-11-28T20:31:41",
+  "date_gmt": "2023-11-29T01:31:41",
+  "modified": "2025-04-23T05:53:18",
+  "modified_gmt": "2025-04-23T09:53:18",
+  "slug": "toi-2525",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2525/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2525",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pictor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248561,
+      248562
+    ],
+    "exo_id": "TOI-2525",
+    "st_optmag": 14.216,
+    "st_vj": 14.216,
+    "st_dist": 395.398,
+    "st_j": 14.216,
+    "st_mass": 0.849,
+    "dec": -60.5213081,
+    "st_teff": 5096,
+    "st_rad": 0.785,
+    "ra": 86.8509737,
+    "system_radius": 37249869.63,
+    "pl_hostname": "TOI-2525",
+    "stellar_type": "K",
+    "tic_id": "TIC 149601126",
+    "magnitude": 14.216
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260912",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248562"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248561"
+      }
+    ]
+  }
+}

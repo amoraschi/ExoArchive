@@ -1,1 +1,81 @@
-{"id":260982,"date":"2023-11-28T20:32:33","date_gmt":"2023-11-29T01:32:33","modified":"2025-04-23T05:55:11","modified_gmt":"2025-04-23T09:55:11","slug":"kepler-298","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-298/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-298","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246882,"1":248970,"2":246881},"exo_id":"Kepler-298","st_optmag":15.617,"st_vj":15.617,"st_dist":518.204,"st_j":15.617,"st_mass":0.66,"dec":48.8253303,"st_teff":4465,"st_rad":0.582,"ra":283.0398448,"system_radius":45627350.35,"pl_hostname":"Kepler-298","stellar_type":"K","tic_id":"TIC 48217868","magnitude":15.617},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260982","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248970"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246882"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246881"}]}}
+{
+  "id": 260982,
+  "date": "2023-11-28T20:32:33",
+  "date_gmt": "2023-11-29T01:32:33",
+  "modified": "2025-04-23T05:55:11",
+  "modified_gmt": "2025-04-23T09:55:11",
+  "slug": "kepler-298",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-298/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-298",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246882,
+      "1": 248970,
+      "2": 246881
+    },
+    "exo_id": "Kepler-298",
+    "st_optmag": 15.617,
+    "st_vj": 15.617,
+    "st_dist": 518.204,
+    "st_j": 15.617,
+    "st_mass": 0.66,
+    "dec": 48.8253303,
+    "st_teff": 4465,
+    "st_rad": 0.582,
+    "ra": 283.0398448,
+    "system_radius": 45627350.35,
+    "pl_hostname": "Kepler-298",
+    "stellar_type": "K",
+    "tic_id": "TIC 48217868",
+    "magnitude": 15.617
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260982",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248970"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246882"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246881"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":260981,"date":"2023-11-28T20:32:33","date_gmt":"2023-11-29T01:32:33","modified":"2025-04-23T05:54:17","modified_gmt":"2025-04-23T09:54:17","slug":"kepler-825","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-825/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-825","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247770,247771],"exo_id":"Kepler-825","st_optmag":14.296,"st_vj":14.296,"st_dist":807.85,"st_j":14.296,"st_mass":1.03,"dec":39.3984081,"st_teff":5976,"st_rad":1.08,"ra":294.769825,"system_radius":11354478.333,"pl_hostname":"Kepler-825","stellar_type":"F","tic_id":"TIC 378086008","magnitude":14.296},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260981","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247771"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247770"}]}}
+{
+  "id": 260981,
+  "date": "2023-11-28T20:32:33",
+  "date_gmt": "2023-11-29T01:32:33",
+  "modified": "2025-04-23T05:54:17",
+  "modified_gmt": "2025-04-23T09:54:17",
+  "slug": "kepler-825",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-825/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-825",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247770,
+      247771
+    ],
+    "exo_id": "Kepler-825",
+    "st_optmag": 14.296,
+    "st_vj": 14.296,
+    "st_dist": 807.85,
+    "st_j": 14.296,
+    "st_mass": 1.03,
+    "dec": 39.3984081,
+    "st_teff": 5976,
+    "st_rad": 1.08,
+    "ra": 294.769825,
+    "system_radius": 11354478.333,
+    "pl_hostname": "Kepler-825",
+    "stellar_type": "F",
+    "tic_id": "TIC 378086008",
+    "magnitude": 14.296
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260981",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247771"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247770"
+      }
+    ]
+  }
+}

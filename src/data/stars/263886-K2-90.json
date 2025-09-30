@@ -1,1 +1,76 @@
-{"id":263886,"date":"2023-11-28T21:09:28","date_gmt":"2023-11-29T02:09:28","modified":"2025-06-06T07:19:15","modified_gmt":"2025-06-06T11:19:15","slug":"k2-90","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-90/","featured_media":0,"categories":[],"acf":{"display_name":"K2-90","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245195,245196],"exo_id":"K2-90","st_optmag":13.707,"st_vj":13.707,"st_dist":134.188,"st_j":13.707,"st_mass":0.629,"dec":22.4724517,"st_teff":4484,"st_rad":0.619,"ra":59.1527391,"system_radius":14361395.52,"pl_hostname":"K2-90","stellar_type":"K","tic_id":"TIC 14111411","magnitude":13.707},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263886","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245196"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245195"}]}}
+{
+  "id": 263886,
+  "date": "2023-11-28T21:09:28",
+  "date_gmt": "2023-11-29T02:09:28",
+  "modified": "2025-06-06T07:19:15",
+  "modified_gmt": "2025-06-06T11:19:15",
+  "slug": "k2-90",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-90/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-90",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245195,
+      245196
+    ],
+    "exo_id": "K2-90",
+    "st_optmag": 13.707,
+    "st_vj": 13.707,
+    "st_dist": 134.188,
+    "st_j": 13.707,
+    "st_mass": 0.629,
+    "dec": 22.4724517,
+    "st_teff": 4484,
+    "st_rad": 0.619,
+    "ra": 59.1527391,
+    "system_radius": 14361395.52,
+    "pl_hostname": "K2-90",
+    "stellar_type": "K",
+    "tic_id": "TIC 14111411",
+    "magnitude": 13.707
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263886",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245196"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245195"
+      }
+    ]
+  }
+}

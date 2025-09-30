@@ -1,1 +1,79 @@
-{"id":248490,"date":"2021-02-18T19:17:14","date_gmt":"2021-02-19T00:17:14","modified":"2025-07-07T20:34:02","modified_gmt":"2025-07-08T00:34:02","slug":"toi-178-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-178-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-178","pl_letter":"c","display_name":"TOI-178 c","planet_radius":"1.669 x Earth","derived_description":"TOI-178 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.77 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.037 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":62.699,"planet_mass":"4.77 Earths","st_optmag":11.955,"discovery_date":"2021","pl_orbsmax":0.037,"period_display":"3.2 days","eccentricity":"","star_id":260907,"pl_orbper":3.23845,"pl_kepflag":false,"pl_radj":0.14889821,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.669,"exo_id":"TOI-178_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248490","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260907"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248490,
+  "date": "2021-02-18T19:17:14",
+  "date_gmt": "2021-02-19T00:17:14",
+  "modified": "2025-07-07T20:34:02",
+  "modified_gmt": "2025-07-08T00:34:02",
+  "slug": "toi-178-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-178-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-178",
+    "pl_letter": "c",
+    "display_name": "TOI-178 c",
+    "planet_radius": "1.669 x Earth",
+    "derived_description": "TOI-178 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.77 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.037 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 62.699,
+    "planet_mass": "4.77 Earths",
+    "st_optmag": 11.955,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.037,
+    "period_display": "3.2 days",
+    "eccentricity": "",
+    "star_id": 260907,
+    "pl_orbper": 3.23845,
+    "pl_kepflag": false,
+    "pl_radj": 0.14889821,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.669,
+    "exo_id": "TOI-178_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248490",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260907"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

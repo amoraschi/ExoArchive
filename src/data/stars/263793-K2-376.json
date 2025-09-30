@@ -1,1 +1,71 @@
-{"id":263793,"date":"2023-11-28T21:08:17","date_gmt":"2023-11-29T02:08:17","modified":"2025-04-23T05:54:43","modified_gmt":"2025-04-23T09:54:43","slug":"k2-376","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-376/","featured_media":0,"categories":[],"acf":{"display_name":"K2-376","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245068],"exo_id":"K2-376","st_optmag":10.415,"st_vj":10.415,"st_dist":161.61,"st_j":10.415,"st_mass":0.908,"dec":25.0380824,"st_teff":5937,"st_rad":1.149,"ra":132.7193327,"system_radius":149597870,"pl_hostname":"K2-376","stellar_type":"G","tic_id":"TIC 117414377","magnitude":10.415},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263793","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245068"}]}}
+{
+  "id": 263793,
+  "date": "2023-11-28T21:08:17",
+  "date_gmt": "2023-11-29T02:08:17",
+  "modified": "2025-04-23T05:54:43",
+  "modified_gmt": "2025-04-23T09:54:43",
+  "slug": "k2-376",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-376/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-376",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245068
+    ],
+    "exo_id": "K2-376",
+    "st_optmag": 10.415,
+    "st_vj": 10.415,
+    "st_dist": 161.61,
+    "st_j": 10.415,
+    "st_mass": 0.908,
+    "dec": 25.0380824,
+    "st_teff": 5937,
+    "st_rad": 1.149,
+    "ra": 132.7193327,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-376",
+    "stellar_type": "G",
+    "tic_id": "TIC 117414377",
+    "magnitude": 10.415
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263793",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245068"
+      }
+    ]
+  }
+}

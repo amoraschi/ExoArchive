@@ -1,1 +1,79 @@
-{"id":248913,"date":"2017-08-18T13:26:00","date_gmt":"2017-08-18T17:26:00","modified":"2025-06-25T12:06:19","modified_gmt":"2025-06-25T16:06:19","slug":"wasp-91-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-91-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-91","pl_letter":"b","display_name":"WASP-91 b","planet_radius":"1.03 x Jupiter","derived_description":"WASP-91 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.34 Jupiters, it takes 2.8 days to complete one orbit of its star, and is 0.037 AU from its star. Its discovery was announced in 2017.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP-South","st_dist":149.942,"planet_mass":"1.34 Jupiters","st_optmag":11.98,"discovery_date":"2017","pl_orbsmax":0.037,"period_display":"2.8 days","eccentricity":"0.0","star_id":263740,"pl_orbper":2.798581,"pl_kepflag":false,"pl_radj":1.03,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":11.54527,"exo_id":"WASP-91_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248913","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263740"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248913,
+  "date": "2017-08-18T13:26:00",
+  "date_gmt": "2017-08-18T17:26:00",
+  "modified": "2025-06-25T12:06:19",
+  "modified_gmt": "2025-06-25T16:06:19",
+  "slug": "wasp-91-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-91-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-91",
+    "pl_letter": "b",
+    "display_name": "WASP-91 b",
+    "planet_radius": "1.03 x Jupiter",
+    "derived_description": "WASP-91 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.34 Jupiters, it takes 2.8 days to complete one orbit of its star, and is 0.037 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP-South",
+    "st_dist": 149.942,
+    "planet_mass": "1.34 Jupiters",
+    "st_optmag": 11.98,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.037,
+    "period_display": "2.8 days",
+    "eccentricity": "0.0",
+    "star_id": 263740,
+    "pl_orbper": 2.798581,
+    "pl_kepflag": false,
+    "pl_radj": 1.03,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 11.54527,
+    "exo_id": "WASP-91_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248913",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263740"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

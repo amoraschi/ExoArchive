@@ -1,1 +1,71 @@
-{"id":262532,"date":"2023-11-28T20:52:11","date_gmt":"2023-11-29T01:52:11","modified":"2025-04-23T05:56:23","modified_gmt":"2025-04-23T09:56:23","slug":"hd_22781","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_22781/","featured_media":0,"categories":[],"acf":{"display_name":"HD 22781","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244325],"exo_id":"HD_22781","st_optmag":8.78,"st_vj":8.78,"st_dist":32.6034,"st_j":8.78,"st_mass":0.75,"dec":31.8258855,"st_teff":5027,"st_rad":0.743475,"ra":55.2065581,"system_radius":174580714.29,"pl_hostname":"HD_22781","stellar_type":"K","tic_id":"TIC 101166776","magnitude":8.78},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262532","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244325"}]}}
+{
+  "id": 262532,
+  "date": "2023-11-28T20:52:11",
+  "date_gmt": "2023-11-29T01:52:11",
+  "modified": "2025-04-23T05:56:23",
+  "modified_gmt": "2025-04-23T09:56:23",
+  "slug": "hd_22781",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_22781/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 22781",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244325
+    ],
+    "exo_id": "HD_22781",
+    "st_optmag": 8.78,
+    "st_vj": 8.78,
+    "st_dist": 32.6034,
+    "st_j": 8.78,
+    "st_mass": 0.75,
+    "dec": 31.8258855,
+    "st_teff": 5027,
+    "st_rad": 0.743475,
+    "ra": 55.2065581,
+    "system_radius": 174580714.29,
+    "pl_hostname": "HD_22781",
+    "stellar_type": "K",
+    "tic_id": "TIC 101166776",
+    "magnitude": 8.78
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262532",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244325"
+      }
+    ]
+  }
+}

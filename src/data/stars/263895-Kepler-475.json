@@ -1,1 +1,71 @@
-{"id":263895,"date":"2023-11-28T21:09:35","date_gmt":"2023-11-29T02:09:35","modified":"2025-04-23T05:56:48","modified_gmt":"2025-04-23T09:56:48","slug":"kepler-475","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-475/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-475","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247277],"exo_id":"Kepler-475","st_optmag":13.512,"st_vj":13.512,"st_dist":280.069,"st_j":13.512,"st_mass":0.86,"dec":40.2114232,"st_teff":5009,"st_rad":0.79,"ra":287.051694,"system_radius":5967459.0343,"pl_hostname":"Kepler-475","stellar_type":"K","tic_id":"TIC 121108727","magnitude":13.512},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263895","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247277"}]}}
+{
+  "id": 263895,
+  "date": "2023-11-28T21:09:35",
+  "date_gmt": "2023-11-29T02:09:35",
+  "modified": "2025-04-23T05:56:48",
+  "modified_gmt": "2025-04-23T09:56:48",
+  "slug": "kepler-475",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-475/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-475",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247277
+    ],
+    "exo_id": "Kepler-475",
+    "st_optmag": 13.512,
+    "st_vj": 13.512,
+    "st_dist": 280.069,
+    "st_j": 13.512,
+    "st_mass": 0.86,
+    "dec": 40.2114232,
+    "st_teff": 5009,
+    "st_rad": 0.79,
+    "ra": 287.051694,
+    "system_radius": 5967459.0343,
+    "pl_hostname": "Kepler-475",
+    "stellar_type": "K",
+    "tic_id": "TIC 121108727",
+    "magnitude": 13.512
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263895",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247277"
+      }
+    ]
+  }
+}

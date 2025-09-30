@@ -1,1 +1,79 @@
-{"id":246355,"date":"2023-05-23T12:01:44","date_gmt":"2023-05-23T16:01:44","modified":"2025-07-07T20:43:30","modified_gmt":"2025-07-08T00:43:30","slug":"kepler-1814-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1814-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1814","pl_letter":"c","display_name":"Kepler-1814 c","planet_radius":"1.76 x Earth","derived_description":"Kepler-1814 c is a super Earth exoplanet that orbits a K-type star. Its mass is 3.75 Earths, it takes 0.6 days to complete one orbit of its star, and is 0.0133 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":726.346,"planet_mass":"3.75 Earths","st_optmag":15.814,"discovery_date":"2023","pl_orbsmax":0.0133,"period_display":"0.6 days","eccentricity":"0.0","star_id":262283,"pl_orbper":0.626281766,"pl_kepflag":true,"pl_radj":0.15701695,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.76,"exo_id":"Kepler-1814_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246355","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262283"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246355,
+  "date": "2023-05-23T12:01:44",
+  "date_gmt": "2023-05-23T16:01:44",
+  "modified": "2025-07-07T20:43:30",
+  "modified_gmt": "2025-07-08T00:43:30",
+  "slug": "kepler-1814-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1814-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1814",
+    "pl_letter": "c",
+    "display_name": "Kepler-1814 c",
+    "planet_radius": "1.76 x Earth",
+    "derived_description": "Kepler-1814 c is a super Earth exoplanet that orbits a K-type star. Its mass is 3.75 Earths, it takes 0.6 days to complete one orbit of its star, and is 0.0133 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 726.346,
+    "planet_mass": "3.75 Earths",
+    "st_optmag": 15.814,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.0133,
+    "period_display": "0.6 days",
+    "eccentricity": "0.0",
+    "star_id": 262283,
+    "pl_orbper": 0.626281766,
+    "pl_kepflag": true,
+    "pl_radj": 0.15701695,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.76,
+    "exo_id": "Kepler-1814_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246355",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262283"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

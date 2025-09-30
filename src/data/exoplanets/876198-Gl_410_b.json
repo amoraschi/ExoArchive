@@ -1,1 +1,79 @@
-{"id":876198,"date":"2025-07-07T17:22:03","date_gmt":"2025-07-07T21:22:03","modified":"2025-07-07T17:22:03","modified_gmt":"2025-07-07T21:22:03","slug":"gl-410-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gl-410-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Gl_410","pl_letter":"b","display_name":"Gl 410 b","planet_radius":"0.253 x Jupiter (estimate)","derived_description":"Gl 410 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.4 Earths, it takes 6 days to complete one orbit of its star, and is 0.0531 AU from its star. Its discovery was announced in 2025.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Mauna Kea Observatory","st_dist":11.9324,"planet_mass":"8.4 Earths","st_optmag":9.57,"discovery_date":"2025","pl_orbsmax":0.0531,"period_display":"6 days","eccentricity":"","star_id":498066,"pl_orbper":6.02,"pl_kepflag":false,"pl_radj":0.253,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.83,"exo_id":"Gl_410_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876198","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/498066"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 876198,
+  "date": "2025-07-07T17:22:03",
+  "date_gmt": "2025-07-07T21:22:03",
+  "modified": "2025-07-07T17:22:03",
+  "modified_gmt": "2025-07-07T21:22:03",
+  "slug": "gl-410-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gl-410-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Gl_410",
+    "pl_letter": "b",
+    "display_name": "Gl 410 b",
+    "planet_radius": "0.253 x Jupiter (estimate)",
+    "derived_description": "Gl 410 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.4 Earths, it takes 6 days to complete one orbit of its star, and is 0.0531 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Mauna Kea Observatory",
+    "st_dist": 11.9324,
+    "planet_mass": "8.4 Earths",
+    "st_optmag": 9.57,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.0531,
+    "period_display": "6 days",
+    "eccentricity": "",
+    "star_id": 498066,
+    "pl_orbper": 6.02,
+    "pl_kepflag": false,
+    "pl_radj": 0.253,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.83,
+    "exo_id": "Gl_410_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876198",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/498066"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

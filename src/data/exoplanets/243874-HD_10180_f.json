@@ -1,1 +1,79 @@
-{"id":243874,"date":"2019-04-22T16:48:42","date_gmt":"2019-04-22T20:48:42","modified":"2025-07-07T20:39:36","modified_gmt":"2025-07-08T00:39:36","slug":"hd-10180-f","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-10180-f/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_10180","pl_letter":"f","display_name":"HD 10180 f","planet_radius":"0.468 x Jupiter (estimate)","derived_description":"HD 10180 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 23.9 Earths, it takes 122.7 days to complete one orbit of its star, and is 0.4929 AU from its star. Its discovery was announced in 2010.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":38.9607,"planet_mass":"23.9 Earths","st_optmag":7.33,"discovery_date":"2010","pl_orbsmax":0.4929,"period_display":"122.7 days","eccentricity":"0.12","star_id":260531,"pl_orbper":122.744,"pl_kepflag":false,"pl_radj":0.468,"pl_disc":2010,"pl_publ_date":"2010","planet_orbit_period":327,"multiple_planet_system":false,"pl_rade":5.24,"exo_id":"HD_10180_f","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.119},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243874","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260531"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243874,
+  "date": "2019-04-22T16:48:42",
+  "date_gmt": "2019-04-22T20:48:42",
+  "modified": "2025-07-07T20:39:36",
+  "modified_gmt": "2025-07-08T00:39:36",
+  "slug": "hd-10180-f",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-10180-f/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_10180",
+    "pl_letter": "f",
+    "display_name": "HD 10180 f",
+    "planet_radius": "0.468 x Jupiter (estimate)",
+    "derived_description": "HD 10180 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 23.9 Earths, it takes 122.7 days to complete one orbit of its star, and is 0.4929 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 38.9607,
+    "planet_mass": "23.9 Earths",
+    "st_optmag": 7.33,
+    "discovery_date": "2010",
+    "pl_orbsmax": 0.4929,
+    "period_display": "122.7 days",
+    "eccentricity": "0.12",
+    "star_id": 260531,
+    "pl_orbper": 122.744,
+    "pl_kepflag": false,
+    "pl_radj": 0.468,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": 327,
+    "multiple_planet_system": false,
+    "pl_rade": 5.24,
+    "exo_id": "HD_10180_f",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.119
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243874",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260531"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

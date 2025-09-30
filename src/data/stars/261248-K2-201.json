@@ -1,1 +1,76 @@
-{"id":261248,"date":"2023-11-28T20:35:57","date_gmt":"2023-11-29T01:35:57","modified":"2025-04-23T05:53:59","modified_gmt":"2025-04-23T09:53:59","slug":"k2-201","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-201/","featured_media":0,"categories":[],"acf":{"display_name":"K2-201","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244863,244864],"exo_id":"K2-201","st_optmag":12.168,"st_vj":12.168,"st_dist":197.932,"st_j":12.168,"st_mass":0.956055,"dec":-23.1312775,"st_teff":5507,"st_rad":0.878161,"ra":293.5607117,"system_radius":149597870,"pl_hostname":"K2-201","stellar_type":"G","tic_id":"TIC 125060509","magnitude":12.168},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261248","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244864"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244863"}]}}
+{
+  "id": 261248,
+  "date": "2023-11-28T20:35:57",
+  "date_gmt": "2023-11-29T01:35:57",
+  "modified": "2025-04-23T05:53:59",
+  "modified_gmt": "2025-04-23T09:53:59",
+  "slug": "k2-201",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-201/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-201",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244863,
+      244864
+    ],
+    "exo_id": "K2-201",
+    "st_optmag": 12.168,
+    "st_vj": 12.168,
+    "st_dist": 197.932,
+    "st_j": 12.168,
+    "st_mass": 0.956055,
+    "dec": -23.1312775,
+    "st_teff": 5507,
+    "st_rad": 0.878161,
+    "ra": 293.5607117,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-201",
+    "stellar_type": "G",
+    "tic_id": "TIC 125060509",
+    "magnitude": 12.168
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261248",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244864"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244863"
+      }
+    ]
+  }
+}

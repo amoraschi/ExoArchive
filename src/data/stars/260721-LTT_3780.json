@@ -1,1 +1,76 @@
-{"id":260721,"date":"2023-11-28T20:29:16","date_gmt":"2023-11-29T01:29:16","modified":"2025-04-23T05:53:14","modified_gmt":"2025-04-23T09:53:14","slug":"ltt_3780","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ltt_3780/","featured_media":0,"categories":[],"acf":{"display_name":"LTT 3780","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248154,248155],"exo_id":"LTT_3780","st_optmag":13.14,"st_vj":13.14,"st_dist":21.9814,"st_j":13.14,"st_mass":0.381,"dec":-11.717801,"st_teff":3358,"st_rad":0.38,"ra":154.6449033,"system_radius":11324558.759,"pl_hostname":"LTT_3780","stellar_type":"M","tic_id":"TIC 36724087","magnitude":13.14},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260721","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248155"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248154"}]}}
+{
+  "id": 260721,
+  "date": "2023-11-28T20:29:16",
+  "date_gmt": "2023-11-29T01:29:16",
+  "modified": "2025-04-23T05:53:14",
+  "modified_gmt": "2025-04-23T09:53:14",
+  "slug": "ltt_3780",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ltt_3780/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "LTT 3780",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248154,
+      248155
+    ],
+    "exo_id": "LTT_3780",
+    "st_optmag": 13.14,
+    "st_vj": 13.14,
+    "st_dist": 21.9814,
+    "st_j": 13.14,
+    "st_mass": 0.381,
+    "dec": -11.717801,
+    "st_teff": 3358,
+    "st_rad": 0.38,
+    "ra": 154.6449033,
+    "system_radius": 11324558.759,
+    "pl_hostname": "LTT_3780",
+    "stellar_type": "M",
+    "tic_id": "TIC 36724087",
+    "magnitude": 13.14
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260721",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248155"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248154"
+      }
+    ]
+  }
+}

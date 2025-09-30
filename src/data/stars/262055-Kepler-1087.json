@@ -1,1 +1,71 @@
-{"id":262055,"date":"2023-11-28T20:46:08","date_gmt":"2023-11-29T01:46:08","modified":"2025-04-23T05:53:55","modified_gmt":"2025-04-23T09:53:55","slug":"kepler-1087","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1087/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1087","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245352],"exo_id":"Kepler-1087","st_optmag":12.973,"st_vj":12.973,"st_dist":362.623,"st_j":12.973,"st_mass":0.96,"dec":46.0056741,"st_teff":5589,"st_rad":0.94,"ra":294.9789253,"system_radius":2324750.8998,"pl_hostname":"Kepler-1087","stellar_type":"G","tic_id":"TIC 271353794","magnitude":12.973},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262055","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245352"}]}}
+{
+  "id": 262055,
+  "date": "2023-11-28T20:46:08",
+  "date_gmt": "2023-11-29T01:46:08",
+  "modified": "2025-04-23T05:53:55",
+  "modified_gmt": "2025-04-23T09:53:55",
+  "slug": "kepler-1087",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1087/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1087",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245352
+    ],
+    "exo_id": "Kepler-1087",
+    "st_optmag": 12.973,
+    "st_vj": 12.973,
+    "st_dist": 362.623,
+    "st_j": 12.973,
+    "st_mass": 0.96,
+    "dec": 46.0056741,
+    "st_teff": 5589,
+    "st_rad": 0.94,
+    "ra": 294.9789253,
+    "system_radius": 2324750.8998,
+    "pl_hostname": "Kepler-1087",
+    "stellar_type": "G",
+    "tic_id": "TIC 271353794",
+    "magnitude": 12.973
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262055",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245352"
+      }
+    ]
+  }
+}

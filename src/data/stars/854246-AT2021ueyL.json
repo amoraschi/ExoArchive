@@ -1,1 +1,77 @@
-{"id":854246,"date":"2025-05-09T06:26:31","date_gmt":"2025-05-09T10:26:31","modified":"2025-05-09T06:26:31","modified_gmt":"2025-05-09T10:26:31","slug":"at2021ueyl","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/at2021ueyl/","featured_media":429650,"categories":[],"acf":{"display_name":"AT2021ueyL","custom_star_title":"","aliases":"","constellation":"Pegasus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[873922],"exo_id":"AT2021ueyL","st_optmag":"","st_vj":"","st_dist":1040,"st_j":"","st_mass":0.49,"dec":26.4665694,"st_teff":3680,"st_rad":"","ra":324.5450417,"system_radius":599887458.7,"pl_hostname":"AT2021ueyL","stellar_type":"M","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/854246","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/873922"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429650"}]}}
+{
+  "id": 854246,
+  "date": "2025-05-09T06:26:31",
+  "date_gmt": "2025-05-09T10:26:31",
+  "modified": "2025-05-09T06:26:31",
+  "modified_gmt": "2025-05-09T10:26:31",
+  "slug": "at2021ueyl",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/at2021ueyl/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "AT2021ueyL",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pegasus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      873922
+    ],
+    "exo_id": "AT2021ueyL",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 1040,
+    "st_j": "",
+    "st_mass": 0.49,
+    "dec": 26.4665694,
+    "st_teff": 3680,
+    "st_rad": "",
+    "ra": 324.5450417,
+    "system_radius": 599887458.7,
+    "pl_hostname": "AT2021ueyL",
+    "stellar_type": "M",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/854246",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/873922"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

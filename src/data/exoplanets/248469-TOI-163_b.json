@@ -1,1 +1,79 @@
-{"id":248469,"date":"2020-01-31T12:26:54","date_gmt":"2020-01-31T17:26:54","modified":"2025-07-07T20:34:28","modified_gmt":"2025-07-08T00:34:28","slug":"toi-163-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-163-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-163","pl_letter":"b","display_name":"TOI-163 b","planet_radius":"1.489 x Jupiter","derived_description":"TOI-163 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.22 Jupiters, it takes 4.2 days to complete one orbit of its star, and is 0.058 AU from its star. Its discovery was announced in 2019.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":411.719,"planet_mass":"1.22 Jupiters","st_optmag":11.467,"discovery_date":"2019","pl_orbsmax":0.058,"period_display":"4.2 days","eccentricity":"0.0","star_id":263137,"pl_orbper":4.231306,"pl_kepflag":false,"pl_radj":1.489,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":16.690201,"exo_id":"TOI-163_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248469","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263137"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248469,
+  "date": "2020-01-31T12:26:54",
+  "date_gmt": "2020-01-31T17:26:54",
+  "modified": "2025-07-07T20:34:28",
+  "modified_gmt": "2025-07-08T00:34:28",
+  "slug": "toi-163-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-163-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-163",
+    "pl_letter": "b",
+    "display_name": "TOI-163 b",
+    "planet_radius": "1.489 x Jupiter",
+    "derived_description": "TOI-163 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.22 Jupiters, it takes 4.2 days to complete one orbit of its star, and is 0.058 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 411.719,
+    "planet_mass": "1.22 Jupiters",
+    "st_optmag": 11.467,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.058,
+    "period_display": "4.2 days",
+    "eccentricity": "0.0",
+    "star_id": 263137,
+    "pl_orbper": 4.231306,
+    "pl_kepflag": false,
+    "pl_radj": 1.489,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 16.690201,
+    "exo_id": "TOI-163_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248469",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263137"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

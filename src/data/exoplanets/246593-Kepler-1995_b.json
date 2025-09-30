@@ -1,1 +1,79 @@
-{"id":246593,"date":"2023-05-23T12:01:53","date_gmt":"2023-05-23T16:01:53","modified":"2025-07-07T20:33:45","modified_gmt":"2025-07-08T00:33:45","slug":"kepler-1995-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1995-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1995","pl_letter":"b","display_name":"Kepler-1995 b","planet_radius":"0.38183668 x Jupiter","derived_description":"Kepler-1995 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 16.9 Earths, it takes 73.8 days to complete one orbit of its star, and is 0.3259 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":595.331,"planet_mass":"16.9 Earths","st_optmag":15.516,"discovery_date":"2023","pl_orbsmax":0.3259,"period_display":"73.8 days","eccentricity":"0.0","star_id":264497,"pl_orbper":73.7578875,"pl_kepflag":true,"pl_radj":0.38183668,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":4.28,"exo_id":"Kepler-1995_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246593","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264497"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246593,
+  "date": "2023-05-23T12:01:53",
+  "date_gmt": "2023-05-23T16:01:53",
+  "modified": "2025-07-07T20:33:45",
+  "modified_gmt": "2025-07-08T00:33:45",
+  "slug": "kepler-1995-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1995-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1995",
+    "pl_letter": "b",
+    "display_name": "Kepler-1995 b",
+    "planet_radius": "0.38183668 x Jupiter",
+    "derived_description": "Kepler-1995 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 16.9 Earths, it takes 73.8 days to complete one orbit of its star, and is 0.3259 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 595.331,
+    "planet_mass": "16.9 Earths",
+    "st_optmag": 15.516,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.3259,
+    "period_display": "73.8 days",
+    "eccentricity": "0.0",
+    "star_id": 264497,
+    "pl_orbper": 73.7578875,
+    "pl_kepflag": true,
+    "pl_radj": 0.38183668,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.28,
+    "exo_id": "Kepler-1995_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246593",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264497"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

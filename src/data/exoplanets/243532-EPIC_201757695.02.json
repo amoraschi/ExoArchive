@@ -1,1 +1,79 @@
-{"id":243532,"date":"2020-11-19T19:17:31","date_gmt":"2020-11-20T00:17:31","modified":"2025-03-28T07:26:48","modified_gmt":"2025-03-28T11:26:48","slug":"epic-20175769502","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/epic-20175769502/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"EPIC_201757695","pl_letter":"b","display_name":"EPIC 201757695.02","planet_radius":"0.90819 x Earth","derived_description":"EPIC 201757695.02 is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.688 Earths, it takes 2 days to complete one orbit of its star, and is 0.0296 AU from its star. Its discovery was announced in 2020.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"K2","st_dist":577.6,"planet_mass":"0.688 Earths","st_optmag":14.974,"discovery_date":"2020","pl_orbsmax":0.0296,"period_display":"2 days","eccentricity":"0.0","star_id":260859,"pl_orbper":2.0478,"pl_kepflag":true,"pl_radj":0.08102328,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.90819,"exo_id":"EPIC_201757695.02","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243532","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260859"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 243532,
+  "date": "2020-11-19T19:17:31",
+  "date_gmt": "2020-11-20T00:17:31",
+  "modified": "2025-03-28T07:26:48",
+  "modified_gmt": "2025-03-28T11:26:48",
+  "slug": "epic-20175769502",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/epic-20175769502/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "EPIC_201757695",
+    "pl_letter": "b",
+    "display_name": "EPIC 201757695.02",
+    "planet_radius": "0.90819 x Earth",
+    "derived_description": "EPIC 201757695.02 is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.688 Earths, it takes 2 days to complete one orbit of its star, and is 0.0296 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 577.6,
+    "planet_mass": "0.688 Earths",
+    "st_optmag": 14.974,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.0296,
+    "period_display": "2 days",
+    "eccentricity": "0.0",
+    "star_id": 260859,
+    "pl_orbper": 2.0478,
+    "pl_kepflag": true,
+    "pl_radj": 0.08102328,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.90819,
+    "exo_id": "EPIC_201757695.02",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243532",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260859"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262954,"date":"2023-11-28T20:57:34","date_gmt":"2023-11-29T01:57:34","modified":"2025-04-23T05:56:38","modified_gmt":"2025-04-23T09:56:38","slug":"ogle-2012-blg-0406l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2012-blg-0406l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2012-BLG-0406L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248248],"exo_id":"OGLE-2012-BLG-0406L","st_optmag":"","st_vj":"","st_dist":4970,"st_j":"","st_mass":0.44,"dec":-30.4711667,"st_teff":"","st_rad":"","ra":268.325708,"system_radius":516112651.5,"pl_hostname":"OGLE-2012-BLG-0406L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262954","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248248"}]}}
+{
+  "id": 262954,
+  "date": "2023-11-28T20:57:34",
+  "date_gmt": "2023-11-29T01:57:34",
+  "modified": "2025-04-23T05:56:38",
+  "modified_gmt": "2025-04-23T09:56:38",
+  "slug": "ogle-2012-blg-0406l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2012-blg-0406l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2012-BLG-0406L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248248
+    ],
+    "exo_id": "OGLE-2012-BLG-0406L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 4970,
+    "st_j": "",
+    "st_mass": 0.44,
+    "dec": -30.4711667,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.325708,
+    "system_radius": 516112651.5,
+    "pl_hostname": "OGLE-2012-BLG-0406L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262954",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248248"
+      }
+    ]
+  }
+}

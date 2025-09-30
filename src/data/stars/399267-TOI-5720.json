@@ -1,1 +1,71 @@
-{"id":399267,"date":"2024-05-31T20:29:41","date_gmt":"2024-06-01T00:29:41","modified":"2025-04-23T05:56:13","modified_gmt":"2025-04-23T09:56:13","slug":"toi-5720","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5720/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-5720","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[399275],"exo_id":"TOI-5720","st_optmag":13.847,"st_vj":13.847,"st_dist":35.8256,"st_j":13.847,"st_mass":0.383,"dec":25.2732942,"st_teff":3325,"st_rad":0.383,"ra":170.3135774,"system_radius":2735845.84656,"pl_hostname":"TOI-5720","stellar_type":"M","tic_id":"TIC 230055368","magnitude":13.847},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/399267","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/399275"}]}}
+{
+  "id": 399267,
+  "date": "2024-05-31T20:29:41",
+  "date_gmt": "2024-06-01T00:29:41",
+  "modified": "2025-04-23T05:56:13",
+  "modified_gmt": "2025-04-23T09:56:13",
+  "slug": "toi-5720",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5720/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5720",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      399275
+    ],
+    "exo_id": "TOI-5720",
+    "st_optmag": 13.847,
+    "st_vj": 13.847,
+    "st_dist": 35.8256,
+    "st_j": 13.847,
+    "st_mass": 0.383,
+    "dec": 25.2732942,
+    "st_teff": 3325,
+    "st_rad": 0.383,
+    "ra": 170.3135774,
+    "system_radius": 2735845.84656,
+    "pl_hostname": "TOI-5720",
+    "stellar_type": "M",
+    "tic_id": "TIC 230055368",
+    "magnitude": 13.847
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/399267",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/399275"
+      }
+    ]
+  }
+}

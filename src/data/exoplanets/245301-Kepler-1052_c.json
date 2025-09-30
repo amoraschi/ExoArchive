@@ -1,1 +1,79 @@
-{"id":245301,"date":"2023-05-23T12:01:44","date_gmt":"2023-05-23T16:01:44","modified":"2025-07-07T20:34:18","modified_gmt":"2025-07-08T00:34:18","slug":"kepler-1052-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1052-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1052","pl_letter":"c","display_name":"Kepler-1052 c","planet_radius":"0.20519261 x Jupiter","derived_description":"Kepler-1052 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.9 Earths, it takes 180.9 days to complete one orbit of its star, and is 0.6135 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":943.444,"planet_mass":"5.9 Earths","st_optmag":14.932,"discovery_date":"2023","pl_orbsmax":0.6135,"period_display":"180.9 days","eccentricity":"0.0","star_id":262205,"pl_orbper":180.921729,"pl_kepflag":true,"pl_radj":0.20519261,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.3,"exo_id":"Kepler-1052_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245301","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262205"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245301,
+  "date": "2023-05-23T12:01:44",
+  "date_gmt": "2023-05-23T16:01:44",
+  "modified": "2025-07-07T20:34:18",
+  "modified_gmt": "2025-07-08T00:34:18",
+  "slug": "kepler-1052-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1052-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1052",
+    "pl_letter": "c",
+    "display_name": "Kepler-1052 c",
+    "planet_radius": "0.20519261 x Jupiter",
+    "derived_description": "Kepler-1052 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.9 Earths, it takes 180.9 days to complete one orbit of its star, and is 0.6135 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 943.444,
+    "planet_mass": "5.9 Earths",
+    "st_optmag": 14.932,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.6135,
+    "period_display": "180.9 days",
+    "eccentricity": "0.0",
+    "star_id": 262205,
+    "pl_orbper": 180.921729,
+    "pl_kepflag": true,
+    "pl_radj": 0.20519261,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.3,
+    "exo_id": "Kepler-1052_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245301",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262205"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

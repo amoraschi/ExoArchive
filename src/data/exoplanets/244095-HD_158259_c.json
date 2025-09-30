@@ -1,1 +1,79 @@
-{"id":244095,"date":"2020-04-17T13:27:05","date_gmt":"2020-04-17T17:27:05","modified":"2025-07-07T20:34:33","modified_gmt":"2025-07-08T00:34:33","slug":"hd-158259-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-158259-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_158259","pl_letter":"c","display_name":"HD 158259 c","planet_radius":"2.23 x Earth (estimate)","derived_description":"HD 158259 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.6 Earths, it takes 3.4 days to complete one orbit of its star, and is 0.045685064957443 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Haute-Provence Observatory","st_dist":27.0498,"planet_mass":"5.6 Earths","st_optmag":6.47915,"discovery_date":"2020","pl_orbsmax":"","period_display":"3.4 days","eccentricity":"","star_id":260617,"pl_orbper":3.432,"pl_kepflag":false,"pl_radj":0.199,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.23,"exo_id":"HD_158259_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244095","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260617"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244095,
+  "date": "2020-04-17T13:27:05",
+  "date_gmt": "2020-04-17T17:27:05",
+  "modified": "2025-07-07T20:34:33",
+  "modified_gmt": "2025-07-08T00:34:33",
+  "slug": "hd-158259-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-158259-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_158259",
+    "pl_letter": "c",
+    "display_name": "HD 158259 c",
+    "planet_radius": "2.23 x Earth (estimate)",
+    "derived_description": "HD 158259 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.6 Earths, it takes 3.4 days to complete one orbit of its star, and is 0.045685064957443 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Haute-Provence Observatory",
+    "st_dist": 27.0498,
+    "planet_mass": "5.6 Earths",
+    "st_optmag": 6.47915,
+    "discovery_date": "2020",
+    "pl_orbsmax": "",
+    "period_display": "3.4 days",
+    "eccentricity": "",
+    "star_id": 260617,
+    "pl_orbper": 3.432,
+    "pl_kepflag": false,
+    "pl_radj": 0.199,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.23,
+    "exo_id": "HD_158259_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244095",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260617"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

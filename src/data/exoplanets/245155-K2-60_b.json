@@ -1,1 +1,79 @@
-{"id":245155,"date":"2016-07-18T13:25:29","date_gmt":"2016-07-18T17:25:29","modified":"2025-07-07T20:32:14","modified_gmt":"2025-07-08T00:32:14","slug":"k2-60-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-60-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"K2-60","pl_letter":"b","display_name":"K2-60 b","planet_radius":"0.683 x Jupiter","derived_description":"K2-60 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.426 Jupiters, it takes 3 days to complete one orbit of its star, and is 0.045 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"K2","st_dist":491.87,"planet_mass":"0.426 Jupiters","st_optmag":12.857,"discovery_date":"2016","pl_orbsmax":0.045,"period_display":"3 days","eccentricity":"0.0","star_id":260557,"pl_orbper":3.00265,"pl_kepflag":true,"pl_radj":0.683,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":7.655747,"exo_id":"K2-60_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245155","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260557"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 245155,
+  "date": "2016-07-18T13:25:29",
+  "date_gmt": "2016-07-18T17:25:29",
+  "modified": "2025-07-07T20:32:14",
+  "modified_gmt": "2025-07-08T00:32:14",
+  "slug": "k2-60-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-60-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-60",
+    "pl_letter": "b",
+    "display_name": "K2-60 b",
+    "planet_radius": "0.683 x Jupiter",
+    "derived_description": "K2-60 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.426 Jupiters, it takes 3 days to complete one orbit of its star, and is 0.045 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 491.87,
+    "planet_mass": "0.426 Jupiters",
+    "st_optmag": 12.857,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.045,
+    "period_display": "3 days",
+    "eccentricity": "0.0",
+    "star_id": 260557,
+    "pl_orbper": 3.00265,
+    "pl_kepflag": true,
+    "pl_radj": 0.683,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 7.655747,
+    "exo_id": "K2-60_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245155",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260557"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244390,"date":"2019-04-22T16:49:30","date_gmt":"2019-04-22T20:49:30","modified":"2025-06-25T12:06:27","modified_gmt":"2025-06-25T16:06:27","slug":"hd-3167-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-3167-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_3167","pl_letter":"d","display_name":"HD 3167 d","planet_radius":"1.92 x Earth (estimate)","derived_description":"HD 3167 d is a super Earth exoplanet that orbits a K-type star. Its mass is 4.33 Earths, it takes 8.4 days to complete one orbit of its star, and is 0.0763 AU from its star. Its discovery was announced in 2017.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":47.2899,"planet_mass":"4.33 Earths","st_optmag":8.97,"discovery_date":"2017","pl_orbsmax":0.0763,"period_display":"8.4 days","eccentricity":"< 0.12","star_id":260809,"pl_orbper":8.4112,"pl_kepflag":false,"pl_radj":0.171,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.92,"exo_id":"HD_3167_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0.12,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244390","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260809"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244390,
+  "date": "2019-04-22T16:49:30",
+  "date_gmt": "2019-04-22T20:49:30",
+  "modified": "2025-06-25T12:06:27",
+  "modified_gmt": "2025-06-25T16:06:27",
+  "slug": "hd-3167-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-3167-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_3167",
+    "pl_letter": "d",
+    "display_name": "HD 3167 d",
+    "planet_radius": "1.92 x Earth (estimate)",
+    "derived_description": "HD 3167 d is a super Earth exoplanet that orbits a K-type star. Its mass is 4.33 Earths, it takes 8.4 days to complete one orbit of its star, and is 0.0763 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 47.2899,
+    "planet_mass": "4.33 Earths",
+    "st_optmag": 8.97,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.0763,
+    "period_display": "8.4 days",
+    "eccentricity": "< 0.12",
+    "star_id": 260809,
+    "pl_orbper": 8.4112,
+    "pl_kepflag": false,
+    "pl_radj": 0.171,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.92,
+    "exo_id": "HD_3167_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0.12,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244390",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260809"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244126,"date":"2023-06-15T16:01:58","date_gmt":"2023-06-15T20:01:58","modified":"2024-10-24T18:14:30","modified_gmt":"2024-10-24T22:14:30","slug":"hd-165131-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-165131-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_165131","pl_letter":"b","display_name":"HD 165131 b","planet_radius":"1.08 x Jupiter (estimate)","derived_description":"HD 165131 b is a gas giant exoplanet that orbits a G-type star. Its mass is 18.7 Jupiters, it takes 6.4 years to complete one orbit of its star, and is 3.54 AU from its star. Its discovery was announced in 2023.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Facilities","st_dist":57.4263,"planet_mass":"18.7 Jupiters","st_optmag":8.42,"discovery_date":"2023","pl_orbsmax":3.54,"period_display":"6.4 years","eccentricity":"0.67","star_id":262264,"pl_orbper":2342.6,"pl_kepflag":false,"pl_radj":1.08,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":3.61,"multiple_planet_system":false,"pl_rade":12.1,"exo_id":"HD_165131_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.6708},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244126","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262264"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244126,
+  "date": "2023-06-15T16:01:58",
+  "date_gmt": "2023-06-15T20:01:58",
+  "modified": "2024-10-24T18:14:30",
+  "modified_gmt": "2024-10-24T22:14:30",
+  "slug": "hd-165131-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-165131-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_165131",
+    "pl_letter": "b",
+    "display_name": "HD 165131 b",
+    "planet_radius": "1.08 x Jupiter (estimate)",
+    "derived_description": "HD 165131 b is a gas giant exoplanet that orbits a G-type star. Its mass is 18.7 Jupiters, it takes 6.4 years to complete one orbit of its star, and is 3.54 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Facilities",
+    "st_dist": 57.4263,
+    "planet_mass": "18.7 Jupiters",
+    "st_optmag": 8.42,
+    "discovery_date": "2023",
+    "pl_orbsmax": 3.54,
+    "period_display": "6.4 years",
+    "eccentricity": "0.67",
+    "star_id": 262264,
+    "pl_orbper": 2342.6,
+    "pl_kepflag": false,
+    "pl_radj": 1.08,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 3.61,
+    "multiple_planet_system": false,
+    "pl_rade": 12.1,
+    "exo_id": "HD_165131_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.6708
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244126",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262264"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262223,"date":"2023-11-28T20:48:16","date_gmt":"2023-11-29T01:48:16","modified":"2025-04-23T05:55:51","modified_gmt":"2025-04-23T09:55:51","slug":"toi-2669","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2669/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2669","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248572],"exo_id":"TOI-2669","st_optmag":10.916,"st_vj":10.916,"st_dist":393.443,"st_j":10.916,"st_mass":1.19,"dec":-13.3125792,"st_teff":4800,"st_rad":4.1,"ra":134.7226445,"system_radius":149597870,"pl_hostname":"TOI-2669","stellar_type":"K","tic_id":"TIC 348835438","magnitude":10.916},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262223","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248572"}]}}
+{
+  "id": 262223,
+  "date": "2023-11-28T20:48:16",
+  "date_gmt": "2023-11-29T01:48:16",
+  "modified": "2025-04-23T05:55:51",
+  "modified_gmt": "2025-04-23T09:55:51",
+  "slug": "toi-2669",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2669/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2669",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248572
+    ],
+    "exo_id": "TOI-2669",
+    "st_optmag": 10.916,
+    "st_vj": 10.916,
+    "st_dist": 393.443,
+    "st_j": 10.916,
+    "st_mass": 1.19,
+    "dec": -13.3125792,
+    "st_teff": 4800,
+    "st_rad": 4.1,
+    "ra": 134.7226445,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-2669",
+    "stellar_type": "K",
+    "tic_id": "TIC 348835438",
+    "magnitude": 10.916
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262223",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248572"
+      }
+    ]
+  }
+}

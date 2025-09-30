@@ -1,1 +1,79 @@
-{"id":244491,"date":"2022-09-27T08:32:04","date_gmt":"2022-09-27T12:32:04","modified":"2025-07-07T20:37:05","modified_gmt":"2025-07-08T00:37:05","slug":"hd-62364-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-62364-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_62364","pl_letter":"c","display_name":"HD 62364 c","planet_radius":"1.07 x Jupiter (estimate)","derived_description":"HD 62364 c is a gas giant exoplanet that orbits a F-type star. Its mass is 24.93 Jupiters, it takes 205 years to complete one orbit of its star, and is 36.984 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":53.112,"planet_mass":"24.93 Jupiters","st_optmag":7.32,"discovery_date":"2022","pl_orbsmax":36.984,"period_display":"205 years","eccentricity":"0.77","star_id":262428,"pl_orbper":74839.94555,"pl_kepflag":false,"pl_radj":1.07,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":82.007,"multiple_planet_system":false,"pl_rade":12,"exo_id":"HD_62364_c","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.773},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244491","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262428"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244491,
+  "date": "2022-09-27T08:32:04",
+  "date_gmt": "2022-09-27T12:32:04",
+  "modified": "2025-07-07T20:37:05",
+  "modified_gmt": "2025-07-08T00:37:05",
+  "slug": "hd-62364-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-62364-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_62364",
+    "pl_letter": "c",
+    "display_name": "HD 62364 c",
+    "planet_radius": "1.07 x Jupiter (estimate)",
+    "derived_description": "HD 62364 c is a gas giant exoplanet that orbits a F-type star. Its mass is 24.93 Jupiters, it takes 205 years to complete one orbit of its star, and is 36.984 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 53.112,
+    "planet_mass": "24.93 Jupiters",
+    "st_optmag": 7.32,
+    "discovery_date": "2022",
+    "pl_orbsmax": 36.984,
+    "period_display": "205 years",
+    "eccentricity": "0.77",
+    "star_id": 262428,
+    "pl_orbper": 74839.94555,
+    "pl_kepflag": false,
+    "pl_radj": 1.07,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 82.007,
+    "multiple_planet_system": false,
+    "pl_rade": 12,
+    "exo_id": "HD_62364_c",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.773
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244491",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262428"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

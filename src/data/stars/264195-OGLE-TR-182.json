@@ -1,1 +1,71 @@
-{"id":264195,"date":"2023-11-28T21:13:27","date_gmt":"2023-11-29T02:13:27","modified":"2025-04-23T05:57:16","modified_gmt":"2025-04-23T09:57:16","slug":"ogle-tr-182","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-tr-182/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-TR-182","custom_star_title":"","aliases":"","constellation":"Carina","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248332],"exo_id":"OGLE-TR-182","st_optmag":16.9195,"st_vj":16.9195,"st_dist":2501.75,"st_j":16.9195,"st_mass":1.14,"dec":-61.0952624,"st_teff":5924,"st_rad":1.14,"ra":167.3279228,"system_radius":7629491.37,"pl_hostname":"OGLE-TR-182","stellar_type":"G","tic_id":"TIC 466884459","magnitude":16.9195},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264195","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248332"}]}}
+{
+  "id": 264195,
+  "date": "2023-11-28T21:13:27",
+  "date_gmt": "2023-11-29T02:13:27",
+  "modified": "2025-04-23T05:57:16",
+  "modified_gmt": "2025-04-23T09:57:16",
+  "slug": "ogle-tr-182",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-tr-182/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-TR-182",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248332
+    ],
+    "exo_id": "OGLE-TR-182",
+    "st_optmag": 16.9195,
+    "st_vj": 16.9195,
+    "st_dist": 2501.75,
+    "st_j": 16.9195,
+    "st_mass": 1.14,
+    "dec": -61.0952624,
+    "st_teff": 5924,
+    "st_rad": 1.14,
+    "ra": 167.3279228,
+    "system_radius": 7629491.37,
+    "pl_hostname": "OGLE-TR-182",
+    "stellar_type": "G",
+    "tic_id": "TIC 466884459",
+    "magnitude": 16.9195
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264195",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248332"
+      }
+    ]
+  }
+}

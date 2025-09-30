@@ -1,1 +1,79 @@
-{"id":404208,"date":"2024-06-27T21:57:42","date_gmt":"2024-06-28T01:57:42","modified":"2024-10-25T10:50:52","modified_gmt":"2024-10-25T14:50:52","slug":"kmt-2023-blg-1431l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kmt-2023-blg-1431l-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"KMT-2023-BLG-1431L","pl_letter":"b","display_name":"KMT-2023-BLG-1431L b","planet_radius":"0.335 x Jupiter (estimate)","derived_description":"KMT-2023-BLG-1431L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 13.6 Earths, it takes 7.6 years to complete one orbit of its star, and is 3.2 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":6800,"planet_mass":"13.6 Earths","st_optmag":"","discovery_date":"2024","pl_orbsmax":3.2,"period_display":"7.6 years","eccentricity":"","star_id":404191,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.335,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.76,"exo_id":"KMT-2023-BLG-1431L_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/404208","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/404191"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 404208,
+  "date": "2024-06-27T21:57:42",
+  "date_gmt": "2024-06-28T01:57:42",
+  "modified": "2024-10-25T10:50:52",
+  "modified_gmt": "2024-10-25T14:50:52",
+  "slug": "kmt-2023-blg-1431l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2023-blg-1431l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2023-BLG-1431L",
+    "pl_letter": "b",
+    "display_name": "KMT-2023-BLG-1431L b",
+    "planet_radius": "0.335 x Jupiter (estimate)",
+    "derived_description": "KMT-2023-BLG-1431L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 13.6 Earths, it takes 7.6 years to complete one orbit of its star, and is 3.2 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 6800,
+    "planet_mass": "13.6 Earths",
+    "st_optmag": "",
+    "discovery_date": "2024",
+    "pl_orbsmax": 3.2,
+    "period_display": "7.6 years",
+    "eccentricity": "",
+    "star_id": 404191,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.335,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.76,
+    "exo_id": "KMT-2023-BLG-1431L_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/404208",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/404191"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

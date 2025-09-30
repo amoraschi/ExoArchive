@@ -1,1 +1,71 @@
-{"id":260429,"date":"2023-11-28T20:25:40","date_gmt":"2023-11-29T01:25:40","modified":"2025-04-23T05:53:52","modified_gmt":"2025-04-23T09:53:52","slug":"kepler-910","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-910/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-910","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247889],"exo_id":"Kepler-910","st_optmag":11.44,"st_vj":11.44,"st_dist":400.289,"st_j":11.44,"st_mass":1.26,"dec":42.7429414,"st_teff":6230,"st_rad":1.5,"ra":296.0472937,"system_radius":5612912.0824,"pl_hostname":"Kepler-910","stellar_type":"F","tic_id":"TIC 272178989","magnitude":11.44},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260429","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247889"}]}}
+{
+  "id": 260429,
+  "date": "2023-11-28T20:25:40",
+  "date_gmt": "2023-11-29T01:25:40",
+  "modified": "2025-04-23T05:53:52",
+  "modified_gmt": "2025-04-23T09:53:52",
+  "slug": "kepler-910",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-910/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-910",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247889
+    ],
+    "exo_id": "Kepler-910",
+    "st_optmag": 11.44,
+    "st_vj": 11.44,
+    "st_dist": 400.289,
+    "st_j": 11.44,
+    "st_mass": 1.26,
+    "dec": 42.7429414,
+    "st_teff": 6230,
+    "st_rad": 1.5,
+    "ra": 296.0472937,
+    "system_radius": 5612912.0824,
+    "pl_hostname": "Kepler-910",
+    "stellar_type": "F",
+    "tic_id": "TIC 272178989",
+    "magnitude": 11.44
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260429",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247889"
+      }
+    ]
+  }
+}

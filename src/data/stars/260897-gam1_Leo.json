@@ -1,1 +1,71 @@
-{"id":260897,"date":"2023-11-28T20:31:29","date_gmt":"2023-11-29T01:31:29","modified":"2025-04-23T05:53:51","modified_gmt":"2025-04-23T09:53:51","slug":"gam1_leo","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gam1_leo/","featured_media":0,"categories":[],"acf":{"display_name":"gam1 Leonis","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243579],"exo_id":"gam1_Leo","st_optmag":1.99509,"st_vj":1.99509,"st_dist":39.8883,"st_j":1.99509,"st_mass":1.23,"dec":19.841389,"st_teff":4330,"st_rad":31.88,"ra":154.993208,"system_radius":178021465.3,"pl_hostname":"gam1_Leo","stellar_type":"K","tic_id":"TIC 95431294","magnitude":1.99509},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260897","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243579"}]}}
+{
+  "id": 260897,
+  "date": "2023-11-28T20:31:29",
+  "date_gmt": "2023-11-29T01:31:29",
+  "modified": "2025-04-23T05:53:51",
+  "modified_gmt": "2025-04-23T09:53:51",
+  "slug": "gam1_leo",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gam1_leo/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "gam1 Leonis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243579
+    ],
+    "exo_id": "gam1_Leo",
+    "st_optmag": 1.99509,
+    "st_vj": 1.99509,
+    "st_dist": 39.8883,
+    "st_j": 1.99509,
+    "st_mass": 1.23,
+    "dec": 19.841389,
+    "st_teff": 4330,
+    "st_rad": 31.88,
+    "ra": 154.993208,
+    "system_radius": 178021465.3,
+    "pl_hostname": "gam1_Leo",
+    "stellar_type": "K",
+    "tic_id": "TIC 95431294",
+    "magnitude": 1.99509
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260897",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243579"
+      }
+    ]
+  }
+}

@@ -1,1 +1,81 @@
-{"id":263879,"date":"2023-11-28T21:09:23","date_gmt":"2023-11-29T02:09:23","modified":"2025-04-23T05:54:52","modified_gmt":"2025-04-23T09:54:52","slug":"kepler-310","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-310/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-310","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246915,"1":246916,"2":246914},"exo_id":"Kepler-310","st_optmag":14.376,"st_vj":14.376,"st_dist":602.268,"st_j":14.376,"st_mass":0.854,"dec":46.9867472,"st_teff":5797,"st_rad":0.876,"ra":288.839278,"system_radius":58642365.04,"pl_hostname":"Kepler-310","stellar_type":"G","tic_id":"TIC 158840828","magnitude":14.376},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263879","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246916"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246915"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246914"}]}}
+{
+  "id": 263879,
+  "date": "2023-11-28T21:09:23",
+  "date_gmt": "2023-11-29T02:09:23",
+  "modified": "2025-04-23T05:54:52",
+  "modified_gmt": "2025-04-23T09:54:52",
+  "slug": "kepler-310",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-310/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-310",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246915,
+      "1": 246916,
+      "2": 246914
+    },
+    "exo_id": "Kepler-310",
+    "st_optmag": 14.376,
+    "st_vj": 14.376,
+    "st_dist": 602.268,
+    "st_j": 14.376,
+    "st_mass": 0.854,
+    "dec": 46.9867472,
+    "st_teff": 5797,
+    "st_rad": 0.876,
+    "ra": 288.839278,
+    "system_radius": 58642365.04,
+    "pl_hostname": "Kepler-310",
+    "stellar_type": "G",
+    "tic_id": "TIC 158840828",
+    "magnitude": 14.376
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263879",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246916"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246915"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246914"
+      }
+    ]
+  }
+}

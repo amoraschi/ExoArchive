@@ -1,1 +1,79 @@
-{"id":245061,"date":"2022-03-21T13:34:41","date_gmt":"2022-03-21T17:34:41","modified":"2025-03-28T07:29:32","modified_gmt":"2025-03-28T11:29:32","slug":"k2-370-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-370-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-370","pl_letter":"b","display_name":"K2-370 b","planet_radius":"0.28610987 x Jupiter","derived_description":"K2-370 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.4 Earths, it takes 2.1 days to complete one orbit of its star, and is 0.032333742997672 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":144.202,"planet_mass":"10.4 Earths","st_optmag":11.109,"discovery_date":"2022","pl_orbsmax":"","period_display":"2.1 days","eccentricity":"","star_id":263167,"pl_orbper":2.14084,"pl_kepflag":true,"pl_radj":0.28610987,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.207,"exo_id":"K2-370_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245061","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263167"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245061,
+  "date": "2022-03-21T13:34:41",
+  "date_gmt": "2022-03-21T17:34:41",
+  "modified": "2025-03-28T07:29:32",
+  "modified_gmt": "2025-03-28T11:29:32",
+  "slug": "k2-370-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-370-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-370",
+    "pl_letter": "b",
+    "display_name": "K2-370 b",
+    "planet_radius": "0.28610987 x Jupiter",
+    "derived_description": "K2-370 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.4 Earths, it takes 2.1 days to complete one orbit of its star, and is 0.032333742997672 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 144.202,
+    "planet_mass": "10.4 Earths",
+    "st_optmag": 11.109,
+    "discovery_date": "2022",
+    "pl_orbsmax": "",
+    "period_display": "2.1 days",
+    "eccentricity": "",
+    "star_id": 263167,
+    "pl_orbper": 2.14084,
+    "pl_kepflag": true,
+    "pl_radj": 0.28610987,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.207,
+    "exo_id": "K2-370_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245061",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263167"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

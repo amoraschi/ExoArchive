@@ -1,1 +1,71 @@
-{"id":264140,"date":"2023-11-28T21:12:44","date_gmt":"2023-11-29T02:12:44","modified":"2025-04-23T05:57:15","modified_gmt":"2025-04-23T09:57:15","slug":"ogle-2012-blg-0358l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2012-blg-0358l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2012-BLG-0358L","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248247],"exo_id":"OGLE-2012-BLG-0358L","st_optmag":"","st_vj":"","st_dist":1760,"st_j":"","st_mass":0.022,"dec":-24.261,"st_teff":"","st_rad":"","ra":265.694875,"system_radius":130150146.9,"pl_hostname":"OGLE-2012-BLG-0358L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264140","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248247"}]}}
+{
+  "id": 264140,
+  "date": "2023-11-28T21:12:44",
+  "date_gmt": "2023-11-29T02:12:44",
+  "modified": "2025-04-23T05:57:15",
+  "modified_gmt": "2025-04-23T09:57:15",
+  "slug": "ogle-2012-blg-0358l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2012-blg-0358l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2012-BLG-0358L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248247
+    ],
+    "exo_id": "OGLE-2012-BLG-0358L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 1760,
+    "st_j": "",
+    "st_mass": 0.022,
+    "dec": -24.261,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 265.694875,
+    "system_radius": 130150146.9,
+    "pl_hostname": "OGLE-2012-BLG-0358L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264140",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248247"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":261051,"date":"2023-11-28T20:33:26","date_gmt":"2023-11-29T01:33:26","modified":"2025-04-23T05:55:32","modified_gmt":"2025-04-23T09:55:32","slug":"hd_56414","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_56414/","featured_media":0,"categories":[],"acf":{"display_name":"HD 56414","custom_star_title":"","aliases":"","constellation":"Volans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244482],"exo_id":"HD_56414","st_optmag":9.217,"st_vj":9.217,"st_dist":272.217,"st_j":9.217,"st_mass":1.89,"dec":-68.8333403,"st_teff":8500,"st_rad":1.751,"ra":107.8436846,"system_radius":34257912.23,"pl_hostname":"HD_56414","stellar_type":"A","tic_id":"TIC 300038935","magnitude":9.217},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261051","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244482"}]}}
+{
+  "id": 261051,
+  "date": "2023-11-28T20:33:26",
+  "date_gmt": "2023-11-29T01:33:26",
+  "modified": "2025-04-23T05:55:32",
+  "modified_gmt": "2025-04-23T09:55:32",
+  "slug": "hd_56414",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_56414/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 56414",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244482
+    ],
+    "exo_id": "HD_56414",
+    "st_optmag": 9.217,
+    "st_vj": 9.217,
+    "st_dist": 272.217,
+    "st_j": 9.217,
+    "st_mass": 1.89,
+    "dec": -68.8333403,
+    "st_teff": 8500,
+    "st_rad": 1.751,
+    "ra": 107.8436846,
+    "system_radius": 34257912.23,
+    "pl_hostname": "HD_56414",
+    "stellar_type": "A",
+    "tic_id": "TIC 300038935",
+    "magnitude": 9.217
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261051",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244482"
+      }
+    ]
+  }
+}

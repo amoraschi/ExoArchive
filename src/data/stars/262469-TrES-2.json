@@ -1,1 +1,71 @@
-{"id":262469,"date":"2023-11-28T20:51:23","date_gmt":"2023-11-29T01:51:23","modified":"2025-04-23T05:55:42","modified_gmt":"2025-04-23T09:55:42","slug":"tres-2","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tres-2/","featured_media":0,"categories":[],"acf":{"display_name":"TrES-2","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248714],"exo_id":"TrES-2","st_optmag":11.254,"st_vj":11.254,"st_dist":215.32,"st_j":11.254,"st_mass":1.36,"dec":49.3164211,"st_teff":5850,"st_rad":1.12,"ra":286.8085258,"system_radius":5337652.0016,"pl_hostname":"TrES-2","stellar_type":"G","tic_id":"TIC 399860444","magnitude":11.254},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262469","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248714"}]}}
+{
+  "id": 262469,
+  "date": "2023-11-28T20:51:23",
+  "date_gmt": "2023-11-29T01:51:23",
+  "modified": "2025-04-23T05:55:42",
+  "modified_gmt": "2025-04-23T09:55:42",
+  "slug": "tres-2",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tres-2/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TrES-2",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248714
+    ],
+    "exo_id": "TrES-2",
+    "st_optmag": 11.254,
+    "st_vj": 11.254,
+    "st_dist": 215.32,
+    "st_j": 11.254,
+    "st_mass": 1.36,
+    "dec": 49.3164211,
+    "st_teff": 5850,
+    "st_rad": 1.12,
+    "ra": 286.8085258,
+    "system_radius": 5337652.0016,
+    "pl_hostname": "TrES-2",
+    "stellar_type": "G",
+    "tic_id": "TIC 399860444",
+    "magnitude": 11.254
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262469",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248714"
+      }
+    ]
+  }
+}

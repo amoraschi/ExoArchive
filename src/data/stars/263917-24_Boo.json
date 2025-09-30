@@ -1,1 +1,71 @@
-{"id":263917,"date":"2023-11-28T21:09:52","date_gmt":"2023-11-29T02:09:52","modified":"2025-04-23T05:57:12","modified_gmt":"2025-04-23T09:57:12","slug":"24_boo","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/24_boo/","featured_media":0,"categories":[],"acf":{"display_name":"24 Bootis","custom_star_title":"","aliases":"","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243393],"exo_id":"24_Boo","st_optmag":5.59,"st_vj":5.59,"st_dist":95.9863,"st_j":5.59,"st_mass":1.05,"dec":49.8446488,"st_teff":4816,"st_rad":12.19,"ra":217.1555242,"system_radius":29021986.78,"pl_hostname":"24_Boo","stellar_type":"K","tic_id":"TIC 441712711","magnitude":5.59},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263917","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243393"}]}}
+{
+  "id": 263917,
+  "date": "2023-11-28T21:09:52",
+  "date_gmt": "2023-11-29T02:09:52",
+  "modified": "2025-04-23T05:57:12",
+  "modified_gmt": "2025-04-23T09:57:12",
+  "slug": "24_boo",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/24_boo/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "24 Bootis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243393
+    ],
+    "exo_id": "24_Boo",
+    "st_optmag": 5.59,
+    "st_vj": 5.59,
+    "st_dist": 95.9863,
+    "st_j": 5.59,
+    "st_mass": 1.05,
+    "dec": 49.8446488,
+    "st_teff": 4816,
+    "st_rad": 12.19,
+    "ra": 217.1555242,
+    "system_radius": 29021986.78,
+    "pl_hostname": "24_Boo",
+    "stellar_type": "K",
+    "tic_id": "TIC 441712711",
+    "magnitude": 5.59
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263917",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243393"
+      }
+    ]
+  }
+}

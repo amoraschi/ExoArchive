@@ -1,1 +1,79 @@
-{"id":248295,"date":"2022-01-27T17:32:11","date_gmt":"2022-01-27T22:32:11","modified":"2024-10-25T10:08:40","modified_gmt":"2024-10-25T14:08:40","slug":"ogle-2018-blg-0532l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2018-blg-0532l-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2018-BLG-0532L","pl_letter":"b","display_name":"OGLE-2018-BLG-0532L b","planet_radius":"0.212 x Jupiter (estimate)","derived_description":"OGLE-2018-BLG-0532L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 6.228 Earths, it takes 2.5 years to complete one orbit of its star, and is 1.064 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":773,"planet_mass":"6.228 Earths","st_optmag":"","discovery_date":"2020","pl_orbsmax":1.064,"period_display":"2.5 years","eccentricity":"","star_id":260527,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.212,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.37,"exo_id":"OGLE-2018-BLG-0532L_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248295","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260527"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248295,
+  "date": "2022-01-27T17:32:11",
+  "date_gmt": "2022-01-27T22:32:11",
+  "modified": "2024-10-25T10:08:40",
+  "modified_gmt": "2024-10-25T14:08:40",
+  "slug": "ogle-2018-blg-0532l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2018-blg-0532l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2018-BLG-0532L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2018-BLG-0532L b",
+    "planet_radius": "0.212 x Jupiter (estimate)",
+    "derived_description": "OGLE-2018-BLG-0532L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 6.228 Earths, it takes 2.5 years to complete one orbit of its star, and is 1.064 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 773,
+    "planet_mass": "6.228 Earths",
+    "st_optmag": "",
+    "discovery_date": "2020",
+    "pl_orbsmax": 1.064,
+    "period_display": "2.5 years",
+    "eccentricity": "",
+    "star_id": 260527,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.212,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.37,
+    "exo_id": "OGLE-2018-BLG-0532L_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248295",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260527"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

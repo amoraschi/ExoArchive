@@ -1,1 +1,71 @@
-{"id":264158,"date":"2023-11-28T21:12:58","date_gmt":"2023-11-29T02:12:58","modified":"2025-04-23T05:57:16","modified_gmt":"2025-04-23T09:57:16","slug":"corot-29","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-29/","featured_media":0,"categories":[],"acf":{"display_name":"CoRoT-29","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243495],"exo_id":"CoRoT-29","st_optmag":15.408,"st_vj":15.408,"st_dist":806.507,"st_j":15.408,"st_mass":0.97,"dec":6.4795703,"st_teff":5260,"st_rad":0.9,"ra":278.9020691,"system_radius":5774477.782,"pl_hostname":"CoRoT-29","stellar_type":"K","tic_id":"TIC 370736259","magnitude":15.408},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264158","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243495"}]}}
+{
+  "id": 264158,
+  "date": "2023-11-28T21:12:58",
+  "date_gmt": "2023-11-29T02:12:58",
+  "modified": "2025-04-23T05:57:16",
+  "modified_gmt": "2025-04-23T09:57:16",
+  "slug": "corot-29",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-29/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-29",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243495
+    ],
+    "exo_id": "CoRoT-29",
+    "st_optmag": 15.408,
+    "st_vj": 15.408,
+    "st_dist": 806.507,
+    "st_j": 15.408,
+    "st_mass": 0.97,
+    "dec": 6.4795703,
+    "st_teff": 5260,
+    "st_rad": 0.9,
+    "ra": 278.9020691,
+    "system_radius": 5774477.782,
+    "pl_hostname": "CoRoT-29",
+    "stellar_type": "K",
+    "tic_id": "TIC 370736259",
+    "magnitude": 15.408
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264158",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243495"
+      }
+    ]
+  }
+}

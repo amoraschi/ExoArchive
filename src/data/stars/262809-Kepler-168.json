@@ -1,1 +1,76 @@
-{"id":262809,"date":"2023-11-28T20:55:44","date_gmt":"2023-11-29T01:55:44","modified":"2025-04-23T05:55:02","modified_gmt":"2025-04-23T09:55:02","slug":"kepler-168","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-168/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-168","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246183,246184],"exo_id":"Kepler-168","st_optmag":14.842,"st_vj":14.842,"st_dist":1343.6,"st_j":14.842,"st_mass":1.113,"dec":39.8250437,"st_teff":6282,"st_rad":1.107,"ra":294.7101832,"system_radius":17353352.92,"pl_hostname":"Kepler-168","stellar_type":"F","tic_id":"TIC 378087276","magnitude":14.842},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262809","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246184"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246183"}]}}
+{
+  "id": 262809,
+  "date": "2023-11-28T20:55:44",
+  "date_gmt": "2023-11-29T01:55:44",
+  "modified": "2025-04-23T05:55:02",
+  "modified_gmt": "2025-04-23T09:55:02",
+  "slug": "kepler-168",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-168/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-168",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246183,
+      246184
+    ],
+    "exo_id": "Kepler-168",
+    "st_optmag": 14.842,
+    "st_vj": 14.842,
+    "st_dist": 1343.6,
+    "st_j": 14.842,
+    "st_mass": 1.113,
+    "dec": 39.8250437,
+    "st_teff": 6282,
+    "st_rad": 1.107,
+    "ra": 294.7101832,
+    "system_radius": 17353352.92,
+    "pl_hostname": "Kepler-168",
+    "stellar_type": "F",
+    "tic_id": "TIC 378087276",
+    "magnitude": 14.842
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262809",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246184"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246183"
+      }
+    ]
+  }
+}

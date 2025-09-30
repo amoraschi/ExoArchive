@@ -1,1 +1,79 @@
-{"id":244814,"date":"2018-02-16T12:26:06","date_gmt":"2018-02-16T17:26:06","modified":"2025-07-07T17:21:48","modified_gmt":"2025-07-07T21:21:48","slug":"k2-172-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-172-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-172","pl_letter":"c","display_name":"K2-172 c","planet_radius":"0.28599259 x Jupiter","derived_description":"K2-172 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.4 Earths, it takes 29.6 days to complete one orbit of its star, and is 0.18318741221593 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":249.742,"planet_mass":"10.4 Earths","st_optmag":12.5,"discovery_date":"2018","pl_orbsmax":"","period_display":"29.6 days","eccentricity":"","star_id":261240,"pl_orbper":29.62682,"pl_kepflag":true,"pl_radj":0.28599259,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.20569097,"exo_id":"K2-172_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244814","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261240"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244814,
+  "date": "2018-02-16T12:26:06",
+  "date_gmt": "2018-02-16T17:26:06",
+  "modified": "2025-07-07T17:21:48",
+  "modified_gmt": "2025-07-07T21:21:48",
+  "slug": "k2-172-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-172-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-172",
+    "pl_letter": "c",
+    "display_name": "K2-172 c",
+    "planet_radius": "0.28599259 x Jupiter",
+    "derived_description": "K2-172 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.4 Earths, it takes 29.6 days to complete one orbit of its star, and is 0.18318741221593 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 249.742,
+    "planet_mass": "10.4 Earths",
+    "st_optmag": 12.5,
+    "discovery_date": "2018",
+    "pl_orbsmax": "",
+    "period_display": "29.6 days",
+    "eccentricity": "",
+    "star_id": 261240,
+    "pl_orbper": 29.62682,
+    "pl_kepflag": true,
+    "pl_radj": 0.28599259,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.20569097,
+    "exo_id": "K2-172_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244814",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261240"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

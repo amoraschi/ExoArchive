@@ -1,1 +1,71 @@
-{"id":263203,"date":"2023-11-28T21:00:42","date_gmt":"2023-11-29T02:00:42","modified":"2025-04-23T05:56:20","modified_gmt":"2025-04-23T09:56:20","slug":"wasp-94_b","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-94_b/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-94 B","custom_star_title":"","aliases":"","constellation":"Microscopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248917],"exo_id":"WASP-94_B","st_optmag":10.589,"st_vj":10.589,"st_dist":208.696,"st_j":10.589,"st_mass":1.24,"dec":-34.135724,"st_teff":6040,"st_rad":1.35,"ra":313.7882932,"system_radius":5011528.645,"pl_hostname":"WASP-94_B","stellar_type":"F","tic_id":"TIC 92352621","magnitude":10.589},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263203","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248917"}]}}
+{
+  "id": 263203,
+  "date": "2023-11-28T21:00:42",
+  "date_gmt": "2023-11-29T02:00:42",
+  "modified": "2025-04-23T05:56:20",
+  "modified_gmt": "2025-04-23T09:56:20",
+  "slug": "wasp-94_b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-94_b/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-94 B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Microscopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248917
+    ],
+    "exo_id": "WASP-94_B",
+    "st_optmag": 10.589,
+    "st_vj": 10.589,
+    "st_dist": 208.696,
+    "st_j": 10.589,
+    "st_mass": 1.24,
+    "dec": -34.135724,
+    "st_teff": 6040,
+    "st_rad": 1.35,
+    "ra": 313.7882932,
+    "system_radius": 5011528.645,
+    "pl_hostname": "WASP-94_B",
+    "stellar_type": "F",
+    "tic_id": "TIC 92352621",
+    "magnitude": 10.589
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263203",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248917"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243785,"date":"2016-09-15T13:25:33","date_gmt":"2016-09-15T17:25:33","modified":"2025-07-07T17:57:05","modified_gmt":"2025-07-07T21:57:05","slug":"hat-p-66-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hat-p-66-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HAT-P-66","pl_letter":"b","display_name":"HAT-P-66 b","planet_radius":"1.59 x Jupiter","derived_description":"HAT-P-66 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.783 Jupiters, it takes 3 days to complete one orbit of its star, and is 0.04363 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATNet","st_dist":935.456,"planet_mass":"0.783 Jupiters","st_optmag":13.014,"discovery_date":"2016","pl_orbsmax":0.04363,"period_display":"3 days","eccentricity":"< 0.09","star_id":261626,"pl_orbper":2.972086,"pl_kepflag":false,"pl_radj":1.59,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":17.82231,"exo_id":"HAT-P-66_b","planet_size_class":"Jovian","pl_eccenlim":0.09,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243785","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261626"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243785,
+  "date": "2016-09-15T13:25:33",
+  "date_gmt": "2016-09-15T17:25:33",
+  "modified": "2025-07-07T17:57:05",
+  "modified_gmt": "2025-07-07T21:57:05",
+  "slug": "hat-p-66-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hat-p-66-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HAT-P-66",
+    "pl_letter": "b",
+    "display_name": "HAT-P-66 b",
+    "planet_radius": "1.59 x Jupiter",
+    "derived_description": "HAT-P-66 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.783 Jupiters, it takes 3 days to complete one orbit of its star, and is 0.04363 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATNet",
+    "st_dist": 935.456,
+    "planet_mass": "0.783 Jupiters",
+    "st_optmag": 13.014,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.04363,
+    "period_display": "3 days",
+    "eccentricity": "< 0.09",
+    "star_id": 261626,
+    "pl_orbper": 2.972086,
+    "pl_kepflag": false,
+    "pl_radj": 1.59,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 17.82231,
+    "exo_id": "HAT-P-66_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.09,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243785",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261626"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

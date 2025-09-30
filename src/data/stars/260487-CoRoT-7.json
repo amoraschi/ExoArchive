@@ -1,1 +1,81 @@
-{"id":260487,"date":"2023-11-28T20:26:24","date_gmt":"2023-11-29T01:26:24","modified":"2025-06-13T07:33:38","modified_gmt":"2025-06-13T11:33:38","slug":"corot-7","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-7/","featured_media":0,"categories":[],"acf":{"display_name":"CoRoT-7","custom_star_title":"","aliases":"","constellation":"Monoceros","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243508,"1":243507,"2":243506},"exo_id":"CoRoT-7","st_optmag":11.728,"st_vj":11.728,"st_dist":159.906,"st_j":11.728,"st_mass":0.899,"dec":-1.0630076,"st_teff":5256,"st_rad":0.864273,"ra":100.9561682,"system_radius":6881502.02,"pl_hostname":"CoRoT-7","stellar_type":"K","tic_id":"TIC 280304863","magnitude":11.728},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260487","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243508"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243507"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243506"}]}}
+{
+  "id": 260487,
+  "date": "2023-11-28T20:26:24",
+  "date_gmt": "2023-11-29T01:26:24",
+  "modified": "2025-06-13T07:33:38",
+  "modified_gmt": "2025-06-13T11:33:38",
+  "slug": "corot-7",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-7/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-7",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243508,
+      "1": 243507,
+      "2": 243506
+    },
+    "exo_id": "CoRoT-7",
+    "st_optmag": 11.728,
+    "st_vj": 11.728,
+    "st_dist": 159.906,
+    "st_j": 11.728,
+    "st_mass": 0.899,
+    "dec": -1.0630076,
+    "st_teff": 5256,
+    "st_rad": 0.864273,
+    "ra": 100.9561682,
+    "system_radius": 6881502.02,
+    "pl_hostname": "CoRoT-7",
+    "stellar_type": "K",
+    "tic_id": "TIC 280304863",
+    "magnitude": 11.728
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260487",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243508"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243507"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243506"
+      }
+    ]
+  }
+}

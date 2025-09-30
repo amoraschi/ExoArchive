@@ -1,1 +1,71 @@
-{"id":262866,"date":"2023-11-28T20:56:28","date_gmt":"2023-11-29T01:56:28","modified":"2025-04-23T05:56:33","modified_gmt":"2025-04-23T09:56:33","slug":"toi-1278","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1278/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1278","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248438],"exo_id":"TOI-1278","st_optmag":13.502,"st_vj":13.502,"st_dist":75.5759,"st_j":13.502,"st_mass":0.54,"dec":35.648625,"st_teff":3799,"st_rad":0.573,"ra":320.4784442,"system_radius":14211797.65,"pl_hostname":"TOI-1278","stellar_type":"M","tic_id":"TIC 163539739","magnitude":13.502},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262866","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248438"}]}}
+{
+  "id": 262866,
+  "date": "2023-11-28T20:56:28",
+  "date_gmt": "2023-11-29T01:56:28",
+  "modified": "2025-04-23T05:56:33",
+  "modified_gmt": "2025-04-23T09:56:33",
+  "slug": "toi-1278",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1278/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1278",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248438
+    ],
+    "exo_id": "TOI-1278",
+    "st_optmag": 13.502,
+    "st_vj": 13.502,
+    "st_dist": 75.5759,
+    "st_j": 13.502,
+    "st_mass": 0.54,
+    "dec": 35.648625,
+    "st_teff": 3799,
+    "st_rad": 0.573,
+    "ra": 320.4784442,
+    "system_radius": 14211797.65,
+    "pl_hostname": "TOI-1278",
+    "stellar_type": "M",
+    "tic_id": "TIC 163539739",
+    "magnitude": 13.502
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262866",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248438"
+      }
+    ]
+  }
+}

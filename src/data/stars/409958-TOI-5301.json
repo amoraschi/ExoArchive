@@ -1,1 +1,71 @@
-{"id":409958,"date":"2024-07-25T22:04:32","date_gmt":"2024-07-26T02:04:32","modified":"2025-05-09T06:26:30","modified_gmt":"2025-05-09T10:26:30","slug":"toi-5301","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5301/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-5301","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410036],"exo_id":"TOI-5301","st_optmag":11.738,"st_vj":11.738,"st_dist":629.161,"st_j":11.738,"st_mass":1.483,"dec":13.0783712,"st_teff":6240,"st_rad":2.19,"ra":12.9908008,"system_radius":10920644.51,"pl_hostname":"TOI-5301","stellar_type":"F","tic_id":"TIC 58825110","magnitude":11.738},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409958","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410036"}]}}
+{
+  "id": 409958,
+  "date": "2024-07-25T22:04:32",
+  "date_gmt": "2024-07-26T02:04:32",
+  "modified": "2025-05-09T06:26:30",
+  "modified_gmt": "2025-05-09T10:26:30",
+  "slug": "toi-5301",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5301/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5301",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410036
+    ],
+    "exo_id": "TOI-5301",
+    "st_optmag": 11.738,
+    "st_vj": 11.738,
+    "st_dist": 629.161,
+    "st_j": 11.738,
+    "st_mass": 1.483,
+    "dec": 13.0783712,
+    "st_teff": 6240,
+    "st_rad": 2.19,
+    "ra": 12.9908008,
+    "system_radius": 10920644.51,
+    "pl_hostname": "TOI-5301",
+    "stellar_type": "F",
+    "tic_id": "TIC 58825110",
+    "magnitude": 11.738
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409958",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410036"
+      }
+    ]
+  }
+}

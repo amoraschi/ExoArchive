@@ -1,1 +1,71 @@
-{"id":262554,"date":"2023-11-28T20:52:27","date_gmt":"2023-11-29T01:52:27","modified":"2025-04-23T05:56:24","modified_gmt":"2025-04-23T09:56:24","slug":"kmt-2018-blg-0029l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2018-blg-0029l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2018-BLG-0029L","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248043],"exo_id":"KMT-2018-BLG-0029L","st_optmag":"","st_vj":"","st_dist":3380,"st_j":"","st_mass":1.14,"dec":-27.9847,"st_teff":"","st_rad":"","ra":264.469458,"system_radius":638782904.9,"pl_hostname":"KMT-2018-BLG-0029L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262554","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248043"}]}}
+{
+  "id": 262554,
+  "date": "2023-11-28T20:52:27",
+  "date_gmt": "2023-11-29T01:52:27",
+  "modified": "2025-04-23T05:56:24",
+  "modified_gmt": "2025-04-23T09:56:24",
+  "slug": "kmt-2018-blg-0029l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2018-blg-0029l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2018-BLG-0029L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248043
+    ],
+    "exo_id": "KMT-2018-BLG-0029L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 3380,
+    "st_j": "",
+    "st_mass": 1.14,
+    "dec": -27.9847,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 264.469458,
+    "system_radius": 638782904.9,
+    "pl_hostname": "KMT-2018-BLG-0029L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262554",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248043"
+      }
+    ]
+  }
+}

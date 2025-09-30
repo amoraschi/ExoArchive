@@ -1,1 +1,71 @@
-{"id":260524,"date":"2023-11-28T20:26:52","date_gmt":"2023-11-29T01:26:52","modified":"2025-06-06T07:19:20","modified_gmt":"2025-06-06T11:19:20","slug":"k2-98","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-98/","featured_media":0,"categories":[],"acf":{"display_name":"K2-98","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245200],"exo_id":"K2-98","st_optmag":12.216,"st_vj":12.216,"st_dist":518.625,"st_j":12.216,"st_mass":1.246,"dec":11.5110933,"st_teff":6260,"st_rad":1.518,"ra":126.4882114,"system_radius":14750349.982,"pl_hostname":"K2-98","stellar_type":"F","tic_id":"TIC 366410512","magnitude":12.216},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260524","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245200"}]}}
+{
+  "id": 260524,
+  "date": "2023-11-28T20:26:52",
+  "date_gmt": "2023-11-29T01:26:52",
+  "modified": "2025-06-06T07:19:20",
+  "modified_gmt": "2025-06-06T11:19:20",
+  "slug": "k2-98",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-98/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-98",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245200
+    ],
+    "exo_id": "K2-98",
+    "st_optmag": 12.216,
+    "st_vj": 12.216,
+    "st_dist": 518.625,
+    "st_j": 12.216,
+    "st_mass": 1.246,
+    "dec": 11.5110933,
+    "st_teff": 6260,
+    "st_rad": 1.518,
+    "ra": 126.4882114,
+    "system_radius": 14750349.982,
+    "pl_hostname": "K2-98",
+    "stellar_type": "F",
+    "tic_id": "TIC 366410512",
+    "magnitude": 12.216
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260524",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245200"
+      }
+    ]
+  }
+}

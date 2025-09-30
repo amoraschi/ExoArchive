@@ -1,1 +1,77 @@
-{"id":884271,"date":"2025-07-29T20:42:23","date_gmt":"2025-07-30T00:42:23","modified":"2025-07-29T20:42:23","modified_gmt":"2025-07-30T00:42:23","slug":"toi-2992","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2992/","featured_media":429647,"categories":[],"acf":{"display_name":"TOI-2992","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[884312],"exo_id":"TOI-2992","st_optmag":12.603,"st_vj":12.603,"st_dist":542.026,"st_j":12.603,"st_mass":1.21,"dec":-32.3224375,"st_teff":6000,"st_rad":1.545,"ra":164.3165643,"system_radius":6492547.558,"pl_hostname":"TOI-2992","stellar_type":"F","tic_id":"TIC 49045066","magnitude":12.603},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/884271","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884312"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 884271,
+  "date": "2025-07-29T20:42:23",
+  "date_gmt": "2025-07-30T00:42:23",
+  "modified": "2025-07-29T20:42:23",
+  "modified_gmt": "2025-07-30T00:42:23",
+  "slug": "toi-2992",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2992/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2992",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      884312
+    ],
+    "exo_id": "TOI-2992",
+    "st_optmag": 12.603,
+    "st_vj": 12.603,
+    "st_dist": 542.026,
+    "st_j": 12.603,
+    "st_mass": 1.21,
+    "dec": -32.3224375,
+    "st_teff": 6000,
+    "st_rad": 1.545,
+    "ra": 164.3165643,
+    "system_radius": 6492547.558,
+    "pl_hostname": "TOI-2992",
+    "stellar_type": "F",
+    "tic_id": "TIC 49045066",
+    "magnitude": 12.603
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884271",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884312"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260778,"date":"2023-11-28T20:29:59","date_gmt":"2023-11-29T01:29:59","modified":"2025-04-23T05:53:43","modified_gmt":"2025-04-23T09:53:43","slug":"hd_70642","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_70642/","featured_media":0,"categories":[],"acf":{"display_name":"HD 70642","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244520],"exo_id":"HD_70642","st_optmag":7.17,"st_vj":7.17,"st_dist":29.276,"st_j":7.17,"st_mass":1.078,"dec":-39.7044432,"st_teff":5732,"st_rad":0.984,"ra":125.3661079,"system_radius":496365732.66,"pl_hostname":"HD_70642","stellar_type":"G","tic_id":"TIC 183356952","magnitude":7.17},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260778","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244520"}]}}
+{
+  "id": 260778,
+  "date": "2023-11-28T20:29:59",
+  "date_gmt": "2023-11-29T01:29:59",
+  "modified": "2025-04-23T05:53:43",
+  "modified_gmt": "2025-04-23T09:53:43",
+  "slug": "hd_70642",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_70642/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 70642",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244520
+    ],
+    "exo_id": "HD_70642",
+    "st_optmag": 7.17,
+    "st_vj": 7.17,
+    "st_dist": 29.276,
+    "st_j": 7.17,
+    "st_mass": 1.078,
+    "dec": -39.7044432,
+    "st_teff": 5732,
+    "st_rad": 0.984,
+    "ra": 125.3661079,
+    "system_radius": 496365732.66,
+    "pl_hostname": "HD_70642",
+    "stellar_type": "G",
+    "tic_id": "TIC 183356952",
+    "magnitude": 7.17
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260778",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244520"
+      }
+    ]
+  }
+}
