@@ -20,7 +20,7 @@ export default function System () {
       .catch(err => console.error(err))
 
     return () => {
-      abortController.abort()
+      abortController.abort('Operation cancelled by the user.')
     }
   }, [host])
 

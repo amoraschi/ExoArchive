@@ -3,37 +3,36 @@ import { Mesh } from 'three'
 import { useFrame } from '@react-three/fiber'
 
 interface PlanetProps {
-  position: [number, number, number]
+  orbitCalculator: (planetRef: React.RefObject<Mesh>, acf: ExoplanetAcf) => void,
+  exoplanetAcf: ExoplanetAcf
 }
 
 export default function Planet ({
-  position
+  orbitCalculator,
+  exoplanetAcf
 }: PlanetProps) {
   const planetRef = createRef<Mesh>()
 
   useFrame(() => {
     if (planetRef.current == null) return
-    const time = Date.now() * 0.001
-    const radius = 5
-    planetRef.current.position.x = Math.cos(time) * radius
-    planetRef.current.position.z = Math.sin(time) * radius
+
+    // @ts-expect-error
+    orbitCalculator(planetRef, exoplanetAcf)
   })
 
   return (
     <mesh
       ref={planetRef}
-      position={position}
     >
       <sphereGeometry
         args={[0.5, 32, 32]}
       />
       <meshStandardMaterial
         color='blue'
-      />
-      <pointLight
-        color='blue'
-        intensity={1}
-        distance={5}
+        emissive='blue'
+        emissiveIntensity={5}
+        metalness={0.5}
+        roughness={0.5}
       />
     </mesh>
   )

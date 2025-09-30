@@ -11,27 +11,40 @@ export default function DescriptionColor ({
   coloredType,
   type
 }: Readonly<DescriptionColorProps>) {
+  if (!description) {
+    return (
+      <>
+        No description available.
+      </>
+    )
+  }
+
+  if (type != null) {
+    const typeRegex = new RegExp(`(${type}-type)`)
+    const parts = description.split(typeRegex)
+
+    return (
+      <>
+        {
+          parts.map((part, index) =>
+            part === `${type}-type` ? (
+              <span
+                key={index}
+              >
+                {coloredType}
+              </span>
+            ) : (
+              part
+            )
+          )
+        }
+      </>
+    )
+  }
+
   return (
     <>
-      {
-        description != null ? (
-          type != null ? (
-            <>
-              {
-                description.slice(0, description.indexOf('-type') - 1).trim()
-              } {
-                coloredType
-              } {
-                description.slice(description.indexOf('-type') + 5).trim()
-              }
-            </>
-          ) : (
-            description
-          )
-        ) : (
-          'No description available.'
-        )
-      }
+      {description}
     </>
   )
 }

@@ -68,7 +68,7 @@ export default function Archive () {
       .catch(err => console.error(err))
 
     return () => {
-      abortController.abort()
+      abortController.abort('Operation cancelled by the user.')
     }
   }, [page, selected, order])
 
