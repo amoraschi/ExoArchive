@@ -1,1 +1,69 @@
-{"id":391216,"date":"2024-04-30T20:01:19","date_gmt":"2024-05-01T00:01:19","modified":"2025-04-23T05:57:29","modified_gmt":"2025-04-23T09:57:29","slug":"17-cygni-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/17-cygni-a/","featured_media":429647,"categories":[],"acf":{"display_name":"17 Cygni A","custom_star_title":"","aliases":"HD 187013,HR 7534 A,GJ 9670A","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"17_Cygni_A","st_optmag":5.005,"st_vj":5.005,"st_dist":20.9857,"st_j":5.005,"st_mass":1.29,"dec":33.7275982,"st_teff":6455,"st_rad":1.503,"ra":296.6066669,"system_radius":149597870,"pl_hostname":"17_Cygni_A","stellar_type":"F","tic_id":"TIC 58445695","magnitude":5},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391216","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391216,
+  "date": "2024-04-30T20:01:19",
+  "date_gmt": "2024-05-01T00:01:19",
+  "modified": "2025-04-23T05:57:29",
+  "modified_gmt": "2025-04-23T09:57:29",
+  "slug": "17-cygni-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/17-cygni-a/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "17 Cygni A",
+    "custom_star_title": "",
+    "aliases": "HD 187013,HR 7534 A,GJ 9670A",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "17_Cygni_A",
+    "st_optmag": 5.005,
+    "st_vj": 5.005,
+    "st_dist": 20.9857,
+    "st_j": 5.005,
+    "st_mass": 1.29,
+    "dec": 33.7275982,
+    "st_teff": 6455,
+    "st_rad": 1.503,
+    "ra": 296.6066669,
+    "system_radius": 149597870,
+    "pl_hostname": "17_Cygni_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 58445695",
+    "magnitude": 5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391216",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

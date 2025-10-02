@@ -1,1 +1,71 @@
-{"id":262007,"date":"2023-11-28T20:45:31","date_gmt":"2023-11-29T01:45:31","modified":"2025-04-23T05:53:24","modified_gmt":"2025-04-23T09:53:24","slug":"hat-p-46","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-46/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-46","custom_star_title":"","aliases":"","constellation":"Serpens","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243765],"exo_id":"HAT-P-46","st_optmag":11.997,"st_vj":11.997,"st_dist":290.736,"st_j":11.997,"st_mass":1.284,"dec":-2.97098,"st_teff":6120,"st_rad":1.396,"ra":270.4441831,"system_radius":8631797.099,"pl_hostname":"HAT-P-46","stellar_type":"F","tic_id":"TIC 104866616","magnitude":11.997},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262007","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243765"}]}}
+{
+  "id": 262007,
+  "date": "2023-11-28T20:45:31",
+  "date_gmt": "2023-11-29T01:45:31",
+  "modified": "2025-04-23T05:53:24",
+  "modified_gmt": "2025-04-23T09:53:24",
+  "slug": "hat-p-46",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-46/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-46",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Serpens",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243765
+    ],
+    "exo_id": "HAT-P-46",
+    "st_optmag": 11.997,
+    "st_vj": 11.997,
+    "st_dist": 290.736,
+    "st_j": 11.997,
+    "st_mass": 1.284,
+    "dec": -2.97098,
+    "st_teff": 6120,
+    "st_rad": 1.396,
+    "ra": 270.4441831,
+    "system_radius": 8631797.099,
+    "pl_hostname": "HAT-P-46",
+    "stellar_type": "F",
+    "tic_id": "TIC 104866616",
+    "magnitude": 11.997
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262007",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243765"
+      }
+    ]
+  }
+}

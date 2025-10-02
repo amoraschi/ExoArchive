@@ -1,1 +1,76 @@
-{"id":261741,"date":"2023-11-28T20:42:08","date_gmt":"2023-11-29T01:42:08","modified":"2025-04-23T05:54:08","modified_gmt":"2025-04-23T09:54:08","slug":"kepler-1996","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1996/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1996","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246594,246595],"exo_id":"Kepler-1996","st_optmag":15.11,"st_vj":15.11,"st_dist":440.561,"st_j":15.11,"st_mass":0.748,"dec":46.5822183,"st_teff":4580,"st_rad":0.675,"ra":285.2537555,"system_radius":53974911.496,"pl_hostname":"Kepler-1996","stellar_type":"K","tic_id":"TIC 164892125","magnitude":15.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261741","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246595"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246594"}]}}
+{
+  "id": 261741,
+  "date": "2023-11-28T20:42:08",
+  "date_gmt": "2023-11-29T01:42:08",
+  "modified": "2025-04-23T05:54:08",
+  "modified_gmt": "2025-04-23T09:54:08",
+  "slug": "kepler-1996",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1996/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1996",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246594,
+      246595
+    ],
+    "exo_id": "Kepler-1996",
+    "st_optmag": 15.11,
+    "st_vj": 15.11,
+    "st_dist": 440.561,
+    "st_j": 15.11,
+    "st_mass": 0.748,
+    "dec": 46.5822183,
+    "st_teff": 4580,
+    "st_rad": 0.675,
+    "ra": 285.2537555,
+    "system_radius": 53974911.496,
+    "pl_hostname": "Kepler-1996",
+    "stellar_type": "K",
+    "tic_id": "TIC 164892125",
+    "magnitude": 15.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261741",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246595"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246594"
+      }
+    ]
+  }
+}

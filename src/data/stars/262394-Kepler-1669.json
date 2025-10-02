@@ -1,1 +1,81 @@
-{"id":262394,"date":"2023-11-28T20:50:26","date_gmt":"2023-11-29T01:50:26","modified":"2025-06-06T07:19:31","modified_gmt":"2025-06-06T11:19:31","slug":"kepler-1669","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1669/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1669","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246155,"1":246154,"2":246153},"exo_id":"Kepler-1669","st_optmag":16.473,"st_vj":16.473,"st_dist":543.444,"st_j":16.473,"st_mass":0.67,"dec":39.8478795,"st_teff":4303,"st_rad":0.714145,"ra":297.4303826,"system_radius":11145041.315,"pl_hostname":"Kepler-1669","stellar_type":"K","tic_id":"TIC 169457234","magnitude":16.473},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262394","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246155"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246154"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246153"}]}}
+{
+  "id": 262394,
+  "date": "2023-11-28T20:50:26",
+  "date_gmt": "2023-11-29T01:50:26",
+  "modified": "2025-06-06T07:19:31",
+  "modified_gmt": "2025-06-06T11:19:31",
+  "slug": "kepler-1669",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1669/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1669",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246155,
+      "1": 246154,
+      "2": 246153
+    },
+    "exo_id": "Kepler-1669",
+    "st_optmag": 16.473,
+    "st_vj": 16.473,
+    "st_dist": 543.444,
+    "st_j": 16.473,
+    "st_mass": 0.67,
+    "dec": 39.8478795,
+    "st_teff": 4303,
+    "st_rad": 0.714145,
+    "ra": 297.4303826,
+    "system_radius": 11145041.315,
+    "pl_hostname": "Kepler-1669",
+    "stellar_type": "K",
+    "tic_id": "TIC 169457234",
+    "magnitude": 16.473
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262394",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246155"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246154"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246153"
+      }
+    ]
+  }
+}

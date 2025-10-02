@@ -1,1 +1,71 @@
-{"id":264342,"date":"2023-11-28T21:15:19","date_gmt":"2023-11-29T02:15:19","modified":"2025-04-23T05:53:15","modified_gmt":"2025-04-23T09:53:15","slug":"kepler-1665","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1665/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1665","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246148],"exo_id":"Kepler-1665","st_optmag":13.737,"st_vj":13.737,"st_dist":335.515,"st_j":13.737,"st_mass":0.842,"dec":41.0399229,"st_teff":5049.84,"st_rad":0.777785,"ra":290.39624,"system_radius":14361395.52,"pl_hostname":"Kepler-1665","stellar_type":"K","tic_id":"TIC 122442334","magnitude":13.737},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264342","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246148"}]}}
+{
+  "id": 264342,
+  "date": "2023-11-28T21:15:19",
+  "date_gmt": "2023-11-29T02:15:19",
+  "modified": "2025-04-23T05:53:15",
+  "modified_gmt": "2025-04-23T09:53:15",
+  "slug": "kepler-1665",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1665/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1665",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246148
+    ],
+    "exo_id": "Kepler-1665",
+    "st_optmag": 13.737,
+    "st_vj": 13.737,
+    "st_dist": 335.515,
+    "st_j": 13.737,
+    "st_mass": 0.842,
+    "dec": 41.0399229,
+    "st_teff": 5049.84,
+    "st_rad": 0.777785,
+    "ra": 290.39624,
+    "system_radius": 14361395.52,
+    "pl_hostname": "Kepler-1665",
+    "stellar_type": "K",
+    "tic_id": "TIC 122442334",
+    "magnitude": 13.737
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264342",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246148"
+      }
+    ]
+  }
+}

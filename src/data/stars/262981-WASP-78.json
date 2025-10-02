@@ -1,1 +1,71 @@
-{"id":262981,"date":"2023-11-28T20:57:54","date_gmt":"2023-11-29T01:57:54","modified":"2025-04-23T05:54:24","modified_gmt":"2025-04-23T09:54:24","slug":"wasp-78","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-78/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-78","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248897],"exo_id":"WASP-78","st_optmag":11.965,"st_vj":11.965,"st_dist":754.258,"st_j":11.965,"st_mass":1.87,"dec":-22.1163901,"st_teff":6100,"st_rad":2.46,"ra":63.7562662,"system_radius":5217973.7056,"pl_hostname":"WASP-78","stellar_type":"F","tic_id":"TIC 139528693","magnitude":11.965},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262981","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248897"}]}}
+{
+  "id": 262981,
+  "date": "2023-11-28T20:57:54",
+  "date_gmt": "2023-11-29T01:57:54",
+  "modified": "2025-04-23T05:54:24",
+  "modified_gmt": "2025-04-23T09:54:24",
+  "slug": "wasp-78",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-78/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-78",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248897
+    ],
+    "exo_id": "WASP-78",
+    "st_optmag": 11.965,
+    "st_vj": 11.965,
+    "st_dist": 754.258,
+    "st_j": 11.965,
+    "st_mass": 1.87,
+    "dec": -22.1163901,
+    "st_teff": 6100,
+    "st_rad": 2.46,
+    "ra": 63.7562662,
+    "system_radius": 5217973.7056,
+    "pl_hostname": "WASP-78",
+    "stellar_type": "F",
+    "tic_id": "TIC 139528693",
+    "magnitude": 11.965
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262981",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248897"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":246258,"date":"2021-12-13T17:05:47","date_gmt":"2021-12-13T22:05:47","modified":"2025-03-28T07:24:35","modified_gmt":"2025-03-28T11:24:35","slug":"kepler-1743-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1743-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1743","pl_letter":"b","display_name":"Kepler-1743 b","planet_radius":"1.59887007 x Earth","derived_description":"Kepler-1743 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.18 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.084 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":538.807,"planet_mass":"3.18 Earths","st_optmag":12.062,"discovery_date":"2021","pl_orbsmax":0.084,"period_display":"7.6 days","eccentricity":"0.0","star_id":263810,"pl_orbper":7.649710178,"pl_kepflag":true,"pl_radj":0.14264188,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.59887007,"exo_id":"Kepler-1743_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246258","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263810"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246258,
+  "date": "2021-12-13T17:05:47",
+  "date_gmt": "2021-12-13T22:05:47",
+  "modified": "2025-03-28T07:24:35",
+  "modified_gmt": "2025-03-28T11:24:35",
+  "slug": "kepler-1743-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1743-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1743",
+    "pl_letter": "b",
+    "display_name": "Kepler-1743 b",
+    "planet_radius": "1.59887007 x Earth",
+    "derived_description": "Kepler-1743 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.18 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.084 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 538.807,
+    "planet_mass": "3.18 Earths",
+    "st_optmag": 12.062,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.084,
+    "period_display": "7.6 days",
+    "eccentricity": "0.0",
+    "star_id": 263810,
+    "pl_orbper": 7.649710178,
+    "pl_kepflag": true,
+    "pl_radj": 0.14264188,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.59887007,
+    "exo_id": "Kepler-1743_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246258",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263810"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

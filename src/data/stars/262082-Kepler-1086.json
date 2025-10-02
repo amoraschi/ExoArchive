@@ -1,1 +1,76 @@
-{"id":262082,"date":"2023-11-28T20:46:28","date_gmt":"2023-11-29T01:46:28","modified":"2025-04-23T05:56:51","modified_gmt":"2025-04-23T09:56:51","slug":"kepler-1086","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1086/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1086","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245350,245351],"exo_id":"Kepler-1086","st_optmag":16.002,"st_vj":16.002,"st_dist":466.084,"st_j":16.002,"st_mass":0.7,"dec":45.8429537,"st_teff":4350,"st_rad":0.66,"ra":295.251187,"system_radius":75247728.61,"pl_hostname":"Kepler-1086","stellar_type":"K","tic_id":"TIC 271545939","magnitude":16.002},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262082","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245351"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245350"}]}}
+{
+  "id": 262082,
+  "date": "2023-11-28T20:46:28",
+  "date_gmt": "2023-11-29T01:46:28",
+  "modified": "2025-04-23T05:56:51",
+  "modified_gmt": "2025-04-23T09:56:51",
+  "slug": "kepler-1086",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1086/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1086",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245350,
+      245351
+    ],
+    "exo_id": "Kepler-1086",
+    "st_optmag": 16.002,
+    "st_vj": 16.002,
+    "st_dist": 466.084,
+    "st_j": 16.002,
+    "st_mass": 0.7,
+    "dec": 45.8429537,
+    "st_teff": 4350,
+    "st_rad": 0.66,
+    "ra": 295.251187,
+    "system_radius": 75247728.61,
+    "pl_hostname": "Kepler-1086",
+    "stellar_type": "K",
+    "tic_id": "TIC 271545939",
+    "magnitude": 16.002
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262082",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245351"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245350"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":410122,"date":"2024-07-25T22:53:39","date_gmt":"2024-07-26T02:53:39","modified":"2025-07-07T15:25:51","modified_gmt":"2025-07-07T19:25:51","slug":"toi-1294-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1294-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1294","pl_letter":"c","display_name":"TOI-1294 c","planet_radius":"1.27 x Jupiter (estimate)","derived_description":"TOI-1294 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.46251372 Jupiters, it takes 159.9 days to complete one orbit of its star, and is 0.61 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":332.648,"planet_mass":"0.46251372 Jupiters","st_optmag":11.314,"discovery_date":"2024","pl_orbsmax":0.61,"period_display":"159.9 days","eccentricity":"0.0","star_id":409971,"pl_orbper":159.9,"pl_kepflag":false,"pl_radj":1.27,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":14.3,"exo_id":"TOI-1294_c","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410122","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/409971"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 410122,
+  "date": "2024-07-25T22:53:39",
+  "date_gmt": "2024-07-26T02:53:39",
+  "modified": "2025-07-07T15:25:51",
+  "modified_gmt": "2025-07-07T19:25:51",
+  "slug": "toi-1294-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1294-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1294",
+    "pl_letter": "c",
+    "display_name": "TOI-1294 c",
+    "planet_radius": "1.27 x Jupiter (estimate)",
+    "derived_description": "TOI-1294 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.46251372 Jupiters, it takes 159.9 days to complete one orbit of its star, and is 0.61 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 332.648,
+    "planet_mass": "0.46251372 Jupiters",
+    "st_optmag": 11.314,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.61,
+    "period_display": "159.9 days",
+    "eccentricity": "0.0",
+    "star_id": 409971,
+    "pl_orbper": 159.9,
+    "pl_kepflag": false,
+    "pl_radj": 1.27,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 14.3,
+    "exo_id": "TOI-1294_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410122",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409971"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

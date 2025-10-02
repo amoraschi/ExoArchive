@@ -1,1 +1,71 @@
-{"id":261695,"date":"2023-11-28T20:41:34","date_gmt":"2023-11-29T01:41:34","modified":"2025-06-06T07:19:53","modified_gmt":"2025-06-06T11:19:53","slug":"hat-p-24","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-24/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-24","custom_star_title":"","aliases":"","constellation":"Gemini","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243739],"exo_id":"HAT-P-24","st_optmag":11.762,"st_vj":11.762,"st_dist":415.344,"st_j":11.762,"st_mass":1.37,"dec":14.2626064,"st_teff":6373,"st_rad":1.38,"ra":108.8251171,"system_radius":6957796.9337,"pl_hostname":"HAT-P-24","stellar_type":"F","tic_id":"TIC 440777904","magnitude":11.762},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261695","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243739"}]}}
+{
+  "id": 261695,
+  "date": "2023-11-28T20:41:34",
+  "date_gmt": "2023-11-29T01:41:34",
+  "modified": "2025-06-06T07:19:53",
+  "modified_gmt": "2025-06-06T11:19:53",
+  "slug": "hat-p-24",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-24/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-24",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Gemini",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243739
+    ],
+    "exo_id": "HAT-P-24",
+    "st_optmag": 11.762,
+    "st_vj": 11.762,
+    "st_dist": 415.344,
+    "st_j": 11.762,
+    "st_mass": 1.37,
+    "dec": 14.2626064,
+    "st_teff": 6373,
+    "st_rad": 1.38,
+    "ra": 108.8251171,
+    "system_radius": 6957796.9337,
+    "pl_hostname": "HAT-P-24",
+    "stellar_type": "F",
+    "tic_id": "TIC 440777904",
+    "magnitude": 11.762
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261695",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243739"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245306,"date":"2016-05-10T14:50:18","date_gmt":"2016-05-10T18:50:18","modified":"2025-07-07T20:41:54","modified_gmt":"2025-07-08T00:41:54","slug":"kepler-1057-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1057-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1057","pl_letter":"b","display_name":"Kepler-1057 b","planet_radius":"0.29975912 x Jupiter","derived_description":"Kepler-1057 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 11.2 Earths, it takes 14.1 days to complete one orbit of its star, and is 0.1138 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1201.82,"planet_mass":"11.2 Earths","st_optmag":15.825,"discovery_date":"2016","pl_orbsmax":0.1138,"period_display":"14.1 days","eccentricity":"0.0","star_id":261344,"pl_orbper":14.08827448,"pl_kepflag":true,"pl_radj":0.29975912,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.36,"exo_id":"Kepler-1057_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245306","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261344"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245306,
+  "date": "2016-05-10T14:50:18",
+  "date_gmt": "2016-05-10T18:50:18",
+  "modified": "2025-07-07T20:41:54",
+  "modified_gmt": "2025-07-08T00:41:54",
+  "slug": "kepler-1057-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1057-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1057",
+    "pl_letter": "b",
+    "display_name": "Kepler-1057 b",
+    "planet_radius": "0.29975912 x Jupiter",
+    "derived_description": "Kepler-1057 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 11.2 Earths, it takes 14.1 days to complete one orbit of its star, and is 0.1138 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1201.82,
+    "planet_mass": "11.2 Earths",
+    "st_optmag": 15.825,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1138,
+    "period_display": "14.1 days",
+    "eccentricity": "0.0",
+    "star_id": 261344,
+    "pl_orbper": 14.08827448,
+    "pl_kepflag": true,
+    "pl_radj": 0.29975912,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.36,
+    "exo_id": "Kepler-1057_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261344"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

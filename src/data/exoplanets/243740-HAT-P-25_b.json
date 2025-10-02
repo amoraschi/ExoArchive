@@ -1,1 +1,79 @@
-{"id":243740,"date":"2016-03-16T19:26:21","date_gmt":"2016-03-16T23:26:21","modified":"2025-03-28T07:31:21","modified_gmt":"2025-03-28T11:31:21","slug":"hat-p-25-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hat-p-25-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HAT-P-25","pl_letter":"b","display_name":"HAT-P-25 b","planet_radius":"1.135 x Jupiter","derived_description":"HAT-P-25 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.569 Jupiters, it takes 3.7 days to complete one orbit of its star, and is 0.0466 AU from its star. Its discovery was announced in 2010.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATNet","st_dist":300.384,"planet_mass":"0.569 Jupiters","st_optmag":13.146,"discovery_date":"2010","pl_orbsmax":0.0466,"period_display":"3.7 days","eccentricity":"0.02","star_id":261181,"pl_orbper":3.65281514,"pl_kepflag":false,"pl_radj":1.135,"pl_disc":2010,"pl_publ_date":"2010","planet_orbit_period":287,"multiple_planet_system":false,"pl_rade":12.722215,"exo_id":"HAT-P-25_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.023},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243740","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261181"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243740,
+  "date": "2016-03-16T19:26:21",
+  "date_gmt": "2016-03-16T23:26:21",
+  "modified": "2025-03-28T07:31:21",
+  "modified_gmt": "2025-03-28T11:31:21",
+  "slug": "hat-p-25-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hat-p-25-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HAT-P-25",
+    "pl_letter": "b",
+    "display_name": "HAT-P-25 b",
+    "planet_radius": "1.135 x Jupiter",
+    "derived_description": "HAT-P-25 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.569 Jupiters, it takes 3.7 days to complete one orbit of its star, and is 0.0466 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATNet",
+    "st_dist": 300.384,
+    "planet_mass": "0.569 Jupiters",
+    "st_optmag": 13.146,
+    "discovery_date": "2010",
+    "pl_orbsmax": 0.0466,
+    "period_display": "3.7 days",
+    "eccentricity": "0.02",
+    "star_id": 261181,
+    "pl_orbper": 3.65281514,
+    "pl_kepflag": false,
+    "pl_radj": 1.135,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": 287,
+    "multiple_planet_system": false,
+    "pl_rade": 12.722215,
+    "exo_id": "HAT-P-25_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.023
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243740",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261181"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

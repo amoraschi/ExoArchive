@@ -1,1 +1,71 @@
-{"id":261798,"date":"2023-11-28T20:42:51","date_gmt":"2023-11-29T01:42:51","modified":"2025-04-23T05:56:35","modified_gmt":"2025-04-23T09:56:35","slug":"kepler-907","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-907/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-907","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247878],"exo_id":"Kepler-907","st_optmag":11.16,"st_vj":11.16,"st_dist":352,"st_j":11.16,"st_mass":1.08,"dec":41.6326615,"st_teff":6106,"st_rad":1.38,"ra":285.4764959,"system_radius":18325739.075,"pl_hostname":"Kepler-907","stellar_type":"F","tic_id":"TIC 120576846","magnitude":11.16},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261798","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247878"}]}}
+{
+  "id": 261798,
+  "date": "2023-11-28T20:42:51",
+  "date_gmt": "2023-11-29T01:42:51",
+  "modified": "2025-04-23T05:56:35",
+  "modified_gmt": "2025-04-23T09:56:35",
+  "slug": "kepler-907",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-907/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-907",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247878
+    ],
+    "exo_id": "Kepler-907",
+    "st_optmag": 11.16,
+    "st_vj": 11.16,
+    "st_dist": 352,
+    "st_j": 11.16,
+    "st_mass": 1.08,
+    "dec": 41.6326615,
+    "st_teff": 6106,
+    "st_rad": 1.38,
+    "ra": 285.4764959,
+    "system_radius": 18325739.075,
+    "pl_hostname": "Kepler-907",
+    "stellar_type": "F",
+    "tic_id": "TIC 120576846",
+    "magnitude": 11.16
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261798",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247878"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":261896,"date":"2023-11-28T20:44:06","date_gmt":"2023-11-29T01:44:06","modified":"2025-04-23T05:55:33","modified_gmt":"2025-04-23T09:55:33","slug":"hat-p-29","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-29/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-29","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243744],"exo_id":"HAT-P-29","st_optmag":11.825,"st_vj":11.825,"st_dist":313.576,"st_j":11.825,"st_mass":1.45,"dec":51.7787754,"st_teff":6087,"st_rad":1.3,"ra":33.1310921,"system_radius":9978177.929,"pl_hostname":"HAT-P-29","stellar_type":"F","tic_id":"TIC 250707118","magnitude":11.825},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261896","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243744"}]}}
+{
+  "id": 261896,
+  "date": "2023-11-28T20:44:06",
+  "date_gmt": "2023-11-29T01:44:06",
+  "modified": "2025-04-23T05:55:33",
+  "modified_gmt": "2025-04-23T09:55:33",
+  "slug": "hat-p-29",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-29/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-29",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243744
+    ],
+    "exo_id": "HAT-P-29",
+    "st_optmag": 11.825,
+    "st_vj": 11.825,
+    "st_dist": 313.576,
+    "st_j": 11.825,
+    "st_mass": 1.45,
+    "dec": 51.7787754,
+    "st_teff": 6087,
+    "st_rad": 1.3,
+    "ra": 33.1310921,
+    "system_radius": 9978177.929,
+    "pl_hostname": "HAT-P-29",
+    "stellar_type": "F",
+    "tic_id": "TIC 250707118",
+    "magnitude": 11.825
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261896",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243744"
+      }
+    ]
+  }
+}

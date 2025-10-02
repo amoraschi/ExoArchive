@@ -1,1 +1,79 @@
-{"id":244786,"date":"2018-02-06T12:26:12","date_gmt":"2018-02-06T17:26:12","modified":"2025-07-07T20:33:03","modified_gmt":"2025-07-08T00:33:03","slug":"k2-154-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-154-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-154","pl_letter":"c","display_name":"K2-154 c","planet_radius":"2.07 x Earth","derived_description":"K2-154 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.94 Earths, it takes 8 days to complete one orbit of its star, and is 0.0677 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":129.356,"planet_mass":"4.94 Earths","st_optmag":13.861,"discovery_date":"2018","pl_orbsmax":0.0677,"period_display":"8 days","eccentricity":"","star_id":260709,"pl_orbper":7.95486,"pl_kepflag":true,"pl_radj":0.18467303,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.07,"exo_id":"K2-154_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244786","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260709"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244786,
+  "date": "2018-02-06T12:26:12",
+  "date_gmt": "2018-02-06T17:26:12",
+  "modified": "2025-07-07T20:33:03",
+  "modified_gmt": "2025-07-08T00:33:03",
+  "slug": "k2-154-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-154-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-154",
+    "pl_letter": "c",
+    "display_name": "K2-154 c",
+    "planet_radius": "2.07 x Earth",
+    "derived_description": "K2-154 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.94 Earths, it takes 8 days to complete one orbit of its star, and is 0.0677 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 129.356,
+    "planet_mass": "4.94 Earths",
+    "st_optmag": 13.861,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.0677,
+    "period_display": "8 days",
+    "eccentricity": "",
+    "star_id": 260709,
+    "pl_orbper": 7.95486,
+    "pl_kepflag": true,
+    "pl_radj": 0.18467303,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.07,
+    "exo_id": "K2-154_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244786",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260709"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

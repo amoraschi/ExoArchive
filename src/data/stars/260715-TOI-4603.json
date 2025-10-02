@@ -1,1 +1,71 @@
-{"id":260715,"date":"2023-11-28T20:29:11","date_gmt":"2023-11-29T01:29:11","modified":"2025-04-23T05:55:52","modified_gmt":"2025-04-23T09:55:52","slug":"toi-4603","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4603/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4603","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248635],"exo_id":"TOI-4603","st_optmag":9.24,"st_vj":9.24,"st_dist":225.643,"st_j":9.24,"st_mass":1.765,"dec":21.2942417,"st_teff":6264,"st_rad":2.738,"ra":83.8659288,"system_radius":13284290.856,"pl_hostname":"TOI-4603","stellar_type":"F","tic_id":"TIC 437856897","magnitude":9.24},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260715","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248635"}]}}
+{
+  "id": 260715,
+  "date": "2023-11-28T20:29:11",
+  "date_gmt": "2023-11-29T01:29:11",
+  "modified": "2025-04-23T05:55:52",
+  "modified_gmt": "2025-04-23T09:55:52",
+  "slug": "toi-4603",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4603/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4603",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248635
+    ],
+    "exo_id": "TOI-4603",
+    "st_optmag": 9.24,
+    "st_vj": 9.24,
+    "st_dist": 225.643,
+    "st_j": 9.24,
+    "st_mass": 1.765,
+    "dec": 21.2942417,
+    "st_teff": 6264,
+    "st_rad": 2.738,
+    "ra": 83.8659288,
+    "system_radius": 13284290.856,
+    "pl_hostname": "TOI-4603",
+    "stellar_type": "F",
+    "tic_id": "TIC 437856897",
+    "magnitude": 9.24
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260715",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248635"
+      }
+    ]
+  }
+}

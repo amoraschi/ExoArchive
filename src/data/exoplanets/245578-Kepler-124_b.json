@@ -1,1 +1,79 @@
-{"id":245578,"date":"2017-10-02T13:33:00","date_gmt":"2017-10-02T17:33:00","modified":"2025-07-07T17:55:33","modified_gmt":"2025-07-07T21:55:33","slug":"kepler-124-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-124-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-124","pl_letter":"b","display_name":"Kepler-124 b","planet_radius":"0.73 x Earth","derived_description":"Kepler-124 b is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.315 Earths, it takes 3.4 days to complete one orbit of its star, and is 0.039 AU from its star. Its discovery was announced in 2014.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":420.046,"planet_mass":"0.315 Earths","st_optmag":14.4,"discovery_date":"2014","pl_orbsmax":0.039,"period_display":"3.4 days","eccentricity":"0.0","star_id":262563,"pl_orbper":3.410493,"pl_kepflag":true,"pl_radj":0.065,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.73,"exo_id":"Kepler-124_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245578","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262563"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 245578,
+  "date": "2017-10-02T13:33:00",
+  "date_gmt": "2017-10-02T17:33:00",
+  "modified": "2025-07-07T17:55:33",
+  "modified_gmt": "2025-07-07T21:55:33",
+  "slug": "kepler-124-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-124-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-124",
+    "pl_letter": "b",
+    "display_name": "Kepler-124 b",
+    "planet_radius": "0.73 x Earth",
+    "derived_description": "Kepler-124 b is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.315 Earths, it takes 3.4 days to complete one orbit of its star, and is 0.039 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 420.046,
+    "planet_mass": "0.315 Earths",
+    "st_optmag": 14.4,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.039,
+    "period_display": "3.4 days",
+    "eccentricity": "0.0",
+    "star_id": 262563,
+    "pl_orbper": 3.410493,
+    "pl_kepflag": true,
+    "pl_radj": 0.065,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.73,
+    "exo_id": "Kepler-124_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245578",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262563"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

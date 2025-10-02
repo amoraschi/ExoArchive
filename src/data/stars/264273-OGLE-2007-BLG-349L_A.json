@@ -1,1 +1,71 @@
-{"id":264273,"date":"2023-11-28T21:14:27","date_gmt":"2023-11-29T02:14:27","modified":"2025-04-23T05:57:17","modified_gmt":"2025-04-23T09:57:17","slug":"ogle-2007-blg-349l_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2007-blg-349l_a/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2007-BLG-349L A","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248238],"exo_id":"OGLE-2007-BLG-349L_A","st_optmag":24.73,"st_vj":24.73,"st_dist":2760,"st_j":24.73,"st_mass":0.41,"dec":-26.4219437,"st_teff":"","st_rad":"","ra":271.351807,"system_radius":387458483.3,"pl_hostname":"OGLE-2007-BLG-349L_A","stellar_type":"Unknown","tic_id":"","magnitude":24.73},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264273","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248238"}]}}
+{
+  "id": 264273,
+  "date": "2023-11-28T21:14:27",
+  "date_gmt": "2023-11-29T02:14:27",
+  "modified": "2025-04-23T05:57:17",
+  "modified_gmt": "2025-04-23T09:57:17",
+  "slug": "ogle-2007-blg-349l_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2007-blg-349l_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2007-BLG-349L A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248238
+    ],
+    "exo_id": "OGLE-2007-BLG-349L_A",
+    "st_optmag": 24.73,
+    "st_vj": 24.73,
+    "st_dist": 2760,
+    "st_j": 24.73,
+    "st_mass": 0.41,
+    "dec": -26.4219437,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.351807,
+    "system_radius": 387458483.3,
+    "pl_hostname": "OGLE-2007-BLG-349L_A",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 24.73
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264273",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248238"
+      }
+    ]
+  }
+}

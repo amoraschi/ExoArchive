@@ -1,1 +1,79 @@
-{"id":439670,"date":"2024-12-13T02:36:47","date_gmt":"2024-12-13T07:36:47","modified":"2025-06-25T12:04:15","modified_gmt":"2025-06-25T16:04:15","slug":"toi-5726-01","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-5726-01/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-5726","pl_letter":"b","display_name":"TOI-5726.01","planet_radius":"0.22785301 x Jupiter","derived_description":"TOI-5726.01 is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.05 Earths, it takes 5.5 days to complete one orbit of its star, and is 0.062186 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":108.848,"planet_mass":"7.05 Earths","st_optmag":9.736,"discovery_date":"2024","pl_orbsmax":0.062186,"period_display":"5.5 days","eccentricity":"","star_id":439628,"pl_orbper":5.491125215,"pl_kepflag":false,"pl_radj":0.22785301,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.554,"exo_id":"TOI-5726.01","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439670","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/439628"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 439670,
+  "date": "2024-12-13T02:36:47",
+  "date_gmt": "2024-12-13T07:36:47",
+  "modified": "2025-06-25T12:04:15",
+  "modified_gmt": "2025-06-25T16:04:15",
+  "slug": "toi-5726-01",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-5726-01/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-5726",
+    "pl_letter": "b",
+    "display_name": "TOI-5726.01",
+    "planet_radius": "0.22785301 x Jupiter",
+    "derived_description": "TOI-5726.01 is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.05 Earths, it takes 5.5 days to complete one orbit of its star, and is 0.062186 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 108.848,
+    "planet_mass": "7.05 Earths",
+    "st_optmag": 9.736,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.062186,
+    "period_display": "5.5 days",
+    "eccentricity": "",
+    "star_id": 439628,
+    "pl_orbper": 5.491125215,
+    "pl_kepflag": false,
+    "pl_radj": 0.22785301,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.554,
+    "exo_id": "TOI-5726.01",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439670",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439628"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

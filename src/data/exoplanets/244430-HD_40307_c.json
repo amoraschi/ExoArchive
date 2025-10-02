@@ -1,1 +1,79 @@
-{"id":244430,"date":"2019-04-22T16:48:39","date_gmt":"2019-04-22T20:48:39","modified":"2025-07-07T15:25:56","modified_gmt":"2025-07-07T19:25:56","slug":"hd-40307-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-40307-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_40307","pl_letter":"c","display_name":"HD 40307 c","planet_radius":"0.219 x Jupiter (estimate)","derived_description":"HD 40307 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.6 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.0799 AU from its star. Its discovery was announced in 2009.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":12.9363,"planet_mass":"6.6 Earths","st_optmag":7.17,"discovery_date":"2009","pl_orbsmax":0.0799,"period_display":"9.6 days","eccentricity":"0.06","star_id":260542,"pl_orbper":9.6184,"pl_kepflag":false,"pl_radj":0.219,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":234.9,"multiple_planet_system":false,"pl_rade":2.46,"exo_id":"HD_40307_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.06},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244430","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260542"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244430,
+  "date": "2019-04-22T16:48:39",
+  "date_gmt": "2019-04-22T20:48:39",
+  "modified": "2025-07-07T15:25:56",
+  "modified_gmt": "2025-07-07T19:25:56",
+  "slug": "hd-40307-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-40307-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_40307",
+    "pl_letter": "c",
+    "display_name": "HD 40307 c",
+    "planet_radius": "0.219 x Jupiter (estimate)",
+    "derived_description": "HD 40307 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.6 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.0799 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 12.9363,
+    "planet_mass": "6.6 Earths",
+    "st_optmag": 7.17,
+    "discovery_date": "2009",
+    "pl_orbsmax": 0.0799,
+    "period_display": "9.6 days",
+    "eccentricity": "0.06",
+    "star_id": 260542,
+    "pl_orbper": 9.6184,
+    "pl_kepflag": false,
+    "pl_radj": 0.219,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 234.9,
+    "multiple_planet_system": false,
+    "pl_rade": 2.46,
+    "exo_id": "HD_40307_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.06
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244430",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260542"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263018,"date":"2023-11-28T20:58:23","date_gmt":"2023-11-29T01:58:23","modified":"2025-04-23T05:54:41","modified_gmt":"2025-04-23T09:54:41","slug":"kelt-23_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-23_a/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-23 A","custom_star_title":"","aliases":"","constellation":"Ursa Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245218],"exo_id":"KELT-23_A","st_optmag":10.308,"st_vj":10.308,"st_dist":126.261,"st_j":10.308,"st_mass":0.944,"dec":66.3587097,"st_teff":5899,"st_rad":0.996,"ra":232.1466406,"system_radius":4939721.6674,"pl_hostname":"KELT-23_A","stellar_type":"G","tic_id":"TIC 458478250","magnitude":10.308},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263018","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245218"}]}}
+{
+  "id": 263018,
+  "date": "2023-11-28T20:58:23",
+  "date_gmt": "2023-11-29T01:58:23",
+  "modified": "2025-04-23T05:54:41",
+  "modified_gmt": "2025-04-23T09:54:41",
+  "slug": "kelt-23_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-23_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-23 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245218
+    ],
+    "exo_id": "KELT-23_A",
+    "st_optmag": 10.308,
+    "st_vj": 10.308,
+    "st_dist": 126.261,
+    "st_j": 10.308,
+    "st_mass": 0.944,
+    "dec": 66.3587097,
+    "st_teff": 5899,
+    "st_rad": 0.996,
+    "ra": 232.1466406,
+    "system_radius": 4939721.6674,
+    "pl_hostname": "KELT-23_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 458478250",
+    "magnitude": 10.308
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263018",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245218"
+      }
+    ]
+  }
+}

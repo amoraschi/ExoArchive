@@ -1,1 +1,79 @@
-{"id":244532,"date":"2022-03-21T13:34:42","date_gmt":"2022-03-21T17:34:42","modified":"2025-07-07T20:36:43","modified_gmt":"2025-07-08T00:36:43","slug":"hd-73583-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-73583-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_73583","pl_letter":"b","display_name":"HD 73583 b","planet_radius":"0.24890756 x Jupiter","derived_description":"HD 73583 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.2 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.0604 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":31.5666,"planet_mass":"10.2 Earths","st_optmag":9.67,"discovery_date":"2022","pl_orbsmax":0.0604,"period_display":"6.4 days","eccentricity":"0.09","star_id":261689,"pl_orbper":6.398042,"pl_kepflag":false,"pl_radj":0.24890756,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":-76,"multiple_planet_system":false,"pl_rade":2.79,"exo_id":"HD_73583_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.09},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244532","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261689"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244532,
+  "date": "2022-03-21T13:34:42",
+  "date_gmt": "2022-03-21T17:34:42",
+  "modified": "2025-07-07T20:36:43",
+  "modified_gmt": "2025-07-08T00:36:43",
+  "slug": "hd-73583-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-73583-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_73583",
+    "pl_letter": "b",
+    "display_name": "HD 73583 b",
+    "planet_radius": "0.24890756 x Jupiter",
+    "derived_description": "HD 73583 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.2 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.0604 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 31.5666,
+    "planet_mass": "10.2 Earths",
+    "st_optmag": 9.67,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.0604,
+    "period_display": "6.4 days",
+    "eccentricity": "0.09",
+    "star_id": 261689,
+    "pl_orbper": 6.398042,
+    "pl_kepflag": false,
+    "pl_radj": 0.24890756,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": -76,
+    "multiple_planet_system": false,
+    "pl_rade": 2.79,
+    "exo_id": "HD_73583_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.09
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244532",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261689"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

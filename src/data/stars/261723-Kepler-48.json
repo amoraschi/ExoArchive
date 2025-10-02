@@ -1,1 +1,91 @@
-{"id":261723,"date":"2023-11-28T20:41:55","date_gmt":"2023-11-29T01:41:55","modified":"2025-04-23T05:53:35","modified_gmt":"2025-04-23T09:53:35","slug":"kepler-48","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-48/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-48","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":313830,"1":247296,"2":247297,"3":247298,"4":247299},"exo_id":"Kepler-48","st_optmag":13.174,"st_vj":13.174,"st_dist":306.738,"st_j":13.174,"st_mass":0.88,"dec":40.948939,"st_teff":5194,"st_rad":0.89,"ra":299.1393094,"system_radius":855578324.52902,"pl_hostname":"Kepler-48","stellar_type":"K","tic_id":"TIC 171882123","magnitude":13.174},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261723","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313830"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247299"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247298"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247297"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247296"}]}}
+{
+  "id": 261723,
+  "date": "2023-11-28T20:41:55",
+  "date_gmt": "2023-11-29T01:41:55",
+  "modified": "2025-04-23T05:53:35",
+  "modified_gmt": "2025-04-23T09:53:35",
+  "slug": "kepler-48",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-48/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-48",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 313830,
+      "1": 247296,
+      "2": 247297,
+      "3": 247298,
+      "4": 247299
+    },
+    "exo_id": "Kepler-48",
+    "st_optmag": 13.174,
+    "st_vj": 13.174,
+    "st_dist": 306.738,
+    "st_j": 13.174,
+    "st_mass": 0.88,
+    "dec": 40.948939,
+    "st_teff": 5194,
+    "st_rad": 0.89,
+    "ra": 299.1393094,
+    "system_radius": 855578324.52902,
+    "pl_hostname": "Kepler-48",
+    "stellar_type": "K",
+    "tic_id": "TIC 171882123",
+    "magnitude": 13.174
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261723",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313830"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247299"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247298"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247297"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247296"
+      }
+    ]
+  }
+}

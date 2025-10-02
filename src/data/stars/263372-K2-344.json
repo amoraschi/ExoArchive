@@ -1,1 +1,71 @@
-{"id":263372,"date":"2023-11-28T21:02:49","date_gmt":"2023-11-29T02:02:49","modified":"2025-04-23T05:53:24","modified_gmt":"2025-04-23T09:53:24","slug":"k2-344","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-344/","featured_media":0,"categories":[],"acf":{"display_name":"K2-344","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245030],"exo_id":"K2-344","st_optmag":13.423,"st_vj":13.423,"st_dist":75.1691,"st_j":13.423,"st_mass":0.51,"dec":21.6685886,"st_teff":4374,"st_rad":0.49,"ra":136.3614923,"system_radius":149597870,"pl_hostname":"K2-344","stellar_type":"K","tic_id":"TIC 203289099","magnitude":13.423},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263372","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245030"}]}}
+{
+  "id": 263372,
+  "date": "2023-11-28T21:02:49",
+  "date_gmt": "2023-11-29T02:02:49",
+  "modified": "2025-04-23T05:53:24",
+  "modified_gmt": "2025-04-23T09:53:24",
+  "slug": "k2-344",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-344/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-344",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245030
+    ],
+    "exo_id": "K2-344",
+    "st_optmag": 13.423,
+    "st_vj": 13.423,
+    "st_dist": 75.1691,
+    "st_j": 13.423,
+    "st_mass": 0.51,
+    "dec": 21.6685886,
+    "st_teff": 4374,
+    "st_rad": 0.49,
+    "ra": 136.3614923,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-344",
+    "stellar_type": "K",
+    "tic_id": "TIC 203289099",
+    "magnitude": 13.423
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263372",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245030"
+      }
+    ]
+  }
+}

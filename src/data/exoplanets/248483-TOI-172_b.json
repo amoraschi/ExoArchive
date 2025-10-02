@@ -1,1 +1,79 @@
-{"id":248483,"date":"2020-01-31T12:26:54","date_gmt":"2020-01-31T17:26:54","modified":"2025-07-07T20:33:27","modified_gmt":"2025-07-08T00:33:27","slug":"toi-172-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-172-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-172","pl_letter":"b","display_name":"TOI-172 b","planet_radius":"0.965 x Jupiter","derived_description":"TOI-172 b is a gas giant exoplanet that orbits a G-type star. Its mass is 5.42 Jupiters, it takes 9.5 days to complete one orbit of its star, and is 0.0914 AU from its star. Its discovery was announced in 2019.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":342.831,"planet_mass":"5.42 Jupiters","st_optmag":11.299,"discovery_date":"2019","pl_orbsmax":0.0914,"period_display":"9.5 days","eccentricity":"0.38","star_id":263221,"pl_orbper":9.47725,"pl_kepflag":false,"pl_radj":0.965,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":57.1,"multiple_planet_system":false,"pl_rade":10.816685,"exo_id":"TOI-172_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.3806},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248483","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263221"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248483,
+  "date": "2020-01-31T12:26:54",
+  "date_gmt": "2020-01-31T17:26:54",
+  "modified": "2025-07-07T20:33:27",
+  "modified_gmt": "2025-07-08T00:33:27",
+  "slug": "toi-172-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-172-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-172",
+    "pl_letter": "b",
+    "display_name": "TOI-172 b",
+    "planet_radius": "0.965 x Jupiter",
+    "derived_description": "TOI-172 b is a gas giant exoplanet that orbits a G-type star. Its mass is 5.42 Jupiters, it takes 9.5 days to complete one orbit of its star, and is 0.0914 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 342.831,
+    "planet_mass": "5.42 Jupiters",
+    "st_optmag": 11.299,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.0914,
+    "period_display": "9.5 days",
+    "eccentricity": "0.38",
+    "star_id": 263221,
+    "pl_orbper": 9.47725,
+    "pl_kepflag": false,
+    "pl_radj": 0.965,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 57.1,
+    "multiple_planet_system": false,
+    "pl_rade": 10.816685,
+    "exo_id": "TOI-172_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.3806
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248483",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263221"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

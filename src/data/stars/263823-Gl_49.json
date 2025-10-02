@@ -1,1 +1,71 @@
-{"id":263823,"date":"2023-11-28T21:08:40","date_gmt":"2023-11-29T02:08:40","modified":"2025-04-23T05:57:06","modified_gmt":"2025-04-23T09:57:06","slug":"gl_49","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gl_49/","featured_media":0,"categories":[],"acf":{"display_name":"Gl 49","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243716],"exo_id":"Gl_49","st_optmag":9.56,"st_vj":9.56,"st_dist":9.8528,"st_j":9.56,"st_mass":0.515,"dec":62.3454386,"st_teff":3805,"st_rad":0.511,"ra":15.6687321,"system_radius":13538607.235,"pl_hostname":"Gl_49","stellar_type":"M","tic_id":"TIC 256419669","magnitude":9.56},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263823","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243716"}]}}
+{
+  "id": 263823,
+  "date": "2023-11-28T21:08:40",
+  "date_gmt": "2023-11-29T02:08:40",
+  "modified": "2025-04-23T05:57:06",
+  "modified_gmt": "2025-04-23T09:57:06",
+  "slug": "gl_49",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gl_49/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Gl 49",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243716
+    ],
+    "exo_id": "Gl_49",
+    "st_optmag": 9.56,
+    "st_vj": 9.56,
+    "st_dist": 9.8528,
+    "st_j": 9.56,
+    "st_mass": 0.515,
+    "dec": 62.3454386,
+    "st_teff": 3805,
+    "st_rad": 0.511,
+    "ra": 15.6687321,
+    "system_radius": 13538607.235,
+    "pl_hostname": "Gl_49",
+    "stellar_type": "M",
+    "tic_id": "TIC 256419669",
+    "magnitude": 9.56
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263823",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243716"
+      }
+    ]
+  }
+}

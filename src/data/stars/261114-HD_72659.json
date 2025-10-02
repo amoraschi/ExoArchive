@@ -1,1 +1,76 @@
-{"id":261114,"date":"2023-11-28T20:34:13","date_gmt":"2023-11-29T01:34:13","modified":"2025-04-23T05:54:09","modified_gmt":"2025-04-23T09:54:09","slug":"hd_72659","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_72659/","featured_media":0,"categories":[],"acf":{"display_name":"HD 72659","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244524,"1":244523},"exo_id":"HD_72659","st_optmag":7.46,"st_vj":7.46,"st_dist":51.8949,"st_j":7.46,"st_mass":1.09,"dec":-1.5686323,"st_teff":5932,"st_rad":1.46,"ra":128.5128072,"system_radius":2088236667.33,"pl_hostname":"HD_72659","stellar_type":"G","tic_id":"TIC 121284864","magnitude":7.46},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261114","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244524"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244523"}]}}
+{
+  "id": 261114,
+  "date": "2023-11-28T20:34:13",
+  "date_gmt": "2023-11-29T01:34:13",
+  "modified": "2025-04-23T05:54:09",
+  "modified_gmt": "2025-04-23T09:54:09",
+  "slug": "hd_72659",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_72659/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 72659",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244524,
+      "1": 244523
+    },
+    "exo_id": "HD_72659",
+    "st_optmag": 7.46,
+    "st_vj": 7.46,
+    "st_dist": 51.8949,
+    "st_j": 7.46,
+    "st_mass": 1.09,
+    "dec": -1.5686323,
+    "st_teff": 5932,
+    "st_rad": 1.46,
+    "ra": 128.5128072,
+    "system_radius": 2088236667.33,
+    "pl_hostname": "HD_72659",
+    "stellar_type": "G",
+    "tic_id": "TIC 121284864",
+    "magnitude": 7.46
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261114",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244524"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244523"
+      }
+    ]
+  }
+}

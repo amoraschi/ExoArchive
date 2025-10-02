@@ -1,1 +1,69 @@
-{"id":391194,"date":"2024-04-30T20:01:17","date_gmt":"2024-05-01T00:01:17","modified":"2025-04-23T05:57:28","modified_gmt":"2025-04-23T09:57:28","slug":"psi-serpentis-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/psi-serpentis-a/","featured_media":429648,"categories":[],"acf":{"display_name":"Psi Serpentis A","custom_star_title":"","aliases":"HD 140538 A,HR 5853 A,GJ 9527A","constellation":"Serpens","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Psi_Serpentis_A","st_optmag":5.869,"st_vj":5.869,"st_dist":14.7927,"st_j":5.869,"st_mass":0.94,"dec":2.5151668,"st_teff":5682,"st_rad":0.942,"ra":236.0075774,"system_radius":149597870,"pl_hostname":"Psi_Serpentis_A","stellar_type":"G","tic_id":"TIC 459427073","magnitude":5.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391194","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391194,
+  "date": "2024-04-30T20:01:17",
+  "date_gmt": "2024-05-01T00:01:17",
+  "modified": "2025-04-23T05:57:28",
+  "modified_gmt": "2025-04-23T09:57:28",
+  "slug": "psi-serpentis-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/psi-serpentis-a/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Psi Serpentis A",
+    "custom_star_title": "",
+    "aliases": "HD 140538 A,HR 5853 A,GJ 9527A",
+    "constellation": "Serpens",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Psi_Serpentis_A",
+    "st_optmag": 5.869,
+    "st_vj": 5.869,
+    "st_dist": 14.7927,
+    "st_j": 5.869,
+    "st_mass": 0.94,
+    "dec": 2.5151668,
+    "st_teff": 5682,
+    "st_rad": 0.942,
+    "ra": 236.0075774,
+    "system_radius": 149597870,
+    "pl_hostname": "Psi_Serpentis_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 459427073",
+    "magnitude": 5.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391194",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

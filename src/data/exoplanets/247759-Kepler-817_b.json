@@ -1,1 +1,79 @@
-{"id":247759,"date":"2017-10-02T13:32:52","date_gmt":"2017-10-02T17:32:52","modified":"2025-07-07T15:24:24","modified_gmt":"2025-07-07T19:24:24","slug":"kepler-817-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-817-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-817","pl_letter":"b","display_name":"Kepler-817 b","planet_radius":"0.80560264 x Jupiter","derived_description":"Kepler-817 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.189 Jupiters, it takes 4 days to complete one orbit of its star, and is 0.0493 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1484.46,"planet_mass":"0.189 Jupiters","st_optmag":15.967,"discovery_date":"2016","pl_orbsmax":0.0493,"period_display":"4 days","eccentricity":"0.0","star_id":264152,"pl_orbper":3.990106229,"pl_kepflag":true,"pl_radj":0.80560264,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":9.03,"exo_id":"Kepler-817_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247759","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264152"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 247759,
+  "date": "2017-10-02T13:32:52",
+  "date_gmt": "2017-10-02T17:32:52",
+  "modified": "2025-07-07T15:24:24",
+  "modified_gmt": "2025-07-07T19:24:24",
+  "slug": "kepler-817-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-817-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-817",
+    "pl_letter": "b",
+    "display_name": "Kepler-817 b",
+    "planet_radius": "0.80560264 x Jupiter",
+    "derived_description": "Kepler-817 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.189 Jupiters, it takes 4 days to complete one orbit of its star, and is 0.0493 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1484.46,
+    "planet_mass": "0.189 Jupiters",
+    "st_optmag": 15.967,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0493,
+    "period_display": "4 days",
+    "eccentricity": "0.0",
+    "star_id": 264152,
+    "pl_orbper": 3.990106229,
+    "pl_kepflag": true,
+    "pl_radj": 0.80560264,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 9.03,
+    "exo_id": "Kepler-817_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247759",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264152"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

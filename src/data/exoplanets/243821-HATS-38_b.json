@@ -1,1 +1,79 @@
-{"id":243821,"date":"2020-08-14T13:27:11","date_gmt":"2020-08-14T17:27:11","modified":"2025-07-07T20:34:10","modified_gmt":"2025-07-08T00:34:10","slug":"hats-38-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-38-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-38","pl_letter":"b","display_name":"HATS-38 b","planet_radius":"0.614 x Jupiter","derived_description":"HATS-38 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 23.51942 Earths, it takes 4.4 days to complete one orbit of its star, and is 0.05036 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":343.525,"planet_mass":"23.51942 Earths","st_optmag":11.967,"discovery_date":"2020","pl_orbsmax":0.05036,"period_display":"4.4 days","eccentricity":"0.0","star_id":263296,"pl_orbper":4.375021,"pl_kepflag":false,"pl_radj":0.614,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":6.882326,"exo_id":"HATS-38_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243821","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263296"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243821,
+  "date": "2020-08-14T13:27:11",
+  "date_gmt": "2020-08-14T17:27:11",
+  "modified": "2025-07-07T20:34:10",
+  "modified_gmt": "2025-07-08T00:34:10",
+  "slug": "hats-38-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-38-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-38",
+    "pl_letter": "b",
+    "display_name": "HATS-38 b",
+    "planet_radius": "0.614 x Jupiter",
+    "derived_description": "HATS-38 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 23.51942 Earths, it takes 4.4 days to complete one orbit of its star, and is 0.05036 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 343.525,
+    "planet_mass": "23.51942 Earths",
+    "st_optmag": 11.967,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.05036,
+    "period_display": "4.4 days",
+    "eccentricity": "0.0",
+    "star_id": 263296,
+    "pl_orbper": 4.375021,
+    "pl_kepflag": false,
+    "pl_radj": 0.614,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 6.882326,
+    "exo_id": "HATS-38_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243821",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263296"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

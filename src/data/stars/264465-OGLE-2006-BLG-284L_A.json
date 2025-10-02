@@ -1,1 +1,71 @@
-{"id":264465,"date":"2023-11-28T21:16:53","date_gmt":"2023-11-29T02:16:53","modified":"2025-04-23T05:57:21","modified_gmt":"2025-04-23T09:57:21","slug":"ogle-2006-blg-284l_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2006-blg-284l_a/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2006-BLG-284L A","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248237],"exo_id":"OGLE-2006-BLG-284L_A","st_optmag":"","st_vj":"","st_dist":4000,"st_j":"","st_mass":0.35,"dec":-29.1366667,"st_teff":"","st_rad":"","ra":269.65925,"system_radius":324627377.9,"pl_hostname":"OGLE-2006-BLG-284L_A","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264465","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248237"}]}}
+{
+  "id": 264465,
+  "date": "2023-11-28T21:16:53",
+  "date_gmt": "2023-11-29T02:16:53",
+  "modified": "2025-04-23T05:57:21",
+  "modified_gmt": "2025-04-23T09:57:21",
+  "slug": "ogle-2006-blg-284l_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2006-blg-284l_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2006-BLG-284L A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248237
+    ],
+    "exo_id": "OGLE-2006-BLG-284L_A",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 4000,
+    "st_j": "",
+    "st_mass": 0.35,
+    "dec": -29.1366667,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.65925,
+    "system_radius": 324627377.9,
+    "pl_hostname": "OGLE-2006-BLG-284L_A",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264465",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248237"
+      }
+    ]
+  }
+}

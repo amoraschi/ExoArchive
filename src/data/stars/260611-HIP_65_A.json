@@ -1,1 +1,71 @@
-{"id":260611,"date":"2023-11-28T20:27:56","date_gmt":"2023-11-29T01:27:56","modified":"2025-04-23T05:56:21","modified_gmt":"2025-04-23T09:56:21","slug":"hip_65_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_65_a/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 65 A","custom_star_title":"","aliases":"","constellation":"Phoenix","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244675],"exo_id":"HIP_65_A","st_optmag":11,"st_vj":11,"st_dist":61.7856,"st_j":11,"st_mass":0.781,"dec":-54.8308228,"st_teff":4590,"st_rad":0.7242,"ra":0.1856063,"system_radius":2665834.0434,"pl_hostname":"HIP_65_A","stellar_type":"K","tic_id":"TIC 201248411","magnitude":11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260611","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244675"}]}}
+{
+  "id": 260611,
+  "date": "2023-11-28T20:27:56",
+  "date_gmt": "2023-11-29T01:27:56",
+  "modified": "2025-04-23T05:56:21",
+  "modified_gmt": "2025-04-23T09:56:21",
+  "slug": "hip_65_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_65_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 65 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244675
+    ],
+    "exo_id": "HIP_65_A",
+    "st_optmag": 11,
+    "st_vj": 11,
+    "st_dist": 61.7856,
+    "st_j": 11,
+    "st_mass": 0.781,
+    "dec": -54.8308228,
+    "st_teff": 4590,
+    "st_rad": 0.7242,
+    "ra": 0.1856063,
+    "system_radius": 2665834.0434,
+    "pl_hostname": "HIP_65_A",
+    "stellar_type": "K",
+    "tic_id": "TIC 201248411",
+    "magnitude": 11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260611",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244675"
+      }
+    ]
+  }
+}

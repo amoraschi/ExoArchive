@@ -1,1 +1,79 @@
-{"id":245267,"date":"2017-10-02T13:32:58","date_gmt":"2017-10-02T17:32:58","modified":"2025-07-07T20:37:34","modified_gmt":"2025-07-08T00:37:34","slug":"kepler-102-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-102-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-102","pl_letter":"d","display_name":"Kepler-102 d","planet_radius":"1.154 x Earth","derived_description":"Kepler-102 d is a super Earth exoplanet that orbits a K-type star. Its mass is 3 Earths, it takes 10.3 days to complete one orbit of its star, and is 0.08618 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":107.796,"planet_mass":"3 Earths","st_optmag":12.072,"discovery_date":"2014","pl_orbsmax":0.08618,"period_display":"10.3 days","eccentricity":"< 0.092","star_id":260466,"pl_orbper":10.311767,"pl_kepflag":true,"pl_radj":0.10295316,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.154,"exo_id":"Kepler-102_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0.092,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245267","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260466"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245267,
+  "date": "2017-10-02T13:32:58",
+  "date_gmt": "2017-10-02T17:32:58",
+  "modified": "2025-07-07T20:37:34",
+  "modified_gmt": "2025-07-08T00:37:34",
+  "slug": "kepler-102-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-102-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-102",
+    "pl_letter": "d",
+    "display_name": "Kepler-102 d",
+    "planet_radius": "1.154 x Earth",
+    "derived_description": "Kepler-102 d is a super Earth exoplanet that orbits a K-type star. Its mass is 3 Earths, it takes 10.3 days to complete one orbit of its star, and is 0.08618 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 107.796,
+    "planet_mass": "3 Earths",
+    "st_optmag": 12.072,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.08618,
+    "period_display": "10.3 days",
+    "eccentricity": "< 0.092",
+    "star_id": 260466,
+    "pl_orbper": 10.311767,
+    "pl_kepflag": true,
+    "pl_radj": 0.10295316,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.154,
+    "exo_id": "Kepler-102_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0.092,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245267",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260466"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

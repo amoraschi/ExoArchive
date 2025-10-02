@@ -1,1 +1,79 @@
-{"id":248785,"date":"2020-07-10T13:27:32","date_gmt":"2020-07-10T17:27:32","modified":"2025-07-07T20:36:55","modified_gmt":"2025-07-08T00:36:55","slug":"wasp-148-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-148-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-148","pl_letter":"b","display_name":"WASP-148 b","planet_radius":"0.756 x Jupiter","derived_description":"WASP-148 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.287 Jupiters, it takes 8.8 days to complete one orbit of its star, and is 0.08215 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP-North","st_dist":246.353,"planet_mass":"0.287 Jupiters","st_optmag":12.036,"discovery_date":"2020","pl_orbsmax":0.08215,"period_display":"8.8 days","eccentricity":"0.21","star_id":261888,"pl_orbper":8.803809,"pl_kepflag":false,"pl_radj":0.756,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":60.6,"multiple_planet_system":false,"pl_rade":8.47398941,"exo_id":"WASP-148_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.208},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248785","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261888"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248785,
+  "date": "2020-07-10T13:27:32",
+  "date_gmt": "2020-07-10T17:27:32",
+  "modified": "2025-07-07T20:36:55",
+  "modified_gmt": "2025-07-08T00:36:55",
+  "slug": "wasp-148-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-148-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-148",
+    "pl_letter": "b",
+    "display_name": "WASP-148 b",
+    "planet_radius": "0.756 x Jupiter",
+    "derived_description": "WASP-148 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.287 Jupiters, it takes 8.8 days to complete one orbit of its star, and is 0.08215 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP-North",
+    "st_dist": 246.353,
+    "planet_mass": "0.287 Jupiters",
+    "st_optmag": 12.036,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.08215,
+    "period_display": "8.8 days",
+    "eccentricity": "0.21",
+    "star_id": 261888,
+    "pl_orbper": 8.803809,
+    "pl_kepflag": false,
+    "pl_radj": 0.756,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 60.6,
+    "multiple_planet_system": false,
+    "pl_rade": 8.47398941,
+    "exo_id": "WASP-148_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.208
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248785",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261888"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

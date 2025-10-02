@@ -1,1 +1,81 @@
-{"id":260539,"date":"2023-11-28T20:27:04","date_gmt":"2023-11-29T01:27:04","modified":"2025-04-23T05:53:59","modified_gmt":"2025-04-23T09:53:59","slug":"k2-16","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-16/","featured_media":0,"categories":[],"acf":{"display_name":"K2-16","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243531,244808,244809],"exo_id":"K2-16","st_optmag":14.668,"st_vj":14.668,"st_dist":334.967,"st_j":14.668,"st_mass":0.68,"dec":4.5574311,"st_teff":4742,"st_rad":0.66,"ra":175.0972238,"system_radius":18385578.223,"pl_hostname":"K2-16","stellar_type":"K","tic_id":"TIC 281886199","magnitude":14.668},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260539","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244809"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244808"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243531"}]}}
+{
+  "id": 260539,
+  "date": "2023-11-28T20:27:04",
+  "date_gmt": "2023-11-29T01:27:04",
+  "modified": "2025-04-23T05:53:59",
+  "modified_gmt": "2025-04-23T09:53:59",
+  "slug": "k2-16",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-16/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-16",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243531,
+      244808,
+      244809
+    ],
+    "exo_id": "K2-16",
+    "st_optmag": 14.668,
+    "st_vj": 14.668,
+    "st_dist": 334.967,
+    "st_j": 14.668,
+    "st_mass": 0.68,
+    "dec": 4.5574311,
+    "st_teff": 4742,
+    "st_rad": 0.66,
+    "ra": 175.0972238,
+    "system_radius": 18385578.223,
+    "pl_hostname": "K2-16",
+    "stellar_type": "K",
+    "tic_id": "TIC 281886199",
+    "magnitude": 14.668
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260539",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244809"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244808"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243531"
+      }
+    ]
+  }
+}

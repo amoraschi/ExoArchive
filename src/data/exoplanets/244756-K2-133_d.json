@@ -1,1 +1,79 @@
-{"id":244756,"date":"2017-10-28T13:26:19","date_gmt":"2017-10-28T17:26:19","modified":"2025-07-07T20:33:44","modified_gmt":"2025-07-08T00:33:44","slug":"k2-133-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-133-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-133","pl_letter":"d","display_name":"K2-133 d","planet_radius":"2.003 x Earth","derived_description":"K2-133 d is a super Earth exoplanet that orbits a M-type star. Its mass is 4.67 Earths, it takes 11 days to complete one orbit of its star, and is 0.07487 AU from its star. Its discovery was announced in 2017.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":75.1703,"planet_mass":"4.67 Earths","st_optmag":14.073,"discovery_date":"2017","pl_orbsmax":0.07487,"period_display":"11 days","eccentricity":"","star_id":261215,"pl_orbper":11.02454,"pl_kepflag":true,"pl_radj":0.17869569,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.003,"exo_id":"K2-133_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244756","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261215"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244756,
+  "date": "2017-10-28T13:26:19",
+  "date_gmt": "2017-10-28T17:26:19",
+  "modified": "2025-07-07T20:33:44",
+  "modified_gmt": "2025-07-08T00:33:44",
+  "slug": "k2-133-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-133-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-133",
+    "pl_letter": "d",
+    "display_name": "K2-133 d",
+    "planet_radius": "2.003 x Earth",
+    "derived_description": "K2-133 d is a super Earth exoplanet that orbits a M-type star. Its mass is 4.67 Earths, it takes 11 days to complete one orbit of its star, and is 0.07487 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 75.1703,
+    "planet_mass": "4.67 Earths",
+    "st_optmag": 14.073,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.07487,
+    "period_display": "11 days",
+    "eccentricity": "",
+    "star_id": 261215,
+    "pl_orbper": 11.02454,
+    "pl_kepflag": true,
+    "pl_radj": 0.17869569,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.003,
+    "exo_id": "K2-133_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244756",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261215"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260662,"date":"2023-11-28T20:28:31","date_gmt":"2023-11-29T01:28:31","modified":"2025-04-23T05:55:58","modified_gmt":"2025-04-23T09:55:58","slug":"wasp-95","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-95/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-95","custom_star_title":"","aliases":"","constellation":"Grus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248918],"exo_id":"WASP-95","st_optmag":10.092,"st_vj":10.092,"st_dist":137.544,"st_j":10.092,"st_mass":1.46,"dec":-48.0030988,"st_teff":5830,"st_rad":1.23,"ra":337.4578243,"system_radius":5110263.2392,"pl_hostname":"WASP-95","stellar_type":"G","tic_id":"TIC 144065872","magnitude":10.092},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260662","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248918"}]}}
+{
+  "id": 260662,
+  "date": "2023-11-28T20:28:31",
+  "date_gmt": "2023-11-29T01:28:31",
+  "modified": "2025-04-23T05:55:58",
+  "modified_gmt": "2025-04-23T09:55:58",
+  "slug": "wasp-95",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-95/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-95",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Grus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248918
+    ],
+    "exo_id": "WASP-95",
+    "st_optmag": 10.092,
+    "st_vj": 10.092,
+    "st_dist": 137.544,
+    "st_j": 10.092,
+    "st_mass": 1.46,
+    "dec": -48.0030988,
+    "st_teff": 5830,
+    "st_rad": 1.23,
+    "ra": 337.4578243,
+    "system_radius": 5110263.2392,
+    "pl_hostname": "WASP-95",
+    "stellar_type": "G",
+    "tic_id": "TIC 144065872",
+    "magnitude": 10.092
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260662",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248918"
+      }
+    ]
+  }
+}

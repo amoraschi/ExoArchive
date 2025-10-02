@@ -1,1 +1,71 @@
-{"id":264446,"date":"2023-11-28T21:16:38","date_gmt":"2023-11-29T02:16:38","modified":"2025-04-23T05:53:43","modified_gmt":"2025-04-23T09:53:43","slug":"k2-385","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-385/","featured_media":0,"categories":[],"acf":{"display_name":"K2-385","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245086],"exo_id":"K2-385","st_optmag":14.645,"st_vj":14.645,"st_dist":420.819,"st_j":14.645,"st_mass":0.927,"dec":5.8712567,"st_teff":4844,"st_rad":0.761,"ra":12.6140752,"system_radius":149597870,"pl_hostname":"K2-385","stellar_type":"K","tic_id":"TIC 257429687","magnitude":14.645},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264446","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245086"}]}}
+{
+  "id": 264446,
+  "date": "2023-11-28T21:16:38",
+  "date_gmt": "2023-11-29T02:16:38",
+  "modified": "2025-04-23T05:53:43",
+  "modified_gmt": "2025-04-23T09:53:43",
+  "slug": "k2-385",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-385/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-385",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245086
+    ],
+    "exo_id": "K2-385",
+    "st_optmag": 14.645,
+    "st_vj": 14.645,
+    "st_dist": 420.819,
+    "st_j": 14.645,
+    "st_mass": 0.927,
+    "dec": 5.8712567,
+    "st_teff": 4844,
+    "st_rad": 0.761,
+    "ra": 12.6140752,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-385",
+    "stellar_type": "K",
+    "tic_id": "TIC 257429687",
+    "magnitude": 14.645
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264446",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245086"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263660,"date":"2023-11-28T21:06:30","date_gmt":"2023-11-29T02:06:30","modified":"2025-04-23T05:56:36","modified_gmt":"2025-04-23T09:56:36","slug":"kepler-1177","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1177/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1177","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245476],"exo_id":"Kepler-1177","st_optmag":14.773,"st_vj":14.773,"st_dist":1299.97,"st_j":14.773,"st_mass":0.98,"dec":49.4062964,"st_teff":5712,"st_rad":0.97,"ra":286.6714813,"system_radius":64342043.887,"pl_hostname":"Kepler-1177","stellar_type":"G","tic_id":"TIC 399826020","magnitude":14.773},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263660","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245476"}]}}
+{
+  "id": 263660,
+  "date": "2023-11-28T21:06:30",
+  "date_gmt": "2023-11-29T02:06:30",
+  "modified": "2025-04-23T05:56:36",
+  "modified_gmt": "2025-04-23T09:56:36",
+  "slug": "kepler-1177",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1177/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1177",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245476
+    ],
+    "exo_id": "Kepler-1177",
+    "st_optmag": 14.773,
+    "st_vj": 14.773,
+    "st_dist": 1299.97,
+    "st_j": 14.773,
+    "st_mass": 0.98,
+    "dec": 49.4062964,
+    "st_teff": 5712,
+    "st_rad": 0.97,
+    "ra": 286.6714813,
+    "system_radius": 64342043.887,
+    "pl_hostname": "Kepler-1177",
+    "stellar_type": "G",
+    "tic_id": "TIC 399826020",
+    "magnitude": 14.773
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263660",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245476"
+      }
+    ]
+  }
+}

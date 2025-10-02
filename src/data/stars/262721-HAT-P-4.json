@@ -1,1 +1,71 @@
-{"id":262721,"date":"2023-11-28T20:54:35","date_gmt":"2023-11-29T01:54:35","modified":"2025-05-16T06:39:38","modified_gmt":"2025-05-16T10:39:38","slug":"hat-p-4","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-4/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-4","custom_star_title":"","aliases":"","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243767],"exo_id":"HAT-P-4","st_optmag":11.118,"st_vj":11.118,"st_dist":320.451,"st_j":11.118,"st_mass":1.248,"dec":36.229545,"st_teff":5860,"st_rad":1.596,"ra":229.99122,"system_radius":6639153.4706,"pl_hostname":"HAT-P-4","stellar_type":"G","tic_id":"TIC 138294130","magnitude":11.118},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262721","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243767"}]}}
+{
+  "id": 262721,
+  "date": "2023-11-28T20:54:35",
+  "date_gmt": "2023-11-29T01:54:35",
+  "modified": "2025-05-16T06:39:38",
+  "modified_gmt": "2025-05-16T10:39:38",
+  "slug": "hat-p-4",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-4/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-4",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243767
+    ],
+    "exo_id": "HAT-P-4",
+    "st_optmag": 11.118,
+    "st_vj": 11.118,
+    "st_dist": 320.451,
+    "st_j": 11.118,
+    "st_mass": 1.248,
+    "dec": 36.229545,
+    "st_teff": 5860,
+    "st_rad": 1.596,
+    "ra": 229.99122,
+    "system_radius": 6639153.4706,
+    "pl_hostname": "HAT-P-4",
+    "stellar_type": "G",
+    "tic_id": "TIC 138294130",
+    "magnitude": 11.118
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262721",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243767"
+      }
+    ]
+  }
+}

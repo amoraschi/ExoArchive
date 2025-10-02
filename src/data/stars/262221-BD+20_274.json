@@ -1,1 +1,71 @@
-{"id":262221,"date":"2023-11-28T20:48:15","date_gmt":"2023-11-29T01:48:15","modified":"2025-04-23T05:55:51","modified_gmt":"2025-04-23T09:55:51","slug":"bd20_274","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/bd20_274/","featured_media":0,"categories":[],"acf":{"display_name":"BD+20 274","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243453],"exo_id":"BD+20_274","st_optmag":9.367,"st_vj":9.367,"st_dist":1322.51,"st_j":9.367,"st_mass":0.8,"dec":21.0052692,"st_teff":4296,"st_rad":17.3,"ra":25.9203179,"system_radius":194477231,"pl_hostname":"BD+20_274","stellar_type":"K","tic_id":"TIC 60923874","magnitude":9.367},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262221","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243453"}]}}
+{
+  "id": 262221,
+  "date": "2023-11-28T20:48:15",
+  "date_gmt": "2023-11-29T01:48:15",
+  "modified": "2025-04-23T05:55:51",
+  "modified_gmt": "2025-04-23T09:55:51",
+  "slug": "bd20_274",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bd20_274/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "BD+20 274",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243453
+    ],
+    "exo_id": "BD+20_274",
+    "st_optmag": 9.367,
+    "st_vj": 9.367,
+    "st_dist": 1322.51,
+    "st_j": 9.367,
+    "st_mass": 0.8,
+    "dec": 21.0052692,
+    "st_teff": 4296,
+    "st_rad": 17.3,
+    "ra": 25.9203179,
+    "system_radius": 194477231,
+    "pl_hostname": "BD+20_274",
+    "stellar_type": "K",
+    "tic_id": "TIC 60923874",
+    "magnitude": 9.367
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262221",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243453"
+      }
+    ]
+  }
+}

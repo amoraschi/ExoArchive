@@ -1,1 +1,71 @@
-{"id":261759,"date":"2023-11-28T20:42:22","date_gmt":"2023-11-29T01:42:22","modified":"2025-04-23T05:54:29","modified_gmt":"2025-04-23T09:54:29","slug":"kepler-581","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-581/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-581","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247432],"exo_id":"Kepler-581","st_optmag":14.701,"st_vj":14.701,"st_dist":703.758,"st_j":14.701,"st_mass":1,"dec":40.6481874,"st_teff":5772,"st_rad":1,"ra":295.4326552,"system_radius":33794158.833,"pl_hostname":"Kepler-581","stellar_type":"G","tic_id":"TIC 184009313","magnitude":14.701},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261759","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247432"}]}}
+{
+  "id": 261759,
+  "date": "2023-11-28T20:42:22",
+  "date_gmt": "2023-11-29T01:42:22",
+  "modified": "2025-04-23T05:54:29",
+  "modified_gmt": "2025-04-23T09:54:29",
+  "slug": "kepler-581",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-581/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-581",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247432
+    ],
+    "exo_id": "Kepler-581",
+    "st_optmag": 14.701,
+    "st_vj": 14.701,
+    "st_dist": 703.758,
+    "st_j": 14.701,
+    "st_mass": 1,
+    "dec": 40.6481874,
+    "st_teff": 5772,
+    "st_rad": 1,
+    "ra": 295.4326552,
+    "system_radius": 33794158.833,
+    "pl_hostname": "Kepler-581",
+    "stellar_type": "G",
+    "tic_id": "TIC 184009313",
+    "magnitude": 14.701
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261759",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247432"
+      }
+    ]
+  }
+}

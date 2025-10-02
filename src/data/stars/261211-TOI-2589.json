@@ -1,1 +1,71 @@
-{"id":261211,"date":"2023-11-28T20:35:28","date_gmt":"2023-11-29T01:35:28","modified":"2025-04-23T05:54:17","modified_gmt":"2025-04-23T09:54:17","slug":"toi-2589","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2589/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2589","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248569],"exo_id":"TOI-2589","st_optmag":11.415,"st_vj":11.415,"st_dist":200.273,"st_j":11.415,"st_mass":0.93,"dec":-37.230948,"st_teff":5579,"st_rad":1.07,"ra":107.4881501,"system_radius":44879361,"pl_hostname":"TOI-2589","stellar_type":"G","tic_id":"TIC 157698565","magnitude":11.415},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261211","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248569"}]}}
+{
+  "id": 261211,
+  "date": "2023-11-28T20:35:28",
+  "date_gmt": "2023-11-29T01:35:28",
+  "modified": "2025-04-23T05:54:17",
+  "modified_gmt": "2025-04-23T09:54:17",
+  "slug": "toi-2589",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2589/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2589",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248569
+    ],
+    "exo_id": "TOI-2589",
+    "st_optmag": 11.415,
+    "st_vj": 11.415,
+    "st_dist": 200.273,
+    "st_j": 11.415,
+    "st_mass": 0.93,
+    "dec": -37.230948,
+    "st_teff": 5579,
+    "st_rad": 1.07,
+    "ra": 107.4881501,
+    "system_radius": 44879361,
+    "pl_hostname": "TOI-2589",
+    "stellar_type": "G",
+    "tic_id": "TIC 157698565",
+    "magnitude": 11.415
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261211",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248569"
+      }
+    ]
+  }
+}

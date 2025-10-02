@@ -1,1 +1,76 @@
-{"id":262816,"date":"2023-11-28T20:55:49","date_gmt":"2023-11-29T01:55:49","modified":"2025-04-23T05:53:36","modified_gmt":"2025-04-23T09:53:36","slug":"kepler-182","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-182/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-182","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246374,246375],"exo_id":"Kepler-182","st_optmag":14.942,"st_vj":14.942,"st_dist":1549.09,"st_j":14.942,"st_mass":1.114,"dec":50.5862025,"st_teff":6250,"st_rad":1.146,"ra":289.8301128,"system_radius":23486865.59,"pl_hostname":"Kepler-182","stellar_type":"F","tic_id":"TIC 267672183","magnitude":14.942},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262816","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246375"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246374"}]}}
+{
+  "id": 262816,
+  "date": "2023-11-28T20:55:49",
+  "date_gmt": "2023-11-29T01:55:49",
+  "modified": "2025-04-23T05:53:36",
+  "modified_gmt": "2025-04-23T09:53:36",
+  "slug": "kepler-182",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-182/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-182",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246374,
+      246375
+    ],
+    "exo_id": "Kepler-182",
+    "st_optmag": 14.942,
+    "st_vj": 14.942,
+    "st_dist": 1549.09,
+    "st_j": 14.942,
+    "st_mass": 1.114,
+    "dec": 50.5862025,
+    "st_teff": 6250,
+    "st_rad": 1.146,
+    "ra": 289.8301128,
+    "system_radius": 23486865.59,
+    "pl_hostname": "Kepler-182",
+    "stellar_type": "F",
+    "tic_id": "TIC 267672183",
+    "magnitude": 14.942
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262816",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246375"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246374"
+      }
+    ]
+  }
+}

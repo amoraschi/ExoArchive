@@ -1,1 +1,71 @@
-{"id":263157,"date":"2023-11-28T21:00:07","date_gmt":"2023-11-29T02:00:07","modified":"2025-04-23T05:55:19","modified_gmt":"2025-04-23T09:55:19","slug":"ngts-2","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngts-2/","featured_media":0,"categories":[],"acf":{"display_name":"NGTS-2","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248216],"exo_id":"NGTS-2","st_optmag":10.789,"st_vj":10.789,"st_dist":356.391,"st_j":10.789,"st_mass":1.64,"dec":-31.2020698,"st_teff":6478,"st_rad":1.702,"ra":215.1227617,"system_radius":9424665.81,"pl_hostname":"NGTS-2","stellar_type":"F","tic_id":"TIC 125739286","magnitude":10.789},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263157","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248216"}]}}
+{
+  "id": 263157,
+  "date": "2023-11-28T21:00:07",
+  "date_gmt": "2023-11-29T02:00:07",
+  "modified": "2025-04-23T05:55:19",
+  "modified_gmt": "2025-04-23T09:55:19",
+  "slug": "ngts-2",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-2/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-2",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248216
+    ],
+    "exo_id": "NGTS-2",
+    "st_optmag": 10.789,
+    "st_vj": 10.789,
+    "st_dist": 356.391,
+    "st_j": 10.789,
+    "st_mass": 1.64,
+    "dec": -31.2020698,
+    "st_teff": 6478,
+    "st_rad": 1.702,
+    "ra": 215.1227617,
+    "system_radius": 9424665.81,
+    "pl_hostname": "NGTS-2",
+    "stellar_type": "F",
+    "tic_id": "TIC 125739286",
+    "magnitude": 10.789
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263157",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248216"
+      }
+    ]
+  }
+}

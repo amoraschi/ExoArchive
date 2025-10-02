@@ -1,1 +1,71 @@
-{"id":261840,"date":"2023-11-28T20:43:23","date_gmt":"2023-11-29T01:43:23","modified":"2025-04-23T05:56:42","modified_gmt":"2025-04-23T09:56:42","slug":"kepler-860","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-860/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-860","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247821],"exo_id":"Kepler-860","st_optmag":15.544,"st_vj":15.544,"st_dist":1056.36,"st_j":15.544,"st_mass":1.04,"dec":46.2547028,"st_teff":5836,"st_rad":1.06,"ra":295.5772681,"system_radius":8676676.46,"pl_hostname":"Kepler-860","stellar_type":"G","tic_id":"TIC 271774166","magnitude":15.544},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261840","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247821"}]}}
+{
+  "id": 261840,
+  "date": "2023-11-28T20:43:23",
+  "date_gmt": "2023-11-29T01:43:23",
+  "modified": "2025-04-23T05:56:42",
+  "modified_gmt": "2025-04-23T09:56:42",
+  "slug": "kepler-860",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-860/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-860",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247821
+    ],
+    "exo_id": "Kepler-860",
+    "st_optmag": 15.544,
+    "st_vj": 15.544,
+    "st_dist": 1056.36,
+    "st_j": 15.544,
+    "st_mass": 1.04,
+    "dec": 46.2547028,
+    "st_teff": 5836,
+    "st_rad": 1.06,
+    "ra": 295.5772681,
+    "system_radius": 8676676.46,
+    "pl_hostname": "Kepler-860",
+    "stellar_type": "G",
+    "tic_id": "TIC 271774166",
+    "magnitude": 15.544
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261840",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247821"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":876434,"date":"2025-07-07T20:39:21","date_gmt":"2025-07-08T00:39:21","modified":"2025-07-07T20:39:21","modified_gmt":"2025-07-08T00:39:21","slug":"g-192-15-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/g-192-15-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"G_192-15","pl_letter":"c","display_name":"G 192-15 c","planet_radius":"0.345 x Jupiter (estimate)","derived_description":"G 192-15 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 14.3 Earths, it takes 3.3 years to complete one orbit of its star, and is 1.137 AU from its star. Its discovery was announced in 2025.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Calar Alto Observatory","st_dist":9.53114,"planet_mass":"14.3 Earths","st_optmag":14.64,"discovery_date":"2025","pl_orbsmax":1.137,"period_display":"3.3 years","eccentricity":"0.68","star_id":498064,"pl_orbper":1219,"pl_kepflag":false,"pl_radj":0.345,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":73.4,"multiple_planet_system":false,"pl_rade":3.87,"exo_id":"G_192-15_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.676},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876434","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/498064"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 876434,
+  "date": "2025-07-07T20:39:21",
+  "date_gmt": "2025-07-08T00:39:21",
+  "modified": "2025-07-07T20:39:21",
+  "modified_gmt": "2025-07-08T00:39:21",
+  "slug": "g-192-15-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/g-192-15-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "G_192-15",
+    "pl_letter": "c",
+    "display_name": "G 192-15 c",
+    "planet_radius": "0.345 x Jupiter (estimate)",
+    "derived_description": "G 192-15 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 14.3 Earths, it takes 3.3 years to complete one orbit of its star, and is 1.137 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Calar Alto Observatory",
+    "st_dist": 9.53114,
+    "planet_mass": "14.3 Earths",
+    "st_optmag": 14.64,
+    "discovery_date": "2025",
+    "pl_orbsmax": 1.137,
+    "period_display": "3.3 years",
+    "eccentricity": "0.68",
+    "star_id": 498064,
+    "pl_orbper": 1219,
+    "pl_kepflag": false,
+    "pl_radj": 0.345,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 73.4,
+    "multiple_planet_system": false,
+    "pl_rade": 3.87,
+    "exo_id": "G_192-15_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.676
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876434",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/498064"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

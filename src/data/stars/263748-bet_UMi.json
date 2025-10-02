@@ -1,1 +1,71 @@
-{"id":263748,"date":"2023-11-28T21:07:40","date_gmt":"2023-11-29T02:07:40","modified":"2025-04-23T05:57:03","modified_gmt":"2025-04-23T09:57:03","slug":"bet_umi","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/bet_umi/","featured_media":0,"categories":[],"acf":{"display_name":"Beta Ursae Minoris","custom_star_title":"","aliases":"","constellation":"Ursa Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243467],"exo_id":"bet_UMi","st_optmag":2.0569,"st_vj":2.0569,"st_dist":38.77472,"st_j":2.0569,"st_mass":1.4,"dec":74.155548,"st_teff":4126,"st_rad":38.3,"ra":222.676495,"system_radius":209437018,"pl_hostname":"bet_UMi","stellar_type":"K","tic_id":"TIC 229540730","magnitude":2.0569},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263748","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243467"}]}}
+{
+  "id": 263748,
+  "date": "2023-11-28T21:07:40",
+  "date_gmt": "2023-11-29T02:07:40",
+  "modified": "2025-04-23T05:57:03",
+  "modified_gmt": "2025-04-23T09:57:03",
+  "slug": "bet_umi",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bet_umi/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Beta Ursae Minoris",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243467
+    ],
+    "exo_id": "bet_UMi",
+    "st_optmag": 2.0569,
+    "st_vj": 2.0569,
+    "st_dist": 38.77472,
+    "st_j": 2.0569,
+    "st_mass": 1.4,
+    "dec": 74.155548,
+    "st_teff": 4126,
+    "st_rad": 38.3,
+    "ra": 222.676495,
+    "system_radius": 209437018,
+    "pl_hostname": "bet_UMi",
+    "stellar_type": "K",
+    "tic_id": "TIC 229540730",
+    "magnitude": 2.0569
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263748",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243467"
+      }
+    ]
+  }
+}

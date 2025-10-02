@@ -1,1 +1,71 @@
-{"id":261291,"date":"2023-11-28T20:36:30","date_gmt":"2023-11-29T01:36:30","modified":"2025-04-23T05:54:24","modified_gmt":"2025-04-23T09:54:24","slug":"kmt-2016-blg-2364l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2016-blg-2364l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2016-BLG-2364L","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248032],"exo_id":"KMT-2016-BLG-2364L","st_optmag":"","st_vj":"","st_dist":6440,"st_j":"","st_mass":0.5,"dec":-27.4355611,"st_teff":"","st_rad":"","ra":265.715667,"system_radius":393442398.1,"pl_hostname":"KMT-2016-BLG-2364L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261291","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248032"}]}}
+{
+  "id": 261291,
+  "date": "2023-11-28T20:36:30",
+  "date_gmt": "2023-11-29T01:36:30",
+  "modified": "2025-04-23T05:54:24",
+  "modified_gmt": "2025-04-23T09:54:24",
+  "slug": "kmt-2016-blg-2364l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2016-blg-2364l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2016-BLG-2364L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248032
+    ],
+    "exo_id": "KMT-2016-BLG-2364L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6440,
+    "st_j": "",
+    "st_mass": 0.5,
+    "dec": -27.4355611,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 265.715667,
+    "system_radius": 393442398.1,
+    "pl_hostname": "KMT-2016-BLG-2364L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261291",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248032"
+      }
+    ]
+  }
+}

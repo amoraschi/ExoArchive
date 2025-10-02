@@ -1,1 +1,71 @@
-{"id":261095,"date":"2023-11-28T20:33:59","date_gmt":"2023-11-29T01:33:59","modified":"2025-04-23T05:56:21","modified_gmt":"2025-04-23T09:56:21","slug":"qatar-7","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/qatar-7/","featured_media":0,"categories":[],"acf":{"display_name":"Qatar-7","custom_star_title":"","aliases":"","constellation":"Andromeda","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248368],"exo_id":"Qatar-7","st_optmag":13.134,"st_vj":13.134,"st_dist":705.981,"st_j":13.134,"st_mass":1.409,"dec":37.0218242,"st_teff":6387,"st_rad":1.564,"ra":358.5151344,"system_radius":5265845.024,"pl_hostname":"Qatar-7","stellar_type":"F","tic_id":"TIC 291685334","magnitude":13.134},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261095","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248368"}]}}
+{
+  "id": 261095,
+  "date": "2023-11-28T20:33:59",
+  "date_gmt": "2023-11-29T01:33:59",
+  "modified": "2025-04-23T05:56:21",
+  "modified_gmt": "2025-04-23T09:56:21",
+  "slug": "qatar-7",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/qatar-7/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Qatar-7",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248368
+    ],
+    "exo_id": "Qatar-7",
+    "st_optmag": 13.134,
+    "st_vj": 13.134,
+    "st_dist": 705.981,
+    "st_j": 13.134,
+    "st_mass": 1.409,
+    "dec": 37.0218242,
+    "st_teff": 6387,
+    "st_rad": 1.564,
+    "ra": 358.5151344,
+    "system_radius": 5265845.024,
+    "pl_hostname": "Qatar-7",
+    "stellar_type": "F",
+    "tic_id": "TIC 291685334",
+    "magnitude": 13.134
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261095",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248368"
+      }
+    ]
+  }
+}

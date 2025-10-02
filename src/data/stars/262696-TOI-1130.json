@@ -1,1 +1,76 @@
-{"id":262696,"date":"2023-11-28T20:54:16","date_gmt":"2023-11-29T01:54:16","modified":"2025-06-06T07:19:29","modified_gmt":"2025-06-06T11:19:29","slug":"toi-1130","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1130/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1130","custom_star_title":"","aliases":"","constellation":"Corona Australis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248407,248408],"exo_id":"TOI-1130","st_optmag":11.595,"st_vj":11.595,"st_dist":58.2609,"st_j":11.595,"st_mass":0.745,"dec":-41.4376399,"st_teff":4360,"st_rad":0.697,"ra":286.3760037,"system_radius":10935604.297,"pl_hostname":"TOI-1130","stellar_type":"K","tic_id":"TIC 254113311","magnitude":11.595},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262696","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248408"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248407"}]}}
+{
+  "id": 262696,
+  "date": "2023-11-28T20:54:16",
+  "date_gmt": "2023-11-29T01:54:16",
+  "modified": "2025-06-06T07:19:29",
+  "modified_gmt": "2025-06-06T11:19:29",
+  "slug": "toi-1130",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1130/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1130",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Corona Australis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248407,
+      248408
+    ],
+    "exo_id": "TOI-1130",
+    "st_optmag": 11.595,
+    "st_vj": 11.595,
+    "st_dist": 58.2609,
+    "st_j": 11.595,
+    "st_mass": 0.745,
+    "dec": -41.4376399,
+    "st_teff": 4360,
+    "st_rad": 0.697,
+    "ra": 286.3760037,
+    "system_radius": 10935604.297,
+    "pl_hostname": "TOI-1130",
+    "stellar_type": "K",
+    "tic_id": "TIC 254113311",
+    "magnitude": 11.595
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262696",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248408"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248407"
+      }
+    ]
+  }
+}

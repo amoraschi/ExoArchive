@@ -1,1 +1,79 @@
-{"id":888019,"date":"2025-08-07T21:50:32","date_gmt":"2025-08-08T01:50:32","modified":"2025-08-07T21:50:32","modified_gmt":"2025-08-08T01:50:32","slug":"toi-201-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-201-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-201","pl_letter":"c","display_name":"TOI-201 c","planet_radius":"0.993 x Jupiter","derived_description":"TOI-201 c is a gas giant exoplanet that orbits a F-type star. Its mass is 14.2 Jupiters, it takes 7.7 years to complete one orbit of its star, and is 4.28 AU from its star. Its discovery was announced in 2025.","planet_type":"Gas Giant","pl_discmethod":"Transit Timing Variations","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":113.825,"planet_mass":"14.2 Jupiters","st_optmag":9.07,"discovery_date":"2025","pl_orbsmax":4.28,"period_display":"7.7 years","eccentricity":"0.64","star_id":260909,"pl_orbper":2800,"pl_kepflag":false,"pl_radj":0.993,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":95.2,"multiple_planet_system":false,"pl_rade":11.13051784,"exo_id":"TOI-201_c","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.643},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/888019","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260909"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 888019,
+  "date": "2025-08-07T21:50:32",
+  "date_gmt": "2025-08-08T01:50:32",
+  "modified": "2025-08-07T21:50:32",
+  "modified_gmt": "2025-08-08T01:50:32",
+  "slug": "toi-201-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-201-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-201",
+    "pl_letter": "c",
+    "display_name": "TOI-201 c",
+    "planet_radius": "0.993 x Jupiter",
+    "derived_description": "TOI-201 c is a gas giant exoplanet that orbits a F-type star. Its mass is 14.2 Jupiters, it takes 7.7 years to complete one orbit of its star, and is 4.28 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit Timing Variations",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 113.825,
+    "planet_mass": "14.2 Jupiters",
+    "st_optmag": 9.07,
+    "discovery_date": "2025",
+    "pl_orbsmax": 4.28,
+    "period_display": "7.7 years",
+    "eccentricity": "0.64",
+    "star_id": 260909,
+    "pl_orbper": 2800,
+    "pl_kepflag": false,
+    "pl_radj": 0.993,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 95.2,
+    "multiple_planet_system": false,
+    "pl_rade": 11.13051784,
+    "exo_id": "TOI-201_c",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.643
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/888019",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260909"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

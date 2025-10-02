@@ -1,1 +1,82 @@
-{"id":861747,"date":"2025-06-06T07:19:34","date_gmt":"2025-06-06T11:19:34","modified":"2025-06-06T07:19:34","modified_gmt":"2025-06-06T11:19:34","slug":"tic-434398831","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tic-434398831/","featured_media":429648,"categories":[],"acf":{"display_name":"TIC 434398831","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":876490,"1":876422},"exo_id":"TIC_434398831","st_optmag":11.682,"st_vj":11.682,"st_dist":217.011,"st_j":11.682,"st_mass":0.992,"dec":16.0238459,"st_teff":5638,"st_rad":0.909,"ra":93.9592639,"system_radius":9831572.0164,"pl_hostname":"TIC_434398831","stellar_type":"G","tic_id":"TIC 434398831","magnitude":11.682},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/861747","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876490"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876422"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 861747,
+  "date": "2025-06-06T07:19:34",
+  "date_gmt": "2025-06-06T11:19:34",
+  "modified": "2025-06-06T07:19:34",
+  "modified_gmt": "2025-06-06T11:19:34",
+  "slug": "tic-434398831",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-434398831/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 434398831",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 876490,
+      "1": 876422
+    },
+    "exo_id": "TIC_434398831",
+    "st_optmag": 11.682,
+    "st_vj": 11.682,
+    "st_dist": 217.011,
+    "st_j": 11.682,
+    "st_mass": 0.992,
+    "dec": 16.0238459,
+    "st_teff": 5638,
+    "st_rad": 0.909,
+    "ra": 93.9592639,
+    "system_radius": 9831572.0164,
+    "pl_hostname": "TIC_434398831",
+    "stellar_type": "G",
+    "tic_id": "TIC 434398831",
+    "magnitude": 11.682
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/861747",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876490"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876422"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

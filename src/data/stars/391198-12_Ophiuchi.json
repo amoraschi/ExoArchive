@@ -1,1 +1,69 @@
-{"id":391198,"date":"2024-04-30T20:01:18","date_gmt":"2024-05-01T00:01:18","modified":"2025-04-23T05:57:28","modified_gmt":"2025-04-23T09:57:28","slug":"12-ophiuchi","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/12-ophiuchi/","featured_media":429649,"categories":[],"acf":{"display_name":"12 Ophiuchi","custom_star_title":"","aliases":"HD 149661,HR 6171,GJ 631","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"12_Ophiuchi","st_optmag":5.764,"st_vj":5.764,"st_dist":9.8939,"st_j":5.764,"st_mass":0.87,"dec":-2.324587,"st_teff":5262,"st_rad":0.818,"ra":249.0893737,"system_radius":149597870,"pl_hostname":"12_Ophiuchi","stellar_type":"K","tic_id":"TIC 58092025","magnitude":5.8},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391198","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391198,
+  "date": "2024-04-30T20:01:18",
+  "date_gmt": "2024-05-01T00:01:18",
+  "modified": "2025-04-23T05:57:28",
+  "modified_gmt": "2025-04-23T09:57:28",
+  "slug": "12-ophiuchi",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/12-ophiuchi/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "12 Ophiuchi",
+    "custom_star_title": "",
+    "aliases": "HD 149661,HR 6171,GJ 631",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "12_Ophiuchi",
+    "st_optmag": 5.764,
+    "st_vj": 5.764,
+    "st_dist": 9.8939,
+    "st_j": 5.764,
+    "st_mass": 0.87,
+    "dec": -2.324587,
+    "st_teff": 5262,
+    "st_rad": 0.818,
+    "ra": 249.0893737,
+    "system_radius": 149597870,
+    "pl_hostname": "12_Ophiuchi",
+    "stellar_type": "K",
+    "tic_id": "TIC 58092025",
+    "magnitude": 5.8
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391198",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

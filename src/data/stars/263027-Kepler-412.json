@@ -1,1 +1,71 @@
-{"id":263027,"date":"2023-11-28T20:58:30","date_gmt":"2023-11-29T01:58:30","modified":"2025-04-23T05:57:11","modified_gmt":"2025-04-23T09:57:11","slug":"kepler-412","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-412/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-412","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247179],"exo_id":"Kepler-412","st_optmag":14.399,"st_vj":14.399,"st_dist":1086.24,"st_j":14.399,"st_mass":1.167,"dec":43.6809612,"st_teff":5750,"st_rad":1.287,"ra":286.1103053,"system_radius":4333850.2939,"pl_hostname":"Kepler-412","stellar_type":"G","tic_id":"TIC 158170594","magnitude":14.399},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263027","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247179"}]}}
+{
+  "id": 263027,
+  "date": "2023-11-28T20:58:30",
+  "date_gmt": "2023-11-29T01:58:30",
+  "modified": "2025-04-23T05:57:11",
+  "modified_gmt": "2025-04-23T09:57:11",
+  "slug": "kepler-412",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-412/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-412",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247179
+    ],
+    "exo_id": "Kepler-412",
+    "st_optmag": 14.399,
+    "st_vj": 14.399,
+    "st_dist": 1086.24,
+    "st_j": 14.399,
+    "st_mass": 1.167,
+    "dec": 43.6809612,
+    "st_teff": 5750,
+    "st_rad": 1.287,
+    "ra": 286.1103053,
+    "system_radius": 4333850.2939,
+    "pl_hostname": "Kepler-412",
+    "stellar_type": "G",
+    "tic_id": "TIC 158170594",
+    "magnitude": 14.399
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263027",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247179"
+      }
+    ]
+  }
+}

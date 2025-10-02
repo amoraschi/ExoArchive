@@ -1,1 +1,71 @@
-{"id":261990,"date":"2023-11-28T20:45:18","date_gmt":"2023-11-29T01:45:18","modified":"2025-04-23T05:56:20","modified_gmt":"2025-04-23T09:56:20","slug":"hat-p-26","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-26/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-26","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243741],"exo_id":"HAT-P-26","st_optmag":11.757,"st_vj":11.757,"st_dist":141.837,"st_j":11.757,"st_mass":1.12,"dec":4.0594175,"st_teff":5079,"st_rad":0.87,"ra":213.1565508,"system_radius":7165737.973,"pl_hostname":"HAT-P-26","stellar_type":"K","tic_id":"TIC 420779000","magnitude":11.757},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261990","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243741"}]}}
+{
+  "id": 261990,
+  "date": "2023-11-28T20:45:18",
+  "date_gmt": "2023-11-29T01:45:18",
+  "modified": "2025-04-23T05:56:20",
+  "modified_gmt": "2025-04-23T09:56:20",
+  "slug": "hat-p-26",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-26/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-26",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243741
+    ],
+    "exo_id": "HAT-P-26",
+    "st_optmag": 11.757,
+    "st_vj": 11.757,
+    "st_dist": 141.837,
+    "st_j": 11.757,
+    "st_mass": 1.12,
+    "dec": 4.0594175,
+    "st_teff": 5079,
+    "st_rad": 0.87,
+    "ra": 213.1565508,
+    "system_radius": 7165737.973,
+    "pl_hostname": "HAT-P-26",
+    "stellar_type": "K",
+    "tic_id": "TIC 420779000",
+    "magnitude": 11.757
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261990",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243741"
+      }
+    ]
+  }
+}

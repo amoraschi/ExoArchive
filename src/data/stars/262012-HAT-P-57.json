@@ -1,1 +1,71 @@
-{"id":262012,"date":"2023-11-28T20:45:35","date_gmt":"2023-11-29T01:45:35","modified":"2025-04-23T05:55:02","modified_gmt":"2025-04-23T09:55:02","slug":"hat-p-57","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-57/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-57","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243775],"exo_id":"HAT-P-57","st_optmag":10.639,"st_vj":10.639,"st_dist":279.86,"st_j":10.639,"st_mass":2.77,"dec":10.5971968,"st_teff":6330,"st_rad":1.85,"ra":274.743418,"system_radius":6073673.522,"pl_hostname":"HAT-P-57","stellar_type":"F","tic_id":"TIC 317520667","magnitude":10.639},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262012","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243775"}]}}
+{
+  "id": 262012,
+  "date": "2023-11-28T20:45:35",
+  "date_gmt": "2023-11-29T01:45:35",
+  "modified": "2025-04-23T05:55:02",
+  "modified_gmt": "2025-04-23T09:55:02",
+  "slug": "hat-p-57",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-57/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-57",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243775
+    ],
+    "exo_id": "HAT-P-57",
+    "st_optmag": 10.639,
+    "st_vj": 10.639,
+    "st_dist": 279.86,
+    "st_j": 10.639,
+    "st_mass": 2.77,
+    "dec": 10.5971968,
+    "st_teff": 6330,
+    "st_rad": 1.85,
+    "ra": 274.743418,
+    "system_radius": 6073673.522,
+    "pl_hostname": "HAT-P-57",
+    "stellar_type": "F",
+    "tic_id": "TIC 317520667",
+    "magnitude": 10.639
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262012",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243775"
+      }
+    ]
+  }
+}

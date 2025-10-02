@@ -1,1 +1,71 @@
-{"id":263128,"date":"2023-11-28T20:59:46","date_gmt":"2023-11-29T01:59:46","modified":"2025-06-06T07:20:10","modified_gmt":"2025-06-06T11:20:10","slug":"wasp-136","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-136/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-136","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248775],"exo_id":"WASP-136","st_optmag":9.974,"st_vj":9.974,"st_dist":275.587,"st_j":9.974,"st_mass":1.41,"dec":-8.9262512,"st_teff":6260,"st_rad":2.21,"ra":0.325761,"system_radius":9888419.207,"pl_hostname":"WASP-136","stellar_type":"F","tic_id":"TIC 176220787","magnitude":9.974},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263128","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248775"}]}}
+{
+  "id": 263128,
+  "date": "2023-11-28T20:59:46",
+  "date_gmt": "2023-11-29T01:59:46",
+  "modified": "2025-06-06T07:20:10",
+  "modified_gmt": "2025-06-06T11:20:10",
+  "slug": "wasp-136",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-136/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-136",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248775
+    ],
+    "exo_id": "WASP-136",
+    "st_optmag": 9.974,
+    "st_vj": 9.974,
+    "st_dist": 275.587,
+    "st_j": 9.974,
+    "st_mass": 1.41,
+    "dec": -8.9262512,
+    "st_teff": 6260,
+    "st_rad": 2.21,
+    "ra": 0.325761,
+    "system_radius": 9888419.207,
+    "pl_hostname": "WASP-136",
+    "stellar_type": "F",
+    "tic_id": "TIC 176220787",
+    "magnitude": 9.974
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263128",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248775"
+      }
+    ]
+  }
+}

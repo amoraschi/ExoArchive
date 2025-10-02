@@ -1,1 +1,71 @@
-{"id":262097,"date":"2023-11-28T20:46:40","date_gmt":"2023-11-29T01:46:40","modified":"2025-04-23T05:56:19","modified_gmt":"2025-04-23T09:56:19","slug":"wasp-21","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-21/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-21","custom_star_title":"","aliases":"","constellation":"Pegasus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248834],"exo_id":"WASP-21","st_optmag":11.59,"st_vj":11.59,"st_dist":258.426,"st_j":11.59,"st_mass":1.01,"dec":18.3961597,"st_teff":5800,"st_rad":1.06,"ra":347.4928024,"system_radius":7779089.24,"pl_hostname":"WASP-21","stellar_type":"G","tic_id":"TIC 436478932","magnitude":11.59},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262097","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248834"}]}}
+{
+  "id": 262097,
+  "date": "2023-11-28T20:46:40",
+  "date_gmt": "2023-11-29T01:46:40",
+  "modified": "2025-04-23T05:56:19",
+  "modified_gmt": "2025-04-23T09:56:19",
+  "slug": "wasp-21",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-21/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-21",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pegasus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248834
+    ],
+    "exo_id": "WASP-21",
+    "st_optmag": 11.59,
+    "st_vj": 11.59,
+    "st_dist": 258.426,
+    "st_j": 11.59,
+    "st_mass": 1.01,
+    "dec": 18.3961597,
+    "st_teff": 5800,
+    "st_rad": 1.06,
+    "ra": 347.4928024,
+    "system_radius": 7779089.24,
+    "pl_hostname": "WASP-21",
+    "stellar_type": "G",
+    "tic_id": "TIC 436478932",
+    "magnitude": 11.59
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262097",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248834"
+      }
+    ]
+  }
+}

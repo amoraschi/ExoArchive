@@ -1,1 +1,71 @@
-{"id":395353,"date":"2024-05-10T20:16:20","date_gmt":"2024-05-11T00:16:20","modified":"2025-04-23T05:55:19","modified_gmt":"2025-04-23T09:55:19","slug":"hip-77900","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip-77900/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 77900","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[395509],"exo_id":"HIP_77900","st_optmag":6.15,"st_vj":6.15,"st_dist":150.862,"st_j":6.15,"st_mass":"","dec":-27.3387434,"st_teff":13646,"st_rad":"","ra":238.6253901,"system_radius":496515330530,"pl_hostname":"HIP_77900","stellar_type":"B","tic_id":"TIC 24133681","magnitude":6.15},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/395353","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/395509"}]}}
+{
+  "id": 395353,
+  "date": "2024-05-10T20:16:20",
+  "date_gmt": "2024-05-11T00:16:20",
+  "modified": "2025-04-23T05:55:19",
+  "modified_gmt": "2025-04-23T09:55:19",
+  "slug": "hip-77900",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-77900/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 77900",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      395509
+    ],
+    "exo_id": "HIP_77900",
+    "st_optmag": 6.15,
+    "st_vj": 6.15,
+    "st_dist": 150.862,
+    "st_j": 6.15,
+    "st_mass": "",
+    "dec": -27.3387434,
+    "st_teff": 13646,
+    "st_rad": "",
+    "ra": 238.6253901,
+    "system_radius": 496515330530,
+    "pl_hostname": "HIP_77900",
+    "stellar_type": "B",
+    "tic_id": "TIC 24133681",
+    "magnitude": 6.15
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/395353",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/395509"
+      }
+    ]
+  }
+}

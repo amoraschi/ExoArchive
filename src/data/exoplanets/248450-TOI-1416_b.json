@@ -1,1 +1,79 @@
-{"id":248450,"date":"2023-06-15T16:01:57","date_gmt":"2023-06-15T20:01:57","modified":"2025-03-28T07:29:01","modified_gmt":"2025-03-28T11:29:01","slug":"toi-1416-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1416-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1416","pl_letter":"b","display_name":"TOI-1416 b","planet_radius":"1.62 x Earth","derived_description":"TOI-1416 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.48 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.019 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":55.0135,"planet_mass":"3.48 Earths","st_optmag":9.91,"discovery_date":"2023","pl_orbsmax":0.019,"period_display":"1.1 days","eccentricity":"0.0","star_id":263750,"pl_orbper":1.0697568,"pl_kepflag":false,"pl_radj":0.14452697,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.62,"exo_id":"TOI-1416_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248450","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263750"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248450,
+  "date": "2023-06-15T16:01:57",
+  "date_gmt": "2023-06-15T20:01:57",
+  "modified": "2025-03-28T07:29:01",
+  "modified_gmt": "2025-03-28T11:29:01",
+  "slug": "toi-1416-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1416-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1416",
+    "pl_letter": "b",
+    "display_name": "TOI-1416 b",
+    "planet_radius": "1.62 x Earth",
+    "derived_description": "TOI-1416 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.48 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.019 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 55.0135,
+    "planet_mass": "3.48 Earths",
+    "st_optmag": 9.91,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.019,
+    "period_display": "1.1 days",
+    "eccentricity": "0.0",
+    "star_id": 263750,
+    "pl_orbper": 1.0697568,
+    "pl_kepflag": false,
+    "pl_radj": 0.14452697,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.62,
+    "exo_id": "TOI-1416_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248450",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263750"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

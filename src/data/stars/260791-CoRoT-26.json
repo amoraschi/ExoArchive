@@ -1,1 +1,71 @@
-{"id":260791,"date":"2023-11-28T20:30:09","date_gmt":"2023-11-29T01:30:09","modified":"2025-04-23T05:53:44","modified_gmt":"2025-04-23T09:53:44","slug":"corot-26","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-26/","featured_media":0,"categories":[],"acf":{"display_name":"CoRoT-26","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243492],"exo_id":"CoRoT-26","st_optmag":15.861,"st_vj":15.861,"st_dist":1045.18,"st_j":15.861,"st_mass":1.09,"dec":6.9697828,"st_teff":5590,"st_rad":1.79,"ra":279.7504991,"system_radius":7868847.962,"pl_hostname":"CoRoT-26","stellar_type":"G","tic_id":"TIC 322388624","magnitude":15.861},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260791","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243492"}]}}
+{
+  "id": 260791,
+  "date": "2023-11-28T20:30:09",
+  "date_gmt": "2023-11-29T01:30:09",
+  "modified": "2025-04-23T05:53:44",
+  "modified_gmt": "2025-04-23T09:53:44",
+  "slug": "corot-26",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-26/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-26",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243492
+    ],
+    "exo_id": "CoRoT-26",
+    "st_optmag": 15.861,
+    "st_vj": 15.861,
+    "st_dist": 1045.18,
+    "st_j": 15.861,
+    "st_mass": 1.09,
+    "dec": 6.9697828,
+    "st_teff": 5590,
+    "st_rad": 1.79,
+    "ra": 279.7504991,
+    "system_radius": 7868847.962,
+    "pl_hostname": "CoRoT-26",
+    "stellar_type": "G",
+    "tic_id": "TIC 322388624",
+    "magnitude": 15.861
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260791",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243492"
+      }
+    ]
+  }
+}

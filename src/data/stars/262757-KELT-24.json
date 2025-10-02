@@ -1,1 +1,71 @@
-{"id":262757,"date":"2023-11-28T20:55:03","date_gmt":"2023-11-29T01:55:03","modified":"2025-04-23T05:56:09","modified_gmt":"2025-04-23T09:56:09","slug":"kelt-24","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kelt-24/","featured_media":0,"categories":[],"acf":{"display_name":"KELT-24","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245219],"exo_id":"KELT-24","st_optmag":8.34,"st_vj":8.34,"st_dist":96.5173,"st_j":8.34,"st_mass":1.268,"dec":71.655727,"st_teff":6426,"st_rad":1.338,"ra":161.9090273,"system_radius":9948258.355,"pl_hostname":"KELT-24","stellar_type":"F","tic_id":"TIC 349827430","magnitude":8.34},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262757","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245219"}]}}
+{
+  "id": 262757,
+  "date": "2023-11-28T20:55:03",
+  "date_gmt": "2023-11-29T01:55:03",
+  "modified": "2025-04-23T05:56:09",
+  "modified_gmt": "2025-04-23T09:56:09",
+  "slug": "kelt-24",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kelt-24/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KELT-24",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245219
+    ],
+    "exo_id": "KELT-24",
+    "st_optmag": 8.34,
+    "st_vj": 8.34,
+    "st_dist": 96.5173,
+    "st_j": 8.34,
+    "st_mass": 1.268,
+    "dec": 71.655727,
+    "st_teff": 6426,
+    "st_rad": 1.338,
+    "ra": 161.9090273,
+    "system_radius": 9948258.355,
+    "pl_hostname": "KELT-24",
+    "stellar_type": "F",
+    "tic_id": "TIC 349827430",
+    "magnitude": 8.34
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262757",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245219"
+      }
+    ]
+  }
+}

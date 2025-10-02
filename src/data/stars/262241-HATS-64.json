@@ -1,1 +1,71 @@
-{"id":262241,"date":"2023-11-28T20:48:30","date_gmt":"2023-11-29T01:48:30","modified":"2025-04-23T05:53:47","modified_gmt":"2025-04-23T09:53:47","slug":"hats-64","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-64/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-64","custom_star_title":"","aliases":"","constellation":"Antlia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243851],"exo_id":"HATS-64","st_optmag":13.045,"st_vj":13.045,"st_dist":1080.15,"st_j":13.045,"st_mass":1.564,"dec":-29.800444,"st_teff":6554,"st_rad":2.113,"ra":144.2876092,"system_radius":9816612.2294,"pl_hostname":"HATS-64","stellar_type":"F","tic_id":"TIC 189625051","magnitude":13.045},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262241","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243851"}]}}
+{
+  "id": 262241,
+  "date": "2023-11-28T20:48:30",
+  "date_gmt": "2023-11-29T01:48:30",
+  "modified": "2025-04-23T05:53:47",
+  "modified_gmt": "2025-04-23T09:53:47",
+  "slug": "hats-64",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-64/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-64",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Antlia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243851
+    ],
+    "exo_id": "HATS-64",
+    "st_optmag": 13.045,
+    "st_vj": 13.045,
+    "st_dist": 1080.15,
+    "st_j": 13.045,
+    "st_mass": 1.564,
+    "dec": -29.800444,
+    "st_teff": 6554,
+    "st_rad": 2.113,
+    "ra": 144.2876092,
+    "system_radius": 9816612.2294,
+    "pl_hostname": "HATS-64",
+    "stellar_type": "F",
+    "tic_id": "TIC 189625051",
+    "magnitude": 13.045
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262241",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243851"
+      }
+    ]
+  }
+}

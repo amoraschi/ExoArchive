@@ -1,1 +1,79 @@
-{"id":245167,"date":"2016-07-18T13:25:29","date_gmt":"2016-07-18T17:25:29","modified":"2025-07-07T20:32:32","modified_gmt":"2025-07-08T00:32:32","slug":"k2-70-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-70-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-70","pl_letter":"b","display_name":"K2-70 b","planet_radius":"0.25782853 x Jupiter","derived_description":"K2-70 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.7 Earths, it takes 14 days to complete one orbit of its star, and is 0.1112 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":232.964,"planet_mass":"8.7 Earths","st_optmag":13.074,"discovery_date":"2016","pl_orbsmax":0.1112,"period_display":"14 days","eccentricity":"","star_id":262492,"pl_orbper":13.97896,"pl_kepflag":true,"pl_radj":0.25782853,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.89,"exo_id":"K2-70_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245167","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262492"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245167,
+  "date": "2016-07-18T13:25:29",
+  "date_gmt": "2016-07-18T17:25:29",
+  "modified": "2025-07-07T20:32:32",
+  "modified_gmt": "2025-07-08T00:32:32",
+  "slug": "k2-70-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-70-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-70",
+    "pl_letter": "b",
+    "display_name": "K2-70 b",
+    "planet_radius": "0.25782853 x Jupiter",
+    "derived_description": "K2-70 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.7 Earths, it takes 14 days to complete one orbit of its star, and is 0.1112 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 232.964,
+    "planet_mass": "8.7 Earths",
+    "st_optmag": 13.074,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1112,
+    "period_display": "14 days",
+    "eccentricity": "",
+    "star_id": 262492,
+    "pl_orbper": 13.97896,
+    "pl_kepflag": true,
+    "pl_radj": 0.25782853,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.89,
+    "exo_id": "K2-70_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245167",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262492"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

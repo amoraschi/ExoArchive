@@ -1,1 +1,79 @@
-{"id":244275,"date":"2019-04-22T16:49:20","date_gmt":"2019-04-22T20:49:20","modified":"2024-10-24T18:33:05","modified_gmt":"2024-10-24T22:33:05","slug":"hd-214823-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-214823-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_214823","pl_letter":"b","display_name":"HD 214823 b","planet_radius":"1.08 x Jupiter (estimate)","derived_description":"HD 214823 b is a gas giant exoplanet that orbits a F-type star. Its mass is 18.61 Jupiters, it takes 5.1 years to complete one orbit of its star, and is 3.08 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Haute-Provence Observatory","st_dist":101.368,"planet_mass":"18.61 Jupiters","st_optmag":8.06,"discovery_date":"2016","pl_orbsmax":3.08,"period_display":"5.1 years","eccentricity":"0.16","star_id":263697,"pl_orbper":1854.84424,"pl_kepflag":false,"pl_radj":1.08,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":123.569,"multiple_planet_system":false,"pl_rade":12.1,"exo_id":"HD_214823_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.161},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244275","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263697"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244275,
+  "date": "2019-04-22T16:49:20",
+  "date_gmt": "2019-04-22T20:49:20",
+  "modified": "2024-10-24T18:33:05",
+  "modified_gmt": "2024-10-24T22:33:05",
+  "slug": "hd-214823-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-214823-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_214823",
+    "pl_letter": "b",
+    "display_name": "HD 214823 b",
+    "planet_radius": "1.08 x Jupiter (estimate)",
+    "derived_description": "HD 214823 b is a gas giant exoplanet that orbits a F-type star. Its mass is 18.61 Jupiters, it takes 5.1 years to complete one orbit of its star, and is 3.08 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Haute-Provence Observatory",
+    "st_dist": 101.368,
+    "planet_mass": "18.61 Jupiters",
+    "st_optmag": 8.06,
+    "discovery_date": "2016",
+    "pl_orbsmax": 3.08,
+    "period_display": "5.1 years",
+    "eccentricity": "0.16",
+    "star_id": 263697,
+    "pl_orbper": 1854.84424,
+    "pl_kepflag": false,
+    "pl_radj": 1.08,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 123.569,
+    "multiple_planet_system": false,
+    "pl_rade": 12.1,
+    "exo_id": "HD_214823_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.161
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244275",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263697"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

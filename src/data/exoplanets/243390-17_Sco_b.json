@@ -1,1 +1,79 @@
-{"id":243390,"date":"2021-10-28T13:34:02","date_gmt":"2021-10-28T17:34:02","modified":"2024-10-24T16:38:49","modified_gmt":"2024-10-24T20:38:49","slug":"17-scorpii-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/17-scorpii-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"17_Sco","pl_letter":"b","display_name":"17 Scorpii b","planet_radius":"1.15 x Jupiter (estimate)","derived_description":"17 Scorpii b is a gas giant exoplanet that orbits a K-type star. Its mass is 4.32 Jupiters, it takes 1.6 years to complete one orbit of its star, and is 1.45 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Lick Observatory","st_dist":124.953,"planet_mass":"4.32 Jupiters","st_optmag":5.22606,"discovery_date":"2020","pl_orbsmax":1.45,"period_display":"1.6 years","eccentricity":"0.06","star_id":264268,"pl_orbper":578.38,"pl_kepflag":false,"pl_radj":1.15,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":57.03,"multiple_planet_system":false,"pl_rade":12.9,"exo_id":"17_Sco_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.06},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243390","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264268"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243390,
+  "date": "2021-10-28T13:34:02",
+  "date_gmt": "2021-10-28T17:34:02",
+  "modified": "2024-10-24T16:38:49",
+  "modified_gmt": "2024-10-24T20:38:49",
+  "slug": "17-scorpii-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/17-scorpii-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "17_Sco",
+    "pl_letter": "b",
+    "display_name": "17 Scorpii b",
+    "planet_radius": "1.15 x Jupiter (estimate)",
+    "derived_description": "17 Scorpii b is a gas giant exoplanet that orbits a K-type star. Its mass is 4.32 Jupiters, it takes 1.6 years to complete one orbit of its star, and is 1.45 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Lick Observatory",
+    "st_dist": 124.953,
+    "planet_mass": "4.32 Jupiters",
+    "st_optmag": 5.22606,
+    "discovery_date": "2020",
+    "pl_orbsmax": 1.45,
+    "period_display": "1.6 years",
+    "eccentricity": "0.06",
+    "star_id": 264268,
+    "pl_orbper": 578.38,
+    "pl_kepflag": false,
+    "pl_radj": 1.15,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 57.03,
+    "multiple_planet_system": false,
+    "pl_rade": 12.9,
+    "exo_id": "17_Sco_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.06
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243390",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264268"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

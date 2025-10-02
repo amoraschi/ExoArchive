@@ -1,1 +1,71 @@
-{"id":261851,"date":"2023-11-28T20:43:32","date_gmt":"2023-11-29T01:43:32","modified":"2025-04-23T05:55:04","modified_gmt":"2025-04-23T09:55:04","slug":"14_and","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/14_and/","featured_media":0,"categories":[],"acf":{"display_name":"14 Andromedae","custom_star_title":"","aliases":"","constellation":"Andromeda","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243387],"exo_id":"14_And","st_optmag":5.23133,"st_vj":5.23133,"st_dist":75.4392,"st_j":5.23133,"st_mass":1.78,"dec":39.2358367,"st_teff":4888,"st_rad":11.55,"ra":352.82415,"system_radius":115938349.25,"pl_hostname":"14_And","stellar_type":"K","tic_id":"TIC 333225860","magnitude":5.23133},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261851","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243387"}]}}
+{
+  "id": 261851,
+  "date": "2023-11-28T20:43:32",
+  "date_gmt": "2023-11-29T01:43:32",
+  "modified": "2025-04-23T05:55:04",
+  "modified_gmt": "2025-04-23T09:55:04",
+  "slug": "14_and",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/14_and/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "14 Andromedae",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243387
+    ],
+    "exo_id": "14_And",
+    "st_optmag": 5.23133,
+    "st_vj": 5.23133,
+    "st_dist": 75.4392,
+    "st_j": 5.23133,
+    "st_mass": 1.78,
+    "dec": 39.2358367,
+    "st_teff": 4888,
+    "st_rad": 11.55,
+    "ra": 352.82415,
+    "system_radius": 115938349.25,
+    "pl_hostname": "14_And",
+    "stellar_type": "K",
+    "tic_id": "TIC 333225860",
+    "magnitude": 5.23133
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261851",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243387"
+      }
+    ]
+  }
+}

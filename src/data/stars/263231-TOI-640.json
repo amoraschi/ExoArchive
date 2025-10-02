@@ -1,1 +1,71 @@
-{"id":263231,"date":"2023-11-28T21:01:03","date_gmt":"2023-11-29T02:01:03","modified":"2025-04-23T05:56:06","modified_gmt":"2025-04-23T09:56:06","slug":"toi-640","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-640/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-640","custom_star_title":"","aliases":"","constellation":"Columba","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248670],"exo_id":"TOI-640","st_optmag":10.51,"st_vj":10.51,"st_dist":341.997,"st_j":10.51,"st_mass":1.536,"dec":-36.64613,"st_teff":6460,"st_rad":2.082,"ra":99.7345935,"system_radius":9885427.2496,"pl_hostname":"TOI-640","stellar_type":"F","tic_id":"TIC 147977348","magnitude":10.51},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263231","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248670"}]}}
+{
+  "id": 263231,
+  "date": "2023-11-28T21:01:03",
+  "date_gmt": "2023-11-29T02:01:03",
+  "modified": "2025-04-23T05:56:06",
+  "modified_gmt": "2025-04-23T09:56:06",
+  "slug": "toi-640",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-640/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-640",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Columba",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248670
+    ],
+    "exo_id": "TOI-640",
+    "st_optmag": 10.51,
+    "st_vj": 10.51,
+    "st_dist": 341.997,
+    "st_j": 10.51,
+    "st_mass": 1.536,
+    "dec": -36.64613,
+    "st_teff": 6460,
+    "st_rad": 2.082,
+    "ra": 99.7345935,
+    "system_radius": 9885427.2496,
+    "pl_hostname": "TOI-640",
+    "stellar_type": "F",
+    "tic_id": "TIC 147977348",
+    "magnitude": 10.51
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263231",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248670"
+      }
+    ]
+  }
+}

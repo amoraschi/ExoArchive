@@ -1,1 +1,79 @@
-{"id":439667,"date":"2024-12-13T02:36:45","date_gmt":"2024-12-13T07:36:45","modified":"2025-03-28T07:23:00","modified_gmt":"2025-03-28T11:23:00","slug":"toi-2211-01","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2211-01/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2211","pl_letter":"b","display_name":"TOI-2211.01","planet_radius":"1.561 x Earth","derived_description":"TOI-2211.01 is a super Earth exoplanet that orbits a K-type star. Its mass is 3.06 Earths, it takes 3.1 days to complete one orbit of its star, and is 0.04011 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":70.2932,"planet_mass":"3.06 Earths","st_optmag":10,"discovery_date":"2024","pl_orbsmax":0.04011,"period_display":"3.1 days","eccentricity":"","star_id":439625,"pl_orbper":3.092686757,"pl_kepflag":false,"pl_radj":0.13926333,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.561,"exo_id":"TOI-2211.01","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439667","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/439625"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 439667,
+  "date": "2024-12-13T02:36:45",
+  "date_gmt": "2024-12-13T07:36:45",
+  "modified": "2025-03-28T07:23:00",
+  "modified_gmt": "2025-03-28T11:23:00",
+  "slug": "toi-2211-01",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2211-01/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2211",
+    "pl_letter": "b",
+    "display_name": "TOI-2211.01",
+    "planet_radius": "1.561 x Earth",
+    "derived_description": "TOI-2211.01 is a super Earth exoplanet that orbits a K-type star. Its mass is 3.06 Earths, it takes 3.1 days to complete one orbit of its star, and is 0.04011 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 70.2932,
+    "planet_mass": "3.06 Earths",
+    "st_optmag": 10,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.04011,
+    "period_display": "3.1 days",
+    "eccentricity": "",
+    "star_id": 439625,
+    "pl_orbper": 3.092686757,
+    "pl_kepflag": false,
+    "pl_radj": 0.13926333,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.561,
+    "exo_id": "TOI-2211.01",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439667",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439625"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

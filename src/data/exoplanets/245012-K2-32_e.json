@@ -1,1 +1,79 @@
-{"id":245012,"date":"2019-06-13T18:03:16","date_gmt":"2019-06-13T22:03:16","modified":"2025-07-07T20:34:50","modified_gmt":"2025-07-08T00:34:50","slug":"k2-32-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-32-e/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-32","pl_letter":"e","display_name":"K2-32 e","planet_radius":"1.212 x Earth","derived_description":"K2-32 e is a super Earth exoplanet that orbits a K-type star. Its mass is 2.1 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.04899 AU from its star. Its discovery was announced in 2019.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":157.682,"planet_mass":"2.1 Earths","st_optmag":12.304,"discovery_date":"2019","pl_orbsmax":0.04899,"period_display":"4.3 days","eccentricity":"0.04","star_id":261283,"pl_orbper":4.34934,"pl_kepflag":true,"pl_radj":0.10812758,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":205,"multiple_planet_system":false,"pl_rade":1.212,"exo_id":"K2-32_e","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.043},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245012","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261283"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245012,
+  "date": "2019-06-13T18:03:16",
+  "date_gmt": "2019-06-13T22:03:16",
+  "modified": "2025-07-07T20:34:50",
+  "modified_gmt": "2025-07-08T00:34:50",
+  "slug": "k2-32-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-32-e/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-32",
+    "pl_letter": "e",
+    "display_name": "K2-32 e",
+    "planet_radius": "1.212 x Earth",
+    "derived_description": "K2-32 e is a super Earth exoplanet that orbits a K-type star. Its mass is 2.1 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.04899 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 157.682,
+    "planet_mass": "2.1 Earths",
+    "st_optmag": 12.304,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.04899,
+    "period_display": "4.3 days",
+    "eccentricity": "0.04",
+    "star_id": 261283,
+    "pl_orbper": 4.34934,
+    "pl_kepflag": true,
+    "pl_radj": 0.10812758,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 205,
+    "multiple_planet_system": false,
+    "pl_rade": 1.212,
+    "exo_id": "K2-32_e",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.043
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245012",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261283"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

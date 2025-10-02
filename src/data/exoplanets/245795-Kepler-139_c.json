@@ -1,1 +1,79 @@
-{"id":245795,"date":"2016-03-16T19:26:22","date_gmt":"2016-03-16T23:26:22","modified":"2025-07-07T17:23:39","modified_gmt":"2025-07-07T21:23:39","slug":"kepler-139-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-139-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-139","pl_letter":"c","display_name":"Kepler-139 c","planet_radius":"3.38 x Earth","derived_description":"Kepler-139 c is a super Earth exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 157.1 days to complete one orbit of its star, and is 0.586 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":391.038,"planet_mass":"13 Earths","st_optmag":12.775,"discovery_date":"2014","pl_orbsmax":0.586,"period_display":"157.1 days","eccentricity":"0.0","star_id":262628,"pl_orbper":157.072878,"pl_kepflag":true,"pl_radj":0.302,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.38,"exo_id":"Kepler-139_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245795","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262628"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245795,
+  "date": "2016-03-16T19:26:22",
+  "date_gmt": "2016-03-16T23:26:22",
+  "modified": "2025-07-07T17:23:39",
+  "modified_gmt": "2025-07-07T21:23:39",
+  "slug": "kepler-139-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-139-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-139",
+    "pl_letter": "c",
+    "display_name": "Kepler-139 c",
+    "planet_radius": "3.38 x Earth",
+    "derived_description": "Kepler-139 c is a super Earth exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 157.1 days to complete one orbit of its star, and is 0.586 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 391.038,
+    "planet_mass": "13 Earths",
+    "st_optmag": 12.775,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.586,
+    "period_display": "157.1 days",
+    "eccentricity": "0.0",
+    "star_id": 262628,
+    "pl_orbper": 157.072878,
+    "pl_kepflag": true,
+    "pl_radj": 0.302,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.38,
+    "exo_id": "Kepler-139_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245795",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262628"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

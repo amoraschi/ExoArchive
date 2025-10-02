@@ -1,1 +1,71 @@
-{"id":263256,"date":"2023-11-28T21:01:22","date_gmt":"2023-11-29T02:01:22","modified":"2025-04-23T05:56:53","modified_gmt":"2025-04-23T09:56:53","slug":"hd_41004_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_41004_a/","featured_media":0,"categories":[],"acf":{"display_name":"HD 41004 A","custom_star_title":"","aliases":"","constellation":"Pictor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244436],"exo_id":"HD_41004_A","st_optmag":8.65,"st_vj":8.65,"st_dist":36.69117,"st_j":8.65,"st_mass":0.95,"dec":-48.2394189,"st_teff":5310,"st_rad":0.85,"ra":89.9566041,"system_radius":149597870,"pl_hostname":"HD_41004_A","stellar_type":"G","tic_id":"TIC 219152539","magnitude":8.65},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263256","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244436"}]}}
+{
+  "id": 263256,
+  "date": "2023-11-28T21:01:22",
+  "date_gmt": "2023-11-29T02:01:22",
+  "modified": "2025-04-23T05:56:53",
+  "modified_gmt": "2025-04-23T09:56:53",
+  "slug": "hd_41004_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_41004_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 41004 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pictor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244436
+    ],
+    "exo_id": "HD_41004_A",
+    "st_optmag": 8.65,
+    "st_vj": 8.65,
+    "st_dist": 36.69117,
+    "st_j": 8.65,
+    "st_mass": 0.95,
+    "dec": -48.2394189,
+    "st_teff": 5310,
+    "st_rad": 0.85,
+    "ra": 89.9566041,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_41004_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 219152539",
+    "magnitude": 8.65
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263256",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244436"
+      }
+    ]
+  }
+}

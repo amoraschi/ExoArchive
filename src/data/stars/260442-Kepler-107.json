@@ -1,1 +1,86 @@
-{"id":260442,"date":"2023-11-28T20:25:50","date_gmt":"2023-11-29T01:25:50","modified":"2025-04-23T05:54:29","modified_gmt":"2025-04-23T09:54:29","slug":"kepler-107","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-107/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-107","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245341,"1":245339,"2":245340,"3":245342},"exo_id":"Kepler-107","st_optmag":12.543,"st_vj":12.543,"st_dist":525.997,"st_j":12.543,"st_mass":1.238,"dec":48.2086019,"st_teff":5854,"st_rad":1.447,"ra":297.028162,"system_radius":18906178.8106,"pl_hostname":"Kepler-107","stellar_type":"G","tic_id":"TIC 27988327","magnitude":12.543},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260442","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245342"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245341"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245340"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245339"}]}}
+{
+  "id": 260442,
+  "date": "2023-11-28T20:25:50",
+  "date_gmt": "2023-11-29T01:25:50",
+  "modified": "2025-04-23T05:54:29",
+  "modified_gmt": "2025-04-23T09:54:29",
+  "slug": "kepler-107",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-107/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-107",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245341,
+      "1": 245339,
+      "2": 245340,
+      "3": 245342
+    },
+    "exo_id": "Kepler-107",
+    "st_optmag": 12.543,
+    "st_vj": 12.543,
+    "st_dist": 525.997,
+    "st_j": 12.543,
+    "st_mass": 1.238,
+    "dec": 48.2086019,
+    "st_teff": 5854,
+    "st_rad": 1.447,
+    "ra": 297.028162,
+    "system_radius": 18906178.8106,
+    "pl_hostname": "Kepler-107",
+    "stellar_type": "G",
+    "tic_id": "TIC 27988327",
+    "magnitude": 12.543
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260442",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245342"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245341"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245340"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245339"
+      }
+    ]
+  }
+}

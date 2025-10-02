@@ -1,1 +1,79 @@
-{"id":243595,"date":"2020-02-14T12:26:58","date_gmt":"2020-02-14T17:26:58","modified":"2025-06-25T12:06:25","modified_gmt":"2025-06-25T16:06:25","slug":"gj-1252-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-1252-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_1252","pl_letter":"b","display_name":"GJ 1252 b","planet_radius":"1.193 x Earth","derived_description":"GJ 1252 b is a super Earth exoplanet that orbits a M-type star. Its mass is 1.32 Earths, it takes 0.5 days to complete one orbit of its star, and is 0.00915 AU from its star. Its discovery was announced in 2020.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":20.373,"planet_mass":"1.32 Earths","st_optmag":12.68,"discovery_date":"2020","pl_orbsmax":0.00915,"period_display":"0.5 days","eccentricity":"0.0","star_id":260706,"pl_orbper":0.5182331,"pl_kepflag":false,"pl_radj":0.10643251,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":1.193,"exo_id":"GJ_1252_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243595","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260706"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 243595,
+  "date": "2020-02-14T12:26:58",
+  "date_gmt": "2020-02-14T17:26:58",
+  "modified": "2025-06-25T12:06:25",
+  "modified_gmt": "2025-06-25T16:06:25",
+  "slug": "gj-1252-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-1252-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_1252",
+    "pl_letter": "b",
+    "display_name": "GJ 1252 b",
+    "planet_radius": "1.193 x Earth",
+    "derived_description": "GJ 1252 b is a super Earth exoplanet that orbits a M-type star. Its mass is 1.32 Earths, it takes 0.5 days to complete one orbit of its star, and is 0.00915 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 20.373,
+    "planet_mass": "1.32 Earths",
+    "st_optmag": 12.68,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.00915,
+    "period_display": "0.5 days",
+    "eccentricity": "0.0",
+    "star_id": 260706,
+    "pl_orbper": 0.5182331,
+    "pl_kepflag": false,
+    "pl_radj": 0.10643251,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 1.193,
+    "exo_id": "GJ_1252_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243595",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260706"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

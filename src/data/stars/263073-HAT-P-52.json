@@ -1,1 +1,71 @@
-{"id":263073,"date":"2023-11-28T20:59:04","date_gmt":"2023-11-29T01:59:04","modified":"2025-04-23T05:53:34","modified_gmt":"2025-04-23T09:53:34","slug":"hat-p-52","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-52/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-52","custom_star_title":"","aliases":"","constellation":"Aries","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243770],"exo_id":"HAT-P-52","st_optmag":14.107,"st_vj":14.107,"st_dist":361.155,"st_j":14.107,"st_mass":0.887,"dec":29.0222492,"st_teff":5131,"st_rad":0.893,"ra":42.7217412,"system_radius":5526145.3178,"pl_hostname":"HAT-P-52","stellar_type":"K","tic_id":"TIC 436875934","magnitude":14.107},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263073","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243770"}]}}
+{
+  "id": 263073,
+  "date": "2023-11-28T20:59:04",
+  "date_gmt": "2023-11-29T01:59:04",
+  "modified": "2025-04-23T05:53:34",
+  "modified_gmt": "2025-04-23T09:53:34",
+  "slug": "hat-p-52",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-52/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-52",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aries",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243770
+    ],
+    "exo_id": "HAT-P-52",
+    "st_optmag": 14.107,
+    "st_vj": 14.107,
+    "st_dist": 361.155,
+    "st_j": 14.107,
+    "st_mass": 0.887,
+    "dec": 29.0222492,
+    "st_teff": 5131,
+    "st_rad": 0.893,
+    "ra": 42.7217412,
+    "system_radius": 5526145.3178,
+    "pl_hostname": "HAT-P-52",
+    "stellar_type": "K",
+    "tic_id": "TIC 436875934",
+    "magnitude": 14.107
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263073",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243770"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":401578,"date":"2024-06-13T20:50:30","date_gmt":"2024-06-14T00:50:30","modified":"2025-04-23T05:55:53","modified_gmt":"2025-04-23T09:55:53","slug":"ngts-27","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngts-27/","featured_media":0,"categories":[],"acf":{"display_name":"NGTS-27","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[401620],"exo_id":"NGTS-27","st_optmag":13.523,"st_vj":13.523,"st_dist":942.122,"st_j":13.523,"st_mass":1.07,"dec":-32.5229747,"st_teff":5700,"st_rad":1.77,"ra":206.0265266,"system_radius":6672065.002,"pl_hostname":"NGTS-27","stellar_type":"G","tic_id":"TIC 305739565","magnitude":13.523},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/401578","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401620"}]}}
+{
+  "id": 401578,
+  "date": "2024-06-13T20:50:30",
+  "date_gmt": "2024-06-14T00:50:30",
+  "modified": "2025-04-23T05:55:53",
+  "modified_gmt": "2025-04-23T09:55:53",
+  "slug": "ngts-27",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-27/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-27",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      401620
+    ],
+    "exo_id": "NGTS-27",
+    "st_optmag": 13.523,
+    "st_vj": 13.523,
+    "st_dist": 942.122,
+    "st_j": 13.523,
+    "st_mass": 1.07,
+    "dec": -32.5229747,
+    "st_teff": 5700,
+    "st_rad": 1.77,
+    "ra": 206.0265266,
+    "system_radius": 6672065.002,
+    "pl_hostname": "NGTS-27",
+    "stellar_type": "G",
+    "tic_id": "TIC 305739565",
+    "magnitude": 13.523
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401578",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401620"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262106,"date":"2023-11-28T20:46:47","date_gmt":"2023-11-29T01:46:47","modified":"2025-04-23T05:55:29","modified_gmt":"2025-04-23T09:55:29","slug":"ogle-2018-blg-1269l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2018-blg-1269l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2018-BLG-1269L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248310],"exo_id":"OGLE-2018-BLG-1269L","st_optmag":"","st_vj":"","st_dist":2510,"st_j":"","st_mass":1.11,"dec":-27.6179444,"st_teff":"","st_rad":"","ra":269.693417,"system_radius":674686393.7,"pl_hostname":"OGLE-2018-BLG-1269L","stellar_type":"Unknown","tic_id":"","magnitude":17.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262106","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248310"}]}}
+{
+  "id": 262106,
+  "date": "2023-11-28T20:46:47",
+  "date_gmt": "2023-11-29T01:46:47",
+  "modified": "2025-04-23T05:55:29",
+  "modified_gmt": "2025-04-23T09:55:29",
+  "slug": "ogle-2018-blg-1269l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2018-blg-1269l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2018-BLG-1269L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248310
+    ],
+    "exo_id": "OGLE-2018-BLG-1269L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 2510,
+    "st_j": "",
+    "st_mass": 1.11,
+    "dec": -27.6179444,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.693417,
+    "system_radius": 674686393.7,
+    "pl_hostname": "OGLE-2018-BLG-1269L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 17.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262106",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248310"
+      }
+    ]
+  }
+}

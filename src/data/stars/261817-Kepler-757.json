@@ -1,1 +1,71 @@
-{"id":261817,"date":"2023-11-28T20:43:05","date_gmt":"2023-11-29T01:43:05","modified":"2025-04-23T05:54:16","modified_gmt":"2025-04-23T09:54:16","slug":"kepler-757","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-757/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-757","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247671],"exo_id":"Kepler-757","st_optmag":15.066,"st_vj":15.066,"st_dist":1068.68,"st_j":15.066,"st_mass":1.08,"dec":41.3865279,"st_teff":6014,"st_rad":1.13,"ra":296.6804876,"system_radius":2842359.53,"pl_hostname":"Kepler-757","stellar_type":"F","tic_id":"TIC 360022783","magnitude":15.066},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261817","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247671"}]}}
+{
+  "id": 261817,
+  "date": "2023-11-28T20:43:05",
+  "date_gmt": "2023-11-29T01:43:05",
+  "modified": "2025-04-23T05:54:16",
+  "modified_gmt": "2025-04-23T09:54:16",
+  "slug": "kepler-757",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-757/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-757",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247671
+    ],
+    "exo_id": "Kepler-757",
+    "st_optmag": 15.066,
+    "st_vj": 15.066,
+    "st_dist": 1068.68,
+    "st_j": 15.066,
+    "st_mass": 1.08,
+    "dec": 41.3865279,
+    "st_teff": 6014,
+    "st_rad": 1.13,
+    "ra": 296.6804876,
+    "system_radius": 2842359.53,
+    "pl_hostname": "Kepler-757",
+    "stellar_type": "F",
+    "tic_id": "TIC 360022783",
+    "magnitude": 15.066
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261817",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247671"
+      }
+    ]
+  }
+}

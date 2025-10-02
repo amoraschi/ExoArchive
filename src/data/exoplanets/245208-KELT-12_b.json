@@ -1,1 +1,79 @@
-{"id":245208,"date":"2017-05-02T16:06:59","date_gmt":"2017-05-02T20:06:59","modified":"2025-03-28T07:26:27","modified_gmt":"2025-03-28T11:26:27","slug":"kelt-12-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kelt-12-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KELT-12","pl_letter":"b","display_name":"KELT-12 b","planet_radius":"1.78 x Jupiter","derived_description":"KELT-12 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.95 Jupiters, it takes 5 days to complete one orbit of its star, and is 0.06708 AU from its star. Its discovery was announced in 2017.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"KELT-North","st_dist":368.03,"planet_mass":"0.95 Jupiters","st_optmag":10.585,"discovery_date":"2017","pl_orbsmax":0.06708,"period_display":"5 days","eccentricity":"0.0","star_id":260492,"pl_orbper":5.031623,"pl_kepflag":false,"pl_radj":1.78,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":19.95202,"exo_id":"KELT-12_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245208","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260492"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 245208,
+  "date": "2017-05-02T16:06:59",
+  "date_gmt": "2017-05-02T20:06:59",
+  "modified": "2025-03-28T07:26:27",
+  "modified_gmt": "2025-03-28T11:26:27",
+  "slug": "kelt-12-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kelt-12-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KELT-12",
+    "pl_letter": "b",
+    "display_name": "KELT-12 b",
+    "planet_radius": "1.78 x Jupiter",
+    "derived_description": "KELT-12 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.95 Jupiters, it takes 5 days to complete one orbit of its star, and is 0.06708 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "KELT-North",
+    "st_dist": 368.03,
+    "planet_mass": "0.95 Jupiters",
+    "st_optmag": 10.585,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.06708,
+    "period_display": "5 days",
+    "eccentricity": "0.0",
+    "star_id": 260492,
+    "pl_orbper": 5.031623,
+    "pl_kepflag": false,
+    "pl_radj": 1.78,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 19.95202,
+    "exo_id": "KELT-12_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245208",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260492"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

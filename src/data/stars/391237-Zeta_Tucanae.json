@@ -1,1 +1,69 @@
-{"id":391237,"date":"2024-04-30T20:01:21","date_gmt":"2024-05-01T00:01:21","modified":"2025-04-23T05:57:31","modified_gmt":"2025-04-23T09:57:31","slug":"zeta-tucanae","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/zeta-tucanae/","featured_media":429648,"categories":[],"acf":{"display_name":"Zeta Tucanae","custom_star_title":"","aliases":"HD 1581,HR 77,GJ 17","constellation":"Tucana","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Zeta_Tucanae","st_optmag":4.223,"st_vj":4.223,"st_dist":8.6071,"st_j":4.223,"st_mass":1.11,"dec":-64.8747937,"st_teff":5932,"st_rad":1.063,"ra":5.0177443,"system_radius":149597870,"pl_hostname":"Zeta_Tucanae","stellar_type":"G","tic_id":"TIC 425935521","magnitude":4.2},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391237","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391237,
+  "date": "2024-04-30T20:01:21",
+  "date_gmt": "2024-05-01T00:01:21",
+  "modified": "2025-04-23T05:57:31",
+  "modified_gmt": "2025-04-23T09:57:31",
+  "slug": "zeta-tucanae",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/zeta-tucanae/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Zeta Tucanae",
+    "custom_star_title": "",
+    "aliases": "HD 1581,HR 77,GJ 17",
+    "constellation": "Tucana",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Zeta_Tucanae",
+    "st_optmag": 4.223,
+    "st_vj": 4.223,
+    "st_dist": 8.6071,
+    "st_j": 4.223,
+    "st_mass": 1.11,
+    "dec": -64.8747937,
+    "st_teff": 5932,
+    "st_rad": 1.063,
+    "ra": 5.0177443,
+    "system_radius": 149597870,
+    "pl_hostname": "Zeta_Tucanae",
+    "stellar_type": "G",
+    "tic_id": "TIC 425935521",
+    "magnitude": 4.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391237",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

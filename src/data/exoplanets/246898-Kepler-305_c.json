@@ -1,1 +1,79 @@
-{"id":246898,"date":"2017-10-02T13:32:57","date_gmt":"2017-10-02T17:32:57","modified":"2025-06-25T12:07:10","modified_gmt":"2025-06-25T16:07:10","slug":"kepler-305-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-305-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-305","pl_letter":"c","display_name":"Kepler-305 c","planet_radius":"0.294 x Jupiter","derived_description":"Kepler-305 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6 Earths, it takes 8.3 days to complete one orbit of its star, and is 0.07568 AU from its star. Its discovery was announced in 2013.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":868.477,"planet_mass":"6 Earths","st_optmag":15.851,"discovery_date":"2013","pl_orbsmax":0.07568,"period_display":"8.3 days","eccentricity":"0.0","star_id":261216,"pl_orbper":8.291,"pl_kepflag":true,"pl_radj":0.294,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.3,"exo_id":"Kepler-305_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246898","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261216"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246898,
+  "date": "2017-10-02T13:32:57",
+  "date_gmt": "2017-10-02T17:32:57",
+  "modified": "2025-06-25T12:07:10",
+  "modified_gmt": "2025-06-25T16:07:10",
+  "slug": "kepler-305-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-305-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-305",
+    "pl_letter": "c",
+    "display_name": "Kepler-305 c",
+    "planet_radius": "0.294 x Jupiter",
+    "derived_description": "Kepler-305 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6 Earths, it takes 8.3 days to complete one orbit of its star, and is 0.07568 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 868.477,
+    "planet_mass": "6 Earths",
+    "st_optmag": 15.851,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.07568,
+    "period_display": "8.3 days",
+    "eccentricity": "0.0",
+    "star_id": 261216,
+    "pl_orbper": 8.291,
+    "pl_kepflag": true,
+    "pl_radj": 0.294,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.3,
+    "exo_id": "Kepler-305_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246898",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261216"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

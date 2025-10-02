@@ -1,1 +1,71 @@
-{"id":263610,"date":"2023-11-28T21:05:52","date_gmt":"2023-11-29T02:05:52","modified":"2025-04-23T05:57:00","modified_gmt":"2025-04-23T09:57:00","slug":"kmt-2016-blg-1836l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2016-blg-1836l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2016-BLG-1836L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248030],"exo_id":"KMT-2016-BLG-1836L","st_optmag":"","st_vj":"","st_dist":7100,"st_j":"","st_mass":0.49,"dec":-30.04075,"st_teff":"","st_rad":"","ra":268.250333,"system_radius":523592545,"pl_hostname":"KMT-2016-BLG-1836L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263610","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248030"}]}}
+{
+  "id": 263610,
+  "date": "2023-11-28T21:05:52",
+  "date_gmt": "2023-11-29T02:05:52",
+  "modified": "2025-04-23T05:57:00",
+  "modified_gmt": "2025-04-23T09:57:00",
+  "slug": "kmt-2016-blg-1836l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2016-blg-1836l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2016-BLG-1836L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248030
+    ],
+    "exo_id": "KMT-2016-BLG-1836L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7100,
+    "st_j": "",
+    "st_mass": 0.49,
+    "dec": -30.04075,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.250333,
+    "system_radius": 523592545,
+    "pl_hostname": "KMT-2016-BLG-1836L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263610",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248030"
+      }
+    ]
+  }
+}

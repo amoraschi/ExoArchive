@@ -1,1 +1,71 @@
-{"id":264232,"date":"2023-11-28T21:13:55","date_gmt":"2023-11-29T02:13:55","modified":"2025-04-23T05:57:17","modified_gmt":"2025-04-23T09:57:17","slug":"kmt-2018-blg-1996l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2018-blg-1996l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2018-BLG-1996L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248054],"exo_id":"KMT-2018-BLG-1996L","st_optmag":"","st_vj":"","st_dist":5910,"st_j":"","st_mass":0.69,"dec":-22.8204111,"st_teff":"","st_rad":"","ra":268.6785,"system_radius":638782904.9,"pl_hostname":"KMT-2018-BLG-1996L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264232","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248054"}]}}
+{
+  "id": 264232,
+  "date": "2023-11-28T21:13:55",
+  "date_gmt": "2023-11-29T02:13:55",
+  "modified": "2025-04-23T05:57:17",
+  "modified_gmt": "2025-04-23T09:57:17",
+  "slug": "kmt-2018-blg-1996l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2018-blg-1996l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2018-BLG-1996L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248054
+    ],
+    "exo_id": "KMT-2018-BLG-1996L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5910,
+    "st_j": "",
+    "st_mass": 0.69,
+    "dec": -22.8204111,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.6785,
+    "system_radius": 638782904.9,
+    "pl_hostname": "KMT-2018-BLG-1996L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264232",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248054"
+      }
+    ]
+  }
+}

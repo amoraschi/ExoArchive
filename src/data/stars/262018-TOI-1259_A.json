@@ -1,1 +1,71 @@
-{"id":262018,"date":"2023-11-28T20:45:39","date_gmt":"2023-11-29T01:45:39","modified":"2025-04-23T05:56:10","modified_gmt":"2025-04-23T09:56:10","slug":"toi-1259_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1259_a/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1259 A","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248426],"exo_id":"TOI-1259_A","st_optmag":12.079,"st_vj":12.079,"st_dist":118.106,"st_j":12.079,"st_mass":0.744,"dec":79.2564761,"st_teff":4775,"st_rad":0.711,"ra":282.1001665,"system_radius":6088633.309,"pl_hostname":"TOI-1259_A","stellar_type":"K","tic_id":"TIC 288735205","magnitude":12.079},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262018","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248426"}]}}
+{
+  "id": 262018,
+  "date": "2023-11-28T20:45:39",
+  "date_gmt": "2023-11-29T01:45:39",
+  "modified": "2025-04-23T05:56:10",
+  "modified_gmt": "2025-04-23T09:56:10",
+  "slug": "toi-1259_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1259_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1259 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248426
+    ],
+    "exo_id": "TOI-1259_A",
+    "st_optmag": 12.079,
+    "st_vj": 12.079,
+    "st_dist": 118.106,
+    "st_j": 12.079,
+    "st_mass": 0.744,
+    "dec": 79.2564761,
+    "st_teff": 4775,
+    "st_rad": 0.711,
+    "ra": 282.1001665,
+    "system_radius": 6088633.309,
+    "pl_hostname": "TOI-1259_A",
+    "stellar_type": "K",
+    "tic_id": "TIC 288735205",
+    "magnitude": 12.079
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262018",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248426"
+      }
+    ]
+  }
+}

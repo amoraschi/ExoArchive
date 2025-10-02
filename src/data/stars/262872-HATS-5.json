@@ -1,1 +1,71 @@
-{"id":262872,"date":"2023-11-28T20:56:32","date_gmt":"2023-11-29T01:56:32","modified":"2025-04-23T05:56:00","modified_gmt":"2025-04-23T09:56:00","slug":"hats-5","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-5/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-5","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243846],"exo_id":"HATS-5","st_optmag":12.598,"st_vj":12.598,"st_dist":246.384,"st_j":12.598,"st_mass":0.936,"dec":-21.4820568,"st_teff":5304,"st_rad":0.871,"ra":67.2228465,"system_radius":8108204.554,"pl_hostname":"HATS-5","stellar_type":"K","tic_id":"TIC 139733308","magnitude":12.598},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262872","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243846"}]}}
+{
+  "id": 262872,
+  "date": "2023-11-28T20:56:32",
+  "date_gmt": "2023-11-29T01:56:32",
+  "modified": "2025-04-23T05:56:00",
+  "modified_gmt": "2025-04-23T09:56:00",
+  "slug": "hats-5",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-5/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-5",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243846
+    ],
+    "exo_id": "HATS-5",
+    "st_optmag": 12.598,
+    "st_vj": 12.598,
+    "st_dist": 246.384,
+    "st_j": 12.598,
+    "st_mass": 0.936,
+    "dec": -21.4820568,
+    "st_teff": 5304,
+    "st_rad": 0.871,
+    "ra": 67.2228465,
+    "system_radius": 8108204.554,
+    "pl_hostname": "HATS-5",
+    "stellar_type": "K",
+    "tic_id": "TIC 139733308",
+    "magnitude": 12.598
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262872",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243846"
+      }
+    ]
+  }
+}

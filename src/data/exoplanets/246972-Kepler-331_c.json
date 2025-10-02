@@ -1,1 +1,79 @@
-{"id":246972,"date":"2017-10-02T13:33:01","date_gmt":"2017-10-02T17:33:01","modified":"2025-06-25T12:04:56","modified_gmt":"2025-06-25T16:04:56","slug":"kepler-331-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-331-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-331","pl_letter":"c","display_name":"Kepler-331 c","planet_radius":"1.84 x Earth","derived_description":"Kepler-331 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.04 Earths, it takes 17.3 days to complete one orbit of its star, and is 0.105 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":580.119,"planet_mass":"4.04 Earths","st_optmag":16.199,"discovery_date":"2014","pl_orbsmax":0.105,"period_display":"17.3 days","eccentricity":"0.0","star_id":263458,"pl_orbper":17.28111,"pl_kepflag":true,"pl_radj":0.164,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.84,"exo_id":"Kepler-331_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246972","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263458"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246972,
+  "date": "2017-10-02T13:33:01",
+  "date_gmt": "2017-10-02T17:33:01",
+  "modified": "2025-06-25T12:04:56",
+  "modified_gmt": "2025-06-25T16:04:56",
+  "slug": "kepler-331-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-331-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-331",
+    "pl_letter": "c",
+    "display_name": "Kepler-331 c",
+    "planet_radius": "1.84 x Earth",
+    "derived_description": "Kepler-331 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.04 Earths, it takes 17.3 days to complete one orbit of its star, and is 0.105 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 580.119,
+    "planet_mass": "4.04 Earths",
+    "st_optmag": 16.199,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.105,
+    "period_display": "17.3 days",
+    "eccentricity": "0.0",
+    "star_id": 263458,
+    "pl_orbper": 17.28111,
+    "pl_kepflag": true,
+    "pl_radj": 0.164,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.84,
+    "exo_id": "Kepler-331_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246972",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263458"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

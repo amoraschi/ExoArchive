@@ -1,1 +1,97 @@
-{"id":262336,"date":"2023-11-28T20:49:41","date_gmt":"2023-11-29T01:49:41","modified":"2025-09-28T22:55:08","modified_gmt":"2025-09-29T02:55:08","slug":"55_cnc","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/55_cnc/","featured_media":429649,"categories":[],"acf":{"display_name":"Copernicus","custom_star_title":"55 Cancri","aliases":"55 Cancri,HD 75732 A,HR 3522 A,GJ 324A","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243412,243413,243414,243415,243416],"exo_id":"55_Cnc","st_optmag":5.96,"st_vj":5.96,"st_dist":12.5868,"st_j":5.96,"st_mass":0.95,"dec":28.3308208,"st_teff":5292,"st_rad":0.948,"ra":133.1492129,"system_radius":891154511.59,"pl_hostname":"55_Cnc","stellar_type":"K","tic_id":"TIC 332064670","magnitude":6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262336","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243416"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243415"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243414"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243413"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243412"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 262336,
+  "date": "2023-11-28T20:49:41",
+  "date_gmt": "2023-11-29T01:49:41",
+  "modified": "2025-09-30T22:59:04",
+  "modified_gmt": "2025-10-01T02:59:04",
+  "slug": "55_cnc",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/55_cnc/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Copernicus",
+    "custom_star_title": "55 Cancri",
+    "aliases": "55 Cancri,HD 75732 A,HR 3522 A,GJ 324A",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243412,
+      243413,
+      243414,
+      243415,
+      243416
+    ],
+    "exo_id": "55_Cnc",
+    "st_optmag": 5.96,
+    "st_vj": 5.96,
+    "st_dist": 12.5868,
+    "st_j": 5.96,
+    "st_mass": 0.95,
+    "dec": 28.3308208,
+    "st_teff": 5292,
+    "st_rad": 0.948,
+    "ra": 133.1492129,
+    "system_radius": 891154511.59,
+    "pl_hostname": "55_Cnc",
+    "stellar_type": "K",
+    "tic_id": "TIC 332064670",
+    "magnitude": 6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262336",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243416"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243415"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243414"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243413"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243412"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

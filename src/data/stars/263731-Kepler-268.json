@@ -1,1 +1,76 @@
-{"id":263731,"date":"2023-11-28T21:07:25","date_gmt":"2023-11-29T02:07:25","modified":"2025-04-23T05:54:32","modified_gmt":"2025-04-23T09:54:32","slug":"kepler-268","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-268/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-268","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246810,246811],"exo_id":"Kepler-268","st_optmag":13.844,"st_vj":13.844,"st_dist":851.87,"st_j":13.844,"st_mass":1.109,"dec":38.0550327,"st_teff":6081,"st_rad":1.274,"ra":291.9761559,"system_radius":58492767.17,"pl_hostname":"Kepler-268","stellar_type":"F","tic_id":"TIC 137348987","magnitude":13.844},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263731","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246811"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246810"}]}}
+{
+  "id": 263731,
+  "date": "2023-11-28T21:07:25",
+  "date_gmt": "2023-11-29T02:07:25",
+  "modified": "2025-04-23T05:54:32",
+  "modified_gmt": "2025-04-23T09:54:32",
+  "slug": "kepler-268",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-268/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-268",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246810,
+      246811
+    ],
+    "exo_id": "Kepler-268",
+    "st_optmag": 13.844,
+    "st_vj": 13.844,
+    "st_dist": 851.87,
+    "st_j": 13.844,
+    "st_mass": 1.109,
+    "dec": 38.0550327,
+    "st_teff": 6081,
+    "st_rad": 1.274,
+    "ra": 291.9761559,
+    "system_radius": 58492767.17,
+    "pl_hostname": "Kepler-268",
+    "stellar_type": "F",
+    "tic_id": "TIC 137348987",
+    "magnitude": 13.844
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263731",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246811"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246810"
+      }
+    ]
+  }
+}

@@ -1,1 +1,77 @@
-{"id":477272,"date":"2025-02-28T03:03:43","date_gmt":"2025-02-28T08:03:43","modified":"2025-04-23T05:55:40","modified_gmt":"2025-04-23T09:55:40","slug":"gl-725-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gl-725-a/","featured_media":429650,"categories":[],"acf":{"display_name":"Gl 725 A","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[477290],"exo_id":"Gl_725_A","st_optmag":8.94,"st_vj":8.94,"st_dist":3.5214,"st_j":8.94,"st_mass":0.33,"dec":59.638109,"st_teff":3433,"st_rad":0.351,"ra":280.6834312,"system_radius":10172655.16,"pl_hostname":"Gl_725_A","stellar_type":"M","tic_id":"TIC 359676790","magnitude":8.94},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/477272","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/477290"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429650"}]}}
+{
+  "id": 477272,
+  "date": "2025-02-28T03:03:43",
+  "date_gmt": "2025-02-28T08:03:43",
+  "modified": "2025-04-23T05:55:40",
+  "modified_gmt": "2025-04-23T09:55:40",
+  "slug": "gl-725-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gl-725-a/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "Gl 725 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      477290
+    ],
+    "exo_id": "Gl_725_A",
+    "st_optmag": 8.94,
+    "st_vj": 8.94,
+    "st_dist": 3.5214,
+    "st_j": 8.94,
+    "st_mass": 0.33,
+    "dec": 59.638109,
+    "st_teff": 3433,
+    "st_rad": 0.351,
+    "ra": 280.6834312,
+    "system_radius": 10172655.16,
+    "pl_hostname": "Gl_725_A",
+    "stellar_type": "M",
+    "tic_id": "TIC 359676790",
+    "magnitude": 8.94
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/477272",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/477290"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

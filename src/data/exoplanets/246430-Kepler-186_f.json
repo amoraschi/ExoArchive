@@ -1,1 +1,79 @@
-{"id":246430,"date":"2016-03-16T19:26:16","date_gmt":"2016-03-16T23:26:16","modified":"2025-06-25T12:05:42","modified_gmt":"2025-06-25T16:05:42","slug":"kepler-186-f","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-186-f/","featured_media":317083,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-186","pl_letter":"f","display_name":"Kepler-186 f","planet_radius":"1.17 x Earth","derived_description":"Kepler-186 f is a super Earth exoplanet that orbits a M-type star. Its mass is 1.71 Earths, it takes 129.9 days to complete one orbit of its star, and is 0.432 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":177.594,"planet_mass":"1.71 Earths","st_optmag":15.138,"discovery_date":"2014","pl_orbsmax":0.432,"period_display":"129.9 days","eccentricity":"0.04","star_id":261464,"pl_orbper":129.9441,"pl_kepflag":true,"pl_radj":0.104,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.17,"exo_id":"Kepler-186_f","planet_size_class":"super-Terrestrial","pl_eccenlim":-1,"pl_orbeccen":0.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246430","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261464"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/317083"}]}}
+{
+  "id": 246430,
+  "date": "2016-03-16T19:26:16",
+  "date_gmt": "2016-03-16T23:26:16",
+  "modified": "2025-06-25T12:05:42",
+  "modified_gmt": "2025-06-25T16:05:42",
+  "slug": "kepler-186-f",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-186-f/",
+  "featured_media": 317083,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-186",
+    "pl_letter": "f",
+    "display_name": "Kepler-186 f",
+    "planet_radius": "1.17 x Earth",
+    "derived_description": "Kepler-186 f is a super Earth exoplanet that orbits a M-type star. Its mass is 1.71 Earths, it takes 129.9 days to complete one orbit of its star, and is 0.432 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 177.594,
+    "planet_mass": "1.71 Earths",
+    "st_optmag": 15.138,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.432,
+    "period_display": "129.9 days",
+    "eccentricity": "0.04",
+    "star_id": 261464,
+    "pl_orbper": 129.9441,
+    "pl_kepflag": true,
+    "pl_radj": 0.104,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.17,
+    "exo_id": "Kepler-186_f",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": -1,
+    "pl_orbeccen": 0.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246430",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261464"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/317083"
+      }
+    ]
+  }
+}

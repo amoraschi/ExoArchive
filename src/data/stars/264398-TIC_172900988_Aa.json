@@ -1,1 +1,71 @@
-{"id":264398,"date":"2023-11-28T21:16:02","date_gmt":"2023-11-29T02:16:02","modified":"2025-04-23T05:53:35","modified_gmt":"2025-04-23T09:53:35","slug":"tic_172900988_aa","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tic_172900988_aa/","featured_media":0,"categories":[],"acf":{"display_name":"TIC 172900988 Aa","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"A newly discovered planet about as big around as Jupiter belongs to a system that’s a stunner. The new planet orbits two stars and, viewed from Earth, crosses the faces of both. That means this system puts on quite a show!","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248394],"exo_id":"TIC_172900988_Aa","st_optmag":10.141,"st_vj":10.141,"st_dist":250.956,"st_j":10.141,"st_mass":1.2384,"dec":31.5539793,"st_teff":6050,"st_rad":1.3842,"ra":128.6616644,"system_radius":135058453.0147,"pl_hostname":"TIC_172900988_Aa","stellar_type":"F","tic_id":"TIC 172900988","magnitude":10.141},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264398","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248394"}]}}
+{
+  "id": 264398,
+  "date": "2023-11-28T21:16:02",
+  "date_gmt": "2023-11-29T02:16:02",
+  "modified": "2025-04-23T05:53:35",
+  "modified_gmt": "2025-04-23T09:53:35",
+  "slug": "tic_172900988_aa",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic_172900988_aa/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 172900988 Aa",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "A newly discovered planet about as big around as Jupiter belongs to a system that’s a stunner. The new planet orbits two stars and, viewed from Earth, crosses the faces of both. That means this system puts on quite a show!",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248394
+    ],
+    "exo_id": "TIC_172900988_Aa",
+    "st_optmag": 10.141,
+    "st_vj": 10.141,
+    "st_dist": 250.956,
+    "st_j": 10.141,
+    "st_mass": 1.2384,
+    "dec": 31.5539793,
+    "st_teff": 6050,
+    "st_rad": 1.3842,
+    "ra": 128.6616644,
+    "system_radius": 135058453.0147,
+    "pl_hostname": "TIC_172900988_Aa",
+    "stellar_type": "F",
+    "tic_id": "TIC 172900988",
+    "magnitude": 10.141
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264398",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248394"
+      }
+    ]
+  }
+}

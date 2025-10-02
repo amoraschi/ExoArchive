@@ -1,1 +1,71 @@
-{"id":264097,"date":"2023-11-28T21:12:10","date_gmt":"2023-11-29T02:12:10","modified":"2025-04-23T05:56:46","modified_gmt":"2025-04-23T09:56:46","slug":"kepler-697","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-697/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-697","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247600],"exo_id":"Kepler-697","st_optmag":15.888,"st_vj":15.888,"st_dist":1277.33,"st_j":15.888,"st_mass":0.92,"dec":41.3463859,"st_teff":5513,"st_rad":0.88,"ra":283.8643937,"system_radius":7046059.677,"pl_hostname":"Kepler-697","stellar_type":"G","tic_id":"TIC 120042965","magnitude":15.888},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264097","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247600"}]}}
+{
+  "id": 264097,
+  "date": "2023-11-28T21:12:10",
+  "date_gmt": "2023-11-29T02:12:10",
+  "modified": "2025-04-23T05:56:46",
+  "modified_gmt": "2025-04-23T09:56:46",
+  "slug": "kepler-697",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-697/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-697",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247600
+    ],
+    "exo_id": "Kepler-697",
+    "st_optmag": 15.888,
+    "st_vj": 15.888,
+    "st_dist": 1277.33,
+    "st_j": 15.888,
+    "st_mass": 0.92,
+    "dec": 41.3463859,
+    "st_teff": 5513,
+    "st_rad": 0.88,
+    "ra": 283.8643937,
+    "system_radius": 7046059.677,
+    "pl_hostname": "Kepler-697",
+    "stellar_type": "G",
+    "tic_id": "TIC 120042965",
+    "magnitude": 15.888
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264097",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247600"
+      }
+    ]
+  }
+}

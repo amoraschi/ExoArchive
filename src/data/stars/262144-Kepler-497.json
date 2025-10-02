@@ -1,1 +1,71 @@
-{"id":262144,"date":"2023-11-28T20:47:16","date_gmt":"2023-11-29T01:47:16","modified":"2025-04-23T05:57:09","modified_gmt":"2025-04-23T09:57:09","slug":"kepler-497","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-497/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-497","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247307],"exo_id":"Kepler-497","st_optmag":14.95,"st_vj":14.95,"st_dist":1291.98,"st_j":14.95,"st_mass":1.09,"dec":38.9279468,"st_teff":5834,"st_rad":1.11,"ra":290.7659557,"system_radius":6836622.659,"pl_hostname":"Kepler-497","stellar_type":"G","tic_id":"TIC 122605766","magnitude":14.95},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262144","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247307"}]}}
+{
+  "id": 262144,
+  "date": "2023-11-28T20:47:16",
+  "date_gmt": "2023-11-29T01:47:16",
+  "modified": "2025-04-23T05:57:09",
+  "modified_gmt": "2025-04-23T09:57:09",
+  "slug": "kepler-497",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-497/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-497",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247307
+    ],
+    "exo_id": "Kepler-497",
+    "st_optmag": 14.95,
+    "st_vj": 14.95,
+    "st_dist": 1291.98,
+    "st_j": 14.95,
+    "st_mass": 1.09,
+    "dec": 38.9279468,
+    "st_teff": 5834,
+    "st_rad": 1.11,
+    "ra": 290.7659557,
+    "system_radius": 6836622.659,
+    "pl_hostname": "Kepler-497",
+    "stellar_type": "G",
+    "tic_id": "TIC 122605766",
+    "magnitude": 14.95
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262144",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247307"
+      }
+    ]
+  }
+}

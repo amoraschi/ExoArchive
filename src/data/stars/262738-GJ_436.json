@@ -1,1 +1,71 @@
-{"id":262738,"date":"2023-11-28T20:54:48","date_gmt":"2023-11-29T01:54:48","modified":"2025-04-23T05:54:09","modified_gmt":"2025-04-23T09:54:09","slug":"gj_436","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_436/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 436","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243665],"exo_id":"GJ_436","st_optmag":10.67,"st_vj":10.67,"st_dist":9.75321,"st_j":10.67,"st_mass":0.47,"dec":26.7030669,"st_teff":3586.11,"st_rad":0.455,"ra":175.5505363,"system_radius":4353298.017,"pl_hostname":"GJ_436","stellar_type":"M","tic_id":"TIC 138819293","magnitude":10.67},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262738","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243665"}]}}
+{
+  "id": 262738,
+  "date": "2023-11-28T20:54:48",
+  "date_gmt": "2023-11-29T01:54:48",
+  "modified": "2025-04-23T05:54:09",
+  "modified_gmt": "2025-04-23T09:54:09",
+  "slug": "gj_436",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_436/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 436",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243665
+    ],
+    "exo_id": "GJ_436",
+    "st_optmag": 10.67,
+    "st_vj": 10.67,
+    "st_dist": 9.75321,
+    "st_j": 10.67,
+    "st_mass": 0.47,
+    "dec": 26.7030669,
+    "st_teff": 3586.11,
+    "st_rad": 0.455,
+    "ra": 175.5505363,
+    "system_radius": 4353298.017,
+    "pl_hostname": "GJ_436",
+    "stellar_type": "M",
+    "tic_id": "TIC 138819293",
+    "magnitude": 10.67
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262738",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243665"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243480,"date":"2017-10-02T13:32:42","date_gmt":"2017-10-02T17:32:42","modified":"2024-10-24T16:57:21","modified_gmt":"2024-10-24T20:57:21","slug":"corot-17-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/corot-17-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"CoRoT-17","pl_letter":"b","display_name":"CoRoT-17 b","planet_radius":"1.02 x Jupiter","derived_description":"CoRoT-17 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.43 Jupiters, it takes 3.8 days to complete one orbit of its star, and is 0.0461 AU from its star. Its discovery was announced in 2011.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"CoRoT","st_dist":1176.12,"planet_mass":"2.43 Jupiters","st_optmag":16.29,"discovery_date":"2011","pl_orbsmax":0.0461,"period_display":"3.8 days","eccentricity":"0.0","star_id":263700,"pl_orbper":3.7681,"pl_kepflag":false,"pl_radj":1.02,"pl_disc":2011,"pl_publ_date":"2011","planet_orbit_period":0,"multiple_planet_system":false,"pl_rade":11.43,"exo_id":"CoRoT-17_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243480","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263700"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243480,
+  "date": "2017-10-02T13:32:42",
+  "date_gmt": "2017-10-02T17:32:42",
+  "modified": "2024-10-24T16:57:21",
+  "modified_gmt": "2024-10-24T20:57:21",
+  "slug": "corot-17-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/corot-17-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "CoRoT-17",
+    "pl_letter": "b",
+    "display_name": "CoRoT-17 b",
+    "planet_radius": "1.02 x Jupiter",
+    "derived_description": "CoRoT-17 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.43 Jupiters, it takes 3.8 days to complete one orbit of its star, and is 0.0461 AU from its star. Its discovery was announced in 2011.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "CoRoT",
+    "st_dist": 1176.12,
+    "planet_mass": "2.43 Jupiters",
+    "st_optmag": 16.29,
+    "discovery_date": "2011",
+    "pl_orbsmax": 0.0461,
+    "period_display": "3.8 days",
+    "eccentricity": "0.0",
+    "star_id": 263700,
+    "pl_orbper": 3.7681,
+    "pl_kepflag": false,
+    "pl_radj": 1.02,
+    "pl_disc": 2011,
+    "pl_publ_date": "2011",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 11.43,
+    "exo_id": "CoRoT-17_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243480",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263700"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

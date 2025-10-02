@@ -1,1 +1,79 @@
-{"id":243818,"date":"2016-12-03T12:25:41","date_gmt":"2016-12-03T17:25:41","modified":"2025-07-07T20:32:11","modified_gmt":"2025-07-08T00:32:11","slug":"hats-35-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-35-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-35","pl_letter":"b","display_name":"HATS-35 b","planet_radius":"1.464 x Jupiter","derived_description":"HATS-35 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.222 Jupiters, it takes 1.8 days to complete one orbit of its star, and is 0.03199 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":514.555,"planet_mass":"1.222 Jupiters","st_optmag":12.609,"discovery_date":"2016","pl_orbsmax":0.03199,"period_display":"1.8 days","eccentricity":"< 0.306","star_id":261713,"pl_orbper":1.8209993,"pl_kepflag":false,"pl_radj":1.464,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":16.409976,"exo_id":"HATS-35_b","planet_size_class":"Jovian","pl_eccenlim":0.306,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243818","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261713"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243818,
+  "date": "2016-12-03T12:25:41",
+  "date_gmt": "2016-12-03T17:25:41",
+  "modified": "2025-07-07T20:32:11",
+  "modified_gmt": "2025-07-08T00:32:11",
+  "slug": "hats-35-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-35-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-35",
+    "pl_letter": "b",
+    "display_name": "HATS-35 b",
+    "planet_radius": "1.464 x Jupiter",
+    "derived_description": "HATS-35 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.222 Jupiters, it takes 1.8 days to complete one orbit of its star, and is 0.03199 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 514.555,
+    "planet_mass": "1.222 Jupiters",
+    "st_optmag": 12.609,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.03199,
+    "period_display": "1.8 days",
+    "eccentricity": "< 0.306",
+    "star_id": 261713,
+    "pl_orbper": 1.8209993,
+    "pl_kepflag": false,
+    "pl_radj": 1.464,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 16.409976,
+    "exo_id": "HATS-35_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.306,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243818",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261713"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262393,"date":"2023-11-28T20:50:25","date_gmt":"2023-11-29T01:50:25","modified":"2025-04-23T05:56:14","modified_gmt":"2025-04-23T09:56:14","slug":"hd_22532","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_22532/","featured_media":0,"categories":[],"acf":{"display_name":"HD 22532","custom_star_title":"","aliases":"","constellation":"Horologium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244324],"exo_id":"HD_22532","st_optmag":7.85,"st_vj":7.85,"st_dist":161.183,"st_j":7.85,"st_mass":1.57,"dec":-49.4172669,"st_teff":5038,"st_rad":5.69,"ra":53.8148478,"system_radius":284235953,"pl_hostname":"HD_22532","stellar_type":"K","tic_id":"TIC 200851704","magnitude":7.85},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262393","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244324"}]}}
+{
+  "id": 262393,
+  "date": "2023-11-28T20:50:25",
+  "date_gmt": "2023-11-29T01:50:25",
+  "modified": "2025-04-23T05:56:14",
+  "modified_gmt": "2025-04-23T09:56:14",
+  "slug": "hd_22532",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_22532/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 22532",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Horologium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244324
+    ],
+    "exo_id": "HD_22532",
+    "st_optmag": 7.85,
+    "st_vj": 7.85,
+    "st_dist": 161.183,
+    "st_j": 7.85,
+    "st_mass": 1.57,
+    "dec": -49.4172669,
+    "st_teff": 5038,
+    "st_rad": 5.69,
+    "ra": 53.8148478,
+    "system_radius": 284235953,
+    "pl_hostname": "HD_22532",
+    "stellar_type": "K",
+    "tic_id": "TIC 200851704",
+    "magnitude": 7.85
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262393",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244324"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248152,"date":"2019-08-16T13:26:34","date_gmt":"2019-08-16T17:26:34","modified":"2025-09-25T23:55:39","modified_gmt":"2025-09-26T03:55:39","slug":"ltt-1445-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ltt-1445-a-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"LTT_1445_A","pl_letter":"b","display_name":"LTT 1445 A b","planet_radius":"1.34 x Earth","derived_description":"LTT 1445 A b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.73 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.0381 AU from its star. Its discovery was announced in 2019.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":6.86929,"planet_mass":"2.73 Earths","st_optmag":10.59,"discovery_date":"2019","pl_orbsmax":0.0381,"period_display":"5.4 days","eccentricity":"0.18","star_id":260890,"pl_orbper":5.3587635,"pl_kepflag":false,"pl_radj":0.119547,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":244,"multiple_planet_system":false,"pl_rade":1.34,"exo_id":"LTT_1445_A_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.18},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248152","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260890"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248152,
+  "date": "2019-08-16T13:26:34",
+  "date_gmt": "2019-08-16T17:26:34",
+  "modified": "2025-09-25T23:55:39",
+  "modified_gmt": "2025-09-26T03:55:39",
+  "slug": "ltt-1445-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ltt-1445-a-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LTT_1445_A",
+    "pl_letter": "b",
+    "display_name": "LTT 1445 A b",
+    "planet_radius": "1.34 x Earth",
+    "derived_description": "LTT 1445 A b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.73 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.0381 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 6.86929,
+    "planet_mass": "2.73 Earths",
+    "st_optmag": 10.59,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.0381,
+    "period_display": "5.4 days",
+    "eccentricity": "0.18",
+    "star_id": 260890,
+    "pl_orbper": 5.3587635,
+    "pl_kepflag": false,
+    "pl_radj": 0.119547,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 244,
+    "multiple_planet_system": false,
+    "pl_rade": 1.34,
+    "exo_id": "LTT_1445_A_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.18
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248152",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260890"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

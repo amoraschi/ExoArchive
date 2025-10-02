@@ -1,1 +1,79 @@
-{"id":245287,"date":"2017-10-02T13:33:01","date_gmt":"2017-10-02T17:33:01","modified":"2025-03-28T07:24:52","modified_gmt":"2025-03-28T11:24:52","slug":"kepler-1044-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1044-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1044","pl_letter":"b","display_name":"Kepler-1044 b","planet_radius":"0.23820145 x Jupiter","derived_description":"Kepler-1044 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.61 Earths, it takes 6.8 days to complete one orbit of its star, and is 0.0741 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1278.96,"planet_mass":"7.61 Earths","st_optmag":15.478,"discovery_date":"2016","pl_orbsmax":0.0741,"period_display":"6.8 days","eccentricity":"0.0","star_id":263347,"pl_orbper":6.77408868,"pl_kepflag":true,"pl_radj":0.23820145,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.67,"exo_id":"Kepler-1044_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245287","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263347"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245287,
+  "date": "2017-10-02T13:33:01",
+  "date_gmt": "2017-10-02T17:33:01",
+  "modified": "2025-03-28T07:24:52",
+  "modified_gmt": "2025-03-28T11:24:52",
+  "slug": "kepler-1044-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1044-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1044",
+    "pl_letter": "b",
+    "display_name": "Kepler-1044 b",
+    "planet_radius": "0.23820145 x Jupiter",
+    "derived_description": "Kepler-1044 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.61 Earths, it takes 6.8 days to complete one orbit of its star, and is 0.0741 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1278.96,
+    "planet_mass": "7.61 Earths",
+    "st_optmag": 15.478,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0741,
+    "period_display": "6.8 days",
+    "eccentricity": "0.0",
+    "star_id": 263347,
+    "pl_orbper": 6.77408868,
+    "pl_kepflag": true,
+    "pl_radj": 0.23820145,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.67,
+    "exo_id": "Kepler-1044_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245287",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263347"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

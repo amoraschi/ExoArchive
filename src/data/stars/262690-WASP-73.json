@@ -1,1 +1,71 @@
-{"id":262690,"date":"2023-11-28T20:54:11","date_gmt":"2023-11-29T01:54:11","modified":"2025-04-23T05:55:45","modified_gmt":"2025-04-23T09:55:45","slug":"wasp-73","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-73/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-73","custom_star_title":"","aliases":"","constellation":"Indus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248892],"exo_id":"WASP-73","st_optmag":10.468,"st_vj":10.468,"st_dist":316.678,"st_j":10.468,"st_mass":2.52,"dec":-58.1489328,"st_teff":6030,"st_rad":2.55,"ra":319.9496969,"system_radius":8245834.5944,"pl_hostname":"WASP-73","stellar_type":"F","tic_id":"TIC 231670397","magnitude":10.468},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262690","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248892"}]}}
+{
+  "id": 262690,
+  "date": "2023-11-28T20:54:11",
+  "date_gmt": "2023-11-29T01:54:11",
+  "modified": "2025-04-23T05:55:45",
+  "modified_gmt": "2025-04-23T09:55:45",
+  "slug": "wasp-73",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-73/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-73",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Indus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248892
+    ],
+    "exo_id": "WASP-73",
+    "st_optmag": 10.468,
+    "st_vj": 10.468,
+    "st_dist": 316.678,
+    "st_j": 10.468,
+    "st_mass": 2.52,
+    "dec": -58.1489328,
+    "st_teff": 6030,
+    "st_rad": 2.55,
+    "ra": 319.9496969,
+    "system_radius": 8245834.5944,
+    "pl_hostname": "WASP-73",
+    "stellar_type": "F",
+    "tic_id": "TIC 231670397",
+    "magnitude": 10.468
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262690",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248892"
+      }
+    ]
+  }
+}

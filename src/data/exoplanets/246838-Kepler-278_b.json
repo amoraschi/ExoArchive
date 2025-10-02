@@ -1,1 +1,79 @@
-{"id":246838,"date":"2017-10-02T13:32:35","date_gmt":"2017-10-02T17:32:35","modified":"2025-09-17T23:33:19","modified_gmt":"2025-09-18T03:33:19","slug":"kepler-278-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-278-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-278","pl_letter":"b","display_name":"Kepler-278 b","planet_radius":"0.35284207 x Jupiter","derived_description":"Kepler-278 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.1761957 Jupiters, it takes 30.2 days to complete one orbit of its star, and is 0.202 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":443.03,"planet_mass":"0.1761957 Jupiters","st_optmag":11.811,"discovery_date":"2014","pl_orbsmax":0.202,"period_display":"30.2 days","eccentricity":"0.7","star_id":261614,"pl_orbper":30.1556,"pl_kepflag":true,"pl_radj":0.35284207,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":21.1,"multiple_planet_system":false,"pl_rade":3.955,"exo_id":"Kepler-278_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.696},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246838","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261614"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246838,
+  "date": "2017-10-02T13:32:35",
+  "date_gmt": "2017-10-02T17:32:35",
+  "modified": "2025-09-17T23:33:19",
+  "modified_gmt": "2025-09-18T03:33:19",
+  "slug": "kepler-278-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-278-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-278",
+    "pl_letter": "b",
+    "display_name": "Kepler-278 b",
+    "planet_radius": "0.35284207 x Jupiter",
+    "derived_description": "Kepler-278 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.1761957 Jupiters, it takes 30.2 days to complete one orbit of its star, and is 0.202 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 443.03,
+    "planet_mass": "0.1761957 Jupiters",
+    "st_optmag": 11.811,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.202,
+    "period_display": "30.2 days",
+    "eccentricity": "0.7",
+    "star_id": 261614,
+    "pl_orbper": 30.1556,
+    "pl_kepflag": true,
+    "pl_radj": 0.35284207,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": 21.1,
+    "multiple_planet_system": false,
+    "pl_rade": 3.955,
+    "exo_id": "Kepler-278_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.696
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246838",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261614"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

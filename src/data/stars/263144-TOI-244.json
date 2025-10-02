@@ -1,1 +1,71 @@
-{"id":263144,"date":"2023-11-28T20:59:58","date_gmt":"2023-11-29T01:59:58","modified":"2025-04-23T05:56:48","modified_gmt":"2025-04-23T09:56:48","slug":"toi-244","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-244/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-244","custom_star_title":"","aliases":"","constellation":"Sculptor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248556],"exo_id":"TOI-244","st_optmag":12.861,"st_vj":12.861,"st_dist":22.0337,"st_j":12.861,"st_mass":0.428,"dec":-36.7179743,"st_teff":3433,"st_rad":0.426,"ra":10.5697537,"system_radius":8362520.933,"pl_hostname":"TOI-244","stellar_type":"M","tic_id":"TIC 118327550","magnitude":12.861},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263144","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248556"}]}}
+{
+  "id": 263144,
+  "date": "2023-11-28T20:59:58",
+  "date_gmt": "2023-11-29T01:59:58",
+  "modified": "2025-04-23T05:56:48",
+  "modified_gmt": "2025-04-23T09:56:48",
+  "slug": "toi-244",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-244/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-244",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sculptor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248556
+    ],
+    "exo_id": "TOI-244",
+    "st_optmag": 12.861,
+    "st_vj": 12.861,
+    "st_dist": 22.0337,
+    "st_j": 12.861,
+    "st_mass": 0.428,
+    "dec": -36.7179743,
+    "st_teff": 3433,
+    "st_rad": 0.426,
+    "ra": 10.5697537,
+    "system_radius": 8362520.933,
+    "pl_hostname": "TOI-244",
+    "stellar_type": "M",
+    "tic_id": "TIC 118327550",
+    "magnitude": 12.861
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263144",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248556"
+      }
+    ]
+  }
+}

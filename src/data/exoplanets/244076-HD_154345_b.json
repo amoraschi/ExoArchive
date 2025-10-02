@@ -1,1 +1,79 @@
-{"id":244076,"date":"2019-04-22T16:48:46","date_gmt":"2019-04-22T20:48:46","modified":"2024-10-24T18:09:00","modified_gmt":"2024-10-24T22:09:00","slug":"hd-154345-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-154345-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_154345","pl_letter":"b","display_name":"HD 154345 b","planet_radius":"1.22 x Jupiter (estimate)","derived_description":"HD 154345 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.19 Jupiters, it takes 9.2 years to complete one orbit of its star, and is 4.21 AU from its star. Its discovery was announced in 2006.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":18.284,"planet_mass":"1.19 Jupiters","st_optmag":6.76,"discovery_date":"2006","pl_orbsmax":4.21,"period_display":"9.2 years","eccentricity":"0.04","star_id":263710,"pl_orbper":3341.55884,"pl_kepflag":false,"pl_radj":1.22,"pl_disc":2006,"pl_publ_date":"2006","planet_orbit_period":319.6,"multiple_planet_system":false,"pl_rade":13.7,"exo_id":"HD_154345_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244076","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263710"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244076,
+  "date": "2019-04-22T16:48:46",
+  "date_gmt": "2019-04-22T20:48:46",
+  "modified": "2024-10-24T18:09:00",
+  "modified_gmt": "2024-10-24T22:09:00",
+  "slug": "hd-154345-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-154345-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_154345",
+    "pl_letter": "b",
+    "display_name": "HD 154345 b",
+    "planet_radius": "1.22 x Jupiter (estimate)",
+    "derived_description": "HD 154345 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.19 Jupiters, it takes 9.2 years to complete one orbit of its star, and is 4.21 AU from its star. Its discovery was announced in 2006.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 18.284,
+    "planet_mass": "1.19 Jupiters",
+    "st_optmag": 6.76,
+    "discovery_date": "2006",
+    "pl_orbsmax": 4.21,
+    "period_display": "9.2 years",
+    "eccentricity": "0.04",
+    "star_id": 263710,
+    "pl_orbper": 3341.55884,
+    "pl_kepflag": false,
+    "pl_radj": 1.22,
+    "pl_disc": 2006,
+    "pl_publ_date": "2006",
+    "planet_orbit_period": 319.6,
+    "multiple_planet_system": false,
+    "pl_rade": 13.7,
+    "exo_id": "HD_154345_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244076",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263710"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

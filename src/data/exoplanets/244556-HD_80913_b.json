@@ -1,1 +1,79 @@
-{"id":244556,"date":"2022-09-27T08:32:04","date_gmt":"2022-09-27T12:32:04","modified":"2024-10-24T19:07:30","modified_gmt":"2024-10-24T23:07:30","slug":"hd-80913-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-80913-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_80913","pl_letter":"b","display_name":"HD 80913 b","planet_radius":"1.07 x Jupiter (estimate)","derived_description":"HD 80913 b is a gas giant exoplanet that orbits a F-type star. Its mass is 23.614 Jupiters, it takes 29.7 years to complete one orbit of its star, and is 9.95 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":61.3603,"planet_mass":"23.614 Jupiters","st_optmag":7.49,"discovery_date":"2022","pl_orbsmax":9.95,"period_display":"29.7 years","eccentricity":"0.31","star_id":263311,"pl_orbper":10839.83341,"pl_kepflag":false,"pl_radj":1.07,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":96.716,"multiple_planet_system":false,"pl_rade":12,"exo_id":"HD_80913_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.313},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244556","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263311"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244556,
+  "date": "2022-09-27T08:32:04",
+  "date_gmt": "2022-09-27T12:32:04",
+  "modified": "2024-10-24T19:07:30",
+  "modified_gmt": "2024-10-24T23:07:30",
+  "slug": "hd-80913-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-80913-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_80913",
+    "pl_letter": "b",
+    "display_name": "HD 80913 b",
+    "planet_radius": "1.07 x Jupiter (estimate)",
+    "derived_description": "HD 80913 b is a gas giant exoplanet that orbits a F-type star. Its mass is 23.614 Jupiters, it takes 29.7 years to complete one orbit of its star, and is 9.95 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 61.3603,
+    "planet_mass": "23.614 Jupiters",
+    "st_optmag": 7.49,
+    "discovery_date": "2022",
+    "pl_orbsmax": 9.95,
+    "period_display": "29.7 years",
+    "eccentricity": "0.31",
+    "star_id": 263311,
+    "pl_orbper": 10839.83341,
+    "pl_kepflag": false,
+    "pl_radj": 1.07,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 96.716,
+    "multiple_planet_system": false,
+    "pl_rade": 12,
+    "exo_id": "HD_80913_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.313
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244556",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263311"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

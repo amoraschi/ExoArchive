@@ -1,1 +1,76 @@
-{"id":262428,"date":"2023-11-28T20:50:52","date_gmt":"2023-11-29T01:50:52","modified":"2025-06-13T07:33:26","modified_gmt":"2025-06-13T11:33:26","slug":"hd_62364","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_62364/","featured_media":0,"categories":[],"acf":{"display_name":"HD 62364","custom_star_title":"","aliases":"","constellation":"Mensa","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244490,244491],"exo_id":"HD_62364","st_optmag":7.32,"st_vj":7.32,"st_dist":53.112,"st_j":7.32,"st_mass":1.157,"dec":-75.5442707,"st_teff":6255,"st_rad":1.401,"ra":113.9052658,"system_radius":5532727624.08,"pl_hostname":"HD_62364","stellar_type":"F","tic_id":"TIC 271972463","magnitude":7.32},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262428","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244491"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244490"}]}}
+{
+  "id": 262428,
+  "date": "2023-11-28T20:50:52",
+  "date_gmt": "2023-11-29T01:50:52",
+  "modified": "2025-06-13T07:33:26",
+  "modified_gmt": "2025-06-13T11:33:26",
+  "slug": "hd_62364",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_62364/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 62364",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244490,
+      244491
+    ],
+    "exo_id": "HD_62364",
+    "st_optmag": 7.32,
+    "st_vj": 7.32,
+    "st_dist": 53.112,
+    "st_j": 7.32,
+    "st_mass": 1.157,
+    "dec": -75.5442707,
+    "st_teff": 6255,
+    "st_rad": 1.401,
+    "ra": 113.9052658,
+    "system_radius": 5532727624.08,
+    "pl_hostname": "HD_62364",
+    "stellar_type": "F",
+    "tic_id": "TIC 271972463",
+    "magnitude": 7.32
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262428",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244491"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244490"
+      }
+    ]
+  }
+}

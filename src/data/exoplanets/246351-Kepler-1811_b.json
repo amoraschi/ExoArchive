@@ -1,1 +1,79 @@
-{"id":246351,"date":"2021-12-13T17:05:43","date_gmt":"2021-12-13T22:05:43","modified":"2025-06-25T12:05:29","modified_gmt":"2025-06-25T16:05:29","slug":"kepler-1811-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1811-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1811","pl_letter":"b","display_name":"Kepler-1811 b","planet_radius":"0.34332281 x Jupiter","derived_description":"Kepler-1811 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 14.1 Earths, it takes 76.4 days to complete one orbit of its star, and is 0.3462 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1390.56,"planet_mass":"14.1 Earths","st_optmag":15.327,"discovery_date":"2021","pl_orbsmax":0.3462,"period_display":"76.4 days","eccentricity":"0.0","star_id":261784,"pl_orbper":76.42230225,"pl_kepflag":true,"pl_radj":0.34332281,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.84829873,"exo_id":"Kepler-1811_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246351","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261784"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246351,
+  "date": "2021-12-13T17:05:43",
+  "date_gmt": "2021-12-13T22:05:43",
+  "modified": "2025-06-25T12:05:29",
+  "modified_gmt": "2025-06-25T16:05:29",
+  "slug": "kepler-1811-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1811-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1811",
+    "pl_letter": "b",
+    "display_name": "Kepler-1811 b",
+    "planet_radius": "0.34332281 x Jupiter",
+    "derived_description": "Kepler-1811 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 14.1 Earths, it takes 76.4 days to complete one orbit of its star, and is 0.3462 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1390.56,
+    "planet_mass": "14.1 Earths",
+    "st_optmag": 15.327,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.3462,
+    "period_display": "76.4 days",
+    "eccentricity": "0.0",
+    "star_id": 261784,
+    "pl_orbper": 76.42230225,
+    "pl_kepflag": true,
+    "pl_radj": 0.34332281,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.84829873,
+    "exo_id": "Kepler-1811_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246351",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261784"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

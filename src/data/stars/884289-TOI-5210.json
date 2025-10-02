@@ -1,1 +1,77 @@
-{"id":884289,"date":"2025-07-29T20:42:24","date_gmt":"2025-07-30T00:42:24","modified":"2025-07-29T20:42:24","modified_gmt":"2025-07-30T00:42:24","slug":"toi-5210","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5210/","featured_media":429648,"categories":[],"acf":{"display_name":"TOI-5210","custom_star_title":"","aliases":"","constellation":"Vulpecula","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[884330],"exo_id":"TOI-5210","st_optmag":12.118,"st_vj":12.118,"st_dist":302.086,"st_j":12.118,"st_mass":1.105,"dec":21.9502055,"st_teff":5723,"st_rad":1.209,"ra":314.316923,"system_radius":8332601.359,"pl_hostname":"TOI-5210","stellar_type":"G","tic_id":"TIC 265979849","magnitude":12.118},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/884289","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884330"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 884289,
+  "date": "2025-07-29T20:42:24",
+  "date_gmt": "2025-07-30T00:42:24",
+  "modified": "2025-07-29T20:42:24",
+  "modified_gmt": "2025-07-30T00:42:24",
+  "slug": "toi-5210",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5210/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5210",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vulpecula",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      884330
+    ],
+    "exo_id": "TOI-5210",
+    "st_optmag": 12.118,
+    "st_vj": 12.118,
+    "st_dist": 302.086,
+    "st_j": 12.118,
+    "st_mass": 1.105,
+    "dec": 21.9502055,
+    "st_teff": 5723,
+    "st_rad": 1.209,
+    "ra": 314.316923,
+    "system_radius": 8332601.359,
+    "pl_hostname": "TOI-5210",
+    "stellar_type": "G",
+    "tic_id": "TIC 265979849",
+    "magnitude": 12.118
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884289",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884330"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

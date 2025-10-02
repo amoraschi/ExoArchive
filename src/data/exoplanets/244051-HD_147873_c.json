@@ -1,1 +1,79 @@
-{"id":244051,"date":"2019-04-22T16:49:26","date_gmt":"2019-04-22T20:49:26","modified":"2025-07-07T20:32:31","modified_gmt":"2025-07-08T00:32:31","slug":"hd-147873-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-147873-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_147873","pl_letter":"c","display_name":"HD 147873 c","planet_radius":"1.19 x Jupiter (estimate)","derived_description":"HD 147873 c is a gas giant exoplanet that orbits a F-type star. Its mass is 2.3 Jupiters, it takes 491.5 days to complete one orbit of its star, and is 1.36 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":109.055,"planet_mass":"2.3 Jupiters","st_optmag":7.96,"discovery_date":"2016","pl_orbsmax":1.36,"period_display":"491.5 days","eccentricity":"0.23","star_id":262009,"pl_orbper":491.54,"pl_kepflag":false,"pl_radj":1.19,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":41.83,"multiple_planet_system":false,"pl_rade":13.3,"exo_id":"HD_147873_c","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.23},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244051","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262009"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244051,
+  "date": "2019-04-22T16:49:26",
+  "date_gmt": "2019-04-22T20:49:26",
+  "modified": "2025-07-07T20:32:31",
+  "modified_gmt": "2025-07-08T00:32:31",
+  "slug": "hd-147873-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-147873-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_147873",
+    "pl_letter": "c",
+    "display_name": "HD 147873 c",
+    "planet_radius": "1.19 x Jupiter (estimate)",
+    "derived_description": "HD 147873 c is a gas giant exoplanet that orbits a F-type star. Its mass is 2.3 Jupiters, it takes 491.5 days to complete one orbit of its star, and is 1.36 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 109.055,
+    "planet_mass": "2.3 Jupiters",
+    "st_optmag": 7.96,
+    "discovery_date": "2016",
+    "pl_orbsmax": 1.36,
+    "period_display": "491.5 days",
+    "eccentricity": "0.23",
+    "star_id": 262009,
+    "pl_orbper": 491.54,
+    "pl_kepflag": false,
+    "pl_radj": 1.19,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 41.83,
+    "multiple_planet_system": false,
+    "pl_rade": 13.3,
+    "exo_id": "HD_147873_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244051",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262009"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

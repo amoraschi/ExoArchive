@@ -1,1 +1,79 @@
-{"id":243414,"date":"2019-04-22T16:48:47","date_gmt":"2019-04-22T20:48:47","modified":"2025-07-07T20:39:56","modified_gmt":"2025-07-08T00:39:56","slug":"55-cancri-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/55-cancri-d/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"55_Cnc","pl_letter":"d","display_name":"55 Cancri d","planet_radius":"1.16 x Jupiter (estimate)","derived_description":"55 Cancri d is a gas giant exoplanet that orbits a K-type star. Its mass is 3.878 Jupiters, it takes 15.3 years to complete one orbit of its star, and is 5.957 AU from its star. Its discovery was announced in 2002.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Lick Observatory","st_dist":12.5868,"planet_mass":"3.878 Jupiters","st_optmag":5.96,"discovery_date":"2002","pl_orbsmax":5.957,"period_display":"15.3 years","eccentricity":"0.13","star_id":262336,"pl_orbper":5574.2,"pl_kepflag":false,"pl_radj":1.16,"pl_disc":2002,"pl_publ_date":"2002","planet_orbit_period":-69.1,"multiple_planet_system":false,"pl_rade":13,"exo_id":"55_Cnc_d","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.13},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243414","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262336"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243414,
+  "date": "2019-04-22T16:48:47",
+  "date_gmt": "2019-04-22T20:48:47",
+  "modified": "2025-07-07T20:39:56",
+  "modified_gmt": "2025-07-08T00:39:56",
+  "slug": "55-cancri-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/55-cancri-d/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "55_Cnc",
+    "pl_letter": "d",
+    "display_name": "55 Cancri d",
+    "planet_radius": "1.16 x Jupiter (estimate)",
+    "derived_description": "55 Cancri d is a gas giant exoplanet that orbits a K-type star. Its mass is 3.878 Jupiters, it takes 15.3 years to complete one orbit of its star, and is 5.957 AU from its star. Its discovery was announced in 2002.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Lick Observatory",
+    "st_dist": 12.5868,
+    "planet_mass": "3.878 Jupiters",
+    "st_optmag": 5.96,
+    "discovery_date": "2002",
+    "pl_orbsmax": 5.957,
+    "period_display": "15.3 years",
+    "eccentricity": "0.13",
+    "star_id": 262336,
+    "pl_orbper": 5574.2,
+    "pl_kepflag": false,
+    "pl_radj": 1.16,
+    "pl_disc": 2002,
+    "pl_publ_date": "2002",
+    "planet_orbit_period": -69.1,
+    "multiple_planet_system": false,
+    "pl_rade": 13,
+    "exo_id": "55_Cnc_d",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.13
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243414",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262336"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

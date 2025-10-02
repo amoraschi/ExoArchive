@@ -1,1 +1,79 @@
-{"id":243399,"date":"2019-04-22T16:48:52","date_gmt":"2019-04-22T20:48:52","modified":"2025-03-28T07:23:39","modified_gmt":"2025-03-28T11:23:39","slug":"2mass-j02192210-3925225-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/2mass-j02192210-3925225-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"2MASS_J02192210-3925225","pl_letter":"b","display_name":"2MASS J02192210-3925225 b","planet_radius":"1.44 x Jupiter","derived_description":"2MASS J02192210-3925225 b is a gas giant exoplanet that orbits a M-type star. Its mass is 13.9 Jupiters, it takes 5932.3 years to complete one orbit of its star, and is 156 AU from its star. Its discovery was announced in 2015.","planet_type":"Gas Giant","pl_discmethod":"Imaging","pl_facility":"Cerro Tololo Inter-American Observatory","st_dist":40.08964117,"planet_mass":"13.9 Jupiters","st_optmag":"","discovery_date":"2015","pl_orbsmax":156,"period_display":"5932.3 years","eccentricity":"","star_id":260820,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.44,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":16.14096,"exo_id":"2MASS_J02192210-3925225_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243399","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260820"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243399,
+  "date": "2019-04-22T16:48:52",
+  "date_gmt": "2019-04-22T20:48:52",
+  "modified": "2025-03-28T07:23:39",
+  "modified_gmt": "2025-03-28T11:23:39",
+  "slug": "2mass-j02192210-3925225-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/2mass-j02192210-3925225-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "2MASS_J02192210-3925225",
+    "pl_letter": "b",
+    "display_name": "2MASS J02192210-3925225 b",
+    "planet_radius": "1.44 x Jupiter",
+    "derived_description": "2MASS J02192210-3925225 b is a gas giant exoplanet that orbits a M-type star. Its mass is 13.9 Jupiters, it takes 5932.3 years to complete one orbit of its star, and is 156 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "Cerro Tololo Inter-American Observatory",
+    "st_dist": 40.08964117,
+    "planet_mass": "13.9 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2015",
+    "pl_orbsmax": 156,
+    "period_display": "5932.3 years",
+    "eccentricity": "",
+    "star_id": 260820,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.44,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 16.14096,
+    "exo_id": "2MASS_J02192210-3925225_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243399",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260820"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

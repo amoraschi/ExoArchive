@@ -1,1 +1,79 @@
-{"id":245230,"date":"2020-09-04T13:27:16","date_gmt":"2020-09-04T17:27:16","modified":"2025-07-07T17:22:31","modified_gmt":"2025-07-07T21:22:31","slug":"kepler-1001-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1001-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1001","pl_letter":"c","display_name":"Kepler-1001 c","planet_radius":"1.57799279 x Earth","derived_description":"Kepler-1001 c is a super Earth exoplanet that orbits a G-type star. Its mass is 3.11 Earths, it takes 9.2 days to complete one orbit of its star, and is 0.08296 AU from its star. Its discovery was announced in 2020.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":928.978,"planet_mass":"3.11 Earths","st_optmag":15.582,"discovery_date":"2020","pl_orbsmax":0.08296,"period_display":"9.2 days","eccentricity":"0.0","star_id":261450,"pl_orbper":9.18186,"pl_kepflag":true,"pl_radj":0.14077909,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.57799279,"exo_id":"Kepler-1001_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245230","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261450"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245230,
+  "date": "2020-09-04T13:27:16",
+  "date_gmt": "2020-09-04T17:27:16",
+  "modified": "2025-07-07T17:22:31",
+  "modified_gmt": "2025-07-07T21:22:31",
+  "slug": "kepler-1001-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1001-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1001",
+    "pl_letter": "c",
+    "display_name": "Kepler-1001 c",
+    "planet_radius": "1.57799279 x Earth",
+    "derived_description": "Kepler-1001 c is a super Earth exoplanet that orbits a G-type star. Its mass is 3.11 Earths, it takes 9.2 days to complete one orbit of its star, and is 0.08296 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 928.978,
+    "planet_mass": "3.11 Earths",
+    "st_optmag": 15.582,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.08296,
+    "period_display": "9.2 days",
+    "eccentricity": "0.0",
+    "star_id": 261450,
+    "pl_orbper": 9.18186,
+    "pl_kepflag": true,
+    "pl_radj": 0.14077909,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.57799279,
+    "exo_id": "Kepler-1001_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245230",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261450"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":247268,"date":"2017-10-02T13:32:54","date_gmt":"2017-10-02T17:32:54","modified":"2025-07-07T20:43:32","modified_gmt":"2025-07-08T00:43:32","slug":"kepler-468-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-468-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-468","pl_letter":"b","display_name":"Kepler-468 b","planet_radius":"1.19011509 x Jupiter","derived_description":"Kepler-468 b is a gas giant exoplanet that orbits a G-type star. Its mass is Unknown, it takes 38.5 days to complete one orbit of its star, and is 0.2213 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":442.871,"planet_mass":"Unknown","st_optmag":13.852,"discovery_date":"2016","pl_orbsmax":0.2213,"period_display":"38.5 days","eccentricity":"0.0","star_id":260679,"pl_orbper":38.478757067,"pl_kepflag":true,"pl_radj":1.19011509,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":13.34,"exo_id":"Kepler-468_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247268","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260679"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 247268,
+  "date": "2017-10-02T13:32:54",
+  "date_gmt": "2017-10-02T17:32:54",
+  "modified": "2025-07-07T20:43:32",
+  "modified_gmt": "2025-07-08T00:43:32",
+  "slug": "kepler-468-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-468-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-468",
+    "pl_letter": "b",
+    "display_name": "Kepler-468 b",
+    "planet_radius": "1.19011509 x Jupiter",
+    "derived_description": "Kepler-468 b is a gas giant exoplanet that orbits a G-type star. Its mass is Unknown, it takes 38.5 days to complete one orbit of its star, and is 0.2213 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 442.871,
+    "planet_mass": "Unknown",
+    "st_optmag": 13.852,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.2213,
+    "period_display": "38.5 days",
+    "eccentricity": "0.0",
+    "star_id": 260679,
+    "pl_orbper": 38.478757067,
+    "pl_kepflag": true,
+    "pl_radj": 1.19011509,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.34,
+    "exo_id": "Kepler-468_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247268",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260679"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

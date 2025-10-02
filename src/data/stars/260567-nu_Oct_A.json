@@ -1,1 +1,71 @@
-{"id":260567,"date":"2023-11-28T20:27:25","date_gmt":"2023-11-29T01:27:25","modified":"2025-06-06T07:19:52","modified_gmt":"2025-06-06T11:19:52","slug":"nu_oct_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/nu_oct_a/","featured_media":0,"categories":[],"acf":{"display_name":"Nu Octantis A","custom_star_title":"","aliases":"","constellation":"Octans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248226],"exo_id":"nu_Oct_A","st_optmag":3.73,"st_vj":3.73,"st_dist":21.1999,"st_j":3.73,"st_mass":1.57,"dec":-77.3910853,"st_teff":4910,"st_rad":5.04,"ra":325.3702792,"system_radius":185501358.8,"pl_hostname":"nu_Oct_A","stellar_type":"K","tic_id":"TIC 352542468","magnitude":3.73},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260567","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248226"}]}}
+{
+  "id": 260567,
+  "date": "2023-11-28T20:27:25",
+  "date_gmt": "2023-11-29T01:27:25",
+  "modified": "2025-06-06T07:19:52",
+  "modified_gmt": "2025-06-06T11:19:52",
+  "slug": "nu_oct_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/nu_oct_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Nu Octantis A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Octans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248226
+    ],
+    "exo_id": "nu_Oct_A",
+    "st_optmag": 3.73,
+    "st_vj": 3.73,
+    "st_dist": 21.1999,
+    "st_j": 3.73,
+    "st_mass": 1.57,
+    "dec": -77.3910853,
+    "st_teff": 4910,
+    "st_rad": 5.04,
+    "ra": 325.3702792,
+    "system_radius": 185501358.8,
+    "pl_hostname": "nu_Oct_A",
+    "stellar_type": "K",
+    "tic_id": "TIC 352542468",
+    "magnitude": 3.73
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260567",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248226"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262229,"date":"2023-11-28T20:48:20","date_gmt":"2023-11-29T01:48:20","modified":"2025-04-23T05:56:45","modified_gmt":"2025-04-23T09:56:45","slug":"kepler-109","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-109/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-109","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245369,245370],"exo_id":"Kepler-109","st_optmag":12.398,"st_vj":12.398,"st_dist":474.861,"st_j":12.398,"st_mass":1.094,"dec":40.2849074,"st_teff":5950,"st_rad":1.387,"ra":290.3926795,"system_radius":23127830.702,"pl_hostname":"Kepler-109","stellar_type":"G","tic_id":"TIC 122441003","magnitude":12.398},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262229","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245370"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245369"}]}}
+{
+  "id": 262229,
+  "date": "2023-11-28T20:48:20",
+  "date_gmt": "2023-11-29T01:48:20",
+  "modified": "2025-04-23T05:56:45",
+  "modified_gmt": "2025-04-23T09:56:45",
+  "slug": "kepler-109",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-109/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-109",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245369,
+      245370
+    ],
+    "exo_id": "Kepler-109",
+    "st_optmag": 12.398,
+    "st_vj": 12.398,
+    "st_dist": 474.861,
+    "st_j": 12.398,
+    "st_mass": 1.094,
+    "dec": 40.2849074,
+    "st_teff": 5950,
+    "st_rad": 1.387,
+    "ra": 290.3926795,
+    "system_radius": 23127830.702,
+    "pl_hostname": "Kepler-109",
+    "stellar_type": "G",
+    "tic_id": "TIC 122441003",
+    "magnitude": 12.398
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262229",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245370"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245369"
+      }
+    ]
+  }
+}

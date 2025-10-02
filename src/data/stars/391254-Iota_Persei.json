@@ -1,1 +1,69 @@
-{"id":391254,"date":"2024-04-30T20:01:23","date_gmt":"2024-05-01T00:01:23","modified":"2025-04-23T05:57:33","modified_gmt":"2025-04-23T09:57:33","slug":"iota-persei","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/iota-persei/","featured_media":429648,"categories":[],"acf":{"display_name":"Iota Persei","custom_star_title":"","aliases":"IotaPersei,HD19373,HR937,GJ124,HD 19373,HR 937,GJ 124","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Iota_Persei","st_optmag":4.05,"st_vj":4.05,"st_dist":10.5774,"st_j":4.05,"st_mass":1.08,"dec":49.6132784,"st_teff":5952,"st_rad":1.404,"ra":47.2667471,"system_radius":149597870,"pl_hostname":"Iota_Persei","stellar_type":"G","tic_id":"TIC 116988032","magnitude":4.1},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391254","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391254,
+  "date": "2024-04-30T20:01:23",
+  "date_gmt": "2024-05-01T00:01:23",
+  "modified": "2025-04-23T05:57:33",
+  "modified_gmt": "2025-04-23T09:57:33",
+  "slug": "iota-persei",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/iota-persei/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Iota Persei",
+    "custom_star_title": "",
+    "aliases": "IotaPersei,HD19373,HR937,GJ124,HD 19373,HR 937,GJ 124",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Iota_Persei",
+    "st_optmag": 4.05,
+    "st_vj": 4.05,
+    "st_dist": 10.5774,
+    "st_j": 4.05,
+    "st_mass": 1.08,
+    "dec": 49.6132784,
+    "st_teff": 5952,
+    "st_rad": 1.404,
+    "ra": 47.2667471,
+    "system_radius": 149597870,
+    "pl_hostname": "Iota_Persei",
+    "stellar_type": "G",
+    "tic_id": "TIC 116988032",
+    "magnitude": 4.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391254",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

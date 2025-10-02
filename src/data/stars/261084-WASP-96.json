@@ -1,1 +1,71 @@
-{"id":261084,"date":"2023-11-28T20:33:51","date_gmt":"2023-11-29T01:33:51","modified":"2025-04-23T05:55:10","modified_gmt":"2025-04-23T09:55:10","slug":"wasp-96","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-96/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-96","custom_star_title":"","aliases":"","constellation":"Phoenix","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248919],"exo_id":"WASP-96","st_optmag":12.569,"st_vj":12.569,"st_dist":352.464,"st_j":12.569,"st_mass":1.06,"dec":-47.3606352,"st_teff":5540,"st_rad":1.05,"ra":1.0465696,"system_radius":6776783.511,"pl_hostname":"WASP-96","stellar_type":"G","tic_id":"TIC 160148385","magnitude":12.569},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261084","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248919"}]}}
+{
+  "id": 261084,
+  "date": "2023-11-28T20:33:51",
+  "date_gmt": "2023-11-29T01:33:51",
+  "modified": "2025-04-23T05:55:10",
+  "modified_gmt": "2025-04-23T09:55:10",
+  "slug": "wasp-96",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-96/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-96",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248919
+    ],
+    "exo_id": "WASP-96",
+    "st_optmag": 12.569,
+    "st_vj": 12.569,
+    "st_dist": 352.464,
+    "st_j": 12.569,
+    "st_mass": 1.06,
+    "dec": -47.3606352,
+    "st_teff": 5540,
+    "st_rad": 1.05,
+    "ra": 1.0465696,
+    "system_radius": 6776783.511,
+    "pl_hostname": "WASP-96",
+    "stellar_type": "G",
+    "tic_id": "TIC 160148385",
+    "magnitude": 12.569
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261084",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248919"
+      }
+    ]
+  }
+}

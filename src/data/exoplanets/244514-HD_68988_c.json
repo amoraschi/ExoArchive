@@ -1,1 +1,79 @@
-{"id":244514,"date":"2021-06-17T13:33:02","date_gmt":"2021-06-17T17:33:02","modified":"2025-07-07T20:34:37","modified_gmt":"2025-07-08T00:34:37","slug":"hd-68988-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-68988-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_68988","pl_letter":"c","display_name":"HD 68988 c","planet_radius":"1.09 x Jupiter (estimate)","derived_description":"HD 68988 c is a gas giant exoplanet that orbits a G-type star. Its mass is 15 Jupiters, it takes 43.8 years to complete one orbit of its star, and is 13.2 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":60.8447,"planet_mass":"15 Jupiters","st_optmag":8.2,"discovery_date":"2021","pl_orbsmax":13.2,"period_display":"43.8 years","eccentricity":"0.45","star_id":261230,"pl_orbper":16000,"pl_kepflag":false,"pl_radj":1.09,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":-7.4485,"multiple_planet_system":false,"pl_rade":12.3,"exo_id":"HD_68988_c","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.45},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244514","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261230"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244514,
+  "date": "2021-06-17T13:33:02",
+  "date_gmt": "2021-06-17T17:33:02",
+  "modified": "2025-07-07T20:34:37",
+  "modified_gmt": "2025-07-08T00:34:37",
+  "slug": "hd-68988-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-68988-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_68988",
+    "pl_letter": "c",
+    "display_name": "HD 68988 c",
+    "planet_radius": "1.09 x Jupiter (estimate)",
+    "derived_description": "HD 68988 c is a gas giant exoplanet that orbits a G-type star. Its mass is 15 Jupiters, it takes 43.8 years to complete one orbit of its star, and is 13.2 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 60.8447,
+    "planet_mass": "15 Jupiters",
+    "st_optmag": 8.2,
+    "discovery_date": "2021",
+    "pl_orbsmax": 13.2,
+    "period_display": "43.8 years",
+    "eccentricity": "0.45",
+    "star_id": 261230,
+    "pl_orbper": 16000,
+    "pl_kepflag": false,
+    "pl_radj": 1.09,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": -7.4485,
+    "multiple_planet_system": false,
+    "pl_rade": 12.3,
+    "exo_id": "HD_68988_c",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.45
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244514",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261230"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

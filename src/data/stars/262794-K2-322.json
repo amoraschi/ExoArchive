@@ -1,1 +1,71 @@
-{"id":262794,"date":"2023-11-28T20:55:32","date_gmt":"2023-11-29T01:55:32","modified":"2025-04-23T05:56:29","modified_gmt":"2025-04-23T09:56:29","slug":"k2-322","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-322/","featured_media":0,"categories":[],"acf":{"display_name":"K2-322","custom_star_title":"","aliases":"","constellation":"Sextans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245003],"exo_id":"K2-322","st_optmag":13.963,"st_vj":13.963,"st_dist":123.415,"st_j":13.963,"st_mass":0.63,"dec":4.7640203,"st_teff":4141,"st_rad":0.602,"ra":156.6226981,"system_radius":8886113.478,"pl_hostname":"K2-322","stellar_type":"K","tic_id":"TIC 277869696","magnitude":13.963},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262794","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245003"}]}}
+{
+  "id": 262794,
+  "date": "2023-11-28T20:55:32",
+  "date_gmt": "2023-11-29T01:55:32",
+  "modified": "2025-04-23T05:56:29",
+  "modified_gmt": "2025-04-23T09:56:29",
+  "slug": "k2-322",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-322/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-322",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sextans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245003
+    ],
+    "exo_id": "K2-322",
+    "st_optmag": 13.963,
+    "st_vj": 13.963,
+    "st_dist": 123.415,
+    "st_j": 13.963,
+    "st_mass": 0.63,
+    "dec": 4.7640203,
+    "st_teff": 4141,
+    "st_rad": 0.602,
+    "ra": 156.6226981,
+    "system_radius": 8886113.478,
+    "pl_hostname": "K2-322",
+    "stellar_type": "K",
+    "tic_id": "TIC 277869696",
+    "magnitude": 13.963
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262794",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245003"
+      }
+    ]
+  }
+}

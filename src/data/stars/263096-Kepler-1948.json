@@ -1,1 +1,71 @@
-{"id":263096,"date":"2023-11-28T20:59:21","date_gmt":"2023-11-29T01:59:21","modified":"2025-04-23T05:57:07","modified_gmt":"2025-04-23T09:57:07","slug":"kepler-1948","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1948/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1948","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246530],"exo_id":"Kepler-1948","st_optmag":14.569,"st_vj":14.569,"st_dist":193.903,"st_j":14.569,"st_mass":0.585,"dec":47.7853043,"st_teff":3872,"st_rad":0.557,"ra":287.3640804,"system_radius":15288902.314,"pl_hostname":"Kepler-1948","stellar_type":"M","tic_id":"TIC 158489110","magnitude":14.569},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263096","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246530"}]}}
+{
+  "id": 263096,
+  "date": "2023-11-28T20:59:21",
+  "date_gmt": "2023-11-29T01:59:21",
+  "modified": "2025-04-23T05:57:07",
+  "modified_gmt": "2025-04-23T09:57:07",
+  "slug": "kepler-1948",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1948/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1948",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246530
+    ],
+    "exo_id": "Kepler-1948",
+    "st_optmag": 14.569,
+    "st_vj": 14.569,
+    "st_dist": 193.903,
+    "st_j": 14.569,
+    "st_mass": 0.585,
+    "dec": 47.7853043,
+    "st_teff": 3872,
+    "st_rad": 0.557,
+    "ra": 287.3640804,
+    "system_radius": 15288902.314,
+    "pl_hostname": "Kepler-1948",
+    "stellar_type": "M",
+    "tic_id": "TIC 158489110",
+    "magnitude": 14.569
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263096",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246530"
+      }
+    ]
+  }
+}

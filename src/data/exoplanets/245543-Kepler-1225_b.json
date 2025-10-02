@@ -1,1 +1,79 @@
-{"id":245543,"date":"2017-10-02T13:32:48","date_gmt":"2017-10-02T17:32:48","modified":"2025-07-07T17:22:59","modified_gmt":"2025-07-07T21:22:59","slug":"kepler-1225-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1225-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1225","pl_letter":"b","display_name":"Kepler-1225 b","planet_radius":"1.82 x Earth","derived_description":"Kepler-1225 b is a super Earth exoplanet that orbits a F-type star. Its mass is 3.97 Earths, it takes 7 days to complete one orbit of its star, and is 0.0771 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1347.52,"planet_mass":"3.97 Earths","st_optmag":14.819,"discovery_date":"2016","pl_orbsmax":0.0771,"period_display":"7 days","eccentricity":"0.0","star_id":263525,"pl_orbper":7.01075434,"pl_kepflag":true,"pl_radj":0.16236952,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.82,"exo_id":"Kepler-1225_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245543","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263525"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245543,
+  "date": "2017-10-02T13:32:48",
+  "date_gmt": "2017-10-02T17:32:48",
+  "modified": "2025-07-07T17:22:59",
+  "modified_gmt": "2025-07-07T21:22:59",
+  "slug": "kepler-1225-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1225-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1225",
+    "pl_letter": "b",
+    "display_name": "Kepler-1225 b",
+    "planet_radius": "1.82 x Earth",
+    "derived_description": "Kepler-1225 b is a super Earth exoplanet that orbits a F-type star. Its mass is 3.97 Earths, it takes 7 days to complete one orbit of its star, and is 0.0771 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1347.52,
+    "planet_mass": "3.97 Earths",
+    "st_optmag": 14.819,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0771,
+    "period_display": "7 days",
+    "eccentricity": "0.0",
+    "star_id": 263525,
+    "pl_orbper": 7.01075434,
+    "pl_kepflag": true,
+    "pl_radj": 0.16236952,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.82,
+    "exo_id": "Kepler-1225_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245543",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263525"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260538,"date":"2023-11-28T20:27:03","date_gmt":"2023-11-29T01:27:03","modified":"2025-04-23T05:56:01","modified_gmt":"2025-04-23T09:56:01","slug":"toi-1842","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1842/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1842","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248499],"exo_id":"TOI-1842","st_optmag":9.815,"st_vj":9.815,"st_dist":223.465,"st_j":9.815,"st_mass":1.4643,"dec":9.0306437,"st_teff":6039,"st_rad":2.032,"ra":201.9626552,"system_radius":14959787,"pl_hostname":"TOI-1842","stellar_type":"F","tic_id":"TIC 404505029","magnitude":9.815},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260538","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248499"}]}}
+{
+  "id": 260538,
+  "date": "2023-11-28T20:27:03",
+  "date_gmt": "2023-11-29T01:27:03",
+  "modified": "2025-04-23T05:56:01",
+  "modified_gmt": "2025-04-23T09:56:01",
+  "slug": "toi-1842",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1842/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1842",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248499
+    ],
+    "exo_id": "TOI-1842",
+    "st_optmag": 9.815,
+    "st_vj": 9.815,
+    "st_dist": 223.465,
+    "st_j": 9.815,
+    "st_mass": 1.4643,
+    "dec": 9.0306437,
+    "st_teff": 6039,
+    "st_rad": 2.032,
+    "ra": 201.9626552,
+    "system_radius": 14959787,
+    "pl_hostname": "TOI-1842",
+    "stellar_type": "F",
+    "tic_id": "TIC 404505029",
+    "magnitude": 9.815
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260538",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248499"
+      }
+    ]
+  }
+}

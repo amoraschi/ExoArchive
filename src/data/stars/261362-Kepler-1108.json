@@ -1,1 +1,71 @@
-{"id":261362,"date":"2023-11-28T20:37:24","date_gmt":"2023-11-29T01:37:24","modified":"2025-04-23T05:53:54","modified_gmt":"2025-04-23T09:53:54","slug":"kepler-1108","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1108/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1108","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245382],"exo_id":"Kepler-1108","st_optmag":15.132,"st_vj":15.132,"st_dist":767.701,"st_j":15.132,"st_mass":0.88,"dec":45.98514,"st_teff":5406,"st_rad":0.84,"ra":296.0422962,"system_radius":7644451.157,"pl_hostname":"Kepler-1108","stellar_type":"G","tic_id":"TIC 272083644","magnitude":15.132},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261362","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245382"}]}}
+{
+  "id": 261362,
+  "date": "2023-11-28T20:37:24",
+  "date_gmt": "2023-11-29T01:37:24",
+  "modified": "2025-04-23T05:53:54",
+  "modified_gmt": "2025-04-23T09:53:54",
+  "slug": "kepler-1108",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1108/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1108",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245382
+    ],
+    "exo_id": "Kepler-1108",
+    "st_optmag": 15.132,
+    "st_vj": 15.132,
+    "st_dist": 767.701,
+    "st_j": 15.132,
+    "st_mass": 0.88,
+    "dec": 45.98514,
+    "st_teff": 5406,
+    "st_rad": 0.84,
+    "ra": 296.0422962,
+    "system_radius": 7644451.157,
+    "pl_hostname": "Kepler-1108",
+    "stellar_type": "G",
+    "tic_id": "TIC 272083644",
+    "magnitude": 15.132
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261362",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245382"
+      }
+    ]
+  }
+}

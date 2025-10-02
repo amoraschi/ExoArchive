@@ -1,1 +1,79 @@
-{"id":245214,"date":"2019-04-22T16:49:23","date_gmt":"2019-04-22T20:49:23","modified":"2025-03-28T07:23:33","modified_gmt":"2025-03-28T11:23:33","slug":"kelt-19-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kelt-19-a-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KELT-19_A","pl_letter":"b","display_name":"KELT-19 A b","planet_radius":"1.91 x Jupiter","derived_description":"KELT-19 A b is a gas giant exoplanet that orbits a A-type star. Its mass is 4.07 Jupiters, it takes 4.6 days to complete one orbit of its star, and is 0.0637 AU from its star. Its discovery was announced in 2017.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"KELT","st_dist":300.276,"planet_mass":"4.07 Jupiters","st_optmag":9.857,"discovery_date":"2017","pl_orbsmax":0.0637,"period_display":"4.6 days","eccentricity":"","star_id":263130,"pl_orbper":4.6117093,"pl_kepflag":false,"pl_radj":1.91,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":21.40919,"exo_id":"KELT-19_A_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245214","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263130"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 245214,
+  "date": "2019-04-22T16:49:23",
+  "date_gmt": "2019-04-22T20:49:23",
+  "modified": "2025-03-28T07:23:33",
+  "modified_gmt": "2025-03-28T11:23:33",
+  "slug": "kelt-19-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kelt-19-a-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KELT-19_A",
+    "pl_letter": "b",
+    "display_name": "KELT-19 A b",
+    "planet_radius": "1.91 x Jupiter",
+    "derived_description": "KELT-19 A b is a gas giant exoplanet that orbits a A-type star. Its mass is 4.07 Jupiters, it takes 4.6 days to complete one orbit of its star, and is 0.0637 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "KELT",
+    "st_dist": 300.276,
+    "planet_mass": "4.07 Jupiters",
+    "st_optmag": 9.857,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.0637,
+    "period_display": "4.6 days",
+    "eccentricity": "",
+    "star_id": 263130,
+    "pl_orbper": 4.6117093,
+    "pl_kepflag": false,
+    "pl_radj": 1.91,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 21.40919,
+    "exo_id": "KELT-19_A_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245214",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263130"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

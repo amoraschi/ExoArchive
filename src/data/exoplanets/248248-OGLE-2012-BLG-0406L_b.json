@@ -1,1 +1,79 @@
-{"id":248248,"date":"2017-12-02T12:26:18","date_gmt":"2017-12-02T17:26:18","modified":"2024-10-24T20:34:48","modified_gmt":"2024-10-25T00:34:48","slug":"ogle-2012-blg-0406l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2012-blg-0406l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2012-BLG-0406L","pl_letter":"b","display_name":"OGLE-2012-BLG-0406L b","planet_radius":"1.18 x Jupiter (estimate)","derived_description":"OGLE-2012-BLG-0406L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 2.73 Jupiters, it takes 9.7 years to complete one orbit of its star, and is 3.45 AU from its star. Its discovery was announced in 2013.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":4970,"planet_mass":"2.73 Jupiters","st_optmag":"","discovery_date":"2013","pl_orbsmax":3.45,"period_display":"9.7 years","eccentricity":"","star_id":262954,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.18,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":13.2,"exo_id":"OGLE-2012-BLG-0406L_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248248","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262954"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248248,
+  "date": "2017-12-02T12:26:18",
+  "date_gmt": "2017-12-02T17:26:18",
+  "modified": "2024-10-24T20:34:48",
+  "modified_gmt": "2024-10-25T00:34:48",
+  "slug": "ogle-2012-blg-0406l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2012-blg-0406l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2012-BLG-0406L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2012-BLG-0406L b",
+    "planet_radius": "1.18 x Jupiter (estimate)",
+    "derived_description": "OGLE-2012-BLG-0406L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 2.73 Jupiters, it takes 9.7 years to complete one orbit of its star, and is 3.45 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 4970,
+    "planet_mass": "2.73 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2013",
+    "pl_orbsmax": 3.45,
+    "period_display": "9.7 years",
+    "eccentricity": "",
+    "star_id": 262954,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.18,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.2,
+    "exo_id": "OGLE-2012-BLG-0406L_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248248",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262954"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263197,"date":"2023-11-28T21:00:38","date_gmt":"2023-11-29T02:00:38","modified":"2025-04-23T05:56:06","modified_gmt":"2025-04-23T09:56:06","slug":"wasp-118","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-118/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-118","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248757],"exo_id":"WASP-118","st_optmag":11.009,"st_vj":11.009,"st_dist":376.658,"st_j":11.009,"st_mass":1.32,"dec":2.7027847,"st_teff":6410,"st_rad":1.696,"ra":19.5505861,"system_radius":8157571.8511,"pl_hostname":"WASP-118","stellar_type":"F","tic_id":"TIC 380907135","magnitude":11.009},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263197","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248757"}]}}
+{
+  "id": 263197,
+  "date": "2023-11-28T21:00:38",
+  "date_gmt": "2023-11-29T02:00:38",
+  "modified": "2025-04-23T05:56:06",
+  "modified_gmt": "2025-04-23T09:56:06",
+  "slug": "wasp-118",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-118/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-118",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248757
+    ],
+    "exo_id": "WASP-118",
+    "st_optmag": 11.009,
+    "st_vj": 11.009,
+    "st_dist": 376.658,
+    "st_j": 11.009,
+    "st_mass": 1.32,
+    "dec": 2.7027847,
+    "st_teff": 6410,
+    "st_rad": 1.696,
+    "ra": 19.5505861,
+    "system_radius": 8157571.8511,
+    "pl_hostname": "WASP-118",
+    "stellar_type": "F",
+    "tic_id": "TIC 380907135",
+    "magnitude": 11.009
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263197",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248757"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":435785,"date":"2024-11-22T01:52:25","date_gmt":"2024-11-22T06:52:25","modified":"2025-03-28T07:29:02","modified_gmt":"2025-03-28T11:29:02","slug":"toi-6651-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-6651-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-6651","pl_letter":"b","display_name":"TOI-6651 b","planet_radius":"0.45410017 x Jupiter","derived_description":"TOI-6651 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.19192746 Jupiters, it takes 5.1 days to complete one orbit of its star, and is 0.0633 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":212.128,"planet_mass":"0.19192746 Jupiters","st_optmag":10.242,"discovery_date":"2024","pl_orbsmax":0.0633,"period_display":"5.1 days","eccentricity":"0.09","star_id":435760,"pl_orbper":5.056973,"pl_kepflag":false,"pl_radj":0.45410017,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":116,"multiple_planet_system":false,"pl_rade":5.09,"exo_id":"TOI-6651_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.091},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/435785","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/435760"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 435785,
+  "date": "2024-11-22T01:52:25",
+  "date_gmt": "2024-11-22T06:52:25",
+  "modified": "2025-03-28T07:29:02",
+  "modified_gmt": "2025-03-28T11:29:02",
+  "slug": "toi-6651-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-6651-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-6651",
+    "pl_letter": "b",
+    "display_name": "TOI-6651 b",
+    "planet_radius": "0.45410017 x Jupiter",
+    "derived_description": "TOI-6651 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.19192746 Jupiters, it takes 5.1 days to complete one orbit of its star, and is 0.0633 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 212.128,
+    "planet_mass": "0.19192746 Jupiters",
+    "st_optmag": 10.242,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0633,
+    "period_display": "5.1 days",
+    "eccentricity": "0.09",
+    "star_id": 435760,
+    "pl_orbper": 5.056973,
+    "pl_kepflag": false,
+    "pl_radj": 0.45410017,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 116,
+    "multiple_planet_system": false,
+    "pl_rade": 5.09,
+    "exo_id": "TOI-6651_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.091
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/435785",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/435760"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

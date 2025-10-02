@@ -1,1 +1,71 @@
-{"id":264461,"date":"2023-11-28T21:16:50","date_gmt":"2023-11-29T02:16:50","modified":"2025-04-23T05:55:34","modified_gmt":"2025-04-23T09:55:34","slug":"toi-4791","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4791/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4791","custom_star_title":"","aliases":"","constellation":"Canis Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248637],"exo_id":"TOI-4791","st_optmag":11.541,"st_vj":11.541,"st_dist":328.802,"st_j":11.541,"st_mass":1.242,"dec":-19.8289392,"st_teff":6058,"st_rad":1.409,"ra":109.3883818,"system_radius":8302681.785,"pl_hostname":"TOI-4791","stellar_type":"F","tic_id":"TIC 100389539","magnitude":11.541},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264461","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248637"}]}}
+{
+  "id": 264461,
+  "date": "2023-11-28T21:16:50",
+  "date_gmt": "2023-11-29T02:16:50",
+  "modified": "2025-04-23T05:55:34",
+  "modified_gmt": "2025-04-23T09:55:34",
+  "slug": "toi-4791",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4791/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4791",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248637
+    ],
+    "exo_id": "TOI-4791",
+    "st_optmag": 11.541,
+    "st_vj": 11.541,
+    "st_dist": 328.802,
+    "st_j": 11.541,
+    "st_mass": 1.242,
+    "dec": -19.8289392,
+    "st_teff": 6058,
+    "st_rad": 1.409,
+    "ra": 109.3883818,
+    "system_radius": 8302681.785,
+    "pl_hostname": "TOI-4791",
+    "stellar_type": "F",
+    "tic_id": "TIC 100389539",
+    "magnitude": 11.541
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264461",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248637"
+      }
+    ]
+  }
+}

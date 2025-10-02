@@ -1,1 +1,71 @@
-{"id":263348,"date":"2023-11-28T21:02:31","date_gmt":"2023-11-29T02:02:31","modified":"2025-04-23T05:53:28","modified_gmt":"2025-04-23T09:53:28","slug":"kepler-1046","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1046/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1046","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245289],"exo_id":"Kepler-1046","st_optmag":13.347,"st_vj":13.347,"st_dist":721.534,"st_j":13.347,"st_mass":1.04,"dec":46.9982799,"st_teff":5913,"st_rad":1.04,"ra":296.7558056,"system_radius":17739315.4246,"pl_hostname":"Kepler-1046","stellar_type":"G","tic_id":"TIC 272601000","magnitude":13.347},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263348","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245289"}]}}
+{
+  "id": 263348,
+  "date": "2023-11-28T21:02:31",
+  "date_gmt": "2023-11-29T02:02:31",
+  "modified": "2025-04-23T05:53:28",
+  "modified_gmt": "2025-04-23T09:53:28",
+  "slug": "kepler-1046",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1046/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1046",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245289
+    ],
+    "exo_id": "Kepler-1046",
+    "st_optmag": 13.347,
+    "st_vj": 13.347,
+    "st_dist": 721.534,
+    "st_j": 13.347,
+    "st_mass": 1.04,
+    "dec": 46.9982799,
+    "st_teff": 5913,
+    "st_rad": 1.04,
+    "ra": 296.7558056,
+    "system_radius": 17739315.4246,
+    "pl_hostname": "Kepler-1046",
+    "stellar_type": "G",
+    "tic_id": "TIC 272601000",
+    "magnitude": 13.347
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263348",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245289"
+      }
+    ]
+  }
+}

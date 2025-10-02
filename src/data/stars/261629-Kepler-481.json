@@ -1,1 +1,71 @@
-{"id":261629,"date":"2023-11-28T20:40:45","date_gmt":"2023-11-29T01:40:45","modified":"2025-04-23T05:54:33","modified_gmt":"2025-04-23T09:54:33","slug":"kepler-481","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-481/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-481","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247286],"exo_id":"Kepler-481","st_optmag":14.054,"st_vj":14.054,"st_dist":813.724,"st_j":14.054,"st_mass":1.01,"dec":49.262076,"st_teff":5802,"st_rad":1.09,"ra":291.9069862,"system_radius":13353105.8762,"pl_hostname":"Kepler-481","stellar_type":"G","tic_id":"TIC 26541093","magnitude":14.054},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261629","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247286"}]}}
+{
+  "id": 261629,
+  "date": "2023-11-28T20:40:45",
+  "date_gmt": "2023-11-29T01:40:45",
+  "modified": "2025-04-23T05:54:33",
+  "modified_gmt": "2025-04-23T09:54:33",
+  "slug": "kepler-481",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-481/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-481",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247286
+    ],
+    "exo_id": "Kepler-481",
+    "st_optmag": 14.054,
+    "st_vj": 14.054,
+    "st_dist": 813.724,
+    "st_j": 14.054,
+    "st_mass": 1.01,
+    "dec": 49.262076,
+    "st_teff": 5802,
+    "st_rad": 1.09,
+    "ra": 291.9069862,
+    "system_radius": 13353105.8762,
+    "pl_hostname": "Kepler-481",
+    "stellar_type": "G",
+    "tic_id": "TIC 26541093",
+    "magnitude": 14.054
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261629",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247286"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":247863,"date":"2017-10-02T13:32:31","date_gmt":"2017-10-02T17:32:31","modified":"2025-07-07T15:25:30","modified_gmt":"2025-07-07T19:25:30","slug":"kepler-895-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-895-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-895","pl_letter":"b","display_name":"Kepler-895 b","planet_radius":"1.54 x Earth","derived_description":"Kepler-895 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.99 Earths, it takes 2.8 days to complete one orbit of its star, and is 0.0328 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":540.134,"planet_mass":"2.99 Earths","st_optmag":16.21,"discovery_date":"2016","pl_orbsmax":0.0328,"period_display":"2.8 days","eccentricity":"0.0","star_id":261953,"pl_orbper":2.806242328,"pl_kepflag":true,"pl_radj":0.1373896,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.54,"exo_id":"Kepler-895_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247863","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261953"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247863,
+  "date": "2017-10-02T13:32:31",
+  "date_gmt": "2017-10-02T17:32:31",
+  "modified": "2025-07-07T15:25:30",
+  "modified_gmt": "2025-07-07T19:25:30",
+  "slug": "kepler-895-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-895-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-895",
+    "pl_letter": "b",
+    "display_name": "Kepler-895 b",
+    "planet_radius": "1.54 x Earth",
+    "derived_description": "Kepler-895 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.99 Earths, it takes 2.8 days to complete one orbit of its star, and is 0.0328 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 540.134,
+    "planet_mass": "2.99 Earths",
+    "st_optmag": 16.21,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0328,
+    "period_display": "2.8 days",
+    "eccentricity": "0.0",
+    "star_id": 261953,
+    "pl_orbper": 2.806242328,
+    "pl_kepflag": true,
+    "pl_radj": 0.1373896,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.54,
+    "exo_id": "Kepler-895_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247863",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261953"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

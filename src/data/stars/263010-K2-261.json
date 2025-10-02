@@ -1,1 +1,71 @@
-{"id":263010,"date":"2023-11-28T20:58:17","date_gmt":"2023-11-29T01:58:17","modified":"2025-06-06T07:19:24","modified_gmt":"2025-06-06T11:19:24","slug":"k2-261","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-261/","featured_media":0,"categories":[],"acf":{"display_name":"K2-261","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244940],"exo_id":"K2-261","st_optmag":10.612,"st_vj":10.612,"st_dist":213.283,"st_j":10.612,"st_mass":1.107,"dec":0.493167,"st_teff":5490,"st_rad":1.663,"ra":163.0323119,"system_radius":16246328.682,"pl_hostname":"K2-261","stellar_type":"G","tic_id":"TIC 281731203","magnitude":10.612},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263010","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244940"}]}}
+{
+  "id": 263010,
+  "date": "2023-11-28T20:58:17",
+  "date_gmt": "2023-11-29T01:58:17",
+  "modified": "2025-06-06T07:19:24",
+  "modified_gmt": "2025-06-06T11:19:24",
+  "slug": "k2-261",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-261/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-261",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244940
+    ],
+    "exo_id": "K2-261",
+    "st_optmag": 10.612,
+    "st_vj": 10.612,
+    "st_dist": 213.283,
+    "st_j": 10.612,
+    "st_mass": 1.107,
+    "dec": 0.493167,
+    "st_teff": 5490,
+    "st_rad": 1.663,
+    "ra": 163.0323119,
+    "system_radius": 16246328.682,
+    "pl_hostname": "K2-261",
+    "stellar_type": "G",
+    "tic_id": "TIC 281731203",
+    "magnitude": 10.612
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263010",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244940"
+      }
+    ]
+  }
+}

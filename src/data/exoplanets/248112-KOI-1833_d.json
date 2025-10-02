@@ -1,1 +1,79 @@
-{"id":248112,"date":"2021-06-17T13:33:02","date_gmt":"2021-06-17T17:33:02","modified":"2025-06-25T12:04:43","modified_gmt":"2025-06-25T16:04:43","slug":"koi-1833-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/koi-1833-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-968","pl_letter":"d","display_name":"KOI-1833 d","planet_radius":"2.58 x Earth","derived_description":"KOI-1833 d is a super Earth exoplanet that orbits a K-type star. Its mass is 11.02 Earths, it takes 7.7 days to complete one orbit of its star, and is 0.0634 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":290.324,"planet_mass":"11.02 Earths","st_optmag":14.626,"discovery_date":"2021","pl_orbsmax":0.0634,"period_display":"7.7 days","eccentricity":"0.0","star_id":261814,"pl_orbper":7.685,"pl_kepflag":true,"pl_radj":0.23017258,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.58,"exo_id":"KOI-1833_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248112","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261814"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248112,
+  "date": "2021-06-17T13:33:02",
+  "date_gmt": "2021-06-17T17:33:02",
+  "modified": "2025-06-25T12:04:43",
+  "modified_gmt": "2025-06-25T16:04:43",
+  "slug": "koi-1833-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/koi-1833-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-968",
+    "pl_letter": "d",
+    "display_name": "KOI-1833 d",
+    "planet_radius": "2.58 x Earth",
+    "derived_description": "KOI-1833 d is a super Earth exoplanet that orbits a K-type star. Its mass is 11.02 Earths, it takes 7.7 days to complete one orbit of its star, and is 0.0634 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 290.324,
+    "planet_mass": "11.02 Earths",
+    "st_optmag": 14.626,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.0634,
+    "period_display": "7.7 days",
+    "eccentricity": "0.0",
+    "star_id": 261814,
+    "pl_orbper": 7.685,
+    "pl_kepflag": true,
+    "pl_radj": 0.23017258,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.58,
+    "exo_id": "KOI-1833_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248112",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261814"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

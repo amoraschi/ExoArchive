@@ -1,1 +1,71 @@
-{"id":263625,"date":"2023-11-28T21:06:03","date_gmt":"2023-11-29T02:06:03","modified":"2025-04-23T05:53:42","modified_gmt":"2025-04-23T09:53:42","slug":"kepler-893","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-893/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-893","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247861],"exo_id":"Kepler-893","st_optmag":15.347,"st_vj":15.347,"st_dist":1285.59,"st_j":15.347,"st_mass":1,"dec":43.9130282,"st_teff":5820,"st_rad":0.99,"ra":284.9630591,"system_radius":10456891.113,"pl_hostname":"Kepler-893","stellar_type":"G","tic_id":"TIC 164830125","magnitude":15.347},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263625","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247861"}]}}
+{
+  "id": 263625,
+  "date": "2023-11-28T21:06:03",
+  "date_gmt": "2023-11-29T02:06:03",
+  "modified": "2025-04-23T05:53:42",
+  "modified_gmt": "2025-04-23T09:53:42",
+  "slug": "kepler-893",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-893/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-893",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247861
+    ],
+    "exo_id": "Kepler-893",
+    "st_optmag": 15.347,
+    "st_vj": 15.347,
+    "st_dist": 1285.59,
+    "st_j": 15.347,
+    "st_mass": 1,
+    "dec": 43.9130282,
+    "st_teff": 5820,
+    "st_rad": 0.99,
+    "ra": 284.9630591,
+    "system_radius": 10456891.113,
+    "pl_hostname": "Kepler-893",
+    "stellar_type": "G",
+    "tic_id": "TIC 164830125",
+    "magnitude": 15.347
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263625",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247861"
+      }
+    ]
+  }
+}

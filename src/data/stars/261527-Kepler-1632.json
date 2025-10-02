@@ -1,1 +1,71 @@
-{"id":261527,"date":"2023-11-28T20:39:28","date_gmt":"2023-11-29T01:39:28","modified":"2025-04-23T05:55:50","modified_gmt":"2025-04-23T09:55:50","slug":"kepler-1632","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1632/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1632","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246107],"exo_id":"Kepler-1632","st_optmag":13.22,"st_vj":13.22,"st_dist":716.76,"st_j":13.22,"st_mass":1.12,"dec":43.9135575,"st_teff":6137,"st_rad":1.19,"ra":294.4948769,"system_radius":101158079.694,"pl_hostname":"Kepler-1632","stellar_type":"F","tic_id":"TIC 271046694","magnitude":13.22},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261527","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246107"}]}}
+{
+  "id": 261527,
+  "date": "2023-11-28T20:39:28",
+  "date_gmt": "2023-11-29T01:39:28",
+  "modified": "2025-04-23T05:55:50",
+  "modified_gmt": "2025-04-23T09:55:50",
+  "slug": "kepler-1632",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1632/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1632",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246107
+    ],
+    "exo_id": "Kepler-1632",
+    "st_optmag": 13.22,
+    "st_vj": 13.22,
+    "st_dist": 716.76,
+    "st_j": 13.22,
+    "st_mass": 1.12,
+    "dec": 43.9135575,
+    "st_teff": 6137,
+    "st_rad": 1.19,
+    "ra": 294.4948769,
+    "system_radius": 101158079.694,
+    "pl_hostname": "Kepler-1632",
+    "stellar_type": "F",
+    "tic_id": "TIC 271046694",
+    "magnitude": 13.22
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261527",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246107"
+      }
+    ]
+  }
+}

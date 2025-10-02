@@ -1,1 +1,69 @@
-{"id":391241,"date":"2024-04-30T20:01:21","date_gmt":"2024-05-01T00:01:21","modified":"2025-04-23T05:57:31","modified_gmt":"2025-04-23T09:57:31","slug":"achird","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/achird/","featured_media":429648,"categories":[],"acf":{"display_name":"Achird","custom_star_title":"","aliases":"EtaCassiopeiaeA,HD4614A,HR219A,GJ34A,Eta Cassiopeiae A,HD 4614 A,HR 219 A,GJ 34A\t","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Achird","st_optmag":3.444,"st_vj":3.444,"st_dist":5.0098,"st_j":3.444,"st_mass":1.14,"dec":57.8151773,"st_teff":5907,"st_rad":1.068,"ra":12.2762275,"system_radius":149597870,"pl_hostname":"Achird","stellar_type":"G","tic_id":"TIC 445258206","magnitude":3.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391241","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391241,
+  "date": "2024-04-30T20:01:21",
+  "date_gmt": "2024-05-01T00:01:21",
+  "modified": "2025-04-23T05:57:31",
+  "modified_gmt": "2025-04-23T09:57:31",
+  "slug": "achird",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/achird/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Achird",
+    "custom_star_title": "",
+    "aliases": "EtaCassiopeiaeA,HD4614A,HR219A,GJ34A,Eta Cassiopeiae A,HD 4614 A,HR 219 A,GJ 34A\t",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Achird",
+    "st_optmag": 3.444,
+    "st_vj": 3.444,
+    "st_dist": 5.0098,
+    "st_j": 3.444,
+    "st_mass": 1.14,
+    "dec": 57.8151773,
+    "st_teff": 5907,
+    "st_rad": 1.068,
+    "ra": 12.2762275,
+    "system_radius": 149597870,
+    "pl_hostname": "Achird",
+    "stellar_type": "G",
+    "tic_id": "TIC 445258206",
+    "magnitude": 3.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391241",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

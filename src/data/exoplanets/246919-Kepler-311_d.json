@@ -1,1 +1,79 @@
-{"id":246919,"date":"2023-05-23T12:01:44","date_gmt":"2023-05-23T16:01:44","modified":"2025-07-07T17:23:20","modified_gmt":"2025-07-07T21:23:20","slug":"kepler-311-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-311-d/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-311","pl_letter":"d","display_name":"Kepler-311 d","planet_radius":"2.05 x Earth","derived_description":"Kepler-311 d is a super Earth exoplanet that orbits a G-type star. Its mass is 4.86 Earths, it takes 232 days to complete one orbit of its star, and is 0.7326 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":778.654,"planet_mass":"4.86 Earths","st_optmag":13.902,"discovery_date":"2023","pl_orbsmax":0.7326,"period_display":"232 days","eccentricity":"0.0","star_id":264489,"pl_orbper":232.040326,"pl_kepflag":true,"pl_radj":0.18288907,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.05,"exo_id":"Kepler-311_d","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246919","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264489"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246919,
+  "date": "2023-05-23T12:01:44",
+  "date_gmt": "2023-05-23T16:01:44",
+  "modified": "2025-07-07T17:23:20",
+  "modified_gmt": "2025-07-07T21:23:20",
+  "slug": "kepler-311-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-311-d/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-311",
+    "pl_letter": "d",
+    "display_name": "Kepler-311 d",
+    "planet_radius": "2.05 x Earth",
+    "derived_description": "Kepler-311 d is a super Earth exoplanet that orbits a G-type star. Its mass is 4.86 Earths, it takes 232 days to complete one orbit of its star, and is 0.7326 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 778.654,
+    "planet_mass": "4.86 Earths",
+    "st_optmag": 13.902,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.7326,
+    "period_display": "232 days",
+    "eccentricity": "0.0",
+    "star_id": 264489,
+    "pl_orbper": 232.040326,
+    "pl_kepflag": true,
+    "pl_radj": 0.18288907,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.05,
+    "exo_id": "Kepler-311_d",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246919",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264489"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262523,"date":"2023-11-28T20:52:04","date_gmt":"2023-11-29T01:52:04","modified":"2025-04-23T05:56:23","modified_gmt":"2025-04-23T09:56:23","slug":"hd_60532","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_60532/","featured_media":0,"categories":[],"acf":{"display_name":"HD 60532","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244488,244489],"exo_id":"HD_60532","st_optmag":4.44,"st_vj":4.44,"st_dist":25.9716,"st_j":4.44,"st_mass":1.5,"dec":-22.2958661,"st_teff":6245,"st_rad":2.57,"ra":113.5130656,"system_radius":239356592,"pl_hostname":"HD_60532","stellar_type":"F","tic_id":"TIC 456871289","magnitude":4.44},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262523","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244489"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244488"}]}}
+{
+  "id": 262523,
+  "date": "2023-11-28T20:52:04",
+  "date_gmt": "2023-11-29T01:52:04",
+  "modified": "2025-04-23T05:56:23",
+  "modified_gmt": "2025-04-23T09:56:23",
+  "slug": "hd_60532",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_60532/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 60532",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244488,
+      244489
+    ],
+    "exo_id": "HD_60532",
+    "st_optmag": 4.44,
+    "st_vj": 4.44,
+    "st_dist": 25.9716,
+    "st_j": 4.44,
+    "st_mass": 1.5,
+    "dec": -22.2958661,
+    "st_teff": 6245,
+    "st_rad": 2.57,
+    "ra": 113.5130656,
+    "system_radius": 239356592,
+    "pl_hostname": "HD_60532",
+    "stellar_type": "F",
+    "tic_id": "TIC 456871289",
+    "magnitude": 4.44
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262523",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244489"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244488"
+      }
+    ]
+  }
+}

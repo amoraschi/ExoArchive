@@ -1,1 +1,69 @@
-{"id":391169,"date":"2024-04-30T20:01:15","date_gmt":"2024-05-01T00:01:15","modified":"2025-04-23T05:57:25","modified_gmt":"2025-04-23T09:57:25","slug":"40-leonis","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/40-leonis/","featured_media":429647,"categories":[],"acf":{"display_name":"40 Leonis","custom_star_title":"","aliases":"HD 89449,HR 4054,GJ 9324","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"40_Leonis","st_optmag":4.792,"st_vj":4.792,"st_dist":21.2199,"st_j":4.792,"st_mass":1.35,"dec":19.4709128,"st_teff":6410,"st_rad":1.669,"ra":154.93403,"system_radius":149597870,"pl_hostname":"40_Leonis","stellar_type":"F","tic_id":"TIC 95431211","magnitude":4.8},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391169","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391169,
+  "date": "2024-04-30T20:01:15",
+  "date_gmt": "2024-05-01T00:01:15",
+  "modified": "2025-04-23T05:57:25",
+  "modified_gmt": "2025-04-23T09:57:25",
+  "slug": "40-leonis",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/40-leonis/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "40 Leonis",
+    "custom_star_title": "",
+    "aliases": "HD 89449,HR 4054,GJ 9324",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "40_Leonis",
+    "st_optmag": 4.792,
+    "st_vj": 4.792,
+    "st_dist": 21.2199,
+    "st_j": 4.792,
+    "st_mass": 1.35,
+    "dec": 19.4709128,
+    "st_teff": 6410,
+    "st_rad": 1.669,
+    "ra": 154.93403,
+    "system_radius": 149597870,
+    "pl_hostname": "40_Leonis",
+    "stellar_type": "F",
+    "tic_id": "TIC 95431211",
+    "magnitude": 4.8
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391169",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

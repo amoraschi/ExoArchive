@@ -1,1 +1,76 @@
-{"id":263270,"date":"2023-11-28T21:01:32","date_gmt":"2023-11-29T02:01:32","modified":"2025-04-23T05:56:54","modified_gmt":"2025-04-23T09:56:54","slug":"hd_203387","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_203387/","featured_media":0,"categories":[],"acf":{"display_name":"HD 203387","custom_star_title":"","aliases":"","constellation":"Capricornus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244230,244231],"exo_id":"HD_203387","st_optmag":4.28,"st_vj":4.28,"st_dist":61.7477,"st_j":4.28,"st_mass":2.817,"dec":-16.8345229,"st_teff":5174.32,"st_rad":10.5852,"ra":320.561782,"system_radius":758012407.29,"pl_hostname":"HD_203387","stellar_type":"K","tic_id":"TIC 288329878","magnitude":4.28},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263270","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244231"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244230"}]}}
+{
+  "id": 263270,
+  "date": "2023-11-28T21:01:32",
+  "date_gmt": "2023-11-29T02:01:32",
+  "modified": "2025-04-23T05:56:54",
+  "modified_gmt": "2025-04-23T09:56:54",
+  "slug": "hd_203387",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_203387/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 203387",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Capricornus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244230,
+      244231
+    ],
+    "exo_id": "HD_203387",
+    "st_optmag": 4.28,
+    "st_vj": 4.28,
+    "st_dist": 61.7477,
+    "st_j": 4.28,
+    "st_mass": 2.817,
+    "dec": -16.8345229,
+    "st_teff": 5174.32,
+    "st_rad": 10.5852,
+    "ra": 320.561782,
+    "system_radius": 758012407.29,
+    "pl_hostname": "HD_203387",
+    "stellar_type": "K",
+    "tic_id": "TIC 288329878",
+    "magnitude": 4.28
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263270",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244231"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244230"
+      }
+    ]
+  }
+}

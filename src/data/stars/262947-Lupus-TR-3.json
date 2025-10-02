@@ -1,1 +1,71 @@
-{"id":262947,"date":"2023-11-28T20:57:29","date_gmt":"2023-11-29T01:57:29","modified":"2025-04-23T05:56:37","modified_gmt":"2025-04-23T09:56:37","slug":"lupus-tr-3","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/lupus-tr-3/","featured_media":0,"categories":[],"acf":{"display_name":"Lupus-TR-3","custom_star_title":"","aliases":"","constellation":"Lupus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248157],"exo_id":"Lupus-TR-3","st_optmag":19.6202,"st_vj":19.6202,"st_dist":773.409,"st_j":19.6202,"st_mass":0.87,"dec":-42.9799461,"st_teff":5000,"st_rad":0.82,"ra":232.5774696,"system_radius":6941341.168,"pl_hostname":"Lupus-TR-3","stellar_type":"K","tic_id":"TIC 153091721","magnitude":19.6202},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262947","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248157"}]}}
+{
+  "id": 262947,
+  "date": "2023-11-28T20:57:29",
+  "date_gmt": "2023-11-29T01:57:29",
+  "modified": "2025-04-23T05:56:37",
+  "modified_gmt": "2025-04-23T09:56:37",
+  "slug": "lupus-tr-3",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/lupus-tr-3/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Lupus-TR-3",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lupus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248157
+    ],
+    "exo_id": "Lupus-TR-3",
+    "st_optmag": 19.6202,
+    "st_vj": 19.6202,
+    "st_dist": 773.409,
+    "st_j": 19.6202,
+    "st_mass": 0.87,
+    "dec": -42.9799461,
+    "st_teff": 5000,
+    "st_rad": 0.82,
+    "ra": 232.5774696,
+    "system_radius": 6941341.168,
+    "pl_hostname": "Lupus-TR-3",
+    "stellar_type": "K",
+    "tic_id": "TIC 153091721",
+    "magnitude": 19.6202
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262947",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248157"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248269,"date":"2019-07-12T13:26:35","date_gmt":"2019-07-12T17:26:35","modified":"2024-10-25T10:07:02","modified_gmt":"2024-10-25T14:07:02","slug":"ogle-2015-blg-1670l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2015-blg-1670l-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2015-BLG-1670L","pl_letter":"b","display_name":"OGLE-2015-BLG-1670L b","planet_radius":"0.394 x Jupiter (estimate)","derived_description":"OGLE-2015-BLG-1670L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 17.9 Earths, it takes 5.7 years to complete one orbit of its star, and is 2.62 AU from its star. Its discovery was announced in 2019.","planet_type":"Neptune-like","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":6700,"planet_mass":"17.9 Earths","st_optmag":"","discovery_date":"2019","pl_orbsmax":2.62,"period_display":"5.7 years","eccentricity":"","star_id":263724,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.394,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":4.42,"exo_id":"OGLE-2015-BLG-1670L_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248269","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263724"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248269,
+  "date": "2019-07-12T13:26:35",
+  "date_gmt": "2019-07-12T17:26:35",
+  "modified": "2024-10-25T10:07:02",
+  "modified_gmt": "2024-10-25T14:07:02",
+  "slug": "ogle-2015-blg-1670l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2015-blg-1670l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2015-BLG-1670L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2015-BLG-1670L b",
+    "planet_radius": "0.394 x Jupiter (estimate)",
+    "derived_description": "OGLE-2015-BLG-1670L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 17.9 Earths, it takes 5.7 years to complete one orbit of its star, and is 2.62 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 6700,
+    "planet_mass": "17.9 Earths",
+    "st_optmag": "",
+    "discovery_date": "2019",
+    "pl_orbsmax": 2.62,
+    "period_display": "5.7 years",
+    "eccentricity": "",
+    "star_id": 263724,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.394,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.42,
+    "exo_id": "OGLE-2015-BLG-1670L_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248269",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263724"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

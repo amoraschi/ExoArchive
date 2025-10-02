@@ -1,1 +1,79 @@
-{"id":244011,"date":"2022-09-27T08:32:19","date_gmt":"2022-09-27T12:32:19","modified":"2024-10-24T18:00:34","modified_gmt":"2024-10-24T22:00:34","slug":"hd-13724-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-13724-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_13724","pl_letter":"c","display_name":"HD 13724 c","planet_radius":"0.729 x Jupiter (estimate)","derived_description":"HD 13724 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.16 Jupiters, it takes 142.2 days to complete one orbit of its star, and is 0.534 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":43.465,"planet_mass":"0.16 Jupiters","st_optmag":7.89,"discovery_date":"2022","pl_orbsmax":0.534,"period_display":"142.2 days","eccentricity":"0.65","star_id":261115,"pl_orbper":142.22895,"pl_kepflag":false,"pl_radj":0.729,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":219.768,"multiple_planet_system":false,"pl_rade":8.18,"exo_id":"HD_13724_c","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.651},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244011","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261115"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244011,
+  "date": "2022-09-27T08:32:19",
+  "date_gmt": "2022-09-27T12:32:19",
+  "modified": "2024-10-24T18:00:34",
+  "modified_gmt": "2024-10-24T22:00:34",
+  "slug": "hd-13724-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-13724-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_13724",
+    "pl_letter": "c",
+    "display_name": "HD 13724 c",
+    "planet_radius": "0.729 x Jupiter (estimate)",
+    "derived_description": "HD 13724 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.16 Jupiters, it takes 142.2 days to complete one orbit of its star, and is 0.534 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 43.465,
+    "planet_mass": "0.16 Jupiters",
+    "st_optmag": 7.89,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.534,
+    "period_display": "142.2 days",
+    "eccentricity": "0.65",
+    "star_id": 261115,
+    "pl_orbper": 142.22895,
+    "pl_kepflag": false,
+    "pl_radj": 0.729,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 219.768,
+    "multiple_planet_system": false,
+    "pl_rade": 8.18,
+    "exo_id": "HD_13724_c",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.651
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244011",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261115"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

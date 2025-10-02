@@ -1,1 +1,71 @@
-{"id":261305,"date":"2023-11-28T20:36:41","date_gmt":"2023-11-29T01:36:41","modified":"2025-04-23T05:54:49","modified_gmt":"2025-04-23T09:54:49","slug":"toi-1422","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1422/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1422","custom_star_title":"","aliases":"","constellation":"Andromeda","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248451],"exo_id":"TOI-1422","st_optmag":10.622,"st_vj":10.622,"st_dist":155.141,"st_j":10.622,"st_mass":0.981,"dec":39.6392793,"st_teff":5840,"st_rad":1.019,"ra":354.240829,"system_radius":16156569.96,"pl_hostname":"TOI-1422","stellar_type":"G","tic_id":"TIC 333473672","magnitude":10.622},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261305","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248451"}]}}
+{
+  "id": 261305,
+  "date": "2023-11-28T20:36:41",
+  "date_gmt": "2023-11-29T01:36:41",
+  "modified": "2025-04-23T05:54:49",
+  "modified_gmt": "2025-04-23T09:54:49",
+  "slug": "toi-1422",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1422/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1422",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248451
+    ],
+    "exo_id": "TOI-1422",
+    "st_optmag": 10.622,
+    "st_vj": 10.622,
+    "st_dist": 155.141,
+    "st_j": 10.622,
+    "st_mass": 0.981,
+    "dec": 39.6392793,
+    "st_teff": 5840,
+    "st_rad": 1.019,
+    "ra": 354.240829,
+    "system_radius": 16156569.96,
+    "pl_hostname": "TOI-1422",
+    "stellar_type": "G",
+    "tic_id": "TIC 333473672",
+    "magnitude": 10.622
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261305",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248451"
+      }
+    ]
+  }
+}

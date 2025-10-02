@@ -1,1 +1,71 @@
-{"id":260404,"date":"2023-11-28T20:25:21","date_gmt":"2023-11-29T01:25:21","modified":"2025-04-23T05:53:14","modified_gmt":"2025-04-23T09:53:14","slug":"hd_29985","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_29985/","featured_media":0,"categories":[],"acf":{"display_name":"HD 29985","custom_star_title":"","aliases":"","constellation":"Caelum","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244378],"exo_id":"HD_29985","st_optmag":9.98,"st_vj":9.98,"st_dist":31.2707,"st_j":9.98,"st_mass":0.75,"dec":-33.9210696,"st_teff":4678,"st_rad":0.574666,"ra":70.5216589,"system_radius":2003115479.3,"pl_hostname":"HD_29985","stellar_type":"K","tic_id":"TIC 170867837","magnitude":9.98},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260404","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244378"}]}}
+{
+  "id": 260404,
+  "date": "2023-11-28T20:25:21",
+  "date_gmt": "2023-11-29T01:25:21",
+  "modified": "2025-04-23T05:53:14",
+  "modified_gmt": "2025-04-23T09:53:14",
+  "slug": "hd_29985",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_29985/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 29985",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Caelum",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244378
+    ],
+    "exo_id": "HD_29985",
+    "st_optmag": 9.98,
+    "st_vj": 9.98,
+    "st_dist": 31.2707,
+    "st_j": 9.98,
+    "st_mass": 0.75,
+    "dec": -33.9210696,
+    "st_teff": 4678,
+    "st_rad": 0.574666,
+    "ra": 70.5216589,
+    "system_radius": 2003115479.3,
+    "pl_hostname": "HD_29985",
+    "stellar_type": "K",
+    "tic_id": "TIC 170867837",
+    "magnitude": 9.98
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260404",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244378"
+      }
+    ]
+  }
+}

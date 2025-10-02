@@ -1,1 +1,79 @@
-{"id":245535,"date":"2017-10-02T13:33:00","date_gmt":"2017-10-02T17:33:00","modified":"2025-07-07T15:24:03","modified_gmt":"2025-07-07T19:24:03","slug":"kepler-121-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-121-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-121","pl_letter":"b","display_name":"Kepler-121 b","planet_radius":"0.209 x Jupiter","derived_description":"Kepler-121 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.08 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.039 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":510.523,"planet_mass":"6.08 Earths","st_optmag":14.904,"discovery_date":"2014","pl_orbsmax":0.039,"period_display":"3.2 days","eccentricity":"0.0","star_id":260811,"pl_orbper":3.177422,"pl_kepflag":true,"pl_radj":0.209,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.34,"exo_id":"Kepler-121_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245535","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260811"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245535,
+  "date": "2017-10-02T13:33:00",
+  "date_gmt": "2017-10-02T17:33:00",
+  "modified": "2025-07-07T15:24:03",
+  "modified_gmt": "2025-07-07T19:24:03",
+  "slug": "kepler-121-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-121-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-121",
+    "pl_letter": "b",
+    "display_name": "Kepler-121 b",
+    "planet_radius": "0.209 x Jupiter",
+    "derived_description": "Kepler-121 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.08 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.039 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 510.523,
+    "planet_mass": "6.08 Earths",
+    "st_optmag": 14.904,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.039,
+    "period_display": "3.2 days",
+    "eccentricity": "0.0",
+    "star_id": 260811,
+    "pl_orbper": 3.177422,
+    "pl_kepflag": true,
+    "pl_radj": 0.209,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.34,
+    "exo_id": "Kepler-121_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245535",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260811"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

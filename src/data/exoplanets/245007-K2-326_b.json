@@ -1,1 +1,79 @@
-{"id":245007,"date":"2020-09-04T13:27:14","date_gmt":"2020-09-04T17:27:14","modified":"2025-03-28T07:25:52","modified_gmt":"2025-03-28T11:25:52","slug":"k2-326-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-326-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-326","pl_letter":"b","display_name":"K2-326 b","planet_radius":"0.20340798 x Jupiter","derived_description":"K2-326 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.82 Earths, it takes 1.3 days to complete one orbit of its star, and is 0.0198 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":282.308,"planet_mass":"5.82 Earths","st_optmag":15.982,"discovery_date":"2020","pl_orbsmax":0.0198,"period_display":"1.3 days","eccentricity":"","star_id":262268,"pl_orbper":1.256,"pl_kepflag":true,"pl_radj":0.20340798,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.28,"exo_id":"K2-326_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245007","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262268"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245007,
+  "date": "2020-09-04T13:27:14",
+  "date_gmt": "2020-09-04T17:27:14",
+  "modified": "2025-03-28T07:25:52",
+  "modified_gmt": "2025-03-28T11:25:52",
+  "slug": "k2-326-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-326-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-326",
+    "pl_letter": "b",
+    "display_name": "K2-326 b",
+    "planet_radius": "0.20340798 x Jupiter",
+    "derived_description": "K2-326 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.82 Earths, it takes 1.3 days to complete one orbit of its star, and is 0.0198 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 282.308,
+    "planet_mass": "5.82 Earths",
+    "st_optmag": 15.982,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.0198,
+    "period_display": "1.3 days",
+    "eccentricity": "",
+    "star_id": 262268,
+    "pl_orbper": 1.256,
+    "pl_kepflag": true,
+    "pl_radj": 0.20340798,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.28,
+    "exo_id": "K2-326_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245007",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262268"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

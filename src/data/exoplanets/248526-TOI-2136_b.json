@@ -1,1 +1,79 @@
-{"id":248526,"date":"2022-05-12T13:02:30","date_gmt":"2022-05-12T17:02:30","modified":"2025-07-07T20:36:29","modified_gmt":"2025-07-08T00:36:29","slug":"toi-2136-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2136-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2136","pl_letter":"b","display_name":"TOI-2136 b","planet_radius":"2.19 x Earth","derived_description":"TOI-2136 b is a super Earth exoplanet that orbits a M-type star. Its mass is 6.37 Earths, it takes 7.9 days to complete one orbit of its star, and is 0.057 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":33.3631,"planet_mass":"6.37 Earths","st_optmag":14.32,"discovery_date":"2022","pl_orbsmax":0.057,"period_display":"7.9 days","eccentricity":"0.0","star_id":263235,"pl_orbper":7.851928,"pl_kepflag":false,"pl_radj":0.19537905,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":2.19,"exo_id":"TOI-2136_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248526","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263235"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248526,
+  "date": "2022-05-12T13:02:30",
+  "date_gmt": "2022-05-12T17:02:30",
+  "modified": "2025-07-07T20:36:29",
+  "modified_gmt": "2025-07-08T00:36:29",
+  "slug": "toi-2136-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2136-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2136",
+    "pl_letter": "b",
+    "display_name": "TOI-2136 b",
+    "planet_radius": "2.19 x Earth",
+    "derived_description": "TOI-2136 b is a super Earth exoplanet that orbits a M-type star. Its mass is 6.37 Earths, it takes 7.9 days to complete one orbit of its star, and is 0.057 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 33.3631,
+    "planet_mass": "6.37 Earths",
+    "st_optmag": 14.32,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.057,
+    "period_display": "7.9 days",
+    "eccentricity": "0.0",
+    "star_id": 263235,
+    "pl_orbper": 7.851928,
+    "pl_kepflag": false,
+    "pl_radj": 0.19537905,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 2.19,
+    "exo_id": "TOI-2136_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248526",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263235"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

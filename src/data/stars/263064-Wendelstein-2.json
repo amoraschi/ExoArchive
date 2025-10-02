@@ -1,1 +1,71 @@
-{"id":263064,"date":"2023-11-28T20:58:57","date_gmt":"2023-11-29T01:58:57","modified":"2025-04-23T05:56:42","modified_gmt":"2025-04-23T09:56:42","slug":"wendelstein-2","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wendelstein-2/","featured_media":0,"categories":[],"acf":{"display_name":"Wendelstein-2","custom_star_title":"","aliases":"","constellation":"Sagitta","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248926],"exo_id":"Wendelstein-2","st_optmag":16.186,"st_vj":16.186,"st_dist":565.541,"st_j":16.186,"st_mass":0.73,"dec":16.9125679,"st_teff":4591,"st_rad":0.66,"ra":297.7909214,"system_radius":3500590.158,"pl_hostname":"Wendelstein-2","stellar_type":"K","tic_id":"TIC 209752908","magnitude":16.186},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263064","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248926"}]}}
+{
+  "id": 263064,
+  "date": "2023-11-28T20:58:57",
+  "date_gmt": "2023-11-29T01:58:57",
+  "modified": "2025-04-23T05:56:42",
+  "modified_gmt": "2025-04-23T09:56:42",
+  "slug": "wendelstein-2",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wendelstein-2/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Wendelstein-2",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagitta",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248926
+    ],
+    "exo_id": "Wendelstein-2",
+    "st_optmag": 16.186,
+    "st_vj": 16.186,
+    "st_dist": 565.541,
+    "st_j": 16.186,
+    "st_mass": 0.73,
+    "dec": 16.9125679,
+    "st_teff": 4591,
+    "st_rad": 0.66,
+    "ra": 297.7909214,
+    "system_radius": 3500590.158,
+    "pl_hostname": "Wendelstein-2",
+    "stellar_type": "K",
+    "tic_id": "TIC 209752908",
+    "magnitude": 16.186
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263064",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248926"
+      }
+    ]
+  }
+}

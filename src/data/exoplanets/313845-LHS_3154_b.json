@@ -1,1 +1,79 @@
-{"id":313845,"date":"2023-12-19T19:15:50","date_gmt":"2023-12-20T00:15:50","modified":"2024-10-25T10:42:29","modified_gmt":"2024-10-25T14:42:29","slug":"lhs-3154-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/lhs-3154-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"LHS_3154","pl_letter":"b","display_name":"LHS 3154 b","planet_radius":"0.329 x Jupiter (estimate)","derived_description":"LHS 3154 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 13.15 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.02262 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"McDonald Observatory","st_dist":15.7606,"planet_mass":"13.15 Earths","st_optmag":17.65,"discovery_date":"2023","pl_orbsmax":0.02262,"period_display":"3.7 days","eccentricity":"0.08","star_id":313799,"pl_orbper":3.71778,"pl_kepflag":false,"pl_radj":0.329,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":82,"multiple_planet_system":false,"pl_rade":3.69,"exo_id":"LHS_3154_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.076},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313845","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/313799"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 313845,
+  "date": "2023-12-19T19:15:50",
+  "date_gmt": "2023-12-20T00:15:50",
+  "modified": "2024-10-25T10:42:29",
+  "modified_gmt": "2024-10-25T14:42:29",
+  "slug": "lhs-3154-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/lhs-3154-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LHS_3154",
+    "pl_letter": "b",
+    "display_name": "LHS 3154 b",
+    "planet_radius": "0.329 x Jupiter (estimate)",
+    "derived_description": "LHS 3154 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 13.15 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.02262 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "McDonald Observatory",
+    "st_dist": 15.7606,
+    "planet_mass": "13.15 Earths",
+    "st_optmag": 17.65,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.02262,
+    "period_display": "3.7 days",
+    "eccentricity": "0.08",
+    "star_id": 313799,
+    "pl_orbper": 3.71778,
+    "pl_kepflag": false,
+    "pl_radj": 0.329,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 82,
+    "multiple_planet_system": false,
+    "pl_rade": 3.69,
+    "exo_id": "LHS_3154_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.076
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313845",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313799"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

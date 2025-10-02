@@ -1,1 +1,79 @@
-{"id":243799,"date":"2016-06-23T13:15:41","date_gmt":"2016-06-23T17:15:41","modified":"2025-03-28T07:21:38","modified_gmt":"2025-03-28T11:21:38","slug":"hats-15-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-15-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-15","pl_letter":"b","display_name":"HATS-15 b","planet_radius":"1.105 x Jupiter","derived_description":"HATS-15 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.17 Jupiters, it takes 1.7 days to complete one orbit of its star, and is 0.02712 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":1139.55,"planet_mass":"2.17 Jupiters","st_optmag":14.909,"discovery_date":"2016","pl_orbsmax":0.02712,"period_display":"1.7 days","eccentricity":"< 0.126","star_id":260473,"pl_orbper":1.74748753,"pl_kepflag":false,"pl_radj":1.105,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.385945,"exo_id":"HATS-15_b","planet_size_class":"Jovian","pl_eccenlim":0.126,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243799","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260473"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243799,
+  "date": "2016-06-23T13:15:41",
+  "date_gmt": "2016-06-23T17:15:41",
+  "modified": "2025-03-28T07:21:38",
+  "modified_gmt": "2025-03-28T11:21:38",
+  "slug": "hats-15-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-15-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-15",
+    "pl_letter": "b",
+    "display_name": "HATS-15 b",
+    "planet_radius": "1.105 x Jupiter",
+    "derived_description": "HATS-15 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.17 Jupiters, it takes 1.7 days to complete one orbit of its star, and is 0.02712 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 1139.55,
+    "planet_mass": "2.17 Jupiters",
+    "st_optmag": 14.909,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.02712,
+    "period_display": "1.7 days",
+    "eccentricity": "< 0.126",
+    "star_id": 260473,
+    "pl_orbper": 1.74748753,
+    "pl_kepflag": false,
+    "pl_radj": 1.105,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.385945,
+    "exo_id": "HATS-15_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.126,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243799",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260473"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

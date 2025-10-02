@@ -1,1 +1,76 @@
-{"id":260990,"date":"2023-11-28T20:32:40","date_gmt":"2023-11-29T01:32:40","modified":"2025-04-23T05:55:22","modified_gmt":"2025-04-23T09:55:22","slug":"kepler-136","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-136/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-136","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245749,"1":245748},"exo_id":"Kepler-136","st_optmag":11.822,"st_vj":11.822,"st_dist":420.818,"st_j":11.822,"st_mass":1.204,"dec":42.5987984,"st_teff":6165,"st_rad":1.355,"ra":296.4673039,"system_radius":19896516.71,"pl_hostname":"Kepler-136","stellar_type":"F","tic_id":"TIC 272375343","magnitude":11.822},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260990","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245749"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245748"}]}}
+{
+  "id": 260990,
+  "date": "2023-11-28T20:32:40",
+  "date_gmt": "2023-11-29T01:32:40",
+  "modified": "2025-04-23T05:55:22",
+  "modified_gmt": "2025-04-23T09:55:22",
+  "slug": "kepler-136",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-136/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-136",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245749,
+      "1": 245748
+    },
+    "exo_id": "Kepler-136",
+    "st_optmag": 11.822,
+    "st_vj": 11.822,
+    "st_dist": 420.818,
+    "st_j": 11.822,
+    "st_mass": 1.204,
+    "dec": 42.5987984,
+    "st_teff": 6165,
+    "st_rad": 1.355,
+    "ra": 296.4673039,
+    "system_radius": 19896516.71,
+    "pl_hostname": "Kepler-136",
+    "stellar_type": "F",
+    "tic_id": "TIC 272375343",
+    "magnitude": 11.822
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260990",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245749"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245748"
+      }
+    ]
+  }
+}

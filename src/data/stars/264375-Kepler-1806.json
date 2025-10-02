@@ -1,1 +1,71 @@
-{"id":264375,"date":"2023-11-28T21:15:44","date_gmt":"2023-11-29T02:15:44","modified":"2025-04-23T05:56:47","modified_gmt":"2025-04-23T09:56:47","slug":"kepler-1806","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1806/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1806","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246344],"exo_id":"Kepler-1806","st_optmag":16.173,"st_vj":16.173,"st_dist":978.066,"st_j":16.173,"st_mass":0.884,"dec":49.8016283,"st_teff":5311,"st_rad":0.788,"ra":287.5349528,"system_radius":12162306.831,"pl_hostname":"Kepler-1806","stellar_type":"G","tic_id":"TIC 399954605","magnitude":16.173},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264375","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246344"}]}}
+{
+  "id": 264375,
+  "date": "2023-11-28T21:15:44",
+  "date_gmt": "2023-11-29T02:15:44",
+  "modified": "2025-04-23T05:56:47",
+  "modified_gmt": "2025-04-23T09:56:47",
+  "slug": "kepler-1806",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1806/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1806",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246344
+    ],
+    "exo_id": "Kepler-1806",
+    "st_optmag": 16.173,
+    "st_vj": 16.173,
+    "st_dist": 978.066,
+    "st_j": 16.173,
+    "st_mass": 0.884,
+    "dec": 49.8016283,
+    "st_teff": 5311,
+    "st_rad": 0.788,
+    "ra": 287.5349528,
+    "system_radius": 12162306.831,
+    "pl_hostname": "Kepler-1806",
+    "stellar_type": "G",
+    "tic_id": "TIC 399954605",
+    "magnitude": 16.173
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264375",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246344"
+      }
+    ]
+  }
+}

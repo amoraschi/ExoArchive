@@ -1,1 +1,71 @@
-{"id":263607,"date":"2023-11-28T21:05:49","date_gmt":"2023-11-29T02:05:49","modified":"2025-04-23T05:56:35","modified_gmt":"2025-04-23T09:56:35","slug":"kepler-719","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-719/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-719","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247626],"exo_id":"Kepler-719","st_optmag":16.128,"st_vj":16.128,"st_dist":2497.51,"st_j":16.128,"st_mass":0.99,"dec":43.8844116,"st_teff":5777,"st_rad":0.98,"ra":295.5360628,"system_radius":8317641.572,"pl_hostname":"Kepler-719","stellar_type":"G","tic_id":"TIC 271767300","magnitude":16.128},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263607","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247626"}]}}
+{
+  "id": 263607,
+  "date": "2023-11-28T21:05:49",
+  "date_gmt": "2023-11-29T02:05:49",
+  "modified": "2025-04-23T05:56:35",
+  "modified_gmt": "2025-04-23T09:56:35",
+  "slug": "kepler-719",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-719/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-719",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247626
+    ],
+    "exo_id": "Kepler-719",
+    "st_optmag": 16.128,
+    "st_vj": 16.128,
+    "st_dist": 2497.51,
+    "st_j": 16.128,
+    "st_mass": 0.99,
+    "dec": 43.8844116,
+    "st_teff": 5777,
+    "st_rad": 0.98,
+    "ra": 295.5360628,
+    "system_radius": 8317641.572,
+    "pl_hostname": "Kepler-719",
+    "stellar_type": "G",
+    "tic_id": "TIC 271767300",
+    "magnitude": 16.128
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263607",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247626"
+      }
+    ]
+  }
+}

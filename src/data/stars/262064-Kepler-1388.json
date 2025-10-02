@@ -1,1 +1,86 @@
-{"id":262064,"date":"2023-11-28T20:46:15","date_gmt":"2023-11-29T01:46:15","modified":"2025-04-23T05:53:48","modified_gmt":"2025-04-23T09:53:48","slug":"kepler-1388","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1388/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1388","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245773,245774,245775,245776],"exo_id":"Kepler-1388","st_optmag":16.43,"st_vj":16.43,"st_dist":453.795,"st_j":16.43,"st_mass":0.63,"dec":47.1744499,"st_teff":4098,"st_rad":0.61,"ra":283.3360156,"system_radius":27840163.607,"pl_hostname":"Kepler-1388","stellar_type":"K","tic_id":"TIC 164524311","magnitude":16.43},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262064","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245776"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245775"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245774"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245773"}]}}
+{
+  "id": 262064,
+  "date": "2023-11-28T20:46:15",
+  "date_gmt": "2023-11-29T01:46:15",
+  "modified": "2025-04-23T05:53:48",
+  "modified_gmt": "2025-04-23T09:53:48",
+  "slug": "kepler-1388",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1388/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1388",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245773,
+      245774,
+      245775,
+      245776
+    ],
+    "exo_id": "Kepler-1388",
+    "st_optmag": 16.43,
+    "st_vj": 16.43,
+    "st_dist": 453.795,
+    "st_j": 16.43,
+    "st_mass": 0.63,
+    "dec": 47.1744499,
+    "st_teff": 4098,
+    "st_rad": 0.61,
+    "ra": 283.3360156,
+    "system_radius": 27840163.607,
+    "pl_hostname": "Kepler-1388",
+    "stellar_type": "K",
+    "tic_id": "TIC 164524311",
+    "magnitude": 16.43
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262064",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245776"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245775"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245774"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245773"
+      }
+    ]
+  }
+}

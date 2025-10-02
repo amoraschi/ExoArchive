@@ -1,1 +1,79 @@
-{"id":246537,"date":"2021-12-13T17:05:38","date_gmt":"2021-12-13T22:05:38","modified":"2025-03-28T07:33:03","modified_gmt":"2025-03-28T11:33:03","slug":"kepler-1952-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1952-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1952","pl_letter":"b","display_name":"Kepler-1952 b","planet_radius":"1.23923346 x Earth","derived_description":"Kepler-1952 b is a super Earth exoplanet that orbits a F-type star. Its mass is 2.07 Earths, it takes 27.2 days to complete one orbit of its star, and is 0.1724 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":852.062,"planet_mass":"2.07 Earths","st_optmag":13.828,"discovery_date":"2021","pl_orbsmax":0.1724,"period_display":"27.2 days","eccentricity":"0.0","star_id":264378,"pl_orbper":27.21080017,"pl_kepflag":true,"pl_radj":0.11055719,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.23923346,"exo_id":"Kepler-1952_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246537","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264378"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246537,
+  "date": "2021-12-13T17:05:38",
+  "date_gmt": "2021-12-13T22:05:38",
+  "modified": "2025-03-28T07:33:03",
+  "modified_gmt": "2025-03-28T11:33:03",
+  "slug": "kepler-1952-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1952-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1952",
+    "pl_letter": "b",
+    "display_name": "Kepler-1952 b",
+    "planet_radius": "1.23923346 x Earth",
+    "derived_description": "Kepler-1952 b is a super Earth exoplanet that orbits a F-type star. Its mass is 2.07 Earths, it takes 27.2 days to complete one orbit of its star, and is 0.1724 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 852.062,
+    "planet_mass": "2.07 Earths",
+    "st_optmag": 13.828,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.1724,
+    "period_display": "27.2 days",
+    "eccentricity": "0.0",
+    "star_id": 264378,
+    "pl_orbper": 27.21080017,
+    "pl_kepflag": true,
+    "pl_radj": 0.11055719,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.23923346,
+    "exo_id": "Kepler-1952_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246537",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264378"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

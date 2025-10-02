@@ -1,1 +1,77 @@
-{"id":884285,"date":"2025-07-29T20:42:24","date_gmt":"2025-07-30T00:42:24","modified":"2025-07-29T20:42:24","modified_gmt":"2025-07-30T00:42:24","slug":"toi-4734","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4734/","featured_media":429647,"categories":[],"acf":{"display_name":"TOI-4734","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[884326],"exo_id":"TOI-4734","st_optmag":12.358,"st_vj":12.358,"st_dist":563.068,"st_j":12.358,"st_mass":1.391,"dec":12.5478825,"st_teff":6070,"st_rad":1.857,"ra":90.3581219,"system_radius":11070242.38,"pl_hostname":"TOI-4734","stellar_type":"F","tic_id":"TIC 97714451","magnitude":12.358},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/884285","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884326"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 884285,
+  "date": "2025-07-29T20:42:24",
+  "date_gmt": "2025-07-30T00:42:24",
+  "modified": "2025-07-29T20:42:24",
+  "modified_gmt": "2025-07-30T00:42:24",
+  "slug": "toi-4734",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4734/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4734",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      884326
+    ],
+    "exo_id": "TOI-4734",
+    "st_optmag": 12.358,
+    "st_vj": 12.358,
+    "st_dist": 563.068,
+    "st_j": 12.358,
+    "st_mass": 1.391,
+    "dec": 12.5478825,
+    "st_teff": 6070,
+    "st_rad": 1.857,
+    "ra": 90.3581219,
+    "system_radius": 11070242.38,
+    "pl_hostname": "TOI-4734",
+    "stellar_type": "F",
+    "tic_id": "TIC 97714451",
+    "magnitude": 12.358
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884285",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884326"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

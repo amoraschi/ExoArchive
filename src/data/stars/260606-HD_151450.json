@@ -1,1 +1,76 @@
-{"id":260606,"date":"2023-11-28T20:27:52","date_gmt":"2023-11-29T01:27:52","modified":"2025-04-23T05:53:29","modified_gmt":"2025-04-23T09:53:29","slug":"hd_151450","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_151450/","featured_media":0,"categories":[],"acf":{"display_name":"HD 151450","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244063,244064],"exo_id":"HD_151450","st_optmag":7.43,"st_vj":7.43,"st_dist":43.6002,"st_j":7.43,"st_mass":1.14,"dec":-15.964345,"st_teff":6091.98,"st_rad":1.17184,"ra":252.0080127,"system_radius":2113967500.97,"pl_hostname":"HD_151450","stellar_type":"F","tic_id":"TIC 12514017","magnitude":7.43},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260606","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244064"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244063"}]}}
+{
+  "id": 260606,
+  "date": "2023-11-28T20:27:52",
+  "date_gmt": "2023-11-29T01:27:52",
+  "modified": "2025-04-23T05:53:29",
+  "modified_gmt": "2025-04-23T09:53:29",
+  "slug": "hd_151450",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_151450/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 151450",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244063,
+      244064
+    ],
+    "exo_id": "HD_151450",
+    "st_optmag": 7.43,
+    "st_vj": 7.43,
+    "st_dist": 43.6002,
+    "st_j": 7.43,
+    "st_mass": 1.14,
+    "dec": -15.964345,
+    "st_teff": 6091.98,
+    "st_rad": 1.17184,
+    "ra": 252.0080127,
+    "system_radius": 2113967500.97,
+    "pl_hostname": "HD_151450",
+    "stellar_type": "F",
+    "tic_id": "TIC 12514017",
+    "magnitude": 7.43
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260606",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244064"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244063"
+      }
+    ]
+  }
+}

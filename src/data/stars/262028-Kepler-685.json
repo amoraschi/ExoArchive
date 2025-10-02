@@ -1,1 +1,71 @@
-{"id":262028,"date":"2023-11-28T20:45:47","date_gmt":"2023-11-29T01:45:47","modified":"2025-04-23T05:55:27","modified_gmt":"2025-04-23T09:55:27","slug":"kepler-685","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-685/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-685","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247584],"exo_id":"Kepler-685","st_optmag":15.186,"st_vj":15.186,"st_dist":938.715,"st_j":15.186,"st_mass":1.11,"dec":38.4229184,"st_teff":5963,"st_rad":1.16,"ra":293.8719143,"system_radius":3964343.555,"pl_hostname":"Kepler-685","stellar_type":"F","tic_id":"TIC 138364831","magnitude":15.186},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262028","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247584"}]}}
+{
+  "id": 262028,
+  "date": "2023-11-28T20:45:47",
+  "date_gmt": "2023-11-29T01:45:47",
+  "modified": "2025-04-23T05:55:27",
+  "modified_gmt": "2025-04-23T09:55:27",
+  "slug": "kepler-685",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-685/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-685",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247584
+    ],
+    "exo_id": "Kepler-685",
+    "st_optmag": 15.186,
+    "st_vj": 15.186,
+    "st_dist": 938.715,
+    "st_j": 15.186,
+    "st_mass": 1.11,
+    "dec": 38.4229184,
+    "st_teff": 5963,
+    "st_rad": 1.16,
+    "ra": 293.8719143,
+    "system_radius": 3964343.555,
+    "pl_hostname": "Kepler-685",
+    "stellar_type": "F",
+    "tic_id": "TIC 138364831",
+    "magnitude": 15.186
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262028",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247584"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243825,"date":"2018-04-13T13:26:13","date_gmt":"2018-04-13T17:26:13","modified":"2025-07-07T20:32:47","modified_gmt":"2025-07-08T00:32:47","slug":"hats-41-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-41-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-41","pl_letter":"b","display_name":"HATS-41 b","planet_radius":"1.33 x Jupiter","derived_description":"HATS-41 b is a gas giant exoplanet that orbits a F-type star. Its mass is 9.7 Jupiters, it takes 4.2 days to complete one orbit of its star, and is 0.0583 AU from its star. Its discovery was announced in 2018.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":737.668,"planet_mass":"9.7 Jupiters","st_optmag":12.678,"discovery_date":"2018","pl_orbsmax":0.0583,"period_display":"4.2 days","eccentricity":"0.38","star_id":261665,"pl_orbper":4.193649,"pl_kepflag":false,"pl_radj":1.33,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":136,"multiple_planet_system":false,"pl_rade":14.90797,"exo_id":"HATS-41_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.38},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243825","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261665"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243825,
+  "date": "2018-04-13T13:26:13",
+  "date_gmt": "2018-04-13T17:26:13",
+  "modified": "2025-07-07T20:32:47",
+  "modified_gmt": "2025-07-08T00:32:47",
+  "slug": "hats-41-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-41-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-41",
+    "pl_letter": "b",
+    "display_name": "HATS-41 b",
+    "planet_radius": "1.33 x Jupiter",
+    "derived_description": "HATS-41 b is a gas giant exoplanet that orbits a F-type star. Its mass is 9.7 Jupiters, it takes 4.2 days to complete one orbit of its star, and is 0.0583 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 737.668,
+    "planet_mass": "9.7 Jupiters",
+    "st_optmag": 12.678,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.0583,
+    "period_display": "4.2 days",
+    "eccentricity": "0.38",
+    "star_id": 261665,
+    "pl_orbper": 4.193649,
+    "pl_kepflag": false,
+    "pl_radj": 1.33,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 136,
+    "multiple_planet_system": false,
+    "pl_rade": 14.90797,
+    "exo_id": "HATS-41_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.38
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243825",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261665"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

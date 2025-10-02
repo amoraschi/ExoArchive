@@ -1,1 +1,71 @@
-{"id":262455,"date":"2023-11-28T20:51:12","date_gmt":"2023-11-29T01:51:12","modified":"2025-04-23T05:55:57","modified_gmt":"2025-04-23T09:55:57","slug":"wasp-33","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-33/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-33","custom_star_title":"","aliases":"","constellation":"Andromeda","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248845],"exo_id":"WASP-33","st_optmag":8.14,"st_vj":8.14,"st_dist":121.944,"st_j":8.14,"st_mass":1.495,"dec":37.5504441,"st_teff":7430,"st_rad":1.444,"ra":36.7127375,"system_radius":3575389.093,"pl_hostname":"WASP-33","stellar_type":"A","tic_id":"TIC 129979528","magnitude":8.14},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262455","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248845"}]}}
+{
+  "id": 262455,
+  "date": "2023-11-28T20:51:12",
+  "date_gmt": "2023-11-29T01:51:12",
+  "modified": "2025-04-23T05:55:57",
+  "modified_gmt": "2025-04-23T09:55:57",
+  "slug": "wasp-33",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-33/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-33",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248845
+    ],
+    "exo_id": "WASP-33",
+    "st_optmag": 8.14,
+    "st_vj": 8.14,
+    "st_dist": 121.944,
+    "st_j": 8.14,
+    "st_mass": 1.495,
+    "dec": 37.5504441,
+    "st_teff": 7430,
+    "st_rad": 1.444,
+    "ra": 36.7127375,
+    "system_radius": 3575389.093,
+    "pl_hostname": "WASP-33",
+    "stellar_type": "A",
+    "tic_id": "TIC 129979528",
+    "magnitude": 8.14
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262455",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248845"
+      }
+    ]
+  }
+}

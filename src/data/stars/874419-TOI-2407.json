@@ -1,1 +1,77 @@
-{"id":874419,"date":"2025-06-26T20:02:05","date_gmt":"2025-06-27T00:02:05","modified":"2025-06-26T20:02:05","modified_gmt":"2025-06-27T00:02:05","slug":"toi-2407","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2407/","featured_media":429650,"categories":[],"acf":{"display_name":"TOI-2407","custom_star_title":"","aliases":"","constellation":"Horologium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876031],"exo_id":"TOI-2407","st_optmag":14.68,"st_vj":14.68,"st_dist":92.4366,"st_j":14.68,"st_mass":0.548,"dec":-46.458025,"st_teff":3530,"st_rad":0.567,"ra":49.746545,"system_radius":4936729.71,"pl_hostname":"TOI-2407","stellar_type":"M","tic_id":"TIC 153078576","magnitude":14.68},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/874419","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876031"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429650"}]}}
+{
+  "id": 874419,
+  "date": "2025-06-26T20:02:05",
+  "date_gmt": "2025-06-27T00:02:05",
+  "modified": "2025-06-26T20:02:05",
+  "modified_gmt": "2025-06-27T00:02:05",
+  "slug": "toi-2407",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2407/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2407",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Horologium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876031
+    ],
+    "exo_id": "TOI-2407",
+    "st_optmag": 14.68,
+    "st_vj": 14.68,
+    "st_dist": 92.4366,
+    "st_j": 14.68,
+    "st_mass": 0.548,
+    "dec": -46.458025,
+    "st_teff": 3530,
+    "st_rad": 0.567,
+    "ra": 49.746545,
+    "system_radius": 4936729.71,
+    "pl_hostname": "TOI-2407",
+    "stellar_type": "M",
+    "tic_id": "TIC 153078576",
+    "magnitude": 14.68
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/874419",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876031"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

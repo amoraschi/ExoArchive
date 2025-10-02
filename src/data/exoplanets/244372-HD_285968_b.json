@@ -1,1 +1,79 @@
-{"id":244372,"date":"2019-04-22T16:48:43","date_gmt":"2019-04-22T20:48:43","modified":"2024-10-25T05:14:48","modified_gmt":"2024-10-25T09:14:48","slug":"hd-285968-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-285968-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_285968","pl_letter":"b","display_name":"HD 285968 b","planet_radius":"0.253 x Jupiter (estimate)","derived_description":"HD 285968 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.4 Earths, it takes 8.8 days to complete one orbit of its star, and is 0.066 AU from its star. Its discovery was announced in 2008.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":9.47045,"planet_mass":"8.4 Earths","st_optmag":9.95,"discovery_date":"2008","pl_orbsmax":0.066,"period_display":"8.8 days","eccentricity":"0.0","star_id":263330,"pl_orbper":8.7836,"pl_kepflag":false,"pl_radj":0.253,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":0,"multiple_planet_system":false,"pl_rade":2.83,"exo_id":"HD_285968_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244372","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263330"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244372,
+  "date": "2019-04-22T16:48:43",
+  "date_gmt": "2019-04-22T20:48:43",
+  "modified": "2024-10-25T05:14:48",
+  "modified_gmt": "2024-10-25T09:14:48",
+  "slug": "hd-285968-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-285968-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_285968",
+    "pl_letter": "b",
+    "display_name": "HD 285968 b",
+    "planet_radius": "0.253 x Jupiter (estimate)",
+    "derived_description": "HD 285968 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.4 Earths, it takes 8.8 days to complete one orbit of its star, and is 0.066 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 9.47045,
+    "planet_mass": "8.4 Earths",
+    "st_optmag": 9.95,
+    "discovery_date": "2008",
+    "pl_orbsmax": 0.066,
+    "period_display": "8.8 days",
+    "eccentricity": "0.0",
+    "star_id": 263330,
+    "pl_orbper": 8.7836,
+    "pl_kepflag": false,
+    "pl_radj": 0.253,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 2.83,
+    "exo_id": "HD_285968_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244372",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263330"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

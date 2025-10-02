@@ -1,1 +1,76 @@
-{"id":261684,"date":"2023-11-28T20:41:26","date_gmt":"2023-11-29T01:41:26","modified":"2025-04-23T05:55:57","modified_gmt":"2025-04-23T09:55:57","slug":"kepler-449","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-449/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-449","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247242,247243],"exo_id":"Kepler-449","st_optmag":11.448,"st_vj":11.448,"st_dist":241.949,"st_j":11.448,"st_mass":1.02,"dec":41.9006366,"st_teff":5649.18,"st_rad":1.467,"ra":293.732787,"system_radius":29605418.473,"pl_hostname":"Kepler-449","stellar_type":"G","tic_id":"TIC 270779644","magnitude":11.448},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261684","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247243"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247242"}]}}
+{
+  "id": 261684,
+  "date": "2023-11-28T20:41:26",
+  "date_gmt": "2023-11-29T01:41:26",
+  "modified": "2025-04-23T05:55:57",
+  "modified_gmt": "2025-04-23T09:55:57",
+  "slug": "kepler-449",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-449/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-449",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247242,
+      247243
+    ],
+    "exo_id": "Kepler-449",
+    "st_optmag": 11.448,
+    "st_vj": 11.448,
+    "st_dist": 241.949,
+    "st_j": 11.448,
+    "st_mass": 1.02,
+    "dec": 41.9006366,
+    "st_teff": 5649.18,
+    "st_rad": 1.467,
+    "ra": 293.732787,
+    "system_radius": 29605418.473,
+    "pl_hostname": "Kepler-449",
+    "stellar_type": "G",
+    "tic_id": "TIC 270779644",
+    "magnitude": 11.448
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261684",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247243"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247242"
+      }
+    ]
+  }
+}

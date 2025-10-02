@@ -1,1 +1,71 @@
-{"id":263866,"date":"2023-11-28T21:09:13","date_gmt":"2023-11-29T02:09:13","modified":"2025-04-23T05:57:08","modified_gmt":"2025-04-23T09:57:08","slug":"bd48_740","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/bd48_740/","featured_media":0,"categories":[],"acf":{"display_name":"BD+48 740","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243459],"exo_id":"BD+48_740","st_optmag":8.69,"st_vj":8.69,"st_dist":666.589,"st_j":8.69,"st_mass":1.09,"dec":48.9300579,"st_teff":4534,"st_rad":10.33,"ra":40.7425426,"system_radius":254316379,"pl_hostname":"BD+48_740","stellar_type":"K","tic_id":"TIC 302070274","magnitude":8.69},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263866","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243459"}]}}
+{
+  "id": 263866,
+  "date": "2023-11-28T21:09:13",
+  "date_gmt": "2023-11-29T02:09:13",
+  "modified": "2025-04-23T05:57:08",
+  "modified_gmt": "2025-04-23T09:57:08",
+  "slug": "bd48_740",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bd48_740/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "BD+48 740",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243459
+    ],
+    "exo_id": "BD+48_740",
+    "st_optmag": 8.69,
+    "st_vj": 8.69,
+    "st_dist": 666.589,
+    "st_j": 8.69,
+    "st_mass": 1.09,
+    "dec": 48.9300579,
+    "st_teff": 4534,
+    "st_rad": 10.33,
+    "ra": 40.7425426,
+    "system_radius": 254316379,
+    "pl_hostname": "BD+48_740",
+    "stellar_type": "K",
+    "tic_id": "TIC 302070274",
+    "magnitude": 8.69
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263866",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243459"
+      }
+    ]
+  }
+}

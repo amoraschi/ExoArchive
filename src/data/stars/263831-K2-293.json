@@ -1,1 +1,71 @@
-{"id":263831,"date":"2023-11-28T21:08:46","date_gmt":"2023-11-29T02:08:46","modified":"2025-04-23T05:56:15","modified_gmt":"2025-04-23T09:56:15","slug":"k2-293","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-293/","featured_media":0,"categories":[],"acf":{"display_name":"K2-293","custom_star_title":"","aliases":"","constellation":"Aquarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244987],"exo_id":"K2-293","st_optmag":13.44,"st_vj":13.44,"st_dist":392.251,"st_j":13.44,"st_mass":0.958,"dec":-6.0279068,"st_teff":5532,"st_rad":0.947,"ra":351.6064952,"system_radius":149597870,"pl_hostname":"K2-293","stellar_type":"G","tic_id":"TIC 49679172","magnitude":13.44},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263831","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244987"}]}}
+{
+  "id": 263831,
+  "date": "2023-11-28T21:08:46",
+  "date_gmt": "2023-11-29T02:08:46",
+  "modified": "2025-04-23T05:56:15",
+  "modified_gmt": "2025-04-23T09:56:15",
+  "slug": "k2-293",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-293/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-293",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244987
+    ],
+    "exo_id": "K2-293",
+    "st_optmag": 13.44,
+    "st_vj": 13.44,
+    "st_dist": 392.251,
+    "st_j": 13.44,
+    "st_mass": 0.958,
+    "dec": -6.0279068,
+    "st_teff": 5532,
+    "st_rad": 0.947,
+    "ra": 351.6064952,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-293",
+    "stellar_type": "G",
+    "tic_id": "TIC 49679172",
+    "magnitude": 13.44
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263831",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244987"
+      }
+    ]
+  }
+}

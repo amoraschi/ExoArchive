@@ -1,1 +1,79 @@
-{"id":243865,"date":"2018-05-25T13:26:14","date_gmt":"2018-05-25T17:26:14","modified":"2025-06-25T12:06:11","modified_gmt":"2025-06-25T16:06:11","slug":"hats-7-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-7-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-7","pl_letter":"b","display_name":"HATS-7 b","planet_radius":"0.563 x Jupiter","derived_description":"HATS-7 b is a gas giant exoplanet that orbits a K-type star. Its mass is 38.1396 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.04012 AU from its star. Its discovery was announced in 2015.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":240.707,"planet_mass":"38.1396 Earths","st_optmag":13.347,"discovery_date":"2015","pl_orbsmax":0.04012,"period_display":"3.2 days","eccentricity":"< 0.17","star_id":260628,"pl_orbper":3.185315,"pl_kepflag":false,"pl_radj":0.563,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":6.310667,"exo_id":"HATS-7_b","planet_size_class":"sub-Jovian","pl_eccenlim":0.17,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243865","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260628"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243865,
+  "date": "2018-05-25T13:26:14",
+  "date_gmt": "2018-05-25T17:26:14",
+  "modified": "2025-06-25T12:06:11",
+  "modified_gmt": "2025-06-25T16:06:11",
+  "slug": "hats-7-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-7-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-7",
+    "pl_letter": "b",
+    "display_name": "HATS-7 b",
+    "planet_radius": "0.563 x Jupiter",
+    "derived_description": "HATS-7 b is a gas giant exoplanet that orbits a K-type star. Its mass is 38.1396 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.04012 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 240.707,
+    "planet_mass": "38.1396 Earths",
+    "st_optmag": 13.347,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.04012,
+    "period_display": "3.2 days",
+    "eccentricity": "< 0.17",
+    "star_id": 260628,
+    "pl_orbper": 3.185315,
+    "pl_kepflag": false,
+    "pl_radj": 0.563,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 6.310667,
+    "exo_id": "HATS-7_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0.17,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243865",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260628"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

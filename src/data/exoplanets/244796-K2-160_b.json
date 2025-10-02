@@ -1,1 +1,79 @@
-{"id":244796,"date":"2018-02-16T12:26:14","date_gmt":"2018-02-16T17:26:14","modified":"2025-03-28T07:25:33","modified_gmt":"2025-03-28T11:25:33","slug":"k2-160-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-160-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-160","pl_letter":"b","display_name":"K2-160 b","planet_radius":"0.28354361 x Jupiter","derived_description":"K2-160 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.2 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.046596610650011 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":315.363,"planet_mass":"10.2 Earths","st_optmag":12.838,"discovery_date":"2018","pl_orbsmax":"","period_display":"3.7 days","eccentricity":"","star_id":261237,"pl_orbper":3.705871,"pl_kepflag":true,"pl_radj":0.28354361,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.17824034,"exo_id":"K2-160_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244796","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261237"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244796,
+  "date": "2018-02-16T12:26:14",
+  "date_gmt": "2018-02-16T17:26:14",
+  "modified": "2025-03-28T07:25:33",
+  "modified_gmt": "2025-03-28T11:25:33",
+  "slug": "k2-160-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-160-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-160",
+    "pl_letter": "b",
+    "display_name": "K2-160 b",
+    "planet_radius": "0.28354361 x Jupiter",
+    "derived_description": "K2-160 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.2 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.046596610650011 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 315.363,
+    "planet_mass": "10.2 Earths",
+    "st_optmag": 12.838,
+    "discovery_date": "2018",
+    "pl_orbsmax": "",
+    "period_display": "3.7 days",
+    "eccentricity": "",
+    "star_id": 261237,
+    "pl_orbper": 3.705871,
+    "pl_kepflag": true,
+    "pl_radj": 0.28354361,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.17824034,
+    "exo_id": "K2-160_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244796",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261237"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

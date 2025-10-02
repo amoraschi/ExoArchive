@@ -1,1 +1,71 @@
-{"id":262617,"date":"2023-11-28T20:53:16","date_gmt":"2023-11-29T01:53:16","modified":"2025-04-23T05:56:47","modified_gmt":"2025-04-23T09:56:47","slug":"kepler-1993","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1993/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1993","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246591],"exo_id":"Kepler-1993","st_optmag":13.451,"st_vj":13.451,"st_dist":1031.91,"st_j":13.451,"st_mass":1.373,"dec":45.1607261,"st_teff":5159,"st_rad":3.062,"ra":293.7968548,"system_radius":29066866.141,"pl_hostname":"Kepler-1993","stellar_type":"K","tic_id":"TIC 270700335","magnitude":13.451},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262617","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246591"}]}}
+{
+  "id": 262617,
+  "date": "2023-11-28T20:53:16",
+  "date_gmt": "2023-11-29T01:53:16",
+  "modified": "2025-04-23T05:56:47",
+  "modified_gmt": "2025-04-23T09:56:47",
+  "slug": "kepler-1993",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1993/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1993",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246591
+    ],
+    "exo_id": "Kepler-1993",
+    "st_optmag": 13.451,
+    "st_vj": 13.451,
+    "st_dist": 1031.91,
+    "st_j": 13.451,
+    "st_mass": 1.373,
+    "dec": 45.1607261,
+    "st_teff": 5159,
+    "st_rad": 3.062,
+    "ra": 293.7968548,
+    "system_radius": 29066866.141,
+    "pl_hostname": "Kepler-1993",
+    "stellar_type": "K",
+    "tic_id": "TIC 270700335",
+    "magnitude": 13.451
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262617",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246591"
+      }
+    ]
+  }
+}

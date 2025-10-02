@@ -1,1 +1,71 @@
-{"id":263120,"date":"2023-11-28T20:59:39","date_gmt":"2023-11-29T01:59:39","modified":"2025-04-23T05:53:39","modified_gmt":"2025-04-23T09:53:39","slug":"wasp-38","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-38/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-38","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248850],"exo_id":"WASP-38","st_optmag":9.391,"st_vj":9.391,"st_dist":136.24,"st_j":9.391,"st_mass":1.76,"dec":10.0324103,"st_teff":6180,"st_rad":1.52,"ra":243.9597194,"system_radius":11252751.7814,"pl_hostname":"WASP-38","stellar_type":"F","tic_id":"TIC 318696424","magnitude":9.391},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263120","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248850"}]}}
+{
+  "id": 263120,
+  "date": "2023-11-28T20:59:39",
+  "date_gmt": "2023-11-29T01:59:39",
+  "modified": "2025-04-23T05:53:39",
+  "modified_gmt": "2025-04-23T09:53:39",
+  "slug": "wasp-38",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-38/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-38",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248850
+    ],
+    "exo_id": "WASP-38",
+    "st_optmag": 9.391,
+    "st_vj": 9.391,
+    "st_dist": 136.24,
+    "st_j": 9.391,
+    "st_mass": 1.76,
+    "dec": 10.0324103,
+    "st_teff": 6180,
+    "st_rad": 1.52,
+    "ra": 243.9597194,
+    "system_radius": 11252751.7814,
+    "pl_hostname": "WASP-38",
+    "stellar_type": "F",
+    "tic_id": "TIC 318696424",
+    "magnitude": 9.391
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263120",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248850"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263730,"date":"2023-11-28T21:07:24","date_gmt":"2023-11-29T02:07:24","modified":"2025-04-23T05:57:03","modified_gmt":"2025-04-23T09:57:03","slug":"hd_13189","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_13189/","featured_media":0,"categories":[],"acf":{"display_name":"HD 13189","custom_star_title":"","aliases":"","constellation":"Triangulum","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243993],"exo_id":"HD_13189","st_optmag":7.57,"st_vj":7.57,"st_dist":497.823,"st_j":7.57,"st_mass":2.24,"dec":32.3164548,"st_teff":4175,"st_rad":38.41,"ra":32.4173964,"system_radius":186997337.5,"pl_hostname":"HD_13189","stellar_type":"K","tic_id":"TIC 63564248","magnitude":7.57},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263730","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243993"}]}}
+{
+  "id": 263730,
+  "date": "2023-11-28T21:07:24",
+  "date_gmt": "2023-11-29T02:07:24",
+  "modified": "2025-04-23T05:57:03",
+  "modified_gmt": "2025-04-23T09:57:03",
+  "slug": "hd_13189",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_13189/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 13189",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Triangulum",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243993
+    ],
+    "exo_id": "HD_13189",
+    "st_optmag": 7.57,
+    "st_vj": 7.57,
+    "st_dist": 497.823,
+    "st_j": 7.57,
+    "st_mass": 2.24,
+    "dec": 32.3164548,
+    "st_teff": 4175,
+    "st_rad": 38.41,
+    "ra": 32.4173964,
+    "system_radius": 186997337.5,
+    "pl_hostname": "HD_13189",
+    "stellar_type": "K",
+    "tic_id": "TIC 63564248",
+    "magnitude": 7.57
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263730",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243993"
+      }
+    ]
+  }
+}

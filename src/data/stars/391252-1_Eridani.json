@@ -1,1 +1,69 @@
-{"id":391252,"date":"2024-04-30T20:01:22","date_gmt":"2024-05-01T00:01:22","modified":"2025-04-23T05:57:32","modified_gmt":"2025-04-23T09:57:32","slug":"1-eridani","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/1-eridani/","featured_media":429647,"categories":[],"acf":{"display_name":"1 Eridani","custom_star_title":"","aliases":"1Eridani,HD17206,HR818,GJ111,HD 17206,HR 818,GJ 111","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"1_Eridani","st_optmag":4.465,"st_vj":4.465,"st_dist":14.2764,"st_j":4.465,"st_mass":1.21,"dec":-18.5726228,"st_teff":6330,"st_rad":1.345,"ra":41.2758283,"system_radius":149597870,"pl_hostname":"1_Eridani","stellar_type":"F","tic_id":"TIC 326242565","magnitude":4.5},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391252","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391252,
+  "date": "2024-04-30T20:01:22",
+  "date_gmt": "2024-05-01T00:01:22",
+  "modified": "2025-04-23T05:57:32",
+  "modified_gmt": "2025-04-23T09:57:32",
+  "slug": "1-eridani",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/1-eridani/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "1 Eridani",
+    "custom_star_title": "",
+    "aliases": "1Eridani,HD17206,HR818,GJ111,HD 17206,HR 818,GJ 111",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "1_Eridani",
+    "st_optmag": 4.465,
+    "st_vj": 4.465,
+    "st_dist": 14.2764,
+    "st_j": 4.465,
+    "st_mass": 1.21,
+    "dec": -18.5726228,
+    "st_teff": 6330,
+    "st_rad": 1.345,
+    "ra": 41.2758283,
+    "system_radius": 149597870,
+    "pl_hostname": "1_Eridani",
+    "stellar_type": "F",
+    "tic_id": "TIC 326242565",
+    "magnitude": 4.5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391252",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

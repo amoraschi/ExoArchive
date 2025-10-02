@@ -1,1 +1,79 @@
-{"id":243462,"date":"2022-01-13T17:04:31","date_gmt":"2022-01-13T22:04:31","modified":"2025-07-07T17:21:57","modified_gmt":"2025-07-07T21:21:57","slug":"bd60-1417-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/bd60-1417-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"BD+60_1417","pl_letter":"b","display_name":"BD+60 1417 b","planet_radius":"1.31 x Jupiter","derived_description":"BD+60 1417 b is a gas giant exoplanet that orbits a K-type star. Its mass is 15 Jupiters, it takes 67794.6 years to complete one orbit of its star, and is 1662 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Imaging","pl_facility":"Wide-field Infrared Survey Explorer (WISE) Satellite Mission","st_dist":44.9543,"planet_mass":"15 Jupiters","st_optmag":9.374,"discovery_date":"2021","pl_orbsmax":1662,"period_display":"67794.6 years","eccentricity":"","star_id":264415,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.31,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":14.68376472,"exo_id":"BD+60_1417_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243462","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264415"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243462,
+  "date": "2022-01-13T17:04:31",
+  "date_gmt": "2022-01-13T22:04:31",
+  "modified": "2025-07-07T17:21:57",
+  "modified_gmt": "2025-07-07T21:21:57",
+  "slug": "bd60-1417-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/bd60-1417-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "BD+60_1417",
+    "pl_letter": "b",
+    "display_name": "BD+60 1417 b",
+    "planet_radius": "1.31 x Jupiter",
+    "derived_description": "BD+60 1417 b is a gas giant exoplanet that orbits a K-type star. Its mass is 15 Jupiters, it takes 67794.6 years to complete one orbit of its star, and is 1662 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "Wide-field Infrared Survey Explorer (WISE) Satellite Mission",
+    "st_dist": 44.9543,
+    "planet_mass": "15 Jupiters",
+    "st_optmag": 9.374,
+    "discovery_date": "2021",
+    "pl_orbsmax": 1662,
+    "period_display": "67794.6 years",
+    "eccentricity": "",
+    "star_id": 264415,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.31,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 14.68376472,
+    "exo_id": "BD+60_1417_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243462",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264415"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

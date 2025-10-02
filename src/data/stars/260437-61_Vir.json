@@ -1,1 +1,87 @@
-{"id":260437,"date":"2023-11-28T20:25:46","date_gmt":"2023-11-29T01:25:46","modified":"2025-09-28T22:55:08","modified_gmt":"2025-09-29T02:55:08","slug":"61_vir","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/61_vir/","featured_media":429648,"categories":[],"acf":{"display_name":"61 Virginis","custom_star_title":"61 Viriginis","aliases":"HD 115617,HR 5019,GJ 506","constellation":"Virgo","custom_star_description":"61 Virginis is a bright Sun-like star located relatively nearby in the constellation Virgo. 61 Virginis is remarkably similar to the Sun in size and mass, but is older, slightly cooler, and less luminous. The star has low levels of magnetic activity and a low abundance of elements heavier than helium. Far from the star, there is a broad, dusty debris disk.","tagline":"A bright Sun-like star that hosts a multiplanet system","pop_culture":"A planetary system around 61 Virginis is the fictional home to human settlement efforts in short stories, such as Ken Liu's “The Waves and Mono No Aware,” Alastair Reynolds' “Poseidon's Children” trilogy, as well as flight simulation and role-playing games.","detection_timeline":"61 Virginis is home to three planets that were detected using five years of radial velocity data. Two of the planets are estimated to be Neptune sized, while one is a super-Earth. The three planets lie between the star and its debris disk. When these planets were discovered in 2009, the presence of the super-Earth made 61 Virginis the first G-type, Sun-like star to host a super-Earth mass planet. As a bright star that is so similar to the Sun, 61 Virginis is still an active target for exoplanet searches. Future space telescopes, capable of direct imaging to look for a rocky Earth-sized planet in the star’s habitable zone, will make 61 Virginis a prime target for further exploration.","rv_planets_prospects":"3 planets have been detected to date around this star using radial velocities.1 Super-Earth and 2 Neptune-sized planets have been detected from radial velocity measurements around 61 Virginis. Since the star has low magnetic activity, it is well suited for radial velocity studies.","transit_planets_prospects":"0 planets have been detected to date around this star with transits.","imaging_planets_prospects":"0 planets have been detected to date around this star using direct imaging.61 Virginis is well suited for direct imaging with future space telescopes. These future searches will easily be able to detect the outermost of the three known exoplanets in the system, as well as explore a significant fraction of the star’s habitable zone, and would be aided by how bright a potential Earth analog around the star would be. Direct imaging would also be able to characterize the atmospheres and surfaces of the planets that have been suggested by existing radial velocity data.","planet_ids":[243417,243418,243419],"exo_id":"61_Vir","st_optmag":4.735,"st_vj":4.735,"st_dist":8.5344,"st_j":4.735,"st_mass":0.97,"dec":-18.3111938,"st_teff":5552,"st_rad":0.982,"ra":199.6013083,"system_radius":71208586.12,"pl_hostname":"61_Vir","stellar_type":"G","tic_id":"TIC 422478973","magnitude":4.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260437","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243419"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243418"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243417"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 260437,
+  "date": "2023-11-28T20:25:46",
+  "date_gmt": "2023-11-29T01:25:46",
+  "modified": "2025-09-30T22:59:04",
+  "modified_gmt": "2025-10-01T02:59:04",
+  "slug": "61_vir",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/61_vir/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "61 Virginis",
+    "custom_star_title": "61 Viriginis",
+    "aliases": "HD 115617,HR 5019,GJ 506",
+    "constellation": "Virgo",
+    "custom_star_description": "61 Virginis is a bright Sun-like star located relatively nearby in the constellation Virgo. 61 Virginis is remarkably similar to the Sun in size and mass, but is older, slightly cooler, and less luminous. The star has low levels of magnetic activity and a low abundance of elements heavier than helium. Far from the star, there is a broad, dusty debris disk.",
+    "tagline": "A bright Sun-like star that hosts a multiplanet system",
+    "pop_culture": "A planetary system around 61 Virginis is the fictional home to human settlement efforts in short stories, such as Ken Liu's “The Waves and Mono No Aware,” Alastair Reynolds' “Poseidon's Children” trilogy, as well as flight simulation and role-playing games.",
+    "detection_timeline": "61 Virginis is home to three planets that were detected using five years of radial velocity data. Two of the planets are estimated to be Neptune sized, while one is a super-Earth. The three planets lie between the star and its debris disk. When these planets were discovered in 2009, the presence of the super-Earth made 61 Virginis the first G-type, Sun-like star to host a super-Earth mass planet. As a bright star that is so similar to the Sun, 61 Virginis is still an active target for exoplanet searches. Future space telescopes, capable of direct imaging to look for a rocky Earth-sized planet in the star’s habitable zone, will make 61 Virginis a prime target for further exploration.",
+    "rv_planets_prospects": "3 planets have been detected to date around this star using radial velocities.1 Super-Earth and 2 Neptune-sized planets have been detected from radial velocity measurements around 61 Virginis. Since the star has low magnetic activity, it is well suited for radial velocity studies.",
+    "transit_planets_prospects": "0 planets have been detected to date around this star with transits.",
+    "imaging_planets_prospects": "0 planets have been detected to date around this star using direct imaging.61 Virginis is well suited for direct imaging with future space telescopes. These future searches will easily be able to detect the outermost of the three known exoplanets in the system, as well as explore a significant fraction of the star’s habitable zone, and would be aided by how bright a potential Earth analog around the star would be. Direct imaging would also be able to characterize the atmospheres and surfaces of the planets that have been suggested by existing radial velocity data.",
+    "planet_ids": [
+      243417,
+      243418,
+      243419
+    ],
+    "exo_id": "61_Vir",
+    "st_optmag": 4.735,
+    "st_vj": 4.735,
+    "st_dist": 8.5344,
+    "st_j": 4.735,
+    "st_mass": 0.97,
+    "dec": -18.3111938,
+    "st_teff": 5552,
+    "st_rad": 0.982,
+    "ra": 199.6013083,
+    "system_radius": 71208586.12,
+    "pl_hostname": "61_Vir",
+    "stellar_type": "G",
+    "tic_id": "TIC 422478973",
+    "magnitude": 4.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260437",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243419"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243418"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243417"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

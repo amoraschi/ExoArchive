@@ -1,1 +1,79 @@
-{"id":245226,"date":"2017-10-02T13:33:02","date_gmt":"2017-10-02T17:33:02","modified":"2025-07-07T20:33:02","modified_gmt":"2025-07-08T00:33:02","slug":"kelt-8-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kelt-8-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KELT-8","pl_letter":"b","display_name":"KELT-8 b","planet_radius":"1.62 x Jupiter","derived_description":"KELT-8 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.66 Jupiters, it takes 3.2 days to complete one orbit of its star, and is 0.0455 AU from its star. Its discovery was announced in 2015.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"KELT","st_dist":197.572,"planet_mass":"0.66 Jupiters","st_optmag":10.845,"discovery_date":"2015","pl_orbsmax":0.0455,"period_display":"3.2 days","eccentricity":"0.04","star_id":260615,"pl_orbper":3.24406,"pl_kepflag":false,"pl_radj":1.62,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":85,"multiple_planet_system":false,"pl_rade":18.15858,"exo_id":"KELT-8_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245226","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260615"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 245226,
+  "date": "2017-10-02T13:33:02",
+  "date_gmt": "2017-10-02T17:33:02",
+  "modified": "2025-07-07T20:33:02",
+  "modified_gmt": "2025-07-08T00:33:02",
+  "slug": "kelt-8-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kelt-8-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KELT-8",
+    "pl_letter": "b",
+    "display_name": "KELT-8 b",
+    "planet_radius": "1.62 x Jupiter",
+    "derived_description": "KELT-8 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.66 Jupiters, it takes 3.2 days to complete one orbit of its star, and is 0.0455 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "KELT",
+    "st_dist": 197.572,
+    "planet_mass": "0.66 Jupiters",
+    "st_optmag": 10.845,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.0455,
+    "period_display": "3.2 days",
+    "eccentricity": "0.04",
+    "star_id": 260615,
+    "pl_orbper": 3.24406,
+    "pl_kepflag": false,
+    "pl_radj": 1.62,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 85,
+    "multiple_planet_system": false,
+    "pl_rade": 18.15858,
+    "exo_id": "KELT-8_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245226",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260615"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":401617,"date":"2024-06-13T21:29:03","date_gmt":"2024-06-14T01:29:03","modified":"2025-03-28T07:24:19","modified_gmt":"2025-03-28T11:24:19","slug":"toi-782-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-782-b/","featured_media":271833,"categories":[2013,2014],"acf":{"pl_hostname":"TOI-782","pl_letter":"b","display_name":"TOI-782 b","planet_radius":"2.734 x Earth","derived_description":"TOI-782 b is a super Earth exoplanet that orbits a M-type star. Its mass is 19.1 Earths, it takes 8 days to complete one orbit of its star, and is 0.0578 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":52.5122,"planet_mass":"19.1 Earths","st_optmag":14.83,"discovery_date":"2024","pl_orbsmax":0.0578,"period_display":"8 days","eccentricity":"0.19","star_id":401575,"pl_orbper":8.0240015,"pl_kepflag":false,"pl_radj":0.24391156,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.734,"exo_id":"TOI-782_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.19},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401617","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/401575"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 401617,
+  "date": "2024-06-13T21:29:03",
+  "date_gmt": "2024-06-14T01:29:03",
+  "modified": "2025-03-28T07:24:19",
+  "modified_gmt": "2025-03-28T11:24:19",
+  "slug": "toi-782-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-782-b/",
+  "featured_media": 271833,
+  "categories": [
+    2013,
+    2014
+  ],
+  "acf": {
+    "pl_hostname": "TOI-782",
+    "pl_letter": "b",
+    "display_name": "TOI-782 b",
+    "planet_radius": "2.734 x Earth",
+    "derived_description": "TOI-782 b is a super Earth exoplanet that orbits a M-type star. Its mass is 19.1 Earths, it takes 8 days to complete one orbit of its star, and is 0.0578 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 52.5122,
+    "planet_mass": "19.1 Earths",
+    "st_optmag": 14.83,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0578,
+    "period_display": "8 days",
+    "eccentricity": "0.19",
+    "star_id": 401575,
+    "pl_orbper": 8.0240015,
+    "pl_kepflag": false,
+    "pl_radj": 0.24391156,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.734,
+    "exo_id": "TOI-782_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.19
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401617",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401575"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

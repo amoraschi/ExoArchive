@@ -1,1 +1,86 @@
-{"id":260698,"date":"2023-11-28T20:28:58","date_gmt":"2023-11-29T01:28:58","modified":"2025-06-13T07:33:19","modified_gmt":"2025-06-13T11:33:19","slug":"toi-2076","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2076/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2076","custom_star_title":"","aliases":"","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":876206,"1":248516,"2":248517,"3":248518},"exo_id":"TOI-2076","st_optmag":9.139,"st_vj":9.139,"st_dist":41.9091,"st_j":9.139,"st_mass":0.883,"dec":39.7903991,"st_teff":5201,"st_rad":0.774,"ra":217.3920159,"system_radius":29769976.13,"pl_hostname":"TOI-2076","stellar_type":"K","tic_id":"TIC 27491137","magnitude":9.139},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260698","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876206"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248518"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248517"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248516"}]}}
+{
+  "id": 260698,
+  "date": "2023-11-28T20:28:58",
+  "date_gmt": "2023-11-29T01:28:58",
+  "modified": "2025-06-13T07:33:19",
+  "modified_gmt": "2025-06-13T11:33:19",
+  "slug": "toi-2076",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2076/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2076",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 876206,
+      "1": 248516,
+      "2": 248517,
+      "3": 248518
+    },
+    "exo_id": "TOI-2076",
+    "st_optmag": 9.139,
+    "st_vj": 9.139,
+    "st_dist": 41.9091,
+    "st_j": 9.139,
+    "st_mass": 0.883,
+    "dec": 39.7903991,
+    "st_teff": 5201,
+    "st_rad": 0.774,
+    "ra": 217.3920159,
+    "system_radius": 29769976.13,
+    "pl_hostname": "TOI-2076",
+    "stellar_type": "K",
+    "tic_id": "TIC 27491137",
+    "magnitude": 9.139
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260698",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876206"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248518"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248517"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248516"
+      }
+    ]
+  }
+}

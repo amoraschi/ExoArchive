@@ -1,1 +1,71 @@
-{"id":263331,"date":"2023-11-28T21:02:18","date_gmt":"2023-11-29T02:02:18","modified":"2025-04-23T05:53:55","modified_gmt":"2025-04-23T09:53:55","slug":"k2-213","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-213/","featured_media":0,"categories":[],"acf":{"display_name":"K2-213","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244876],"exo_id":"K2-213","st_optmag":11.803,"st_vj":11.803,"st_dist":389.702,"st_j":11.803,"st_mass":1.069596,"dec":3.5077702,"st_teff":5794,"st_rad":1.20424,"ra":13.1403998,"system_radius":149597870,"pl_hostname":"K2-213","stellar_type":"G","tic_id":"TIC 257435562","magnitude":11.803},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263331","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244876"}]}}
+{
+  "id": 263331,
+  "date": "2023-11-28T21:02:18",
+  "date_gmt": "2023-11-29T02:02:18",
+  "modified": "2025-04-23T05:53:55",
+  "modified_gmt": "2025-04-23T09:53:55",
+  "slug": "k2-213",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-213/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-213",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244876
+    ],
+    "exo_id": "K2-213",
+    "st_optmag": 11.803,
+    "st_vj": 11.803,
+    "st_dist": 389.702,
+    "st_j": 11.803,
+    "st_mass": 1.069596,
+    "dec": 3.5077702,
+    "st_teff": 5794,
+    "st_rad": 1.20424,
+    "ra": 13.1403998,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-213",
+    "stellar_type": "G",
+    "tic_id": "TIC 257435562",
+    "magnitude": 11.803
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263331",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244876"
+      }
+    ]
+  }
+}

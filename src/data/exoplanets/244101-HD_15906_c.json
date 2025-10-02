@@ -1,1 +1,79 @@
-{"id":244101,"date":"2023-06-29T15:31:55","date_gmt":"2023-06-29T19:31:55","modified":"2025-07-07T15:25:46","modified_gmt":"2025-07-07T19:25:46","slug":"hd-15906-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-15906-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_15906","pl_letter":"c","display_name":"HD 15906 c","planet_radius":"0.26139754 x Jupiter","derived_description":"HD 15906 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.91 Earths, it takes 21.6 days to complete one orbit of its star, and is 0.141 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":45.5621,"planet_mass":"8.91 Earths","st_optmag":9.78,"discovery_date":"2023","pl_orbsmax":0.141,"period_display":"21.6 days","eccentricity":"0.04","star_id":261306,"pl_orbper":21.583298,"pl_kepflag":false,"pl_radj":0.26139754,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":247.9,"multiple_planet_system":false,"pl_rade":2.93,"exo_id":"HD_15906_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244101","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261306"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244101,
+  "date": "2023-06-29T15:31:55",
+  "date_gmt": "2023-06-29T19:31:55",
+  "modified": "2025-07-07T15:25:46",
+  "modified_gmt": "2025-07-07T19:25:46",
+  "slug": "hd-15906-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-15906-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_15906",
+    "pl_letter": "c",
+    "display_name": "HD 15906 c",
+    "planet_radius": "0.26139754 x Jupiter",
+    "derived_description": "HD 15906 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.91 Earths, it takes 21.6 days to complete one orbit of its star, and is 0.141 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 45.5621,
+    "planet_mass": "8.91 Earths",
+    "st_optmag": 9.78,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.141,
+    "period_display": "21.6 days",
+    "eccentricity": "0.04",
+    "star_id": 261306,
+    "pl_orbper": 21.583298,
+    "pl_kepflag": false,
+    "pl_radj": 0.26139754,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 247.9,
+    "multiple_planet_system": false,
+    "pl_rade": 2.93,
+    "exo_id": "HD_15906_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244101",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261306"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

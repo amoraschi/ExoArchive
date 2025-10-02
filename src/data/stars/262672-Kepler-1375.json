@@ -1,1 +1,71 @@
-{"id":262672,"date":"2023-11-28T20:53:57","date_gmt":"2023-11-29T01:53:57","modified":"2025-04-23T05:55:37","modified_gmt":"2025-04-23T09:55:37","slug":"kepler-1375","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1375/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1375","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245757],"exo_id":"Kepler-1375","st_optmag":13.864,"st_vj":13.864,"st_dist":1430.84,"st_j":13.864,"st_mass":1.47,"dec":43.4032189,"st_teff":6704,"st_rad":1.78,"ra":296.2935173,"system_radius":7046059.677,"pl_hostname":"Kepler-1375","stellar_type":"F","tic_id":"TIC 272269239","magnitude":13.864},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262672","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245757"}]}}
+{
+  "id": 262672,
+  "date": "2023-11-28T20:53:57",
+  "date_gmt": "2023-11-29T01:53:57",
+  "modified": "2025-04-23T05:55:37",
+  "modified_gmt": "2025-04-23T09:55:37",
+  "slug": "kepler-1375",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1375/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1375",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245757
+    ],
+    "exo_id": "Kepler-1375",
+    "st_optmag": 13.864,
+    "st_vj": 13.864,
+    "st_dist": 1430.84,
+    "st_j": 13.864,
+    "st_mass": 1.47,
+    "dec": 43.4032189,
+    "st_teff": 6704,
+    "st_rad": 1.78,
+    "ra": 296.2935173,
+    "system_radius": 7046059.677,
+    "pl_hostname": "Kepler-1375",
+    "stellar_type": "F",
+    "tic_id": "TIC 272269239",
+    "magnitude": 13.864
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262672",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245757"
+      }
+    ]
+  }
+}

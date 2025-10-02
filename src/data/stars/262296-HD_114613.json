@@ -1,1 +1,69 @@
-{"id":262296,"date":"2023-11-28T20:49:11","date_gmt":"2023-11-29T01:49:11","modified":"2025-04-23T05:57:27","modified_gmt":"2025-04-23T09:57:27","slug":"hd_114613","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_114613/","featured_media":429648,"categories":[],"acf":{"display_name":"HD 114613","custom_star_title":"HD 114613","aliases":"HR 4979,GJ 9432","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_114613","st_optmag":4.847,"st_vj":4.847,"st_dist":20.4628,"st_j":4.847,"st_mass":0.99,"dec":-37.8030222,"st_teff":5688,"st_rad":2.116,"ra":198.0132679,"system_radius":149597870,"pl_hostname":"HD_114613","stellar_type":"G","tic_id":"TIC 30293512","magnitude":4.8},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262296","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 262296,
+  "date": "2023-11-28T20:49:11",
+  "date_gmt": "2023-11-29T01:49:11",
+  "modified": "2025-04-23T05:57:27",
+  "modified_gmt": "2025-04-23T09:57:27",
+  "slug": "hd_114613",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_114613/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 114613",
+    "custom_star_title": "HD 114613",
+    "aliases": "HR 4979,GJ 9432",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_114613",
+    "st_optmag": 4.847,
+    "st_vj": 4.847,
+    "st_dist": 20.4628,
+    "st_j": 4.847,
+    "st_mass": 0.99,
+    "dec": -37.8030222,
+    "st_teff": 5688,
+    "st_rad": 2.116,
+    "ra": 198.0132679,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_114613",
+    "stellar_type": "G",
+    "tic_id": "TIC 30293512",
+    "magnitude": 4.8
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262296",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

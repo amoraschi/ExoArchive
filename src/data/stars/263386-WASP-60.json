@@ -1,1 +1,71 @@
-{"id":263386,"date":"2023-11-28T21:03:00","date_gmt":"2023-11-29T02:03:00","modified":"2025-04-23T05:53:39","modified_gmt":"2025-04-23T09:53:39","slug":"wasp-60","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-60/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-60","custom_star_title":"","aliases":"","constellation":"Pegasus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248878],"exo_id":"WASP-60","st_optmag":11.67,"st_vj":11.67,"st_dist":431.052,"st_j":11.67,"st_mass":1.19,"dec":31.1559115,"st_teff":5900,"st_rad":1.17,"ra":356.6667136,"system_radius":8299689.8276,"pl_hostname":"WASP-60","stellar_type":"G","tic_id":"TIC 288246496","magnitude":11.67},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263386","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248878"}]}}
+{
+  "id": 263386,
+  "date": "2023-11-28T21:03:00",
+  "date_gmt": "2023-11-29T02:03:00",
+  "modified": "2025-04-23T05:53:39",
+  "modified_gmt": "2025-04-23T09:53:39",
+  "slug": "wasp-60",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-60/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-60",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pegasus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248878
+    ],
+    "exo_id": "WASP-60",
+    "st_optmag": 11.67,
+    "st_vj": 11.67,
+    "st_dist": 431.052,
+    "st_j": 11.67,
+    "st_mass": 1.19,
+    "dec": 31.1559115,
+    "st_teff": 5900,
+    "st_rad": 1.17,
+    "ra": 356.6667136,
+    "system_radius": 8299689.8276,
+    "pl_hostname": "WASP-60",
+    "stellar_type": "G",
+    "tic_id": "TIC 288246496",
+    "magnitude": 11.67
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263386",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248878"
+      }
+    ]
+  }
+}

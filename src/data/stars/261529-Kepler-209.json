@@ -1,1 +1,76 @@
-{"id":261529,"date":"2023-11-28T20:39:29","date_gmt":"2023-11-29T01:39:29","modified":"2025-04-23T05:53:40","modified_gmt":"2025-04-23T09:53:40","slug":"kepler-209","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-209/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-209","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246633,"1":246632},"exo_id":"Kepler-209","st_optmag":14.132,"st_vj":14.132,"st_dist":576.946,"st_j":14.132,"st_mass":0.971,"dec":42.6407281,"st_teff":5513,"st_rad":0.935,"ra":291.1694567,"system_radius":34557107.97,"pl_hostname":"Kepler-209","stellar_type":"G","tic_id":"TIC 159652365","magnitude":14.132},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261529","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246633"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246632"}]}}
+{
+  "id": 261529,
+  "date": "2023-11-28T20:39:29",
+  "date_gmt": "2023-11-29T01:39:29",
+  "modified": "2025-04-23T05:53:40",
+  "modified_gmt": "2025-04-23T09:53:40",
+  "slug": "kepler-209",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-209/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-209",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246633,
+      "1": 246632
+    },
+    "exo_id": "Kepler-209",
+    "st_optmag": 14.132,
+    "st_vj": 14.132,
+    "st_dist": 576.946,
+    "st_j": 14.132,
+    "st_mass": 0.971,
+    "dec": 42.6407281,
+    "st_teff": 5513,
+    "st_rad": 0.935,
+    "ra": 291.1694567,
+    "system_radius": 34557107.97,
+    "pl_hostname": "Kepler-209",
+    "stellar_type": "G",
+    "tic_id": "TIC 159652365",
+    "magnitude": 14.132
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261529",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246633"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246632"
+      }
+    ]
+  }
+}

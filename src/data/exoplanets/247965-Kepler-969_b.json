@@ -1,1 +1,79 @@
-{"id":247965,"date":"2017-10-02T13:32:27","date_gmt":"2017-10-02T17:32:27","modified":"2025-07-07T20:42:20","modified_gmt":"2025-07-08T00:42:20","slug":"kepler-969-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-969-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-969","pl_letter":"b","display_name":"Kepler-969 b","planet_radius":"2.07 x Earth","derived_description":"Kepler-969 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.94 Earths, it takes 34.2 days to complete one orbit of its star, and is 0.19726 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":390.354,"planet_mass":"4.94 Earths","st_optmag":13.865,"discovery_date":"2016","pl_orbsmax":0.19726,"period_display":"34.2 days","eccentricity":"0.0","star_id":262970,"pl_orbper":34.1731714,"pl_kepflag":true,"pl_radj":0.18467303,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.07,"exo_id":"Kepler-969_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247965","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262970"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247965,
+  "date": "2017-10-02T13:32:27",
+  "date_gmt": "2017-10-02T17:32:27",
+  "modified": "2025-07-07T20:42:20",
+  "modified_gmt": "2025-07-08T00:42:20",
+  "slug": "kepler-969-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-969-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-969",
+    "pl_letter": "b",
+    "display_name": "Kepler-969 b",
+    "planet_radius": "2.07 x Earth",
+    "derived_description": "Kepler-969 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.94 Earths, it takes 34.2 days to complete one orbit of its star, and is 0.19726 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 390.354,
+    "planet_mass": "4.94 Earths",
+    "st_optmag": 13.865,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.19726,
+    "period_display": "34.2 days",
+    "eccentricity": "0.0",
+    "star_id": 262970,
+    "pl_orbper": 34.1731714,
+    "pl_kepflag": true,
+    "pl_radj": 0.18467303,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.07,
+    "exo_id": "Kepler-969_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247965",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262970"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

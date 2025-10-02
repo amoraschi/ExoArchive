@@ -1,1 +1,71 @@
-{"id":262280,"date":"2023-11-28T20:48:59","date_gmt":"2023-11-29T01:48:59","modified":"2025-04-23T05:55:58","modified_gmt":"2025-04-23T09:55:58","slug":"hd_95338","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_95338/","featured_media":0,"categories":[],"acf":{"display_name":"HD 95338","custom_star_title":"","aliases":"","constellation":"Vela","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244606],"exo_id":"HD_95338","st_optmag":8.62,"st_vj":8.62,"st_dist":36.9941,"st_j":8.62,"st_mass":0.83,"dec":-56.6235564,"st_teff":5212,"st_rad":0.87,"ra":164.8563364,"system_radius":39194641.94,"pl_hostname":"HD_95338","stellar_type":"K","tic_id":"TIC 304142124","magnitude":8.62},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262280","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244606"}]}}
+{
+  "id": 262280,
+  "date": "2023-11-28T20:48:59",
+  "date_gmt": "2023-11-29T01:48:59",
+  "modified": "2025-04-23T05:55:58",
+  "modified_gmt": "2025-04-23T09:55:58",
+  "slug": "hd_95338",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_95338/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 95338",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vela",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244606
+    ],
+    "exo_id": "HD_95338",
+    "st_optmag": 8.62,
+    "st_vj": 8.62,
+    "st_dist": 36.9941,
+    "st_j": 8.62,
+    "st_mass": 0.83,
+    "dec": -56.6235564,
+    "st_teff": 5212,
+    "st_rad": 0.87,
+    "ra": 164.8563364,
+    "system_radius": 39194641.94,
+    "pl_hostname": "HD_95338",
+    "stellar_type": "K",
+    "tic_id": "TIC 304142124",
+    "magnitude": 8.62
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262280",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244606"
+      }
+    ]
+  }
+}

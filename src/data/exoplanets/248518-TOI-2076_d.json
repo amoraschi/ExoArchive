@@ -1,1 +1,79 @@
-{"id":248518,"date":"2021-07-22T13:32:48","date_gmt":"2021-07-22T17:32:48","modified":"2025-07-07T20:38:25","modified_gmt":"2025-07-08T00:38:25","slug":"toi-2076-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2076-d/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2076","pl_letter":"d","display_name":"TOI-2076 d","planet_radius":"0.30608292 x Jupiter","derived_description":"TOI-2076 d is a Neptune-like exoplanet that orbits a K-type star. Its mass is 29 Earths, it takes 35.1 days to complete one orbit of its star, and is 0.199 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":41.9091,"planet_mass":"29 Earths","st_optmag":9.139,"discovery_date":"2021","pl_orbsmax":0.199,"period_display":"35.1 days","eccentricity":"0.0","star_id":260698,"pl_orbper":35.125686,"pl_kepflag":false,"pl_radj":0.30608292,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":3.43087751,"exo_id":"TOI-2076_d","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248518","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260698"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248518,
+  "date": "2021-07-22T13:32:48",
+  "date_gmt": "2021-07-22T17:32:48",
+  "modified": "2025-07-07T20:38:25",
+  "modified_gmt": "2025-07-08T00:38:25",
+  "slug": "toi-2076-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2076-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2076",
+    "pl_letter": "d",
+    "display_name": "TOI-2076 d",
+    "planet_radius": "0.30608292 x Jupiter",
+    "derived_description": "TOI-2076 d is a Neptune-like exoplanet that orbits a K-type star. Its mass is 29 Earths, it takes 35.1 days to complete one orbit of its star, and is 0.199 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 41.9091,
+    "planet_mass": "29 Earths",
+    "st_optmag": 9.139,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.199,
+    "period_display": "35.1 days",
+    "eccentricity": "0.0",
+    "star_id": 260698,
+    "pl_orbper": 35.125686,
+    "pl_kepflag": false,
+    "pl_radj": 0.30608292,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 3.43087751,
+    "exo_id": "TOI-2076_d",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248518",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260698"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

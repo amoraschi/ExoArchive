@@ -1,1 +1,71 @@
-{"id":426986,"date":"2024-10-05T00:18:35","date_gmt":"2024-10-05T04:18:35","modified":"2025-04-23T05:55:08","modified_gmt":"2025-04-23T09:55:08","slug":"toi-4914","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4914/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4914","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[426993],"exo_id":"TOI-4914","st_optmag":12.235,"st_vj":12.235,"st_dist":299.89,"st_j":12.235,"st_mass":1.03,"dec":-28.1429206,"st_teff":5805,"st_rad":1,"ra":204.5426717,"system_radius":14660591.26,"pl_hostname":"TOI-4914","stellar_type":"G","tic_id":"TIC 49254857","magnitude":12.235},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/426986","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/426993"}]}}
+{
+  "id": 426986,
+  "date": "2024-10-05T00:18:35",
+  "date_gmt": "2024-10-05T04:18:35",
+  "modified": "2025-04-23T05:55:08",
+  "modified_gmt": "2025-04-23T09:55:08",
+  "slug": "toi-4914",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4914/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4914",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      426993
+    ],
+    "exo_id": "TOI-4914",
+    "st_optmag": 12.235,
+    "st_vj": 12.235,
+    "st_dist": 299.89,
+    "st_j": 12.235,
+    "st_mass": 1.03,
+    "dec": -28.1429206,
+    "st_teff": 5805,
+    "st_rad": 1,
+    "ra": 204.5426717,
+    "system_radius": 14660591.26,
+    "pl_hostname": "TOI-4914",
+    "stellar_type": "G",
+    "tic_id": "TIC 49254857",
+    "magnitude": 12.235
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/426986",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/426993"
+      }
+    ]
+  }
+}

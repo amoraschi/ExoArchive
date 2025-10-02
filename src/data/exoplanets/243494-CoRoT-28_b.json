@@ -1,1 +1,79 @@
-{"id":243494,"date":"2016-03-16T19:26:20","date_gmt":"2016-03-16T23:26:20","modified":"2025-07-07T20:41:28","modified_gmt":"2025-07-08T00:41:28","slug":"corot-28-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/corot-28-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"CoRoT-28","pl_letter":"b","display_name":"CoRoT-28 b","planet_radius":"0.955 x Jupiter","derived_description":"CoRoT-28 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.484 Jupiters, it takes 5.2 days to complete one orbit of its star, and is 0.0603 AU from its star. Its discovery was announced in 2015.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"CoRoT","st_dist":766.183,"planet_mass":"0.484 Jupiters","st_optmag":13.783,"discovery_date":"2015","pl_orbsmax":0.0603,"period_display":"5.2 days","eccentricity":"0.05","star_id":262386,"pl_orbper":5.20851,"pl_kepflag":false,"pl_radj":0.955,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":126,"multiple_planet_system":false,"pl_rade":10.704595,"exo_id":"CoRoT-28_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.047},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243494","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262386"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243494,
+  "date": "2016-03-16T19:26:20",
+  "date_gmt": "2016-03-16T23:26:20",
+  "modified": "2025-07-07T20:41:28",
+  "modified_gmt": "2025-07-08T00:41:28",
+  "slug": "corot-28-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/corot-28-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "CoRoT-28",
+    "pl_letter": "b",
+    "display_name": "CoRoT-28 b",
+    "planet_radius": "0.955 x Jupiter",
+    "derived_description": "CoRoT-28 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.484 Jupiters, it takes 5.2 days to complete one orbit of its star, and is 0.0603 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "CoRoT",
+    "st_dist": 766.183,
+    "planet_mass": "0.484 Jupiters",
+    "st_optmag": 13.783,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.0603,
+    "period_display": "5.2 days",
+    "eccentricity": "0.05",
+    "star_id": 262386,
+    "pl_orbper": 5.20851,
+    "pl_kepflag": false,
+    "pl_radj": 0.955,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 126,
+    "multiple_planet_system": false,
+    "pl_rade": 10.704595,
+    "exo_id": "CoRoT-28_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.047
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243494",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262386"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

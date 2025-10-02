@@ -1,1 +1,76 @@
-{"id":262885,"date":"2023-11-28T20:56:42","date_gmt":"2023-11-29T01:56:42","modified":"2025-04-23T05:56:34","modified_gmt":"2025-04-23T09:56:34","slug":"kepler-610","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-610/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-610","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247480,247481],"exo_id":"Kepler-610","st_optmag":14.816,"st_vj":14.816,"st_dist":845.824,"st_j":14.816,"st_mass":1.1,"dec":45.0655934,"st_teff":5943,"st_rad":1.13,"ra":293.1713241,"system_radius":83685048.478,"pl_hostname":"Kepler-610","stellar_type":"G","tic_id":"TIC 275491028","magnitude":14.816},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262885","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247481"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247480"}]}}
+{
+  "id": 262885,
+  "date": "2023-11-28T20:56:42",
+  "date_gmt": "2023-11-29T01:56:42",
+  "modified": "2025-04-23T05:56:34",
+  "modified_gmt": "2025-04-23T09:56:34",
+  "slug": "kepler-610",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-610/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-610",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247480,
+      247481
+    ],
+    "exo_id": "Kepler-610",
+    "st_optmag": 14.816,
+    "st_vj": 14.816,
+    "st_dist": 845.824,
+    "st_j": 14.816,
+    "st_mass": 1.1,
+    "dec": 45.0655934,
+    "st_teff": 5943,
+    "st_rad": 1.13,
+    "ra": 293.1713241,
+    "system_radius": 83685048.478,
+    "pl_hostname": "Kepler-610",
+    "stellar_type": "G",
+    "tic_id": "TIC 275491028",
+    "magnitude": 14.816
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262885",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247481"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247480"
+      }
+    ]
+  }
+}

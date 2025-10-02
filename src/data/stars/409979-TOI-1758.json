@@ -1,1 +1,71 @@
-{"id":409979,"date":"2024-07-25T22:04:42","date_gmt":"2024-07-26T02:04:42","modified":"2025-04-25T05:59:14","modified_gmt":"2025-04-25T09:59:14","slug":"toi-1758","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1758/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1758","custom_star_title":"","aliases":"","constellation":"Cepheus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410100],"exo_id":"TOI-1758","st_optmag":10.794,"st_vj":10.794,"st_dist":96.6215,"st_j":10.794,"st_mass":0.88,"dec":75.6852317,"st_teff":5169,"st_rad":0.81,"ra":354.741581,"system_radius":21154485.19883,"pl_hostname":"TOI-1758","stellar_type":"K","tic_id":"TIC 367858035","magnitude":10.794},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409979","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410100"}]}}
+{
+  "id": 409979,
+  "date": "2024-07-25T22:04:42",
+  "date_gmt": "2024-07-26T02:04:42",
+  "modified": "2025-04-25T05:59:14",
+  "modified_gmt": "2025-04-25T09:59:14",
+  "slug": "toi-1758",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1758/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1758",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410100
+    ],
+    "exo_id": "TOI-1758",
+    "st_optmag": 10.794,
+    "st_vj": 10.794,
+    "st_dist": 96.6215,
+    "st_j": 10.794,
+    "st_mass": 0.88,
+    "dec": 75.6852317,
+    "st_teff": 5169,
+    "st_rad": 0.81,
+    "ra": 354.741581,
+    "system_radius": 21154485.19883,
+    "pl_hostname": "TOI-1758",
+    "stellar_type": "K",
+    "tic_id": "TIC 367858035",
+    "magnitude": 10.794
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409979",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410100"
+      }
+    ]
+  }
+}

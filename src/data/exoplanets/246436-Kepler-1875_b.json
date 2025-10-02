@@ -1,1 +1,79 @@
-{"id":246436,"date":"2021-12-13T17:05:44","date_gmt":"2021-12-13T22:05:44","modified":"2025-07-07T20:42:32","modified_gmt":"2025-07-08T00:42:32","slug":"kepler-1875-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1875-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1875","pl_letter":"b","display_name":"Kepler-1875 b","planet_radius":"0.28788228 x Jupiter","derived_description":"Kepler-1875 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.5 Earths, it takes 34.5 days to complete one orbit of its star, and is 0.2039 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1660.45,"planet_mass":"10.5 Earths","st_optmag":15.201,"discovery_date":"2021","pl_orbsmax":0.2039,"period_display":"34.5 days","eccentricity":"0.0","star_id":264010,"pl_orbper":34.45859909,"pl_kepflag":true,"pl_radj":0.28788228,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.22686692,"exo_id":"Kepler-1875_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246436","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264010"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246436,
+  "date": "2021-12-13T17:05:44",
+  "date_gmt": "2021-12-13T22:05:44",
+  "modified": "2025-07-07T20:42:32",
+  "modified_gmt": "2025-07-08T00:42:32",
+  "slug": "kepler-1875-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1875-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1875",
+    "pl_letter": "b",
+    "display_name": "Kepler-1875 b",
+    "planet_radius": "0.28788228 x Jupiter",
+    "derived_description": "Kepler-1875 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.5 Earths, it takes 34.5 days to complete one orbit of its star, and is 0.2039 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1660.45,
+    "planet_mass": "10.5 Earths",
+    "st_optmag": 15.201,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.2039,
+    "period_display": "34.5 days",
+    "eccentricity": "0.0",
+    "star_id": 264010,
+    "pl_orbper": 34.45859909,
+    "pl_kepflag": true,
+    "pl_radj": 0.28788228,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.22686692,
+    "exo_id": "Kepler-1875_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246436",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264010"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

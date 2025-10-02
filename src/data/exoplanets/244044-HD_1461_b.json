@@ -1,1 +1,79 @@
-{"id":244044,"date":"2019-04-22T16:48:42","date_gmt":"2019-04-22T20:48:42","modified":"2025-07-07T20:39:46","modified_gmt":"2025-07-08T00:39:46","slug":"hd-1461-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-1461-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_1461","pl_letter":"b","display_name":"HD 1461 b","planet_radius":"0.216 x Jupiter (estimate)","derived_description":"HD 1461 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.44 Earths, it takes 5.8 days to complete one orbit of its star, and is 0.0634 AU from its star. Its discovery was announced in 2010.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":23.4534,"planet_mass":"6.44 Earths","st_optmag":6.47933,"discovery_date":"2010","pl_orbsmax":0.0634,"period_display":"5.8 days","eccentricity":"< 0.172","star_id":262357,"pl_orbper":5.77152,"pl_kepflag":false,"pl_radj":0.216,"pl_disc":2010,"pl_publ_date":"2010","planet_orbit_period":-10,"multiple_planet_system":false,"pl_rade":2.42,"exo_id":"HD_1461_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0.172,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244044","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262357"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244044,
+  "date": "2019-04-22T16:48:42",
+  "date_gmt": "2019-04-22T20:48:42",
+  "modified": "2025-07-07T20:39:46",
+  "modified_gmt": "2025-07-08T00:39:46",
+  "slug": "hd-1461-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-1461-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_1461",
+    "pl_letter": "b",
+    "display_name": "HD 1461 b",
+    "planet_radius": "0.216 x Jupiter (estimate)",
+    "derived_description": "HD 1461 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.44 Earths, it takes 5.8 days to complete one orbit of its star, and is 0.0634 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 23.4534,
+    "planet_mass": "6.44 Earths",
+    "st_optmag": 6.47933,
+    "discovery_date": "2010",
+    "pl_orbsmax": 0.0634,
+    "period_display": "5.8 days",
+    "eccentricity": "< 0.172",
+    "star_id": 262357,
+    "pl_orbper": 5.77152,
+    "pl_kepflag": false,
+    "pl_radj": 0.216,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": -10,
+    "multiple_planet_system": false,
+    "pl_rade": 2.42,
+    "exo_id": "HD_1461_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0.172,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244044",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262357"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

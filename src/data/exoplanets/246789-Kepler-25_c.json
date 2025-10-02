@@ -1,1 +1,79 @@
-{"id":246789,"date":"2016-03-16T19:26:22","date_gmt":"2016-03-16T23:26:22","modified":"2025-07-07T20:33:57","modified_gmt":"2025-07-08T00:33:57","slug":"kepler-25-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-25-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-25","pl_letter":"c","display_name":"Kepler-25 c","planet_radius":"0.46542957 x Jupiter","derived_description":"Kepler-25 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 15.2 Earths, it takes 12.7 days to complete one orbit of its star, and is 0.1117 AU from its star. Its discovery was announced in 2011.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":243.249,"planet_mass":"15.2 Earths","st_optmag":10.769,"discovery_date":"2011","pl_orbsmax":0.1117,"period_display":"12.7 days","eccentricity":"0.01","star_id":260460,"pl_orbper":12.7207,"pl_kepflag":true,"pl_radj":0.46542957,"pl_disc":2011,"pl_publ_date":"2011","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":5.217,"exo_id":"Kepler-25_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.0061},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246789","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260460"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246789,
+  "date": "2016-03-16T19:26:22",
+  "date_gmt": "2016-03-16T23:26:22",
+  "modified": "2025-07-07T20:33:57",
+  "modified_gmt": "2025-07-08T00:33:57",
+  "slug": "kepler-25-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-25-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-25",
+    "pl_letter": "c",
+    "display_name": "Kepler-25 c",
+    "planet_radius": "0.46542957 x Jupiter",
+    "derived_description": "Kepler-25 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 15.2 Earths, it takes 12.7 days to complete one orbit of its star, and is 0.1117 AU from its star. Its discovery was announced in 2011.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 243.249,
+    "planet_mass": "15.2 Earths",
+    "st_optmag": 10.769,
+    "discovery_date": "2011",
+    "pl_orbsmax": 0.1117,
+    "period_display": "12.7 days",
+    "eccentricity": "0.01",
+    "star_id": 260460,
+    "pl_orbper": 12.7207,
+    "pl_kepflag": true,
+    "pl_radj": 0.46542957,
+    "pl_disc": 2011,
+    "pl_publ_date": "2011",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 5.217,
+    "exo_id": "Kepler-25_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0061
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246789",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260460"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

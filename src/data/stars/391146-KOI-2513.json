@@ -1,1 +1,71 @@
-{"id":391146,"date":"2024-04-30T20:00:22","date_gmt":"2024-05-01T00:00:22","modified":"2025-04-23T05:55:20","modified_gmt":"2025-04-23T09:55:20","slug":"koi-2513","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/koi-2513/","featured_media":0,"categories":[],"acf":{"display_name":"KOI-2513","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[391598],"exo_id":"KOI-2513","st_optmag":14.913,"st_vj":14.913,"st_dist":1369.87,"st_j":14.913,"st_mass":0.91,"dec":46.3792321,"st_teff":5900,"st_rad":1.2,"ra":293.6688776,"system_radius":74798935,"pl_hostname":"KOI-2513","stellar_type":"G","tic_id":"TIC 270618386","magnitude":14.913},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391146","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/391598"}]}}
+{
+  "id": 391146,
+  "date": "2024-04-30T20:00:22",
+  "date_gmt": "2024-05-01T00:00:22",
+  "modified": "2025-04-23T05:55:20",
+  "modified_gmt": "2025-04-23T09:55:20",
+  "slug": "koi-2513",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-2513/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-2513",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      391598
+    ],
+    "exo_id": "KOI-2513",
+    "st_optmag": 14.913,
+    "st_vj": 14.913,
+    "st_dist": 1369.87,
+    "st_j": 14.913,
+    "st_mass": 0.91,
+    "dec": 46.3792321,
+    "st_teff": 5900,
+    "st_rad": 1.2,
+    "ra": 293.6688776,
+    "system_radius": 74798935,
+    "pl_hostname": "KOI-2513",
+    "stellar_type": "G",
+    "tic_id": "TIC 270618386",
+    "magnitude": 14.913
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391146",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/391598"
+      }
+    ]
+  }
+}

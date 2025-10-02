@@ -1,1 +1,71 @@
-{"id":262717,"date":"2023-11-28T20:54:32","date_gmt":"2023-11-29T01:54:32","modified":"2025-04-23T05:56:48","modified_gmt":"2025-04-23T09:56:48","slug":"kepler-410_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-410_a/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-410 A","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247174],"exo_id":"Kepler-410_A","st_optmag":9.495,"st_vj":9.495,"st_dist":147.527,"st_j":9.495,"st_mass":1.214,"dec":45.1400838,"st_teff":6273,"st_rad":1.352,"ra":283.1510448,"system_radius":18340698.862,"pl_hostname":"Kepler-410_A","stellar_type":"F","tic_id":"TIC 164458714","magnitude":9.495},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262717","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247174"}]}}
+{
+  "id": 262717,
+  "date": "2023-11-28T20:54:32",
+  "date_gmt": "2023-11-29T01:54:32",
+  "modified": "2025-04-23T05:56:48",
+  "modified_gmt": "2025-04-23T09:56:48",
+  "slug": "kepler-410_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-410_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-410 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247174
+    ],
+    "exo_id": "Kepler-410_A",
+    "st_optmag": 9.495,
+    "st_vj": 9.495,
+    "st_dist": 147.527,
+    "st_j": 9.495,
+    "st_mass": 1.214,
+    "dec": 45.1400838,
+    "st_teff": 6273,
+    "st_rad": 1.352,
+    "ra": 283.1510448,
+    "system_radius": 18340698.862,
+    "pl_hostname": "Kepler-410_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 164458714",
+    "magnitude": 9.495
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262717",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247174"
+      }
+    ]
+  }
+}

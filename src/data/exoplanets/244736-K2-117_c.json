@@ -1,1 +1,79 @@
-{"id":244736,"date":"2017-10-06T13:26:19","date_gmt":"2017-10-06T17:26:19","modified":"2025-07-07T20:41:00","modified_gmt":"2025-07-08T00:41:00","slug":"k2-117-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-117-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-117","pl_letter":"c","display_name":"K2-117 c","planet_radius":"2.06 x Earth","derived_description":"K2-117 c is a super Earth exoplanet that orbits a M-type star. Its mass is 4.9 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.0492 AU from its star. Its discovery was announced in 2017.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":101.632,"planet_mass":"4.9 Earths","st_optmag":14.639,"discovery_date":"2017","pl_orbsmax":0.0492,"period_display":"5.4 days","eccentricity":"0.15","star_id":261667,"pl_orbper":5.444017,"pl_kepflag":true,"pl_radj":0.18378089,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":-77.06,"multiple_planet_system":false,"pl_rade":2.06,"exo_id":"K2-117_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.15},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244736","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261667"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244736,
+  "date": "2017-10-06T13:26:19",
+  "date_gmt": "2017-10-06T17:26:19",
+  "modified": "2025-07-07T20:41:00",
+  "modified_gmt": "2025-07-08T00:41:00",
+  "slug": "k2-117-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-117-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-117",
+    "pl_letter": "c",
+    "display_name": "K2-117 c",
+    "planet_radius": "2.06 x Earth",
+    "derived_description": "K2-117 c is a super Earth exoplanet that orbits a M-type star. Its mass is 4.9 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.0492 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 101.632,
+    "planet_mass": "4.9 Earths",
+    "st_optmag": 14.639,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.0492,
+    "period_display": "5.4 days",
+    "eccentricity": "0.15",
+    "star_id": 261667,
+    "pl_orbper": 5.444017,
+    "pl_kepflag": true,
+    "pl_radj": 0.18378089,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": -77.06,
+    "multiple_planet_system": false,
+    "pl_rade": 2.06,
+    "exo_id": "K2-117_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.15
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244736",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261667"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

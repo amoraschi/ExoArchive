@@ -1,1 +1,79 @@
-{"id":248287,"date":"2018-05-18T13:26:08","date_gmt":"2018-05-18T17:26:08","modified":"2024-10-25T03:14:56","modified_gmt":"2024-10-25T07:14:56","slug":"ogle-2017-blg-1434l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2017-blg-1434l-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2017-BLG-1434L","pl_letter":"b","display_name":"OGLE-2017-BLG-1434L b","planet_radius":"1.94 x Earth (estimate)","derived_description":"OGLE-2017-BLG-1434L b is a super Earth exoplanet that orbits a Unknown-type star. Its mass is 4.43 Earths, it takes 2.7 years to complete one orbit of its star, and is 1.18 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":860,"planet_mass":"4.43 Earths","st_optmag":"","discovery_date":"2018","pl_orbsmax":1.18,"period_display":"2.7 years","eccentricity":"","star_id":263241,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.173,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.94,"exo_id":"OGLE-2017-BLG-1434L_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248287","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263241"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248287,
+  "date": "2018-05-18T13:26:08",
+  "date_gmt": "2018-05-18T17:26:08",
+  "modified": "2024-10-25T03:14:56",
+  "modified_gmt": "2024-10-25T07:14:56",
+  "slug": "ogle-2017-blg-1434l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2017-blg-1434l-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2017-BLG-1434L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2017-BLG-1434L b",
+    "planet_radius": "1.94 x Earth (estimate)",
+    "derived_description": "OGLE-2017-BLG-1434L b is a super Earth exoplanet that orbits a Unknown-type star. Its mass is 4.43 Earths, it takes 2.7 years to complete one orbit of its star, and is 1.18 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 860,
+    "planet_mass": "4.43 Earths",
+    "st_optmag": "",
+    "discovery_date": "2018",
+    "pl_orbsmax": 1.18,
+    "period_display": "2.7 years",
+    "eccentricity": "",
+    "star_id": 263241,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.173,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.94,
+    "exo_id": "OGLE-2017-BLG-1434L_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248287",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263241"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

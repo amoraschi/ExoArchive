@@ -1,1 +1,79 @@
-{"id":248505,"date":"2023-08-24T15:31:32","date_gmt":"2023-08-24T19:31:32","modified":"2025-03-28T07:25:04","modified_gmt":"2025-03-28T11:25:04","slug":"toi-198-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-198-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-198","pl_letter":"b","display_name":"TOI-198 b","planet_radius":"1.44 x Earth","derived_description":"TOI-198 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.67 Earths, it takes 10.2 days to complete one orbit of its star, and is 0.1 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":23.7262,"planet_mass":"2.67 Earths","st_optmag":11.688,"discovery_date":"2023","pl_orbsmax":0.1,"period_display":"10.2 days","eccentricity":"","star_id":261685,"pl_orbper":10.2152,"pl_kepflag":false,"pl_radj":0.12846842,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.44,"exo_id":"TOI-198_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248505","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261685"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248505,
+  "date": "2023-08-24T15:31:32",
+  "date_gmt": "2023-08-24T19:31:32",
+  "modified": "2025-03-28T07:25:04",
+  "modified_gmt": "2025-03-28T11:25:04",
+  "slug": "toi-198-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-198-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-198",
+    "pl_letter": "b",
+    "display_name": "TOI-198 b",
+    "planet_radius": "1.44 x Earth",
+    "derived_description": "TOI-198 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.67 Earths, it takes 10.2 days to complete one orbit of its star, and is 0.1 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 23.7262,
+    "planet_mass": "2.67 Earths",
+    "st_optmag": 11.688,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.1,
+    "period_display": "10.2 days",
+    "eccentricity": "",
+    "star_id": 261685,
+    "pl_orbper": 10.2152,
+    "pl_kepflag": false,
+    "pl_radj": 0.12846842,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.44,
+    "exo_id": "TOI-198_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248505",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261685"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

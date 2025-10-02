@@ -1,1 +1,71 @@
-{"id":262486,"date":"2023-11-28T20:51:36","date_gmt":"2023-11-29T01:51:36","modified":"2025-04-23T05:56:19","modified_gmt":"2025-04-23T09:56:19","slug":"hd_111998","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_111998/","featured_media":0,"categories":[],"acf":{"display_name":"HD 111998","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243936],"exo_id":"HD_111998","st_optmag":6.11006,"st_vj":6.11006,"st_dist":33.2237,"st_j":6.11006,"st_mass":1.4,"dec":-3.5531133,"st_teff":6557,"st_rad":1.45,"ra":193.2953521,"system_radius":285731931.7,"pl_hostname":"HD_111998","stellar_type":"F","tic_id":"TIC 53304943","magnitude":6.11006},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262486","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243936"}]}}
+{
+  "id": 262486,
+  "date": "2023-11-28T20:51:36",
+  "date_gmt": "2023-11-29T01:51:36",
+  "modified": "2025-04-23T05:56:19",
+  "modified_gmt": "2025-04-23T09:56:19",
+  "slug": "hd_111998",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_111998/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 111998",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243936
+    ],
+    "exo_id": "HD_111998",
+    "st_optmag": 6.11006,
+    "st_vj": 6.11006,
+    "st_dist": 33.2237,
+    "st_j": 6.11006,
+    "st_mass": 1.4,
+    "dec": -3.5531133,
+    "st_teff": 6557,
+    "st_rad": 1.45,
+    "ra": 193.2953521,
+    "system_radius": 285731931.7,
+    "pl_hostname": "HD_111998",
+    "stellar_type": "F",
+    "tic_id": "TIC 53304943",
+    "magnitude": 6.11006
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262486",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243936"
+      }
+    ]
+  }
+}

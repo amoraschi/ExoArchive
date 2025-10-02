@@ -1,1 +1,79 @@
-{"id":248531,"date":"2020-01-31T12:26:58","date_gmt":"2020-01-31T17:26:58","modified":"2025-07-07T15:26:09","modified_gmt":"2025-07-07T19:26:09","slug":"toi-21601","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-21601/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-216","pl_letter":"c","display_name":"TOI-216.01","planet_radius":"0.9010632 x Jupiter","derived_description":"TOI-216.01 is a gas giant exoplanet that orbits a K-type star. Its mass is 0.56 Jupiters, it takes 34.5 days to complete one orbit of its star, and is 0.2069 AU from its star. Its discovery was announced in 2019.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":177.945,"planet_mass":"0.56 Jupiters","st_optmag":12.324,"discovery_date":"2019","pl_orbsmax":0.2069,"period_display":"34.5 days","eccentricity":"0.0","star_id":262298,"pl_orbper":34.525528,"pl_kepflag":false,"pl_radj":0.9010632,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":190,"multiple_planet_system":false,"pl_rade":10.1,"exo_id":"TOI-216.01","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.0046},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248531","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262298"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248531,
+  "date": "2020-01-31T12:26:58",
+  "date_gmt": "2020-01-31T17:26:58",
+  "modified": "2025-07-07T15:26:09",
+  "modified_gmt": "2025-07-07T19:26:09",
+  "slug": "toi-21601",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-21601/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-216",
+    "pl_letter": "c",
+    "display_name": "TOI-216.01",
+    "planet_radius": "0.9010632 x Jupiter",
+    "derived_description": "TOI-216.01 is a gas giant exoplanet that orbits a K-type star. Its mass is 0.56 Jupiters, it takes 34.5 days to complete one orbit of its star, and is 0.2069 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 177.945,
+    "planet_mass": "0.56 Jupiters",
+    "st_optmag": 12.324,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.2069,
+    "period_display": "34.5 days",
+    "eccentricity": "0.0",
+    "star_id": 262298,
+    "pl_orbper": 34.525528,
+    "pl_kepflag": false,
+    "pl_radj": 0.9010632,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 190,
+    "multiple_planet_system": false,
+    "pl_rade": 10.1,
+    "exo_id": "TOI-216.01",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0046
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248531",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262298"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

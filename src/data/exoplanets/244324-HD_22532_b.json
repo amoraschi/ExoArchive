@@ -1,1 +1,79 @@
-{"id":244324,"date":"2022-02-03T13:03:10","date_gmt":"2022-02-03T18:03:10","modified":"2024-10-24T18:38:23","modified_gmt":"2024-10-24T22:38:23","slug":"hd-22532-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-22532-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_22532","pl_letter":"b","display_name":"HD 22532 b","planet_radius":"1.19 x Jupiter (estimate)","derived_description":"HD 22532 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.12 Jupiters, it takes 2.4 years to complete one orbit of its star, and is 1.9 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":161.183,"planet_mass":"2.12 Jupiters","st_optmag":7.85,"discovery_date":"2022","pl_orbsmax":1.9,"period_display":"2.4 years","eccentricity":"0.03","star_id":262393,"pl_orbper":872.6,"pl_kepflag":false,"pl_radj":1.19,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":169.1,"multiple_planet_system":false,"pl_rade":13.4,"exo_id":"HD_22532_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.03},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244324","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262393"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244324,
+  "date": "2022-02-03T13:03:10",
+  "date_gmt": "2022-02-03T18:03:10",
+  "modified": "2024-10-24T18:38:23",
+  "modified_gmt": "2024-10-24T22:38:23",
+  "slug": "hd-22532-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-22532-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_22532",
+    "pl_letter": "b",
+    "display_name": "HD 22532 b",
+    "planet_radius": "1.19 x Jupiter (estimate)",
+    "derived_description": "HD 22532 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.12 Jupiters, it takes 2.4 years to complete one orbit of its star, and is 1.9 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 161.183,
+    "planet_mass": "2.12 Jupiters",
+    "st_optmag": 7.85,
+    "discovery_date": "2022",
+    "pl_orbsmax": 1.9,
+    "period_display": "2.4 years",
+    "eccentricity": "0.03",
+    "star_id": 262393,
+    "pl_orbper": 872.6,
+    "pl_kepflag": false,
+    "pl_radj": 1.19,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 169.1,
+    "multiple_planet_system": false,
+    "pl_rade": 13.4,
+    "exo_id": "HD_22532_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.03
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244324",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262393"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

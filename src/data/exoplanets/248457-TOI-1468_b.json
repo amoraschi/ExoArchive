@@ -1,1 +1,79 @@
-{"id":248457,"date":"2022-11-12T01:17:23","date_gmt":"2022-11-12T06:17:23","modified":"2025-07-07T20:34:21","modified_gmt":"2025-07-08T00:34:21","slug":"toi-1468-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1468-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1468","pl_letter":"b","display_name":"TOI-1468 b","planet_radius":"1.401 x Earth","derived_description":"TOI-1468 b is a super Earth exoplanet that orbits a M-type star. Its mass is 3.04 Earths, it takes 1.9 days to complete one orbit of its star, and is 0.02107 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":24.7399,"planet_mass":"3.04 Earths","st_optmag":12.5,"discovery_date":"2022","pl_orbsmax":0.02107,"period_display":"1.9 days","eccentricity":"0.01","star_id":262285,"pl_orbper":1.8805201,"pl_kepflag":false,"pl_radj":0.12498906,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":-170,"multiple_planet_system":false,"pl_rade":1.401,"exo_id":"TOI-1468_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.0099},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248457","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262285"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248457,
+  "date": "2022-11-12T01:17:23",
+  "date_gmt": "2022-11-12T06:17:23",
+  "modified": "2025-07-07T20:34:21",
+  "modified_gmt": "2025-07-08T00:34:21",
+  "slug": "toi-1468-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1468-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1468",
+    "pl_letter": "b",
+    "display_name": "TOI-1468 b",
+    "planet_radius": "1.401 x Earth",
+    "derived_description": "TOI-1468 b is a super Earth exoplanet that orbits a M-type star. Its mass is 3.04 Earths, it takes 1.9 days to complete one orbit of its star, and is 0.02107 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 24.7399,
+    "planet_mass": "3.04 Earths",
+    "st_optmag": 12.5,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.02107,
+    "period_display": "1.9 days",
+    "eccentricity": "0.01",
+    "star_id": 262285,
+    "pl_orbper": 1.8805201,
+    "pl_kepflag": false,
+    "pl_radj": 0.12498906,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": -170,
+    "multiple_planet_system": false,
+    "pl_rade": 1.401,
+    "exo_id": "TOI-1468_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0099
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248457",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262285"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

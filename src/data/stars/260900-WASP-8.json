@@ -1,1 +1,76 @@
-{"id":260900,"date":"2023-11-28T20:31:32","date_gmt":"2023-11-29T01:31:32","modified":"2025-04-23T05:53:42","modified_gmt":"2025-04-23T09:53:42","slug":"wasp-8","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-8/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-8","custom_star_title":"","aliases":"","constellation":"Sculptor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248910,248911],"exo_id":"WASP-8","st_optmag":9.789,"st_vj":9.789,"st_dist":89.9606,"st_j":9.789,"st_mass":1.34,"dec":-35.0313349,"st_teff":5600,"st_rad":1.03,"ra":359.9008737,"system_radius":789876753.6,"pl_hostname":"WASP-8","stellar_type":"G","tic_id":"TIC 183532609","magnitude":9.789},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260900","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248911"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248910"}]}}
+{
+  "id": 260900,
+  "date": "2023-11-28T20:31:32",
+  "date_gmt": "2023-11-29T01:31:32",
+  "modified": "2025-04-23T05:53:42",
+  "modified_gmt": "2025-04-23T09:53:42",
+  "slug": "wasp-8",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-8/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-8",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sculptor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248910,
+      248911
+    ],
+    "exo_id": "WASP-8",
+    "st_optmag": 9.789,
+    "st_vj": 9.789,
+    "st_dist": 89.9606,
+    "st_j": 9.789,
+    "st_mass": 1.34,
+    "dec": -35.0313349,
+    "st_teff": 5600,
+    "st_rad": 1.03,
+    "ra": 359.9008737,
+    "system_radius": 789876753.6,
+    "pl_hostname": "WASP-8",
+    "stellar_type": "G",
+    "tic_id": "TIC 183532609",
+    "magnitude": 9.789
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260900",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248911"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248910"
+      }
+    ]
+  }
+}

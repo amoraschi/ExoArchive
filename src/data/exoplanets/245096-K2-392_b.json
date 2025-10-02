@@ -1,1 +1,79 @@
-{"id":245096,"date":"2022-03-21T13:34:41","date_gmt":"2022-03-21T17:34:41","modified":"2025-03-28T07:26:13","modified_gmt":"2025-03-28T11:26:13","slug":"k2-392-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-392-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-392","pl_letter":"b","display_name":"K2-392 b","planet_radius":"1.85 x Earth","derived_description":"K2-392 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.08 Earths, it takes 15.4 days to complete one orbit of its star, and is 0.11433782991661 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":406.985,"planet_mass":"4.08 Earths","st_optmag":12.922,"discovery_date":"2022","pl_orbsmax":"","period_display":"15.4 days","eccentricity":"","star_id":264115,"pl_orbper":15.398723,"pl_kepflag":true,"pl_radj":0.16504623,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.85,"exo_id":"K2-392_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245096","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264115"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245096,
+  "date": "2022-03-21T13:34:41",
+  "date_gmt": "2022-03-21T17:34:41",
+  "modified": "2025-03-28T07:26:13",
+  "modified_gmt": "2025-03-28T11:26:13",
+  "slug": "k2-392-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-392-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-392",
+    "pl_letter": "b",
+    "display_name": "K2-392 b",
+    "planet_radius": "1.85 x Earth",
+    "derived_description": "K2-392 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.08 Earths, it takes 15.4 days to complete one orbit of its star, and is 0.11433782991661 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 406.985,
+    "planet_mass": "4.08 Earths",
+    "st_optmag": 12.922,
+    "discovery_date": "2022",
+    "pl_orbsmax": "",
+    "period_display": "15.4 days",
+    "eccentricity": "",
+    "star_id": 264115,
+    "pl_orbper": 15.398723,
+    "pl_kepflag": true,
+    "pl_radj": 0.16504623,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.85,
+    "exo_id": "K2-392_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245096",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264115"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

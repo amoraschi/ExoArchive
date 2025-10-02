@@ -1,1 +1,71 @@
-{"id":260756,"date":"2023-11-28T20:29:43","date_gmt":"2023-11-29T01:29:43","modified":"2025-04-23T05:56:00","modified_gmt":"2025-04-23T09:56:00","slug":"wasp-11","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-11/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-11","custom_star_title":"","aliases":"","constellation":"Aries","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248759],"exo_id":"WASP-11","st_optmag":11.567,"st_vj":11.567,"st_dist":124.73,"st_j":11.567,"st_mass":1.42,"dec":30.6733817,"st_teff":4800,"st_rad":0.89,"ra":47.3689472,"system_radius":6507507.345,"pl_hostname":"WASP-11","stellar_type":"K","tic_id":"TIC 85593751","magnitude":11.567},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260756","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248759"}]}}
+{
+  "id": 260756,
+  "date": "2023-11-28T20:29:43",
+  "date_gmt": "2023-11-29T01:29:43",
+  "modified": "2025-04-23T05:56:00",
+  "modified_gmt": "2025-04-23T09:56:00",
+  "slug": "wasp-11",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-11/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-11",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aries",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248759
+    ],
+    "exo_id": "WASP-11",
+    "st_optmag": 11.567,
+    "st_vj": 11.567,
+    "st_dist": 124.73,
+    "st_j": 11.567,
+    "st_mass": 1.42,
+    "dec": 30.6733817,
+    "st_teff": 4800,
+    "st_rad": 0.89,
+    "ra": 47.3689472,
+    "system_radius": 6507507.345,
+    "pl_hostname": "WASP-11",
+    "stellar_type": "K",
+    "tic_id": "TIC 85593751",
+    "magnitude": 11.567
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260756",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248759"
+      }
+    ]
+  }
+}

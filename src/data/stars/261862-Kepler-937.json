@@ -1,1 +1,76 @@
-{"id":261862,"date":"2023-11-28T20:43:40","date_gmt":"2023-11-29T01:43:40","modified":"2025-04-23T05:53:59","modified_gmt":"2025-04-23T09:53:59","slug":"kepler-937","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-937/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-937","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247922,247923],"exo_id":"Kepler-937","st_optmag":15.405,"st_vj":15.405,"st_dist":1571.46,"st_j":15.405,"st_mass":1.15,"dec":46.7146161,"st_teff":6095,"st_rad":1.22,"ra":294.1688142,"system_radius":82952018.915,"pl_hostname":"Kepler-937","stellar_type":"F","tic_id":"TIC 270854155","magnitude":15.405},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261862","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247923"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247922"}]}}
+{
+  "id": 261862,
+  "date": "2023-11-28T20:43:40",
+  "date_gmt": "2023-11-29T01:43:40",
+  "modified": "2025-04-23T05:53:59",
+  "modified_gmt": "2025-04-23T09:53:59",
+  "slug": "kepler-937",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-937/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-937",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247922,
+      247923
+    ],
+    "exo_id": "Kepler-937",
+    "st_optmag": 15.405,
+    "st_vj": 15.405,
+    "st_dist": 1571.46,
+    "st_j": 15.405,
+    "st_mass": 1.15,
+    "dec": 46.7146161,
+    "st_teff": 6095,
+    "st_rad": 1.22,
+    "ra": 294.1688142,
+    "system_radius": 82952018.915,
+    "pl_hostname": "Kepler-937",
+    "stellar_type": "F",
+    "tic_id": "TIC 270854155",
+    "magnitude": 15.405
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261862",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247923"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247922"
+      }
+    ]
+  }
+}

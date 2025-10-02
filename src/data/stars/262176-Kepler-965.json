@@ -1,1 +1,71 @@
-{"id":262176,"date":"2023-11-28T20:47:40","date_gmt":"2023-11-29T01:47:40","modified":"2025-04-23T05:55:46","modified_gmt":"2025-04-23T09:55:46","slug":"kepler-965","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-965/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-965","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247959],"exo_id":"Kepler-965","st_optmag":13.488,"st_vj":13.488,"st_dist":582.828,"st_j":13.488,"st_mass":1.05,"dec":41.8912305,"st_teff":5886,"st_rad":1.15,"ra":298.5153169,"system_radius":76291921.7426,"pl_hostname":"Kepler-965","stellar_type":"G","tic_id":"TIC 274118253","magnitude":13.488},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262176","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247959"}]}}
+{
+  "id": 262176,
+  "date": "2023-11-28T20:47:40",
+  "date_gmt": "2023-11-29T01:47:40",
+  "modified": "2025-04-23T05:55:46",
+  "modified_gmt": "2025-04-23T09:55:46",
+  "slug": "kepler-965",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-965/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-965",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247959
+    ],
+    "exo_id": "Kepler-965",
+    "st_optmag": 13.488,
+    "st_vj": 13.488,
+    "st_dist": 582.828,
+    "st_j": 13.488,
+    "st_mass": 1.05,
+    "dec": 41.8912305,
+    "st_teff": 5886,
+    "st_rad": 1.15,
+    "ra": 298.5153169,
+    "system_radius": 76291921.7426,
+    "pl_hostname": "Kepler-965",
+    "stellar_type": "G",
+    "tic_id": "TIC 274118253",
+    "magnitude": 13.488
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262176",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247959"
+      }
+    ]
+  }
+}

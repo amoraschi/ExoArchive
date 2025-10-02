@@ -1,1 +1,79 @@
-{"id":246203,"date":"2016-03-16T19:26:23","date_gmt":"2016-03-16T23:26:23","modified":"2025-06-25T12:04:51","modified_gmt":"2025-06-25T16:04:51","slug":"kepler-16b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-16b/","featured_media":314867,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-16","pl_letter":"b","display_name":"Kepler-16 b","planet_radius":"0.7538 x Jupiter","derived_description":"Kepler-16 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.333 Jupiters, it takes 228.8 days to complete one orbit of its star, and is 0.7048 AU from its star. Its discovery was announced in 2011.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":75.0852,"planet_mass":"0.333 Jupiters","st_optmag":12.144,"discovery_date":"2011","pl_orbsmax":0.7048,"period_display":"228.8 days","eccentricity":"0.01","star_id":262371,"pl_orbper":228.776,"pl_kepflag":true,"pl_radj":0.7538,"pl_disc":2011,"pl_publ_date":"2011","planet_orbit_period":318,"multiple_planet_system":false,"pl_rade":8.4493,"exo_id":"Kepler-16_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.0069},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246203","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262371"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/314867"}]}}
+{
+  "id": 246203,
+  "date": "2016-03-16T19:26:23",
+  "date_gmt": "2016-03-16T23:26:23",
+  "modified": "2025-06-25T12:04:51",
+  "modified_gmt": "2025-06-25T16:04:51",
+  "slug": "kepler-16b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-16b/",
+  "featured_media": 314867,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-16",
+    "pl_letter": "b",
+    "display_name": "Kepler-16 b",
+    "planet_radius": "0.7538 x Jupiter",
+    "derived_description": "Kepler-16 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.333 Jupiters, it takes 228.8 days to complete one orbit of its star, and is 0.7048 AU from its star. Its discovery was announced in 2011.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 75.0852,
+    "planet_mass": "0.333 Jupiters",
+    "st_optmag": 12.144,
+    "discovery_date": "2011",
+    "pl_orbsmax": 0.7048,
+    "period_display": "228.8 days",
+    "eccentricity": "0.01",
+    "star_id": 262371,
+    "pl_orbper": 228.776,
+    "pl_kepflag": true,
+    "pl_radj": 0.7538,
+    "pl_disc": 2011,
+    "pl_publ_date": "2011",
+    "planet_orbit_period": 318,
+    "multiple_planet_system": false,
+    "pl_rade": 8.4493,
+    "exo_id": "Kepler-16_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0069
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246203",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262371"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/314867"
+      }
+    ]
+  }
+}

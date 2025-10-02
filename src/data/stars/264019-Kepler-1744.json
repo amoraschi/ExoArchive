@@ -1,1 +1,71 @@
-{"id":264019,"date":"2023-11-28T21:11:10","date_gmt":"2023-11-29T02:11:10","modified":"2025-04-23T05:55:28","modified_gmt":"2025-04-23T09:55:28","slug":"kepler-1744","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1744/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1744","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246259],"exo_id":"Kepler-1744","st_optmag":15.566,"st_vj":15.566,"st_dist":1091.63,"st_j":15.566,"st_mass":0.886,"dec":42.4624633,"st_teff":5986,"st_rad":0.85,"ra":291.0206823,"system_radius":31333273.8715,"pl_hostname":"Kepler-1744","stellar_type":"F","tic_id":"TIC 159575346","magnitude":15.566},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264019","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246259"}]}}
+{
+  "id": 264019,
+  "date": "2023-11-28T21:11:10",
+  "date_gmt": "2023-11-29T02:11:10",
+  "modified": "2025-04-23T05:55:28",
+  "modified_gmt": "2025-04-23T09:55:28",
+  "slug": "kepler-1744",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1744/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1744",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246259
+    ],
+    "exo_id": "Kepler-1744",
+    "st_optmag": 15.566,
+    "st_vj": 15.566,
+    "st_dist": 1091.63,
+    "st_j": 15.566,
+    "st_mass": 0.886,
+    "dec": 42.4624633,
+    "st_teff": 5986,
+    "st_rad": 0.85,
+    "ra": 291.0206823,
+    "system_radius": 31333273.8715,
+    "pl_hostname": "Kepler-1744",
+    "stellar_type": "F",
+    "tic_id": "TIC 159575346",
+    "magnitude": 15.566
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264019",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246259"
+      }
+    ]
+  }
+}

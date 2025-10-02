@@ -1,1 +1,71 @@
-{"id":439627,"date":"2024-12-13T01:15:42","date_gmt":"2024-12-13T06:15:42","modified":"2025-05-09T06:26:30","modified_gmt":"2025-05-09T10:26:30","slug":"toi-4638","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4638/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4638","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[439669],"exo_id":"TOI-4638","st_optmag":11.657,"st_vj":11.657,"st_dist":168.248,"st_j":11.657,"st_mass":1.02,"dec":12.7879858,"st_teff":5700,"st_rad":0.895,"ra":12.8206627,"system_radius":13914546.68231,"pl_hostname":"TOI-4638","stellar_type":"G","tic_id":"TIC 58824746","magnitude":11.657},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/439627","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439669"}]}}
+{
+  "id": 439627,
+  "date": "2024-12-13T01:15:42",
+  "date_gmt": "2024-12-13T06:15:42",
+  "modified": "2025-05-09T06:26:30",
+  "modified_gmt": "2025-05-09T10:26:30",
+  "slug": "toi-4638",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4638/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4638",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      439669
+    ],
+    "exo_id": "TOI-4638",
+    "st_optmag": 11.657,
+    "st_vj": 11.657,
+    "st_dist": 168.248,
+    "st_j": 11.657,
+    "st_mass": 1.02,
+    "dec": 12.7879858,
+    "st_teff": 5700,
+    "st_rad": 0.895,
+    "ra": 12.8206627,
+    "system_radius": 13914546.68231,
+    "pl_hostname": "TOI-4638",
+    "stellar_type": "G",
+    "tic_id": "TIC 58824746",
+    "magnitude": 11.657
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439627",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439669"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248420,"date":"2021-06-03T13:32:36","date_gmt":"2021-06-03T17:32:36","modified":"2025-03-28T07:31:31","modified_gmt":"2025-03-28T11:31:31","slug":"toi-1231-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1231-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1231","pl_letter":"b","display_name":"TOI-1231 b","planet_radius":"0.32563175 x Jupiter","derived_description":"TOI-1231 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 15.4 Earths, it takes 24.2 days to complete one orbit of its star, and is 0.1288 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":27.6227,"planet_mass":"15.4 Earths","st_optmag":12.36,"discovery_date":"2021","pl_orbsmax":0.1288,"period_display":"24.2 days","eccentricity":"0.09","star_id":263516,"pl_orbper":24.245586,"pl_kepflag":false,"pl_radj":0.32563175,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":176,"multiple_planet_system":false,"pl_rade":3.65,"exo_id":"TOI-1231_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.087},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248420","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263516"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248420,
+  "date": "2021-06-03T13:32:36",
+  "date_gmt": "2021-06-03T17:32:36",
+  "modified": "2025-03-28T07:31:31",
+  "modified_gmt": "2025-03-28T11:31:31",
+  "slug": "toi-1231-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1231-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1231",
+    "pl_letter": "b",
+    "display_name": "TOI-1231 b",
+    "planet_radius": "0.32563175 x Jupiter",
+    "derived_description": "TOI-1231 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 15.4 Earths, it takes 24.2 days to complete one orbit of its star, and is 0.1288 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 27.6227,
+    "planet_mass": "15.4 Earths",
+    "st_optmag": 12.36,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.1288,
+    "period_display": "24.2 days",
+    "eccentricity": "0.09",
+    "star_id": 263516,
+    "pl_orbper": 24.245586,
+    "pl_kepflag": false,
+    "pl_radj": 0.32563175,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 176,
+    "multiple_planet_system": false,
+    "pl_rade": 3.65,
+    "exo_id": "TOI-1231_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.087
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248420",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263516"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

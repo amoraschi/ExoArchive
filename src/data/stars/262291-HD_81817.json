@@ -1,1 +1,76 @@
-{"id":262291,"date":"2023-11-28T20:49:07","date_gmt":"2023-11-29T01:49:07","modified":"2025-06-06T07:19:23","modified_gmt":"2025-06-06T11:19:23","slug":"hd_81817","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_81817/","featured_media":0,"categories":[],"acf":{"display_name":"HD 81817","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244560,"1":244559},"exo_id":"HD_81817","st_optmag":4.26489,"st_vj":4.26489,"st_dist":269.126,"st_j":4.26489,"st_mass":4.3,"dec":81.3263096,"st_teff":4140,"st_rad":83.8,"ra":144.2715659,"system_radius":483649913.71,"pl_hostname":"HD_81817","stellar_type":"K","tic_id":"TIC 137603530","magnitude":4.26489},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262291","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244560"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244559"}]}}
+{
+  "id": 262291,
+  "date": "2023-11-28T20:49:07",
+  "date_gmt": "2023-11-29T01:49:07",
+  "modified": "2025-06-06T07:19:23",
+  "modified_gmt": "2025-06-06T11:19:23",
+  "slug": "hd_81817",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_81817/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 81817",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244560,
+      "1": 244559
+    },
+    "exo_id": "HD_81817",
+    "st_optmag": 4.26489,
+    "st_vj": 4.26489,
+    "st_dist": 269.126,
+    "st_j": 4.26489,
+    "st_mass": 4.3,
+    "dec": 81.3263096,
+    "st_teff": 4140,
+    "st_rad": 83.8,
+    "ra": 144.2715659,
+    "system_radius": 483649913.71,
+    "pl_hostname": "HD_81817",
+    "stellar_type": "K",
+    "tic_id": "TIC 137603530",
+    "magnitude": 4.26489
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262291",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244560"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244559"
+      }
+    ]
+  }
+}

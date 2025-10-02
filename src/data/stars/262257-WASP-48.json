@@ -1,1 +1,71 @@
-{"id":262257,"date":"2023-11-28T20:48:42","date_gmt":"2023-11-29T01:48:42","modified":"2025-04-23T05:56:20","modified_gmt":"2025-04-23T09:56:20","slug":"wasp-48","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-48/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-48","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248864],"exo_id":"WASP-48","st_optmag":11.647,"st_vj":11.647,"st_dist":454.144,"st_j":11.647,"st_mass":0.88,"dec":55.4730273,"st_teff":5920,"st_rad":1.58,"ra":291.1623865,"system_radius":5152150.6428,"pl_hostname":"WASP-48","stellar_type":"G","tic_id":"TIC 284475976","magnitude":11.647},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262257","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248864"}]}}
+{
+  "id": 262257,
+  "date": "2023-11-28T20:48:42",
+  "date_gmt": "2023-11-29T01:48:42",
+  "modified": "2025-04-23T05:56:20",
+  "modified_gmt": "2025-04-23T09:56:20",
+  "slug": "wasp-48",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-48/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-48",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248864
+    ],
+    "exo_id": "WASP-48",
+    "st_optmag": 11.647,
+    "st_vj": 11.647,
+    "st_dist": 454.144,
+    "st_j": 11.647,
+    "st_mass": 0.88,
+    "dec": 55.4730273,
+    "st_teff": 5920,
+    "st_rad": 1.58,
+    "ra": 291.1623865,
+    "system_radius": 5152150.6428,
+    "pl_hostname": "WASP-48",
+    "stellar_type": "G",
+    "tic_id": "TIC 284475976",
+    "magnitude": 11.647
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262257",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248864"
+      }
+    ]
+  }
+}

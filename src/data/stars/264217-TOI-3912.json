@@ -1,1 +1,71 @@
-{"id":264217,"date":"2023-11-28T21:13:44","date_gmt":"2023-11-29T02:13:44","modified":"2025-04-23T05:55:51","modified_gmt":"2025-04-23T09:55:51","slug":"toi-3912","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3912/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-3912","custom_star_title":"","aliases":"","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248600],"exo_id":"TOI-3912","st_optmag":12.507,"st_vj":12.507,"st_dist":465.992,"st_j":12.507,"st_mass":1.088,"dec":24.0765639,"st_teff":5725,"st_rad":1.392,"ra":215.8014956,"system_radius":6926381.381,"pl_hostname":"TOI-3912","stellar_type":"G","tic_id":"TIC 156648452","magnitude":12.507},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264217","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248600"}]}}
+{
+  "id": 264217,
+  "date": "2023-11-28T21:13:44",
+  "date_gmt": "2023-11-29T02:13:44",
+  "modified": "2025-04-23T05:55:51",
+  "modified_gmt": "2025-04-23T09:55:51",
+  "slug": "toi-3912",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3912/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3912",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248600
+    ],
+    "exo_id": "TOI-3912",
+    "st_optmag": 12.507,
+    "st_vj": 12.507,
+    "st_dist": 465.992,
+    "st_j": 12.507,
+    "st_mass": 1.088,
+    "dec": 24.0765639,
+    "st_teff": 5725,
+    "st_rad": 1.392,
+    "ra": 215.8014956,
+    "system_radius": 6926381.381,
+    "pl_hostname": "TOI-3912",
+    "stellar_type": "G",
+    "tic_id": "TIC 156648452",
+    "magnitude": 12.507
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264217",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248600"
+      }
+    ]
+  }
+}

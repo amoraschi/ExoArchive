@@ -1,1 +1,71 @@
-{"id":263161,"date":"2023-11-28T21:00:10","date_gmt":"2023-11-29T02:00:10","modified":"2025-04-23T05:55:59","modified_gmt":"2025-04-23T09:55:59","slug":"hats-27","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-27/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-27","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243809],"exo_id":"HATS-27","st_optmag":12.782,"st_vj":12.782,"st_dist":816.988,"st_j":12.782,"st_mass":1.415,"dec":-46.5877159,"st_teff":6438,"st_rad":1.74,"ra":193.5524603,"system_radius":9140429.857,"pl_hostname":"HATS-27","stellar_type":"F","tic_id":"TIC 248111245","magnitude":12.782},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263161","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243809"}]}}
+{
+  "id": 263161,
+  "date": "2023-11-28T21:00:10",
+  "date_gmt": "2023-11-29T02:00:10",
+  "modified": "2025-04-23T05:55:59",
+  "modified_gmt": "2025-04-23T09:55:59",
+  "slug": "hats-27",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-27/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-27",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243809
+    ],
+    "exo_id": "HATS-27",
+    "st_optmag": 12.782,
+    "st_vj": 12.782,
+    "st_dist": 816.988,
+    "st_j": 12.782,
+    "st_mass": 1.415,
+    "dec": -46.5877159,
+    "st_teff": 6438,
+    "st_rad": 1.74,
+    "ra": 193.5524603,
+    "system_radius": 9140429.857,
+    "pl_hostname": "HATS-27",
+    "stellar_type": "F",
+    "tic_id": "TIC 248111245",
+    "magnitude": 12.782
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263161",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243809"
+      }
+    ]
+  }
+}

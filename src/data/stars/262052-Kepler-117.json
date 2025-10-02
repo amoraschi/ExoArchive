@@ -1,1 +1,76 @@
-{"id":262052,"date":"2023-11-28T20:46:06","date_gmt":"2023-11-29T01:46:06","modified":"2025-04-23T05:54:04","modified_gmt":"2025-04-23T09:54:04","slug":"kepler-117","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-117/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-117","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245479,245480],"exo_id":"Kepler-117","st_optmag":14.282,"st_vj":14.282,"st_dist":1455.57,"st_j":14.282,"st_mass":1.129,"dec":48.040176,"st_teff":6150,"st_rad":1.606,"ra":288.7930651,"system_radius":41947242.748,"pl_hostname":"Kepler-117","stellar_type":"F","tic_id":"TIC 299032847","magnitude":14.282},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262052","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245480"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245479"}]}}
+{
+  "id": 262052,
+  "date": "2023-11-28T20:46:06",
+  "date_gmt": "2023-11-29T01:46:06",
+  "modified": "2025-04-23T05:54:04",
+  "modified_gmt": "2025-04-23T09:54:04",
+  "slug": "kepler-117",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-117/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-117",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245479,
+      245480
+    ],
+    "exo_id": "Kepler-117",
+    "st_optmag": 14.282,
+    "st_vj": 14.282,
+    "st_dist": 1455.57,
+    "st_j": 14.282,
+    "st_mass": 1.129,
+    "dec": 48.040176,
+    "st_teff": 6150,
+    "st_rad": 1.606,
+    "ra": 288.7930651,
+    "system_radius": 41947242.748,
+    "pl_hostname": "Kepler-117",
+    "stellar_type": "F",
+    "tic_id": "TIC 299032847",
+    "magnitude": 14.282
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262052",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245480"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245479"
+      }
+    ]
+  }
+}

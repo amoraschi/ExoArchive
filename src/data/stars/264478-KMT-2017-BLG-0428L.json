@@ -1,1 +1,71 @@
-{"id":264478,"date":"2023-11-28T21:17:03","date_gmt":"2023-11-29T02:17:03","modified":"2025-04-23T05:57:21","modified_gmt":"2025-04-23T09:57:21","slug":"kmt-2017-blg-0428l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-0428l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2017-BLG-0428L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248036],"exo_id":"KMT-2017-BLG-0428L","st_optmag":"","st_vj":"","st_dist":5400,"st_j":"","st_mass":0.34,"dec":-28.4902806,"st_teff":"","st_rad":"","ra":271.38525,"system_radius":270772144.7,"pl_hostname":"KMT-2017-BLG-0428L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264478","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248036"}]}}
+{
+  "id": 264478,
+  "date": "2023-11-28T21:17:03",
+  "date_gmt": "2023-11-29T02:17:03",
+  "modified": "2025-04-23T05:57:21",
+  "modified_gmt": "2025-04-23T09:57:21",
+  "slug": "kmt-2017-blg-0428l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2017-blg-0428l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2017-BLG-0428L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248036
+    ],
+    "exo_id": "KMT-2017-BLG-0428L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5400,
+    "st_j": "",
+    "st_mass": 0.34,
+    "dec": -28.4902806,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.38525,
+    "system_radius": 270772144.7,
+    "pl_hostname": "KMT-2017-BLG-0428L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264478",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248036"
+      }
+    ]
+  }
+}

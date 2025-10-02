@@ -1,1 +1,71 @@
-{"id":262950,"date":"2023-11-28T20:57:31","date_gmt":"2023-11-29T01:57:31","modified":"2025-04-23T05:56:38","modified_gmt":"2025-04-23T09:56:38","slug":"moa-bin-29","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/moa-bin-29/","featured_media":0,"categories":[],"acf":{"display_name":"MOA-bin-29","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248189],"exo_id":"MOA-bin-29","st_optmag":44.61,"st_vj":44.61,"st_dist":7120,"st_j":44.61,"st_mass":0.03,"dec":-29.7365639,"st_teff":"","st_rad":"","ra":269.3759583,"system_radius":71806977.6,"pl_hostname":"MOA-bin-29","stellar_type":"Unknown","tic_id":"","magnitude":44.61},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262950","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248189"}]}}
+{
+  "id": 262950,
+  "date": "2023-11-28T20:57:31",
+  "date_gmt": "2023-11-29T01:57:31",
+  "modified": "2025-04-23T05:56:38",
+  "modified_gmt": "2025-04-23T09:56:38",
+  "slug": "moa-bin-29",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/moa-bin-29/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MOA-bin-29",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248189
+    ],
+    "exo_id": "MOA-bin-29",
+    "st_optmag": 44.61,
+    "st_vj": 44.61,
+    "st_dist": 7120,
+    "st_j": 44.61,
+    "st_mass": 0.03,
+    "dec": -29.7365639,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.3759583,
+    "system_radius": 71806977.6,
+    "pl_hostname": "MOA-bin-29",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 44.61
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262950",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248189"
+      }
+    ]
+  }
+}

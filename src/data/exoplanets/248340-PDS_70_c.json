@@ -1,1 +1,79 @@
-{"id":248340,"date":"2019-06-13T18:03:16","date_gmt":"2019-06-13T22:03:16","modified":"2025-06-25T12:05:43","modified_gmt":"2025-06-25T16:05:43","slug":"pds-70-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/pds-70-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"PDS_70","pl_letter":"c","display_name":"PDS 70 c","planet_radius":"2.04 x Jupiter","derived_description":"PDS 70 c is a gas giant exoplanet that orbits a K-type star. Its mass is 2 Jupiters, it takes 227.5 years to complete one orbit of its star, and is 34 AU from its star. Its discovery was announced in 2019.","planet_type":"Gas Giant","pl_discmethod":"Imaging","pl_facility":"European Southern Observatory","st_dist":113.064,"planet_mass":"2 Jupiters","st_optmag":12.032,"discovery_date":"2019","pl_orbsmax":34,"period_display":"227.5 years","eccentricity":"0.11","star_id":260767,"pl_orbper":"","pl_kepflag":false,"pl_radj":2.04,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":136,"multiple_planet_system":false,"pl_rade":22.86636,"exo_id":"PDS_70_c","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248340","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260767"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248340,
+  "date": "2019-06-13T18:03:16",
+  "date_gmt": "2019-06-13T22:03:16",
+  "modified": "2025-06-25T12:05:43",
+  "modified_gmt": "2025-06-25T16:05:43",
+  "slug": "pds-70-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/pds-70-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "PDS_70",
+    "pl_letter": "c",
+    "display_name": "PDS 70 c",
+    "planet_radius": "2.04 x Jupiter",
+    "derived_description": "PDS 70 c is a gas giant exoplanet that orbits a K-type star. Its mass is 2 Jupiters, it takes 227.5 years to complete one orbit of its star, and is 34 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "European Southern Observatory",
+    "st_dist": 113.064,
+    "planet_mass": "2 Jupiters",
+    "st_optmag": 12.032,
+    "discovery_date": "2019",
+    "pl_orbsmax": 34,
+    "period_display": "227.5 years",
+    "eccentricity": "0.11",
+    "star_id": 260767,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 2.04,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 136,
+    "multiple_planet_system": false,
+    "pl_rade": 22.86636,
+    "exo_id": "PDS_70_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248340",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260767"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

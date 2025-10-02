@@ -1,1 +1,76 @@
-{"id":406602,"date":"2024-07-15T21:47:27","date_gmt":"2024-07-16T01:47:27","modified":"2025-04-23T05:55:08","modified_gmt":"2025-04-23T09:55:08","slug":"hip-8152","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip-8152/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 8152","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":414029,"1":414028},"exo_id":"HIP_8152","st_optmag":10.07,"st_vj":10.07,"st_dist":101.694,"st_j":10.07,"st_mass":0.9373,"dec":-18.4013844,"st_teff":5618,"st_rad":0.9603,"ra":26.2092533,"system_radius":20794103.93,"pl_hostname":"HIP_8152","stellar_type":"G","tic_id":"TIC 164767175","magnitude":10.07},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/406602","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/414029"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/414028"}]}}
+{
+  "id": 406602,
+  "date": "2024-07-15T21:47:27",
+  "date_gmt": "2024-07-16T01:47:27",
+  "modified": "2025-04-23T05:55:08",
+  "modified_gmt": "2025-04-23T09:55:08",
+  "slug": "hip-8152",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-8152/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 8152",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 414029,
+      "1": 414028
+    },
+    "exo_id": "HIP_8152",
+    "st_optmag": 10.07,
+    "st_vj": 10.07,
+    "st_dist": 101.694,
+    "st_j": 10.07,
+    "st_mass": 0.9373,
+    "dec": -18.4013844,
+    "st_teff": 5618,
+    "st_rad": 0.9603,
+    "ra": 26.2092533,
+    "system_radius": 20794103.93,
+    "pl_hostname": "HIP_8152",
+    "stellar_type": "G",
+    "tic_id": "TIC 164767175",
+    "magnitude": 10.07
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/406602",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/414029"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/414028"
+      }
+    ]
+  }
+}

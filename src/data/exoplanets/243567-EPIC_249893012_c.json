@@ -1,1 +1,79 @@
-{"id":243567,"date":"2020-02-14T12:26:59","date_gmt":"2020-02-14T17:26:59","modified":"2025-07-07T20:34:19","modified_gmt":"2025-07-08T00:34:19","slug":"epic-249893012-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/epic-249893012-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"EPIC_249893012","pl_letter":"c","display_name":"EPIC 249893012 c","planet_radius":"0.32741547 x Jupiter","derived_description":"EPIC 249893012 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 14.67 Earths, it takes 15.6 days to complete one orbit of its star, and is 0.13 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":321.296,"planet_mass":"14.67 Earths","st_optmag":11.429,"discovery_date":"2020","pl_orbsmax":0.13,"period_display":"15.6 days","eccentricity":"0.07","star_id":260478,"pl_orbper":15.624,"pl_kepflag":true,"pl_radj":0.32741547,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":217,"multiple_planet_system":false,"pl_rade":3.67,"exo_id":"EPIC_249893012_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.07},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243567","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260478"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243567,
+  "date": "2020-02-14T12:26:59",
+  "date_gmt": "2020-02-14T17:26:59",
+  "modified": "2025-07-07T20:34:19",
+  "modified_gmt": "2025-07-08T00:34:19",
+  "slug": "epic-249893012-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/epic-249893012-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "EPIC_249893012",
+    "pl_letter": "c",
+    "display_name": "EPIC 249893012 c",
+    "planet_radius": "0.32741547 x Jupiter",
+    "derived_description": "EPIC 249893012 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 14.67 Earths, it takes 15.6 days to complete one orbit of its star, and is 0.13 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 321.296,
+    "planet_mass": "14.67 Earths",
+    "st_optmag": 11.429,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.13,
+    "period_display": "15.6 days",
+    "eccentricity": "0.07",
+    "star_id": 260478,
+    "pl_orbper": 15.624,
+    "pl_kepflag": true,
+    "pl_radj": 0.32741547,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 217,
+    "multiple_planet_system": false,
+    "pl_rade": 3.67,
+    "exo_id": "EPIC_249893012_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.07
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243567",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260478"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

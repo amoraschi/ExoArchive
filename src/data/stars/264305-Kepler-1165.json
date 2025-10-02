@@ -1,1 +1,76 @@
-{"id":264305,"date":"2023-11-28T21:14:51","date_gmt":"2023-11-29T02:14:51","modified":"2025-06-13T07:33:51","modified_gmt":"2025-06-13T11:33:51","slug":"kepler-1165","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1165/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1165","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245461,"1":245460},"exo_id":"Kepler-1165","st_optmag":14.521,"st_vj":14.521,"st_dist":1575.2,"st_j":14.521,"st_mass":1.13,"dec":44.7082669,"st_teff":6080,"st_rad":1.18,"ra":286.9712284,"system_radius":29455820.603,"pl_hostname":"Kepler-1165","stellar_type":"F","tic_id":"TIC 158326744","magnitude":14.521},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264305","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245461"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245460"}]}}
+{
+  "id": 264305,
+  "date": "2023-11-28T21:14:51",
+  "date_gmt": "2023-11-29T02:14:51",
+  "modified": "2025-06-13T07:33:51",
+  "modified_gmt": "2025-06-13T11:33:51",
+  "slug": "kepler-1165",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1165/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1165",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245461,
+      "1": 245460
+    },
+    "exo_id": "Kepler-1165",
+    "st_optmag": 14.521,
+    "st_vj": 14.521,
+    "st_dist": 1575.2,
+    "st_j": 14.521,
+    "st_mass": 1.13,
+    "dec": 44.7082669,
+    "st_teff": 6080,
+    "st_rad": 1.18,
+    "ra": 286.9712284,
+    "system_radius": 29455820.603,
+    "pl_hostname": "Kepler-1165",
+    "stellar_type": "F",
+    "tic_id": "TIC 158326744",
+    "magnitude": 14.521
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264305",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245461"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245460"
+      }
+    ]
+  }
+}

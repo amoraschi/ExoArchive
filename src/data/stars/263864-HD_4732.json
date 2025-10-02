@@ -1,1 +1,76 @@
-{"id":263864,"date":"2023-11-28T21:09:12","date_gmt":"2023-11-29T02:09:12","modified":"2025-04-23T05:57:08","modified_gmt":"2025-04-23T09:57:08","slug":"hd_4732","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_4732/","featured_media":0,"categories":[],"acf":{"display_name":"HD 4732","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244460,244461],"exo_id":"HD_4732","st_optmag":5.9,"st_vj":5.9,"st_dist":54.7841,"st_j":5.9,"st_mass":1.39,"dec":-24.1369079,"st_teff":4898,"st_rad":5.03,"ra":12.3085089,"system_radius":706849935.75,"pl_hostname":"HD_4732","stellar_type":"K","tic_id":"TIC 63905972","magnitude":5.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263864","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244461"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244460"}]}}
+{
+  "id": 263864,
+  "date": "2023-11-28T21:09:12",
+  "date_gmt": "2023-11-29T02:09:12",
+  "modified": "2025-04-23T05:57:08",
+  "modified_gmt": "2025-04-23T09:57:08",
+  "slug": "hd_4732",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_4732/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 4732",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244460,
+      244461
+    ],
+    "exo_id": "HD_4732",
+    "st_optmag": 5.9,
+    "st_vj": 5.9,
+    "st_dist": 54.7841,
+    "st_j": 5.9,
+    "st_mass": 1.39,
+    "dec": -24.1369079,
+    "st_teff": 4898,
+    "st_rad": 5.03,
+    "ra": 12.3085089,
+    "system_radius": 706849935.75,
+    "pl_hostname": "HD_4732",
+    "stellar_type": "K",
+    "tic_id": "TIC 63905972",
+    "magnitude": 5.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263864",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244461"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244460"
+      }
+    ]
+  }
+}

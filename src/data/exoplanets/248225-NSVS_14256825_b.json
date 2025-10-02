@@ -1,1 +1,79 @@
-{"id":248225,"date":"2019-06-13T18:03:12","date_gmt":"2019-06-13T22:03:12","modified":"2024-10-24T20:30:53","modified_gmt":"2024-10-25T00:30:53","slug":"nsvs-14256825-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/nsvs-14256825-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"NSVS_14256825","pl_letter":"b","display_name":"NSVS 14256825 b","planet_radius":"1.1 x Jupiter (estimate)","derived_description":"NSVS 14256825 b is a gas giant exoplanet that orbits a O-type star. Its mass is 14.15 Jupiters, it takes 8.8 years to complete one orbit of its star, and is 3.12 AU from its star. Its discovery was announced in 2019.","planet_type":"Gas Giant","pl_discmethod":"Eclipse Timing Variations","pl_facility":"Multiple Observatories","st_dist":820.877,"planet_mass":"14.15 Jupiters","st_optmag":13.296,"discovery_date":"2019","pl_orbsmax":3.12,"period_display":"8.8 years","eccentricity":"0.12","star_id":260419,"pl_orbper":3225,"pl_kepflag":false,"pl_radj":1.1,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":133.3,"multiple_planet_system":false,"pl_rade":12.3,"exo_id":"NSVS_14256825_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.12},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248225","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260419"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248225,
+  "date": "2019-06-13T18:03:12",
+  "date_gmt": "2019-06-13T22:03:12",
+  "modified": "2024-10-24T20:30:53",
+  "modified_gmt": "2024-10-25T00:30:53",
+  "slug": "nsvs-14256825-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/nsvs-14256825-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "NSVS_14256825",
+    "pl_letter": "b",
+    "display_name": "NSVS 14256825 b",
+    "planet_radius": "1.1 x Jupiter (estimate)",
+    "derived_description": "NSVS 14256825 b is a gas giant exoplanet that orbits a O-type star. Its mass is 14.15 Jupiters, it takes 8.8 years to complete one orbit of its star, and is 3.12 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Eclipse Timing Variations",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 820.877,
+    "planet_mass": "14.15 Jupiters",
+    "st_optmag": 13.296,
+    "discovery_date": "2019",
+    "pl_orbsmax": 3.12,
+    "period_display": "8.8 years",
+    "eccentricity": "0.12",
+    "star_id": 260419,
+    "pl_orbper": 3225,
+    "pl_kepflag": false,
+    "pl_radj": 1.1,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 133.3,
+    "multiple_planet_system": false,
+    "pl_rade": 12.3,
+    "exo_id": "NSVS_14256825_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.12
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248225",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260419"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

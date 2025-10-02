@@ -1,1 +1,79 @@
-{"id":243415,"date":"2019-04-22T16:48:47","date_gmt":"2019-04-22T20:48:47","modified":"2025-07-07T20:39:57","modified_gmt":"2025-07-08T00:39:57","slug":"55-cancri-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/55-cancri-e/","featured_media":313911,"categories":[2014,2013],"acf":{"pl_hostname":"55_Cnc","pl_letter":"e","display_name":"55 Cancri e","planet_radius":"1.875 x Earth","derived_description":"55 Cancri e is a super Earth exoplanet that orbits a K-type star. Its mass is 7.99 Earths, it takes 0.7 days to complete one orbit of its star, and is 0.01544 AU from its star. Its discovery was announced in 2004.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"McDonald Observatory","st_dist":12.5868,"planet_mass":"7.99 Earths","st_optmag":5.96,"discovery_date":"2004","pl_orbsmax":0.01544,"period_display":"0.7 days","eccentricity":"0.05","star_id":262336,"pl_orbper":0.7365474,"pl_kepflag":false,"pl_radj":0.1672763,"pl_disc":2004,"pl_publ_date":"2004","planet_orbit_period":86,"multiple_planet_system":false,"pl_rade":1.875,"exo_id":"55_Cnc_e","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243415","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262336"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/313911"}]}}
+{
+  "id": 243415,
+  "date": "2019-04-22T16:48:47",
+  "date_gmt": "2019-04-22T20:48:47",
+  "modified": "2025-07-07T20:39:57",
+  "modified_gmt": "2025-07-08T00:39:57",
+  "slug": "55-cancri-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/55-cancri-e/",
+  "featured_media": 313911,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "55_Cnc",
+    "pl_letter": "e",
+    "display_name": "55 Cancri e",
+    "planet_radius": "1.875 x Earth",
+    "derived_description": "55 Cancri e is a super Earth exoplanet that orbits a K-type star. Its mass is 7.99 Earths, it takes 0.7 days to complete one orbit of its star, and is 0.01544 AU from its star. Its discovery was announced in 2004.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "McDonald Observatory",
+    "st_dist": 12.5868,
+    "planet_mass": "7.99 Earths",
+    "st_optmag": 5.96,
+    "discovery_date": "2004",
+    "pl_orbsmax": 0.01544,
+    "period_display": "0.7 days",
+    "eccentricity": "0.05",
+    "star_id": 262336,
+    "pl_orbper": 0.7365474,
+    "pl_kepflag": false,
+    "pl_radj": 0.1672763,
+    "pl_disc": 2004,
+    "pl_publ_date": "2004",
+    "planet_orbit_period": 86,
+    "multiple_planet_system": false,
+    "pl_rade": 1.875,
+    "exo_id": "55_Cnc_e",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243415",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262336"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/313911"
+      }
+    ]
+  }
+}

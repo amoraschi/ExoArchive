@@ -1,1 +1,71 @@
-{"id":260822,"date":"2023-11-28T20:30:32","date_gmt":"2023-11-29T01:30:32","modified":"2025-04-23T05:54:44","modified_gmt":"2025-04-23T09:54:44","slug":"kepler-819","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-819/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-819","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247761],"exo_id":"Kepler-819","st_optmag":15.402,"st_vj":15.402,"st_dist":664.306,"st_j":15.402,"st_mass":0.86,"dec":39.1772925,"st_teff":5279,"st_rad":0.81,"ra":295.3708312,"system_radius":28333836.578,"pl_hostname":"Kepler-819","stellar_type":"K","tic_id":"TIC 139106013","magnitude":15.402},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260822","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247761"}]}}
+{
+  "id": 260822,
+  "date": "2023-11-28T20:30:32",
+  "date_gmt": "2023-11-29T01:30:32",
+  "modified": "2025-04-23T05:54:44",
+  "modified_gmt": "2025-04-23T09:54:44",
+  "slug": "kepler-819",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-819/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-819",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247761
+    ],
+    "exo_id": "Kepler-819",
+    "st_optmag": 15.402,
+    "st_vj": 15.402,
+    "st_dist": 664.306,
+    "st_j": 15.402,
+    "st_mass": 0.86,
+    "dec": 39.1772925,
+    "st_teff": 5279,
+    "st_rad": 0.81,
+    "ra": 295.3708312,
+    "system_radius": 28333836.578,
+    "pl_hostname": "Kepler-819",
+    "stellar_type": "K",
+    "tic_id": "TIC 139106013",
+    "magnitude": 15.402
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260822",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247761"
+      }
+    ]
+  }
+}

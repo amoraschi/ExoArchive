@@ -1,1 +1,79 @@
-{"id":244729,"date":"2017-05-10T13:26:16","date_gmt":"2017-05-10T17:26:16","modified":"2025-07-07T20:43:54","modified_gmt":"2025-07-08T00:43:54","slug":"k2-111-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-111-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-111","pl_letter":"b","display_name":"K2-111 b","planet_radius":"1.82 x Earth","derived_description":"K2-111 b is a super Earth exoplanet that orbits a G-type star. Its mass is 5.58 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.0565 AU from its star. Its discovery was announced in 2017.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":200.394,"planet_mass":"5.58 Earths","st_optmag":11.13,"discovery_date":"2017","pl_orbsmax":0.0565,"period_display":"5.4 days","eccentricity":"< 0.1","star_id":260441,"pl_orbper":5.3518,"pl_kepflag":true,"pl_radj":0.1623698,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":-69.3,"multiple_planet_system":false,"pl_rade":1.82,"exo_id":"K2-111_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0.1,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244729","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260441"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244729,
+  "date": "2017-05-10T13:26:16",
+  "date_gmt": "2017-05-10T17:26:16",
+  "modified": "2025-07-07T20:43:54",
+  "modified_gmt": "2025-07-08T00:43:54",
+  "slug": "k2-111-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-111-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-111",
+    "pl_letter": "b",
+    "display_name": "K2-111 b",
+    "planet_radius": "1.82 x Earth",
+    "derived_description": "K2-111 b is a super Earth exoplanet that orbits a G-type star. Its mass is 5.58 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.0565 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 200.394,
+    "planet_mass": "5.58 Earths",
+    "st_optmag": 11.13,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.0565,
+    "period_display": "5.4 days",
+    "eccentricity": "< 0.1",
+    "star_id": 260441,
+    "pl_orbper": 5.3518,
+    "pl_kepflag": true,
+    "pl_radj": 0.1623698,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": -69.3,
+    "multiple_planet_system": false,
+    "pl_rade": 1.82,
+    "exo_id": "K2-111_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0.1,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244729",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260441"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

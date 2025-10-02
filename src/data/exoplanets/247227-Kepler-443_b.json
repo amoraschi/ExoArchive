@@ -1,1 +1,79 @@
-{"id":247227,"date":"2017-10-02T13:32:48","date_gmt":"2017-10-02T17:32:48","modified":"2024-10-25T08:37:49","modified_gmt":"2024-10-25T12:37:49","slug":"kepler-443-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-443-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-443","pl_letter":"b","display_name":"Kepler-443 b","planet_radius":"0.21 x Jupiter","derived_description":"Kepler-443 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.04 Earths, it takes 177.7 days to complete one orbit of its star, and is 0.495 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":802.271,"planet_mass":"6.04 Earths","st_optmag":16.207,"discovery_date":"2015","pl_orbsmax":0.495,"period_display":"177.7 days","eccentricity":"0.11","star_id":264088,"pl_orbper":177.6693,"pl_kepflag":true,"pl_radj":0.21,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.33,"exo_id":"Kepler-443_b","planet_size_class":"sub-Neptunian","pl_eccenlim":-1,"pl_orbeccen":0.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247227","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264088"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247227,
+  "date": "2017-10-02T13:32:48",
+  "date_gmt": "2017-10-02T17:32:48",
+  "modified": "2024-10-25T08:37:49",
+  "modified_gmt": "2024-10-25T12:37:49",
+  "slug": "kepler-443-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-443-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-443",
+    "pl_letter": "b",
+    "display_name": "Kepler-443 b",
+    "planet_radius": "0.21 x Jupiter",
+    "derived_description": "Kepler-443 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.04 Earths, it takes 177.7 days to complete one orbit of its star, and is 0.495 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 802.271,
+    "planet_mass": "6.04 Earths",
+    "st_optmag": 16.207,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.495,
+    "period_display": "177.7 days",
+    "eccentricity": "0.11",
+    "star_id": 264088,
+    "pl_orbper": 177.6693,
+    "pl_kepflag": true,
+    "pl_radj": 0.21,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.33,
+    "exo_id": "Kepler-443_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": -1,
+    "pl_orbeccen": 0.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247227",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264088"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

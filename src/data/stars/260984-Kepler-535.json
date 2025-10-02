@@ -1,1 +1,71 @@
-{"id":260984,"date":"2023-11-28T20:32:35","date_gmt":"2023-11-29T01:32:35","modified":"2025-04-23T05:55:03","modified_gmt":"2025-04-23T09:55:03","slug":"kepler-535","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-535/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-535","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247365],"exo_id":"Kepler-535","st_optmag":13.209,"st_vj":13.209,"st_dist":685.599,"st_j":13.209,"st_mass":1.18,"dec":49.6961742,"st_teff":6123,"st_rad":1.27,"ra":296.5666587,"system_radius":8992327.9657,"pl_hostname":"Kepler-535","stellar_type":"F","tic_id":"TIC 351192037","magnitude":13.209},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260984","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247365"}]}}
+{
+  "id": 260984,
+  "date": "2023-11-28T20:32:35",
+  "date_gmt": "2023-11-29T01:32:35",
+  "modified": "2025-04-23T05:55:03",
+  "modified_gmt": "2025-04-23T09:55:03",
+  "slug": "kepler-535",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-535/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-535",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247365
+    ],
+    "exo_id": "Kepler-535",
+    "st_optmag": 13.209,
+    "st_vj": 13.209,
+    "st_dist": 685.599,
+    "st_j": 13.209,
+    "st_mass": 1.18,
+    "dec": 49.6961742,
+    "st_teff": 6123,
+    "st_rad": 1.27,
+    "ra": 296.5666587,
+    "system_radius": 8992327.9657,
+    "pl_hostname": "Kepler-535",
+    "stellar_type": "F",
+    "tic_id": "TIC 351192037",
+    "magnitude": 13.209
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260984",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247365"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":247250,"date":"2017-10-02T13:32:52","date_gmt":"2017-10-02T17:32:52","modified":"2025-06-25T12:04:28","modified_gmt":"2025-06-25T16:04:28","slug":"kepler-452-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-452-b/","featured_media":315623,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-452","pl_letter":"b","display_name":"Kepler-452 b","planet_radius":"1.63 x Earth","derived_description":"Kepler-452 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.29 Earths, it takes 384.8 days to complete one orbit of its star, and is 1.046 AU from its star. Its discovery was announced in 2015.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":551.727,"planet_mass":"3.29 Earths","st_optmag":13.54,"discovery_date":"2015","pl_orbsmax":1.046,"period_display":"384.8 days","eccentricity":"0.0","star_id":261070,"pl_orbper":384.843,"pl_kepflag":true,"pl_radj":0.14541886,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.63,"exo_id":"Kepler-452_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247250","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261070"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/315623"}]}}
+{
+  "id": 247250,
+  "date": "2017-10-02T13:32:52",
+  "date_gmt": "2017-10-02T17:32:52",
+  "modified": "2025-06-25T12:04:28",
+  "modified_gmt": "2025-06-25T16:04:28",
+  "slug": "kepler-452-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-452-b/",
+  "featured_media": 315623,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-452",
+    "pl_letter": "b",
+    "display_name": "Kepler-452 b",
+    "planet_radius": "1.63 x Earth",
+    "derived_description": "Kepler-452 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.29 Earths, it takes 384.8 days to complete one orbit of its star, and is 1.046 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 551.727,
+    "planet_mass": "3.29 Earths",
+    "st_optmag": 13.54,
+    "discovery_date": "2015",
+    "pl_orbsmax": 1.046,
+    "period_display": "384.8 days",
+    "eccentricity": "0.0",
+    "star_id": 261070,
+    "pl_orbper": 384.843,
+    "pl_kepflag": true,
+    "pl_radj": 0.14541886,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.63,
+    "exo_id": "Kepler-452_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247250",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261070"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/315623"
+      }
+    ]
+  }
+}

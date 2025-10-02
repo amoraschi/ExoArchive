@@ -1,1 +1,79 @@
-{"id":243898,"date":"2019-04-22T16:48:41","date_gmt":"2019-04-22T20:48:41","modified":"2024-10-24T17:45:48","modified_gmt":"2024-10-24T21:45:48","slug":"hd-106270-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-106270-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_106270","pl_letter":"b","display_name":"HD 106270 b","planet_radius":"1.11 x Jupiter (estimate)","derived_description":"HD 106270 b is a gas giant exoplanet that orbits a G-type star. Its mass is 11.4 Jupiters, it takes 5.2 years to complete one orbit of its star, and is 3.34 AU from its star. Its discovery was announced in 2011.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":93.808,"planet_mass":"11.4 Jupiters","st_optmag":7.58,"discovery_date":"2011","pl_orbsmax":3.34,"period_display":"5.2 years","eccentricity":"0.18","star_id":260808,"pl_orbper":1888,"pl_kepflag":false,"pl_radj":1.11,"pl_disc":2011,"pl_publ_date":"2011","planet_orbit_period":3.3,"multiple_planet_system":false,"pl_rade":12.4,"exo_id":"HD_106270_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.185},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243898","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260808"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243898,
+  "date": "2019-04-22T16:48:41",
+  "date_gmt": "2019-04-22T20:48:41",
+  "modified": "2024-10-24T17:45:48",
+  "modified_gmt": "2024-10-24T21:45:48",
+  "slug": "hd-106270-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-106270-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_106270",
+    "pl_letter": "b",
+    "display_name": "HD 106270 b",
+    "planet_radius": "1.11 x Jupiter (estimate)",
+    "derived_description": "HD 106270 b is a gas giant exoplanet that orbits a G-type star. Its mass is 11.4 Jupiters, it takes 5.2 years to complete one orbit of its star, and is 3.34 AU from its star. Its discovery was announced in 2011.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 93.808,
+    "planet_mass": "11.4 Jupiters",
+    "st_optmag": 7.58,
+    "discovery_date": "2011",
+    "pl_orbsmax": 3.34,
+    "period_display": "5.2 years",
+    "eccentricity": "0.18",
+    "star_id": 260808,
+    "pl_orbper": 1888,
+    "pl_kepflag": false,
+    "pl_radj": 1.11,
+    "pl_disc": 2011,
+    "pl_publ_date": "2011",
+    "planet_orbit_period": 3.3,
+    "multiple_planet_system": false,
+    "pl_rade": 12.4,
+    "exo_id": "HD_106270_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.185
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243898",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260808"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

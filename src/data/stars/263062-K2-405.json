@@ -1,1 +1,71 @@
-{"id":263062,"date":"2023-11-28T20:58:56","date_gmt":"2023-11-29T01:58:56","modified":"2025-04-23T05:56:00","modified_gmt":"2025-04-23T09:56:00","slug":"k2-405","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-405/","featured_media":0,"categories":[],"acf":{"display_name":"K2-405","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245116],"exo_id":"K2-405","st_optmag":12.816,"st_vj":12.816,"st_dist":197.234,"st_j":12.816,"st_mass":1.034,"dec":12.535614,"st_teff":4927,"st_rad":0.765,"ra":164.3759959,"system_radius":149597870,"pl_hostname":"K2-405","stellar_type":"K","tic_id":"TIC 149496868","magnitude":12.816},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263062","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245116"}]}}
+{
+  "id": 263062,
+  "date": "2023-11-28T20:58:56",
+  "date_gmt": "2023-11-29T01:58:56",
+  "modified": "2025-04-23T05:56:00",
+  "modified_gmt": "2025-04-23T09:56:00",
+  "slug": "k2-405",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-405/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-405",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245116
+    ],
+    "exo_id": "K2-405",
+    "st_optmag": 12.816,
+    "st_vj": 12.816,
+    "st_dist": 197.234,
+    "st_j": 12.816,
+    "st_mass": 1.034,
+    "dec": 12.535614,
+    "st_teff": 4927,
+    "st_rad": 0.765,
+    "ra": 164.3759959,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-405",
+    "stellar_type": "K",
+    "tic_id": "TIC 149496868",
+    "magnitude": 12.816
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263062",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245116"
+      }
+    ]
+  }
+}

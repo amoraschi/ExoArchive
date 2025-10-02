@@ -1,1 +1,71 @@
-{"id":262847,"date":"2023-11-28T20:56:13","date_gmt":"2023-11-29T01:56:13","modified":"2025-04-23T05:56:32","modified_gmt":"2025-04-23T09:56:32","slug":"gaia-2","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gaia-2/","featured_media":0,"categories":[],"acf":{"display_name":"Gaia-2","custom_star_title":"","aliases":"","constellation":"Camelopardalis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243578],"exo_id":"Gaia-2","st_optmag":11.277,"st_vj":11.277,"st_dist":209.229,"st_j":11.277,"st_mass":1,"dec":67.2526565,"st_teff":5720,"st_rad":1.064,"ra":110.7353308,"system_radius":6986220.529,"pl_hostname":"Gaia-2","stellar_type":"G","tic_id":"TIC 147797743","magnitude":11.277},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262847","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243578"}]}}
+{
+  "id": 262847,
+  "date": "2023-11-28T20:56:13",
+  "date_gmt": "2023-11-29T01:56:13",
+  "modified": "2025-04-23T05:56:32",
+  "modified_gmt": "2025-04-23T09:56:32",
+  "slug": "gaia-2",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gaia-2/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Gaia-2",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Camelopardalis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243578
+    ],
+    "exo_id": "Gaia-2",
+    "st_optmag": 11.277,
+    "st_vj": 11.277,
+    "st_dist": 209.229,
+    "st_j": 11.277,
+    "st_mass": 1,
+    "dec": 67.2526565,
+    "st_teff": 5720,
+    "st_rad": 1.064,
+    "ra": 110.7353308,
+    "system_radius": 6986220.529,
+    "pl_hostname": "Gaia-2",
+    "stellar_type": "G",
+    "tic_id": "TIC 147797743",
+    "magnitude": 11.277
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262847",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243578"
+      }
+    ]
+  }
+}

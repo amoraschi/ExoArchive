@@ -1,1 +1,69 @@
-{"id":391258,"date":"2024-04-30T20:01:23","date_gmt":"2024-05-01T00:01:23","modified":"2025-04-23T05:57:33","modified_gmt":"2025-04-23T09:57:33","slug":"kappa1-ceti","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kappa1-ceti/","featured_media":429648,"categories":[],"acf":{"display_name":"Kappa1 Ceti","custom_star_title":"","aliases":"Kappa1Ceti,HD20630,HR996,GJ137,HD 20630,HR 996,GJ 137","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Kappa1_Ceti","st_optmag":4.85,"st_vj":4.85,"st_dist":9.2762,"st_j":4.85,"st_mass":0.98,"dec":3.3701986,"st_teff":5709,"st_rad":0.946,"ra":49.8404013,"system_radius":149597870,"pl_hostname":"Kappa1_Ceti","stellar_type":"G","tic_id":"TIC 343813545","magnitude":4.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391258","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391258,
+  "date": "2024-04-30T20:01:23",
+  "date_gmt": "2024-05-01T00:01:23",
+  "modified": "2025-04-23T05:57:33",
+  "modified_gmt": "2025-04-23T09:57:33",
+  "slug": "kappa1-ceti",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kappa1-ceti/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Kappa1 Ceti",
+    "custom_star_title": "",
+    "aliases": "Kappa1Ceti,HD20630,HR996,GJ137,HD 20630,HR 996,GJ 137",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Kappa1_Ceti",
+    "st_optmag": 4.85,
+    "st_vj": 4.85,
+    "st_dist": 9.2762,
+    "st_j": 4.85,
+    "st_mass": 0.98,
+    "dec": 3.3701986,
+    "st_teff": 5709,
+    "st_rad": 0.946,
+    "ra": 49.8404013,
+    "system_radius": 149597870,
+    "pl_hostname": "Kappa1_Ceti",
+    "stellar_type": "G",
+    "tic_id": "TIC 343813545",
+    "magnitude": 4.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391258",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

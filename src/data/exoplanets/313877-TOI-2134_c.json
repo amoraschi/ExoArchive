@@ -1,1 +1,79 @@
-{"id":313877,"date":"2023-11-30T19:15:33","date_gmt":"2023-12-01T00:15:33","modified":"2025-07-07T20:38:18","modified_gmt":"2025-07-08T00:38:18","slug":"toi-2134-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2134-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2134","pl_letter":"c","display_name":"TOI-2134 c","planet_radius":"0.64858707 x Jupiter","derived_description":"TOI-2134 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.13180068 Jupiters, it takes 95.5 days to complete one orbit of its star, and is 0.371 AU from its star. Its discovery was announced in 2023.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":22.6202,"planet_mass":"0.13180068 Jupiters","st_optmag":8.933,"discovery_date":"2023","pl_orbsmax":0.371,"period_display":"95.5 days","eccentricity":"0.67","star_id":313783,"pl_orbper":95.5,"pl_kepflag":false,"pl_radj":0.64858707,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":133,"multiple_planet_system":false,"pl_rade":7.27,"exo_id":"TOI-2134_c","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.67},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313877","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/313783"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 313877,
+  "date": "2023-11-30T19:15:33",
+  "date_gmt": "2023-12-01T00:15:33",
+  "modified": "2025-07-07T20:38:18",
+  "modified_gmt": "2025-07-08T00:38:18",
+  "slug": "toi-2134-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2134-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2134",
+    "pl_letter": "c",
+    "display_name": "TOI-2134 c",
+    "planet_radius": "0.64858707 x Jupiter",
+    "derived_description": "TOI-2134 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.13180068 Jupiters, it takes 95.5 days to complete one orbit of its star, and is 0.371 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 22.6202,
+    "planet_mass": "0.13180068 Jupiters",
+    "st_optmag": 8.933,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.371,
+    "period_display": "95.5 days",
+    "eccentricity": "0.67",
+    "star_id": 313783,
+    "pl_orbper": 95.5,
+    "pl_kepflag": false,
+    "pl_radj": 0.64858707,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 133,
+    "multiple_planet_system": false,
+    "pl_rade": 7.27,
+    "exo_id": "TOI-2134_c",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.67
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313877",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313783"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

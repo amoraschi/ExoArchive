@@ -1,1 +1,71 @@
-{"id":399265,"date":"2024-05-31T20:29:38","date_gmt":"2024-06-01T00:29:38","modified":"2025-04-23T05:55:58","modified_gmt":"2025-04-23T09:55:58","slug":"ucac4-328-061594","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ucac4-328-061594/","featured_media":0,"categories":[],"acf":{"display_name":"UCAC4 328-061594","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[399273],"exo_id":"UCAC4_328-061594","st_optmag":15.689,"st_vj":15.689,"st_dist":39.9089,"st_j":15.689,"st_mass":1.19,"dec":-24.4532674,"st_teff":"","st_rad":"","ra":152.6991091,"system_radius":2842359530000,"pl_hostname":"UCAC4_328-061594","stellar_type":"Unknown","tic_id":"TIC 168071263","magnitude":15.689},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/399265","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/399273"}]}}
+{
+  "id": 399265,
+  "date": "2024-05-31T20:29:38",
+  "date_gmt": "2024-06-01T00:29:38",
+  "modified": "2025-04-23T05:55:58",
+  "modified_gmt": "2025-04-23T09:55:58",
+  "slug": "ucac4-328-061594",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ucac4-328-061594/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "UCAC4 328-061594",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      399273
+    ],
+    "exo_id": "UCAC4_328-061594",
+    "st_optmag": 15.689,
+    "st_vj": 15.689,
+    "st_dist": 39.9089,
+    "st_j": 15.689,
+    "st_mass": 1.19,
+    "dec": -24.4532674,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 152.6991091,
+    "system_radius": 2842359530000,
+    "pl_hostname": "UCAC4_328-061594",
+    "stellar_type": "Unknown",
+    "tic_id": "TIC 168071263",
+    "magnitude": 15.689
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/399265",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/399273"
+      }
+    ]
+  }
+}

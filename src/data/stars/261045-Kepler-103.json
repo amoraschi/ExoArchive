@@ -1,1 +1,76 @@
-{"id":261045,"date":"2023-11-28T20:33:22","date_gmt":"2023-11-29T01:33:22","modified":"2025-09-17T22:33:24","modified_gmt":"2025-09-18T02:33:24","slug":"kepler-103","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-103/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-103","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245281,245282],"exo_id":"Kepler-103","st_optmag":11.883,"st_vj":11.883,"st_dist":494.832,"st_j":11.883,"st_mass":1.212,"dec":40.0644857,"st_teff":6047,"st_rad":1.492,"ra":288.9845512,"system_radius":99916417.373,"pl_hostname":"Kepler-103","stellar_type":"F","tic_id":"TIC 121865656","magnitude":11.883},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261045","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245282"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245281"}]}}
+{
+  "id": 261045,
+  "date": "2023-11-28T20:33:22",
+  "date_gmt": "2023-11-29T01:33:22",
+  "modified": "2025-09-17T22:33:24",
+  "modified_gmt": "2025-09-18T02:33:24",
+  "slug": "kepler-103",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-103/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-103",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245281,
+      245282
+    ],
+    "exo_id": "Kepler-103",
+    "st_optmag": 11.883,
+    "st_vj": 11.883,
+    "st_dist": 494.832,
+    "st_j": 11.883,
+    "st_mass": 1.212,
+    "dec": 40.0644857,
+    "st_teff": 6047,
+    "st_rad": 1.492,
+    "ra": 288.9845512,
+    "system_radius": 99916417.373,
+    "pl_hostname": "Kepler-103",
+    "stellar_type": "F",
+    "tic_id": "TIC 121865656",
+    "magnitude": 11.883
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261045",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245282"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245281"
+      }
+    ]
+  }
+}

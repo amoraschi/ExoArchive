@@ -1,1 +1,71 @@
-{"id":404190,"date":"2024-06-27T21:15:23","date_gmt":"2024-06-28T01:15:23","modified":"2025-04-23T05:55:34","modified_gmt":"2025-04-23T09:55:34","slug":"tic-365102760","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tic-365102760/","featured_media":0,"categories":[],"acf":{"display_name":"TIC 365102760","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[404207],"exo_id":"TIC_365102760","st_optmag":12.154,"st_vj":12.154,"st_dist":555.546,"st_j":12.154,"st_mass":1.17,"dec":54.3943194,"st_teff":4900,"st_rad":3.13,"ra":305.8398236,"system_radius":9304987.514,"pl_hostname":"TIC_365102760","stellar_type":"K","tic_id":"TIC 365102760","magnitude":12.154},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/404190","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/404207"}]}}
+{
+  "id": 404190,
+  "date": "2024-06-27T21:15:23",
+  "date_gmt": "2024-06-28T01:15:23",
+  "modified": "2025-04-23T05:55:34",
+  "modified_gmt": "2025-04-23T09:55:34",
+  "slug": "tic-365102760",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-365102760/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 365102760",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      404207
+    ],
+    "exo_id": "TIC_365102760",
+    "st_optmag": 12.154,
+    "st_vj": 12.154,
+    "st_dist": 555.546,
+    "st_j": 12.154,
+    "st_mass": 1.17,
+    "dec": 54.3943194,
+    "st_teff": 4900,
+    "st_rad": 3.13,
+    "ra": 305.8398236,
+    "system_radius": 9304987.514,
+    "pl_hostname": "TIC_365102760",
+    "stellar_type": "K",
+    "tic_id": "TIC 365102760",
+    "magnitude": 12.154
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/404190",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/404207"
+      }
+    ]
+  }
+}

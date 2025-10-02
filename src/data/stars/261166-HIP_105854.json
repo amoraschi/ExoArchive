@@ -1,1 +1,71 @@
-{"id":261166,"date":"2023-11-28T20:34:53","date_gmt":"2023-11-29T01:34:53","modified":"2025-04-23T05:54:15","modified_gmt":"2025-04-23T09:54:15","slug":"hip_105854","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_105854/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 105854","custom_star_title":"","aliases":"","constellation":"Microscopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244629],"exo_id":"HIP_105854","st_optmag":5.64,"st_vj":5.64,"st_dist":78.6381,"st_j":5.64,"st_mass":2.1,"dec":-37.8294782,"st_teff":4780,"st_rad":10.305119,"ra":321.5962275,"system_radius":121174274.7,"pl_hostname":"HIP_105854","stellar_type":"K","tic_id":"TIC 129649472","magnitude":5.64},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261166","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244629"}]}}
+{
+  "id": 261166,
+  "date": "2023-11-28T20:34:53",
+  "date_gmt": "2023-11-29T01:34:53",
+  "modified": "2025-04-23T05:54:15",
+  "modified_gmt": "2025-04-23T09:54:15",
+  "slug": "hip_105854",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_105854/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 105854",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Microscopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244629
+    ],
+    "exo_id": "HIP_105854",
+    "st_optmag": 5.64,
+    "st_vj": 5.64,
+    "st_dist": 78.6381,
+    "st_j": 5.64,
+    "st_mass": 2.1,
+    "dec": -37.8294782,
+    "st_teff": 4780,
+    "st_rad": 10.305119,
+    "ra": 321.5962275,
+    "system_radius": 121174274.7,
+    "pl_hostname": "HIP_105854",
+    "stellar_type": "K",
+    "tic_id": "TIC 129649472",
+    "magnitude": 5.64
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261166",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244629"
+      }
+    ]
+  }
+}

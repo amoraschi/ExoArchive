@@ -1,1 +1,76 @@
-{"id":262765,"date":"2023-11-28T20:55:09","date_gmt":"2023-11-29T01:55:09","modified":"2025-04-23T05:56:13","modified_gmt":"2025-04-23T09:56:13","slug":"toi-544","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-544/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-544","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":313855,"1":248654},"exo_id":"TOI-544","st_optmag":10.777,"st_vj":10.777,"st_dist":41.1166,"st_j":10.777,"st_mass":0.631,"dec":-0.3428983,"st_teff":4169,"st_rad":0.623,"ra":82.2900716,"system_radius":3365952.075,"pl_hostname":"TOI-544","stellar_type":"K","tic_id":"TIC 50618703","magnitude":10.777},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262765","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313855"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248654"}]}}
+{
+  "id": 262765,
+  "date": "2023-11-28T20:55:09",
+  "date_gmt": "2023-11-29T01:55:09",
+  "modified": "2025-04-23T05:56:13",
+  "modified_gmt": "2025-04-23T09:56:13",
+  "slug": "toi-544",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-544/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-544",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 313855,
+      "1": 248654
+    },
+    "exo_id": "TOI-544",
+    "st_optmag": 10.777,
+    "st_vj": 10.777,
+    "st_dist": 41.1166,
+    "st_j": 10.777,
+    "st_mass": 0.631,
+    "dec": -0.3428983,
+    "st_teff": 4169,
+    "st_rad": 0.623,
+    "ra": 82.2900716,
+    "system_radius": 3365952.075,
+    "pl_hostname": "TOI-544",
+    "stellar_type": "K",
+    "tic_id": "TIC 50618703",
+    "magnitude": 10.777
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262765",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313855"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248654"
+      }
+    ]
+  }
+}

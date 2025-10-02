@@ -1,1 +1,76 @@
-{"id":263001,"date":"2023-11-28T20:58:10","date_gmt":"2023-11-29T01:58:10","modified":"2025-04-23T05:53:17","modified_gmt":"2025-04-23T09:53:17","slug":"kepler-1972","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1972/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1972","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246560,246561],"exo_id":"Kepler-1972","st_optmag":11.23,"st_vj":11.23,"st_dist":287.339,"st_j":11.23,"st_mass":1.12,"dec":39.8725067,"st_teff":5818,"st_rad":1.384,"ra":288.3953074,"system_radius":15697304.4991,"pl_hostname":"Kepler-1972","stellar_type":"G","tic_id":"TIC 121604440","magnitude":11.23},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263001","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246561"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246560"}]}}
+{
+  "id": 263001,
+  "date": "2023-11-28T20:58:10",
+  "date_gmt": "2023-11-29T01:58:10",
+  "modified": "2025-04-23T05:53:17",
+  "modified_gmt": "2025-04-23T09:53:17",
+  "slug": "kepler-1972",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1972/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1972",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246560,
+      246561
+    ],
+    "exo_id": "Kepler-1972",
+    "st_optmag": 11.23,
+    "st_vj": 11.23,
+    "st_dist": 287.339,
+    "st_j": 11.23,
+    "st_mass": 1.12,
+    "dec": 39.8725067,
+    "st_teff": 5818,
+    "st_rad": 1.384,
+    "ra": 288.3953074,
+    "system_radius": 15697304.4991,
+    "pl_hostname": "Kepler-1972",
+    "stellar_type": "G",
+    "tic_id": "TIC 121604440",
+    "magnitude": 11.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263001",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246561"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246560"
+      }
+    ]
+  }
+}

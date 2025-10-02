@@ -1,1 +1,71 @@
-{"id":264208,"date":"2023-11-28T21:13:37","date_gmt":"2023-11-29T02:13:37","modified":"2025-04-23T05:53:40","modified_gmt":"2025-04-23T09:53:40","slug":"kepler-1882","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1882/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1882","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246445],"exo_id":"Kepler-1882","st_optmag":12.516,"st_vj":12.516,"st_dist":443.371,"st_j":12.516,"st_mass":1.068,"dec":43.4997866,"st_teff":5691,"st_rad":1.458,"ra":290.6640856,"system_radius":17407208.1532,"pl_hostname":"Kepler-1882","stellar_type":"G","tic_id":"TIC 159449495","magnitude":12.516},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264208","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246445"}]}}
+{
+  "id": 264208,
+  "date": "2023-11-28T21:13:37",
+  "date_gmt": "2023-11-29T02:13:37",
+  "modified": "2025-04-23T05:53:40",
+  "modified_gmt": "2025-04-23T09:53:40",
+  "slug": "kepler-1882",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1882/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1882",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246445
+    ],
+    "exo_id": "Kepler-1882",
+    "st_optmag": 12.516,
+    "st_vj": 12.516,
+    "st_dist": 443.371,
+    "st_j": 12.516,
+    "st_mass": 1.068,
+    "dec": 43.4997866,
+    "st_teff": 5691,
+    "st_rad": 1.458,
+    "ra": 290.6640856,
+    "system_radius": 17407208.1532,
+    "pl_hostname": "Kepler-1882",
+    "stellar_type": "G",
+    "tic_id": "TIC 159449495",
+    "magnitude": 12.516
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264208",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246445"
+      }
+    ]
+  }
+}

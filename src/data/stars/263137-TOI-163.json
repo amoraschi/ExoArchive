@@ -1,1 +1,71 @@
-{"id":263137,"date":"2023-11-28T20:59:52","date_gmt":"2023-11-29T01:59:52","modified":"2025-04-23T05:56:09","modified_gmt":"2025-04-23T09:56:09","slug":"toi-163","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-163/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-163","custom_star_title":"","aliases":"","constellation":"Mensa","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248469],"exo_id":"TOI-163","st_optmag":11.467,"st_vj":11.467,"st_dist":411.719,"st_j":11.467,"st_mass":1.4352,"dec":-71.8955269,"st_teff":6495,"st_rad":1.648,"ra":79.7682532,"system_radius":8676676.46,"pl_hostname":"TOI-163","stellar_type":"F","tic_id":"TIC 179317684","magnitude":11.467},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263137","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248469"}]}}
+{
+  "id": 263137,
+  "date": "2023-11-28T20:59:52",
+  "date_gmt": "2023-11-29T01:59:52",
+  "modified": "2025-04-23T05:56:09",
+  "modified_gmt": "2025-04-23T09:56:09",
+  "slug": "toi-163",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-163/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-163",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248469
+    ],
+    "exo_id": "TOI-163",
+    "st_optmag": 11.467,
+    "st_vj": 11.467,
+    "st_dist": 411.719,
+    "st_j": 11.467,
+    "st_mass": 1.4352,
+    "dec": -71.8955269,
+    "st_teff": 6495,
+    "st_rad": 1.648,
+    "ra": 79.7682532,
+    "system_radius": 8676676.46,
+    "pl_hostname": "TOI-163",
+    "stellar_type": "F",
+    "tic_id": "TIC 179317684",
+    "magnitude": 11.467
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263137",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248469"
+      }
+    ]
+  }
+}

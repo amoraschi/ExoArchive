@@ -1,1 +1,86 @@
-{"id":261926,"date":"2023-11-28T20:44:29","date_gmt":"2023-11-29T01:44:29","modified":"2025-04-23T05:54:25","modified_gmt":"2025-04-23T09:54:25","slug":"toi-4010","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4010/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4010","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248603,248604,248605,248606],"exo_id":"TOI-4010","st_optmag":12.291,"st_vj":12.291,"st_dist":177.504,"st_j":12.291,"st_mass":0.88,"dec":66.0722009,"st_teff":4960,"st_rad":0.83,"ra":20.2148196,"system_radius":234868655.9,"pl_hostname":"TOI-4010","stellar_type":"K","tic_id":"TIC 352682207","magnitude":12.291},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261926","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248606"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248605"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248604"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248603"}]}}
+{
+  "id": 261926,
+  "date": "2023-11-28T20:44:29",
+  "date_gmt": "2023-11-29T01:44:29",
+  "modified": "2025-04-23T05:54:25",
+  "modified_gmt": "2025-04-23T09:54:25",
+  "slug": "toi-4010",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4010/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4010",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248603,
+      248604,
+      248605,
+      248606
+    ],
+    "exo_id": "TOI-4010",
+    "st_optmag": 12.291,
+    "st_vj": 12.291,
+    "st_dist": 177.504,
+    "st_j": 12.291,
+    "st_mass": 0.88,
+    "dec": 66.0722009,
+    "st_teff": 4960,
+    "st_rad": 0.83,
+    "ra": 20.2148196,
+    "system_radius": 234868655.9,
+    "pl_hostname": "TOI-4010",
+    "stellar_type": "K",
+    "tic_id": "TIC 352682207",
+    "magnitude": 12.291
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261926",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248606"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248605"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248604"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248603"
+      }
+    ]
+  }
+}

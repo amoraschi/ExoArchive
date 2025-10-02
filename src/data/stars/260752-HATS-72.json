@@ -1,1 +1,71 @@
-{"id":260752,"date":"2023-11-28T20:29:39","date_gmt":"2023-11-29T01:29:39","modified":"2025-04-23T05:56:19","modified_gmt":"2025-04-23T09:56:19","slug":"hats-72","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-72/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-72","custom_star_title":"","aliases":"","constellation":"Aquarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243860],"exo_id":"HATS-72","st_optmag":12.324,"st_vj":12.324,"st_dist":127.589,"st_j":12.324,"st_mass":0.7311,"dec":-17.0003046,"st_teff":4656.1,"st_rad":0.7214,"ra":339.0258401,"system_radius":9950801.51879,"pl_hostname":"HATS-72","stellar_type":"K","tic_id":"TIC 188570092","magnitude":12.324},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260752","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243860"}]}}
+{
+  "id": 260752,
+  "date": "2023-11-28T20:29:39",
+  "date_gmt": "2023-11-29T01:29:39",
+  "modified": "2025-04-23T05:56:19",
+  "modified_gmt": "2025-04-23T09:56:19",
+  "slug": "hats-72",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-72/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-72",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243860
+    ],
+    "exo_id": "HATS-72",
+    "st_optmag": 12.324,
+    "st_vj": 12.324,
+    "st_dist": 127.589,
+    "st_j": 12.324,
+    "st_mass": 0.7311,
+    "dec": -17.0003046,
+    "st_teff": 4656.1,
+    "st_rad": 0.7214,
+    "ra": 339.0258401,
+    "system_radius": 9950801.51879,
+    "pl_hostname": "HATS-72",
+    "stellar_type": "K",
+    "tic_id": "TIC 188570092",
+    "magnitude": 12.324
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260752",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243860"
+      }
+    ]
+  }
+}

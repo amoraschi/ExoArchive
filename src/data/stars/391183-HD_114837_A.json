@@ -1,1 +1,69 @@
-{"id":391183,"date":"2024-04-30T20:01:16","date_gmt":"2024-05-01T00:01:16","modified":"2025-04-23T05:57:27","modified_gmt":"2025-04-23T09:57:27","slug":"hd-114837-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-114837-a/","featured_media":429647,"categories":[],"acf":{"display_name":"HD 114837 A","custom_star_title":"","aliases":"HR 4989 A,GJ 503A","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_114837_A","st_optmag":4.913,"st_vj":4.913,"st_dist":18.24,"st_j":4.913,"st_mass":1.25,"dec":-59.1032372,"st_teff":6238,"st_rad":1.475,"ra":198.5631031,"system_radius":149597870,"pl_hostname":"HD_114837_A","stellar_type":"F","tic_id":"TIC 255854921","magnitude":4.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391183","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391183,
+  "date": "2024-04-30T20:01:16",
+  "date_gmt": "2024-05-01T00:01:16",
+  "modified": "2025-04-23T05:57:27",
+  "modified_gmt": "2025-04-23T09:57:27",
+  "slug": "hd-114837-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-114837-a/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 114837 A",
+    "custom_star_title": "",
+    "aliases": "HR 4989 A,GJ 503A",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_114837_A",
+    "st_optmag": 4.913,
+    "st_vj": 4.913,
+    "st_dist": 18.24,
+    "st_j": 4.913,
+    "st_mass": 1.25,
+    "dec": -59.1032372,
+    "st_teff": 6238,
+    "st_rad": 1.475,
+    "ra": 198.5631031,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_114837_A",
+    "stellar_type": "F",
+    "tic_id": "TIC 255854921",
+    "magnitude": 4.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391183",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

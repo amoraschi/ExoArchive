@@ -1,1 +1,77 @@
-{"id":501241,"date":"2025-04-25T05:59:15","date_gmt":"2025-04-25T09:59:15","modified":"2025-04-25T05:59:15","modified_gmt":"2025-04-25T09:59:15","slug":"wasp-194","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-194/","featured_media":429647,"categories":[],"acf":{"display_name":"WASP-194","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876212],"exo_id":"WASP-194","st_optmag":11.985,"st_vj":11.985,"st_dist":476.831,"st_j":11.985,"st_mass":1.29,"dec":56.2178049,"st_teff":6405,"st_rad":1.409,"ra":295.3877064,"system_radius":7031099.89,"pl_hostname":"WASP-194","stellar_type":"F","tic_id":"TIC 400432230","magnitude":11.985},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/501241","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876212"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 501241,
+  "date": "2025-04-25T05:59:15",
+  "date_gmt": "2025-04-25T09:59:15",
+  "modified": "2025-04-25T05:59:15",
+  "modified_gmt": "2025-04-25T09:59:15",
+  "slug": "wasp-194",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-194/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-194",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876212
+    ],
+    "exo_id": "WASP-194",
+    "st_optmag": 11.985,
+    "st_vj": 11.985,
+    "st_dist": 476.831,
+    "st_j": 11.985,
+    "st_mass": 1.29,
+    "dec": 56.2178049,
+    "st_teff": 6405,
+    "st_rad": 1.409,
+    "ra": 295.3877064,
+    "system_radius": 7031099.89,
+    "pl_hostname": "WASP-194",
+    "stellar_type": "F",
+    "tic_id": "TIC 400432230",
+    "magnitude": 11.985
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/501241",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876212"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

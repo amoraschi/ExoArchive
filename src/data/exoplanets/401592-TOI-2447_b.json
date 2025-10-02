@@ -1,1 +1,79 @@
-{"id":401592,"date":"2024-06-13T21:28:33","date_gmt":"2024-06-14T01:28:33","modified":"2025-03-28T07:28:28","modified_gmt":"2025-03-28T11:28:28","slug":"toi-2447-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2447-b/","featured_media":271855,"categories":[2013,2014],"acf":{"pl_hostname":"TOI-2447","pl_letter":"b","display_name":"TOI-2447 b","planet_radius":"0.857 x Jupiter","derived_description":"TOI-2447 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.393 Jupiters, it takes 69.3 days to complete one orbit of its star, and is 0.347 AU from its star. Its discovery was announced in 2024.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":148.987,"planet_mass":"0.393 Jupiters","st_optmag":10.507,"discovery_date":"2024","pl_orbsmax":0.347,"period_display":"69.3 days","eccentricity":"0.17","star_id":401555,"pl_orbper":69.33684,"pl_kepflag":false,"pl_radj":0.857,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":-105,"multiple_planet_system":false,"pl_rade":9.60609646,"exo_id":"TOI-2447_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.17},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401592","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/401555"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 401592,
+  "date": "2024-06-13T21:28:33",
+  "date_gmt": "2024-06-14T01:28:33",
+  "modified": "2025-03-28T07:28:28",
+  "modified_gmt": "2025-03-28T11:28:28",
+  "slug": "toi-2447-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2447-b/",
+  "featured_media": 271855,
+  "categories": [
+    2013,
+    2014
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2447",
+    "pl_letter": "b",
+    "display_name": "TOI-2447 b",
+    "planet_radius": "0.857 x Jupiter",
+    "derived_description": "TOI-2447 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.393 Jupiters, it takes 69.3 days to complete one orbit of its star, and is 0.347 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 148.987,
+    "planet_mass": "0.393 Jupiters",
+    "st_optmag": 10.507,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.347,
+    "period_display": "69.3 days",
+    "eccentricity": "0.17",
+    "star_id": 401555,
+    "pl_orbper": 69.33684,
+    "pl_kepflag": false,
+    "pl_radj": 0.857,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": -105,
+    "multiple_planet_system": false,
+    "pl_rade": 9.60609646,
+    "exo_id": "TOI-2447_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.17
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401592",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401555"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

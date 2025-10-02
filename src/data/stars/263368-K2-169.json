@@ -1,1 +1,71 @@
-{"id":263368,"date":"2023-11-28T21:02:46","date_gmt":"2023-11-29T02:02:46","modified":"2025-04-23T05:56:16","modified_gmt":"2025-04-23T09:56:16","slug":"k2-169","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-169/","featured_media":0,"categories":[],"acf":{"display_name":"K2-169","custom_star_title":"","aliases":"","constellation":"Aquarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244807],"exo_id":"K2-169","st_optmag":12.23,"st_vj":12.23,"st_dist":235.867,"st_j":12.23,"st_mass":0.986144,"dec":-14.5993376,"st_teff":5548,"st_rad":0.919053,"ra":337.0442461,"system_radius":149597870,"pl_hostname":"K2-169","stellar_type":"G","tic_id":"TIC 12770870","magnitude":12.23},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263368","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244807"}]}}
+{
+  "id": 263368,
+  "date": "2023-11-28T21:02:46",
+  "date_gmt": "2023-11-29T02:02:46",
+  "modified": "2025-04-23T05:56:16",
+  "modified_gmt": "2025-04-23T09:56:16",
+  "slug": "k2-169",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-169/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-169",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244807
+    ],
+    "exo_id": "K2-169",
+    "st_optmag": 12.23,
+    "st_vj": 12.23,
+    "st_dist": 235.867,
+    "st_j": 12.23,
+    "st_mass": 0.986144,
+    "dec": -14.5993376,
+    "st_teff": 5548,
+    "st_rad": 0.919053,
+    "ra": 337.0442461,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-169",
+    "stellar_type": "G",
+    "tic_id": "TIC 12770870",
+    "magnitude": 12.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263368",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244807"
+      }
+    ]
+  }
+}

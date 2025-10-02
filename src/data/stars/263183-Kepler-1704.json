@@ -1,1 +1,71 @@
-{"id":263183,"date":"2023-11-28T21:00:27","date_gmt":"2023-11-29T02:00:27","modified":"2025-04-23T05:55:44","modified_gmt":"2025-04-23T09:55:44","slug":"kepler-1704","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1704/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1704","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246207],"exo_id":"Kepler-1704","st_optmag":13.392,"st_vj":13.392,"st_dist":835.455,"st_j":13.392,"st_mass":1.132,"dec":51.1442437,"st_teff":5746,"st_rad":1.697,"ra":291.2012559,"system_radius":303234882.49,"pl_hostname":"Kepler-1704","stellar_type":"G","tic_id":"TIC 350738167","magnitude":13.392},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263183","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246207"}]}}
+{
+  "id": 263183,
+  "date": "2023-11-28T21:00:27",
+  "date_gmt": "2023-11-29T02:00:27",
+  "modified": "2025-04-23T05:55:44",
+  "modified_gmt": "2025-04-23T09:55:44",
+  "slug": "kepler-1704",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1704/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1704",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246207
+    ],
+    "exo_id": "Kepler-1704",
+    "st_optmag": 13.392,
+    "st_vj": 13.392,
+    "st_dist": 835.455,
+    "st_j": 13.392,
+    "st_mass": 1.132,
+    "dec": 51.1442437,
+    "st_teff": 5746,
+    "st_rad": 1.697,
+    "ra": 291.2012559,
+    "system_radius": 303234882.49,
+    "pl_hostname": "Kepler-1704",
+    "stellar_type": "G",
+    "tic_id": "TIC 350738167",
+    "magnitude": 13.392
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263183",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246207"
+      }
+    ]
+  }
+}

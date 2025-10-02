@@ -1,1 +1,79 @@
-{"id":243663,"date":"2019-10-12T13:26:53","date_gmt":"2019-10-12T17:26:53","modified":"2025-07-07T20:34:15","modified_gmt":"2025-07-08T00:34:15","slug":"gj-433-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-433-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_433","pl_letter":"c","display_name":"GJ 433 c","planet_radius":"0.56 x Jupiter (estimate)","derived_description":"GJ 433 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 32.422 Earths, it takes 14 years to complete one orbit of its star, and is 4.819 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":9.06456,"planet_mass":"32.422 Earths","st_optmag":9.81,"discovery_date":"2014","pl_orbsmax":4.819,"period_display":"14 years","eccentricity":"0.12","star_id":260525,"pl_orbper":5094.105,"pl_kepflag":false,"pl_radj":0.56,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":242,"multiple_planet_system":false,"pl_rade":6.27,"exo_id":"GJ_433_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.12},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243663","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260525"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243663,
+  "date": "2019-10-12T13:26:53",
+  "date_gmt": "2019-10-12T17:26:53",
+  "modified": "2025-07-07T20:34:15",
+  "modified_gmt": "2025-07-08T00:34:15",
+  "slug": "gj-433-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-433-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_433",
+    "pl_letter": "c",
+    "display_name": "GJ 433 c",
+    "planet_radius": "0.56 x Jupiter (estimate)",
+    "derived_description": "GJ 433 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 32.422 Earths, it takes 14 years to complete one orbit of its star, and is 4.819 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 9.06456,
+    "planet_mass": "32.422 Earths",
+    "st_optmag": 9.81,
+    "discovery_date": "2014",
+    "pl_orbsmax": 4.819,
+    "period_display": "14 years",
+    "eccentricity": "0.12",
+    "star_id": 260525,
+    "pl_orbper": 5094.105,
+    "pl_kepflag": false,
+    "pl_radj": 0.56,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": 242,
+    "multiple_planet_system": false,
+    "pl_rade": 6.27,
+    "exo_id": "GJ_433_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.12
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243663",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260525"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

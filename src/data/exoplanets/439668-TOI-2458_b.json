@@ -1,1 +1,79 @@
-{"id":439668,"date":"2024-12-13T02:36:45","date_gmt":"2024-12-13T07:36:45","modified":"2025-07-07T20:39:22","modified_gmt":"2025-07-08T00:39:22","slug":"toi-2458-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2458-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2458","pl_letter":"b","display_name":"TOI-2458 b","planet_radius":"2.83 x Earth","derived_description":"TOI-2458 b is a super Earth exoplanet that orbits a F-type star. Its mass is 13.31 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.0482 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":112.958,"planet_mass":"13.31 Earths","st_optmag":9.202,"discovery_date":"2024","pl_orbsmax":0.0482,"period_display":"3.7 days","eccentricity":"0.09","star_id":439626,"pl_orbper":3.73659,"pl_kepflag":false,"pl_radj":0.25247612,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":-26,"multiple_planet_system":false,"pl_rade":2.83,"exo_id":"TOI-2458_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.087},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439668","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/439626"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 439668,
+  "date": "2024-12-13T02:36:45",
+  "date_gmt": "2024-12-13T07:36:45",
+  "modified": "2025-07-07T20:39:22",
+  "modified_gmt": "2025-07-08T00:39:22",
+  "slug": "toi-2458-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2458-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2458",
+    "pl_letter": "b",
+    "display_name": "TOI-2458 b",
+    "planet_radius": "2.83 x Earth",
+    "derived_description": "TOI-2458 b is a super Earth exoplanet that orbits a F-type star. Its mass is 13.31 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.0482 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 112.958,
+    "planet_mass": "13.31 Earths",
+    "st_optmag": 9.202,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0482,
+    "period_display": "3.7 days",
+    "eccentricity": "0.09",
+    "star_id": 439626,
+    "pl_orbper": 3.73659,
+    "pl_kepflag": false,
+    "pl_radj": 0.25247612,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": -26,
+    "multiple_planet_system": false,
+    "pl_rade": 2.83,
+    "exo_id": "TOI-2458_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.087
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439668",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439626"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

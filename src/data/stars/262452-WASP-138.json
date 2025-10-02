@@ -1,1 +1,71 @@
-{"id":262452,"date":"2023-11-28T20:51:10","date_gmt":"2023-11-29T01:51:10","modified":"2025-04-23T05:56:06","modified_gmt":"2025-04-23T09:56:06","slug":"wasp-138","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-138/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-138","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248776],"exo_id":"WASP-138","st_optmag":11.796,"st_vj":11.796,"st_dist":414.234,"st_j":11.796,"st_mass":1.22,"dec":-0.4641252,"st_teff":6272,"st_rad":1.36,"ra":41.6391598,"system_radius":7390134.778,"pl_hostname":"WASP-138","stellar_type":"F","tic_id":"TIC 35857242","magnitude":11.796},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262452","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248776"}]}}
+{
+  "id": 262452,
+  "date": "2023-11-28T20:51:10",
+  "date_gmt": "2023-11-29T01:51:10",
+  "modified": "2025-04-23T05:56:06",
+  "modified_gmt": "2025-04-23T09:56:06",
+  "slug": "wasp-138",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-138/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-138",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248776
+    ],
+    "exo_id": "WASP-138",
+    "st_optmag": 11.796,
+    "st_vj": 11.796,
+    "st_dist": 414.234,
+    "st_j": 11.796,
+    "st_mass": 1.22,
+    "dec": -0.4641252,
+    "st_teff": 6272,
+    "st_rad": 1.36,
+    "ra": 41.6391598,
+    "system_radius": 7390134.778,
+    "pl_hostname": "WASP-138",
+    "stellar_type": "F",
+    "tic_id": "TIC 35857242",
+    "magnitude": 11.796
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262452",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248776"
+      }
+    ]
+  }
+}

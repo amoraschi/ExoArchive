@@ -1,1 +1,79 @@
-{"id":245123,"date":"2022-11-12T01:17:08","date_gmt":"2022-11-12T06:17:08","modified":"2025-03-28T07:29:26","modified_gmt":"2025-03-28T11:29:26","slug":"k2-412-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-412-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-412","pl_letter":"b","display_name":"K2-412 b","planet_radius":"2.116 x Earth","derived_description":"K2-412 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.13 Earths, it takes 5.9 days to complete one orbit of its star, and is 0.0586 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":654.085,"planet_mass":"5.13 Earths","st_optmag":15.746,"discovery_date":"2022","pl_orbsmax":0.0586,"period_display":"5.9 days","eccentricity":"","star_id":263215,"pl_orbper":5.9382,"pl_kepflag":true,"pl_radj":0.1887772,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.116,"exo_id":"K2-412_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245123","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263215"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245123,
+  "date": "2022-11-12T01:17:08",
+  "date_gmt": "2022-11-12T06:17:08",
+  "modified": "2025-03-28T07:29:26",
+  "modified_gmt": "2025-03-28T11:29:26",
+  "slug": "k2-412-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-412-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-412",
+    "pl_letter": "b",
+    "display_name": "K2-412 b",
+    "planet_radius": "2.116 x Earth",
+    "derived_description": "K2-412 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.13 Earths, it takes 5.9 days to complete one orbit of its star, and is 0.0586 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 654.085,
+    "planet_mass": "5.13 Earths",
+    "st_optmag": 15.746,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.0586,
+    "period_display": "5.9 days",
+    "eccentricity": "",
+    "star_id": 263215,
+    "pl_orbper": 5.9382,
+    "pl_kepflag": true,
+    "pl_radj": 0.1887772,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.116,
+    "exo_id": "K2-412_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245123",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263215"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

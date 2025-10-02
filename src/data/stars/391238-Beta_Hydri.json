@@ -1,1 +1,69 @@
-{"id":391238,"date":"2024-04-30T20:01:21","date_gmt":"2024-05-01T00:01:21","modified":"2025-04-23T05:57:31","modified_gmt":"2025-04-23T09:57:31","slug":"beta-hydri","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/beta-hydri/","featured_media":429648,"categories":[],"acf":{"display_name":"Beta Hydri","custom_star_title":"","aliases":"BetaHydri,HD2151,HR98,GJ19,HD 2151,HR 98,GJ 19","constellation":"Hydrus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Beta_Hydri","st_optmag":2.82,"st_vj":2.82,"st_dist":7.4588,"st_j":2.82,"st_mass":1.08,"dec":-77.2542461,"st_teff":5806,"st_rad":1.844,"ra":6.4377932,"system_radius":149597870,"pl_hostname":"Beta_Hydri","stellar_type":"G","tic_id":"TIC 267211065","magnitude":2.8},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391238","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391238,
+  "date": "2024-04-30T20:01:21",
+  "date_gmt": "2024-05-01T00:01:21",
+  "modified": "2025-04-23T05:57:31",
+  "modified_gmt": "2025-04-23T09:57:31",
+  "slug": "beta-hydri",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/beta-hydri/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Beta Hydri",
+    "custom_star_title": "",
+    "aliases": "BetaHydri,HD2151,HR98,GJ19,HD 2151,HR 98,GJ 19",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Beta_Hydri",
+    "st_optmag": 2.82,
+    "st_vj": 2.82,
+    "st_dist": 7.4588,
+    "st_j": 2.82,
+    "st_mass": 1.08,
+    "dec": -77.2542461,
+    "st_teff": 5806,
+    "st_rad": 1.844,
+    "ra": 6.4377932,
+    "system_radius": 149597870,
+    "pl_hostname": "Beta_Hydri",
+    "stellar_type": "G",
+    "tic_id": "TIC 267211065",
+    "magnitude": 2.8
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391238",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

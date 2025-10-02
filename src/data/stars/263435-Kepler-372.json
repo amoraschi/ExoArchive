@@ -1,1 +1,81 @@
-{"id":263435,"date":"2023-11-28T21:03:38","date_gmt":"2023-11-29T02:03:38","modified":"2025-06-06T07:19:09","modified_gmt":"2025-06-06T11:19:09","slug":"kepler-372","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-372/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-372","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247082,247083,247084],"exo_id":"Kepler-372","st_optmag":14.928,"st_vj":14.928,"st_dist":1493.95,"st_j":14.928,"st_mass":1.202,"dec":49.2589288,"st_teff":6509,"st_rad":1.137,"ra":291.2562253,"system_radius":30069171.87,"pl_hostname":"Kepler-372","stellar_type":"F","tic_id":"TIC 350810559","magnitude":14.928},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263435","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247084"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247083"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247082"}]}}
+{
+  "id": 263435,
+  "date": "2023-11-28T21:03:38",
+  "date_gmt": "2023-11-29T02:03:38",
+  "modified": "2025-06-06T07:19:09",
+  "modified_gmt": "2025-06-06T11:19:09",
+  "slug": "kepler-372",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-372/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-372",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247082,
+      247083,
+      247084
+    ],
+    "exo_id": "Kepler-372",
+    "st_optmag": 14.928,
+    "st_vj": 14.928,
+    "st_dist": 1493.95,
+    "st_j": 14.928,
+    "st_mass": 1.202,
+    "dec": 49.2589288,
+    "st_teff": 6509,
+    "st_rad": 1.137,
+    "ra": 291.2562253,
+    "system_radius": 30069171.87,
+    "pl_hostname": "Kepler-372",
+    "stellar_type": "F",
+    "tic_id": "TIC 350810559",
+    "magnitude": 14.928
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263435",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247084"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247083"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247082"
+      }
+    ]
+  }
+}

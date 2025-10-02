@@ -1,1 +1,77 @@
-{"id":894447,"date":"2025-08-14T21:14:23","date_gmt":"2025-08-15T01:14:23","modified":"2025-08-14T21:14:23","modified_gmt":"2025-08-15T01:14:23","slug":"toi-5817","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5817/","featured_media":429648,"categories":[],"acf":{"display_name":"TOI-5817","custom_star_title":"","aliases":"","constellation":"Pegasus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[894487],"exo_id":"TOI-5817","st_optmag":8.64,"st_vj":8.64,"st_dist":80.7542,"st_j":8.64,"st_mass":0.97,"dec":21.474527,"st_teff":5770,"st_rad":1.427,"ra":322.3777987,"system_radius":18295819.501,"pl_hostname":"TOI-5817","stellar_type":"G","tic_id":"TIC 418604868","magnitude":8.64},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/894447","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/894487"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 894447,
+  "date": "2025-08-14T21:14:23",
+  "date_gmt": "2025-08-15T01:14:23",
+  "modified": "2025-08-14T21:14:23",
+  "modified_gmt": "2025-08-15T01:14:23",
+  "slug": "toi-5817",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5817/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5817",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pegasus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      894487
+    ],
+    "exo_id": "TOI-5817",
+    "st_optmag": 8.64,
+    "st_vj": 8.64,
+    "st_dist": 80.7542,
+    "st_j": 8.64,
+    "st_mass": 0.97,
+    "dec": 21.474527,
+    "st_teff": 5770,
+    "st_rad": 1.427,
+    "ra": 322.3777987,
+    "system_radius": 18295819.501,
+    "pl_hostname": "TOI-5817",
+    "stellar_type": "G",
+    "tic_id": "TIC 418604868",
+    "magnitude": 8.64
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/894447",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/894487"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

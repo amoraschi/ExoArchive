@@ -1,1 +1,79 @@
-{"id":243553,"date":"2021-08-26T13:34:06","date_gmt":"2021-08-26T17:34:06","modified":"2025-07-07T20:35:07","modified_gmt":"2025-07-08T00:35:07","slug":"epic-212587672-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/epic-212587672-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"EPIC_212587672","pl_letter":"c","display_name":"EPIC 212587672 c","planet_radius":"0.20697689 x Jupiter","derived_description":"EPIC 212587672 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.99 Earths, it takes 23.2 days to complete one orbit of its star, and is 0.15879177489365 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":320.07,"planet_mass":"5.99 Earths","st_optmag":12.488,"discovery_date":"2021","pl_orbsmax":"","period_display":"23.2 days","eccentricity":"","star_id":264245,"pl_orbper":23.228555,"pl_kepflag":true,"pl_radj":0.20697689,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.32,"exo_id":"EPIC_212587672_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243553","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264245"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243553,
+  "date": "2021-08-26T13:34:06",
+  "date_gmt": "2021-08-26T17:34:06",
+  "modified": "2025-07-07T20:35:07",
+  "modified_gmt": "2025-07-08T00:35:07",
+  "slug": "epic-212587672-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/epic-212587672-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "EPIC_212587672",
+    "pl_letter": "c",
+    "display_name": "EPIC 212587672 c",
+    "planet_radius": "0.20697689 x Jupiter",
+    "derived_description": "EPIC 212587672 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.99 Earths, it takes 23.2 days to complete one orbit of its star, and is 0.15879177489365 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 320.07,
+    "planet_mass": "5.99 Earths",
+    "st_optmag": 12.488,
+    "discovery_date": "2021",
+    "pl_orbsmax": "",
+    "period_display": "23.2 days",
+    "eccentricity": "",
+    "star_id": 264245,
+    "pl_orbper": 23.228555,
+    "pl_kepflag": true,
+    "pl_radj": 0.20697689,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.32,
+    "exo_id": "EPIC_212587672_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243553",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264245"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

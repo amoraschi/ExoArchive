@@ -1,1 +1,82 @@
-{"id":860120,"date":"2025-05-31T07:08:48","date_gmt":"2025-05-31T11:08:48","modified":"2025-05-31T07:08:48","modified_gmt":"2025-05-31T11:08:48","slug":"hd-94890","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-94890/","featured_media":429649,"categories":[],"acf":{"display_name":"HD 94890","custom_star_title":"","aliases":"","constellation":"Antlia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":876426,"1":876415},"exo_id":"HD_94890","st_optmag":4.6,"st_vj":4.6,"st_dist":61.7012,"st_j":4.6,"st_mass":1.74,"dec":-37.1383035,"st_teff":4867,"st_rad":10.71,"ra":164.1797804,"system_radius":647758777.1,"pl_hostname":"HD_94890","stellar_type":"K","tic_id":"TIC 158543228","magnitude":4.6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/860120","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876426"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876415"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 860120,
+  "date": "2025-05-31T07:08:48",
+  "date_gmt": "2025-05-31T11:08:48",
+  "modified": "2025-05-31T07:08:48",
+  "modified_gmt": "2025-05-31T11:08:48",
+  "slug": "hd-94890",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-94890/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 94890",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Antlia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 876426,
+      "1": 876415
+    },
+    "exo_id": "HD_94890",
+    "st_optmag": 4.6,
+    "st_vj": 4.6,
+    "st_dist": 61.7012,
+    "st_j": 4.6,
+    "st_mass": 1.74,
+    "dec": -37.1383035,
+    "st_teff": 4867,
+    "st_rad": 10.71,
+    "ra": 164.1797804,
+    "system_radius": 647758777.1,
+    "pl_hostname": "HD_94890",
+    "stellar_type": "K",
+    "tic_id": "TIC 158543228",
+    "magnitude": 4.6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/860120",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876426"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876415"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

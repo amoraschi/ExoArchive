@@ -1,1 +1,79 @@
-{"id":876441,"date":"2025-07-07T20:39:26","date_gmt":"2025-07-08T00:39:26","modified":"2025-07-07T20:39:26","modified_gmt":"2025-07-08T00:39:26","slug":"ogle-2016-blg-0007l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2016-blg-0007l-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2016-BLG-0007L","pl_letter":"b","display_name":"OGLE-2016-BLG-0007L b","planet_radius":"1.09 x Earth (estimate)","derived_description":"OGLE-2016-BLG-0007L b is a super Earth exoplanet that orbits a Unknown-type star. Its mass is 1.32 Earths, it takes 38.9 years to complete one orbit of its star, and is 10.1 AU from its star. Its discovery was announced in 2025.","planet_type":"Super Earth","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":4300,"planet_mass":"1.32 Earths","st_optmag":"","discovery_date":"2025","pl_orbsmax":10.1,"period_display":"38.9 years","eccentricity":"","star_id":854245,"pl_orbper":14200,"pl_kepflag":false,"pl_radj":0.0972,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.09,"exo_id":"OGLE-2016-BLG-0007L_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876441","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/854245"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 876441,
+  "date": "2025-07-07T20:39:26",
+  "date_gmt": "2025-07-08T00:39:26",
+  "modified": "2025-07-07T20:39:26",
+  "modified_gmt": "2025-07-08T00:39:26",
+  "slug": "ogle-2016-blg-0007l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2016-blg-0007l-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2016-BLG-0007L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2016-BLG-0007L b",
+    "planet_radius": "1.09 x Earth (estimate)",
+    "derived_description": "OGLE-2016-BLG-0007L b is a super Earth exoplanet that orbits a Unknown-type star. Its mass is 1.32 Earths, it takes 38.9 years to complete one orbit of its star, and is 10.1 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 4300,
+    "planet_mass": "1.32 Earths",
+    "st_optmag": "",
+    "discovery_date": "2025",
+    "pl_orbsmax": 10.1,
+    "period_display": "38.9 years",
+    "eccentricity": "",
+    "star_id": 854245,
+    "pl_orbper": 14200,
+    "pl_kepflag": false,
+    "pl_radj": 0.0972,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.09,
+    "exo_id": "OGLE-2016-BLG-0007L_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876441",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/854245"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

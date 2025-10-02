@@ -1,1 +1,79 @@
-{"id":248149,"date":"2022-09-17T08:32:20","date_gmt":"2022-09-17T12:32:20","modified":"2025-07-07T17:21:39","modified_gmt":"2025-07-07T21:21:39","slug":"lp-890-9-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/lp-890-9-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"LP_890-9","pl_letter":"b","display_name":"LP 890-9 b","planet_radius":"1.32 x Earth","derived_description":"LP 890-9 b is a super Earth exoplanet that orbits a M-type star. Its mass is 13.2 Earths, it takes 2.7 days to complete one orbit of its star, and is 0.01875 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":32.4298,"planet_mass":"13.2 Earths","st_optmag":18,"discovery_date":"2022","pl_orbsmax":0.01875,"period_display":"2.7 days","eccentricity":"","star_id":260620,"pl_orbper":2.7299025,"pl_kepflag":false,"pl_radj":0.11776272,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.32,"exo_id":"LP_890-9_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248149","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260620"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248149,
+  "date": "2022-09-17T08:32:20",
+  "date_gmt": "2022-09-17T12:32:20",
+  "modified": "2025-07-07T17:21:39",
+  "modified_gmt": "2025-07-07T21:21:39",
+  "slug": "lp-890-9-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/lp-890-9-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LP_890-9",
+    "pl_letter": "b",
+    "display_name": "LP 890-9 b",
+    "planet_radius": "1.32 x Earth",
+    "derived_description": "LP 890-9 b is a super Earth exoplanet that orbits a M-type star. Its mass is 13.2 Earths, it takes 2.7 days to complete one orbit of its star, and is 0.01875 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 32.4298,
+    "planet_mass": "13.2 Earths",
+    "st_optmag": 18,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.01875,
+    "period_display": "2.7 days",
+    "eccentricity": "",
+    "star_id": 260620,
+    "pl_orbper": 2.7299025,
+    "pl_kepflag": false,
+    "pl_radj": 0.11776272,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.32,
+    "exo_id": "LP_890-9_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248149",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260620"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

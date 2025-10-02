@@ -1,1 +1,79 @@
-{"id":244307,"date":"2019-04-22T16:48:43","date_gmt":"2019-04-22T20:48:43","modified":"2025-07-07T20:40:02","modified_gmt":"2025-07-08T00:40:02","slug":"hd-219828-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-219828-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_219828","pl_letter":"b","display_name":"HD 219828 b","planet_radius":"0.409 x Jupiter (estimate)","derived_description":"HD 219828 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19.06970442 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.049 AU from its star. Its discovery was announced in 2007.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":73.114,"planet_mass":"19.06970442 Earths","st_optmag":8.04,"discovery_date":"2007","pl_orbsmax":0.049,"period_display":"3.8 days","eccentricity":"0.09","star_id":262361,"pl_orbper":3.83483,"pl_kepflag":false,"pl_radj":0.409,"pl_disc":2007,"pl_publ_date":"2007","planet_orbit_period":242.755,"multiple_planet_system":false,"pl_rade":4.59,"exo_id":"HD_219828_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.091},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244307","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262361"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244307,
+  "date": "2019-04-22T16:48:43",
+  "date_gmt": "2019-04-22T20:48:43",
+  "modified": "2025-07-07T20:40:02",
+  "modified_gmt": "2025-07-08T00:40:02",
+  "slug": "hd-219828-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-219828-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_219828",
+    "pl_letter": "b",
+    "display_name": "HD 219828 b",
+    "planet_radius": "0.409 x Jupiter (estimate)",
+    "derived_description": "HD 219828 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19.06970442 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.049 AU from its star. Its discovery was announced in 2007.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 73.114,
+    "planet_mass": "19.06970442 Earths",
+    "st_optmag": 8.04,
+    "discovery_date": "2007",
+    "pl_orbsmax": 0.049,
+    "period_display": "3.8 days",
+    "eccentricity": "0.09",
+    "star_id": 262361,
+    "pl_orbper": 3.83483,
+    "pl_kepflag": false,
+    "pl_radj": 0.409,
+    "pl_disc": 2007,
+    "pl_publ_date": "2007",
+    "planet_orbit_period": 242.755,
+    "multiple_planet_system": false,
+    "pl_rade": 4.59,
+    "exo_id": "HD_219828_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.091
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244307",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262361"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

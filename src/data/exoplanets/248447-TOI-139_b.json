@@ -1,1 +1,79 @@
-{"id":248447,"date":"2023-06-02T16:03:06","date_gmt":"2023-06-02T20:03:06","modified":"2025-06-25T12:05:40","modified_gmt":"2025-06-25T16:05:40","slug":"toi-139-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-139-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-139","pl_letter":"b","display_name":"TOI-139 b","planet_radius":"0.21916355 x Jupiter","derived_description":"TOI-139 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.6 Earths, it takes 11.1 days to complete one orbit of its star, and is 0.085902370812943 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":42.4061,"planet_mass":"6.6 Earths","st_optmag":10.55,"discovery_date":"2023","pl_orbsmax":"","period_display":"11.1 days","eccentricity":"","star_id":262702,"pl_orbper":11.07085,"pl_kepflag":false,"pl_radj":0.21916355,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.4566,"exo_id":"TOI-139_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248447","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262702"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248447,
+  "date": "2023-06-02T16:03:06",
+  "date_gmt": "2023-06-02T20:03:06",
+  "modified": "2025-06-25T12:05:40",
+  "modified_gmt": "2025-06-25T16:05:40",
+  "slug": "toi-139-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-139-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-139",
+    "pl_letter": "b",
+    "display_name": "TOI-139 b",
+    "planet_radius": "0.21916355 x Jupiter",
+    "derived_description": "TOI-139 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.6 Earths, it takes 11.1 days to complete one orbit of its star, and is 0.085902370812943 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 42.4061,
+    "planet_mass": "6.6 Earths",
+    "st_optmag": 10.55,
+    "discovery_date": "2023",
+    "pl_orbsmax": "",
+    "period_display": "11.1 days",
+    "eccentricity": "",
+    "star_id": 262702,
+    "pl_orbper": 11.07085,
+    "pl_kepflag": false,
+    "pl_radj": 0.21916355,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.4566,
+    "exo_id": "TOI-139_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248447",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262702"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

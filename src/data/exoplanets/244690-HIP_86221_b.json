@@ -1,1 +1,79 @@
-{"id":244690,"date":"2022-01-13T17:04:31","date_gmt":"2022-01-13T22:04:31","modified":"2024-10-24T19:23:39","modified_gmt":"2024-10-24T23:23:39","slug":"hip-86221-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-86221-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HIP_86221","pl_letter":"b","display_name":"HIP 86221 b","planet_radius":"1.25 x Jupiter (estimate)","derived_description":"HIP 86221 b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.71 Jupiters, it takes 2.2 days to complete one orbit of its star, and is 0.031 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Cerro Tololo Inter-American Observatory","st_dist":29.4898,"planet_mass":"0.71 Jupiters","st_optmag":9.25,"discovery_date":"2021","pl_orbsmax":0.031,"period_display":"2.2 days","eccentricity":"0.09","star_id":264420,"pl_orbper":2.224,"pl_kepflag":false,"pl_radj":1.25,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":208.93,"multiple_planet_system":false,"pl_rade":14,"exo_id":"HIP_86221_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.086},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244690","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264420"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244690,
+  "date": "2022-01-13T17:04:31",
+  "date_gmt": "2022-01-13T22:04:31",
+  "modified": "2024-10-24T19:23:39",
+  "modified_gmt": "2024-10-24T23:23:39",
+  "slug": "hip-86221-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-86221-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_86221",
+    "pl_letter": "b",
+    "display_name": "HIP 86221 b",
+    "planet_radius": "1.25 x Jupiter (estimate)",
+    "derived_description": "HIP 86221 b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.71 Jupiters, it takes 2.2 days to complete one orbit of its star, and is 0.031 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Cerro Tololo Inter-American Observatory",
+    "st_dist": 29.4898,
+    "planet_mass": "0.71 Jupiters",
+    "st_optmag": 9.25,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.031,
+    "period_display": "2.2 days",
+    "eccentricity": "0.09",
+    "star_id": 264420,
+    "pl_orbper": 2.224,
+    "pl_kepflag": false,
+    "pl_radj": 1.25,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 208.93,
+    "multiple_planet_system": false,
+    "pl_rade": 14,
+    "exo_id": "HIP_86221_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.086
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244690",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264420"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

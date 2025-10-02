@@ -1,1 +1,76 @@
-{"id":261947,"date":"2023-11-28T20:44:45","date_gmt":"2023-11-29T01:44:45","modified":"2025-04-23T05:55:13","modified_gmt":"2025-04-23T09:55:13","slug":"tyc_1422-614-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tyc_1422-614-1/","featured_media":0,"categories":[],"acf":{"display_name":"TYC 1422-614-1","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248719,248720],"exo_id":"TYC_1422-614-1","st_optmag":10.193,"st_vj":10.193,"st_dist":672.41,"st_j":10.193,"st_mass":1.15,"dec":19.5584068,"st_teff":4806,"st_rad":6.85,"ra":154.2777769,"system_radius":204949081.9,"pl_hostname":"TYC_1422-614-1","stellar_type":"K","tic_id":"TIC 95361265","magnitude":10.193},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261947","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248720"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248719"}]}}
+{
+  "id": 261947,
+  "date": "2023-11-28T20:44:45",
+  "date_gmt": "2023-11-29T01:44:45",
+  "modified": "2025-04-23T05:55:13",
+  "modified_gmt": "2025-04-23T09:55:13",
+  "slug": "tyc_1422-614-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tyc_1422-614-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TYC 1422-614-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248719,
+      248720
+    ],
+    "exo_id": "TYC_1422-614-1",
+    "st_optmag": 10.193,
+    "st_vj": 10.193,
+    "st_dist": 672.41,
+    "st_j": 10.193,
+    "st_mass": 1.15,
+    "dec": 19.5584068,
+    "st_teff": 4806,
+    "st_rad": 6.85,
+    "ra": 154.2777769,
+    "system_radius": 204949081.9,
+    "pl_hostname": "TYC_1422-614-1",
+    "stellar_type": "K",
+    "tic_id": "TIC 95361265",
+    "magnitude": 10.193
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261947",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248720"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248719"
+      }
+    ]
+  }
+}

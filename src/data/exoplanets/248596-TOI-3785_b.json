@@ -1,1 +1,79 @@
-{"id":248596,"date":"2023-07-28T16:01:30","date_gmt":"2023-07-28T20:01:30","modified":"2025-07-07T15:25:27","modified_gmt":"2025-07-07T19:25:27","slug":"toi-3785-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-3785-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-3785","pl_letter":"b","display_name":"TOI-3785 b","planet_radius":"0.45856088 x Jupiter","derived_description":"TOI-3785 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 14.95 Earths, it takes 4.7 days to complete one orbit of its star, and is 0.043 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":79.7634,"planet_mass":"14.95 Earths","st_optmag":14.595,"discovery_date":"2023","pl_orbsmax":0.043,"period_display":"4.7 days","eccentricity":"0.11","star_id":262430,"pl_orbper":4.6747373,"pl_kepflag":false,"pl_radj":0.45856088,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":96.26,"multiple_planet_system":false,"pl_rade":5.14,"exo_id":"TOI-3785_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248596","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262430"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248596,
+  "date": "2023-07-28T16:01:30",
+  "date_gmt": "2023-07-28T20:01:30",
+  "modified": "2025-07-07T15:25:27",
+  "modified_gmt": "2025-07-07T19:25:27",
+  "slug": "toi-3785-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-3785-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-3785",
+    "pl_letter": "b",
+    "display_name": "TOI-3785 b",
+    "planet_radius": "0.45856088 x Jupiter",
+    "derived_description": "TOI-3785 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 14.95 Earths, it takes 4.7 days to complete one orbit of its star, and is 0.043 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 79.7634,
+    "planet_mass": "14.95 Earths",
+    "st_optmag": 14.595,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.043,
+    "period_display": "4.7 days",
+    "eccentricity": "0.11",
+    "star_id": 262430,
+    "pl_orbper": 4.6747373,
+    "pl_kepflag": false,
+    "pl_radj": 0.45856088,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 96.26,
+    "multiple_planet_system": false,
+    "pl_rade": 5.14,
+    "exo_id": "TOI-3785_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248596",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262430"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

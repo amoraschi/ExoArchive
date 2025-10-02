@@ -1,1 +1,79 @@
-{"id":246797,"date":"2017-10-02T13:32:51","date_gmt":"2017-10-02T17:32:51","modified":"2025-07-07T20:40:20","modified_gmt":"2025-07-08T00:40:20","slug":"kepler-263-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-263-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-263","pl_letter":"b","display_name":"Kepler-263 b","planet_radius":"0.238 x Jupiter","derived_description":"Kepler-263 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.61 Earths, it takes 16.6 days to complete one orbit of its star, and is 0.12 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":754.747,"planet_mass":"7.61 Earths","st_optmag":15.435,"discovery_date":"2014","pl_orbsmax":0.12,"period_display":"16.6 days","eccentricity":"0.0","star_id":260422,"pl_orbper":16.568087,"pl_kepflag":true,"pl_radj":0.238,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.67,"exo_id":"Kepler-263_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246797","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260422"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246797,
+  "date": "2017-10-02T13:32:51",
+  "date_gmt": "2017-10-02T17:32:51",
+  "modified": "2025-07-07T20:40:20",
+  "modified_gmt": "2025-07-08T00:40:20",
+  "slug": "kepler-263-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-263-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-263",
+    "pl_letter": "b",
+    "display_name": "Kepler-263 b",
+    "planet_radius": "0.238 x Jupiter",
+    "derived_description": "Kepler-263 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.61 Earths, it takes 16.6 days to complete one orbit of its star, and is 0.12 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 754.747,
+    "planet_mass": "7.61 Earths",
+    "st_optmag": 15.435,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.12,
+    "period_display": "16.6 days",
+    "eccentricity": "0.0",
+    "star_id": 260422,
+    "pl_orbper": 16.568087,
+    "pl_kepflag": true,
+    "pl_radj": 0.238,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.67,
+    "exo_id": "Kepler-263_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246797",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260422"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244306,"date":"2019-04-22T16:49:29","date_gmt":"2019-04-22T20:49:29","modified":"2025-07-07T15:23:31","modified_gmt":"2025-07-07T19:23:31","slug":"hd-219666-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-219666-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_219666","pl_letter":"b","display_name":"HD 219666 b","planet_radius":"0.437 x Jupiter","derived_description":"HD 219666 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 17.6 Earths, it takes 6 days to complete one orbit of its star, and is 0.06356 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":94.1719,"planet_mass":"17.6 Earths","st_optmag":9.809,"discovery_date":"2018","pl_orbsmax":0.06356,"period_display":"6 days","eccentricity":"0.05","star_id":262278,"pl_orbper":6.034468,"pl_kepflag":false,"pl_radj":0.437,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":0,"multiple_planet_system":false,"pl_rade":4.898,"exo_id":"HD_219666_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244306","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262278"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244306,
+  "date": "2019-04-22T16:49:29",
+  "date_gmt": "2019-04-22T20:49:29",
+  "modified": "2025-07-07T15:23:31",
+  "modified_gmt": "2025-07-07T19:23:31",
+  "slug": "hd-219666-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-219666-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_219666",
+    "pl_letter": "b",
+    "display_name": "HD 219666 b",
+    "planet_radius": "0.437 x Jupiter",
+    "derived_description": "HD 219666 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 17.6 Earths, it takes 6 days to complete one orbit of its star, and is 0.06356 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 94.1719,
+    "planet_mass": "17.6 Earths",
+    "st_optmag": 9.809,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.06356,
+    "period_display": "6 days",
+    "eccentricity": "0.05",
+    "star_id": 262278,
+    "pl_orbper": 6.034468,
+    "pl_kepflag": false,
+    "pl_radj": 0.437,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 4.898,
+    "exo_id": "HD_219666_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262278"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

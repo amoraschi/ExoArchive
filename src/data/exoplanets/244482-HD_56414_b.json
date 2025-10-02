@@ -1,1 +1,79 @@
-{"id":244482,"date":"2022-09-17T08:32:20","date_gmt":"2022-09-17T12:32:20","modified":"2025-07-07T20:40:30","modified_gmt":"2025-07-08T00:40:30","slug":"hd-56414-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-56414-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_56414","pl_letter":"b","display_name":"HD 56414 b","planet_radius":"0.3309846 x Jupiter","derived_description":"HD 56414 b is a Neptune-like exoplanet that orbits a A-type star. Its mass is 13.3 Earths, it takes 29 days to complete one orbit of its star, and is 0.229 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":272.217,"planet_mass":"13.3 Earths","st_optmag":9.217,"discovery_date":"2022","pl_orbsmax":0.229,"period_display":"29 days","eccentricity":"< 0.68","star_id":261051,"pl_orbper":29.04992,"pl_kepflag":false,"pl_radj":0.3309846,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.71,"exo_id":"HD_56414_b","planet_size_class":"Neptunian","pl_eccenlim":0.68,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244482","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261051"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244482,
+  "date": "2022-09-17T08:32:20",
+  "date_gmt": "2022-09-17T12:32:20",
+  "modified": "2025-07-07T20:40:30",
+  "modified_gmt": "2025-07-08T00:40:30",
+  "slug": "hd-56414-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-56414-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_56414",
+    "pl_letter": "b",
+    "display_name": "HD 56414 b",
+    "planet_radius": "0.3309846 x Jupiter",
+    "derived_description": "HD 56414 b is a Neptune-like exoplanet that orbits a A-type star. Its mass is 13.3 Earths, it takes 29 days to complete one orbit of its star, and is 0.229 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 272.217,
+    "planet_mass": "13.3 Earths",
+    "st_optmag": 9.217,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.229,
+    "period_display": "29 days",
+    "eccentricity": "< 0.68",
+    "star_id": 261051,
+    "pl_orbper": 29.04992,
+    "pl_kepflag": false,
+    "pl_radj": 0.3309846,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.71,
+    "exo_id": "HD_56414_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0.68,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244482",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261051"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

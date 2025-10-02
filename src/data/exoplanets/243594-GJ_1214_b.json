@@ -1,1 +1,79 @@
-{"id":243594,"date":"2019-04-22T16:48:35","date_gmt":"2019-04-22T20:48:35","modified":"2025-03-28T07:22:30","modified_gmt":"2025-03-28T11:22:30","slug":"gj-1214-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-1214-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_1214","pl_letter":"b","display_name":"GJ 1214 b","planet_radius":"0.24382235 x Jupiter","derived_description":"GJ 1214 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.41 Earths, it takes 1.6 days to complete one orbit of its star, and is 0.01505 AU from its star. Its discovery was announced in 2009.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"MEarth Project","st_dist":14.6427,"planet_mass":"8.41 Earths","st_optmag":15.1,"discovery_date":"2009","pl_orbsmax":0.01505,"period_display":"1.6 days","eccentricity":"0.01","star_id":263185,"pl_orbper":1.580404531,"pl_kepflag":false,"pl_radj":0.24382235,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":77,"multiple_planet_system":false,"pl_rade":2.733,"exo_id":"GJ_1214_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.0062},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243594","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263185"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243594,
+  "date": "2019-04-22T16:48:35",
+  "date_gmt": "2019-04-22T20:48:35",
+  "modified": "2025-03-28T07:22:30",
+  "modified_gmt": "2025-03-28T11:22:30",
+  "slug": "gj-1214-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-1214-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_1214",
+    "pl_letter": "b",
+    "display_name": "GJ 1214 b",
+    "planet_radius": "0.24382235 x Jupiter",
+    "derived_description": "GJ 1214 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.41 Earths, it takes 1.6 days to complete one orbit of its star, and is 0.01505 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "MEarth Project",
+    "st_dist": 14.6427,
+    "planet_mass": "8.41 Earths",
+    "st_optmag": 15.1,
+    "discovery_date": "2009",
+    "pl_orbsmax": 0.01505,
+    "period_display": "1.6 days",
+    "eccentricity": "0.01",
+    "star_id": 263185,
+    "pl_orbper": 1.580404531,
+    "pl_kepflag": false,
+    "pl_radj": 0.24382235,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 77,
+    "multiple_planet_system": false,
+    "pl_rade": 2.733,
+    "exo_id": "GJ_1214_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0062
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243594",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263185"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

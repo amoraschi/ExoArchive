@@ -1,1 +1,71 @@
-{"id":260889,"date":"2023-11-28T20:31:23","date_gmt":"2023-11-29T01:31:23","modified":"2025-04-23T05:55:09","modified_gmt":"2025-04-23T09:55:09","slug":"wasp-67","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-67/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-67","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248885],"exo_id":"WASP-67","st_optmag":12.537,"st_vj":12.537,"st_dist":189.469,"st_j":12.537,"st_mass":0.91,"dec":-19.9497314,"st_teff":5200,"st_rad":0.88,"ra":295.7438485,"system_radius":7747673.6873,"pl_hostname":"WASP-67","stellar_type":"K","tic_id":"TIC 68952448","magnitude":12.537},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260889","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248885"}]}}
+{
+  "id": 260889,
+  "date": "2023-11-28T20:31:23",
+  "date_gmt": "2023-11-29T01:31:23",
+  "modified": "2025-04-23T05:55:09",
+  "modified_gmt": "2025-04-23T09:55:09",
+  "slug": "wasp-67",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-67/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-67",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248885
+    ],
+    "exo_id": "WASP-67",
+    "st_optmag": 12.537,
+    "st_vj": 12.537,
+    "st_dist": 189.469,
+    "st_j": 12.537,
+    "st_mass": 0.91,
+    "dec": -19.9497314,
+    "st_teff": 5200,
+    "st_rad": 0.88,
+    "ra": 295.7438485,
+    "system_radius": 7747673.6873,
+    "pl_hostname": "WASP-67",
+    "stellar_type": "K",
+    "tic_id": "TIC 68952448",
+    "magnitude": 12.537
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260889",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248885"
+      }
+    ]
+  }
+}

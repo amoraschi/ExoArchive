@@ -1,1 +1,79 @@
-{"id":244152,"date":"2019-04-22T16:48:55","date_gmt":"2019-04-22T20:48:55","modified":"2024-10-25T05:07:39","modified_gmt":"2024-10-25T09:07:39","slug":"hd-175607-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-175607-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_175607","pl_letter":"b","display_name":"HD 175607 b","planet_radius":"0.263 x Jupiter (estimate)","derived_description":"HD 175607 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.98 Earths, it takes 29 days to complete one orbit of its star, and is 0.16483625698952 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":40.3303,"planet_mass":"8.98 Earths","st_optmag":8.6,"discovery_date":"2015","pl_orbsmax":"","period_display":"29 days","eccentricity":"0.11","star_id":263245,"pl_orbper":29.01,"pl_kepflag":false,"pl_radj":0.263,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":142,"multiple_planet_system":false,"pl_rade":2.94,"exo_id":"HD_175607_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244152","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263245"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244152,
+  "date": "2019-04-22T16:48:55",
+  "date_gmt": "2019-04-22T20:48:55",
+  "modified": "2024-10-25T05:07:39",
+  "modified_gmt": "2024-10-25T09:07:39",
+  "slug": "hd-175607-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-175607-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_175607",
+    "pl_letter": "b",
+    "display_name": "HD 175607 b",
+    "planet_radius": "0.263 x Jupiter (estimate)",
+    "derived_description": "HD 175607 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.98 Earths, it takes 29 days to complete one orbit of its star, and is 0.16483625698952 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 40.3303,
+    "planet_mass": "8.98 Earths",
+    "st_optmag": 8.6,
+    "discovery_date": "2015",
+    "pl_orbsmax": "",
+    "period_display": "29 days",
+    "eccentricity": "0.11",
+    "star_id": 263245,
+    "pl_orbper": 29.01,
+    "pl_kepflag": false,
+    "pl_radj": 0.263,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 142,
+    "multiple_planet_system": false,
+    "pl_rade": 2.94,
+    "exo_id": "HD_175607_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244152",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263245"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

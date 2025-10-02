@@ -1,1 +1,79 @@
-{"id":884314,"date":"2025-07-29T21:32:06","date_gmt":"2025-07-30T01:32:06","modified":"2025-07-29T21:32:06","modified_gmt":"2025-07-30T01:32:06","slug":"toi-3160-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-3160-a-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-3160_A","pl_letter":"b","display_name":"TOI-3160 A b","planet_radius":"1.228 x Jupiter","derived_description":"TOI-3160 A b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.19 Jupiters, it takes 4 days to complete one orbit of its star, and is 0.0505 AU from its star. Its discovery was announced in 2025.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":567.678,"planet_mass":"1.19 Jupiters","st_optmag":12.649,"discovery_date":"2025","pl_orbsmax":0.0505,"period_display":"4 days","eccentricity":"< 0.18","star_id":884273,"pl_orbper":3.971281,"pl_kepflag":false,"pl_radj":1.228,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":13.7646283,"exo_id":"TOI-3160_A_b","planet_size_class":"Jovian","pl_eccenlim":0.18,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884314","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/884273"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 884314,
+  "date": "2025-07-29T21:32:06",
+  "date_gmt": "2025-07-30T01:32:06",
+  "modified": "2025-07-29T21:32:06",
+  "modified_gmt": "2025-07-30T01:32:06",
+  "slug": "toi-3160-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-3160-a-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-3160_A",
+    "pl_letter": "b",
+    "display_name": "TOI-3160 A b",
+    "planet_radius": "1.228 x Jupiter",
+    "derived_description": "TOI-3160 A b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.19 Jupiters, it takes 4 days to complete one orbit of its star, and is 0.0505 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 567.678,
+    "planet_mass": "1.19 Jupiters",
+    "st_optmag": 12.649,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.0505,
+    "period_display": "4 days",
+    "eccentricity": "< 0.18",
+    "star_id": 884273,
+    "pl_orbper": 3.971281,
+    "pl_kepflag": false,
+    "pl_radj": 1.228,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.7646283,
+    "exo_id": "TOI-3160_A_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.18,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884314",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884273"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

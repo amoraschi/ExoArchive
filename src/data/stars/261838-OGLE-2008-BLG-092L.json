@@ -1,1 +1,71 @@
-{"id":261838,"date":"2023-11-28T20:43:21","date_gmt":"2023-11-29T01:43:21","modified":"2025-04-23T05:55:03","modified_gmt":"2025-04-23T09:55:03","slug":"ogle-2008-blg-092l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2008-blg-092l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2008-BLG-092L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248240],"exo_id":"OGLE-2008-BLG-092L","st_optmag":"","st_vj":"","st_dist":8100,"st_j":"","st_mass":0.71,"dec":-34.6731944,"st_teff":"","st_rad":"","ra":267.540708,"system_radius":2243968050,"pl_hostname":"OGLE-2008-BLG-092L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261838","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248240"}]}}
+{
+  "id": 261838,
+  "date": "2023-11-28T20:43:21",
+  "date_gmt": "2023-11-29T01:43:21",
+  "modified": "2025-04-23T05:55:03",
+  "modified_gmt": "2025-04-23T09:55:03",
+  "slug": "ogle-2008-blg-092l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2008-blg-092l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2008-BLG-092L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248240
+    ],
+    "exo_id": "OGLE-2008-BLG-092L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 8100,
+    "st_j": "",
+    "st_mass": 0.71,
+    "dec": -34.6731944,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 267.540708,
+    "system_radius": 2243968050,
+    "pl_hostname": "OGLE-2008-BLG-092L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261838",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248240"
+      }
+    ]
+  }
+}

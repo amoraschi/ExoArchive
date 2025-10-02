@@ -1,1 +1,71 @@
-{"id":261923,"date":"2023-11-28T20:44:26","date_gmt":"2023-11-29T01:44:26","modified":"2025-04-23T05:55:12","modified_gmt":"2025-04-23T09:55:12","slug":"ogle-2019-blg-1470l_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2019-blg-1470l_a/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2019-BLG-1470L A","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248325],"exo_id":"OGLE-2019-BLG-1470L_A","st_optmag":"","st_vj":"","st_dist":5900,"st_j":"","st_mass":0.57,"dec":-27.0335556,"st_teff":"","st_rad":"","ra":271.9492083,"system_radius":478713184,"pl_hostname":"OGLE-2019-BLG-1470L_A","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261923","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248325"}]}}
+{
+  "id": 261923,
+  "date": "2023-11-28T20:44:26",
+  "date_gmt": "2023-11-29T01:44:26",
+  "modified": "2025-04-23T05:55:12",
+  "modified_gmt": "2025-04-23T09:55:12",
+  "slug": "ogle-2019-blg-1470l_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2019-blg-1470l_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2019-BLG-1470L A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248325
+    ],
+    "exo_id": "OGLE-2019-BLG-1470L_A",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5900,
+    "st_j": "",
+    "st_mass": 0.57,
+    "dec": -27.0335556,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.9492083,
+    "system_radius": 478713184,
+    "pl_hostname": "OGLE-2019-BLG-1470L_A",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261923",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248325"
+      }
+    ]
+  }
+}

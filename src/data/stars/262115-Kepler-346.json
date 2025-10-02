@@ -1,1 +1,76 @@
-{"id":262115,"date":"2023-11-28T20:46:54","date_gmt":"2023-11-29T01:46:54","modified":"2025-04-23T05:55:27","modified_gmt":"2025-04-23T09:55:27","slug":"kepler-346","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-346/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-346","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247018,247019],"exo_id":"Kepler-346","st_optmag":15.261,"st_vj":15.261,"st_dist":984.105,"st_j":15.261,"st_mass":0.943,"dec":46.1176003,"st_teff":6033,"st_rad":1.021,"ra":288.0119248,"system_radius":25132442.16,"pl_hostname":"Kepler-346","stellar_type":"F","tic_id":"TIC 158660363","magnitude":15.261},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262115","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247019"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247018"}]}}
+{
+  "id": 262115,
+  "date": "2023-11-28T20:46:54",
+  "date_gmt": "2023-11-29T01:46:54",
+  "modified": "2025-04-23T05:55:27",
+  "modified_gmt": "2025-04-23T09:55:27",
+  "slug": "kepler-346",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-346/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-346",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247018,
+      247019
+    ],
+    "exo_id": "Kepler-346",
+    "st_optmag": 15.261,
+    "st_vj": 15.261,
+    "st_dist": 984.105,
+    "st_j": 15.261,
+    "st_mass": 0.943,
+    "dec": 46.1176003,
+    "st_teff": 6033,
+    "st_rad": 1.021,
+    "ra": 288.0119248,
+    "system_radius": 25132442.16,
+    "pl_hostname": "Kepler-346",
+    "stellar_type": "F",
+    "tic_id": "TIC 158660363",
+    "magnitude": 15.261
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262115",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247019"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247018"
+      }
+    ]
+  }
+}

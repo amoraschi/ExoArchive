@@ -1,1 +1,71 @@
-{"id":263902,"date":"2023-11-28T21:09:40","date_gmt":"2023-11-29T02:09:40","modified":"2025-04-23T05:57:11","modified_gmt":"2025-04-23T09:57:11","slug":"kepler-749","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-749/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-749","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247659],"exo_id":"Kepler-749","st_optmag":16.153,"st_vj":16.153,"st_dist":721.027,"st_j":16.153,"st_mass":0.79,"dec":43.9040667,"st_teff":5009,"st_rad":0.75,"ra":299.8973341,"system_radius":15767615.498,"pl_hostname":"Kepler-749","stellar_type":"K","tic_id":"TIC 269263934","magnitude":16.153},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263902","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247659"}]}}
+{
+  "id": 263902,
+  "date": "2023-11-28T21:09:40",
+  "date_gmt": "2023-11-29T02:09:40",
+  "modified": "2025-04-23T05:57:11",
+  "modified_gmt": "2025-04-23T09:57:11",
+  "slug": "kepler-749",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-749/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-749",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247659
+    ],
+    "exo_id": "Kepler-749",
+    "st_optmag": 16.153,
+    "st_vj": 16.153,
+    "st_dist": 721.027,
+    "st_j": 16.153,
+    "st_mass": 0.79,
+    "dec": 43.9040667,
+    "st_teff": 5009,
+    "st_rad": 0.75,
+    "ra": 299.8973341,
+    "system_radius": 15767615.498,
+    "pl_hostname": "Kepler-749",
+    "stellar_type": "K",
+    "tic_id": "TIC 269263934",
+    "magnitude": 16.153
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263902",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247659"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244118,"date":"2019-04-22T16:48:39","date_gmt":"2019-04-22T20:48:39","modified":"2024-10-25T05:06:52","modified_gmt":"2024-10-25T09:06:52","slug":"hd-16417-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-16417-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_16417","pl_letter":"b","display_name":"HD 16417 b","planet_radius":"0.446 x Jupiter (estimate)","derived_description":"HD 16417 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 22.1 Earths, it takes 17.2 days to complete one orbit of its star, and is 0.14 AU from its star. Its discovery was announced in 2008.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Anglo-Australian Telescope","st_dist":25.3936,"planet_mass":"22.1 Earths","st_optmag":5.78,"discovery_date":"2008","pl_orbsmax":0.14,"period_display":"17.2 days","eccentricity":"0.2","star_id":260714,"pl_orbper":17.24,"pl_kepflag":false,"pl_radj":0.446,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":77,"multiple_planet_system":false,"pl_rade":5,"exo_id":"HD_16417_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.2},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244118","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260714"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244118,
+  "date": "2019-04-22T16:48:39",
+  "date_gmt": "2019-04-22T20:48:39",
+  "modified": "2024-10-25T05:06:52",
+  "modified_gmt": "2024-10-25T09:06:52",
+  "slug": "hd-16417-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-16417-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_16417",
+    "pl_letter": "b",
+    "display_name": "HD 16417 b",
+    "planet_radius": "0.446 x Jupiter (estimate)",
+    "derived_description": "HD 16417 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 22.1 Earths, it takes 17.2 days to complete one orbit of its star, and is 0.14 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Anglo-Australian Telescope",
+    "st_dist": 25.3936,
+    "planet_mass": "22.1 Earths",
+    "st_optmag": 5.78,
+    "discovery_date": "2008",
+    "pl_orbsmax": 0.14,
+    "period_display": "17.2 days",
+    "eccentricity": "0.2",
+    "star_id": 260714,
+    "pl_orbper": 17.24,
+    "pl_kepflag": false,
+    "pl_radj": 0.446,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": 77,
+    "multiple_planet_system": false,
+    "pl_rade": 5,
+    "exo_id": "HD_16417_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244118",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260714"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

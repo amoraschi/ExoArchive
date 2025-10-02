@@ -1,1 +1,77 @@
-{"id":263121,"date":"2023-11-28T20:59:40","date_gmt":"2023-11-29T01:59:40","modified":"2025-09-28T22:55:11","modified_gmt":"2025-09-29T02:55:11","slug":"eps_eri","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/eps_eri/","featured_media":429649,"categories":[],"acf":{"display_name":"Ran","custom_star_title":"Epsilon Eridani","aliases":"Epsilon Eridani,HD 22049,HR 1084,GJ 144","constellation":"Eridanus","custom_star_description":"Epsilon Eridani is one of the closest star systems – our third closest neighbor – making it visible to the naked eye. Named Ran by the International Astronomical Union, after the Norse goddess of the sea, Epsilon Eridani is the fifth-brightest star in the southern constellation Eridanus, which takes the shape of a river. Epsilon Eridani is similar to the Sun, but it is slightly smaller and cooler, with an orange hue. Compared to the Sun, this star has more magnetic activity, and it rotates slightly faster. It also contains a lower abundance of elements heavier than helium. An interesting feature of the Epsilon Eridani system is that around the star, there is a dusty debris disk and an inner asteroid belt.","tagline":"A nearby star like the Sun, already known to host a planet","pop_culture":"As a nearby Sun-like star with the prospect of hosting a habitable zone planet, Epsilon Eridani and its potential planets are commonly featured in works of fiction, including “Star Trek” and “Babylon 5.” Epsilon Eridani has featured in countless games, including “Halo” and “Race for the Galaxy.” In Isaac Asimov’s novels “Foundation’s Edge” and “Robots and Empire,” a fictional planet of Epsilon Eridani serves as the first “non-Spacer” planet to be settled. In Marvel Comics’ “Fantastic Four” stories, it is revealed that one destination is Epsilon Eridani.","detection_timeline":"To date, one gas giant planet (named Epsilon Eridani b) has been confirmed, using radial velocity data over the period of 1980-2000, from telescopes on the ground. Based on interactions between potential planets and the dusty disk in the system, other planets have been suggested but never confirmed. In the past century, Epsilon Eridani has been the subject of searches for extraterrestrial radio communication, through experiments by Frank Drake and others. It also has been included as a target in efforts for interstellar travel. As Sun-like star close to Earth with a planetary system, Epsilon Eridani is a promising target for future exploration. Due to the large amount of dust orbiting the star, future direct imaging missions will probably not be able to detect any Earth-sized planets directly, but they can hope to see the gravitational imprint of habitable zone planets on the system’s dust.","rv_planets_prospects":"1 gas giant exoplanet has been detected to date around this star using radial velocities.It is difficult to detect exoplanets around Epsilon Eridani because the star has strong magnetic activity. It is only with long-term radial velocity monitoring that a large gas giant planet was found in 2016, outside of the star’s habitable zone.","transit_planets_prospects":"0 planets have been detected to date around this star with transits.","imaging_planets_prospects":"0 planets have been detected to date around this star using direct imaging.Efforts to directly image exoplanets around Epsilon Eridani are underway, but have not yet succeeded. The planet discovered with the radial velocity method, Epsilon Eridani b, is an active target for direct imaging, both from space- and ground-based telescopes. Due to the large amount of dust orbiting the star, future direct imaging missions will probably not be able to detect any Earth-sized planets directly. However, they can hope to see the gravitational imprint of habitable zone planets on the system’s dust.","planet_ids":[243570],"exo_id":"eps_Eri","st_optmag":3.718,"st_vj":3.718,"st_dist":3.2198,"st_j":3.718,"st_mass":0.78,"dec":-9.458261,"st_teff":5098,"st_rad":0.746,"ra":53.2326854,"system_radius":528080481.1,"pl_hostname":"eps_Eri","stellar_type":"K","tic_id":"TIC 118572803","magnitude":3.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263121","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243570"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 263121,
+  "date": "2023-11-28T20:59:40",
+  "date_gmt": "2023-11-29T01:59:40",
+  "modified": "2025-09-30T22:59:07",
+  "modified_gmt": "2025-10-01T02:59:07",
+  "slug": "eps_eri",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/eps_eri/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Ran",
+    "custom_star_title": "Epsilon Eridani",
+    "aliases": "Epsilon Eridani,HD 22049,HR 1084,GJ 144",
+    "constellation": "Eridanus",
+    "custom_star_description": "Epsilon Eridani is one of the closest star systems – our third closest neighbor – making it visible to the naked eye. Named Ran by the International Astronomical Union, after the Norse goddess of the sea, Epsilon Eridani is the fifth-brightest star in the southern constellation Eridanus, which takes the shape of a river. Epsilon Eridani is similar to the Sun, but it is slightly smaller and cooler, with an orange hue. Compared to the Sun, this star has more magnetic activity, and it rotates slightly faster. It also contains a lower abundance of elements heavier than helium. An interesting feature of the Epsilon Eridani system is that around the star, there is a dusty debris disk and an inner asteroid belt.",
+    "tagline": "A nearby star like the Sun, already known to host a planet",
+    "pop_culture": "As a nearby Sun-like star with the prospect of hosting a habitable zone planet, Epsilon Eridani and its potential planets are commonly featured in works of fiction, including “Star Trek” and “Babylon 5.” Epsilon Eridani has featured in countless games, including “Halo” and “Race for the Galaxy.” In Isaac Asimov’s novels “Foundation’s Edge” and “Robots and Empire,” a fictional planet of Epsilon Eridani serves as the first “non-Spacer” planet to be settled. In Marvel Comics’ “Fantastic Four” stories, it is revealed that one destination is Epsilon Eridani.",
+    "detection_timeline": "To date, one gas giant planet (named Epsilon Eridani b) has been confirmed, using radial velocity data over the period of 1980-2000, from telescopes on the ground. Based on interactions between potential planets and the dusty disk in the system, other planets have been suggested but never confirmed. In the past century, Epsilon Eridani has been the subject of searches for extraterrestrial radio communication, through experiments by Frank Drake and others. It also has been included as a target in efforts for interstellar travel. As Sun-like star close to Earth with a planetary system, Epsilon Eridani is a promising target for future exploration. Due to the large amount of dust orbiting the star, future direct imaging missions will probably not be able to detect any Earth-sized planets directly, but they can hope to see the gravitational imprint of habitable zone planets on the system’s dust.",
+    "rv_planets_prospects": "1 gas giant exoplanet has been detected to date around this star using radial velocities.It is difficult to detect exoplanets around Epsilon Eridani because the star has strong magnetic activity. It is only with long-term radial velocity monitoring that a large gas giant planet was found in 2016, outside of the star’s habitable zone.",
+    "transit_planets_prospects": "0 planets have been detected to date around this star with transits.",
+    "imaging_planets_prospects": "0 planets have been detected to date around this star using direct imaging.Efforts to directly image exoplanets around Epsilon Eridani are underway, but have not yet succeeded. The planet discovered with the radial velocity method, Epsilon Eridani b, is an active target for direct imaging, both from space- and ground-based telescopes. Due to the large amount of dust orbiting the star, future direct imaging missions will probably not be able to detect any Earth-sized planets directly. However, they can hope to see the gravitational imprint of habitable zone planets on the system’s dust.",
+    "planet_ids": [
+      243570
+    ],
+    "exo_id": "eps_Eri",
+    "st_optmag": 3.718,
+    "st_vj": 3.718,
+    "st_dist": 3.2198,
+    "st_j": 3.718,
+    "st_mass": 0.78,
+    "dec": -9.458261,
+    "st_teff": 5098,
+    "st_rad": 0.746,
+    "ra": 53.2326854,
+    "system_radius": 528080481.1,
+    "pl_hostname": "eps_Eri",
+    "stellar_type": "K",
+    "tic_id": "TIC 118572803",
+    "magnitude": 3.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263121",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243570"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

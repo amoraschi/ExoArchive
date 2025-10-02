@@ -1,1 +1,79 @@
-{"id":248258,"date":"2018-11-10T12:26:21","date_gmt":"2018-11-10T17:26:21","modified":"2024-10-24T20:36:18","modified_gmt":"2024-10-25T00:36:18","slug":"ogle-2013-blg-1761l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2013-blg-1761l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2013-BLG-1761L","pl_letter":"b","display_name":"OGLE-2013-BLG-1761L b","planet_radius":"1.18 x Jupiter (estimate)","derived_description":"OGLE-2013-BLG-1761L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 2.7 Jupiters, it takes 4.2 years to complete one orbit of its star, and is 1.8 AU from its star. Its discovery was announced in 2018.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":6900,"planet_mass":"2.7 Jupiters","st_optmag":"","discovery_date":"2018","pl_orbsmax":1.8,"period_display":"4.2 years","eccentricity":"","star_id":263006,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.18,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":13.2,"exo_id":"OGLE-2013-BLG-1761L_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248258","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263006"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248258,
+  "date": "2018-11-10T12:26:21",
+  "date_gmt": "2018-11-10T17:26:21",
+  "modified": "2024-10-24T20:36:18",
+  "modified_gmt": "2024-10-25T00:36:18",
+  "slug": "ogle-2013-blg-1761l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2013-blg-1761l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2013-BLG-1761L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2013-BLG-1761L b",
+    "planet_radius": "1.18 x Jupiter (estimate)",
+    "derived_description": "OGLE-2013-BLG-1761L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 2.7 Jupiters, it takes 4.2 years to complete one orbit of its star, and is 1.8 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 6900,
+    "planet_mass": "2.7 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2018",
+    "pl_orbsmax": 1.8,
+    "period_display": "4.2 years",
+    "eccentricity": "",
+    "star_id": 263006,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.18,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.2,
+    "exo_id": "OGLE-2013-BLG-1761L_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248258",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263006"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

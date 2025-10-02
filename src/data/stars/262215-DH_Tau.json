@@ -1,1 +1,71 @@
-{"id":262215,"date":"2023-11-28T20:48:10","date_gmt":"2023-11-29T01:48:10","modified":"2025-04-23T05:55:48","modified_gmt":"2025-04-23T09:55:48","slug":"dh_tau","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/dh_tau/","featured_media":0,"categories":[],"acf":{"display_name":"DH Tauri","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243515],"exo_id":"DH_Tau","st_optmag":13.98,"st_vj":13.98,"st_dist":134.846,"st_j":13.98,"st_mass":0.33,"dec":26.5493897,"st_teff":4371,"st_rad":0.27,"ra":67.4231674,"system_radius":49367297100,"pl_hostname":"DH_Tau","stellar_type":"K","tic_id":"TIC 268148971","magnitude":13.98},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262215","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243515"}]}}
+{
+  "id": 262215,
+  "date": "2023-11-28T20:48:10",
+  "date_gmt": "2023-11-29T01:48:10",
+  "modified": "2025-04-23T05:55:48",
+  "modified_gmt": "2025-04-23T09:55:48",
+  "slug": "dh_tau",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/dh_tau/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "DH Tauri",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243515
+    ],
+    "exo_id": "DH_Tau",
+    "st_optmag": 13.98,
+    "st_vj": 13.98,
+    "st_dist": 134.846,
+    "st_j": 13.98,
+    "st_mass": 0.33,
+    "dec": 26.5493897,
+    "st_teff": 4371,
+    "st_rad": 0.27,
+    "ra": 67.4231674,
+    "system_radius": 49367297100,
+    "pl_hostname": "DH_Tau",
+    "stellar_type": "K",
+    "tic_id": "TIC 268148971",
+    "magnitude": 13.98
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262215",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243515"
+      }
+    ]
+  }
+}

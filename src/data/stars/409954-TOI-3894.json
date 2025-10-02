@@ -1,1 +1,71 @@
-{"id":409954,"date":"2024-07-25T22:04:31","date_gmt":"2024-07-26T02:04:31","modified":"2025-04-23T05:53:49","modified_gmt":"2025-04-23T09:53:49","slug":"toi-3894","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3894/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-3894","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410032],"exo_id":"TOI-3894","st_optmag":11.992,"st_vj":11.992,"st_dist":417.365,"st_j":11.992,"st_mass":1.138,"dec":52.7681036,"st_teff":6000,"st_rad":1.502,"ra":201.3748265,"system_radius":8009469.9598,"pl_hostname":"TOI-3894","stellar_type":"F","tic_id":"TIC 165464482","magnitude":11.992},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409954","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410032"}]}}
+{
+  "id": 409954,
+  "date": "2024-07-25T22:04:31",
+  "date_gmt": "2024-07-26T02:04:31",
+  "modified": "2025-04-23T05:53:49",
+  "modified_gmt": "2025-04-23T09:53:49",
+  "slug": "toi-3894",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3894/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3894",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410032
+    ],
+    "exo_id": "TOI-3894",
+    "st_optmag": 11.992,
+    "st_vj": 11.992,
+    "st_dist": 417.365,
+    "st_j": 11.992,
+    "st_mass": 1.138,
+    "dec": 52.7681036,
+    "st_teff": 6000,
+    "st_rad": 1.502,
+    "ra": 201.3748265,
+    "system_radius": 8009469.9598,
+    "pl_hostname": "TOI-3894",
+    "stellar_type": "F",
+    "tic_id": "TIC 165464482",
+    "magnitude": 11.992
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409954",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410032"
+      }
+    ]
+  }
+}

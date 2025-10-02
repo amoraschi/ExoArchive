@@ -1,1 +1,71 @@
-{"id":263273,"date":"2023-11-28T21:01:34","date_gmt":"2023-11-29T02:01:34","modified":"2025-04-23T05:54:35","modified_gmt":"2025-04-23T09:54:35","slug":"hd_100546","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_100546/","featured_media":0,"categories":[],"acf":{"display_name":"HD 100546","custom_star_title":"","aliases":"","constellation":"Musca","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243868],"exo_id":"HD_100546","st_optmag":6.69,"st_vj":6.69,"st_dist":109.677,"st_j":6.69,"st_mass":2.4,"dec":-70.1947897,"st_teff":10500,"st_rad":1.85288,"ra":173.3555116,"system_radius":7928687110,"pl_hostname":"HD_100546","stellar_type":"B","tic_id":"TIC 280773136","magnitude":6.69},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263273","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243868"}]}}
+{
+  "id": 263273,
+  "date": "2023-11-28T21:01:34",
+  "date_gmt": "2023-11-29T02:01:34",
+  "modified": "2025-04-23T05:54:35",
+  "modified_gmt": "2025-04-23T09:54:35",
+  "slug": "hd_100546",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_100546/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 100546",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Musca",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243868
+    ],
+    "exo_id": "HD_100546",
+    "st_optmag": 6.69,
+    "st_vj": 6.69,
+    "st_dist": 109.677,
+    "st_j": 6.69,
+    "st_mass": 2.4,
+    "dec": -70.1947897,
+    "st_teff": 10500,
+    "st_rad": 1.85288,
+    "ra": 173.3555116,
+    "system_radius": 7928687110,
+    "pl_hostname": "HD_100546",
+    "stellar_type": "B",
+    "tic_id": "TIC 280773136",
+    "magnitude": 6.69
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263273",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243868"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":439625,"date":"2024-12-13T01:15:41","date_gmt":"2024-12-13T06:15:41","modified":"2025-04-23T05:53:38","modified_gmt":"2025-04-23T09:53:38","slug":"toi-2211","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2211/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2211","custom_star_title":"","aliases":"","constellation":"Microscopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[439667],"exo_id":"TOI-2211","st_optmag":10,"st_vj":10,"st_dist":70.2932,"st_j":10,"st_mass":0.9,"dec":-29.6726127,"st_teff":5253,"st_rad":0.834,"ra":308.5390859,"system_radius":6000370.5657,"pl_hostname":"TOI-2211","stellar_type":"K","tic_id":"TIC 212253390","magnitude":10},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/439625","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439667"}]}}
+{
+  "id": 439625,
+  "date": "2024-12-13T01:15:41",
+  "date_gmt": "2024-12-13T06:15:41",
+  "modified": "2025-04-23T05:53:38",
+  "modified_gmt": "2025-04-23T09:53:38",
+  "slug": "toi-2211",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2211/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2211",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Microscopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      439667
+    ],
+    "exo_id": "TOI-2211",
+    "st_optmag": 10,
+    "st_vj": 10,
+    "st_dist": 70.2932,
+    "st_j": 10,
+    "st_mass": 0.9,
+    "dec": -29.6726127,
+    "st_teff": 5253,
+    "st_rad": 0.834,
+    "ra": 308.5390859,
+    "system_radius": 6000370.5657,
+    "pl_hostname": "TOI-2211",
+    "stellar_type": "K",
+    "tic_id": "TIC 212253390",
+    "magnitude": 10
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439625",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439667"
+      }
+    ]
+  }
+}

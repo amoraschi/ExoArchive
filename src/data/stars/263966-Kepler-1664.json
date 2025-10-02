@@ -1,1 +1,71 @@
-{"id":263966,"date":"2023-11-28T21:10:29","date_gmt":"2023-11-29T02:10:29","modified":"2025-04-23T05:54:56","modified_gmt":"2025-04-23T09:54:56","slug":"kepler-1664","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1664/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1664","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246147],"exo_id":"Kepler-1664","st_optmag":13.621,"st_vj":13.621,"st_dist":626.691,"st_j":13.621,"st_mass":0.944,"dec":49.2616668,"st_teff":5735.81,"st_rad":1.072,"ra":286.8527157,"system_radius":17009277.819,"pl_hostname":"Kepler-1664","stellar_type":"G","tic_id":"TIC 399860388","magnitude":13.621},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263966","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246147"}]}}
+{
+  "id": 263966,
+  "date": "2023-11-28T21:10:29",
+  "date_gmt": "2023-11-29T02:10:29",
+  "modified": "2025-04-23T05:54:56",
+  "modified_gmt": "2025-04-23T09:54:56",
+  "slug": "kepler-1664",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1664/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1664",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246147
+    ],
+    "exo_id": "Kepler-1664",
+    "st_optmag": 13.621,
+    "st_vj": 13.621,
+    "st_dist": 626.691,
+    "st_j": 13.621,
+    "st_mass": 0.944,
+    "dec": 49.2616668,
+    "st_teff": 5735.81,
+    "st_rad": 1.072,
+    "ra": 286.8527157,
+    "system_radius": 17009277.819,
+    "pl_hostname": "Kepler-1664",
+    "stellar_type": "G",
+    "tic_id": "TIC 399860388",
+    "magnitude": 13.621
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263966",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246147"
+      }
+    ]
+  }
+}

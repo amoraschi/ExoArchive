@@ -1,1 +1,79 @@
-{"id":245808,"date":"2016-05-10T14:50:15","date_gmt":"2016-05-10T18:50:15","modified":"2025-07-07T15:24:21","modified_gmt":"2025-07-07T19:24:21","slug":"kepler-1410-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1410-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1410","pl_letter":"b","display_name":"Kepler-1410 b","planet_radius":"1.78 x Earth","derived_description":"Kepler-1410 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.82 Earths, it takes 60.9 days to complete one orbit of its star, and is 0.2543 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":367,"planet_mass":"3.82 Earths","st_optmag":16.319,"discovery_date":"2016","pl_orbsmax":0.2543,"period_display":"60.9 days","eccentricity":"0.0","star_id":261441,"pl_orbper":60.866168,"pl_kepflag":true,"pl_radj":0.15880096,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.78,"exo_id":"Kepler-1410_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245808","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261441"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245808,
+  "date": "2016-05-10T14:50:15",
+  "date_gmt": "2016-05-10T18:50:15",
+  "modified": "2025-07-07T15:24:21",
+  "modified_gmt": "2025-07-07T19:24:21",
+  "slug": "kepler-1410-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1410-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1410",
+    "pl_letter": "b",
+    "display_name": "Kepler-1410 b",
+    "planet_radius": "1.78 x Earth",
+    "derived_description": "Kepler-1410 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.82 Earths, it takes 60.9 days to complete one orbit of its star, and is 0.2543 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 367,
+    "planet_mass": "3.82 Earths",
+    "st_optmag": 16.319,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.2543,
+    "period_display": "60.9 days",
+    "eccentricity": "0.0",
+    "star_id": 261441,
+    "pl_orbper": 60.866168,
+    "pl_kepflag": true,
+    "pl_radj": 0.15880096,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.78,
+    "exo_id": "Kepler-1410_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245808",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261441"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

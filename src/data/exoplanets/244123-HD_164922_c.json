@@ -1,1 +1,79 @@
-{"id":244123,"date":"2019-04-22T16:49:26","date_gmt":"2019-04-22T20:49:26","modified":"2025-07-07T20:34:16","modified_gmt":"2025-07-08T00:34:16","slug":"hd-164922-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-164922-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_164922","pl_letter":"c","display_name":"HD 164922 c","planet_radius":"0.327 x Jupiter (estimate)","derived_description":"HD 164922 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 75.7 days to complete one orbit of its star, and is 0.341 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":22.0016,"planet_mass":"13 Earths","st_optmag":7.01227,"discovery_date":"2016","pl_orbsmax":0.341,"period_display":"75.7 days","eccentricity":"0.12","star_id":261282,"pl_orbper":75.74,"pl_kepflag":false,"pl_radj":0.327,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":-29,"multiple_planet_system":false,"pl_rade":3.66,"exo_id":"HD_164922_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.12},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244123","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261282"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244123,
+  "date": "2019-04-22T16:49:26",
+  "date_gmt": "2019-04-22T20:49:26",
+  "modified": "2025-07-07T20:34:16",
+  "modified_gmt": "2025-07-08T00:34:16",
+  "slug": "hd-164922-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-164922-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_164922",
+    "pl_letter": "c",
+    "display_name": "HD 164922 c",
+    "planet_radius": "0.327 x Jupiter (estimate)",
+    "derived_description": "HD 164922 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 75.7 days to complete one orbit of its star, and is 0.341 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 22.0016,
+    "planet_mass": "13 Earths",
+    "st_optmag": 7.01227,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.341,
+    "period_display": "75.7 days",
+    "eccentricity": "0.12",
+    "star_id": 261282,
+    "pl_orbper": 75.74,
+    "pl_kepflag": false,
+    "pl_radj": 0.327,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": -29,
+    "multiple_planet_system": false,
+    "pl_rade": 3.66,
+    "exo_id": "HD_164922_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.12
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244123",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261282"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

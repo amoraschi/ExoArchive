@@ -1,1 +1,71 @@
-{"id":264065,"date":"2023-11-28T21:11:44","date_gmt":"2023-11-29T02:11:44","modified":"2025-04-23T05:57:05","modified_gmt":"2025-04-23T09:57:05","slug":"kepler-1295","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1295/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1295","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245641],"exo_id":"Kepler-1295","st_optmag":16.227,"st_vj":16.227,"st_dist":1174.46,"st_j":16.227,"st_mass":0.92,"dec":45.588553,"st_teff":5486,"st_rad":0.89,"ra":291.3978451,"system_radius":6941341.168,"pl_hostname":"Kepler-1295","stellar_type":"G","tic_id":"TIC 159723041","magnitude":16.227},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264065","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245641"}]}}
+{
+  "id": 264065,
+  "date": "2023-11-28T21:11:44",
+  "date_gmt": "2023-11-29T02:11:44",
+  "modified": "2025-04-23T05:57:05",
+  "modified_gmt": "2025-04-23T09:57:05",
+  "slug": "kepler-1295",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1295/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1295",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245641
+    ],
+    "exo_id": "Kepler-1295",
+    "st_optmag": 16.227,
+    "st_vj": 16.227,
+    "st_dist": 1174.46,
+    "st_j": 16.227,
+    "st_mass": 0.92,
+    "dec": 45.588553,
+    "st_teff": 5486,
+    "st_rad": 0.89,
+    "ra": 291.3978451,
+    "system_radius": 6941341.168,
+    "pl_hostname": "Kepler-1295",
+    "stellar_type": "G",
+    "tic_id": "TIC 159723041",
+    "magnitude": 16.227
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264065",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245641"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248124,"date":"2017-10-02T13:32:41","date_gmt":"2017-10-02T17:32:41","modified":"2025-07-07T20:41:09","modified_gmt":"2025-07-08T00:41:09","slug":"koi-94-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/koi-94-d/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KOI-94","pl_letter":"d","display_name":"KOI-94 d","planet_radius":"1.005 x Jupiter","derived_description":"KOI-94 d is a gas giant exoplanet that orbits a F-type star. Its mass is 0.334 Jupiters, it takes 22.3 days to complete one orbit of its star, and is 0.1684 AU from its star. Its discovery was announced in 2013.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":477.052,"planet_mass":"0.334 Jupiters","st_optmag":12.314,"discovery_date":"2013","pl_orbsmax":0.1684,"period_display":"22.3 days","eccentricity":"0.02","star_id":260697,"pl_orbper":22.342989,"pl_kepflag":true,"pl_radj":1.005,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":11.27,"exo_id":"KOI-94_d","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.022},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248124","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260697"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248124,
+  "date": "2017-10-02T13:32:41",
+  "date_gmt": "2017-10-02T17:32:41",
+  "modified": "2025-07-07T20:41:09",
+  "modified_gmt": "2025-07-08T00:41:09",
+  "slug": "koi-94-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/koi-94-d/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KOI-94",
+    "pl_letter": "d",
+    "display_name": "KOI-94 d",
+    "planet_radius": "1.005 x Jupiter",
+    "derived_description": "KOI-94 d is a gas giant exoplanet that orbits a F-type star. Its mass is 0.334 Jupiters, it takes 22.3 days to complete one orbit of its star, and is 0.1684 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 477.052,
+    "planet_mass": "0.334 Jupiters",
+    "st_optmag": 12.314,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.1684,
+    "period_display": "22.3 days",
+    "eccentricity": "0.02",
+    "star_id": 260697,
+    "pl_orbper": 22.342989,
+    "pl_kepflag": true,
+    "pl_radj": 1.005,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 11.27,
+    "exo_id": "KOI-94_d",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.022
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248124",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260697"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260708,"date":"2023-11-28T20:29:06","date_gmt":"2023-11-29T01:29:06","modified":"2025-04-25T05:59:14","modified_gmt":"2025-04-25T09:59:14","slug":"hr_2562","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hr_2562/","featured_media":0,"categories":[],"acf":{"display_name":"HR 2562","custom_star_title":"","aliases":"","constellation":"Pictor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244704],"exo_id":"HR_2562","st_optmag":6.11,"st_vj":6.11,"st_dist":34.0071,"st_j":6.11,"st_mass":1.368,"dec":-60.2486775,"st_teff":6597,"st_rad":1.334,"ra":102.5042716,"system_radius":4039142490,"pl_hostname":"HR_2562","stellar_type":"F","tic_id":"TIC 167656187","magnitude":6.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260708","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244704"}]}}
+{
+  "id": 260708,
+  "date": "2023-11-28T20:29:06",
+  "date_gmt": "2023-11-29T01:29:06",
+  "modified": "2025-04-25T05:59:14",
+  "modified_gmt": "2025-04-25T09:59:14",
+  "slug": "hr_2562",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hr_2562/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HR 2562",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pictor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244704
+    ],
+    "exo_id": "HR_2562",
+    "st_optmag": 6.11,
+    "st_vj": 6.11,
+    "st_dist": 34.0071,
+    "st_j": 6.11,
+    "st_mass": 1.368,
+    "dec": -60.2486775,
+    "st_teff": 6597,
+    "st_rad": 1.334,
+    "ra": 102.5042716,
+    "system_radius": 4039142490,
+    "pl_hostname": "HR_2562",
+    "stellar_type": "F",
+    "tic_id": "TIC 167656187",
+    "magnitude": 6.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260708",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244704"
+      }
+    ]
+  }
+}

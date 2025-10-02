@@ -1,1 +1,81 @@
-{"id":264017,"date":"2023-11-28T21:11:08","date_gmt":"2023-11-29T02:11:08","modified":"2025-06-13T07:33:28","modified_gmt":"2025-06-13T11:33:28","slug":"kepler-381","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-381/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-381","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247108,"1":247107,"2":247106},"exo_id":"Kepler-381","st_optmag":10.47,"st_vj":10.47,"st_dist":267.323,"st_j":10.47,"st_mass":1.198,"dec":43.8310283,"st_teff":6197,"st_rad":2.188,"ra":285.1828685,"system_radius":17502950.79,"pl_hostname":"Kepler-381","stellar_type":"F","tic_id":"TIC 164884235","magnitude":10.47},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264017","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247108"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247107"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247106"}]}}
+{
+  "id": 264017,
+  "date": "2023-11-28T21:11:08",
+  "date_gmt": "2023-11-29T02:11:08",
+  "modified": "2025-06-13T07:33:28",
+  "modified_gmt": "2025-06-13T11:33:28",
+  "slug": "kepler-381",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-381/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-381",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247108,
+      "1": 247107,
+      "2": 247106
+    },
+    "exo_id": "Kepler-381",
+    "st_optmag": 10.47,
+    "st_vj": 10.47,
+    "st_dist": 267.323,
+    "st_j": 10.47,
+    "st_mass": 1.198,
+    "dec": 43.8310283,
+    "st_teff": 6197,
+    "st_rad": 2.188,
+    "ra": 285.1828685,
+    "system_radius": 17502950.79,
+    "pl_hostname": "Kepler-381",
+    "stellar_type": "F",
+    "tic_id": "TIC 164884235",
+    "magnitude": 10.47
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264017",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247108"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247107"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247106"
+      }
+    ]
+  }
+}

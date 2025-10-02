@@ -1,1 +1,79 @@
-{"id":247099,"date":"2017-10-02T13:32:37","date_gmt":"2017-10-02T17:32:37","modified":"2025-07-07T15:24:02","modified_gmt":"2025-07-07T19:24:02","slug":"kepler-379-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-379-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-379","pl_letter":"c","display_name":"Kepler-379 c","planet_radius":"0.204 x Jupiter","derived_description":"Kepler-379 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.86 Earths, it takes 62.8 days to complete one orbit of its star, and is 0.326 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":731.274,"planet_mass":"5.86 Earths","st_optmag":13.475,"discovery_date":"2014","pl_orbsmax":0.326,"period_display":"62.8 days","eccentricity":"0.0","star_id":262116,"pl_orbper":62.784697,"pl_kepflag":true,"pl_radj":0.204,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.29,"exo_id":"Kepler-379_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247099","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262116"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247099,
+  "date": "2017-10-02T13:32:37",
+  "date_gmt": "2017-10-02T17:32:37",
+  "modified": "2025-07-07T15:24:02",
+  "modified_gmt": "2025-07-07T19:24:02",
+  "slug": "kepler-379-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-379-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-379",
+    "pl_letter": "c",
+    "display_name": "Kepler-379 c",
+    "planet_radius": "0.204 x Jupiter",
+    "derived_description": "Kepler-379 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.86 Earths, it takes 62.8 days to complete one orbit of its star, and is 0.326 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 731.274,
+    "planet_mass": "5.86 Earths",
+    "st_optmag": 13.475,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.326,
+    "period_display": "62.8 days",
+    "eccentricity": "0.0",
+    "star_id": 262116,
+    "pl_orbper": 62.784697,
+    "pl_kepflag": true,
+    "pl_radj": 0.204,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.29,
+    "exo_id": "Kepler-379_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247099",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262116"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

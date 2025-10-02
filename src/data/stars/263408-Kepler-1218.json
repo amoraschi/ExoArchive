@@ -1,1 +1,71 @@
-{"id":263408,"date":"2023-11-28T21:03:17","date_gmt":"2023-11-29T02:03:17","modified":"2025-04-23T05:53:34","modified_gmt":"2025-04-23T09:53:34","slug":"kepler-1218","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1218/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1218","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245533],"exo_id":"Kepler-1218","st_optmag":13.73,"st_vj":13.73,"st_dist":840.503,"st_j":13.73,"st_mass":1.06,"dec":44.5316825,"st_teff":5986,"st_rad":1.1,"ra":291.5788505,"system_radius":23483873.6326,"pl_hostname":"Kepler-1218","stellar_type":"F","tic_id":"TIC 159763595","magnitude":13.73},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263408","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245533"}]}}
+{
+  "id": 263408,
+  "date": "2023-11-28T21:03:17",
+  "date_gmt": "2023-11-29T02:03:17",
+  "modified": "2025-04-23T05:53:34",
+  "modified_gmt": "2025-04-23T09:53:34",
+  "slug": "kepler-1218",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1218/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1218",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245533
+    ],
+    "exo_id": "Kepler-1218",
+    "st_optmag": 13.73,
+    "st_vj": 13.73,
+    "st_dist": 840.503,
+    "st_j": 13.73,
+    "st_mass": 1.06,
+    "dec": 44.5316825,
+    "st_teff": 5986,
+    "st_rad": 1.1,
+    "ra": 291.5788505,
+    "system_radius": 23483873.6326,
+    "pl_hostname": "Kepler-1218",
+    "stellar_type": "F",
+    "tic_id": "TIC 159763595",
+    "magnitude": 13.73
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263408",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245533"
+      }
+    ]
+  }
+}

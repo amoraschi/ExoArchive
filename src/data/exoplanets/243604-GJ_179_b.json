@@ -1,1 +1,79 @@
-{"id":243604,"date":"2019-04-22T16:48:35","date_gmt":"2019-04-22T20:48:35","modified":"2024-10-24T17:07:02","modified_gmt":"2024-10-24T21:07:02","slug":"gj-179-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-179-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_179","pl_letter":"b","display_name":"GJ 179 b","planet_radius":"1.23 x Jupiter (estimate)","derived_description":"GJ 179 b is a gas giant exoplanet that orbits a M-type star. Its mass is 0.95 Jupiters, it takes 6.3 years to complete one orbit of its star, and is 2.41 AU from its star. Its discovery was announced in 2009.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":12.356,"planet_mass":"0.95 Jupiters","st_optmag":11.963,"discovery_date":"2009","pl_orbsmax":2.41,"period_display":"6.3 years","eccentricity":"0.21","star_id":262539,"pl_orbper":2288,"pl_kepflag":false,"pl_radj":1.23,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":153,"multiple_planet_system":false,"pl_rade":13.8,"exo_id":"GJ_179_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.21},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243604","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262539"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243604,
+  "date": "2019-04-22T16:48:35",
+  "date_gmt": "2019-04-22T20:48:35",
+  "modified": "2024-10-24T17:07:02",
+  "modified_gmt": "2024-10-24T21:07:02",
+  "slug": "gj-179-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-179-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_179",
+    "pl_letter": "b",
+    "display_name": "GJ 179 b",
+    "planet_radius": "1.23 x Jupiter (estimate)",
+    "derived_description": "GJ 179 b is a gas giant exoplanet that orbits a M-type star. Its mass is 0.95 Jupiters, it takes 6.3 years to complete one orbit of its star, and is 2.41 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 12.356,
+    "planet_mass": "0.95 Jupiters",
+    "st_optmag": 11.963,
+    "discovery_date": "2009",
+    "pl_orbsmax": 2.41,
+    "period_display": "6.3 years",
+    "eccentricity": "0.21",
+    "star_id": 262539,
+    "pl_orbper": 2288,
+    "pl_kepflag": false,
+    "pl_radj": 1.23,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 153,
+    "multiple_planet_system": false,
+    "pl_rade": 13.8,
+    "exo_id": "GJ_179_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.21
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243604",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262539"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

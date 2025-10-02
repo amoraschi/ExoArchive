@@ -1,1 +1,77 @@
-{"id":887960,"date":"2025-08-07T21:03:14","date_gmt":"2025-08-08T01:03:14","modified":"2025-08-07T21:03:14","modified_gmt":"2025-08-08T01:03:14","slug":"kmt-2024-blg-1209l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2024-blg-1209l/","featured_media":429648,"categories":[],"acf":{"display_name":"KMT-2024-BLG-1209L","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[888002],"exo_id":"KMT-2024-BLG-1209L","st_optmag":"","st_vj":"","st_dist":3930,"st_j":"","st_mass":0.77,"dec":-28.1205611,"st_teff":"","st_rad":"","ra":261.6129583,"system_radius":375490653.7,"pl_hostname":"KMT-2024-BLG-1209L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/887960","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/888002"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 887960,
+  "date": "2025-08-07T21:03:14",
+  "date_gmt": "2025-08-08T01:03:14",
+  "modified": "2025-08-07T21:03:14",
+  "modified_gmt": "2025-08-08T01:03:14",
+  "slug": "kmt-2024-blg-1209l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2024-blg-1209l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2024-BLG-1209L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      888002
+    ],
+    "exo_id": "KMT-2024-BLG-1209L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 3930,
+    "st_j": "",
+    "st_mass": 0.77,
+    "dec": -28.1205611,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 261.6129583,
+    "system_radius": 375490653.7,
+    "pl_hostname": "KMT-2024-BLG-1209L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/887960",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/888002"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

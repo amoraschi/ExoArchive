@@ -1,1 +1,79 @@
-{"id":410093,"date":"2024-07-25T22:53:21","date_gmt":"2024-07-26T02:53:21","modified":"2025-03-28T07:32:12","modified_gmt":"2025-03-28T11:32:12","slug":"toi-1472-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1472-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1472","pl_letter":"b","display_name":"TOI-1472 b","planet_radius":"0.37109938 x Jupiter","derived_description":"TOI-1472 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 16.5 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.065 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":121.84,"planet_mass":"16.5 Earths","st_optmag":11.302,"discovery_date":"2024","pl_orbsmax":0.065,"period_display":"6.4 days","eccentricity":"0.0","star_id":409975,"pl_orbper":6.36381,"pl_kepflag":false,"pl_radj":0.37109938,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":4.15964583,"exo_id":"TOI-1472_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410093","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/409975"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 410093,
+  "date": "2024-07-25T22:53:21",
+  "date_gmt": "2024-07-26T02:53:21",
+  "modified": "2025-03-28T07:32:12",
+  "modified_gmt": "2025-03-28T11:32:12",
+  "slug": "toi-1472-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1472-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1472",
+    "pl_letter": "b",
+    "display_name": "TOI-1472 b",
+    "planet_radius": "0.37109938 x Jupiter",
+    "derived_description": "TOI-1472 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 16.5 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.065 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 121.84,
+    "planet_mass": "16.5 Earths",
+    "st_optmag": 11.302,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.065,
+    "period_display": "6.4 days",
+    "eccentricity": "0.0",
+    "star_id": 409975,
+    "pl_orbper": 6.36381,
+    "pl_kepflag": false,
+    "pl_radj": 0.37109938,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 4.15964583,
+    "exo_id": "TOI-1472_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410093",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409975"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

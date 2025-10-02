@@ -1,1 +1,71 @@
-{"id":263677,"date":"2023-11-28T21:06:43","date_gmt":"2023-11-29T02:06:43","modified":"2025-04-23T05:55:28","modified_gmt":"2025-04-23T09:55:28","slug":"kepler-521","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-521/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-521","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247343],"exo_id":"Kepler-521","st_optmag":12.94,"st_vj":12.94,"st_dist":830.638,"st_j":12.94,"st_mass":1.34,"dec":43.9980203,"st_teff":6406,"st_rad":1.46,"ra":298.8163801,"system_radius":25605171.4292,"pl_hostname":"Kepler-521","stellar_type":"F","tic_id":"TIC 268302011","magnitude":12.94},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263677","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247343"}]}}
+{
+  "id": 263677,
+  "date": "2023-11-28T21:06:43",
+  "date_gmt": "2023-11-29T02:06:43",
+  "modified": "2025-04-23T05:55:28",
+  "modified_gmt": "2025-04-23T09:55:28",
+  "slug": "kepler-521",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-521/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-521",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247343
+    ],
+    "exo_id": "Kepler-521",
+    "st_optmag": 12.94,
+    "st_vj": 12.94,
+    "st_dist": 830.638,
+    "st_j": 12.94,
+    "st_mass": 1.34,
+    "dec": 43.9980203,
+    "st_teff": 6406,
+    "st_rad": 1.46,
+    "ra": 298.8163801,
+    "system_radius": 25605171.4292,
+    "pl_hostname": "Kepler-521",
+    "stellar_type": "F",
+    "tic_id": "TIC 268302011",
+    "magnitude": 12.94
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263677",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247343"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":409960,"date":"2024-07-25T22:04:41","date_gmt":"2024-07-26T02:04:41","modified":"2025-04-23T05:54:48","modified_gmt":"2025-04-23T09:54:48","slug":"toi-480","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-480/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-480","custom_star_title":"","aliases":"","constellation":"Lepus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410064],"exo_id":"TOI-480","st_optmag":7.28,"st_vj":7.28,"st_dist":54.5306,"st_j":7.28,"st_mass":1.2793,"dec":-16.2653974,"st_teff":6174,"st_rad":1.4877,"ra":88.3784618,"system_radius":11519035.99,"pl_hostname":"TOI-480","stellar_type":"F","tic_id":"TIC 317548889","magnitude":7.28},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409960","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410064"}]}}
+{
+  "id": 409960,
+  "date": "2024-07-25T22:04:41",
+  "date_gmt": "2024-07-26T02:04:41",
+  "modified": "2025-04-23T05:54:48",
+  "modified_gmt": "2025-04-23T09:54:48",
+  "slug": "toi-480",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-480/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-480",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lepus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410064
+    ],
+    "exo_id": "TOI-480",
+    "st_optmag": 7.28,
+    "st_vj": 7.28,
+    "st_dist": 54.5306,
+    "st_j": 7.28,
+    "st_mass": 1.2793,
+    "dec": -16.2653974,
+    "st_teff": 6174,
+    "st_rad": 1.4877,
+    "ra": 88.3784618,
+    "system_radius": 11519035.99,
+    "pl_hostname": "TOI-480",
+    "stellar_type": "F",
+    "tic_id": "TIC 317548889",
+    "magnitude": 7.28
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409960",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410064"
+      }
+    ]
+  }
+}

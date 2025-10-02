@@ -1,1 +1,79 @@
-{"id":246388,"date":"2016-03-16T19:26:14","date_gmt":"2016-03-16T23:26:14","modified":"2025-07-07T20:43:38","modified_gmt":"2025-07-08T00:43:38","slug":"kepler-183-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-183-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-183","pl_letter":"c","display_name":"Kepler-183 c","planet_radius":"2.27 x Earth","derived_description":"Kepler-183 c is a super Earth exoplanet that orbits a G-type star. Its mass is 35.7 Earths, it takes 11.6 days to complete one orbit of its star, and is 0.103 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1050.64,"planet_mass":"35.7 Earths","st_optmag":14.993,"discovery_date":"2014","pl_orbsmax":0.103,"period_display":"11.6 days","eccentricity":"0.0","star_id":260819,"pl_orbper":11.637071,"pl_kepflag":true,"pl_radj":0.203,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.27,"exo_id":"Kepler-183_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246388","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260819"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246388,
+  "date": "2016-03-16T19:26:14",
+  "date_gmt": "2016-03-16T23:26:14",
+  "modified": "2025-07-07T20:43:38",
+  "modified_gmt": "2025-07-08T00:43:38",
+  "slug": "kepler-183-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-183-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-183",
+    "pl_letter": "c",
+    "display_name": "Kepler-183 c",
+    "planet_radius": "2.27 x Earth",
+    "derived_description": "Kepler-183 c is a super Earth exoplanet that orbits a G-type star. Its mass is 35.7 Earths, it takes 11.6 days to complete one orbit of its star, and is 0.103 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1050.64,
+    "planet_mass": "35.7 Earths",
+    "st_optmag": 14.993,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.103,
+    "period_display": "11.6 days",
+    "eccentricity": "0.0",
+    "star_id": 260819,
+    "pl_orbper": 11.637071,
+    "pl_kepflag": true,
+    "pl_radj": 0.203,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.27,
+    "exo_id": "Kepler-183_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246388",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260819"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

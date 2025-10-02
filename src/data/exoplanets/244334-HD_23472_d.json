@@ -1,1 +1,79 @@
-{"id":244334,"date":"2022-10-06T14:16:17","date_gmt":"2022-10-06T18:16:17","modified":"2025-06-25T12:04:15","modified_gmt":"2025-06-25T16:04:15","slug":"hd-23472-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-23472-d/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"HD_23472","pl_letter":"d","display_name":"HD 23472 d","planet_radius":"0.75 x Earth","derived_description":"HD 23472 d is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.55 Earths, it takes 4 days to complete one orbit of its star, and is 0.04298 AU from its star. Its discovery was announced in 2022.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":39.0341,"planet_mass":"0.55 Earths","st_optmag":9.73,"discovery_date":"2022","pl_orbsmax":0.04298,"period_display":"4 days","eccentricity":"0.07","star_id":261547,"pl_orbper":3.97664,"pl_kepflag":false,"pl_radj":0.06691063,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":19,"multiple_planet_system":false,"pl_rade":0.75,"exo_id":"HD_23472_d","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.07},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244334","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261547"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 244334,
+  "date": "2022-10-06T14:16:17",
+  "date_gmt": "2022-10-06T18:16:17",
+  "modified": "2025-06-25T12:04:15",
+  "modified_gmt": "2025-06-25T16:04:15",
+  "slug": "hd-23472-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-23472-d/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_23472",
+    "pl_letter": "d",
+    "display_name": "HD 23472 d",
+    "planet_radius": "0.75 x Earth",
+    "derived_description": "HD 23472 d is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.55 Earths, it takes 4 days to complete one orbit of its star, and is 0.04298 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 39.0341,
+    "planet_mass": "0.55 Earths",
+    "st_optmag": 9.73,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.04298,
+    "period_display": "4 days",
+    "eccentricity": "0.07",
+    "star_id": 261547,
+    "pl_orbper": 3.97664,
+    "pl_kepflag": false,
+    "pl_radj": 0.06691063,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 19,
+    "multiple_planet_system": false,
+    "pl_rade": 0.75,
+    "exo_id": "HD_23472_d",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.07
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244334",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261547"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

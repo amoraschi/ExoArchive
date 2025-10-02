@@ -1,1 +1,79 @@
-{"id":244243,"date":"2023-06-02T16:02:10","date_gmt":"2023-06-02T20:02:10","modified":"2025-03-28T07:28:45","modified_gmt":"2025-03-28T11:28:45","slug":"hd-207496-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-207496-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_207496","pl_letter":"b","display_name":"HD 207496 b","planet_radius":"2.25 x Earth","derived_description":"HD 207496 b is a super Earth exoplanet that orbits a K-type star. Its mass is 6.1 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.0629 AU from its star. Its discovery was announced in 2023.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":23.606,"planet_mass":"6.1 Earths","st_optmag":8.23,"discovery_date":"2023","pl_orbsmax":0.0629,"period_display":"6.4 days","eccentricity":"0.23","star_id":262711,"pl_orbper":6.441008,"pl_kepflag":false,"pl_radj":0.2007319,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":57,"multiple_planet_system":false,"pl_rade":2.25,"exo_id":"HD_207496_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.231},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244243","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262711"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244243,
+  "date": "2023-06-02T16:02:10",
+  "date_gmt": "2023-06-02T20:02:10",
+  "modified": "2025-03-28T07:28:45",
+  "modified_gmt": "2025-03-28T11:28:45",
+  "slug": "hd-207496-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-207496-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_207496",
+    "pl_letter": "b",
+    "display_name": "HD 207496 b",
+    "planet_radius": "2.25 x Earth",
+    "derived_description": "HD 207496 b is a super Earth exoplanet that orbits a K-type star. Its mass is 6.1 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.0629 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 23.606,
+    "planet_mass": "6.1 Earths",
+    "st_optmag": 8.23,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.0629,
+    "period_display": "6.4 days",
+    "eccentricity": "0.23",
+    "star_id": 262711,
+    "pl_orbper": 6.441008,
+    "pl_kepflag": false,
+    "pl_radj": 0.2007319,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": 57,
+    "multiple_planet_system": false,
+    "pl_rade": 2.25,
+    "exo_id": "HD_207496_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.231
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244243",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262711"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":263437,"date":"2023-11-28T21:03:39","date_gmt":"2023-11-29T02:03:39","modified":"2025-04-23T05:56:40","modified_gmt":"2025-04-23T09:56:40","slug":"kepler-397","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-397/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-397","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247142,247143],"exo_id":"Kepler-397","st_optmag":16.357,"st_vj":16.357,"st_dist":969,"st_j":16.357,"st_mass":0.844,"dec":42.3805156,"st_teff":5307,"st_rad":0.767,"ra":295.8940373,"system_radius":71806977.6,"pl_hostname":"Kepler-397","stellar_type":"K","tic_id":"TIC 271963778","magnitude":16.357},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263437","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247143"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247142"}]}}
+{
+  "id": 263437,
+  "date": "2023-11-28T21:03:39",
+  "date_gmt": "2023-11-29T02:03:39",
+  "modified": "2025-04-23T05:56:40",
+  "modified_gmt": "2025-04-23T09:56:40",
+  "slug": "kepler-397",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-397/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-397",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247142,
+      247143
+    ],
+    "exo_id": "Kepler-397",
+    "st_optmag": 16.357,
+    "st_vj": 16.357,
+    "st_dist": 969,
+    "st_j": 16.357,
+    "st_mass": 0.844,
+    "dec": 42.3805156,
+    "st_teff": 5307,
+    "st_rad": 0.767,
+    "ra": 295.8940373,
+    "system_radius": 71806977.6,
+    "pl_hostname": "Kepler-397",
+    "stellar_type": "K",
+    "tic_id": "TIC 271963778",
+    "magnitude": 16.357
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263437",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247143"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247142"
+      }
+    ]
+  }
+}

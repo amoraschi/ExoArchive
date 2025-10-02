@@ -1,1 +1,71 @@
-{"id":409945,"date":"2024-07-25T22:04:31","date_gmt":"2024-07-26T02:04:31","modified":"2025-04-23T05:54:46","modified_gmt":"2025-04-23T09:54:46","slug":"toi-1439","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1439/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1439","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410019],"exo_id":"TOI-1439","st_optmag":10.55,"st_vj":10.55,"st_dist":230.306,"st_j":10.55,"st_mass":1.2313,"dec":67.8776404,"st_teff":5841,"st_rad":1.6184,"ra":241.7639371,"system_radius":28722791.04,"pl_hostname":"TOI-1439","stellar_type":"G","tic_id":"TIC 232982558","magnitude":10.55},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409945","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410019"}]}}
+{
+  "id": 409945,
+  "date": "2024-07-25T22:04:31",
+  "date_gmt": "2024-07-26T02:04:31",
+  "modified": "2025-04-23T05:54:46",
+  "modified_gmt": "2025-04-23T09:54:46",
+  "slug": "toi-1439",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1439/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1439",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410019
+    ],
+    "exo_id": "TOI-1439",
+    "st_optmag": 10.55,
+    "st_vj": 10.55,
+    "st_dist": 230.306,
+    "st_j": 10.55,
+    "st_mass": 1.2313,
+    "dec": 67.8776404,
+    "st_teff": 5841,
+    "st_rad": 1.6184,
+    "ra": 241.7639371,
+    "system_radius": 28722791.04,
+    "pl_hostname": "TOI-1439",
+    "stellar_type": "G",
+    "tic_id": "TIC 232982558",
+    "magnitude": 10.55
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409945",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410019"
+      }
+    ]
+  }
+}

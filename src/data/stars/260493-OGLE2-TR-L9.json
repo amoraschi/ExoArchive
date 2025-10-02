@@ -1,1 +1,71 @@
-{"id":260493,"date":"2023-11-28T20:26:29","date_gmt":"2023-11-29T01:26:29","modified":"2025-04-23T05:53:21","modified_gmt":"2025-04-23T09:53:21","slug":"ogle2-tr-l9","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle2-tr-l9/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE2-TR-L9","custom_star_title":"","aliases":"","constellation":"Carina","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248327],"exo_id":"OGLE2-TR-L9","st_optmag":14.718,"st_vj":14.718,"st_dist":1627.63,"st_j":14.718,"st_mass":1.52,"dec":-61.1462496,"st_teff":6933,"st_rad":1.53,"ra":166.9798793,"system_radius":4607614.396,"pl_hostname":"OGLE2-TR-L9","stellar_type":"F","tic_id":"TIC 466840711","magnitude":14.718},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260493","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248327"}]}}
+{
+  "id": 260493,
+  "date": "2023-11-28T20:26:29",
+  "date_gmt": "2023-11-29T01:26:29",
+  "modified": "2025-04-23T05:53:21",
+  "modified_gmt": "2025-04-23T09:53:21",
+  "slug": "ogle2-tr-l9",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle2-tr-l9/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE2-TR-L9",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248327
+    ],
+    "exo_id": "OGLE2-TR-L9",
+    "st_optmag": 14.718,
+    "st_vj": 14.718,
+    "st_dist": 1627.63,
+    "st_j": 14.718,
+    "st_mass": 1.52,
+    "dec": -61.1462496,
+    "st_teff": 6933,
+    "st_rad": 1.53,
+    "ra": 166.9798793,
+    "system_radius": 4607614.396,
+    "pl_hostname": "OGLE2-TR-L9",
+    "stellar_type": "F",
+    "tic_id": "TIC 466840711",
+    "magnitude": 14.718
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260493",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248327"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":261296,"date":"2023-11-28T20:36:34","date_gmt":"2023-11-29T01:36:34","modified":"2025-04-23T05:56:19","modified_gmt":"2025-04-23T09:56:19","slug":"k2-196","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-196/","featured_media":0,"categories":[],"acf":{"display_name":"K2-196","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244851],"exo_id":"K2-196","st_optmag":12.241,"st_vj":12.241,"st_dist":584.877,"st_j":12.241,"st_mass":1.162095,"dec":-8.4717104,"st_teff":6045,"st_rad":1.538801,"ra":200.4562487,"system_radius":149597870,"pl_hostname":"K2-196","stellar_type":"F","tic_id":"TIC 178954837","magnitude":12.241},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261296","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244851"}]}}
+{
+  "id": 261296,
+  "date": "2023-11-28T20:36:34",
+  "date_gmt": "2023-11-29T01:36:34",
+  "modified": "2025-04-23T05:56:19",
+  "modified_gmt": "2025-04-23T09:56:19",
+  "slug": "k2-196",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-196/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-196",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244851
+    ],
+    "exo_id": "K2-196",
+    "st_optmag": 12.241,
+    "st_vj": 12.241,
+    "st_dist": 584.877,
+    "st_j": 12.241,
+    "st_mass": 1.162095,
+    "dec": -8.4717104,
+    "st_teff": 6045,
+    "st_rad": 1.538801,
+    "ra": 200.4562487,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-196",
+    "stellar_type": "F",
+    "tic_id": "TIC 178954837",
+    "magnitude": 12.241
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261296",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244851"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262883,"date":"2023-11-28T20:56:41","date_gmt":"2023-11-29T01:56:41","modified":"2025-04-23T05:55:27","modified_gmt":"2025-04-23T09:55:27","slug":"kepler-442","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-442/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-442","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247226],"exo_id":"Kepler-442","st_optmag":15.322,"st_vj":15.322,"st_dist":365.965,"st_j":15.322,"st_mass":0.609,"dec":39.2800704,"st_teff":4402,"st_rad":0.598,"ra":285.3666029,"system_radius":61185528.83,"pl_hostname":"Kepler-442","stellar_type":"K","tic_id":"TIC 120499135","magnitude":15.322},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262883","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247226"}]}}
+{
+  "id": 262883,
+  "date": "2023-11-28T20:56:41",
+  "date_gmt": "2023-11-29T01:56:41",
+  "modified": "2025-04-23T05:55:27",
+  "modified_gmt": "2025-04-23T09:55:27",
+  "slug": "kepler-442",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-442/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-442",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247226
+    ],
+    "exo_id": "Kepler-442",
+    "st_optmag": 15.322,
+    "st_vj": 15.322,
+    "st_dist": 365.965,
+    "st_j": 15.322,
+    "st_mass": 0.609,
+    "dec": 39.2800704,
+    "st_teff": 4402,
+    "st_rad": 0.598,
+    "ra": 285.3666029,
+    "system_radius": 61185528.83,
+    "pl_hostname": "Kepler-442",
+    "stellar_type": "K",
+    "tic_id": "TIC 120499135",
+    "magnitude": 15.322
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262883",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247226"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248863,"date":"2017-10-02T13:33:02","date_gmt":"2017-10-02T17:33:02","modified":"2025-07-07T20:41:02","modified_gmt":"2025-07-08T00:41:02","slug":"wasp-47-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-47-e/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-47","pl_letter":"e","display_name":"WASP-47 e","planet_radius":"1.83 x Earth","derived_description":"WASP-47 e is a super Earth exoplanet that orbits a G-type star. Its mass is 9 Earths, it takes 0.8 days to complete one orbit of its star, and is 0.01673 AU from its star. Its discovery was announced in 2015.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":264.78,"planet_mass":"9 Earths","st_optmag":11.936,"discovery_date":"2015","pl_orbsmax":0.01673,"period_display":"0.8 days","eccentricity":"0.0","star_id":260411,"pl_orbper":0.78961,"pl_kepflag":true,"pl_radj":0.16326195,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":1.83,"exo_id":"WASP-47_e","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248863","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260411"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248863,
+  "date": "2017-10-02T13:33:02",
+  "date_gmt": "2017-10-02T17:33:02",
+  "modified": "2025-07-07T20:41:02",
+  "modified_gmt": "2025-07-08T00:41:02",
+  "slug": "wasp-47-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-47-e/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-47",
+    "pl_letter": "e",
+    "display_name": "WASP-47 e",
+    "planet_radius": "1.83 x Earth",
+    "derived_description": "WASP-47 e is a super Earth exoplanet that orbits a G-type star. Its mass is 9 Earths, it takes 0.8 days to complete one orbit of its star, and is 0.01673 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 264.78,
+    "planet_mass": "9 Earths",
+    "st_optmag": 11.936,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.01673,
+    "period_display": "0.8 days",
+    "eccentricity": "0.0",
+    "star_id": 260411,
+    "pl_orbper": 0.78961,
+    "pl_kepflag": true,
+    "pl_radj": 0.16326195,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 1.83,
+    "exo_id": "WASP-47_e",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248863",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260411"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

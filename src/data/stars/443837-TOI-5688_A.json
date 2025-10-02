@@ -1,1 +1,71 @@
-{"id":443837,"date":"2025-01-15T02:00:49","date_gmt":"2025-01-15T07:00:49","modified":"2025-06-06T07:19:41","modified_gmt":"2025-06-06T11:19:41","slug":"toi-5688-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5688-a/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-5688 A","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[443845],"exo_id":"TOI-5688_A","st_optmag":15.78,"st_vj":15.78,"st_dist":226.318,"st_j":15.78,"st_mass":0.6,"dec":47.7050486,"st_teff":3713,"st_rad":0.57,"ra":266.9231001,"system_radius":5054912.0273,"pl_hostname":"TOI-5688_A","stellar_type":"M","tic_id":"TIC 193634953","magnitude":15.78},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/443837","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/443845"}]}}
+{
+  "id": 443837,
+  "date": "2025-01-15T02:00:49",
+  "date_gmt": "2025-01-15T07:00:49",
+  "modified": "2025-06-06T07:19:41",
+  "modified_gmt": "2025-06-06T11:19:41",
+  "slug": "toi-5688-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5688-a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5688 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      443845
+    ],
+    "exo_id": "TOI-5688_A",
+    "st_optmag": 15.78,
+    "st_vj": 15.78,
+    "st_dist": 226.318,
+    "st_j": 15.78,
+    "st_mass": 0.6,
+    "dec": 47.7050486,
+    "st_teff": 3713,
+    "st_rad": 0.57,
+    "ra": 266.9231001,
+    "system_radius": 5054912.0273,
+    "pl_hostname": "TOI-5688_A",
+    "stellar_type": "M",
+    "tic_id": "TIC 193634953",
+    "magnitude": 15.78
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/443837",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/443845"
+      }
+    ]
+  }
+}

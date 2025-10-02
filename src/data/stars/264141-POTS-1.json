@@ -1,1 +1,71 @@
-{"id":264141,"date":"2023-11-28T21:12:44","date_gmt":"2023-11-29T02:12:44","modified":"2025-04-23T05:57:16","modified_gmt":"2025-04-23T09:57:16","slug":"pots-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/pots-1/","featured_media":0,"categories":[],"acf":{"display_name":"POTS-1","custom_star_title":"","aliases":"","constellation":"Musca","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248345],"exo_id":"POTS-1","st_optmag":17.9083,"st_vj":17.9083,"st_dist":747.959,"st_j":17.9083,"st_mass":0.695,"dec":-66.5811639,"st_teff":4400,"st_rad":0.588,"ra":203.6087259,"system_radius":5585984.4658,"pl_hostname":"POTS-1","stellar_type":"K","tic_id":"TIC 341694238","magnitude":17.9083},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264141","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248345"}]}}
+{
+  "id": 264141,
+  "date": "2023-11-28T21:12:44",
+  "date_gmt": "2023-11-29T02:12:44",
+  "modified": "2025-04-23T05:57:16",
+  "modified_gmt": "2025-04-23T09:57:16",
+  "slug": "pots-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/pots-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "POTS-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Musca",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248345
+    ],
+    "exo_id": "POTS-1",
+    "st_optmag": 17.9083,
+    "st_vj": 17.9083,
+    "st_dist": 747.959,
+    "st_j": 17.9083,
+    "st_mass": 0.695,
+    "dec": -66.5811639,
+    "st_teff": 4400,
+    "st_rad": 0.588,
+    "ra": 203.6087259,
+    "system_radius": 5585984.4658,
+    "pl_hostname": "POTS-1",
+    "stellar_type": "K",
+    "tic_id": "TIC 341694238",
+    "magnitude": 17.9083
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264141",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248345"
+      }
+    ]
+  }
+}

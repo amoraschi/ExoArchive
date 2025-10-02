@@ -1,1 +1,71 @@
-{"id":264378,"date":"2023-11-28T21:15:46","date_gmt":"2023-11-29T02:15:46","modified":"2025-04-23T05:55:25","modified_gmt":"2025-04-23T09:55:25","slug":"kepler-1952","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1952/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1952","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246537],"exo_id":"Kepler-1952","st_optmag":13.828,"st_vj":13.828,"st_dist":852.062,"st_j":13.828,"st_mass":0.922,"dec":43.9584839,"st_teff":5973,"st_rad":1.305,"ra":288.0764082,"system_radius":25790672.788,"pl_hostname":"Kepler-1952","stellar_type":"F","tic_id":"TIC 158635959","magnitude":13.828},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264378","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246537"}]}}
+{
+  "id": 264378,
+  "date": "2023-11-28T21:15:46",
+  "date_gmt": "2023-11-29T02:15:46",
+  "modified": "2025-04-23T05:55:25",
+  "modified_gmt": "2025-04-23T09:55:25",
+  "slug": "kepler-1952",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1952/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1952",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246537
+    ],
+    "exo_id": "Kepler-1952",
+    "st_optmag": 13.828,
+    "st_vj": 13.828,
+    "st_dist": 852.062,
+    "st_j": 13.828,
+    "st_mass": 0.922,
+    "dec": 43.9584839,
+    "st_teff": 5973,
+    "st_rad": 1.305,
+    "ra": 288.0764082,
+    "system_radius": 25790672.788,
+    "pl_hostname": "Kepler-1952",
+    "stellar_type": "F",
+    "tic_id": "TIC 158635959",
+    "magnitude": 13.828
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264378",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246537"
+      }
+    ]
+  }
+}

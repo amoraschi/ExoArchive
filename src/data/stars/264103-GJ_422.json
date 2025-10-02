@@ -1,1 +1,71 @@
-{"id":264103,"date":"2023-11-28T21:12:14","date_gmt":"2023-11-29T02:12:14","modified":"2025-04-23T05:57:15","modified_gmt":"2025-04-23T09:57:15","slug":"gj_422","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_422/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 422","custom_star_title":"","aliases":"","constellation":"Carina","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243660],"exo_id":"GJ_422","st_optmag":11.66,"st_vj":11.66,"st_dist":12.6631,"st_j":11.66,"st_mass":0.35,"dec":-57.5425629,"st_teff":3323,"st_rad":0.370328,"ra":168.9810458,"system_radius":16605363.57,"pl_hostname":"GJ_422","stellar_type":"M","tic_id":"TIC 450545735","magnitude":11.66},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264103","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243660"}]}}
+{
+  "id": 264103,
+  "date": "2023-11-28T21:12:14",
+  "date_gmt": "2023-11-29T02:12:14",
+  "modified": "2025-04-23T05:57:15",
+  "modified_gmt": "2025-04-23T09:57:15",
+  "slug": "gj_422",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_422/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 422",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243660
+    ],
+    "exo_id": "GJ_422",
+    "st_optmag": 11.66,
+    "st_vj": 11.66,
+    "st_dist": 12.6631,
+    "st_j": 11.66,
+    "st_mass": 0.35,
+    "dec": -57.5425629,
+    "st_teff": 3323,
+    "st_rad": 0.370328,
+    "ra": 168.9810458,
+    "system_radius": 16605363.57,
+    "pl_hostname": "GJ_422",
+    "stellar_type": "M",
+    "tic_id": "TIC 450545735",
+    "magnitude": 11.66
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264103",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243660"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260842,"date":"2023-11-28T20:30:47","date_gmt":"2023-11-29T01:30:47","modified":"2025-04-23T05:54:56","modified_gmt":"2025-04-23T09:54:56","slug":"hats-66","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-66/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-66","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243853],"exo_id":"HATS-66","st_optmag":14.283,"st_vj":14.283,"st_dist":1477.98,"st_j":14.283,"st_mass":1.411,"dec":-33.8816918,"st_teff":6626,"st_rad":1.841,"ra":101.3948048,"system_radius":7052043.5918,"pl_hostname":"HATS-66","stellar_type":"F","tic_id":"TIC 52689469","magnitude":14.283},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260842","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243853"}]}}
+{
+  "id": 260842,
+  "date": "2023-11-28T20:30:47",
+  "date_gmt": "2023-11-29T01:30:47",
+  "modified": "2025-04-23T05:54:56",
+  "modified_gmt": "2025-04-23T09:54:56",
+  "slug": "hats-66",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-66/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-66",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243853
+    ],
+    "exo_id": "HATS-66",
+    "st_optmag": 14.283,
+    "st_vj": 14.283,
+    "st_dist": 1477.98,
+    "st_j": 14.283,
+    "st_mass": 1.411,
+    "dec": -33.8816918,
+    "st_teff": 6626,
+    "st_rad": 1.841,
+    "ra": 101.3948048,
+    "system_radius": 7052043.5918,
+    "pl_hostname": "HATS-66",
+    "stellar_type": "F",
+    "tic_id": "TIC 52689469",
+    "magnitude": 14.283
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260842",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243853"
+      }
+    ]
+  }
+}

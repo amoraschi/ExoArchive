@@ -1,1 +1,79 @@
-{"id":244239,"date":"2019-05-16T16:04:45","date_gmt":"2019-05-16T20:04:45","modified":"2024-10-25T05:11:18","modified_gmt":"2024-10-25T09:11:18","slug":"hd-206255-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-206255-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_206255","pl_letter":"b","display_name":"HD 206255 b","planet_radius":"0.577 x Jupiter (estimate)","derived_description":"HD 206255 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 34.2 Earths, it takes 96 days to complete one orbit of its star, and is 0.461 AU from its star. Its discovery was announced in 2019.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Las Campanas Observatory","st_dist":75.2363,"planet_mass":"34.2 Earths","st_optmag":7.62,"discovery_date":"2019","pl_orbsmax":0.461,"period_display":"96 days","eccentricity":"0.23","star_id":261132,"pl_orbper":96.045,"pl_kepflag":false,"pl_radj":0.577,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":86.92,"multiple_planet_system":false,"pl_rade":6.47,"exo_id":"HD_206255_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.23},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244239","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261132"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244239,
+  "date": "2019-05-16T16:04:45",
+  "date_gmt": "2019-05-16T20:04:45",
+  "modified": "2024-10-25T05:11:18",
+  "modified_gmt": "2024-10-25T09:11:18",
+  "slug": "hd-206255-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-206255-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_206255",
+    "pl_letter": "b",
+    "display_name": "HD 206255 b",
+    "planet_radius": "0.577 x Jupiter (estimate)",
+    "derived_description": "HD 206255 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 34.2 Earths, it takes 96 days to complete one orbit of its star, and is 0.461 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Las Campanas Observatory",
+    "st_dist": 75.2363,
+    "planet_mass": "34.2 Earths",
+    "st_optmag": 7.62,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.461,
+    "period_display": "96 days",
+    "eccentricity": "0.23",
+    "star_id": 261132,
+    "pl_orbper": 96.045,
+    "pl_kepflag": false,
+    "pl_radj": 0.577,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 86.92,
+    "multiple_planet_system": false,
+    "pl_rade": 6.47,
+    "exo_id": "HD_206255_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244239",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261132"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

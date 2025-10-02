@@ -1,1 +1,71 @@
-{"id":409975,"date":"2024-07-25T22:04:42","date_gmt":"2024-07-26T02:04:42","modified":"2025-04-23T05:55:16","modified_gmt":"2025-04-23T09:55:16","slug":"toi-1472","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1472/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1472","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410093],"exo_id":"TOI-1472","st_optmag":11.302,"st_vj":11.302,"st_dist":121.84,"st_j":11.302,"st_mass":0.9154,"dec":48.6375168,"st_teff":5133,"st_rad":0.8377,"ra":14.1142611,"system_radius":9723861.55,"pl_hostname":"TOI-1472","stellar_type":"K","tic_id":"TIC 306955329","magnitude":11.302},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409975","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410093"}]}}
+{
+  "id": 409975,
+  "date": "2024-07-25T22:04:42",
+  "date_gmt": "2024-07-26T02:04:42",
+  "modified": "2025-04-23T05:55:16",
+  "modified_gmt": "2025-04-23T09:55:16",
+  "slug": "toi-1472",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1472/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1472",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410093
+    ],
+    "exo_id": "TOI-1472",
+    "st_optmag": 11.302,
+    "st_vj": 11.302,
+    "st_dist": 121.84,
+    "st_j": 11.302,
+    "st_mass": 0.9154,
+    "dec": 48.6375168,
+    "st_teff": 5133,
+    "st_rad": 0.8377,
+    "ra": 14.1142611,
+    "system_radius": 9723861.55,
+    "pl_hostname": "TOI-1472",
+    "stellar_type": "K",
+    "tic_id": "TIC 306955329",
+    "magnitude": 11.302
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409975",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410093"
+      }
+    ]
+  }
+}

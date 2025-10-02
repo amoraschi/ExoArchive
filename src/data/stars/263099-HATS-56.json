@@ -1,1 +1,71 @@
-{"id":263099,"date":"2023-11-28T20:59:23","date_gmt":"2023-11-29T01:59:23","modified":"2025-04-23T05:55:58","modified_gmt":"2025-04-23T09:55:58","slug":"hats-56","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-56/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-56","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243841],"exo_id":"HATS-56","st_optmag":11.477,"st_vj":11.477,"st_dist":564.409,"st_j":11.477,"st_mass":1.573,"dec":-45.7994559,"st_teff":6536,"st_rad":2.201,"ra":180.165072,"system_radius":9040199.2841,"pl_hostname":"HATS-56","stellar_type":"F","tic_id":"TIC 272213425","magnitude":11.477},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263099","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243841"}]}}
+{
+  "id": 263099,
+  "date": "2023-11-28T20:59:23",
+  "date_gmt": "2023-11-29T01:59:23",
+  "modified": "2025-04-23T05:55:58",
+  "modified_gmt": "2025-04-23T09:55:58",
+  "slug": "hats-56",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-56/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-56",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243841
+    ],
+    "exo_id": "HATS-56",
+    "st_optmag": 11.477,
+    "st_vj": 11.477,
+    "st_dist": 564.409,
+    "st_j": 11.477,
+    "st_mass": 1.573,
+    "dec": -45.7994559,
+    "st_teff": 6536,
+    "st_rad": 2.201,
+    "ra": 180.165072,
+    "system_radius": 9040199.2841,
+    "pl_hostname": "HATS-56",
+    "stellar_type": "F",
+    "tic_id": "TIC 272213425",
+    "magnitude": 11.477
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263099",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243841"
+      }
+    ]
+  }
+}

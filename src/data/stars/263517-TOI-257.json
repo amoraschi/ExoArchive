@@ -1,1 +1,71 @@
-{"id":263517,"date":"2023-11-28T21:04:40","date_gmt":"2023-11-29T02:04:40","modified":"2025-04-23T05:56:09","modified_gmt":"2025-04-23T09:56:09","slug":"toi-257","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-257/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-257","custom_star_title":"","aliases":"","constellation":"Horologium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248566],"exo_id":"TOI-257","st_optmag":7.57,"st_vj":7.57,"st_dist":76.9028,"st_j":7.57,"st_mass":1.407,"dec":-50.8322632,"st_teff":6095,"st_rad":1.867,"ra":47.5172608,"system_radius":22858554.536,"pl_hostname":"TOI-257","stellar_type":"F","tic_id":"TIC 200723869","magnitude":7.57},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263517","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248566"}]}}
+{
+  "id": 263517,
+  "date": "2023-11-28T21:04:40",
+  "date_gmt": "2023-11-29T02:04:40",
+  "modified": "2025-04-23T05:56:09",
+  "modified_gmt": "2025-04-23T09:56:09",
+  "slug": "toi-257",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-257/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-257",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Horologium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248566
+    ],
+    "exo_id": "TOI-257",
+    "st_optmag": 7.57,
+    "st_vj": 7.57,
+    "st_dist": 76.9028,
+    "st_j": 7.57,
+    "st_mass": 1.407,
+    "dec": -50.8322632,
+    "st_teff": 6095,
+    "st_rad": 1.867,
+    "ra": 47.5172608,
+    "system_radius": 22858554.536,
+    "pl_hostname": "TOI-257",
+    "stellar_type": "F",
+    "tic_id": "TIC 200723869",
+    "magnitude": 7.57
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263517",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248566"
+      }
+    ]
+  }
+}

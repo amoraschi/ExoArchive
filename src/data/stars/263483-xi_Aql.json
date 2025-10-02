@@ -1,1 +1,71 @@
-{"id":263483,"date":"2023-11-28T21:04:14","date_gmt":"2023-11-29T02:04:14","modified":"2025-04-23T05:56:58","modified_gmt":"2025-04-23T09:56:58","slug":"xi_aql","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/xi_aql/","featured_media":0,"categories":[],"acf":{"display_name":"Xi Aquilae","custom_star_title":"","aliases":"","constellation":"Aquila","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248936],"exo_id":"xi_Aql","st_optmag":4.70964,"st_vj":4.70964,"st_dist":56.1858,"st_j":4.70964,"st_mass":1.74,"dec":8.4611051,"st_teff":4841,"st_rad":10.86,"ra":298.5624491,"system_radius":93498668.75,"pl_hostname":"xi_Aql","stellar_type":"K","tic_id":"TIC 375464367","magnitude":4.70964},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263483","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248936"}]}}
+{
+  "id": 263483,
+  "date": "2023-11-28T21:04:14",
+  "date_gmt": "2023-11-29T02:04:14",
+  "modified": "2025-04-23T05:56:58",
+  "modified_gmt": "2025-04-23T09:56:58",
+  "slug": "xi_aql",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/xi_aql/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Xi Aquilae",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquila",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248936
+    ],
+    "exo_id": "xi_Aql",
+    "st_optmag": 4.70964,
+    "st_vj": 4.70964,
+    "st_dist": 56.1858,
+    "st_j": 4.70964,
+    "st_mass": 1.74,
+    "dec": 8.4611051,
+    "st_teff": 4841,
+    "st_rad": 10.86,
+    "ra": 298.5624491,
+    "system_radius": 93498668.75,
+    "pl_hostname": "xi_Aql",
+    "stellar_type": "K",
+    "tic_id": "TIC 375464367",
+    "magnitude": 4.70964
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263483",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248936"
+      }
+    ]
+  }
+}

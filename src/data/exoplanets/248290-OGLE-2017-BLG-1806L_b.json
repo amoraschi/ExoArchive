@@ -1,1 +1,79 @@
-{"id":248290,"date":"2023-02-24T15:33:35","date_gmt":"2023-02-24T20:33:35","modified":"2024-10-25T10:07:50","modified_gmt":"2024-10-25T14:07:50","slug":"ogle-2017-blg-1806l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2017-blg-1806l-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2017-BLG-1806L","pl_letter":"b","display_name":"OGLE-2017-BLG-1806L b","planet_radius":"2.15 x Earth (estimate)","derived_description":"OGLE-2017-BLG-1806L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 5.27 Earths, it takes 3.8 years to complete one orbit of its star, and is 1.75 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":6400,"planet_mass":"5.27 Earths","st_optmag":"","discovery_date":"2023","pl_orbsmax":1.75,"period_display":"3.8 years","eccentricity":"","star_id":264467,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.192,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.15,"exo_id":"OGLE-2017-BLG-1806L_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248290","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264467"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248290,
+  "date": "2023-02-24T15:33:35",
+  "date_gmt": "2023-02-24T20:33:35",
+  "modified": "2024-10-25T10:07:50",
+  "modified_gmt": "2024-10-25T14:07:50",
+  "slug": "ogle-2017-blg-1806l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2017-blg-1806l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2017-BLG-1806L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2017-BLG-1806L b",
+    "planet_radius": "2.15 x Earth (estimate)",
+    "derived_description": "OGLE-2017-BLG-1806L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 5.27 Earths, it takes 3.8 years to complete one orbit of its star, and is 1.75 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 6400,
+    "planet_mass": "5.27 Earths",
+    "st_optmag": "",
+    "discovery_date": "2023",
+    "pl_orbsmax": 1.75,
+    "period_display": "3.8 years",
+    "eccentricity": "",
+    "star_id": 264467,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.192,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.15,
+    "exo_id": "OGLE-2017-BLG-1806L_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248290",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264467"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

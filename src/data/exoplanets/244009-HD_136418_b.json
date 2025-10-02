@@ -1,1 +1,79 @@
-{"id":244009,"date":"2019-04-22T16:48:45","date_gmt":"2019-04-22T20:48:45","modified":"2024-10-24T18:00:17","modified_gmt":"2024-10-24T22:00:17","slug":"hd-136418-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-136418-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_136418","pl_letter":"b","display_name":"HD 136418 b","planet_radius":"1.19 x Jupiter (estimate)","derived_description":"HD 136418 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.14 Jupiters, it takes 464.3 days to complete one orbit of its star, and is 1.29 AU from its star. Its discovery was announced in 2009.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":105.168,"planet_mass":"2.14 Jupiters","st_optmag":7.849,"discovery_date":"2009","pl_orbsmax":1.29,"period_display":"464.3 days","eccentricity":"0.25","star_id":262311,"pl_orbper":464.29999,"pl_kepflag":false,"pl_radj":1.19,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":12,"multiple_planet_system":false,"pl_rade":13.3,"exo_id":"HD_136418_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.25},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244009","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262311"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244009,
+  "date": "2019-04-22T16:48:45",
+  "date_gmt": "2019-04-22T20:48:45",
+  "modified": "2024-10-24T18:00:17",
+  "modified_gmt": "2024-10-24T22:00:17",
+  "slug": "hd-136418-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-136418-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_136418",
+    "pl_letter": "b",
+    "display_name": "HD 136418 b",
+    "planet_radius": "1.19 x Jupiter (estimate)",
+    "derived_description": "HD 136418 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.14 Jupiters, it takes 464.3 days to complete one orbit of its star, and is 1.29 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 105.168,
+    "planet_mass": "2.14 Jupiters",
+    "st_optmag": 7.849,
+    "discovery_date": "2009",
+    "pl_orbsmax": 1.29,
+    "period_display": "464.3 days",
+    "eccentricity": "0.25",
+    "star_id": 262311,
+    "pl_orbper": 464.29999,
+    "pl_kepflag": false,
+    "pl_radj": 1.19,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 12,
+    "multiple_planet_system": false,
+    "pl_rade": 13.3,
+    "exo_id": "HD_136418_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.25
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244009",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262311"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":439673,"date":"2024-12-13T02:36:49","date_gmt":"2024-12-13T07:36:49","modified":"2025-09-17T23:33:21","modified_gmt":"2025-09-18T03:33:21","slug":"toi-6054-02","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-6054-02/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-6054","pl_letter":"c","display_name":"TOI-6054.02","planet_radius":"0.25158398 x Jupiter","derived_description":"TOI-6054.02 is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.3 Earths, it takes 12.6 days to complete one orbit of its star, and is 0.1079 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":79.407,"planet_mass":"9.3 Earths","st_optmag":8.020001,"discovery_date":"2024","pl_orbsmax":0.1079,"period_display":"12.6 days","eccentricity":"0.33","star_id":439629,"pl_orbper":12.563636,"pl_kepflag":false,"pl_radj":0.25158398,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":-163,"multiple_planet_system":false,"pl_rade":2.82,"exo_id":"TOI-6054.02","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.332},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439673","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/439629"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 439673,
+  "date": "2024-12-13T02:36:49",
+  "date_gmt": "2024-12-13T07:36:49",
+  "modified": "2025-09-17T23:33:21",
+  "modified_gmt": "2025-09-18T03:33:21",
+  "slug": "toi-6054-02",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-6054-02/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-6054",
+    "pl_letter": "c",
+    "display_name": "TOI-6054.02",
+    "planet_radius": "0.25158398 x Jupiter",
+    "derived_description": "TOI-6054.02 is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.3 Earths, it takes 12.6 days to complete one orbit of its star, and is 0.1079 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 79.407,
+    "planet_mass": "9.3 Earths",
+    "st_optmag": 8.020001,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.1079,
+    "period_display": "12.6 days",
+    "eccentricity": "0.33",
+    "star_id": 439629,
+    "pl_orbper": 12.563636,
+    "pl_kepflag": false,
+    "pl_radj": 0.25158398,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": -163,
+    "multiple_planet_system": false,
+    "pl_rade": 2.82,
+    "exo_id": "TOI-6054.02",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.332
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439673",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439629"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

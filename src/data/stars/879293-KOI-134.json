@@ -1,1 +1,82 @@
-{"id":879293,"date":"2025-07-17T20:19:03","date_gmt":"2025-07-18T00:19:03","modified":"2025-07-17T20:19:03","modified_gmt":"2025-07-18T00:19:03","slug":"koi-134","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/koi-134/","featured_media":429647,"categories":[],"acf":{"display_name":"KOI-134","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":879301,"1":879300},"exo_id":"KOI-134","st_optmag":13.773,"st_vj":13.773,"st_dist":1159.21,"st_j":13.773,"st_mass":1.407,"dec":45.3649371,"st_teff":6160,"st_rad":1.667,"ra":295.586598,"system_radius":54304026.81,"pl_hostname":"KOI-134","stellar_type":"F","tic_id":"TIC 271772050","magnitude":13.773},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/879293","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/879301"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/879300"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 879293,
+  "date": "2025-07-17T20:19:03",
+  "date_gmt": "2025-07-18T00:19:03",
+  "modified": "2025-07-17T20:19:03",
+  "modified_gmt": "2025-07-18T00:19:03",
+  "slug": "koi-134",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-134/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-134",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 879301,
+      "1": 879300
+    },
+    "exo_id": "KOI-134",
+    "st_optmag": 13.773,
+    "st_vj": 13.773,
+    "st_dist": 1159.21,
+    "st_j": 13.773,
+    "st_mass": 1.407,
+    "dec": 45.3649371,
+    "st_teff": 6160,
+    "st_rad": 1.667,
+    "ra": 295.586598,
+    "system_radius": 54304026.81,
+    "pl_hostname": "KOI-134",
+    "stellar_type": "F",
+    "tic_id": "TIC 271772050",
+    "magnitude": 13.773
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/879293",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/879301"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/879300"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

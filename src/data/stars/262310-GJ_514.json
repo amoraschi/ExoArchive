@@ -1,1 +1,71 @@
-{"id":262310,"date":"2023-11-28T20:49:22","date_gmt":"2023-11-29T01:49:22","modified":"2025-04-23T05:56:01","modified_gmt":"2025-04-23T09:56:01","slug":"gj_514","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_514/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 514","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243670],"exo_id":"GJ_514","st_optmag":9.05,"st_vj":9.05,"st_dist":7.61778,"st_j":9.05,"st_mass":0.51,"dec":10.3725387,"st_teff":3728,"st_rad":0.5,"ra":202.5040424,"system_radius":63130301.14,"pl_hostname":"GJ_514","stellar_type":"M","tic_id":"TIC 404519959","magnitude":9.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262310","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243670"}]}}
+{
+  "id": 262310,
+  "date": "2023-11-28T20:49:22",
+  "date_gmt": "2023-11-29T01:49:22",
+  "modified": "2025-04-23T05:56:01",
+  "modified_gmt": "2025-04-23T09:56:01",
+  "slug": "gj_514",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_514/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 514",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243670
+    ],
+    "exo_id": "GJ_514",
+    "st_optmag": 9.05,
+    "st_vj": 9.05,
+    "st_dist": 7.61778,
+    "st_j": 9.05,
+    "st_mass": 0.51,
+    "dec": 10.3725387,
+    "st_teff": 3728,
+    "st_rad": 0.5,
+    "ra": 202.5040424,
+    "system_radius": 63130301.14,
+    "pl_hostname": "GJ_514",
+    "stellar_type": "M",
+    "tic_id": "TIC 404519959",
+    "magnitude": 9.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262310",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243670"
+      }
+    ]
+  }
+}

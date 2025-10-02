@@ -1,1 +1,71 @@
-{"id":263175,"date":"2023-11-28T21:00:21","date_gmt":"2023-11-29T02:00:21","modified":"2025-04-23T05:56:50","modified_gmt":"2025-04-23T09:56:50","slug":"toi-277","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-277/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-277","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248577],"exo_id":"TOI-277","st_optmag":13.632,"st_vj":13.632,"st_dist":64.6692,"st_j":13.632,"st_mass":0.16,"dec":-20.9532772,"st_teff":4031,"st_rad":0.362,"ra":19.0766985,"system_radius":4024182.703,"pl_hostname":"TOI-277","stellar_type":"K","tic_id":"TIC 439456714","magnitude":13.632},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263175","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248577"}]}}
+{
+  "id": 263175,
+  "date": "2023-11-28T21:00:21",
+  "date_gmt": "2023-11-29T02:00:21",
+  "modified": "2025-04-23T05:56:50",
+  "modified_gmt": "2025-04-23T09:56:50",
+  "slug": "toi-277",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-277/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-277",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248577
+    ],
+    "exo_id": "TOI-277",
+    "st_optmag": 13.632,
+    "st_vj": 13.632,
+    "st_dist": 64.6692,
+    "st_j": 13.632,
+    "st_mass": 0.16,
+    "dec": -20.9532772,
+    "st_teff": 4031,
+    "st_rad": 0.362,
+    "ra": 19.0766985,
+    "system_radius": 4024182.703,
+    "pl_hostname": "TOI-277",
+    "stellar_type": "K",
+    "tic_id": "TIC 439456714",
+    "magnitude": 13.632
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263175",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248577"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248500,"date":"2023-09-21T19:31:25","date_gmt":"2023-09-21T23:31:25","modified":"2025-07-07T20:37:59","modified_gmt":"2025-07-08T00:37:59","slug":"toi-1853-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1853-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1853","pl_letter":"b","display_name":"TOI-1853 b","planet_radius":"0.30868106 x Jupiter","derived_description":"TOI-1853 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.23031296 Jupiters, it takes 1.2 days to complete one orbit of its star, and is 0.0213 AU from its star. Its discovery was announced in 2023.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":165.105,"planet_mass":"0.23031296 Jupiters","st_optmag":12.178,"discovery_date":"2023","pl_orbsmax":0.0213,"period_display":"1.2 days","eccentricity":"< 0.03","star_id":263187,"pl_orbper":1.2436258,"pl_kepflag":false,"pl_radj":0.30868106,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.46,"exo_id":"TOI-1853_b","planet_size_class":"sub-Jovian","pl_eccenlim":0.03,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248500","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263187"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248500,
+  "date": "2023-09-21T19:31:25",
+  "date_gmt": "2023-09-21T23:31:25",
+  "modified": "2025-07-07T20:37:59",
+  "modified_gmt": "2025-07-08T00:37:59",
+  "slug": "toi-1853-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1853-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1853",
+    "pl_letter": "b",
+    "display_name": "TOI-1853 b",
+    "planet_radius": "0.30868106 x Jupiter",
+    "derived_description": "TOI-1853 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.23031296 Jupiters, it takes 1.2 days to complete one orbit of its star, and is 0.0213 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 165.105,
+    "planet_mass": "0.23031296 Jupiters",
+    "st_optmag": 12.178,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.0213,
+    "period_display": "1.2 days",
+    "eccentricity": "< 0.03",
+    "star_id": 263187,
+    "pl_orbper": 1.2436258,
+    "pl_kepflag": false,
+    "pl_radj": 0.30868106,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.46,
+    "exo_id": "TOI-1853_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0.03,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248500",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263187"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

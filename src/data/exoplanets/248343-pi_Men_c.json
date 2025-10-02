@@ -1,1 +1,79 @@
-{"id":248343,"date":"2019-04-22T16:49:28","date_gmt":"2019-04-22T20:49:28","modified":"2025-09-25T23:55:35","modified_gmt":"2025-09-26T03:55:35","slug":"pi-mensae-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/pi-mensae-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_39091","pl_letter":"c","display_name":"Pi Mensae c","planet_radius":"2.0189 x Earth","derived_description":"Pi Mensae c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 3.63 Earths, it takes 6.3 days to complete one orbit of its star, and is 0.06839 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":18.2874,"planet_mass":"3.63 Earths","st_optmag":5.666,"discovery_date":"2018","pl_orbsmax":0.06839,"period_display":"6.3 days","eccentricity":"0.0","star_id":262540,"pl_orbper":6.2678399,"pl_kepflag":false,"pl_radj":0.1801145,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":0,"multiple_planet_system":false,"pl_rade":2.0189,"exo_id":"pi_Men_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248343","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262540"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248343,
+  "date": "2019-04-22T16:49:28",
+  "date_gmt": "2019-04-22T20:49:28",
+  "modified": "2025-09-25T23:55:35",
+  "modified_gmt": "2025-09-26T03:55:35",
+  "slug": "pi-mensae-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/pi-mensae-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_39091",
+    "pl_letter": "c",
+    "display_name": "Pi Mensae c",
+    "planet_radius": "2.0189 x Earth",
+    "derived_description": "Pi Mensae c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 3.63 Earths, it takes 6.3 days to complete one orbit of its star, and is 0.06839 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 18.2874,
+    "planet_mass": "3.63 Earths",
+    "st_optmag": 5.666,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.06839,
+    "period_display": "6.3 days",
+    "eccentricity": "0.0",
+    "star_id": 262540,
+    "pl_orbper": 6.2678399,
+    "pl_kepflag": false,
+    "pl_radj": 0.1801145,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 2.0189,
+    "exo_id": "pi_Men_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248343",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262540"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

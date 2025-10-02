@@ -1,1 +1,71 @@
-{"id":262236,"date":"2023-11-28T20:48:26","date_gmt":"2023-11-29T01:48:26","modified":"2025-04-23T05:55:34","modified_gmt":"2025-04-23T09:55:34","slug":"ngts-6","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngts-6/","featured_media":0,"categories":[],"acf":{"display_name":"NGTS-6","custom_star_title":"","aliases":"","constellation":"Caelum","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248220],"exo_id":"NGTS-6","st_optmag":14.237,"st_vj":14.237,"st_dist":308.262,"st_j":14.237,"st_mass":0.767,"dec":-30.3994612,"st_teff":4730,"st_rad":0.754,"ra":75.795382,"system_radius":2508756.2799,"pl_hostname":"NGTS-6","stellar_type":"K","tic_id":"TIC 1528696","magnitude":14.237},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262236","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248220"}]}}
+{
+  "id": 262236,
+  "date": "2023-11-28T20:48:26",
+  "date_gmt": "2023-11-29T01:48:26",
+  "modified": "2025-04-23T05:55:34",
+  "modified_gmt": "2025-04-23T09:55:34",
+  "slug": "ngts-6",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-6/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-6",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Caelum",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248220
+    ],
+    "exo_id": "NGTS-6",
+    "st_optmag": 14.237,
+    "st_vj": 14.237,
+    "st_dist": 308.262,
+    "st_j": 14.237,
+    "st_mass": 0.767,
+    "dec": -30.3994612,
+    "st_teff": 4730,
+    "st_rad": 0.754,
+    "ra": 75.795382,
+    "system_radius": 2508756.2799,
+    "pl_hostname": "NGTS-6",
+    "stellar_type": "K",
+    "tic_id": "TIC 1528696",
+    "magnitude": 14.237
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262236",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248220"
+      }
+    ]
+  }
+}

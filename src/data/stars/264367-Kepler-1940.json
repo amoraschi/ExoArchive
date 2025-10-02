@@ -1,1 +1,71 @@
-{"id":264367,"date":"2023-11-28T21:15:38","date_gmt":"2023-11-29T02:15:38","modified":"2025-04-23T05:55:03","modified_gmt":"2025-04-23T09:55:03","slug":"kepler-1940","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1940/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1940","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246522],"exo_id":"Kepler-1940","st_optmag":15.674,"st_vj":15.674,"st_dist":798.595,"st_j":15.674,"st_mass":0.802,"dec":45.2383344,"st_teff":5431,"st_rad":0.717,"ra":291.2042027,"system_radius":7853888.175,"pl_hostname":"Kepler-1940","stellar_type":"G","tic_id":"TIC 159647359","magnitude":15.674},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264367","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246522"}]}}
+{
+  "id": 264367,
+  "date": "2023-11-28T21:15:38",
+  "date_gmt": "2023-11-29T02:15:38",
+  "modified": "2025-04-23T05:55:03",
+  "modified_gmt": "2025-04-23T09:55:03",
+  "slug": "kepler-1940",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1940/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1940",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246522
+    ],
+    "exo_id": "Kepler-1940",
+    "st_optmag": 15.674,
+    "st_vj": 15.674,
+    "st_dist": 798.595,
+    "st_j": 15.674,
+    "st_mass": 0.802,
+    "dec": 45.2383344,
+    "st_teff": 5431,
+    "st_rad": 0.717,
+    "ra": 291.2042027,
+    "system_radius": 7853888.175,
+    "pl_hostname": "Kepler-1940",
+    "stellar_type": "G",
+    "tic_id": "TIC 159647359",
+    "magnitude": 15.674
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264367",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246522"
+      }
+    ]
+  }
+}

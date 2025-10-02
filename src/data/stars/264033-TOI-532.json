@@ -1,1 +1,71 @@
-{"id":264033,"date":"2023-11-28T21:11:20","date_gmt":"2023-11-29T02:11:20","modified":"2025-06-06T07:20:07","modified_gmt":"2025-06-06T11:20:07","slug":"toi-532","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-532/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-532","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248651],"exo_id":"TOI-532","st_optmag":14.413,"st_vj":14.413,"st_dist":135.047,"st_j":14.413,"st_mass":0.639,"dec":11.5626373,"st_teff":3927,"st_rad":0.612,"ra":85.0800537,"system_radius":4428096.952,"pl_hostname":"TOI-532","stellar_type":"K","tic_id":"TIC 144700903","magnitude":14.413},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264033","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248651"}]}}
+{
+  "id": 264033,
+  "date": "2023-11-28T21:11:20",
+  "date_gmt": "2023-11-29T02:11:20",
+  "modified": "2025-06-06T07:20:07",
+  "modified_gmt": "2025-06-06T11:20:07",
+  "slug": "toi-532",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-532/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-532",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248651
+    ],
+    "exo_id": "TOI-532",
+    "st_optmag": 14.413,
+    "st_vj": 14.413,
+    "st_dist": 135.047,
+    "st_j": 14.413,
+    "st_mass": 0.639,
+    "dec": 11.5626373,
+    "st_teff": 3927,
+    "st_rad": 0.612,
+    "ra": 85.0800537,
+    "system_radius": 4428096.952,
+    "pl_hostname": "TOI-532",
+    "stellar_type": "K",
+    "tic_id": "TIC 144700903",
+    "magnitude": 14.413
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264033",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248651"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248872,"date":"2017-10-02T13:32:45","date_gmt":"2017-10-02T17:32:45","modified":"2025-03-28T07:28:42","modified_gmt":"2025-03-28T11:28:42","slug":"wasp-55-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-55-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-55","pl_letter":"b","display_name":"WASP-55 b","planet_radius":"1.33 x Jupiter","derived_description":"WASP-55 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.61 Jupiters, it takes 4.5 days to complete one orbit of its star, and is 0.0558 AU from its star. Its discovery was announced in 2012.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP","st_dist":297.462,"planet_mass":"0.61 Jupiters","st_optmag":11.753,"discovery_date":"2012","pl_orbsmax":0.0558,"period_display":"4.5 days","eccentricity":"0.0","star_id":263012,"pl_orbper":4.46563,"pl_kepflag":false,"pl_radj":1.33,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":14.90797,"exo_id":"WASP-55_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248872","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263012"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248872,
+  "date": "2017-10-02T13:32:45",
+  "date_gmt": "2017-10-02T17:32:45",
+  "modified": "2025-03-28T07:28:42",
+  "modified_gmt": "2025-03-28T11:28:42",
+  "slug": "wasp-55-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-55-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-55",
+    "pl_letter": "b",
+    "display_name": "WASP-55 b",
+    "planet_radius": "1.33 x Jupiter",
+    "derived_description": "WASP-55 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.61 Jupiters, it takes 4.5 days to complete one orbit of its star, and is 0.0558 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP",
+    "st_dist": 297.462,
+    "planet_mass": "0.61 Jupiters",
+    "st_optmag": 11.753,
+    "discovery_date": "2012",
+    "pl_orbsmax": 0.0558,
+    "period_display": "4.5 days",
+    "eccentricity": "0.0",
+    "star_id": 263012,
+    "pl_orbper": 4.46563,
+    "pl_kepflag": false,
+    "pl_radj": 1.33,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 14.90797,
+    "exo_id": "WASP-55_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248872",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263012"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":246792,"date":"2017-10-02T13:32:51","date_gmt":"2017-10-02T17:32:51","modified":"2025-07-07T20:42:46","modified_gmt":"2025-07-08T00:42:46","slug":"kepler-260-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-260-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-260","pl_letter":"c","display_name":"Kepler-260 c","planet_radius":"1.74 x Earth","derived_description":"Kepler-260 c is a super Earth exoplanet that orbits a K-type star. Its mass is 3.68 Earths, it takes 76.1 days to complete one orbit of its star, and is 0.332 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":627.365,"planet_mass":"3.68 Earths","st_optmag":14.253,"discovery_date":"2014","pl_orbsmax":0.332,"period_display":"76.1 days","eccentricity":"0.0","star_id":263449,"pl_orbper":76.050178,"pl_kepflag":true,"pl_radj":0.155,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.74,"exo_id":"Kepler-260_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246792","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263449"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246792,
+  "date": "2017-10-02T13:32:51",
+  "date_gmt": "2017-10-02T17:32:51",
+  "modified": "2025-07-07T20:42:46",
+  "modified_gmt": "2025-07-08T00:42:46",
+  "slug": "kepler-260-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-260-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-260",
+    "pl_letter": "c",
+    "display_name": "Kepler-260 c",
+    "planet_radius": "1.74 x Earth",
+    "derived_description": "Kepler-260 c is a super Earth exoplanet that orbits a K-type star. Its mass is 3.68 Earths, it takes 76.1 days to complete one orbit of its star, and is 0.332 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 627.365,
+    "planet_mass": "3.68 Earths",
+    "st_optmag": 14.253,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.332,
+    "period_display": "76.1 days",
+    "eccentricity": "0.0",
+    "star_id": 263449,
+    "pl_orbper": 76.050178,
+    "pl_kepflag": true,
+    "pl_radj": 0.155,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.74,
+    "exo_id": "Kepler-260_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246792",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263449"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":246737,"date":"2017-10-02T13:32:47","date_gmt":"2017-10-02T17:32:47","modified":"2025-07-07T17:55:46","modified_gmt":"2025-07-07T21:55:46","slug":"kepler-243-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-243-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-243","pl_letter":"c","display_name":"Kepler-243 c","planet_radius":"1.99 x Earth","derived_description":"Kepler-243 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.62 Earths, it takes 20 days to complete one orbit of its star, and is 0.142 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":693.86,"planet_mass":"4.62 Earths","st_optmag":15.159,"discovery_date":"2014","pl_orbsmax":0.142,"period_display":"20 days","eccentricity":"0.0","star_id":261075,"pl_orbper":20.026218,"pl_kepflag":true,"pl_radj":0.178,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.99,"exo_id":"Kepler-243_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246737","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261075"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246737,
+  "date": "2017-10-02T13:32:47",
+  "date_gmt": "2017-10-02T17:32:47",
+  "modified": "2025-07-07T17:55:46",
+  "modified_gmt": "2025-07-07T21:55:46",
+  "slug": "kepler-243-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-243-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-243",
+    "pl_letter": "c",
+    "display_name": "Kepler-243 c",
+    "planet_radius": "1.99 x Earth",
+    "derived_description": "Kepler-243 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.62 Earths, it takes 20 days to complete one orbit of its star, and is 0.142 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 693.86,
+    "planet_mass": "4.62 Earths",
+    "st_optmag": 15.159,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.142,
+    "period_display": "20 days",
+    "eccentricity": "0.0",
+    "star_id": 261075,
+    "pl_orbper": 20.026218,
+    "pl_kepflag": true,
+    "pl_radj": 0.178,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.99,
+    "exo_id": "Kepler-243_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246737",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261075"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

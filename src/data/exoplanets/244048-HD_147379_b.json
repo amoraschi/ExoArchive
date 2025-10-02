@@ -1,1 +1,79 @@
-{"id":244048,"date":"2019-04-22T16:49:30","date_gmt":"2019-04-22T20:49:30","modified":"2024-10-25T05:03:33","modified_gmt":"2024-10-25T09:03:33","slug":"hd-147379-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-147379-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_147379","pl_letter":"b","display_name":"HD 147379 b","planet_radius":"0.44 x Jupiter (estimate)","derived_description":"HD 147379 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 21.6 Earths, it takes 86.6 days to complete one orbit of its star, and is 0.3193 AU from its star. Its discovery was announced in 2017.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Calar Alto Observatory","st_dist":10.7643,"planet_mass":"21.6 Earths","st_optmag":8.61,"discovery_date":"2017","pl_orbsmax":0.3193,"period_display":"86.6 days","eccentricity":"0.06","star_id":263205,"pl_orbper":86.58,"pl_kepflag":false,"pl_radj":0.44,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":130.1,"multiple_planet_system":false,"pl_rade":4.94,"exo_id":"HD_147379_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.063},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244048","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263205"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244048,
+  "date": "2019-04-22T16:49:30",
+  "date_gmt": "2019-04-22T20:49:30",
+  "modified": "2024-10-25T05:03:33",
+  "modified_gmt": "2024-10-25T09:03:33",
+  "slug": "hd-147379-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-147379-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_147379",
+    "pl_letter": "b",
+    "display_name": "HD 147379 b",
+    "planet_radius": "0.44 x Jupiter (estimate)",
+    "derived_description": "HD 147379 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 21.6 Earths, it takes 86.6 days to complete one orbit of its star, and is 0.3193 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Calar Alto Observatory",
+    "st_dist": 10.7643,
+    "planet_mass": "21.6 Earths",
+    "st_optmag": 8.61,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.3193,
+    "period_display": "86.6 days",
+    "eccentricity": "0.06",
+    "star_id": 263205,
+    "pl_orbper": 86.58,
+    "pl_kepflag": false,
+    "pl_radj": 0.44,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": 130.1,
+    "multiple_planet_system": false,
+    "pl_rade": 4.94,
+    "exo_id": "HD_147379_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.063
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244048",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263205"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

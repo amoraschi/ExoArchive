@@ -1,1 +1,71 @@
-{"id":262138,"date":"2023-11-28T20:47:11","date_gmt":"2023-11-29T01:47:11","modified":"2025-04-23T05:55:42","modified_gmt":"2025-04-23T09:55:42","slug":"kepler-496","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-496/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-496","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247306],"exo_id":"Kepler-496","st_optmag":15.106,"st_vj":15.106,"st_dist":605.274,"st_j":15.106,"st_mass":0.86,"dec":41.2411044,"st_teff":5293,"st_rad":0.82,"ra":291.6408978,"system_radius":11174960.889,"pl_hostname":"Kepler-496","stellar_type":"K","tic_id":"TIC 137341066","magnitude":15.106},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262138","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247306"}]}}
+{
+  "id": 262138,
+  "date": "2023-11-28T20:47:11",
+  "date_gmt": "2023-11-29T01:47:11",
+  "modified": "2025-04-23T05:55:42",
+  "modified_gmt": "2025-04-23T09:55:42",
+  "slug": "kepler-496",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-496/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-496",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247306
+    ],
+    "exo_id": "Kepler-496",
+    "st_optmag": 15.106,
+    "st_vj": 15.106,
+    "st_dist": 605.274,
+    "st_j": 15.106,
+    "st_mass": 0.86,
+    "dec": 41.2411044,
+    "st_teff": 5293,
+    "st_rad": 0.82,
+    "ra": 291.6408978,
+    "system_radius": 11174960.889,
+    "pl_hostname": "Kepler-496",
+    "stellar_type": "K",
+    "tic_id": "TIC 137341066",
+    "magnitude": 15.106
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262138",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247306"
+      }
+    ]
+  }
+}

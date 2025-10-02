@@ -1,1 +1,79 @@
-{"id":245029,"date":"2021-08-26T13:34:05","date_gmt":"2021-08-26T17:34:05","modified":"2025-07-07T20:35:10","modified_gmt":"2025-07-08T00:35:10","slug":"k2-343-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-343-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-343","pl_letter":"c","display_name":"K2-343 c","planet_radius":"2.02 x Earth","derived_description":"K2-343 c is a super Earth exoplanet that orbits a M-type star. Its mass is 4.74 Earths, it takes 7.7 days to complete one orbit of its star, and is 0.060042689842543 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":166.169,"planet_mass":"4.74 Earths","st_optmag":16.01,"discovery_date":"2021","pl_orbsmax":"","period_display":"7.7 days","eccentricity":"","star_id":264241,"pl_orbper":7.676972,"pl_kepflag":true,"pl_radj":0.18021264,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.02,"exo_id":"K2-343_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245029","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264241"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245029,
+  "date": "2021-08-26T13:34:05",
+  "date_gmt": "2021-08-26T17:34:05",
+  "modified": "2025-07-07T20:35:10",
+  "modified_gmt": "2025-07-08T00:35:10",
+  "slug": "k2-343-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-343-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-343",
+    "pl_letter": "c",
+    "display_name": "K2-343 c",
+    "planet_radius": "2.02 x Earth",
+    "derived_description": "K2-343 c is a super Earth exoplanet that orbits a M-type star. Its mass is 4.74 Earths, it takes 7.7 days to complete one orbit of its star, and is 0.060042689842543 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 166.169,
+    "planet_mass": "4.74 Earths",
+    "st_optmag": 16.01,
+    "discovery_date": "2021",
+    "pl_orbsmax": "",
+    "period_display": "7.7 days",
+    "eccentricity": "",
+    "star_id": 264241,
+    "pl_orbper": 7.676972,
+    "pl_kepflag": true,
+    "pl_radj": 0.18021264,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.02,
+    "exo_id": "K2-343_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245029",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264241"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

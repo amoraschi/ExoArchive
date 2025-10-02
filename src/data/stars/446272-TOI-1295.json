@@ -1,1 +1,77 @@
-{"id":446272,"date":"2025-01-25T02:18:26","date_gmt":"2025-01-25T07:18:26","modified":"2025-04-23T05:57:23","modified_gmt":"2025-04-23T09:57:23","slug":"toi-1295","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1295/","featured_media":429647,"categories":[],"acf":{"display_name":"TOI-1295","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[446280],"exo_id":"TOI-1295","st_optmag":11.303,"st_vj":11.303,"st_dist":388.227,"st_j":11.303,"st_mass":1.38,"dec":67.8715032,"st_teff":6280,"st_rad":1.7,"ra":256.6722026,"system_radius":7031099.89,"pl_hostname":"TOI-1295","stellar_type":"F","tic_id":"TIC 219852584","magnitude":11.303},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/446272","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/446280"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 446272,
+  "date": "2025-01-25T02:18:26",
+  "date_gmt": "2025-01-25T07:18:26",
+  "modified": "2025-04-23T05:57:23",
+  "modified_gmt": "2025-04-23T09:57:23",
+  "slug": "toi-1295",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1295/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1295",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      446280
+    ],
+    "exo_id": "TOI-1295",
+    "st_optmag": 11.303,
+    "st_vj": 11.303,
+    "st_dist": 388.227,
+    "st_j": 11.303,
+    "st_mass": 1.38,
+    "dec": 67.8715032,
+    "st_teff": 6280,
+    "st_rad": 1.7,
+    "ra": 256.6722026,
+    "system_radius": 7031099.89,
+    "pl_hostname": "TOI-1295",
+    "stellar_type": "F",
+    "tic_id": "TIC 219852584",
+    "magnitude": 11.303
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/446272",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/446280"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

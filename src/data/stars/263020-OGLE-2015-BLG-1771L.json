@@ -1,1 +1,71 @@
-{"id":263020,"date":"2023-11-28T20:58:24","date_gmt":"2023-11-29T01:58:24","modified":"2025-04-23T05:56:40","modified_gmt":"2025-04-23T09:56:40","slug":"ogle-2015-blg-1771l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2015-blg-1771l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2015-BLG-1771L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248270],"exo_id":"OGLE-2015-BLG-1771L","st_optmag":"","st_vj":"","st_dist":7070,"st_j":"","st_mass":0.077,"dec":-28.86275,"st_teff":"","st_rad":"","ra":268.799,"system_radius":127158189.5,"pl_hostname":"OGLE-2015-BLG-1771L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263020","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248270"}]}}
+{
+  "id": 263020,
+  "date": "2023-11-28T20:58:24",
+  "date_gmt": "2023-11-29T01:58:24",
+  "modified": "2025-04-23T05:56:40",
+  "modified_gmt": "2025-04-23T09:56:40",
+  "slug": "ogle-2015-blg-1771l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2015-blg-1771l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2015-BLG-1771L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248270
+    ],
+    "exo_id": "OGLE-2015-BLG-1771L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7070,
+    "st_j": "",
+    "st_mass": 0.077,
+    "dec": -28.86275,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.799,
+    "system_radius": 127158189.5,
+    "pl_hostname": "OGLE-2015-BLG-1771L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263020",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248270"
+      }
+    ]
+  }
+}

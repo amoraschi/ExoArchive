@@ -1,1 +1,79 @@
-{"id":414037,"date":"2024-08-08T23:21:28","date_gmt":"2024-08-09T03:21:28","modified":"2025-07-07T20:38:51","modified_gmt":"2025-07-08T00:38:51","slug":"hd-77946-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-77946-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_77946","pl_letter":"b","display_name":"HD 77946 b","planet_radius":"0.25840541 x Jupiter","derived_description":"HD 77946 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.9 Earths, it takes 6.5 days to complete one orbit of its star, and is 0.073 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":99.451,"planet_mass":"10.9 Earths","st_optmag":8.99,"discovery_date":"2024","pl_orbsmax":0.073,"period_display":"6.5 days","eccentricity":"0.21","star_id":387729,"pl_orbper":6.527363,"pl_kepflag":false,"pl_radj":0.25840541,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":9.2,"multiple_planet_system":false,"pl_rade":2.89646124,"exo_id":"HD_77946_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.211},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/414037","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/387729"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 414037,
+  "date": "2024-08-08T23:21:28",
+  "date_gmt": "2024-08-09T03:21:28",
+  "modified": "2025-07-07T20:38:51",
+  "modified_gmt": "2025-07-08T00:38:51",
+  "slug": "hd-77946-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-77946-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_77946",
+    "pl_letter": "b",
+    "display_name": "HD 77946 b",
+    "planet_radius": "0.25840541 x Jupiter",
+    "derived_description": "HD 77946 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.9 Earths, it takes 6.5 days to complete one orbit of its star, and is 0.073 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 99.451,
+    "planet_mass": "10.9 Earths",
+    "st_optmag": 8.99,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.073,
+    "period_display": "6.5 days",
+    "eccentricity": "0.21",
+    "star_id": 387729,
+    "pl_orbper": 6.527363,
+    "pl_kepflag": false,
+    "pl_radj": 0.25840541,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 9.2,
+    "multiple_planet_system": false,
+    "pl_rade": 2.89646124,
+    "exo_id": "HD_77946_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.211
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/414037",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/387729"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

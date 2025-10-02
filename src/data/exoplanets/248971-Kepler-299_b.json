@@ -1,1 +1,79 @@
-{"id":248971,"date":"2017-10-02T13:32:57","date_gmt":"2017-10-02T17:32:57","modified":"2025-07-07T20:42:47","modified_gmt":"2025-07-08T00:42:47","slug":"kepler-299-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-299-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-299","pl_letter":"b","display_name":"Kepler-299 b","planet_radius":"1.32 x Earth","derived_description":"Kepler-299 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.3 Earths, it takes 2.9 days to complete one orbit of its star, and is 0.04 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1052.24,"planet_mass":"2.3 Earths","st_optmag":15.232,"discovery_date":"2014","pl_orbsmax":0.04,"period_display":"2.9 days","eccentricity":"0.0","star_id":260875,"pl_orbper":2.927128,"pl_kepflag":true,"pl_radj":0.118,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.32,"exo_id":"Kepler-299_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248971","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260875"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248971,
+  "date": "2017-10-02T13:32:57",
+  "date_gmt": "2017-10-02T17:32:57",
+  "modified": "2025-07-07T20:42:47",
+  "modified_gmt": "2025-07-08T00:42:47",
+  "slug": "kepler-299-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-299-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-299",
+    "pl_letter": "b",
+    "display_name": "Kepler-299 b",
+    "planet_radius": "1.32 x Earth",
+    "derived_description": "Kepler-299 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.3 Earths, it takes 2.9 days to complete one orbit of its star, and is 0.04 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1052.24,
+    "planet_mass": "2.3 Earths",
+    "st_optmag": 15.232,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.04,
+    "period_display": "2.9 days",
+    "eccentricity": "0.0",
+    "star_id": 260875,
+    "pl_orbper": 2.927128,
+    "pl_kepflag": true,
+    "pl_radj": 0.118,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.32,
+    "exo_id": "Kepler-299_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248971",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260875"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

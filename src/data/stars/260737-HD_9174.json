@@ -1,1 +1,71 @@
-{"id":260737,"date":"2023-11-28T20:29:28","date_gmt":"2023-11-29T01:29:28","modified":"2025-04-23T05:53:37","modified_gmt":"2025-04-23T09:53:37","slug":"hd_9174","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_9174/","featured_media":0,"categories":[],"acf":{"display_name":"HD 9174","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244587],"exo_id":"HD_9174","st_optmag":8.4,"st_vj":8.4,"st_dist":81.4893,"st_j":8.4,"st_mass":1.03,"dec":-19.6052945,"st_teff":5577,"st_rad":1.67,"ra":22.5043352,"system_radius":329115314,"pl_hostname":"HD_9174","stellar_type":"G","tic_id":"TIC 439501096","magnitude":8.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260737","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244587"}]}}
+{
+  "id": 260737,
+  "date": "2023-11-28T20:29:28",
+  "date_gmt": "2023-11-29T01:29:28",
+  "modified": "2025-04-23T05:53:37",
+  "modified_gmt": "2025-04-23T09:53:37",
+  "slug": "hd_9174",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_9174/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 9174",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244587
+    ],
+    "exo_id": "HD_9174",
+    "st_optmag": 8.4,
+    "st_vj": 8.4,
+    "st_dist": 81.4893,
+    "st_j": 8.4,
+    "st_mass": 1.03,
+    "dec": -19.6052945,
+    "st_teff": 5577,
+    "st_rad": 1.67,
+    "ra": 22.5043352,
+    "system_radius": 329115314,
+    "pl_hostname": "HD_9174",
+    "stellar_type": "G",
+    "tic_id": "TIC 439501096",
+    "magnitude": 8.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260737",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244587"
+      }
+    ]
+  }
+}

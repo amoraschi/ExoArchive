@@ -1,1 +1,76 @@
-{"id":313783,"date":"2024-03-02T14:13:07","date_gmt":"2024-03-02T19:13:07","modified":"2025-04-23T05:54:49","modified_gmt":"2025-04-23T09:54:49","slug":"toi-2134","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2134/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2134","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[313877,313880],"exo_id":"TOI-2134","st_optmag":8.933,"st_vj":8.933,"st_dist":22.6202,"st_j":8.933,"st_mass":0.744,"dec":39.0729269,"st_teff":4580,"st_rad":0.709,"ra":271.9355015,"system_radius":55500809.77,"pl_hostname":"TOI-2134","stellar_type":"K","tic_id":"TIC 75878355","magnitude":8.933},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/313783","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313880"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313877"}]}}
+{
+  "id": 313783,
+  "date": "2024-03-02T14:13:07",
+  "date_gmt": "2024-03-02T19:13:07",
+  "modified": "2025-04-23T05:54:49",
+  "modified_gmt": "2025-04-23T09:54:49",
+  "slug": "toi-2134",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2134/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2134",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      313877,
+      313880
+    ],
+    "exo_id": "TOI-2134",
+    "st_optmag": 8.933,
+    "st_vj": 8.933,
+    "st_dist": 22.6202,
+    "st_j": 8.933,
+    "st_mass": 0.744,
+    "dec": 39.0729269,
+    "st_teff": 4580,
+    "st_rad": 0.709,
+    "ra": 271.9355015,
+    "system_radius": 55500809.77,
+    "pl_hostname": "TOI-2134",
+    "stellar_type": "K",
+    "tic_id": "TIC 75878355",
+    "magnitude": 8.933
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313783",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313880"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313877"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262275,"date":"2023-11-28T20:48:55","date_gmt":"2023-11-29T01:48:55","modified":"2025-04-23T05:56:07","modified_gmt":"2025-04-23T09:56:07","slug":"tic_279401253","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/tic_279401253/","featured_media":0,"categories":[],"acf":{"display_name":"TIC 279401253","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248397,248398],"exo_id":"TIC_279401253","st_optmag":11.938,"st_vj":11.938,"st_dist":285.584,"st_j":11.938,"st_mass":1.13,"dec":-15.0262251,"st_teff":5951,"st_rad":1.06,"ra":57.6572277,"system_radius":88412341.17,"pl_hostname":"TIC_279401253","stellar_type":"G","tic_id":"TIC 279401253","magnitude":11.938},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262275","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248398"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248397"}]}}
+{
+  "id": 262275,
+  "date": "2023-11-28T20:48:55",
+  "date_gmt": "2023-11-29T01:48:55",
+  "modified": "2025-04-23T05:56:07",
+  "modified_gmt": "2025-04-23T09:56:07",
+  "slug": "tic_279401253",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic_279401253/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 279401253",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248397,
+      248398
+    ],
+    "exo_id": "TIC_279401253",
+    "st_optmag": 11.938,
+    "st_vj": 11.938,
+    "st_dist": 285.584,
+    "st_j": 11.938,
+    "st_mass": 1.13,
+    "dec": -15.0262251,
+    "st_teff": 5951,
+    "st_rad": 1.06,
+    "ra": 57.6572277,
+    "system_radius": 88412341.17,
+    "pl_hostname": "TIC_279401253",
+    "stellar_type": "G",
+    "tic_id": "TIC 279401253",
+    "magnitude": 11.938
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262275",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248398"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248397"
+      }
+    ]
+  }
+}

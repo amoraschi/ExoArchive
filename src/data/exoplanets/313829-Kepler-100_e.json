@@ -1,1 +1,79 @@
-{"id":313829,"date":"2024-02-23T16:01:23","date_gmt":"2024-02-23T21:01:23","modified":"2025-06-25T12:05:55","modified_gmt":"2025-06-25T16:05:55","slug":"kepler-100-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-100-e/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-100","pl_letter":"e","display_name":"Kepler-100 e","planet_radius":"0.47 x Jupiter (estimate)","derived_description":"Kepler-100 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 24.14271827 Earths, it takes 60.9 days to complete one orbit of its star, and is 0.312391586 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":304.645,"planet_mass":"24.14271827 Earths","st_optmag":11.055,"discovery_date":"2023","pl_orbsmax":0.312391586,"period_display":"60.9 days","eccentricity":"0.03","star_id":261298,"pl_orbper":60.888588,"pl_kepflag":false,"pl_radj":0.47,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":5.27,"exo_id":"Kepler-100_e","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.026437},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313829","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261298"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 313829,
+  "date": "2024-02-23T16:01:23",
+  "date_gmt": "2024-02-23T21:01:23",
+  "modified": "2025-06-25T12:05:55",
+  "modified_gmt": "2025-06-25T16:05:55",
+  "slug": "kepler-100-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-100-e/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-100",
+    "pl_letter": "e",
+    "display_name": "Kepler-100 e",
+    "planet_radius": "0.47 x Jupiter (estimate)",
+    "derived_description": "Kepler-100 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 24.14271827 Earths, it takes 60.9 days to complete one orbit of its star, and is 0.312391586 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 304.645,
+    "planet_mass": "24.14271827 Earths",
+    "st_optmag": 11.055,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.312391586,
+    "period_display": "60.9 days",
+    "eccentricity": "0.03",
+    "star_id": 261298,
+    "pl_orbper": 60.888588,
+    "pl_kepflag": false,
+    "pl_radj": 0.47,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 5.27,
+    "exo_id": "Kepler-100_e",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.026437
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313829",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261298"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

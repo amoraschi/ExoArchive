@@ -1,1 +1,71 @@
-{"id":261921,"date":"2023-11-28T20:44:25","date_gmt":"2023-11-29T01:44:25","modified":"2025-04-23T05:55:11","modified_gmt":"2025-04-23T09:55:11","slug":"moa-2012-blg-006l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/moa-2012-blg-006l/","featured_media":0,"categories":[],"acf":{"display_name":"MOA-2012-BLG-006L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248177],"exo_id":"MOA-2012-BLG-006L","st_optmag":"","st_vj":"","st_dist":5300,"st_j":"","st_mass":0.49,"dec":-29.108778,"st_teff":"","st_rad":"","ra":270.442963,"system_radius":1525898274,"pl_hostname":"MOA-2012-BLG-006L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261921","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248177"}]}}
+{
+  "id": 261921,
+  "date": "2023-11-28T20:44:25",
+  "date_gmt": "2023-11-29T01:44:25",
+  "modified": "2025-04-23T05:55:11",
+  "modified_gmt": "2025-04-23T09:55:11",
+  "slug": "moa-2012-blg-006l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/moa-2012-blg-006l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MOA-2012-BLG-006L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248177
+    ],
+    "exo_id": "MOA-2012-BLG-006L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5300,
+    "st_j": "",
+    "st_mass": 0.49,
+    "dec": -29.108778,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 270.442963,
+    "system_radius": 1525898274,
+    "pl_hostname": "MOA-2012-BLG-006L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261921",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248177"
+      }
+    ]
+  }
+}

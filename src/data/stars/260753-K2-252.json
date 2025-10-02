@@ -1,1 +1,71 @@
-{"id":260753,"date":"2023-11-28T20:29:40","date_gmt":"2023-11-29T01:29:40","modified":"2025-04-23T05:54:10","modified_gmt":"2025-04-23T09:54:10","slug":"k2-252","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-252/","featured_media":0,"categories":[],"acf":{"display_name":"K2-252","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244929],"exo_id":"K2-252","st_optmag":12.93,"st_vj":12.93,"st_dist":228.839,"st_j":12.93,"st_mass":0.79,"dec":-8.3096141,"st_teff":5152,"st_rad":0.82,"ra":182.3663818,"system_radius":15573138.267,"pl_hostname":"K2-252","stellar_type":"K","tic_id":"TIC 152868838","magnitude":12.93},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260753","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244929"}]}}
+{
+  "id": 260753,
+  "date": "2023-11-28T20:29:40",
+  "date_gmt": "2023-11-29T01:29:40",
+  "modified": "2025-04-23T05:54:10",
+  "modified_gmt": "2025-04-23T09:54:10",
+  "slug": "k2-252",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-252/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-252",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244929
+    ],
+    "exo_id": "K2-252",
+    "st_optmag": 12.93,
+    "st_vj": 12.93,
+    "st_dist": 228.839,
+    "st_j": 12.93,
+    "st_mass": 0.79,
+    "dec": -8.3096141,
+    "st_teff": 5152,
+    "st_rad": 0.82,
+    "ra": 182.3663818,
+    "system_radius": 15573138.267,
+    "pl_hostname": "K2-252",
+    "stellar_type": "K",
+    "tic_id": "TIC 152868838",
+    "magnitude": 12.93
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260753",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244929"
+      }
+    ]
+  }
+}

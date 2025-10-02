@@ -1,1 +1,71 @@
-{"id":263883,"date":"2023-11-28T21:09:26","date_gmt":"2023-11-29T02:09:26","modified":"2025-04-23T05:57:10","modified_gmt":"2025-04-23T09:57:10","slug":"hd_5891","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_5891/","featured_media":0,"categories":[],"acf":{"display_name":"HD 5891","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244485],"exo_id":"HD_5891","st_optmag":8.09,"st_vj":8.09,"st_dist":283.502,"st_j":8.09,"st_mass":1.93,"dec":20.2923139,"st_teff":4673,"st_rad":10.64,"ra":15.1383168,"system_radius":95742636.8,"pl_hostname":"HD_5891","stellar_type":"K","tic_id":"TIC 243146568","magnitude":8.09},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263883","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244485"}]}}
+{
+  "id": 263883,
+  "date": "2023-11-28T21:09:26",
+  "date_gmt": "2023-11-29T02:09:26",
+  "modified": "2025-04-23T05:57:10",
+  "modified_gmt": "2025-04-23T09:57:10",
+  "slug": "hd_5891",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_5891/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 5891",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244485
+    ],
+    "exo_id": "HD_5891",
+    "st_optmag": 8.09,
+    "st_vj": 8.09,
+    "st_dist": 283.502,
+    "st_j": 8.09,
+    "st_mass": 1.93,
+    "dec": 20.2923139,
+    "st_teff": 4673,
+    "st_rad": 10.64,
+    "ra": 15.1383168,
+    "system_radius": 95742636.8,
+    "pl_hostname": "HD_5891",
+    "stellar_type": "K",
+    "tic_id": "TIC 243146568",
+    "magnitude": 8.09
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263883",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244485"
+      }
+    ]
+  }
+}

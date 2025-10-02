@@ -1,1 +1,79 @@
-{"id":248965,"date":"2017-10-02T13:32:55","date_gmt":"2017-10-02T17:32:55","modified":"2025-07-07T15:24:00","modified_gmt":"2025-07-07T19:24:00","slug":"kepler-296-d","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-296-d/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-296","pl_letter":"d","display_name":"Kepler-296 d","planet_radius":"2.09 x Earth","derived_description":"Kepler-296 d is a Neptune-like exoplanet that orbits a M-type star. Its mass is 5.02 Earths, it takes 19.9 days to complete one orbit of its star, and is 0.118 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":167,"planet_mass":"5.02 Earths","st_optmag":16.363,"discovery_date":"2014","pl_orbsmax":0.118,"period_display":"19.9 days","eccentricity":"< 0.33","star_id":261575,"pl_orbper":19.850291,"pl_kepflag":true,"pl_radj":0.18645731,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.09,"exo_id":"Kepler-296_d","planet_size_class":"sub-Neptunian","pl_eccenlim":0.33,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248965","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261575"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248965,
+  "date": "2017-10-02T13:32:55",
+  "date_gmt": "2017-10-02T17:32:55",
+  "modified": "2025-07-07T15:24:00",
+  "modified_gmt": "2025-07-07T19:24:00",
+  "slug": "kepler-296-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-296-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-296",
+    "pl_letter": "d",
+    "display_name": "Kepler-296 d",
+    "planet_radius": "2.09 x Earth",
+    "derived_description": "Kepler-296 d is a Neptune-like exoplanet that orbits a M-type star. Its mass is 5.02 Earths, it takes 19.9 days to complete one orbit of its star, and is 0.118 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 167,
+    "planet_mass": "5.02 Earths",
+    "st_optmag": 16.363,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.118,
+    "period_display": "19.9 days",
+    "eccentricity": "< 0.33",
+    "star_id": 261575,
+    "pl_orbper": 19.850291,
+    "pl_kepflag": true,
+    "pl_radj": 0.18645731,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.09,
+    "exo_id": "Kepler-296_d",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0.33,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248965",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261575"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

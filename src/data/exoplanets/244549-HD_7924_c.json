@@ -1,1 +1,79 @@
-{"id":244549,"date":"2019-04-22T16:48:42","date_gmt":"2019-04-22T20:48:42","modified":"2025-07-07T17:56:38","modified_gmt":"2025-07-07T21:56:38","slug":"hd-7924-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-7924-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_7924","pl_letter":"c","display_name":"HD 7924 c","planet_radius":"0.243 x Jupiter (estimate)","derived_description":"HD 7924 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.86 Earths, it takes 15.3 days to complete one orbit of its star, and is 0.1134 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":16.9922,"planet_mass":"7.86 Earths","st_optmag":7.17896,"discovery_date":"2015","pl_orbsmax":0.1134,"period_display":"15.3 days","eccentricity":"0.1","star_id":260546,"pl_orbper":15.299,"pl_kepflag":false,"pl_radj":0.243,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":27,"multiple_planet_system":false,"pl_rade":2.72,"exo_id":"HD_7924_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.098},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244549","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260546"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244549,
+  "date": "2019-04-22T16:48:42",
+  "date_gmt": "2019-04-22T20:48:42",
+  "modified": "2025-07-07T17:56:38",
+  "modified_gmt": "2025-07-07T21:56:38",
+  "slug": "hd-7924-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-7924-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_7924",
+    "pl_letter": "c",
+    "display_name": "HD 7924 c",
+    "planet_radius": "0.243 x Jupiter (estimate)",
+    "derived_description": "HD 7924 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.86 Earths, it takes 15.3 days to complete one orbit of its star, and is 0.1134 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 16.9922,
+    "planet_mass": "7.86 Earths",
+    "st_optmag": 7.17896,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.1134,
+    "period_display": "15.3 days",
+    "eccentricity": "0.1",
+    "star_id": 260546,
+    "pl_orbper": 15.299,
+    "pl_kepflag": false,
+    "pl_radj": 0.243,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 27,
+    "multiple_planet_system": false,
+    "pl_rade": 2.72,
+    "exo_id": "HD_7924_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.098
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244549",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260546"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

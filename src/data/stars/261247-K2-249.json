@@ -1,1 +1,71 @@
-{"id":261247,"date":"2023-11-28T20:35:56","date_gmt":"2023-11-29T01:35:56","modified":"2025-04-23T05:53:30","modified_gmt":"2025-04-23T09:53:30","slug":"k2-249","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-249/","featured_media":0,"categories":[],"acf":{"display_name":"K2-249","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244924],"exo_id":"K2-249","st_optmag":12.646,"st_vj":12.646,"st_dist":521.716,"st_j":12.646,"st_mass":1.32,"dec":-8.9952309,"st_teff":6504,"st_rad":1.57,"ra":183.3667344,"system_radius":17218714.837,"pl_hostname":"K2-249","stellar_type":"F","tic_id":"TIC 176910179","magnitude":12.646},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261247","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244924"}]}}
+{
+  "id": 261247,
+  "date": "2023-11-28T20:35:56",
+  "date_gmt": "2023-11-29T01:35:56",
+  "modified": "2025-04-23T05:53:30",
+  "modified_gmt": "2025-04-23T09:53:30",
+  "slug": "k2-249",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-249/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-249",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244924
+    ],
+    "exo_id": "K2-249",
+    "st_optmag": 12.646,
+    "st_vj": 12.646,
+    "st_dist": 521.716,
+    "st_j": 12.646,
+    "st_mass": 1.32,
+    "dec": -8.9952309,
+    "st_teff": 6504,
+    "st_rad": 1.57,
+    "ra": 183.3667344,
+    "system_radius": 17218714.837,
+    "pl_hostname": "K2-249",
+    "stellar_type": "F",
+    "tic_id": "TIC 176910179",
+    "magnitude": 12.646
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261247",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244924"
+      }
+    ]
+  }
+}

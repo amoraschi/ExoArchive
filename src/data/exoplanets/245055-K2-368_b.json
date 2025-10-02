@@ -1,1 +1,79 @@
-{"id":245055,"date":"2022-03-21T13:34:42","date_gmt":"2022-03-21T17:34:42","modified":"2025-07-07T20:36:38","modified_gmt":"2025-07-08T00:36:38","slug":"k2-368-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-368-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-368","pl_letter":"b","display_name":"K2-368 b","planet_radius":"1.332 x Earth","derived_description":"K2-368 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.34 Earths, it takes 5 days to complete one orbit of its star, and is 0.052076235476429 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":206.608,"planet_mass":"2.34 Earths","st_optmag":13.581,"discovery_date":"2022","pl_orbsmax":"","period_display":"5 days","eccentricity":"","star_id":264434,"pl_orbper":5.025598,"pl_kepflag":true,"pl_radj":0.11883329,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.332,"exo_id":"K2-368_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245055","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264434"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245055,
+  "date": "2022-03-21T13:34:42",
+  "date_gmt": "2022-03-21T17:34:42",
+  "modified": "2025-07-07T20:36:38",
+  "modified_gmt": "2025-07-08T00:36:38",
+  "slug": "k2-368-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-368-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-368",
+    "pl_letter": "b",
+    "display_name": "K2-368 b",
+    "planet_radius": "1.332 x Earth",
+    "derived_description": "K2-368 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.34 Earths, it takes 5 days to complete one orbit of its star, and is 0.052076235476429 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 206.608,
+    "planet_mass": "2.34 Earths",
+    "st_optmag": 13.581,
+    "discovery_date": "2022",
+    "pl_orbsmax": "",
+    "period_display": "5 days",
+    "eccentricity": "",
+    "star_id": 264434,
+    "pl_orbper": 5.025598,
+    "pl_kepflag": true,
+    "pl_radj": 0.11883329,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.332,
+    "exo_id": "K2-368_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245055",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264434"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

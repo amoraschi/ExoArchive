@@ -1,1 +1,76 @@
-{"id":261230,"date":"2023-11-28T20:35:43","date_gmt":"2023-11-29T01:35:43","modified":"2025-06-06T07:19:45","modified_gmt":"2025-06-06T11:19:45","slug":"hd_68988","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_68988/","featured_media":0,"categories":[],"acf":{"display_name":"HD 68988","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244514,"1":244513},"exo_id":"HD_68988","st_optmag":8.2,"st_vj":8.2,"st_dist":60.8447,"st_j":8.2,"st_mass":1.171665,"dec":61.4608518,"st_teff":5883.41,"st_rad":1.255733,"ra":124.5935429,"system_radius":1974691884,"pl_hostname":"HD_68988","stellar_type":"G","tic_id":"TIC 73312938","magnitude":8.2},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261230","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244514"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244513"}]}}
+{
+  "id": 261230,
+  "date": "2023-11-28T20:35:43",
+  "date_gmt": "2023-11-29T01:35:43",
+  "modified": "2025-06-06T07:19:45",
+  "modified_gmt": "2025-06-06T11:19:45",
+  "slug": "hd_68988",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_68988/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 68988",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244514,
+      "1": 244513
+    },
+    "exo_id": "HD_68988",
+    "st_optmag": 8.2,
+    "st_vj": 8.2,
+    "st_dist": 60.8447,
+    "st_j": 8.2,
+    "st_mass": 1.171665,
+    "dec": 61.4608518,
+    "st_teff": 5883.41,
+    "st_rad": 1.255733,
+    "ra": 124.5935429,
+    "system_radius": 1974691884,
+    "pl_hostname": "HD_68988",
+    "stellar_type": "G",
+    "tic_id": "TIC 73312938",
+    "magnitude": 8.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261230",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244514"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244513"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245192,"date":"2016-07-18T13:25:30","date_gmt":"2016-07-18T17:25:30","modified":"2025-07-07T20:32:12","modified_gmt":"2025-07-08T00:32:12","slug":"k2-89-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-89-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"K2-89","pl_letter":"b","display_name":"K2-89 b","planet_radius":"0.615 x Earth","derived_description":"K2-89 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.17 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.01462 AU from its star. Its discovery was announced in 2016.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"K2","st_dist":86.0386,"planet_mass":"0.17 Earths","st_optmag":14.162,"discovery_date":"2016","pl_orbsmax":0.01462,"period_display":"1.1 days","eccentricity":"0.15","star_id":261309,"pl_orbper":1.096026,"pl_kepflag":true,"pl_radj":0.05486663,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":51.29,"multiple_planet_system":false,"pl_rade":0.615,"exo_id":"K2-89_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.15},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245192","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261309"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 245192,
+  "date": "2016-07-18T13:25:30",
+  "date_gmt": "2016-07-18T17:25:30",
+  "modified": "2025-07-07T20:32:12",
+  "modified_gmt": "2025-07-08T00:32:12",
+  "slug": "k2-89-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-89-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-89",
+    "pl_letter": "b",
+    "display_name": "K2-89 b",
+    "planet_radius": "0.615 x Earth",
+    "derived_description": "K2-89 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.17 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.01462 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 86.0386,
+    "planet_mass": "0.17 Earths",
+    "st_optmag": 14.162,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.01462,
+    "period_display": "1.1 days",
+    "eccentricity": "0.15",
+    "star_id": 261309,
+    "pl_orbper": 1.096026,
+    "pl_kepflag": true,
+    "pl_radj": 0.05486663,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 51.29,
+    "multiple_planet_system": false,
+    "pl_rade": 0.615,
+    "exo_id": "K2-89_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.15
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245192",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261309"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

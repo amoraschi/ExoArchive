@@ -1,1 +1,81 @@
-{"id":262782,"date":"2023-11-28T20:55:23","date_gmt":"2023-11-29T01:55:23","modified":"2025-04-23T05:53:59","modified_gmt":"2025-04-23T09:53:59","slug":"kepler-174","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-174/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-174","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246266,"1":246267,"2":246265},"exo_id":"Kepler-174","st_optmag":14.53,"st_vj":14.53,"st_dist":384.757,"st_j":14.53,"st_mass":0.602,"dec":43.8320052,"st_teff":4880,"st_rad":0.622,"ra":287.4389454,"system_radius":101277757.99,"pl_hostname":"Kepler-174","stellar_type":"K","tic_id":"TIC 158434144","magnitude":14.53},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262782","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246267"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246266"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246265"}]}}
+{
+  "id": 262782,
+  "date": "2023-11-28T20:55:23",
+  "date_gmt": "2023-11-29T01:55:23",
+  "modified": "2025-04-23T05:53:59",
+  "modified_gmt": "2025-04-23T09:53:59",
+  "slug": "kepler-174",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-174/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-174",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246266,
+      "1": 246267,
+      "2": 246265
+    },
+    "exo_id": "Kepler-174",
+    "st_optmag": 14.53,
+    "st_vj": 14.53,
+    "st_dist": 384.757,
+    "st_j": 14.53,
+    "st_mass": 0.602,
+    "dec": 43.8320052,
+    "st_teff": 4880,
+    "st_rad": 0.622,
+    "ra": 287.4389454,
+    "system_radius": 101277757.99,
+    "pl_hostname": "Kepler-174",
+    "stellar_type": "K",
+    "tic_id": "TIC 158434144",
+    "magnitude": 14.53
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262782",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246267"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246266"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246265"
+      }
+    ]
+  }
+}

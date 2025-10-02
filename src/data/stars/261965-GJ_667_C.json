@@ -1,1 +1,91 @@
-{"id":261965,"date":"2023-11-28T20:44:59","date_gmt":"2023-11-29T01:44:59","modified":"2025-04-23T05:53:26","modified_gmt":"2025-04-23T09:53:26","slug":"gj_667_c","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_667_c/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 667 C","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243678,243679,243680,243681,243682],"exo_id":"GJ_667_C","st_optmag":10.602,"st_vj":10.602,"st_dist":7.24396,"st_j":10.602,"st_mass":0.33,"dec":-34.9977651,"st_teff":3350,"st_rad":"","ra":259.7510609,"system_radius":82129230.63,"pl_hostname":"GJ_667_C","stellar_type":"M","tic_id":"TIC 154385809","magnitude":10.602},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261965","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243682"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243681"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243680"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243679"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243678"}]}}
+{
+  "id": 261965,
+  "date": "2023-11-28T20:44:59",
+  "date_gmt": "2023-11-29T01:44:59",
+  "modified": "2025-04-23T05:53:26",
+  "modified_gmt": "2025-04-23T09:53:26",
+  "slug": "gj_667_c",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_667_c/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 667 C",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243678,
+      243679,
+      243680,
+      243681,
+      243682
+    ],
+    "exo_id": "GJ_667_C",
+    "st_optmag": 10.602,
+    "st_vj": 10.602,
+    "st_dist": 7.24396,
+    "st_j": 10.602,
+    "st_mass": 0.33,
+    "dec": -34.9977651,
+    "st_teff": 3350,
+    "st_rad": "",
+    "ra": 259.7510609,
+    "system_radius": 82129230.63,
+    "pl_hostname": "GJ_667_C",
+    "stellar_type": "M",
+    "tic_id": "TIC 154385809",
+    "magnitude": 10.602
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261965",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243682"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243681"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243680"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243679"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243678"
+      }
+    ]
+  }
+}

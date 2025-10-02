@@ -1,1 +1,81 @@
-{"id":261803,"date":"2023-11-28T20:42:55","date_gmt":"2023-11-29T01:42:55","modified":"2025-04-23T05:53:21","modified_gmt":"2025-04-23T09:53:21","slug":"koi-7892","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/koi-7892/","featured_media":0,"categories":[],"acf":{"display_name":"KOI-7892","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247255,248020,248021],"exo_id":"KOI-7892","st_optmag":14.411,"st_vj":14.411,"st_dist":1072.3,"st_j":14.411,"st_mass":1.04,"dec":44.694569,"st_teff":6474,"st_rad":1.26,"ra":282.3775397,"system_radius":14899947.852,"pl_hostname":"KOI-7892","stellar_type":"F","tic_id":"TIC 123449386","magnitude":14.411},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261803","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248021"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248020"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247255"}]}}
+{
+  "id": 261803,
+  "date": "2023-11-28T20:42:55",
+  "date_gmt": "2023-11-29T01:42:55",
+  "modified": "2025-04-23T05:53:21",
+  "modified_gmt": "2025-04-23T09:53:21",
+  "slug": "koi-7892",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-7892/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-7892",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247255,
+      248020,
+      248021
+    ],
+    "exo_id": "KOI-7892",
+    "st_optmag": 14.411,
+    "st_vj": 14.411,
+    "st_dist": 1072.3,
+    "st_j": 14.411,
+    "st_mass": 1.04,
+    "dec": 44.694569,
+    "st_teff": 6474,
+    "st_rad": 1.26,
+    "ra": 282.3775397,
+    "system_radius": 14899947.852,
+    "pl_hostname": "KOI-7892",
+    "stellar_type": "F",
+    "tic_id": "TIC 123449386",
+    "magnitude": 14.411
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261803",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248021"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248020"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247255"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243700,"date":"2019-04-22T16:48:35","date_gmt":"2019-04-22T20:48:35","modified":"2025-07-07T20:39:53","modified_gmt":"2025-07-08T00:39:53","slug":"gj-876-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-876-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_876","pl_letter":"b","display_name":"GJ 876 b","planet_radius":"1.19 x Jupiter (estimate)","derived_description":"GJ 876 b is a gas giant exoplanet that orbits a M-type star. Its mass is 2.2756 Jupiters, it takes 61.1 days to complete one orbit of its star, and is 0.208317 AU from its star. Its discovery was announced in 1998.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":4.67517,"planet_mass":"2.2756 Jupiters","st_optmag":10.16,"discovery_date":"1998","pl_orbsmax":0.208317,"period_display":"61.1 days","eccentricity":"0.03","star_id":260673,"pl_orbper":61.1166,"pl_kepflag":false,"pl_radj":1.19,"pl_disc":1998,"pl_publ_date":"1998","planet_orbit_period":50.3,"multiple_planet_system":false,"pl_rade":13.3,"exo_id":"GJ_876_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.0324},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243700","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260673"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243700,
+  "date": "2019-04-22T16:48:35",
+  "date_gmt": "2019-04-22T20:48:35",
+  "modified": "2025-07-07T20:39:53",
+  "modified_gmt": "2025-07-08T00:39:53",
+  "slug": "gj-876-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-876-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_876",
+    "pl_letter": "b",
+    "display_name": "GJ 876 b",
+    "planet_radius": "1.19 x Jupiter (estimate)",
+    "derived_description": "GJ 876 b is a gas giant exoplanet that orbits a M-type star. Its mass is 2.2756 Jupiters, it takes 61.1 days to complete one orbit of its star, and is 0.208317 AU from its star. Its discovery was announced in 1998.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 4.67517,
+    "planet_mass": "2.2756 Jupiters",
+    "st_optmag": 10.16,
+    "discovery_date": "1998",
+    "pl_orbsmax": 0.208317,
+    "period_display": "61.1 days",
+    "eccentricity": "0.03",
+    "star_id": 260673,
+    "pl_orbper": 61.1166,
+    "pl_kepflag": false,
+    "pl_radj": 1.19,
+    "pl_disc": 1998,
+    "pl_publ_date": "1998",
+    "planet_orbit_period": 50.3,
+    "multiple_planet_system": false,
+    "pl_rade": 13.3,
+    "exo_id": "GJ_876_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0324
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243700",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260673"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

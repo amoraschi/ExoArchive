@@ -1,1 +1,79 @@
-{"id":387757,"date":"2024-03-07T16:31:32","date_gmt":"2024-03-07T21:31:32","modified":"2025-07-07T20:40:24","modified_gmt":"2025-07-08T00:40:24","slug":"toi-1347-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1347-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1347","pl_letter":"c","display_name":"TOI-1347 c","planet_radius":"1.6 x Earth","derived_description":"TOI-1347 c is a super Earth exoplanet that orbits a G-type star. Its mass is 6.4 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.0546 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":147.476,"planet_mass":"6.4 Earths","st_optmag":11.168,"discovery_date":"2024","pl_orbsmax":0.0546,"period_display":"4.8 days","eccentricity":"0.0","star_id":387714,"pl_orbper":4.841962,"pl_kepflag":false,"pl_radj":0.14274268,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":1.6,"exo_id":"TOI-1347_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/387757","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/387714"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 387757,
+  "date": "2024-03-07T16:31:32",
+  "date_gmt": "2024-03-07T21:31:32",
+  "modified": "2025-07-07T20:40:24",
+  "modified_gmt": "2025-07-08T00:40:24",
+  "slug": "toi-1347-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1347-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1347",
+    "pl_letter": "c",
+    "display_name": "TOI-1347 c",
+    "planet_radius": "1.6 x Earth",
+    "derived_description": "TOI-1347 c is a super Earth exoplanet that orbits a G-type star. Its mass is 6.4 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.0546 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 147.476,
+    "planet_mass": "6.4 Earths",
+    "st_optmag": 11.168,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0546,
+    "period_display": "4.8 days",
+    "eccentricity": "0.0",
+    "star_id": 387714,
+    "pl_orbper": 4.841962,
+    "pl_kepflag": false,
+    "pl_radj": 0.14274268,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 1.6,
+    "exo_id": "TOI-1347_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/387757",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/387714"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

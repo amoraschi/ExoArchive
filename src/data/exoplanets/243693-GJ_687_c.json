@@ -1,1 +1,79 @@
-{"id":243693,"date":"2020-09-04T13:27:14","date_gmt":"2020-09-04T17:27:14","modified":"2025-07-07T15:24:08","modified_gmt":"2025-07-07T19:24:08","slug":"gj-687-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-687-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_687","pl_letter":"c","display_name":"GJ 687 c","planet_radius":"0.369 x Jupiter (estimate)","derived_description":"GJ 687 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 16 Earths, it takes 2 years to complete one orbit of its star, and is 1.165 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":4.54939,"planet_mass":"16 Earths","st_optmag":9.15,"discovery_date":"2020","pl_orbsmax":1.165,"period_display":"2 years","eccentricity":"0.4","star_id":260595,"pl_orbper":727.562,"pl_kepflag":false,"pl_radj":0.369,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":176,"multiple_planet_system":false,"pl_rade":4.14,"exo_id":"GJ_687_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243693","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260595"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243693,
+  "date": "2020-09-04T13:27:14",
+  "date_gmt": "2020-09-04T17:27:14",
+  "modified": "2025-07-07T15:24:08",
+  "modified_gmt": "2025-07-07T19:24:08",
+  "slug": "gj-687-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-687-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_687",
+    "pl_letter": "c",
+    "display_name": "GJ 687 c",
+    "planet_radius": "0.369 x Jupiter (estimate)",
+    "derived_description": "GJ 687 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 16 Earths, it takes 2 years to complete one orbit of its star, and is 1.165 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 4.54939,
+    "planet_mass": "16 Earths",
+    "st_optmag": 9.15,
+    "discovery_date": "2020",
+    "pl_orbsmax": 1.165,
+    "period_display": "2 years",
+    "eccentricity": "0.4",
+    "star_id": 260595,
+    "pl_orbper": 727.562,
+    "pl_kepflag": false,
+    "pl_radj": 0.369,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 176,
+    "multiple_planet_system": false,
+    "pl_rade": 4.14,
+    "exo_id": "GJ_687_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243693",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260595"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

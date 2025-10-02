@@ -1,1 +1,71 @@
-{"id":261078,"date":"2023-11-28T20:33:46","date_gmt":"2023-11-29T01:33:46","modified":"2025-04-23T05:56:33","modified_gmt":"2025-04-23T09:56:33","slug":"kepler-438","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-438/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-438","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247221],"exo_id":"Kepler-438","st_optmag":15.104,"st_vj":15.104,"st_dist":195.94287175,"st_j":15.104,"st_mass":0.544,"dec":41.9510686,"st_teff":3748,"st_rad":0.52,"ra":281.6457236,"system_radius":24833246.42,"pl_hostname":"Kepler-438","stellar_type":"M","tic_id":"TIC 336266673","magnitude":15.104},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261078","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247221"}]}}
+{
+  "id": 261078,
+  "date": "2023-11-28T20:33:46",
+  "date_gmt": "2023-11-29T01:33:46",
+  "modified": "2025-04-23T05:56:33",
+  "modified_gmt": "2025-04-23T09:56:33",
+  "slug": "kepler-438",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-438/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-438",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247221
+    ],
+    "exo_id": "Kepler-438",
+    "st_optmag": 15.104,
+    "st_vj": 15.104,
+    "st_dist": 195.94287175,
+    "st_j": 15.104,
+    "st_mass": 0.544,
+    "dec": 41.9510686,
+    "st_teff": 3748,
+    "st_rad": 0.52,
+    "ra": 281.6457236,
+    "system_radius": 24833246.42,
+    "pl_hostname": "Kepler-438",
+    "stellar_type": "M",
+    "tic_id": "TIC 336266673",
+    "magnitude": 15.104
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261078",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247221"
+      }
+    ]
+  }
+}

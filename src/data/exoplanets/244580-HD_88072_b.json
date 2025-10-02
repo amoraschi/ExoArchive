@@ -1,1 +1,79 @@
-{"id":244580,"date":"2022-09-27T08:32:04","date_gmt":"2022-09-27T12:32:04","modified":"2024-10-24T19:11:03","modified_gmt":"2024-10-24T23:11:03","slug":"hd-88072-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-88072-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_88072","pl_letter":"b","display_name":"HD 88072 b","planet_radius":"1.12 x Jupiter (estimate)","derived_description":"HD 88072 b is a gas giant exoplanet that orbits a G-type star. Its mass is 7.903 Jupiters, it takes 50.8 years to complete one orbit of its star, and is 13.895 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":35.9098,"planet_mass":"7.903 Jupiters","st_optmag":7.55,"discovery_date":"2022","pl_orbsmax":13.895,"period_display":"50.8 years","eccentricity":"0.16","star_id":263496,"pl_orbper":18538.79293,"pl_kepflag":false,"pl_radj":1.12,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":272.477,"multiple_planet_system":false,"pl_rade":12.6,"exo_id":"HD_88072_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.156},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244580","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263496"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244580,
+  "date": "2022-09-27T08:32:04",
+  "date_gmt": "2022-09-27T12:32:04",
+  "modified": "2024-10-24T19:11:03",
+  "modified_gmt": "2024-10-24T23:11:03",
+  "slug": "hd-88072-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-88072-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_88072",
+    "pl_letter": "b",
+    "display_name": "HD 88072 b",
+    "planet_radius": "1.12 x Jupiter (estimate)",
+    "derived_description": "HD 88072 b is a gas giant exoplanet that orbits a G-type star. Its mass is 7.903 Jupiters, it takes 50.8 years to complete one orbit of its star, and is 13.895 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 35.9098,
+    "planet_mass": "7.903 Jupiters",
+    "st_optmag": 7.55,
+    "discovery_date": "2022",
+    "pl_orbsmax": 13.895,
+    "period_display": "50.8 years",
+    "eccentricity": "0.16",
+    "star_id": 263496,
+    "pl_orbper": 18538.79293,
+    "pl_kepflag": false,
+    "pl_radj": 1.12,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 272.477,
+    "multiple_planet_system": false,
+    "pl_rade": 12.6,
+    "exo_id": "HD_88072_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.156
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244580",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263496"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

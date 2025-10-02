@@ -1,1 +1,71 @@
-{"id":260454,"date":"2023-11-28T20:25:59","date_gmt":"2023-11-29T01:25:59","modified":"2025-04-23T05:53:17","modified_gmt":"2025-04-23T09:53:17","slug":"2mass_j01225093-2439505","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/2mass_j01225093-2439505/","featured_media":0,"categories":[],"acf":{"display_name":"2MASS J01225093-2439505","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243398],"exo_id":"2MASS_J01225093-2439505","st_optmag":14.244,"st_vj":14.244,"st_dist":33.8281,"st_j":14.244,"st_mass":0.4,"dec":-24.6646128,"st_teff":3530,"st_rad":0.36645,"ra":20.7128012,"system_radius":7779089240,"pl_hostname":"2MASS_J01225093-2439505","stellar_type":"M","tic_id":"TIC 11614485","magnitude":14.244},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260454","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243398"}]}}
+{
+  "id": 260454,
+  "date": "2023-11-28T20:25:59",
+  "date_gmt": "2023-11-29T01:25:59",
+  "modified": "2025-04-23T05:53:17",
+  "modified_gmt": "2025-04-23T09:53:17",
+  "slug": "2mass_j01225093-2439505",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/2mass_j01225093-2439505/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "2MASS J01225093-2439505",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243398
+    ],
+    "exo_id": "2MASS_J01225093-2439505",
+    "st_optmag": 14.244,
+    "st_vj": 14.244,
+    "st_dist": 33.8281,
+    "st_j": 14.244,
+    "st_mass": 0.4,
+    "dec": -24.6646128,
+    "st_teff": 3530,
+    "st_rad": 0.36645,
+    "ra": 20.7128012,
+    "system_radius": 7779089240,
+    "pl_hostname": "2MASS_J01225093-2439505",
+    "stellar_type": "M",
+    "tic_id": "TIC 11614485",
+    "magnitude": 14.244
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260454",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243398"
+      }
+    ]
+  }
+}

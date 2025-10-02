@@ -1,1 +1,79 @@
-{"id":244573,"date":"2019-04-22T16:48:40","date_gmt":"2019-04-22T20:48:40","modified":"2025-07-07T20:34:11","modified_gmt":"2025-07-08T00:34:11","slug":"hd-86226-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-86226-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_86226","pl_letter":"b","display_name":"HD 86226 b","planet_radius":"1.28 x Jupiter (estimate)","derived_description":"HD 86226 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.45 Jupiters, it takes 4.5 years to complete one orbit of its star, and is 2.73 AU from its star. Its discovery was announced in 2009.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Las Campanas Observatory","st_dist":45.683,"planet_mass":"0.45 Jupiters","st_optmag":7.93,"discovery_date":"2009","pl_orbsmax":2.73,"period_display":"4.5 years","eccentricity":"0.06","star_id":261101,"pl_orbper":1628,"pl_kepflag":false,"pl_radj":1.28,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":225,"multiple_planet_system":false,"pl_rade":14.3,"exo_id":"HD_86226_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.059},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244573","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261101"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244573,
+  "date": "2019-04-22T16:48:40",
+  "date_gmt": "2019-04-22T20:48:40",
+  "modified": "2025-07-07T20:34:11",
+  "modified_gmt": "2025-07-08T00:34:11",
+  "slug": "hd-86226-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-86226-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_86226",
+    "pl_letter": "b",
+    "display_name": "HD 86226 b",
+    "planet_radius": "1.28 x Jupiter (estimate)",
+    "derived_description": "HD 86226 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.45 Jupiters, it takes 4.5 years to complete one orbit of its star, and is 2.73 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Las Campanas Observatory",
+    "st_dist": 45.683,
+    "planet_mass": "0.45 Jupiters",
+    "st_optmag": 7.93,
+    "discovery_date": "2009",
+    "pl_orbsmax": 2.73,
+    "period_display": "4.5 years",
+    "eccentricity": "0.06",
+    "star_id": 261101,
+    "pl_orbper": 1628,
+    "pl_kepflag": false,
+    "pl_radj": 1.28,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 225,
+    "multiple_planet_system": false,
+    "pl_rade": 14.3,
+    "exo_id": "HD_86226_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.059
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244573",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261101"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

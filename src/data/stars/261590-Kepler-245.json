@@ -1,1 +1,86 @@
-{"id":261590,"date":"2023-11-28T20:40:15","date_gmt":"2023-11-29T01:40:15","modified":"2025-08-14T21:14:20","modified_gmt":"2025-08-15T01:14:20","slug":"kepler-245","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-245/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-245","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246741,246742,246743,246744],"exo_id":"Kepler-245","st_optmag":15.546,"st_vj":15.546,"st_dist":861.527,"st_j":15.546,"st_mass":0.86,"dec":42.4363482,"st_teff":5174,"st_rad":0.8,"ra":291.6389972,"system_radius":30218769.74,"pl_hostname":"Kepler-245","stellar_type":"K","tic_id":"TIC 63004906","magnitude":15.546},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261590","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246744"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246743"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246742"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246741"}]}}
+{
+  "id": 261590,
+  "date": "2023-11-28T20:40:15",
+  "date_gmt": "2023-11-29T01:40:15",
+  "modified": "2025-08-14T21:14:20",
+  "modified_gmt": "2025-08-15T01:14:20",
+  "slug": "kepler-245",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-245/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-245",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246741,
+      246742,
+      246743,
+      246744
+    ],
+    "exo_id": "Kepler-245",
+    "st_optmag": 15.546,
+    "st_vj": 15.546,
+    "st_dist": 861.527,
+    "st_j": 15.546,
+    "st_mass": 0.86,
+    "dec": 42.4363482,
+    "st_teff": 5174,
+    "st_rad": 0.8,
+    "ra": 291.6389972,
+    "system_radius": 30218769.74,
+    "pl_hostname": "Kepler-245",
+    "stellar_type": "K",
+    "tic_id": "TIC 63004906",
+    "magnitude": 15.546
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261590",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246744"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246743"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246742"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246741"
+      }
+    ]
+  }
+}

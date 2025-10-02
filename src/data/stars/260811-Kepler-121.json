@@ -1,1 +1,76 @@
-{"id":260811,"date":"2023-11-28T20:30:24","date_gmt":"2023-11-29T01:30:24","modified":"2025-04-23T05:54:34","modified_gmt":"2025-04-23T09:54:34","slug":"kepler-121","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-121/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-121","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245535,245536],"exo_id":"Kepler-121","st_optmag":14.904,"st_vj":14.904,"st_dist":510.523,"st_j":14.904,"st_mass":0.859,"dec":39.6780204,"st_teff":5311,"st_rad":0.701,"ra":286.1621273,"system_radius":32313139.92,"pl_hostname":"Kepler-121","stellar_type":"G","tic_id":"TIC 120765800","magnitude":14.904},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260811","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245536"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245535"}]}}
+{
+  "id": 260811,
+  "date": "2023-11-28T20:30:24",
+  "date_gmt": "2023-11-29T01:30:24",
+  "modified": "2025-04-23T05:54:34",
+  "modified_gmt": "2025-04-23T09:54:34",
+  "slug": "kepler-121",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-121/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-121",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245535,
+      245536
+    ],
+    "exo_id": "Kepler-121",
+    "st_optmag": 14.904,
+    "st_vj": 14.904,
+    "st_dist": 510.523,
+    "st_j": 14.904,
+    "st_mass": 0.859,
+    "dec": 39.6780204,
+    "st_teff": 5311,
+    "st_rad": 0.701,
+    "ra": 286.1621273,
+    "system_radius": 32313139.92,
+    "pl_hostname": "Kepler-121",
+    "stellar_type": "G",
+    "tic_id": "TIC 120765800",
+    "magnitude": 14.904
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260811",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245536"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245535"
+      }
+    ]
+  }
+}

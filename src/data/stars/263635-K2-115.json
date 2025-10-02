@@ -1,1 +1,71 @@
-{"id":263635,"date":"2023-11-28T21:06:11","date_gmt":"2023-11-29T02:06:11","modified":"2025-06-06T07:19:56","modified_gmt":"2025-06-06T11:19:56","slug":"k2-115","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-115/","featured_media":0,"categories":[],"acf":{"display_name":"K2-115","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244733],"exo_id":"K2-115","st_optmag":13.444,"st_vj":13.444,"st_dist":413.591,"st_j":13.444,"st_mass":0.918,"dec":12.281851,"st_teff":5870,"st_rad":0.855,"ra":126.5535002,"system_radius":21168098.605,"pl_hostname":"K2-115","stellar_type":"G","tic_id":"TIC 7020254","magnitude":13.444},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263635","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244733"}]}}
+{
+  "id": 263635,
+  "date": "2023-11-28T21:06:11",
+  "date_gmt": "2023-11-29T02:06:11",
+  "modified": "2025-06-06T07:19:56",
+  "modified_gmt": "2025-06-06T11:19:56",
+  "slug": "k2-115",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-115/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-115",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244733
+    ],
+    "exo_id": "K2-115",
+    "st_optmag": 13.444,
+    "st_vj": 13.444,
+    "st_dist": 413.591,
+    "st_j": 13.444,
+    "st_mass": 0.918,
+    "dec": 12.281851,
+    "st_teff": 5870,
+    "st_rad": 0.855,
+    "ra": 126.5535002,
+    "system_radius": 21168098.605,
+    "pl_hostname": "K2-115",
+    "stellar_type": "G",
+    "tic_id": "TIC 7020254",
+    "magnitude": 13.444
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263635",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244733"
+      }
+    ]
+  }
+}

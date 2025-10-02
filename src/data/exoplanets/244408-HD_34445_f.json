@@ -1,1 +1,79 @@
-{"id":244408,"date":"2019-04-22T16:49:23","date_gmt":"2019-04-22T20:49:23","modified":"2025-07-07T20:41:04","modified_gmt":"2025-07-08T00:41:04","slug":"hd-34445-f","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-34445-f/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_34445","pl_letter":"f","display_name":"HD 34445 f","planet_radius":"0.613 x Jupiter (estimate)","derived_description":"HD 34445 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 37.9 Earths, it takes 1.9 years to complete one orbit of its star, and is 1.543 AU from its star. Its discovery was announced in 2017.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":46.0907,"planet_mass":"37.9 Earths","st_optmag":7.31,"discovery_date":"2017","pl_orbsmax":1.543,"period_display":"1.9 years","eccentricity":"0.03","star_id":262404,"pl_orbper":676.8,"pl_kepflag":false,"pl_radj":0.613,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":212,"multiple_planet_system":false,"pl_rade":6.88,"exo_id":"HD_34445_f","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.031},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244408","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262404"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244408,
+  "date": "2019-04-22T16:49:23",
+  "date_gmt": "2019-04-22T20:49:23",
+  "modified": "2025-07-07T20:41:04",
+  "modified_gmt": "2025-07-08T00:41:04",
+  "slug": "hd-34445-f",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-34445-f/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_34445",
+    "pl_letter": "f",
+    "display_name": "HD 34445 f",
+    "planet_radius": "0.613 x Jupiter (estimate)",
+    "derived_description": "HD 34445 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 37.9 Earths, it takes 1.9 years to complete one orbit of its star, and is 1.543 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 46.0907,
+    "planet_mass": "37.9 Earths",
+    "st_optmag": 7.31,
+    "discovery_date": "2017",
+    "pl_orbsmax": 1.543,
+    "period_display": "1.9 years",
+    "eccentricity": "0.03",
+    "star_id": 262404,
+    "pl_orbper": 676.8,
+    "pl_kepflag": false,
+    "pl_radj": 0.613,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": 212,
+    "multiple_planet_system": false,
+    "pl_rade": 6.88,
+    "exo_id": "HD_34445_f",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.031
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244408",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262404"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":264494,"date":"2023-11-28T21:17:14","date_gmt":"2023-11-29T02:17:14","modified":"2025-04-23T05:56:44","modified_gmt":"2025-04-23T09:56:44","slug":"kepler-1984","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1984/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1984","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246574],"exo_id":"Kepler-1984","st_optmag":16.192,"st_vj":16.192,"st_dist":3238.9183499688,"st_j":16.192,"st_mass":0.45,"dec":40.7300225,"st_teff":3638,"st_rad":0.42,"ra":291.2850446,"system_radius":3560429.306,"pl_hostname":"Kepler-1984","stellar_type":"M","tic_id":"TIC 137089954","magnitude":16.192},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264494","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246574"}]}}
+{
+  "id": 264494,
+  "date": "2023-11-28T21:17:14",
+  "date_gmt": "2023-11-29T02:17:14",
+  "modified": "2025-04-23T05:56:44",
+  "modified_gmt": "2025-04-23T09:56:44",
+  "slug": "kepler-1984",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1984/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1984",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246574
+    ],
+    "exo_id": "Kepler-1984",
+    "st_optmag": 16.192,
+    "st_vj": 16.192,
+    "st_dist": 3238.9183499688,
+    "st_j": 16.192,
+    "st_mass": 0.45,
+    "dec": 40.7300225,
+    "st_teff": 3638,
+    "st_rad": 0.42,
+    "ra": 291.2850446,
+    "system_radius": 3560429.306,
+    "pl_hostname": "Kepler-1984",
+    "stellar_type": "M",
+    "tic_id": "TIC 137089954",
+    "magnitude": 16.192
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264494",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246574"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":261816,"date":"2023-11-28T20:43:04","date_gmt":"2023-11-29T01:43:04","modified":"2025-04-23T05:55:04","modified_gmt":"2025-04-23T09:55:04","slug":"kepler-750","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-750/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-750","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247661,247662],"exo_id":"Kepler-750","st_optmag":14.634,"st_vj":14.634,"st_dist":1296.02,"st_j":14.634,"st_mass":1.15,"dec":44.004364,"st_teff":6160,"st_rad":1.23,"ra":289.0968274,"system_radius":13077845.7954,"pl_hostname":"Kepler-750","stellar_type":"F","tic_id":"TIC 158931258","magnitude":14.634},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261816","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247662"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247661"}]}}
+{
+  "id": 261816,
+  "date": "2023-11-28T20:43:04",
+  "date_gmt": "2023-11-29T01:43:04",
+  "modified": "2025-04-23T05:55:04",
+  "modified_gmt": "2025-04-23T09:55:04",
+  "slug": "kepler-750",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-750/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-750",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247661,
+      247662
+    ],
+    "exo_id": "Kepler-750",
+    "st_optmag": 14.634,
+    "st_vj": 14.634,
+    "st_dist": 1296.02,
+    "st_j": 14.634,
+    "st_mass": 1.15,
+    "dec": 44.004364,
+    "st_teff": 6160,
+    "st_rad": 1.23,
+    "ra": 289.0968274,
+    "system_radius": 13077845.7954,
+    "pl_hostname": "Kepler-750",
+    "stellar_type": "F",
+    "tic_id": "TIC 158931258",
+    "magnitude": 14.634
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261816",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247662"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247661"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262248,"date":"2023-11-28T20:48:35","date_gmt":"2023-11-29T01:48:35","modified":"2025-04-23T05:55:55","modified_gmt":"2025-04-23T09:55:55","slug":"toi-2445","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2445/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2445","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248555],"exo_id":"TOI-2445","st_optmag":15.692,"st_vj":15.692,"st_dist":48.582,"st_j":15.692,"st_mass":0.25,"dec":0.0523366,"st_teff":3333,"st_rad":0.27,"ra":43.3161555,"system_radius":957426.368,"pl_hostname":"TOI-2445","stellar_type":"M","tic_id":"TIC 439867639","magnitude":15.692},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262248","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248555"}]}}
+{
+  "id": 262248,
+  "date": "2023-11-28T20:48:35",
+  "date_gmt": "2023-11-29T01:48:35",
+  "modified": "2025-04-23T05:55:55",
+  "modified_gmt": "2025-04-23T09:55:55",
+  "slug": "toi-2445",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2445/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2445",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248555
+    ],
+    "exo_id": "TOI-2445",
+    "st_optmag": 15.692,
+    "st_vj": 15.692,
+    "st_dist": 48.582,
+    "st_j": 15.692,
+    "st_mass": 0.25,
+    "dec": 0.0523366,
+    "st_teff": 3333,
+    "st_rad": 0.27,
+    "ra": 43.3161555,
+    "system_radius": 957426.368,
+    "pl_hostname": "TOI-2445",
+    "stellar_type": "M",
+    "tic_id": "TIC 439867639",
+    "magnitude": 15.692
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262248",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248555"
+      }
+    ]
+  }
+}

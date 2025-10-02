@@ -1,1 +1,71 @@
-{"id":260782,"date":"2023-11-28T20:30:02","date_gmt":"2023-11-29T01:30:02","modified":"2025-04-23T05:53:43","modified_gmt":"2025-04-23T09:53:43","slug":"moa-2011-blg-291l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/moa-2011-blg-291l/","featured_media":0,"categories":[],"acf":{"display_name":"MOA-2011-BLG-291L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248174],"exo_id":"MOA-2011-BLG-291L","st_optmag":"","st_vj":"","st_dist":4400,"st_j":"","st_mass":0.15,"dec":-29.1706657,"st_teff":"","st_rad":"","ra":268.867889,"system_radius":103222530.3,"pl_hostname":"MOA-2011-BLG-291L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260782","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248174"}]}}
+{
+  "id": 260782,
+  "date": "2023-11-28T20:30:02",
+  "date_gmt": "2023-11-29T01:30:02",
+  "modified": "2025-04-23T05:53:43",
+  "modified_gmt": "2025-04-23T09:53:43",
+  "slug": "moa-2011-blg-291l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/moa-2011-blg-291l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "MOA-2011-BLG-291L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248174
+    ],
+    "exo_id": "MOA-2011-BLG-291L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 4400,
+    "st_j": "",
+    "st_mass": 0.15,
+    "dec": -29.1706657,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.867889,
+    "system_radius": 103222530.3,
+    "pl_hostname": "MOA-2011-BLG-291L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260782",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248174"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":264473,"date":"2023-11-28T21:16:59","date_gmt":"2023-11-29T02:16:59","modified":"2025-04-23T05:57:21","modified_gmt":"2025-04-23T09:57:21","slug":"kmt-2019-blg-0253l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2019-blg-0253l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2019-BLG-0253L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248057],"exo_id":"KMT-2019-BLG-0253L","st_optmag":"","st_vj":"","st_dist":4900,"st_j":"","st_mass":0.7,"dec":-29.5654722,"st_teff":"","st_rad":"","ra":267.8825833,"system_radius":463753397,"pl_hostname":"KMT-2019-BLG-0253L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264473","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248057"}]}}
+{
+  "id": 264473,
+  "date": "2023-11-28T21:16:59",
+  "date_gmt": "2023-11-29T02:16:59",
+  "modified": "2025-04-23T05:57:21",
+  "modified_gmt": "2025-04-23T09:57:21",
+  "slug": "kmt-2019-blg-0253l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2019-blg-0253l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2019-BLG-0253L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248057
+    ],
+    "exo_id": "KMT-2019-BLG-0253L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 4900,
+    "st_j": "",
+    "st_mass": 0.7,
+    "dec": -29.5654722,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 267.8825833,
+    "system_radius": 463753397,
+    "pl_hostname": "KMT-2019-BLG-0253L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264473",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248057"
+      }
+    ]
+  }
+}

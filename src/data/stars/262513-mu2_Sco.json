@@ -1,1 +1,71 @@
-{"id":262513,"date":"2023-11-28T20:51:56","date_gmt":"2023-11-29T01:51:56","modified":"2025-04-23T05:56:22","modified_gmt":"2025-04-23T09:56:22","slug":"mu2_sco","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/mu2_sco/","featured_media":0,"categories":[],"acf":{"display_name":"mu2 Scorpii","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248190],"exo_id":"mu2_Sco","st_optmag":3.56,"st_vj":3.56,"st_dist":9.6382902362397,"st_j":3.56,"st_mass":9.1,"dec":-38.0176339,"st_teff":21700,"st_rad":5.6,"ra":253.0838724,"system_radius":36262523688,"pl_hostname":"mu2_Sco","stellar_type":"B","tic_id":"TIC 338105219","magnitude":3.56},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262513","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248190"}]}}
+{
+  "id": 262513,
+  "date": "2023-11-28T20:51:56",
+  "date_gmt": "2023-11-29T01:51:56",
+  "modified": "2025-04-23T05:56:22",
+  "modified_gmt": "2025-04-23T09:56:22",
+  "slug": "mu2_sco",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/mu2_sco/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "mu2 Scorpii",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248190
+    ],
+    "exo_id": "mu2_Sco",
+    "st_optmag": 3.56,
+    "st_vj": 3.56,
+    "st_dist": 9.6382902362397,
+    "st_j": 3.56,
+    "st_mass": 9.1,
+    "dec": -38.0176339,
+    "st_teff": 21700,
+    "st_rad": 5.6,
+    "ra": 253.0838724,
+    "system_radius": 36262523688,
+    "pl_hostname": "mu2_Sco",
+    "stellar_type": "B",
+    "tic_id": "TIC 338105219",
+    "magnitude": 3.56
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262513",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248190"
+      }
+    ]
+  }
+}

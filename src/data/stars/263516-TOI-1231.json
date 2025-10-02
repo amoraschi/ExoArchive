@@ -1,1 +1,71 @@
-{"id":263516,"date":"2023-11-28T21:04:39","date_gmt":"2023-11-29T02:04:39","modified":"2025-04-23T05:55:08","modified_gmt":"2025-04-23T09:55:08","slug":"toi-1231","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1231/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1231","custom_star_title":"","aliases":"","constellation":"Vela","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248420],"exo_id":"TOI-1231","st_optmag":12.36,"st_vj":12.36,"st_dist":27.6227,"st_j":12.36,"st_mass":0.485,"dec":-52.4678724,"st_teff":3553,"st_rad":0.476,"ra":156.74726,"system_radius":19268205.656,"pl_hostname":"TOI-1231","stellar_type":"M","tic_id":"TIC 447061717","magnitude":12.36},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263516","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248420"}]}}
+{
+  "id": 263516,
+  "date": "2023-11-28T21:04:39",
+  "date_gmt": "2023-11-29T02:04:39",
+  "modified": "2025-04-23T05:55:08",
+  "modified_gmt": "2025-04-23T09:55:08",
+  "slug": "toi-1231",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1231/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1231",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vela",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248420
+    ],
+    "exo_id": "TOI-1231",
+    "st_optmag": 12.36,
+    "st_vj": 12.36,
+    "st_dist": 27.6227,
+    "st_j": 12.36,
+    "st_mass": 0.485,
+    "dec": -52.4678724,
+    "st_teff": 3553,
+    "st_rad": 0.476,
+    "ra": 156.74726,
+    "system_radius": 19268205.656,
+    "pl_hostname": "TOI-1231",
+    "stellar_type": "M",
+    "tic_id": "TIC 447061717",
+    "magnitude": 12.36
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263516",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248420"
+      }
+    ]
+  }
+}

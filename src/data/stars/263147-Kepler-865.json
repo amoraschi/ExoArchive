@@ -1,1 +1,76 @@
-{"id":263147,"date":"2023-11-28T21:00:00","date_gmt":"2023-11-29T02:00:00","modified":"2025-06-13T07:33:33","modified_gmt":"2025-06-13T11:33:33","slug":"kepler-865","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-865/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-865","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247828,"1":247827},"exo_id":"Kepler-865","st_optmag":14.635,"st_vj":14.635,"st_dist":586.137,"st_j":14.635,"st_mass":0.782,"dec":43.5272796,"st_teff":5440,"st_rad":0.885,"ra":297.7242257,"system_radius":15812494.859,"pl_hostname":"Kepler-865","stellar_type":"G","tic_id":"TIC 273499989","magnitude":14.635},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263147","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247828"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247827"}]}}
+{
+  "id": 263147,
+  "date": "2023-11-28T21:00:00",
+  "date_gmt": "2023-11-29T02:00:00",
+  "modified": "2025-06-13T07:33:33",
+  "modified_gmt": "2025-06-13T11:33:33",
+  "slug": "kepler-865",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-865/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-865",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247828,
+      "1": 247827
+    },
+    "exo_id": "Kepler-865",
+    "st_optmag": 14.635,
+    "st_vj": 14.635,
+    "st_dist": 586.137,
+    "st_j": 14.635,
+    "st_mass": 0.782,
+    "dec": 43.5272796,
+    "st_teff": 5440,
+    "st_rad": 0.885,
+    "ra": 297.7242257,
+    "system_radius": 15812494.859,
+    "pl_hostname": "Kepler-865",
+    "stellar_type": "G",
+    "tic_id": "TIC 273499989",
+    "magnitude": 14.635
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263147",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247828"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247827"
+      }
+    ]
+  }
+}

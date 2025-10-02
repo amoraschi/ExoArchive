@@ -1,1 +1,79 @@
-{"id":245574,"date":"2017-10-02T13:32:48","date_gmt":"2017-10-02T17:32:48","modified":"2025-03-28T07:30:42","modified_gmt":"2025-03-28T11:30:42","slug":"kepler-1246-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1246-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1246","pl_letter":"b","display_name":"Kepler-1246 b","planet_radius":"1.36 x Earth","derived_description":"Kepler-1246 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.42 Earths, it takes 11.3 days to complete one orbit of its star, and is 0.0848 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":436.505,"planet_mass":"2.42 Earths","st_optmag":15.27,"discovery_date":"2016","pl_orbsmax":0.0848,"period_display":"11.3 days","eccentricity":"0.0","star_id":264077,"pl_orbper":11.32271513,"pl_kepflag":true,"pl_radj":0.12133107,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.36,"exo_id":"Kepler-1246_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245574","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264077"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245574,
+  "date": "2017-10-02T13:32:48",
+  "date_gmt": "2017-10-02T17:32:48",
+  "modified": "2025-03-28T07:30:42",
+  "modified_gmt": "2025-03-28T11:30:42",
+  "slug": "kepler-1246-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1246-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1246",
+    "pl_letter": "b",
+    "display_name": "Kepler-1246 b",
+    "planet_radius": "1.36 x Earth",
+    "derived_description": "Kepler-1246 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.42 Earths, it takes 11.3 days to complete one orbit of its star, and is 0.0848 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 436.505,
+    "planet_mass": "2.42 Earths",
+    "st_optmag": 15.27,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0848,
+    "period_display": "11.3 days",
+    "eccentricity": "0.0",
+    "star_id": 264077,
+    "pl_orbper": 11.32271513,
+    "pl_kepflag": true,
+    "pl_radj": 0.12133107,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.36,
+    "exo_id": "Kepler-1246_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245574",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264077"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,1 +1,69 @@
-{"id":391168,"date":"2024-04-30T20:01:15","date_gmt":"2024-05-01T00:01:15","modified":"2025-04-23T05:57:25","modified_gmt":"2025-04-23T09:57:25","slug":"groombridge-1618","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/groombridge-1618/","featured_media":429649,"categories":[],"acf":{"display_name":"Groombridge 1618","custom_star_title":"","aliases":"HD 88230,GJ 380","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Groombridge_1618","st_optmag":6.55,"st_vj":6.55,"st_dist":4.8706,"st_j":6.55,"st_mass":0.63,"dec":49.4542364,"st_teff":4097,"st_rad":0.636,"ra":152.8422498,"system_radius":149597870,"pl_hostname":"Groombridge_1618","stellar_type":"K","tic_id":"TIC 371520835","magnitude":6.6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391168","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391168,
+  "date": "2024-04-30T20:01:15",
+  "date_gmt": "2024-05-01T00:01:15",
+  "modified": "2025-04-23T05:57:25",
+  "modified_gmt": "2025-04-23T09:57:25",
+  "slug": "groombridge-1618",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/groombridge-1618/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Groombridge 1618",
+    "custom_star_title": "",
+    "aliases": "HD 88230,GJ 380",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Groombridge_1618",
+    "st_optmag": 6.55,
+    "st_vj": 6.55,
+    "st_dist": 4.8706,
+    "st_j": 6.55,
+    "st_mass": 0.63,
+    "dec": 49.4542364,
+    "st_teff": 4097,
+    "st_rad": 0.636,
+    "ra": 152.8422498,
+    "system_radius": 149597870,
+    "pl_hostname": "Groombridge_1618",
+    "stellar_type": "K",
+    "tic_id": "TIC 371520835",
+    "magnitude": 6.6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391168",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

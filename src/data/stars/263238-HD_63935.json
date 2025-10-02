@@ -1,1 +1,76 @@
-{"id":263238,"date":"2023-11-28T21:01:08","date_gmt":"2023-11-29T02:01:08","modified":"2025-04-23T05:55:26","modified_gmt":"2025-04-23T09:55:26","slug":"hd_63935","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_63935/","featured_media":0,"categories":[],"acf":{"display_name":"HD 63935","custom_star_title":"","aliases":"","constellation":"Canis Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244498,244499],"exo_id":"HD_63935","st_optmag":8.58,"st_vj":8.58,"st_dist":48.9739,"st_j":8.58,"st_mass":0.9406,"dec":9.3852412,"st_teff":5513,"st_rad":0.9598,"ra":117.9246417,"system_radius":22140484.76,"pl_hostname":"HD_63935","stellar_type":"G","tic_id":"TIC 453211454","magnitude":8.58},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263238","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244499"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244498"}]}}
+{
+  "id": 263238,
+  "date": "2023-11-28T21:01:08",
+  "date_gmt": "2023-11-29T02:01:08",
+  "modified": "2025-04-23T05:55:26",
+  "modified_gmt": "2025-04-23T09:55:26",
+  "slug": "hd_63935",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_63935/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 63935",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244498,
+      244499
+    ],
+    "exo_id": "HD_63935",
+    "st_optmag": 8.58,
+    "st_vj": 8.58,
+    "st_dist": 48.9739,
+    "st_j": 8.58,
+    "st_mass": 0.9406,
+    "dec": 9.3852412,
+    "st_teff": 5513,
+    "st_rad": 0.9598,
+    "ra": 117.9246417,
+    "system_radius": 22140484.76,
+    "pl_hostname": "HD_63935",
+    "stellar_type": "G",
+    "tic_id": "TIC 453211454",
+    "magnitude": 8.58
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263238",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244499"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244498"
+      }
+    ]
+  }
+}

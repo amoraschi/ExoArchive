@@ -1,1 +1,79 @@
-{"id":246445,"date":"2021-12-13T17:05:39","date_gmt":"2021-12-13T22:05:39","modified":"2025-03-28T07:23:11","modified_gmt":"2025-03-28T11:23:11","slug":"kepler-1882-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1882-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1882","pl_letter":"b","display_name":"Kepler-1882 b","planet_radius":"1.48674404 x Earth","derived_description":"Kepler-1882 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.81 Earths, it takes 13.8 days to complete one orbit of its star, and is 0.11636 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":443.371,"planet_mass":"2.81 Earths","st_optmag":12.516,"discovery_date":"2021","pl_orbsmax":0.11636,"period_display":"13.8 days","eccentricity":"0.0","star_id":264208,"pl_orbper":13.78730011,"pl_kepflag":true,"pl_radj":0.13263865,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.48674404,"exo_id":"Kepler-1882_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246445","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264208"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246445,
+  "date": "2021-12-13T17:05:39",
+  "date_gmt": "2021-12-13T22:05:39",
+  "modified": "2025-03-28T07:23:11",
+  "modified_gmt": "2025-03-28T11:23:11",
+  "slug": "kepler-1882-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1882-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1882",
+    "pl_letter": "b",
+    "display_name": "Kepler-1882 b",
+    "planet_radius": "1.48674404 x Earth",
+    "derived_description": "Kepler-1882 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.81 Earths, it takes 13.8 days to complete one orbit of its star, and is 0.11636 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 443.371,
+    "planet_mass": "2.81 Earths",
+    "st_optmag": 12.516,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.11636,
+    "period_display": "13.8 days",
+    "eccentricity": "0.0",
+    "star_id": 264208,
+    "pl_orbper": 13.78730011,
+    "pl_kepflag": true,
+    "pl_radj": 0.13263865,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.48674404,
+    "exo_id": "Kepler-1882_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246445",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264208"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

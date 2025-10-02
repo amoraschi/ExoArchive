@@ -1,1 +1,71 @@
-{"id":261807,"date":"2023-11-28T20:42:57","date_gmt":"2023-11-29T01:42:57","modified":"2025-04-23T05:55:04","modified_gmt":"2025-04-23T09:55:04","slug":"kepler-774","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-774/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-774","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247699],"exo_id":"Kepler-774","st_optmag":12.886,"st_vj":12.886,"st_dist":917.804,"st_j":12.886,"st_mass":1.57,"dec":38.211894,"st_teff":6403,"st_rad":2.42,"ra":291.0318604,"system_radius":16186489.534,"pl_hostname":"Kepler-774","stellar_type":"F","tic_id":"TIC 122780849","magnitude":12.886},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261807","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247699"}]}}
+{
+  "id": 261807,
+  "date": "2023-11-28T20:42:57",
+  "date_gmt": "2023-11-29T01:42:57",
+  "modified": "2025-04-23T05:55:04",
+  "modified_gmt": "2025-04-23T09:55:04",
+  "slug": "kepler-774",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-774/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-774",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247699
+    ],
+    "exo_id": "Kepler-774",
+    "st_optmag": 12.886,
+    "st_vj": 12.886,
+    "st_dist": 917.804,
+    "st_j": 12.886,
+    "st_mass": 1.57,
+    "dec": 38.211894,
+    "st_teff": 6403,
+    "st_rad": 2.42,
+    "ra": 291.0318604,
+    "system_radius": 16186489.534,
+    "pl_hostname": "Kepler-774",
+    "stellar_type": "F",
+    "tic_id": "TIC 122780849",
+    "magnitude": 12.886
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261807",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247699"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244125,"date":"2021-06-17T13:33:02","date_gmt":"2021-06-17T17:33:02","modified":"2025-07-07T20:35:01","modified_gmt":"2025-07-08T00:35:01","slug":"hd-164922-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-164922-e/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_164922","pl_letter":"e","display_name":"HD 164922 e","planet_radius":"0.288 x Jupiter (estimate)","derived_description":"HD 164922 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.52012027 Earths, it takes 41.8 days to complete one orbit of its star, and is 0.2292 AU from its star. Its discovery was announced in 2021.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":22.0016,"planet_mass":"10.52012027 Earths","st_optmag":7.01227,"discovery_date":"2021","pl_orbsmax":0.2292,"period_display":"41.8 days","eccentricity":"0.09","star_id":261282,"pl_orbper":41.763,"pl_kepflag":false,"pl_radj":0.288,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":-17.1887,"multiple_planet_system":false,"pl_rade":3.23,"exo_id":"HD_164922_e","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.086},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244125","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261282"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244125,
+  "date": "2021-06-17T13:33:02",
+  "date_gmt": "2021-06-17T17:33:02",
+  "modified": "2025-07-07T20:35:01",
+  "modified_gmt": "2025-07-08T00:35:01",
+  "slug": "hd-164922-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-164922-e/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_164922",
+    "pl_letter": "e",
+    "display_name": "HD 164922 e",
+    "planet_radius": "0.288 x Jupiter (estimate)",
+    "derived_description": "HD 164922 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.52012027 Earths, it takes 41.8 days to complete one orbit of its star, and is 0.2292 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 22.0016,
+    "planet_mass": "10.52012027 Earths",
+    "st_optmag": 7.01227,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.2292,
+    "period_display": "41.8 days",
+    "eccentricity": "0.09",
+    "star_id": 261282,
+    "pl_orbper": 41.763,
+    "pl_kepflag": false,
+    "pl_radj": 0.288,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": -17.1887,
+    "multiple_planet_system": false,
+    "pl_rade": 3.23,
+    "exo_id": "HD_164922_e",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.086
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244125",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261282"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

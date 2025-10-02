@@ -1,1 +1,77 @@
-{"id":871890,"date":"2025-06-13T07:33:34","date_gmt":"2025-06-13T11:33:34","modified":"2025-06-13T07:33:34","modified_gmt":"2025-06-13T11:33:34","slug":"toi-6894","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-6894/","featured_media":429650,"categories":[],"acf":{"display_name":"TOI-6894","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876315],"exo_id":"TOI-6894","st_optmag":"","st_vj":"","st_dist":73.8131,"st_j":"","st_mass":0.207,"dec":12.4510906,"st_teff":3007,"st_rad":0.2276,"ra":173.4691418,"system_radius":3895528.5348,"pl_hostname":"TOI-6894","stellar_type":"M","tic_id":"TIC 67512645","magnitude":16.3092},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/871890","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876315"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429650"}]}}
+{
+  "id": 871890,
+  "date": "2025-06-13T07:33:34",
+  "date_gmt": "2025-06-13T11:33:34",
+  "modified": "2025-06-13T07:33:34",
+  "modified_gmt": "2025-06-13T11:33:34",
+  "slug": "toi-6894",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6894/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6894",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876315
+    ],
+    "exo_id": "TOI-6894",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 73.8131,
+    "st_j": "",
+    "st_mass": 0.207,
+    "dec": 12.4510906,
+    "st_teff": 3007,
+    "st_rad": 0.2276,
+    "ra": 173.4691418,
+    "system_radius": 3895528.5348,
+    "pl_hostname": "TOI-6894",
+    "stellar_type": "M",
+    "tic_id": "TIC 67512645",
+    "magnitude": 16.3092
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/871890",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876315"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

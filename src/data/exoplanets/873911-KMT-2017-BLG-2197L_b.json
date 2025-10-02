@@ -1,1 +1,79 @@
-{"id":873911,"date":"2025-06-25T12:05:09","date_gmt":"2025-06-25T16:05:09","modified":"2025-06-25T12:05:09","modified_gmt":"2025-06-25T16:05:09","slug":"kmt-2017-blg-2197l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kmt-2017-blg-2197l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KMT-2017-BLG-2197L","pl_letter":"b","display_name":"KMT-2017-BLG-2197L b","planet_radius":"1.12 x Jupiter (estimate)","derived_description":"KMT-2017-BLG-2197L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 8.84 Jupiters, it takes 105.8 years to complete one orbit of its star, and is 15.91 AU from its star. Its discovery was announced in 2025.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":7800,"planet_mass":"8.84 Jupiters","st_optmag":"","discovery_date":"2025","pl_orbsmax":15.91,"period_display":"105.8 years","eccentricity":"","star_id":861748,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.12,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.5,"exo_id":"KMT-2017-BLG-2197L_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/873911","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/861748"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 873911,
+  "date": "2025-06-25T12:05:09",
+  "date_gmt": "2025-06-25T16:05:09",
+  "modified": "2025-06-25T12:05:09",
+  "modified_gmt": "2025-06-25T16:05:09",
+  "slug": "kmt-2017-blg-2197l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2017-blg-2197l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2017-BLG-2197L",
+    "pl_letter": "b",
+    "display_name": "KMT-2017-BLG-2197L b",
+    "planet_radius": "1.12 x Jupiter (estimate)",
+    "derived_description": "KMT-2017-BLG-2197L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 8.84 Jupiters, it takes 105.8 years to complete one orbit of its star, and is 15.91 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 7800,
+    "planet_mass": "8.84 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2025",
+    "pl_orbsmax": 15.91,
+    "period_display": "105.8 years",
+    "eccentricity": "",
+    "star_id": 861748,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.12,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.5,
+    "exo_id": "KMT-2017-BLG-2197L_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/873911",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/861748"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

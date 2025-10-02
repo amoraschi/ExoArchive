@@ -1,1 +1,81 @@
-{"id":261278,"date":"2023-11-28T20:36:20","date_gmt":"2023-11-29T01:36:20","modified":"2025-08-28T21:48:43","modified_gmt":"2025-08-29T01:48:43","slug":"k2-233","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-233/","featured_media":0,"categories":[],"acf":{"display_name":"K2-233","custom_star_title":"","aliases":"","constellation":"Libra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244904,244905,244906],"exo_id":"K2-233","st_optmag":10.883,"st_vj":10.883,"st_dist":67.5062,"st_j":10.883,"st_mass":0.79,"dec":-20.2317975,"st_teff":4796,"st_rad":0.71,"ra":230.4799011,"system_radius":22679037.092,"pl_hostname":"K2-233","stellar_type":"K","tic_id":"TIC 428820090","magnitude":10.883},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261278","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244906"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244905"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244904"}]}}
+{
+  "id": 261278,
+  "date": "2023-11-28T20:36:20",
+  "date_gmt": "2023-11-29T01:36:20",
+  "modified": "2025-08-28T21:48:43",
+  "modified_gmt": "2025-08-29T01:48:43",
+  "slug": "k2-233",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-233/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-233",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Libra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244904,
+      244905,
+      244906
+    ],
+    "exo_id": "K2-233",
+    "st_optmag": 10.883,
+    "st_vj": 10.883,
+    "st_dist": 67.5062,
+    "st_j": 10.883,
+    "st_mass": 0.79,
+    "dec": -20.2317975,
+    "st_teff": 4796,
+    "st_rad": 0.71,
+    "ra": 230.4799011,
+    "system_radius": 22679037.092,
+    "pl_hostname": "K2-233",
+    "stellar_type": "K",
+    "tic_id": "TIC 428820090",
+    "magnitude": 10.883
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261278",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244906"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244905"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244904"
+      }
+    ]
+  }
+}

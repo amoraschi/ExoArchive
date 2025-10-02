@@ -1,1 +1,71 @@
-{"id":401576,"date":"2024-06-13T20:50:30","date_gmt":"2024-06-14T00:50:30","modified":"2025-04-23T05:56:00","modified_gmt":"2025-04-23T09:56:00","slug":"toi-1448","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1448/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1448","custom_star_title":"","aliases":"","constellation":"Cepheus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[401618],"exo_id":"TOI-1448","st_optmag":15.678,"st_vj":15.678,"st_dist":73.3345,"st_j":15.678,"st_mass":0.372,"dec":57.7710946,"st_teff":3412,"st_rad":0.38,"ra":316.324003,"system_radius":8482199.229,"pl_hostname":"TOI-1448","stellar_type":"M","tic_id":"TIC 343628284","magnitude":15.678},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/401576","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401618"}]}}
+{
+  "id": 401576,
+  "date": "2024-06-13T20:50:30",
+  "date_gmt": "2024-06-14T00:50:30",
+  "modified": "2025-04-23T05:56:00",
+  "modified_gmt": "2025-04-23T09:56:00",
+  "slug": "toi-1448",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1448/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1448",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      401618
+    ],
+    "exo_id": "TOI-1448",
+    "st_optmag": 15.678,
+    "st_vj": 15.678,
+    "st_dist": 73.3345,
+    "st_j": 15.678,
+    "st_mass": 0.372,
+    "dec": 57.7710946,
+    "st_teff": 3412,
+    "st_rad": 0.38,
+    "ra": 316.324003,
+    "system_radius": 8482199.229,
+    "pl_hostname": "TOI-1448",
+    "stellar_type": "M",
+    "tic_id": "TIC 343628284",
+    "magnitude": 15.678
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401576",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401618"
+      }
+    ]
+  }
+}

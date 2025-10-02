@@ -1,1 +1,71 @@
-{"id":261981,"date":"2023-11-28T20:45:11","date_gmt":"2023-11-29T01:45:11","modified":"2025-04-23T05:54:13","modified_gmt":"2025-04-23T09:54:13","slug":"hats-23","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-23/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-23","custom_star_title":"","aliases":"","constellation":"Telescopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243805],"exo_id":"HATS-23","st_optmag":13.84,"st_vj":13.84,"st_dist":639.004,"st_j":13.84,"st_mass":1.121,"dec":-50.0673496,"st_teff":5780,"st_rad":1.199,"ra":286.36675,"system_radius":5081839.6439,"pl_hostname":"HATS-23","stellar_type":"G","tic_id":"TIC 7088246","magnitude":13.84},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261981","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243805"}]}}
+{
+  "id": 261981,
+  "date": "2023-11-28T20:45:11",
+  "date_gmt": "2023-11-29T01:45:11",
+  "modified": "2025-04-23T05:54:13",
+  "modified_gmt": "2025-04-23T09:54:13",
+  "slug": "hats-23",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-23/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-23",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Telescopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243805
+    ],
+    "exo_id": "HATS-23",
+    "st_optmag": 13.84,
+    "st_vj": 13.84,
+    "st_dist": 639.004,
+    "st_j": 13.84,
+    "st_mass": 1.121,
+    "dec": -50.0673496,
+    "st_teff": 5780,
+    "st_rad": 1.199,
+    "ra": 286.36675,
+    "system_radius": 5081839.6439,
+    "pl_hostname": "HATS-23",
+    "stellar_type": "G",
+    "tic_id": "TIC 7088246",
+    "magnitude": 13.84
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261981",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243805"
+      }
+    ]
+  }
+}

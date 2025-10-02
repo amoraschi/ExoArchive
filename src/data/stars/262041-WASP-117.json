@@ -1,1 +1,71 @@
-{"id":262041,"date":"2023-11-28T20:45:57","date_gmt":"2023-11-29T01:45:57","modified":"2025-04-23T05:55:53","modified_gmt":"2025-04-23T09:55:53","slug":"wasp-117","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-117/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-117","custom_star_title":"","aliases":"","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248756],"exo_id":"WASP-117","st_optmag":10.139,"st_vj":10.139,"st_dist":157.963,"st_j":10.139,"st_mass":1.29,"dec":-50.2844247,"st_teff":6040,"st_rad":1.22,"ra":36.7758112,"system_radius":14150462.5233,"pl_hostname":"WASP-117","stellar_type":"F","tic_id":"TIC 166739520","magnitude":10.139},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262041","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248756"}]}}
+{
+  "id": 262041,
+  "date": "2023-11-28T20:45:57",
+  "date_gmt": "2023-11-29T01:45:57",
+  "modified": "2025-04-23T05:55:53",
+  "modified_gmt": "2025-04-23T09:55:53",
+  "slug": "wasp-117",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-117/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-117",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248756
+    ],
+    "exo_id": "WASP-117",
+    "st_optmag": 10.139,
+    "st_vj": 10.139,
+    "st_dist": 157.963,
+    "st_j": 10.139,
+    "st_mass": 1.29,
+    "dec": -50.2844247,
+    "st_teff": 6040,
+    "st_rad": 1.22,
+    "ra": 36.7758112,
+    "system_radius": 14150462.5233,
+    "pl_hostname": "WASP-117",
+    "stellar_type": "F",
+    "tic_id": "TIC 166739520",
+    "magnitude": 10.139
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262041",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248756"
+      }
+    ]
+  }
+}

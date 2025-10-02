@@ -1,1 +1,71 @@
-{"id":261935,"date":"2023-11-28T20:44:36","date_gmt":"2023-11-29T01:44:36","modified":"2025-04-23T05:55:12","modified_gmt":"2025-04-23T09:55:12","slug":"ogle-2005-blg-390l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2005-blg-390l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2005-BLG-390L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248234],"exo_id":"OGLE-2005-BLG-390L","st_optmag":"","st_vj":"","st_dist":6600,"st_j":"","st_mass":0.22,"dec":-30.3773056,"st_teff":"","st_rad":"","ra":268.579958,"system_radius":388954462,"pl_hostname":"OGLE-2005-BLG-390L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261935","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248234"}]}}
+{
+  "id": 261935,
+  "date": "2023-11-28T20:44:36",
+  "date_gmt": "2023-11-29T01:44:36",
+  "modified": "2025-04-23T05:55:12",
+  "modified_gmt": "2025-04-23T09:55:12",
+  "slug": "ogle-2005-blg-390l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2005-blg-390l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2005-BLG-390L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248234
+    ],
+    "exo_id": "OGLE-2005-BLG-390L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6600,
+    "st_j": "",
+    "st_mass": 0.22,
+    "dec": -30.3773056,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.579958,
+    "system_radius": 388954462,
+    "pl_hostname": "OGLE-2005-BLG-390L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261935",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248234"
+      }
+    ]
+  }
+}

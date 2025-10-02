@@ -1,1 +1,71 @@
-{"id":261818,"date":"2023-11-28T20:43:06","date_gmt":"2023-11-29T01:43:06","modified":"2025-04-23T05:56:17","modified_gmt":"2025-04-23T09:56:17","slug":"kepler-761","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-761/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-761","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247680],"exo_id":"Kepler-761","st_optmag":14.993,"st_vj":14.993,"st_dist":830.707,"st_j":14.993,"st_mass":0.95,"dec":44.1436249,"st_teff":5706,"st_rad":0.93,"ra":290.503599,"system_radius":13074853.838,"pl_hostname":"Kepler-761","stellar_type":"G","tic_id":"TIC 159442087","magnitude":14.993},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261818","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247680"}]}}
+{
+  "id": 261818,
+  "date": "2023-11-28T20:43:06",
+  "date_gmt": "2023-11-29T01:43:06",
+  "modified": "2025-04-23T05:56:17",
+  "modified_gmt": "2025-04-23T09:56:17",
+  "slug": "kepler-761",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-761/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-761",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247680
+    ],
+    "exo_id": "Kepler-761",
+    "st_optmag": 14.993,
+    "st_vj": 14.993,
+    "st_dist": 830.707,
+    "st_j": 14.993,
+    "st_mass": 0.95,
+    "dec": 44.1436249,
+    "st_teff": 5706,
+    "st_rad": 0.93,
+    "ra": 290.503599,
+    "system_radius": 13074853.838,
+    "pl_hostname": "Kepler-761",
+    "stellar_type": "G",
+    "tic_id": "TIC 159442087",
+    "magnitude": 14.993
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261818",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247680"
+      }
+    ]
+  }
+}

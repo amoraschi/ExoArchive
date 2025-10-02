@@ -1,1 +1,77 @@
-{"id":860121,"date":"2025-05-31T07:08:48","date_gmt":"2025-05-31T11:08:48","modified":"2025-05-31T07:08:48","modified_gmt":"2025-05-31T11:08:48","slug":"hd-102888","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-102888/","featured_media":429649,"categories":[],"acf":{"display_name":"HD 102888","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876488],"exo_id":"HD_102888","st_optmag":6.48,"st_vj":6.48,"st_dist":126.484,"st_j":6.48,"st_mass":2.42,"dec":-27.2779074,"st_teff":4990,"st_rad":8.6,"ra":177.6545263,"system_radius":157077763.5,"pl_hostname":"HD_102888","stellar_type":"K","tic_id":"TIC 397394991","magnitude":6.48},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/860121","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876488"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 860121,
+  "date": "2025-05-31T07:08:48",
+  "date_gmt": "2025-05-31T11:08:48",
+  "modified": "2025-05-31T07:08:48",
+  "modified_gmt": "2025-05-31T11:08:48",
+  "slug": "hd-102888",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-102888/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 102888",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876488
+    ],
+    "exo_id": "HD_102888",
+    "st_optmag": 6.48,
+    "st_vj": 6.48,
+    "st_dist": 126.484,
+    "st_j": 6.48,
+    "st_mass": 2.42,
+    "dec": -27.2779074,
+    "st_teff": 4990,
+    "st_rad": 8.6,
+    "ra": 177.6545263,
+    "system_radius": 157077763.5,
+    "pl_hostname": "HD_102888",
+    "stellar_type": "K",
+    "tic_id": "TIC 397394991",
+    "magnitude": 6.48
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/860121",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876488"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263757,"date":"2023-11-28T21:07:49","date_gmt":"2023-11-29T02:07:49","modified":"2025-04-23T05:55:49","modified_gmt":"2025-04-23T09:55:49","slug":"kepler-510","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-510/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-510","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247327],"exo_id":"Kepler-510","st_optmag":12.067,"st_vj":12.067,"st_dist":386.177,"st_j":12.067,"st_mass":0.91,"dec":39.2441716,"st_teff":5746,"st_rad":1.41,"ra":287.6550196,"system_radius":20225632.024,"pl_hostname":"Kepler-510","stellar_type":"G","tic_id":"TIC 121327187","magnitude":12.067},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263757","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247327"}]}}
+{
+  "id": 263757,
+  "date": "2023-11-28T21:07:49",
+  "date_gmt": "2023-11-29T02:07:49",
+  "modified": "2025-04-23T05:55:49",
+  "modified_gmt": "2025-04-23T09:55:49",
+  "slug": "kepler-510",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-510/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-510",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247327
+    ],
+    "exo_id": "Kepler-510",
+    "st_optmag": 12.067,
+    "st_vj": 12.067,
+    "st_dist": 386.177,
+    "st_j": 12.067,
+    "st_mass": 0.91,
+    "dec": 39.2441716,
+    "st_teff": 5746,
+    "st_rad": 1.41,
+    "ra": 287.6550196,
+    "system_radius": 20225632.024,
+    "pl_hostname": "Kepler-510",
+    "stellar_type": "G",
+    "tic_id": "TIC 121327187",
+    "magnitude": 12.067
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263757",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247327"
+      }
+    ]
+  }
+}

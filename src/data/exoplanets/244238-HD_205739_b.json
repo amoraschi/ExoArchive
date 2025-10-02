@@ -1,1 +1,79 @@
-{"id":244238,"date":"2019-04-22T16:48:44","date_gmt":"2019-04-22T20:48:44","modified":"2024-10-24T18:29:27","modified_gmt":"2024-10-24T22:29:27","slug":"hd-205739-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-205739-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_205739","pl_letter":"b","display_name":"HD 205739 b","planet_radius":"1.21 x Jupiter (estimate)","derived_description":"HD 205739 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.37 Jupiters, it takes 279.8 days to complete one orbit of its star, and is 0.896 AU from its star. Its discovery was announced in 2008.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Las Campanas Observatory","st_dist":92.5087,"planet_mass":"1.37 Jupiters","st_optmag":8.56,"discovery_date":"2008","pl_orbsmax":0.896,"period_display":"279.8 days","eccentricity":"0.27","star_id":260586,"pl_orbper":279.8,"pl_kepflag":false,"pl_radj":1.21,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":301,"multiple_planet_system":false,"pl_rade":13.6,"exo_id":"HD_205739_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.27},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244238","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260586"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244238,
+  "date": "2019-04-22T16:48:44",
+  "date_gmt": "2019-04-22T20:48:44",
+  "modified": "2024-10-24T18:29:27",
+  "modified_gmt": "2024-10-24T22:29:27",
+  "slug": "hd-205739-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-205739-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_205739",
+    "pl_letter": "b",
+    "display_name": "HD 205739 b",
+    "planet_radius": "1.21 x Jupiter (estimate)",
+    "derived_description": "HD 205739 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.37 Jupiters, it takes 279.8 days to complete one orbit of its star, and is 0.896 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Las Campanas Observatory",
+    "st_dist": 92.5087,
+    "planet_mass": "1.37 Jupiters",
+    "st_optmag": 8.56,
+    "discovery_date": "2008",
+    "pl_orbsmax": 0.896,
+    "period_display": "279.8 days",
+    "eccentricity": "0.27",
+    "star_id": 260586,
+    "pl_orbper": 279.8,
+    "pl_kepflag": false,
+    "pl_radj": 1.21,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": 301,
+    "multiple_planet_system": false,
+    "pl_rade": 13.6,
+    "exo_id": "HD_205739_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.27
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244238",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260586"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":420862,"date":"2024-09-06T23:25:20","date_gmt":"2024-09-07T03:25:20","modified":"2025-04-23T05:54:48","modified_gmt":"2025-04-23T09:54:48","slug":"toi-5634-a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5634-a/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-5634 A","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[420875],"exo_id":"TOI-5634_A","st_optmag":16.854,"st_vj":16.854,"st_dist":306.144,"st_j":16.854,"st_mass":0.556,"dec":20.9652921,"st_teff":3896,"st_rad":0.54,"ra":175.6436366,"system_radius":4069062.064,"pl_hostname":"TOI-5634_A","stellar_type":"M","tic_id":"TIC 119585136","magnitude":16.854},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/420862","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/420875"}]}}
+{
+  "id": 420862,
+  "date": "2024-09-06T23:25:20",
+  "date_gmt": "2024-09-07T03:25:20",
+  "modified": "2025-04-23T05:54:48",
+  "modified_gmt": "2025-04-23T09:54:48",
+  "slug": "toi-5634-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5634-a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5634 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      420875
+    ],
+    "exo_id": "TOI-5634_A",
+    "st_optmag": 16.854,
+    "st_vj": 16.854,
+    "st_dist": 306.144,
+    "st_j": 16.854,
+    "st_mass": 0.556,
+    "dec": 20.9652921,
+    "st_teff": 3896,
+    "st_rad": 0.54,
+    "ra": 175.6436366,
+    "system_radius": 4069062.064,
+    "pl_hostname": "TOI-5634_A",
+    "stellar_type": "M",
+    "tic_id": "TIC 119585136",
+    "magnitude": 16.854
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/420862",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/420875"
+      }
+    ]
+  }
+}

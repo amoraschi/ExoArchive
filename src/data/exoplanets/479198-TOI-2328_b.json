@@ -1,1 +1,79 @@
-{"id":479198,"date":"2025-03-07T05:41:57","date_gmt":"2025-03-07T10:41:57","modified":"2025-07-07T20:39:10","modified_gmt":"2025-07-08T00:39:10","slug":"toi-2328-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2328-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2328","pl_letter":"b","display_name":"TOI-2328 b","planet_radius":"0.89 x Jupiter","derived_description":"TOI-2328 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.16 Jupiters, it takes 17.1 days to complete one orbit of its star, and is 0.127 AU from its star. Its discovery was announced in 2025.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":231.782,"planet_mass":"0.16 Jupiters","st_optmag":12.331,"discovery_date":"2025","pl_orbsmax":0.127,"period_display":"17.1 days","eccentricity":"0.06","star_id":479179,"pl_orbper":17.10197,"pl_kepflag":false,"pl_radj":0.89,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":148.7,"multiple_planet_system":false,"pl_rade":9.97599282,"exo_id":"TOI-2328_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0.057},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/479198","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/479179"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 479198,
+  "date": "2025-03-07T05:41:57",
+  "date_gmt": "2025-03-07T10:41:57",
+  "modified": "2025-07-07T20:39:10",
+  "modified_gmt": "2025-07-08T00:39:10",
+  "slug": "toi-2328-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2328-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2328",
+    "pl_letter": "b",
+    "display_name": "TOI-2328 b",
+    "planet_radius": "0.89 x Jupiter",
+    "derived_description": "TOI-2328 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.16 Jupiters, it takes 17.1 days to complete one orbit of its star, and is 0.127 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 231.782,
+    "planet_mass": "0.16 Jupiters",
+    "st_optmag": 12.331,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.127,
+    "period_display": "17.1 days",
+    "eccentricity": "0.06",
+    "star_id": 479179,
+    "pl_orbper": 17.10197,
+    "pl_kepflag": false,
+    "pl_radj": 0.89,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 148.7,
+    "multiple_planet_system": false,
+    "pl_rade": 9.97599282,
+    "exo_id": "TOI-2328_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.057
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/479198",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/479179"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

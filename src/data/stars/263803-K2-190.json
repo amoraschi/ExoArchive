@@ -1,1 +1,76 @@
-{"id":263803,"date":"2023-11-28T21:08:25","date_gmt":"2023-11-29T02:08:25","modified":"2025-04-23T05:53:58","modified_gmt":"2025-04-23T09:53:58","slug":"k2-190","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-190/","featured_media":0,"categories":[],"acf":{"display_name":"K2-190","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244843,244844],"exo_id":"K2-190","st_optmag":11.138,"st_vj":11.138,"st_dist":160.679,"st_j":11.138,"st_mass":0.904597,"dec":-13.1608686,"st_teff":5631,"st_rad":0.912206,"ra":205.3630485,"system_radius":149597870,"pl_hostname":"K2-190","stellar_type":"G","tic_id":"TIC 392469577","magnitude":11.138},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263803","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244844"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244843"}]}}
+{
+  "id": 263803,
+  "date": "2023-11-28T21:08:25",
+  "date_gmt": "2023-11-29T02:08:25",
+  "modified": "2025-04-23T05:53:58",
+  "modified_gmt": "2025-04-23T09:53:58",
+  "slug": "k2-190",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-190/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-190",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244843,
+      244844
+    ],
+    "exo_id": "K2-190",
+    "st_optmag": 11.138,
+    "st_vj": 11.138,
+    "st_dist": 160.679,
+    "st_j": 11.138,
+    "st_mass": 0.904597,
+    "dec": -13.1608686,
+    "st_teff": 5631,
+    "st_rad": 0.912206,
+    "ra": 205.3630485,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-190",
+    "stellar_type": "G",
+    "tic_id": "TIC 392469577",
+    "magnitude": 11.138
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263803",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244844"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244843"
+      }
+    ]
+  }
+}

@@ -1,1 +1,82 @@
-{"id":446279,"date":"2025-01-25T02:18:26","date_gmt":"2025-01-25T07:18:26","modified":"2025-04-23T05:57:23","modified_gmt":"2025-04-23T09:57:23","slug":"hip-56998","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip-56998/","featured_media":429649,"categories":[],"acf":{"display_name":"HIP 56998","custom_star_title":"","aliases":"","constellation":"Centaurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":446288,"1":446287},"exo_id":"HIP_56998","st_optmag":7.77,"st_vj":7.77,"st_dist":12.7781,"st_j":7.77,"st_mass":0.653,"dec":-44.4041485,"st_teff":4675,"st_rad":0.63,"ra":175.2563039,"system_radius":8571957.951,"pl_hostname":"HIP_56998","stellar_type":"K","tic_id":"TIC 397362481","magnitude":7.77},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/446279","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/446288"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/446287"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 446279,
+  "date": "2025-01-25T02:18:26",
+  "date_gmt": "2025-01-25T07:18:26",
+  "modified": "2025-04-23T05:57:23",
+  "modified_gmt": "2025-04-23T09:57:23",
+  "slug": "hip-56998",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-56998/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 56998",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 446288,
+      "1": 446287
+    },
+    "exo_id": "HIP_56998",
+    "st_optmag": 7.77,
+    "st_vj": 7.77,
+    "st_dist": 12.7781,
+    "st_j": 7.77,
+    "st_mass": 0.653,
+    "dec": -44.4041485,
+    "st_teff": 4675,
+    "st_rad": 0.63,
+    "ra": 175.2563039,
+    "system_radius": 8571957.951,
+    "pl_hostname": "HIP_56998",
+    "stellar_type": "K",
+    "tic_id": "TIC 397362481",
+    "magnitude": 7.77
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/446279",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/446288"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/446287"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

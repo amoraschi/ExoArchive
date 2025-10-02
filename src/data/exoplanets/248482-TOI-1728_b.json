@@ -1,1 +1,79 @@
-{"id":248482,"date":"2020-07-10T13:27:31","date_gmt":"2020-07-10T17:27:31","modified":"2025-07-07T20:40:26","modified_gmt":"2025-07-08T00:40:26","slug":"toi-1728-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1728-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1728","pl_letter":"b","display_name":"TOI-1728 b","planet_radius":"0.45053082 x Jupiter","derived_description":"TOI-1728 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 26.78 Earths, it takes 3.5 days to complete one orbit of its star, and is 0.0391 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":60.798,"planet_mass":"26.78 Earths","st_optmag":12.39,"discovery_date":"2020","pl_orbsmax":0.0391,"period_display":"3.5 days","eccentricity":"0.06","star_id":263474,"pl_orbper":3.49151,"pl_kepflag":false,"pl_radj":0.45053082,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":45,"multiple_planet_system":false,"pl_rade":5.05,"exo_id":"TOI-1728_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.057},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248482","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263474"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248482,
+  "date": "2020-07-10T13:27:31",
+  "date_gmt": "2020-07-10T17:27:31",
+  "modified": "2025-07-07T20:40:26",
+  "modified_gmt": "2025-07-08T00:40:26",
+  "slug": "toi-1728-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1728-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1728",
+    "pl_letter": "b",
+    "display_name": "TOI-1728 b",
+    "planet_radius": "0.45053082 x Jupiter",
+    "derived_description": "TOI-1728 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 26.78 Earths, it takes 3.5 days to complete one orbit of its star, and is 0.0391 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 60.798,
+    "planet_mass": "26.78 Earths",
+    "st_optmag": 12.39,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.0391,
+    "period_display": "3.5 days",
+    "eccentricity": "0.06",
+    "star_id": 263474,
+    "pl_orbper": 3.49151,
+    "pl_kepflag": false,
+    "pl_radj": 0.45053082,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 45,
+    "multiple_planet_system": false,
+    "pl_rade": 5.05,
+    "exo_id": "TOI-1728_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.057
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248482",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263474"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

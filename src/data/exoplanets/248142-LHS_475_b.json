@@ -1,1 +1,79 @@
-{"id":248142,"date":"2023-09-21T19:31:25","date_gmt":"2023-09-21T23:31:25","modified":"2025-07-07T17:21:26","modified_gmt":"2025-07-07T21:21:26","slug":"lhs-475-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/lhs-475-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"LHS_475","pl_letter":"b","display_name":"LHS 475 b","planet_radius":"0.991 x Earth","derived_description":"LHS 475 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.941 Earths, it takes 2 days to complete one orbit of its star, and is 0.02037 AU from its star. Its discovery was announced in 2023.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":12.4814,"planet_mass":"0.941 Earths","st_optmag":13,"discovery_date":"2023","pl_orbsmax":0.02037,"period_display":"2 days","eccentricity":"0.0","star_id":261023,"pl_orbper":2.029088,"pl_kepflag":false,"pl_radj":0.08841125,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.991,"exo_id":"LHS_475_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248142","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261023"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 248142,
+  "date": "2023-09-21T19:31:25",
+  "date_gmt": "2023-09-21T23:31:25",
+  "modified": "2025-07-07T17:21:26",
+  "modified_gmt": "2025-07-07T21:21:26",
+  "slug": "lhs-475-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/lhs-475-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LHS_475",
+    "pl_letter": "b",
+    "display_name": "LHS 475 b",
+    "planet_radius": "0.991 x Earth",
+    "derived_description": "LHS 475 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.941 Earths, it takes 2 days to complete one orbit of its star, and is 0.02037 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 12.4814,
+    "planet_mass": "0.941 Earths",
+    "st_optmag": 13,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.02037,
+    "period_display": "2 days",
+    "eccentricity": "0.0",
+    "star_id": 261023,
+    "pl_orbper": 2.029088,
+    "pl_kepflag": false,
+    "pl_radj": 0.08841125,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.991,
+    "exo_id": "LHS_475_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248142",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261023"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

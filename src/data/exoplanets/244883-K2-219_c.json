@@ -1,1 +1,79 @@
-{"id":244883,"date":"2018-02-16T12:26:17","date_gmt":"2018-02-16T17:26:17","modified":"2025-07-07T20:40:31","modified_gmt":"2025-07-08T00:40:31","slug":"k2-219-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-219-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"K2-219","pl_letter":"c","display_name":"K2-219 c","planet_radius":"1.43839723 x Earth","derived_description":"K2-219 c is a super Earth exoplanet that orbits a G-type star. Its mass is 2.66 Earths, it takes 6.7 days to complete one orbit of its star, and is 0.06982378294514 AU from its star. Its discovery was announced in 2018.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"K2","st_dist":325.4,"planet_mass":"2.66 Earths","st_optmag":12.09,"discovery_date":"2018","pl_orbsmax":"","period_display":"6.7 days","eccentricity":"","star_id":260622,"pl_orbper":6.66767,"pl_kepflag":true,"pl_radj":0.12832521,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.43839723,"exo_id":"K2-219_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244883","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260622"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244883,
+  "date": "2018-02-16T12:26:17",
+  "date_gmt": "2018-02-16T17:26:17",
+  "modified": "2025-07-07T20:40:31",
+  "modified_gmt": "2025-07-08T00:40:31",
+  "slug": "k2-219-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-219-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-219",
+    "pl_letter": "c",
+    "display_name": "K2-219 c",
+    "planet_radius": "1.43839723 x Earth",
+    "derived_description": "K2-219 c is a super Earth exoplanet that orbits a G-type star. Its mass is 2.66 Earths, it takes 6.7 days to complete one orbit of its star, and is 0.06982378294514 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 325.4,
+    "planet_mass": "2.66 Earths",
+    "st_optmag": 12.09,
+    "discovery_date": "2018",
+    "pl_orbsmax": "",
+    "period_display": "6.7 days",
+    "eccentricity": "",
+    "star_id": 260622,
+    "pl_orbper": 6.66767,
+    "pl_kepflag": true,
+    "pl_radj": 0.12832521,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.43839723,
+    "exo_id": "K2-219_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244883",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260622"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

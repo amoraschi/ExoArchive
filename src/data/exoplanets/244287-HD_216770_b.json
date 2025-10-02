@@ -1,1 +1,79 @@
-{"id":244287,"date":"2019-04-22T16:48:43","date_gmt":"2019-04-22T20:48:43","modified":"2024-10-24T18:33:59","modified_gmt":"2024-10-24T22:33:59","slug":"hd-216770-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-216770-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_216770","pl_letter":"b","display_name":"HD 216770 b","planet_radius":"1.26 x Jupiter (estimate)","derived_description":"HD 216770 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.57 Jupiters, it takes 118.5 days to complete one orbit of its star, and is 0.46 AU from its star. Its discovery was announced in 2003.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":36.6625,"planet_mass":"0.57 Jupiters","st_optmag":8.11,"discovery_date":"2003","pl_orbsmax":0.46,"period_display":"118.5 days","eccentricity":"0.37","star_id":263252,"pl_orbper":118.45,"pl_kepflag":false,"pl_radj":1.26,"pl_disc":2003,"pl_publ_date":"2003","planet_orbit_period":281,"multiple_planet_system":false,"pl_rade":14.1,"exo_id":"HD_216770_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.37},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244287","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263252"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244287,
+  "date": "2019-04-22T16:48:43",
+  "date_gmt": "2019-04-22T20:48:43",
+  "modified": "2024-10-24T18:33:59",
+  "modified_gmt": "2024-10-24T22:33:59",
+  "slug": "hd-216770-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-216770-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_216770",
+    "pl_letter": "b",
+    "display_name": "HD 216770 b",
+    "planet_radius": "1.26 x Jupiter (estimate)",
+    "derived_description": "HD 216770 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.57 Jupiters, it takes 118.5 days to complete one orbit of its star, and is 0.46 AU from its star. Its discovery was announced in 2003.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 36.6625,
+    "planet_mass": "0.57 Jupiters",
+    "st_optmag": 8.11,
+    "discovery_date": "2003",
+    "pl_orbsmax": 0.46,
+    "period_display": "118.5 days",
+    "eccentricity": "0.37",
+    "star_id": 263252,
+    "pl_orbper": 118.45,
+    "pl_kepflag": false,
+    "pl_radj": 1.26,
+    "pl_disc": 2003,
+    "pl_publ_date": "2003",
+    "planet_orbit_period": 281,
+    "multiple_planet_system": false,
+    "pl_rade": 14.1,
+    "exo_id": "HD_216770_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.37
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244287",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263252"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

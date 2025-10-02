@@ -1,1 +1,76 @@
-{"id":260650,"date":"2023-11-28T20:28:23","date_gmt":"2023-11-29T01:28:23","modified":"2025-04-23T05:54:43","modified_gmt":"2025-04-23T09:54:43","slug":"gj_328","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_328/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 328","custom_star_title":"","aliases":"","constellation":"Hydra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243628,"1":243627},"exo_id":"GJ_328","st_optmag":9.99,"st_vj":9.99,"st_dist":20.5266,"st_j":9.99,"st_mass":0.65,"dec":1.5420011,"st_teff":3897,"st_rad":0.63,"ra":133.7819507,"system_radius":614847245.7,"pl_hostname":"GJ_328","stellar_type":"M","tic_id":"TIC 265373654","magnitude":9.99},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260650","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243628"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243627"}]}}
+{
+  "id": 260650,
+  "date": "2023-11-28T20:28:23",
+  "date_gmt": "2023-11-29T01:28:23",
+  "modified": "2025-04-23T05:54:43",
+  "modified_gmt": "2025-04-23T09:54:43",
+  "slug": "gj_328",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_328/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 328",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243628,
+      "1": 243627
+    },
+    "exo_id": "GJ_328",
+    "st_optmag": 9.99,
+    "st_vj": 9.99,
+    "st_dist": 20.5266,
+    "st_j": 9.99,
+    "st_mass": 0.65,
+    "dec": 1.5420011,
+    "st_teff": 3897,
+    "st_rad": 0.63,
+    "ra": 133.7819507,
+    "system_radius": 614847245.7,
+    "pl_hostname": "GJ_328",
+    "stellar_type": "M",
+    "tic_id": "TIC 265373654",
+    "magnitude": 9.99
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260650",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243628"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243627"
+      }
+    ]
+  }
+}

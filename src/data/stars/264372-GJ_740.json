@@ -1,1 +1,71 @@
-{"id":264372,"date":"2023-11-28T21:15:42","date_gmt":"2023-11-29T02:15:42","modified":"2025-04-23T05:57:19","modified_gmt":"2025-04-23T09:57:19","slug":"gj_740","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_740/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 740","custom_star_title":"","aliases":"","constellation":"Serpens","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243695],"exo_id":"GJ_740","st_optmag":9.22,"st_vj":9.22,"st_dist":11.1017,"st_j":9.22,"st_mass":0.58,"dec":5.902867,"st_teff":3913,"st_rad":0.56,"ra":284.4997178,"system_radius":4338338.23,"pl_hostname":"GJ_740","stellar_type":"K","tic_id":"TIC 227642705","magnitude":9.22},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264372","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243695"}]}}
+{
+  "id": 264372,
+  "date": "2023-11-28T21:15:42",
+  "date_gmt": "2023-11-29T02:15:42",
+  "modified": "2025-04-23T05:57:19",
+  "modified_gmt": "2025-04-23T09:57:19",
+  "slug": "gj_740",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_740/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 740",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Serpens",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243695
+    ],
+    "exo_id": "GJ_740",
+    "st_optmag": 9.22,
+    "st_vj": 9.22,
+    "st_dist": 11.1017,
+    "st_j": 9.22,
+    "st_mass": 0.58,
+    "dec": 5.902867,
+    "st_teff": 3913,
+    "st_rad": 0.56,
+    "ra": 284.4997178,
+    "system_radius": 4338338.23,
+    "pl_hostname": "GJ_740",
+    "stellar_type": "K",
+    "tic_id": "TIC 227642705",
+    "magnitude": 9.22
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264372",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243695"
+      }
+    ]
+  }
+}

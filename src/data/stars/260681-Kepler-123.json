@@ -1,1 +1,76 @@
-{"id":260681,"date":"2023-11-28T20:28:45","date_gmt":"2023-11-29T01:28:45","modified":"2025-04-23T05:53:32","modified_gmt":"2025-04-23T09:53:32","slug":"kepler-123","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-123/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-123","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245564,245565],"exo_id":"Kepler-123","st_optmag":14.129,"st_vj":14.129,"st_dist":1021.66,"st_j":14.129,"st_mass":1.079,"dec":42.7819633,"st_teff":6089,"st_rad":1.264,"ra":296.9985853,"system_radius":27077214.47,"pl_hostname":"Kepler-123","stellar_type":"F","tic_id":"TIC 272944990","magnitude":14.129},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260681","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245565"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245564"}]}}
+{
+  "id": 260681,
+  "date": "2023-11-28T20:28:45",
+  "date_gmt": "2023-11-29T01:28:45",
+  "modified": "2025-04-23T05:53:32",
+  "modified_gmt": "2025-04-23T09:53:32",
+  "slug": "kepler-123",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-123/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-123",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245564,
+      245565
+    ],
+    "exo_id": "Kepler-123",
+    "st_optmag": 14.129,
+    "st_vj": 14.129,
+    "st_dist": 1021.66,
+    "st_j": 14.129,
+    "st_mass": 1.079,
+    "dec": 42.7819633,
+    "st_teff": 6089,
+    "st_rad": 1.264,
+    "ra": 296.9985853,
+    "system_radius": 27077214.47,
+    "pl_hostname": "Kepler-123",
+    "stellar_type": "F",
+    "tic_id": "TIC 272944990",
+    "magnitude": 14.129
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260681",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245565"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245564"
+      }
+    ]
+  }
+}

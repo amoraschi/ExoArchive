@@ -1,1 +1,79 @@
-{"id":247204,"date":"2016-03-16T19:26:24","date_gmt":"2016-03-16T23:26:24","modified":"2025-06-25T12:04:54","modified_gmt":"2025-06-25T16:04:54","slug":"kepler-42-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-42-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-42","pl_letter":"b","display_name":"Kepler-42 b","planet_radius":"0.78 x Earth","derived_description":"Kepler-42 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.705944 Earths, it takes 1.2 days to complete one orbit of its star, and is 0.0116 AU from its star. Its discovery was announced in 2011.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":40.0595,"planet_mass":"0.705944 Earths","st_optmag":16.7,"discovery_date":"2011","pl_orbsmax":0.0116,"period_display":"1.2 days","eccentricity":"0.04","star_id":260847,"pl_orbper":1.2137672,"pl_kepflag":true,"pl_radj":0.07,"pl_disc":2011,"pl_publ_date":"2011","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.78,"exo_id":"Kepler-42_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.04},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247204","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260847"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 247204,
+  "date": "2016-03-16T19:26:24",
+  "date_gmt": "2016-03-16T23:26:24",
+  "modified": "2025-06-25T12:04:54",
+  "modified_gmt": "2025-06-25T16:04:54",
+  "slug": "kepler-42-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-42-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-42",
+    "pl_letter": "b",
+    "display_name": "Kepler-42 b",
+    "planet_radius": "0.78 x Earth",
+    "derived_description": "Kepler-42 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.705944 Earths, it takes 1.2 days to complete one orbit of its star, and is 0.0116 AU from its star. Its discovery was announced in 2011.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 40.0595,
+    "planet_mass": "0.705944 Earths",
+    "st_optmag": 16.7,
+    "discovery_date": "2011",
+    "pl_orbsmax": 0.0116,
+    "period_display": "1.2 days",
+    "eccentricity": "0.04",
+    "star_id": 260847,
+    "pl_orbper": 1.2137672,
+    "pl_kepflag": true,
+    "pl_radj": 0.07,
+    "pl_disc": 2011,
+    "pl_publ_date": "2011",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.78,
+    "exo_id": "Kepler-42_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.04
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247204",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260847"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

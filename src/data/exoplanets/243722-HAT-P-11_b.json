@@ -1,1 +1,79 @@
-{"id":243722,"date":"2016-03-16T19:26:23","date_gmt":"2016-03-16T23:26:23","modified":"2025-07-07T20:39:05","modified_gmt":"2025-07-08T00:39:05","slug":"hat-p-11-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hat-p-11-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HAT-P-11","pl_letter":"b","display_name":"HAT-P-11 b","planet_radius":"0.38897315 x Jupiter","derived_description":"HAT-P-11 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 25 Earths, it takes 4.9 days to complete one orbit of its star, and is 0.05258 AU from its star. Its discovery was announced in 2008.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"HATNet","st_dist":37.7647,"planet_mass":"25 Earths","st_optmag":9.46,"discovery_date":"2008","pl_orbsmax":0.05258,"period_display":"4.9 days","eccentricity":"0.25","star_id":261124,"pl_orbper":4.888,"pl_kepflag":false,"pl_radj":0.38897315,"pl_disc":2008,"pl_publ_date":"2008","planet_orbit_period":28,"multiple_planet_system":false,"pl_rade":4.36,"exo_id":"HAT-P-11_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.251},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243722","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261124"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243722,
+  "date": "2016-03-16T19:26:23",
+  "date_gmt": "2016-03-16T23:26:23",
+  "modified": "2025-07-07T20:39:05",
+  "modified_gmt": "2025-07-08T00:39:05",
+  "slug": "hat-p-11-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hat-p-11-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HAT-P-11",
+    "pl_letter": "b",
+    "display_name": "HAT-P-11 b",
+    "planet_radius": "0.38897315 x Jupiter",
+    "derived_description": "HAT-P-11 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 25 Earths, it takes 4.9 days to complete one orbit of its star, and is 0.05258 AU from its star. Its discovery was announced in 2008.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATNet",
+    "st_dist": 37.7647,
+    "planet_mass": "25 Earths",
+    "st_optmag": 9.46,
+    "discovery_date": "2008",
+    "pl_orbsmax": 0.05258,
+    "period_display": "4.9 days",
+    "eccentricity": "0.25",
+    "star_id": 261124,
+    "pl_orbper": 4.888,
+    "pl_kepflag": false,
+    "pl_radj": 0.38897315,
+    "pl_disc": 2008,
+    "pl_publ_date": "2008",
+    "planet_orbit_period": 28,
+    "multiple_planet_system": false,
+    "pl_rade": 4.36,
+    "exo_id": "HAT-P-11_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.251
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243722",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261124"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":244308,"date":"2019-04-22T16:49:20","date_gmt":"2019-04-22T20:49:20","modified":"2025-07-07T20:37:11","modified_gmt":"2025-07-08T00:37:11","slug":"hd-219828-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-219828-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_219828","pl_letter":"c","display_name":"HD 219828 c","planet_radius":"1.09 x Jupiter (estimate)","derived_description":"HD 219828 c is a gas giant exoplanet that orbits a G-type star. Its mass is 16.054 Jupiters, it takes 13.1 years to complete one orbit of its star, and is 5.657 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Facilities","st_dist":73.114,"planet_mass":"16.054 Jupiters","st_optmag":8.04,"discovery_date":"2016","pl_orbsmax":5.657,"period_display":"13.1 years","eccentricity":"0.81","star_id":262361,"pl_orbper":4789.87297,"pl_kepflag":false,"pl_radj":1.09,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":145.683,"multiple_planet_system":false,"pl_rade":12.2,"exo_id":"HD_219828_c","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.811},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244308","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262361"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244308,
+  "date": "2019-04-22T16:49:20",
+  "date_gmt": "2019-04-22T20:49:20",
+  "modified": "2025-07-07T20:37:11",
+  "modified_gmt": "2025-07-08T00:37:11",
+  "slug": "hd-219828-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-219828-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_219828",
+    "pl_letter": "c",
+    "display_name": "HD 219828 c",
+    "planet_radius": "1.09 x Jupiter (estimate)",
+    "derived_description": "HD 219828 c is a gas giant exoplanet that orbits a G-type star. Its mass is 16.054 Jupiters, it takes 13.1 years to complete one orbit of its star, and is 5.657 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Facilities",
+    "st_dist": 73.114,
+    "planet_mass": "16.054 Jupiters",
+    "st_optmag": 8.04,
+    "discovery_date": "2016",
+    "pl_orbsmax": 5.657,
+    "period_display": "13.1 years",
+    "eccentricity": "0.81",
+    "star_id": 262361,
+    "pl_orbper": 4789.87297,
+    "pl_kepflag": false,
+    "pl_radj": 1.09,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 145.683,
+    "multiple_planet_system": false,
+    "pl_rade": 12.2,
+    "exo_id": "HD_219828_c",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.811
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244308",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262361"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

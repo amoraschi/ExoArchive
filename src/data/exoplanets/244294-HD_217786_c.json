@@ -1,1 +1,79 @@
-{"id":244294,"date":"2022-09-27T08:32:18","date_gmt":"2022-09-27T12:32:18","modified":"2025-07-07T20:36:59","modified_gmt":"2025-07-08T00:36:59","slug":"hd-217786-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-217786-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_217786","pl_letter":"c","display_name":"HD 217786 c","planet_radius":"0.233 x Jupiter (estimate)","derived_description":"HD 217786 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.31005336 Earths, it takes 2.5 days to complete one orbit of its star, and is 0.038 AU from its star. Its discovery was announced in 2022.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":55.4847,"planet_mass":"7.31005336 Earths","st_optmag":7.78,"discovery_date":"2022","pl_orbsmax":0.038,"period_display":"2.5 days","eccentricity":"0.4","star_id":262316,"pl_orbper":2.52221,"pl_kepflag":false,"pl_radj":0.233,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":84.352,"multiple_planet_system":false,"pl_rade":2.61,"exo_id":"HD_217786_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.399},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244294","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262316"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244294,
+  "date": "2022-09-27T08:32:18",
+  "date_gmt": "2022-09-27T12:32:18",
+  "modified": "2025-07-07T20:36:59",
+  "modified_gmt": "2025-07-08T00:36:59",
+  "slug": "hd-217786-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-217786-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_217786",
+    "pl_letter": "c",
+    "display_name": "HD 217786 c",
+    "planet_radius": "0.233 x Jupiter (estimate)",
+    "derived_description": "HD 217786 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.31005336 Earths, it takes 2.5 days to complete one orbit of its star, and is 0.038 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 55.4847,
+    "planet_mass": "7.31005336 Earths",
+    "st_optmag": 7.78,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.038,
+    "period_display": "2.5 days",
+    "eccentricity": "0.4",
+    "star_id": 262316,
+    "pl_orbper": 2.52221,
+    "pl_kepflag": false,
+    "pl_radj": 0.233,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 84.352,
+    "multiple_planet_system": false,
+    "pl_rade": 2.61,
+    "exo_id": "HD_217786_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.399
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244294",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262316"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

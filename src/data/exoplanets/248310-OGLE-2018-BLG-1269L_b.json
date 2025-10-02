@@ -1,1 +1,79 @@
-{"id":248310,"date":"2020-10-08T20:16:40","date_gmt":"2020-10-09T00:16:40","modified":"2024-10-24T20:42:59","modified_gmt":"2024-10-25T00:42:59","slug":"ogle-2018-blg-1269l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2018-blg-1269l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2018-BLG-1269L","pl_letter":"b","display_name":"OGLE-2018-BLG-1269L b","planet_radius":"1.25 x Jupiter (estimate)","derived_description":"OGLE-2018-BLG-1269L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.67 Jupiters, it takes 9.1 years to complete one orbit of its star, and is 4.51 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":2510,"planet_mass":"0.67 Jupiters","st_optmag":"","discovery_date":"2020","pl_orbsmax":4.51,"period_display":"9.1 years","eccentricity":"","star_id":262106,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.25,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":14.1,"exo_id":"OGLE-2018-BLG-1269L_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248310","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262106"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248310,
+  "date": "2020-10-08T20:16:40",
+  "date_gmt": "2020-10-09T00:16:40",
+  "modified": "2024-10-24T20:42:59",
+  "modified_gmt": "2024-10-25T00:42:59",
+  "slug": "ogle-2018-blg-1269l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2018-blg-1269l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2018-BLG-1269L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2018-BLG-1269L b",
+    "planet_radius": "1.25 x Jupiter (estimate)",
+    "derived_description": "OGLE-2018-BLG-1269L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.67 Jupiters, it takes 9.1 years to complete one orbit of its star, and is 4.51 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 2510,
+    "planet_mass": "0.67 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2020",
+    "pl_orbsmax": 4.51,
+    "period_display": "9.1 years",
+    "eccentricity": "",
+    "star_id": 262106,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.25,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 14.1,
+    "exo_id": "OGLE-2018-BLG-1269L_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248310",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262106"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

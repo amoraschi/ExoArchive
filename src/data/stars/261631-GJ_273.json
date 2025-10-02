@@ -1,1 +1,76 @@
-{"id":261631,"date":"2023-11-28T20:40:46","date_gmt":"2023-11-29T01:40:46","modified":"2025-04-23T05:54:46","modified_gmt":"2025-04-23T09:54:46","slug":"gj_273","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_273/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 273","custom_star_title":"","aliases":"","constellation":"Canis Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243615,243616],"exo_id":"GJ_273","st_optmag":9.84,"st_vj":9.84,"st_dist":5.921535,"st_j":9.84,"st_mass":0.29,"dec":5.225807,"st_teff":3382,"st_rad":0.293,"ra":111.852091,"system_radius":13628515.55487,"pl_hostname":"GJ_273","stellar_type":"M","tic_id":"TIC 318686860","magnitude":9.84},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261631","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243616"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243615"}]}}
+{
+  "id": 261631,
+  "date": "2023-11-28T20:40:46",
+  "date_gmt": "2023-11-29T01:40:46",
+  "modified": "2025-04-23T05:54:46",
+  "modified_gmt": "2025-04-23T09:54:46",
+  "slug": "gj_273",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_273/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 273",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243615,
+      243616
+    ],
+    "exo_id": "GJ_273",
+    "st_optmag": 9.84,
+    "st_vj": 9.84,
+    "st_dist": 5.921535,
+    "st_j": 9.84,
+    "st_mass": 0.29,
+    "dec": 5.225807,
+    "st_teff": 3382,
+    "st_rad": 0.293,
+    "ra": 111.852091,
+    "system_radius": 13628515.55487,
+    "pl_hostname": "GJ_273",
+    "stellar_type": "M",
+    "tic_id": "TIC 318686860",
+    "magnitude": 9.84
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261631",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243616"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243615"
+      }
+    ]
+  }
+}

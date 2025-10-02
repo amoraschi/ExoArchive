@@ -1,1 +1,76 @@
-{"id":262687,"date":"2023-11-28T20:54:09","date_gmt":"2023-11-29T01:54:09","modified":"2025-04-23T05:56:16","modified_gmt":"2025-04-23T09:56:16","slug":"gj_849","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_849/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 849","custom_star_title":"","aliases":"","constellation":"Aquarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":243698,"1":243697},"exo_id":"GJ_849","st_optmag":10.41,"st_vj":10.41,"st_dist":8.80058,"st_j":10.41,"st_mass":0.45,"dec":-4.6408317,"st_teff":3467,"st_rad":0.45,"ra":332.4229938,"system_radius":740509456.5,"pl_hostname":"GJ_849","stellar_type":"M","tic_id":"TIC 248027247","magnitude":10.41},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262687","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243698"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243697"}]}}
+{
+  "id": 262687,
+  "date": "2023-11-28T20:54:09",
+  "date_gmt": "2023-11-29T01:54:09",
+  "modified": "2025-04-23T05:56:16",
+  "modified_gmt": "2025-04-23T09:56:16",
+  "slug": "gj_849",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_849/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 849",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 243698,
+      "1": 243697
+    },
+    "exo_id": "GJ_849",
+    "st_optmag": 10.41,
+    "st_vj": 10.41,
+    "st_dist": 8.80058,
+    "st_j": 10.41,
+    "st_mass": 0.45,
+    "dec": -4.6408317,
+    "st_teff": 3467,
+    "st_rad": 0.45,
+    "ra": 332.4229938,
+    "system_radius": 740509456.5,
+    "pl_hostname": "GJ_849",
+    "stellar_type": "M",
+    "tic_id": "TIC 248027247",
+    "magnitude": 10.41
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262687",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243698"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243697"
+      }
+    ]
+  }
+}

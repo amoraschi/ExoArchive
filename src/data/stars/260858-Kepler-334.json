@@ -1,1 +1,81 @@
-{"id":260858,"date":"2023-11-28T20:30:59","date_gmt":"2023-11-29T01:30:59","modified":"2025-04-23T05:53:52","modified_gmt":"2025-04-23T09:53:52","slug":"kepler-334","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-334/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-334","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246980,"1":246982,"2":246981},"exo_id":"Kepler-334","st_optmag":12.834,"st_vj":12.834,"st_dist":426.59,"st_j":12.834,"st_mass":1.022,"dec":47.1151153,"st_teff":5828,"st_rad":1.068,"ra":287.1406177,"system_radius":25132442.16,"pl_hostname":"Kepler-334","stellar_type":"G","tic_id":"TIC 158394479","magnitude":12.834},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260858","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246982"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246981"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246980"}]}}
+{
+  "id": 260858,
+  "date": "2023-11-28T20:30:59",
+  "date_gmt": "2023-11-29T01:30:59",
+  "modified": "2025-04-23T05:53:52",
+  "modified_gmt": "2025-04-23T09:53:52",
+  "slug": "kepler-334",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-334/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-334",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246980,
+      "1": 246982,
+      "2": 246981
+    },
+    "exo_id": "Kepler-334",
+    "st_optmag": 12.834,
+    "st_vj": 12.834,
+    "st_dist": 426.59,
+    "st_j": 12.834,
+    "st_mass": 1.022,
+    "dec": 47.1151153,
+    "st_teff": 5828,
+    "st_rad": 1.068,
+    "ra": 287.1406177,
+    "system_radius": 25132442.16,
+    "pl_hostname": "Kepler-334",
+    "stellar_type": "G",
+    "tic_id": "TIC 158394479",
+    "magnitude": 12.834
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260858",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246982"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246981"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246980"
+      }
+    ]
+  }
+}

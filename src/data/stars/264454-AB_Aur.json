@@ -1,1 +1,71 @@
-{"id":264454,"date":"2023-11-28T21:16:45","date_gmt":"2023-11-29T02:16:45","modified":"2025-04-23T05:57:20","modified_gmt":"2025-04-23T09:57:20","slug":"ab_aur","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ab_aur/","featured_media":0,"categories":[],"acf":{"display_name":"AB Aurigae","custom_star_title":"","aliases":"","constellation":"Auriga","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243429],"exo_id":"AB_Aur","st_optmag":7.076,"st_vj":7.076,"st_dist":162.127,"st_j":7.076,"st_mass":2.4,"dec":30.5510888,"st_teff":9770,"st_rad":2.95887,"ra":73.9410446,"system_radius":14047239993,"pl_hostname":"AB_Aur","stellar_type":"A","tic_id":"TIC 96680681","magnitude":7.076},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264454","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243429"}]}}
+{
+  "id": 264454,
+  "date": "2023-11-28T21:16:45",
+  "date_gmt": "2023-11-29T02:16:45",
+  "modified": "2025-04-23T05:57:20",
+  "modified_gmt": "2025-04-23T09:57:20",
+  "slug": "ab_aur",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ab_aur/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "AB Aurigae",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Auriga",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243429
+    ],
+    "exo_id": "AB_Aur",
+    "st_optmag": 7.076,
+    "st_vj": 7.076,
+    "st_dist": 162.127,
+    "st_j": 7.076,
+    "st_mass": 2.4,
+    "dec": 30.5510888,
+    "st_teff": 9770,
+    "st_rad": 2.95887,
+    "ra": 73.9410446,
+    "system_radius": 14047239993,
+    "pl_hostname": "AB_Aur",
+    "stellar_type": "A",
+    "tic_id": "TIC 96680681",
+    "magnitude": 7.076
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264454",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243429"
+      }
+    ]
+  }
+}

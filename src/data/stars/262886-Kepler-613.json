@@ -1,1 +1,71 @@
-{"id":262886,"date":"2023-11-28T20:56:43","date_gmt":"2023-11-29T01:56:43","modified":"2025-04-23T05:56:16","modified_gmt":"2025-04-23T09:56:16","slug":"kepler-613","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-613/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-613","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247484],"exo_id":"Kepler-613","st_optmag":14.795,"st_vj":14.795,"st_dist":861.494,"st_j":14.795,"st_mass":0.98,"dec":46.2449846,"st_teff":5723,"st_rad":0.96,"ra":282.7868415,"system_radius":18430457.584,"pl_hostname":"Kepler-613","stellar_type":"G","tic_id":"TIC 164407908","magnitude":14.795},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262886","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247484"}]}}
+{
+  "id": 262886,
+  "date": "2023-11-28T20:56:43",
+  "date_gmt": "2023-11-29T01:56:43",
+  "modified": "2025-04-23T05:56:16",
+  "modified_gmt": "2025-04-23T09:56:16",
+  "slug": "kepler-613",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-613/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-613",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247484
+    ],
+    "exo_id": "Kepler-613",
+    "st_optmag": 14.795,
+    "st_vj": 14.795,
+    "st_dist": 861.494,
+    "st_j": 14.795,
+    "st_mass": 0.98,
+    "dec": 46.2449846,
+    "st_teff": 5723,
+    "st_rad": 0.96,
+    "ra": 282.7868415,
+    "system_radius": 18430457.584,
+    "pl_hostname": "Kepler-613",
+    "stellar_type": "G",
+    "tic_id": "TIC 164407908",
+    "magnitude": 14.795
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262886",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247484"
+      }
+    ]
+  }
+}

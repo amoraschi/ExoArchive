@@ -1,1 +1,71 @@
-{"id":387730,"date":"2024-04-16T12:06:11","date_gmt":"2024-04-16T16:06:11","modified":"2025-04-23T05:56:09","modified_gmt":"2025-04-23T09:56:09","slug":"ogle-2016-blg-1093l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2016-blg-1093l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2016-BLG-1093L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[387748],"exo_id":"OGLE-2016-BLG-1093L","st_optmag":"","st_vj":"","st_dist":8120,"st_j":"","st_mass":0.46,"dec":-32.7134722,"st_teff":"","st_rad":"","ra":269.0042917,"system_radius":318643463.1,"pl_hostname":"OGLE-2016-BLG-1093L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/387730","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/387748"}]}}
+{
+  "id": 387730,
+  "date": "2024-04-16T12:06:11",
+  "date_gmt": "2024-04-16T16:06:11",
+  "modified": "2025-04-23T05:56:09",
+  "modified_gmt": "2025-04-23T09:56:09",
+  "slug": "ogle-2016-blg-1093l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2016-blg-1093l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2016-BLG-1093L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      387748
+    ],
+    "exo_id": "OGLE-2016-BLG-1093L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 8120,
+    "st_j": "",
+    "st_mass": 0.46,
+    "dec": -32.7134722,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.0042917,
+    "system_radius": 318643463.1,
+    "pl_hostname": "OGLE-2016-BLG-1093L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/387730",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/387748"
+      }
+    ]
+  }
+}

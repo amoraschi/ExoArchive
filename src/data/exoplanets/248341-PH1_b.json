@@ -1,1 +1,79 @@
-{"id":248341,"date":"2017-10-02T13:32:45","date_gmt":"2017-10-02T17:32:45","modified":"2024-10-25T10:10:09","modified_gmt":"2024-10-25T14:10:09","slug":"ph1-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ph1-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"PH1","pl_letter":"b","display_name":"PH1 b","planet_radius":"0.551 x Jupiter","derived_description":"PH1 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 0.531 Jupiters, it takes 138.3 days to complete one orbit of its star, and is 0.652 AU from its star. Its discovery was announced in 2012.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1033.16,"planet_mass":"0.531 Jupiters","st_optmag":13.841,"discovery_date":"2012","pl_orbsmax":0.652,"period_display":"138.3 days","eccentricity":"0.07","star_id":263489,"pl_orbper":138.317,"pl_kepflag":true,"pl_radj":0.551,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":341.88,"multiple_planet_system":false,"pl_rade":6.18,"exo_id":"PH1_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.0702},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248341","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263489"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248341,
+  "date": "2017-10-02T13:32:45",
+  "date_gmt": "2017-10-02T17:32:45",
+  "modified": "2024-10-25T10:10:09",
+  "modified_gmt": "2024-10-25T14:10:09",
+  "slug": "ph1-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ph1-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "PH1",
+    "pl_letter": "b",
+    "display_name": "PH1 b",
+    "planet_radius": "0.551 x Jupiter",
+    "derived_description": "PH1 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 0.531 Jupiters, it takes 138.3 days to complete one orbit of its star, and is 0.652 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1033.16,
+    "planet_mass": "0.531 Jupiters",
+    "st_optmag": 13.841,
+    "discovery_date": "2012",
+    "pl_orbsmax": 0.652,
+    "period_display": "138.3 days",
+    "eccentricity": "0.07",
+    "star_id": 263489,
+    "pl_orbper": 138.317,
+    "pl_kepflag": true,
+    "pl_radj": 0.551,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": 341.88,
+    "multiple_planet_system": false,
+    "pl_rade": 6.18,
+    "exo_id": "PH1_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0702
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248341",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263489"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

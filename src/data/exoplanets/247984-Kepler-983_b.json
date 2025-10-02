@@ -1,1 +1,79 @@
-{"id":247984,"date":"2016-05-10T14:50:17","date_gmt":"2016-05-10T18:50:17","modified":"2025-07-07T17:22:27","modified_gmt":"2025-07-07T21:22:27","slug":"kepler-983-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-983-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-983","pl_letter":"b","display_name":"Kepler-983 b","planet_radius":"0.2105451 x Jupiter","derived_description":"Kepler-983 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.17 Earths, it takes 60.1 days to complete one orbit of its star, and is 0.3148 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":714.437,"planet_mass":"6.17 Earths","st_optmag":14.1125,"discovery_date":"2016","pl_orbsmax":0.3148,"period_display":"60.1 days","eccentricity":"0.0","star_id":261891,"pl_orbper":60.0855082,"pl_kepflag":true,"pl_radj":0.2105451,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.36,"exo_id":"Kepler-983_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247984","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261891"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247984,
+  "date": "2016-05-10T14:50:17",
+  "date_gmt": "2016-05-10T18:50:17",
+  "modified": "2025-07-07T17:22:27",
+  "modified_gmt": "2025-07-07T21:22:27",
+  "slug": "kepler-983-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-983-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-983",
+    "pl_letter": "b",
+    "display_name": "Kepler-983 b",
+    "planet_radius": "0.2105451 x Jupiter",
+    "derived_description": "Kepler-983 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.17 Earths, it takes 60.1 days to complete one orbit of its star, and is 0.3148 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 714.437,
+    "planet_mass": "6.17 Earths",
+    "st_optmag": 14.1125,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.3148,
+    "period_display": "60.1 days",
+    "eccentricity": "0.0",
+    "star_id": 261891,
+    "pl_orbper": 60.0855082,
+    "pl_kepflag": true,
+    "pl_radj": 0.2105451,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.36,
+    "exo_id": "Kepler-983_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247984",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261891"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260905,"date":"2023-11-28T20:31:36","date_gmt":"2023-11-29T01:31:36","modified":"2025-04-23T05:53:39","modified_gmt":"2025-04-23T09:53:39","slug":"hats-49","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-49/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-49","custom_star_title":"","aliases":"","constellation":"Phoenix","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243833],"exo_id":"HATS-49","st_optmag":14.988,"st_vj":14.988,"st_dist":324.413,"st_j":14.988,"st_mass":0.7133,"dec":-56.3442798,"st_teff":4405,"st_rad":0.6977,"ra":6.6135927,"system_radius":6754343.8305,"pl_hostname":"HATS-49","stellar_type":"K","tic_id":"TIC 281541545","magnitude":14.988},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260905","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243833"}]}}
+{
+  "id": 260905,
+  "date": "2023-11-28T20:31:36",
+  "date_gmt": "2023-11-29T01:31:36",
+  "modified": "2025-04-23T05:53:39",
+  "modified_gmt": "2025-04-23T09:53:39",
+  "slug": "hats-49",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-49/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-49",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243833
+    ],
+    "exo_id": "HATS-49",
+    "st_optmag": 14.988,
+    "st_vj": 14.988,
+    "st_dist": 324.413,
+    "st_j": 14.988,
+    "st_mass": 0.7133,
+    "dec": -56.3442798,
+    "st_teff": 4405,
+    "st_rad": 0.6977,
+    "ra": 6.6135927,
+    "system_radius": 6754343.8305,
+    "pl_hostname": "HATS-49",
+    "stellar_type": "K",
+    "tic_id": "TIC 281541545",
+    "magnitude": 14.988
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260905",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243833"
+      }
+    ]
+  }
+}

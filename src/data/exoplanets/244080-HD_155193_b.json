@@ -1,1 +1,79 @@
-{"id":244080,"date":"2021-06-03T13:32:36","date_gmt":"2021-06-03T17:32:36","modified":"2024-10-24T18:09:38","modified_gmt":"2024-10-24T22:09:38","slug":"hd-155193-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-155193-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_155193","pl_letter":"b","display_name":"HD 155193 b","planet_radius":"1.25 x Jupiter (estimate)","derived_description":"HD 155193 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.75 Jupiters, it takes 352.7 days to complete one orbit of its star, and is 1.04 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Haute-Provence Observatory","st_dist":57.7995,"planet_mass":"0.75 Jupiters","st_optmag":7.0092,"discovery_date":"2021","pl_orbsmax":1.04,"period_display":"352.7 days","eccentricity":"0.21","star_id":263875,"pl_orbper":352.65,"pl_kepflag":false,"pl_radj":1.25,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":62.88,"multiple_planet_system":false,"pl_rade":14,"exo_id":"HD_155193_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.21},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244080","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263875"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244080,
+  "date": "2021-06-03T13:32:36",
+  "date_gmt": "2021-06-03T17:32:36",
+  "modified": "2024-10-24T18:09:38",
+  "modified_gmt": "2024-10-24T22:09:38",
+  "slug": "hd-155193-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-155193-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_155193",
+    "pl_letter": "b",
+    "display_name": "HD 155193 b",
+    "planet_radius": "1.25 x Jupiter (estimate)",
+    "derived_description": "HD 155193 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.75 Jupiters, it takes 352.7 days to complete one orbit of its star, and is 1.04 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Haute-Provence Observatory",
+    "st_dist": 57.7995,
+    "planet_mass": "0.75 Jupiters",
+    "st_optmag": 7.0092,
+    "discovery_date": "2021",
+    "pl_orbsmax": 1.04,
+    "period_display": "352.7 days",
+    "eccentricity": "0.21",
+    "star_id": 263875,
+    "pl_orbper": 352.65,
+    "pl_kepflag": false,
+    "pl_radj": 1.25,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": 62.88,
+    "multiple_planet_system": false,
+    "pl_rade": 14,
+    "exo_id": "HD_155193_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.21
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244080",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263875"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

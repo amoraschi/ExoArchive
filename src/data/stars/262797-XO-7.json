@@ -1,1 +1,71 @@
-{"id":262797,"date":"2023-11-28T20:55:34","date_gmt":"2023-11-29T01:55:34","modified":"2025-04-23T05:53:42","modified_gmt":"2025-04-23T09:53:42","slug":"xo-7","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/xo-7/","featured_media":0,"categories":[],"acf":{"display_name":"XO-7","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248945],"exo_id":"XO-7","st_optmag":10.521,"st_vj":10.521,"st_dist":234.149,"st_j":10.521,"st_mass":1.405,"dec":85.2333208,"st_teff":6250,"st_rad":1.48,"ra":277.4780753,"system_radius":6613721.8327,"pl_hostname":"XO-7","stellar_type":"F","tic_id":"TIC 268403451","magnitude":10.521},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262797","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248945"}]}}
+{
+  "id": 262797,
+  "date": "2023-11-28T20:55:34",
+  "date_gmt": "2023-11-29T01:55:34",
+  "modified": "2025-04-23T05:53:42",
+  "modified_gmt": "2025-04-23T09:53:42",
+  "slug": "xo-7",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/xo-7/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "XO-7",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248945
+    ],
+    "exo_id": "XO-7",
+    "st_optmag": 10.521,
+    "st_vj": 10.521,
+    "st_dist": 234.149,
+    "st_j": 10.521,
+    "st_mass": 1.405,
+    "dec": 85.2333208,
+    "st_teff": 6250,
+    "st_rad": 1.48,
+    "ra": 277.4780753,
+    "system_radius": 6613721.8327,
+    "pl_hostname": "XO-7",
+    "stellar_type": "F",
+    "tic_id": "TIC 268403451",
+    "magnitude": 10.521
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262797",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248945"
+      }
+    ]
+  }
+}

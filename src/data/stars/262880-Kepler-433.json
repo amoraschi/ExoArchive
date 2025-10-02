@@ -1,1 +1,71 @@
-{"id":262880,"date":"2023-11-28T20:56:38","date_gmt":"2023-11-29T01:56:38","modified":"2025-04-23T05:55:27","modified_gmt":"2025-04-23T09:55:27","slug":"kepler-433","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-433/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-433","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247214],"exo_id":"Kepler-433","st_optmag":14.717,"st_vj":14.717,"st_dist":1878.31,"st_j":14.717,"st_mass":1.46,"dec":40.9772546,"st_teff":6360,"st_rad":2.26,"ra":297.5936232,"system_radius":10157695.373,"pl_hostname":"Kepler-433","stellar_type":"F","tic_id":"TIC 169556484","magnitude":14.717},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262880","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247214"}]}}
+{
+  "id": 262880,
+  "date": "2023-11-28T20:56:38",
+  "date_gmt": "2023-11-29T01:56:38",
+  "modified": "2025-04-23T05:55:27",
+  "modified_gmt": "2025-04-23T09:55:27",
+  "slug": "kepler-433",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-433/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-433",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247214
+    ],
+    "exo_id": "Kepler-433",
+    "st_optmag": 14.717,
+    "st_vj": 14.717,
+    "st_dist": 1878.31,
+    "st_j": 14.717,
+    "st_mass": 1.46,
+    "dec": 40.9772546,
+    "st_teff": 6360,
+    "st_rad": 2.26,
+    "ra": 297.5936232,
+    "system_radius": 10157695.373,
+    "pl_hostname": "Kepler-433",
+    "stellar_type": "F",
+    "tic_id": "TIC 169556484",
+    "magnitude": 14.717
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262880",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247214"
+      }
+    ]
+  }
+}

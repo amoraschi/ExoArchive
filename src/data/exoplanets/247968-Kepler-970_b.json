@@ -1,1 +1,79 @@
-{"id":247968,"date":"2017-10-02T13:32:28","date_gmt":"2017-10-02T17:32:28","modified":"2025-03-28T07:25:01","modified_gmt":"2025-03-28T11:25:01","slug":"kepler-970-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-970-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-970","pl_letter":"b","display_name":"Kepler-970 b","planet_radius":"0.23275979 x Jupiter","derived_description":"Kepler-970 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.31 Earths, it takes 16.7 days to complete one orbit of its star, and is 0.139 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":331.545,"planet_mass":"7.31 Earths","st_optmag":15.21,"discovery_date":"2016","pl_orbsmax":0.139,"period_display":"16.7 days","eccentricity":"0.34","star_id":263041,"pl_orbper":16.736525,"pl_kepflag":true,"pl_radj":0.23275979,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":117,"multiple_planet_system":false,"pl_rade":2.609,"exo_id":"Kepler-970_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.34},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247968","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263041"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247968,
+  "date": "2017-10-02T13:32:28",
+  "date_gmt": "2017-10-02T17:32:28",
+  "modified": "2025-03-28T07:25:01",
+  "modified_gmt": "2025-03-28T11:25:01",
+  "slug": "kepler-970-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-970-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-970",
+    "pl_letter": "b",
+    "display_name": "Kepler-970 b",
+    "planet_radius": "0.23275979 x Jupiter",
+    "derived_description": "Kepler-970 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.31 Earths, it takes 16.7 days to complete one orbit of its star, and is 0.139 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 331.545,
+    "planet_mass": "7.31 Earths",
+    "st_optmag": 15.21,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.139,
+    "period_display": "16.7 days",
+    "eccentricity": "0.34",
+    "star_id": 263041,
+    "pl_orbper": 16.736525,
+    "pl_kepflag": true,
+    "pl_radj": 0.23275979,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 117,
+    "multiple_planet_system": false,
+    "pl_rade": 2.609,
+    "exo_id": "Kepler-970_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.34
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247968",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263041"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

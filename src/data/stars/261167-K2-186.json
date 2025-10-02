@@ -1,1 +1,71 @@
-{"id":261167,"date":"2023-11-28T20:34:54","date_gmt":"2023-11-29T01:34:54","modified":"2025-04-23T05:53:59","modified_gmt":"2025-04-23T09:53:59","slug":"k2-186","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-186/","featured_media":0,"categories":[],"acf":{"display_name":"K2-186","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244832],"exo_id":"K2-186","st_optmag":12.413,"st_vj":12.413,"st_dist":330.739,"st_j":12.413,"st_mass":1.018617,"dec":18.8252879,"st_teff":5784,"st_rad":0.98083,"ra":135.3350487,"system_radius":149597870,"pl_hostname":"K2-186","stellar_type":"G","tic_id":"TIC 203228393","magnitude":12.413},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261167","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244832"}]}}
+{
+  "id": 261167,
+  "date": "2023-11-28T20:34:54",
+  "date_gmt": "2023-11-29T01:34:54",
+  "modified": "2025-04-23T05:53:59",
+  "modified_gmt": "2025-04-23T09:53:59",
+  "slug": "k2-186",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-186/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-186",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244832
+    ],
+    "exo_id": "K2-186",
+    "st_optmag": 12.413,
+    "st_vj": 12.413,
+    "st_dist": 330.739,
+    "st_j": 12.413,
+    "st_mass": 1.018617,
+    "dec": 18.8252879,
+    "st_teff": 5784,
+    "st_rad": 0.98083,
+    "ra": 135.3350487,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-186",
+    "stellar_type": "G",
+    "tic_id": "TIC 203228393",
+    "magnitude": 12.413
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261167",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244832"
+      }
+    ]
+  }
+}

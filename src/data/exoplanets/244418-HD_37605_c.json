@@ -1,1 +1,79 @@
-{"id":244418,"date":"2019-04-22T16:48:39","date_gmt":"2019-04-22T20:48:39","modified":"2025-07-07T17:22:40","modified_gmt":"2025-07-07T21:22:40","slug":"hd-37605-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-37605-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_37605","pl_letter":"c","display_name":"HD 37605 c","planet_radius":"1.17 x Jupiter (estimate)","derived_description":"HD 37605 c is a gas giant exoplanet that orbits a G-type star. Its mass is 3.19 Jupiters, it takes 7.5 years to complete one orbit of its star, and is 3.74 AU from its star. Its discovery was announced in 2012.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":46.7864,"planet_mass":"3.19 Jupiters","st_optmag":8.67,"discovery_date":"2012","pl_orbsmax":3.74,"period_display":"7.5 years","eccentricity":"0.03","star_id":260541,"pl_orbper":2720,"pl_kepflag":false,"pl_radj":1.17,"pl_disc":2012,"pl_publ_date":"2012","planet_orbit_period":227,"multiple_planet_system":false,"pl_rade":13.1,"exo_id":"HD_37605_c","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.03},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244418","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260541"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244418,
+  "date": "2019-04-22T16:48:39",
+  "date_gmt": "2019-04-22T20:48:39",
+  "modified": "2025-07-07T17:22:40",
+  "modified_gmt": "2025-07-07T21:22:40",
+  "slug": "hd-37605-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-37605-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_37605",
+    "pl_letter": "c",
+    "display_name": "HD 37605 c",
+    "planet_radius": "1.17 x Jupiter (estimate)",
+    "derived_description": "HD 37605 c is a gas giant exoplanet that orbits a G-type star. Its mass is 3.19 Jupiters, it takes 7.5 years to complete one orbit of its star, and is 3.74 AU from its star. Its discovery was announced in 2012.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 46.7864,
+    "planet_mass": "3.19 Jupiters",
+    "st_optmag": 8.67,
+    "discovery_date": "2012",
+    "pl_orbsmax": 3.74,
+    "period_display": "7.5 years",
+    "eccentricity": "0.03",
+    "star_id": 260541,
+    "pl_orbper": 2720,
+    "pl_kepflag": false,
+    "pl_radj": 1.17,
+    "pl_disc": 2012,
+    "pl_publ_date": "2012",
+    "planet_orbit_period": 227,
+    "multiple_planet_system": false,
+    "pl_rade": 13.1,
+    "exo_id": "HD_37605_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.03
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244418",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260541"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":264175,"date":"2023-11-28T21:13:11","date_gmt":"2023-11-29T02:13:11","modified":"2025-04-23T05:56:28","modified_gmt":"2025-04-23T09:56:28","slug":"kepler-1712","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1712/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1712","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246216],"exo_id":"Kepler-1712","st_optmag":14.946,"st_vj":14.946,"st_dist":156.264,"st_j":14.946,"st_mass":0.515,"dec":50.1466922,"st_teff":3732,"st_rad":0.509,"ra":284.998698,"system_radius":13508687.661,"pl_hostname":"Kepler-1712","stellar_type":"M","tic_id":"TIC 48503881","magnitude":14.946},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264175","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246216"}]}}
+{
+  "id": 264175,
+  "date": "2023-11-28T21:13:11",
+  "date_gmt": "2023-11-29T02:13:11",
+  "modified": "2025-04-23T05:56:28",
+  "modified_gmt": "2025-04-23T09:56:28",
+  "slug": "kepler-1712",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1712/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1712",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246216
+    ],
+    "exo_id": "Kepler-1712",
+    "st_optmag": 14.946,
+    "st_vj": 14.946,
+    "st_dist": 156.264,
+    "st_j": 14.946,
+    "st_mass": 0.515,
+    "dec": 50.1466922,
+    "st_teff": 3732,
+    "st_rad": 0.509,
+    "ra": 284.998698,
+    "system_radius": 13508687.661,
+    "pl_hostname": "Kepler-1712",
+    "stellar_type": "M",
+    "tic_id": "TIC 48503881",
+    "magnitude": 14.946
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264175",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246216"
+      }
+    ]
+  }
+}

@@ -1,1 +1,77 @@
-{"id":446276,"date":"2025-01-25T02:18:26","date_gmt":"2025-01-25T07:18:26","modified":"2025-04-23T05:55:10","modified_gmt":"2025-04-23T09:55:10","slug":"toi-6016","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-6016/","featured_media":429647,"categories":[],"acf":{"display_name":"TOI-6016","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[446284],"exo_id":"TOI-6016","st_optmag":11.886,"st_vj":11.886,"st_dist":364.715,"st_j":11.886,"st_mass":1.31,"dec":59.7661983,"st_teff":6110,"st_rad":1.51,"ra":4.5239602,"system_radius":8227882.85,"pl_hostname":"TOI-6016","stellar_type":"F","tic_id":"TIC 327369524","magnitude":11.886},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/446276","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/446284"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 446276,
+  "date": "2025-01-25T02:18:26",
+  "date_gmt": "2025-01-25T07:18:26",
+  "modified": "2025-04-23T05:55:10",
+  "modified_gmt": "2025-04-23T09:55:10",
+  "slug": "toi-6016",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6016/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6016",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      446284
+    ],
+    "exo_id": "TOI-6016",
+    "st_optmag": 11.886,
+    "st_vj": 11.886,
+    "st_dist": 364.715,
+    "st_j": 11.886,
+    "st_mass": 1.31,
+    "dec": 59.7661983,
+    "st_teff": 6110,
+    "st_rad": 1.51,
+    "ra": 4.5239602,
+    "system_radius": 8227882.85,
+    "pl_hostname": "TOI-6016",
+    "stellar_type": "F",
+    "tic_id": "TIC 327369524",
+    "magnitude": 11.886
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/446276",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/446284"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

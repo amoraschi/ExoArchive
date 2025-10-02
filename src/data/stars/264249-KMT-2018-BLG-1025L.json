@@ -1,1 +1,71 @@
-{"id":264249,"date":"2023-11-28T21:14:09","date_gmt":"2023-11-29T02:14:09","modified":"2025-04-23T05:57:17","modified_gmt":"2025-04-23T09:57:17","slug":"kmt-2018-blg-1025l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2018-blg-1025l/","featured_media":0,"categories":[],"acf":{"display_name":"KMT-2018-BLG-1025L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248048],"exo_id":"KMT-2018-BLG-1025L","st_optmag":"","st_vj":"","st_dist":6705,"st_j":"","st_mass":0.219,"dec":-27.8780611,"st_teff":"","st_rad":"","ra":269.8664167,"system_radius":195225220.35,"pl_hostname":"KMT-2018-BLG-1025L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264249","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248048"}]}}
+{
+  "id": 264249,
+  "date": "2023-11-28T21:14:09",
+  "date_gmt": "2023-11-29T02:14:09",
+  "modified": "2025-04-23T05:57:17",
+  "modified_gmt": "2025-04-23T09:57:17",
+  "slug": "kmt-2018-blg-1025l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2018-blg-1025l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2018-BLG-1025L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248048
+    ],
+    "exo_id": "KMT-2018-BLG-1025L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6705,
+    "st_j": "",
+    "st_mass": 0.219,
+    "dec": -27.8780611,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.8664167,
+    "system_radius": 195225220.35,
+    "pl_hostname": "KMT-2018-BLG-1025L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264249",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248048"
+      }
+    ]
+  }
+}

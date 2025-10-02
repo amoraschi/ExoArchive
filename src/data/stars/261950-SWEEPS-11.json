@@ -1,1 +1,71 @@
-{"id":261950,"date":"2023-11-28T20:44:48","date_gmt":"2023-11-29T01:44:48","modified":"2025-04-23T05:55:13","modified_gmt":"2025-04-23T09:55:13","slug":"sweeps-11","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/sweeps-11/","featured_media":0,"categories":[],"acf":{"display_name":"SWEEPS-11","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248382],"exo_id":"SWEEPS-11","st_optmag":19.83,"st_vj":19.83,"st_dist":8500,"st_j":19.83,"st_mass":1.1,"dec":-29.1981944,"st_teff":"","st_rad":1.45,"ra":269.7583333,"system_radius":4487936.1,"pl_hostname":"SWEEPS-11","stellar_type":"Unknown","tic_id":"","magnitude":19.83},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261950","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248382"}]}}
+{
+  "id": 261950,
+  "date": "2023-11-28T20:44:48",
+  "date_gmt": "2023-11-29T01:44:48",
+  "modified": "2025-04-23T05:55:13",
+  "modified_gmt": "2025-04-23T09:55:13",
+  "slug": "sweeps-11",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/sweeps-11/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "SWEEPS-11",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248382
+    ],
+    "exo_id": "SWEEPS-11",
+    "st_optmag": 19.83,
+    "st_vj": 19.83,
+    "st_dist": 8500,
+    "st_j": 19.83,
+    "st_mass": 1.1,
+    "dec": -29.1981944,
+    "st_teff": "",
+    "st_rad": 1.45,
+    "ra": 269.7583333,
+    "system_radius": 4487936.1,
+    "pl_hostname": "SWEEPS-11",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 19.83
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261950",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248382"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":260582,"date":"2023-11-28T20:27:36","date_gmt":"2023-11-29T01:27:36","modified":"2025-04-23T05:55:59","modified_gmt":"2025-04-23T09:55:59","slug":"xo-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/xo-1/","featured_media":0,"categories":[],"acf":{"display_name":"XO-1","custom_star_title":"","aliases":"","constellation":"Corona Borealis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248937],"exo_id":"XO-1","st_optmag":11.251,"st_vj":11.251,"st_dist":163.553,"st_j":11.251,"st_mass":0.88,"dec":28.1696248,"st_teff":5750,"st_rad":0.88,"ra":240.5492745,"system_radius":7300376.056,"pl_hostname":"XO-1","stellar_type":"G","tic_id":"TIC 236312126","magnitude":11.251},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260582","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248937"}]}}
+{
+  "id": 260582,
+  "date": "2023-11-28T20:27:36",
+  "date_gmt": "2023-11-29T01:27:36",
+  "modified": "2025-04-23T05:55:59",
+  "modified_gmt": "2025-04-23T09:55:59",
+  "slug": "xo-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/xo-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "XO-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Corona Borealis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248937
+    ],
+    "exo_id": "XO-1",
+    "st_optmag": 11.251,
+    "st_vj": 11.251,
+    "st_dist": 163.553,
+    "st_j": 11.251,
+    "st_mass": 0.88,
+    "dec": 28.1696248,
+    "st_teff": 5750,
+    "st_rad": 0.88,
+    "ra": 240.5492745,
+    "system_radius": 7300376.056,
+    "pl_hostname": "XO-1",
+    "stellar_type": "G",
+    "tic_id": "TIC 236312126",
+    "magnitude": 11.251
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260582",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248937"
+      }
+    ]
+  }
+}

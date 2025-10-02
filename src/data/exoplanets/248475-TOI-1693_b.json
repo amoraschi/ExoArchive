@@ -1,1 +1,79 @@
-{"id":248475,"date":"2022-02-17T13:16:29","date_gmt":"2022-02-17T18:16:29","modified":"2025-07-07T15:24:30","modified_gmt":"2025-07-07T19:24:30","slug":"toi-1693-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1693-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1693","pl_letter":"b","display_name":"TOI-1693 b","planet_radius":"1.41 x Earth","derived_description":"TOI-1693 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.57 Earths, it takes 1.8 days to complete one orbit of its star, and is 0.0226 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":30.7947,"planet_mass":"2.57 Earths","st_optmag":12.962,"discovery_date":"2022","pl_orbsmax":0.0226,"period_display":"1.8 days","eccentricity":"","star_id":263519,"pl_orbper":1.7666957,"pl_kepflag":false,"pl_radj":0.12579199,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.41,"exo_id":"TOI-1693_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248475","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263519"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248475,
+  "date": "2022-02-17T13:16:29",
+  "date_gmt": "2022-02-17T18:16:29",
+  "modified": "2025-07-07T15:24:30",
+  "modified_gmt": "2025-07-07T19:24:30",
+  "slug": "toi-1693-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1693-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1693",
+    "pl_letter": "b",
+    "display_name": "TOI-1693 b",
+    "planet_radius": "1.41 x Earth",
+    "derived_description": "TOI-1693 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.57 Earths, it takes 1.8 days to complete one orbit of its star, and is 0.0226 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 30.7947,
+    "planet_mass": "2.57 Earths",
+    "st_optmag": 12.962,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.0226,
+    "period_display": "1.8 days",
+    "eccentricity": "",
+    "star_id": 263519,
+    "pl_orbper": 1.7666957,
+    "pl_kepflag": false,
+    "pl_radj": 0.12579199,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.41,
+    "exo_id": "TOI-1693_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248475",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263519"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

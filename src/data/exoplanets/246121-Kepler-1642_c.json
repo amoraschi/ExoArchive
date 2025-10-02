@@ -1,1 +1,79 @@
-{"id":246121,"date":"2016-05-10T14:50:04","date_gmt":"2016-05-10T18:50:04","modified":"2025-07-07T20:43:57","modified_gmt":"2025-07-08T00:43:57","slug":"kepler-1642-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1642-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1642","pl_letter":"c","display_name":"Kepler-1642 c","planet_radius":"0.23730931 x Jupiter","derived_description":"Kepler-1642 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.56 Earths, it takes 6.7 days to complete one orbit of its star, and is 0.0678 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":413.873,"planet_mass":"7.56 Earths","st_optmag":14.319,"discovery_date":"2016","pl_orbsmax":0.0678,"period_display":"6.7 days","eccentricity":"0.0","star_id":262839,"pl_orbper":6.6513802,"pl_kepflag":true,"pl_radj":0.23730931,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.66,"exo_id":"Kepler-1642_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246121","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262839"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 246121,
+  "date": "2016-05-10T14:50:04",
+  "date_gmt": "2016-05-10T18:50:04",
+  "modified": "2025-07-07T20:43:57",
+  "modified_gmt": "2025-07-08T00:43:57",
+  "slug": "kepler-1642-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1642-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1642",
+    "pl_letter": "c",
+    "display_name": "Kepler-1642 c",
+    "planet_radius": "0.23730931 x Jupiter",
+    "derived_description": "Kepler-1642 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.56 Earths, it takes 6.7 days to complete one orbit of its star, and is 0.0678 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 413.873,
+    "planet_mass": "7.56 Earths",
+    "st_optmag": 14.319,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0678,
+    "period_display": "6.7 days",
+    "eccentricity": "0.0",
+    "star_id": 262839,
+    "pl_orbper": 6.6513802,
+    "pl_kepflag": true,
+    "pl_radj": 0.23730931,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.66,
+    "exo_id": "Kepler-1642_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246121",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262839"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

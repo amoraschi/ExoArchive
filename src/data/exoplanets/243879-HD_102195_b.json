@@ -1,1 +1,79 @@
-{"id":243879,"date":"2019-04-22T16:48:41","date_gmt":"2019-04-22T20:48:41","modified":"2024-10-24T17:42:48","modified_gmt":"2024-10-24T21:42:48","slug":"hd-102195-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-102195-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_102195","pl_letter":"b","display_name":"HD 102195 b","planet_radius":"1.27 x Jupiter (estimate)","derived_description":"HD 102195 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.41 Jupiters, it takes 4.1 days to complete one orbit of its star, and is 0.05 AU from its star. Its discovery was announced in 2006.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Kitt Peak National Observatory","st_dist":29.3386,"planet_mass":"0.41 Jupiters","st_optmag":8.07,"discovery_date":"2006","pl_orbsmax":0.05,"period_display":"4.1 days","eccentricity":"0.0","star_id":263274,"pl_orbper":4.11377,"pl_kepflag":false,"pl_radj":1.27,"pl_disc":2006,"pl_publ_date":"2006","planet_orbit_period":143.4,"multiple_planet_system":false,"pl_rade":14.2,"exo_id":"HD_102195_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243879","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263274"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243879,
+  "date": "2019-04-22T16:48:41",
+  "date_gmt": "2019-04-22T20:48:41",
+  "modified": "2024-10-24T17:42:48",
+  "modified_gmt": "2024-10-24T21:42:48",
+  "slug": "hd-102195-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-102195-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_102195",
+    "pl_letter": "b",
+    "display_name": "HD 102195 b",
+    "planet_radius": "1.27 x Jupiter (estimate)",
+    "derived_description": "HD 102195 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.41 Jupiters, it takes 4.1 days to complete one orbit of its star, and is 0.05 AU from its star. Its discovery was announced in 2006.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Kitt Peak National Observatory",
+    "st_dist": 29.3386,
+    "planet_mass": "0.41 Jupiters",
+    "st_optmag": 8.07,
+    "discovery_date": "2006",
+    "pl_orbsmax": 0.05,
+    "period_display": "4.1 days",
+    "eccentricity": "0.0",
+    "star_id": 263274,
+    "pl_orbper": 4.11377,
+    "pl_kepflag": false,
+    "pl_radj": 1.27,
+    "pl_disc": 2006,
+    "pl_publ_date": "2006",
+    "planet_orbit_period": 143.4,
+    "multiple_planet_system": false,
+    "pl_rade": 14.2,
+    "exo_id": "HD_102195_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243879",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263274"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

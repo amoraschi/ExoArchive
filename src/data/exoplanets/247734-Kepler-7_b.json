@@ -1,1 +1,79 @@
-{"id":247734,"date":"2016-03-16T19:26:23","date_gmt":"2016-03-16T23:26:23","modified":"2025-03-28T07:30:52","modified_gmt":"2025-03-28T11:30:52","slug":"kepler-7b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-7b/","featured_media":314965,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-7","pl_letter":"b","display_name":"Kepler-7 b","planet_radius":"1.622 x Jupiter","derived_description":"Kepler-7 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.441 Jupiters, it takes 4.9 days to complete one orbit of its star, and is 0.06067 AU from its star. Its discovery was announced in 2009.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":922.562,"planet_mass":"0.441 Jupiters","st_optmag":13.008,"discovery_date":"2009","pl_orbsmax":0.06067,"period_display":"4.9 days","eccentricity":"0.0","star_id":263023,"pl_orbper":4.8854892,"pl_kepflag":true,"pl_radj":1.622,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":18.180998,"exo_id":"Kepler-7_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247734","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263023"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/314965"}]}}
+{
+  "id": 247734,
+  "date": "2016-03-16T19:26:23",
+  "date_gmt": "2016-03-16T23:26:23",
+  "modified": "2025-03-28T07:30:52",
+  "modified_gmt": "2025-03-28T11:30:52",
+  "slug": "kepler-7b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-7b/",
+  "featured_media": 314965,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-7",
+    "pl_letter": "b",
+    "display_name": "Kepler-7 b",
+    "planet_radius": "1.622 x Jupiter",
+    "derived_description": "Kepler-7 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.441 Jupiters, it takes 4.9 days to complete one orbit of its star, and is 0.06067 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 922.562,
+    "planet_mass": "0.441 Jupiters",
+    "st_optmag": 13.008,
+    "discovery_date": "2009",
+    "pl_orbsmax": 0.06067,
+    "period_display": "4.9 days",
+    "eccentricity": "0.0",
+    "star_id": 263023,
+    "pl_orbper": 4.8854892,
+    "pl_kepflag": true,
+    "pl_radj": 1.622,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 18.180998,
+    "exo_id": "Kepler-7_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247734",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263023"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/314965"
+      }
+    ]
+  }
+}

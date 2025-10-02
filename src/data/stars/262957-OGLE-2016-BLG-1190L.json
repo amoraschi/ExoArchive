@@ -1,1 +1,71 @@
-{"id":262957,"date":"2023-11-28T20:57:36","date_gmt":"2023-11-29T01:57:36","modified":"2025-04-23T05:56:38","modified_gmt":"2025-04-23T09:56:38","slug":"ogle-2016-blg-1190l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2016-blg-1190l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2016-BLG-1190L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248275],"exo_id":"OGLE-2016-BLG-1190L","st_optmag":"","st_vj":"","st_dist":6770,"st_j":"","st_mass":0.88,"dec":-27.6135559,"st_teff":"","st_rad":"","ra":269.717926,"system_radius":324627377.9,"pl_hostname":"OGLE-2016-BLG-1190L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262957","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248275"}]}}
+{
+  "id": 262957,
+  "date": "2023-11-28T20:57:36",
+  "date_gmt": "2023-11-29T01:57:36",
+  "modified": "2025-04-23T05:56:38",
+  "modified_gmt": "2025-04-23T09:56:38",
+  "slug": "ogle-2016-blg-1190l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2016-blg-1190l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2016-BLG-1190L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248275
+    ],
+    "exo_id": "OGLE-2016-BLG-1190L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6770,
+    "st_j": "",
+    "st_mass": 0.88,
+    "dec": -27.6135559,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.717926,
+    "system_radius": 324627377.9,
+    "pl_hostname": "OGLE-2016-BLG-1190L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262957",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248275"
+      }
+    ]
+  }
+}

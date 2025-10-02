@@ -1,1 +1,71 @@
-{"id":262179,"date":"2023-11-28T20:47:42","date_gmt":"2023-11-29T01:47:42","modified":"2025-04-23T05:54:15","modified_gmt":"2025-04-23T09:54:15","slug":"kepler-563","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-563/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-563","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247409],"exo_id":"Kepler-563","st_optmag":14.901,"st_vj":14.901,"st_dist":565.207,"st_j":14.901,"st_mass":0.8,"dec":46.2897548,"st_teff":5066,"st_rad":0.77,"ra":292.4461832,"system_radius":21212977.966,"pl_hostname":"Kepler-563","stellar_type":"K","tic_id":"TIC 63289401","magnitude":14.901},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262179","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247409"}]}}
+{
+  "id": 262179,
+  "date": "2023-11-28T20:47:42",
+  "date_gmt": "2023-11-29T01:47:42",
+  "modified": "2025-04-23T05:54:15",
+  "modified_gmt": "2025-04-23T09:54:15",
+  "slug": "kepler-563",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-563/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-563",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247409
+    ],
+    "exo_id": "Kepler-563",
+    "st_optmag": 14.901,
+    "st_vj": 14.901,
+    "st_dist": 565.207,
+    "st_j": 14.901,
+    "st_mass": 0.8,
+    "dec": 46.2897548,
+    "st_teff": 5066,
+    "st_rad": 0.77,
+    "ra": 292.4461832,
+    "system_radius": 21212977.966,
+    "pl_hostname": "Kepler-563",
+    "stellar_type": "K",
+    "tic_id": "TIC 63289401",
+    "magnitude": 14.901
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262179",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247409"
+      }
+    ]
+  }
+}

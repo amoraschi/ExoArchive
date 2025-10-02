@@ -1,1 +1,71 @@
-{"id":261198,"date":"2023-11-28T20:35:18","date_gmt":"2023-11-29T01:35:18","modified":"2025-04-23T05:54:16","modified_gmt":"2025-04-23T09:54:16","slug":"hip_71135","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hip_71135/","featured_media":0,"categories":[],"acf":{"display_name":"HIP 71135","custom_star_title":"","aliases":"","constellation":"Lupus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244681],"exo_id":"HIP_71135","st_optmag":10.53,"st_vj":10.53,"st_dist":32.3311,"st_j":10.53,"st_mass":0.66,"dec":-52.6464757,"st_teff":4146,"st_rad":0.681296,"ra":218.2158073,"system_radius":50115286.45,"pl_hostname":"HIP_71135","stellar_type":"K","tic_id":"TIC 457695809","magnitude":10.53},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261198","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244681"}]}}
+{
+  "id": 261198,
+  "date": "2023-11-28T20:35:18",
+  "date_gmt": "2023-11-29T01:35:18",
+  "modified": "2025-04-23T05:54:16",
+  "modified_gmt": "2025-04-23T09:54:16",
+  "slug": "hip_71135",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip_71135/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 71135",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lupus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244681
+    ],
+    "exo_id": "HIP_71135",
+    "st_optmag": 10.53,
+    "st_vj": 10.53,
+    "st_dist": 32.3311,
+    "st_j": 10.53,
+    "st_mass": 0.66,
+    "dec": -52.6464757,
+    "st_teff": 4146,
+    "st_rad": 0.681296,
+    "ra": 218.2158073,
+    "system_radius": 50115286.45,
+    "pl_hostname": "HIP_71135",
+    "stellar_type": "K",
+    "tic_id": "TIC 457695809",
+    "magnitude": 10.53
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261198",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244681"
+      }
+    ]
+  }
+}

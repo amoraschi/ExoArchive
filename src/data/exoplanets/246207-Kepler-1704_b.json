@@ -1,1 +1,79 @@
-{"id":246207,"date":"2021-07-29T13:34:15","date_gmt":"2021-07-29T17:34:15","modified":"2025-07-07T20:35:03","modified_gmt":"2025-07-08T00:35:03","slug":"kepler-1704-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1704-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1704","pl_letter":"b","display_name":"Kepler-1704 b","planet_radius":"1.066 x Jupiter","derived_description":"Kepler-1704 b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.16 Jupiters, it takes 2.7 years to complete one orbit of its star, and is 2.027 AU from its star. Its discovery was announced in 2013.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":835.455,"planet_mass":"4.16 Jupiters","st_optmag":13.392,"discovery_date":"2013","pl_orbsmax":2.027,"period_display":"2.7 years","eccentricity":"0.92","star_id":263183,"pl_orbper":988.88112,"pl_kepflag":true,"pl_radj":1.066,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":82.4,"multiple_planet_system":false,"pl_rade":11.94877343,"exo_id":"Kepler-1704_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.92},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246207","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263183"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 246207,
+  "date": "2021-07-29T13:34:15",
+  "date_gmt": "2021-07-29T17:34:15",
+  "modified": "2025-07-07T20:35:03",
+  "modified_gmt": "2025-07-08T00:35:03",
+  "slug": "kepler-1704-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1704-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1704",
+    "pl_letter": "b",
+    "display_name": "Kepler-1704 b",
+    "planet_radius": "1.066 x Jupiter",
+    "derived_description": "Kepler-1704 b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.16 Jupiters, it takes 2.7 years to complete one orbit of its star, and is 2.027 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 835.455,
+    "planet_mass": "4.16 Jupiters",
+    "st_optmag": 13.392,
+    "discovery_date": "2013",
+    "pl_orbsmax": 2.027,
+    "period_display": "2.7 years",
+    "eccentricity": "0.92",
+    "star_id": 263183,
+    "pl_orbper": 988.88112,
+    "pl_kepflag": true,
+    "pl_radj": 1.066,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": 82.4,
+    "multiple_planet_system": false,
+    "pl_rade": 11.94877343,
+    "exo_id": "Kepler-1704_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.92
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246207",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263183"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

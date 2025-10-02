@@ -1,1 +1,71 @@
-{"id":264344,"date":"2023-11-28T21:15:21","date_gmt":"2023-11-29T02:15:21","modified":"2025-04-23T05:53:36","modified_gmt":"2025-04-23T09:53:36","slug":"kepler-1816","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1816/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1816","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246357],"exo_id":"Kepler-1816","st_optmag":14.734,"st_vj":14.734,"st_dist":437.823,"st_j":14.734,"st_mass":0.786,"dec":50.6987736,"st_teff":5051,"st_rad":0.706,"ra":296.8509823,"system_radius":53327152.7189,"pl_hostname":"Kepler-1816","stellar_type":"K","tic_id":"TIC 27911400","magnitude":14.734},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264344","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246357"}]}}
+{
+  "id": 264344,
+  "date": "2023-11-28T21:15:21",
+  "date_gmt": "2023-11-29T02:15:21",
+  "modified": "2025-04-23T05:53:36",
+  "modified_gmt": "2025-04-23T09:53:36",
+  "slug": "kepler-1816",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1816/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1816",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246357
+    ],
+    "exo_id": "Kepler-1816",
+    "st_optmag": 14.734,
+    "st_vj": 14.734,
+    "st_dist": 437.823,
+    "st_j": 14.734,
+    "st_mass": 0.786,
+    "dec": 50.6987736,
+    "st_teff": 5051,
+    "st_rad": 0.706,
+    "ra": 296.8509823,
+    "system_radius": 53327152.7189,
+    "pl_hostname": "Kepler-1816",
+    "stellar_type": "K",
+    "tic_id": "TIC 27911400",
+    "magnitude": 14.734
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264344",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246357"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243473,"date":"2021-08-19T13:32:38","date_gmt":"2021-08-19T17:32:38","modified":"2025-03-28T07:22:18","modified_gmt":"2025-03-28T11:22:18","slug":"coconuts-2-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/coconuts-2-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"COCONUTS-2_A","pl_letter":"b","display_name":"COCONUTS-2 b","planet_radius":"1.11 x Jupiter","derived_description":"COCONUTS-2 b is a gas giant exoplanet that orbits a M-type star. Its mass is 8 Jupiters, it takes 1101369.9 years to complete one orbit of its star, and is 7506 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Imaging","pl_facility":"NASA Infrared Telescope Facility (IRTF)","st_dist":10.8864,"planet_mass":"8 Jupiters","st_optmag":11.298,"discovery_date":"2021","pl_orbsmax":7506,"period_display":"1101369.9 years","eccentricity":"","star_id":263676,"pl_orbper":402000000,"pl_kepflag":false,"pl_radj":1.11,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.44196858,"exo_id":"COCONUTS-2_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243473","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263676"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243473,
+  "date": "2021-08-19T13:32:38",
+  "date_gmt": "2021-08-19T17:32:38",
+  "modified": "2025-03-28T07:22:18",
+  "modified_gmt": "2025-03-28T11:22:18",
+  "slug": "coconuts-2-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/coconuts-2-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "COCONUTS-2_A",
+    "pl_letter": "b",
+    "display_name": "COCONUTS-2 b",
+    "planet_radius": "1.11 x Jupiter",
+    "derived_description": "COCONUTS-2 b is a gas giant exoplanet that orbits a M-type star. Its mass is 8 Jupiters, it takes 1101369.9 years to complete one orbit of its star, and is 7506 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "NASA Infrared Telescope Facility (IRTF)",
+    "st_dist": 10.8864,
+    "planet_mass": "8 Jupiters",
+    "st_optmag": 11.298,
+    "discovery_date": "2021",
+    "pl_orbsmax": 7506,
+    "period_display": "1101369.9 years",
+    "eccentricity": "",
+    "star_id": 263676,
+    "pl_orbper": 402000000,
+    "pl_kepflag": false,
+    "pl_radj": 1.11,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.44196858,
+    "exo_id": "COCONUTS-2_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243473",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263676"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

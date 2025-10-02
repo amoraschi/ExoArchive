@@ -1,1 +1,76 @@
-{"id":260863,"date":"2023-11-28T20:31:03","date_gmt":"2023-11-29T01:31:03","modified":"2025-04-23T05:53:23","modified_gmt":"2025-04-23T09:53:23","slug":"hd_5278","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_5278/","featured_media":0,"categories":[],"acf":{"display_name":"HD 5278","custom_star_title":"","aliases":"","constellation":"Octans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244475,244476],"exo_id":"HD_5278","st_optmag":7.94,"st_vj":7.94,"st_dist":57.5846,"st_j":7.94,"st_mass":1.126,"dec":-83.7437671,"st_teff":6203,"st_rad":1.194,"ra":12.5467785,"system_radius":36142845.392,"pl_hostname":"HD_5278","stellar_type":"F","tic_id":"TIC 263003176","magnitude":7.94},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260863","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244476"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244475"}]}}
+{
+  "id": 260863,
+  "date": "2023-11-28T20:31:03",
+  "date_gmt": "2023-11-29T01:31:03",
+  "modified": "2025-04-23T05:53:23",
+  "modified_gmt": "2025-04-23T09:53:23",
+  "slug": "hd_5278",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_5278/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 5278",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Octans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244475,
+      244476
+    ],
+    "exo_id": "HD_5278",
+    "st_optmag": 7.94,
+    "st_vj": 7.94,
+    "st_dist": 57.5846,
+    "st_j": 7.94,
+    "st_mass": 1.126,
+    "dec": -83.7437671,
+    "st_teff": 6203,
+    "st_rad": 1.194,
+    "ra": 12.5467785,
+    "system_radius": 36142845.392,
+    "pl_hostname": "HD_5278",
+    "stellar_type": "F",
+    "tic_id": "TIC 263003176",
+    "magnitude": 7.94
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260863",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244476"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244475"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":409956,"date":"2024-07-25T22:04:32","date_gmt":"2024-07-26T02:04:32","modified":"2025-04-23T05:53:22","modified_gmt":"2025-04-23T09:53:22","slug":"toi-4153","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4153/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4153","custom_star_title":"","aliases":"","constellation":"Cepheus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410034],"exo_id":"TOI-4153","st_optmag":11.601,"st_vj":11.601,"st_dist":423.84,"st_j":11.601,"st_mass":1.572,"dec":82.2160792,"st_teff":6860,"st_rad":1.605,"ra":335.3934698,"system_radius":9441121.5757,"pl_hostname":"TOI-4153","stellar_type":"F","tic_id":"TIC 470171739","magnitude":11.601},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409956","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410034"}]}}
+{
+  "id": 409956,
+  "date": "2024-07-25T22:04:32",
+  "date_gmt": "2024-07-26T02:04:32",
+  "modified": "2025-04-23T05:53:22",
+  "modified_gmt": "2025-04-23T09:53:22",
+  "slug": "toi-4153",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4153/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4153",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410034
+    ],
+    "exo_id": "TOI-4153",
+    "st_optmag": 11.601,
+    "st_vj": 11.601,
+    "st_dist": 423.84,
+    "st_j": 11.601,
+    "st_mass": 1.572,
+    "dec": 82.2160792,
+    "st_teff": 6860,
+    "st_rad": 1.605,
+    "ra": 335.3934698,
+    "system_radius": 9441121.5757,
+    "pl_hostname": "TOI-4153",
+    "stellar_type": "F",
+    "tic_id": "TIC 470171739",
+    "magnitude": 11.601
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409956",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410034"
+      }
+    ]
+  }
+}

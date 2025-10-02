@@ -1,1 +1,71 @@
-{"id":261972,"date":"2023-11-28T20:45:05","date_gmt":"2023-11-29T01:45:05","modified":"2025-04-23T05:56:00","modified_gmt":"2025-04-23T09:56:00","slug":"hats-6","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-6/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-6","custom_star_title":"","aliases":"","constellation":"Lepus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243857],"exo_id":"HATS-6","st_optmag":15.044,"st_vj":15.044,"st_dist":169.318,"st_j":15.044,"st_mass":0.574,"dec":-19.0316268,"st_teff":3724,"st_rad":0.57,"ra":88.1468079,"system_radius":5419930.8301,"pl_hostname":"HATS-6","stellar_type":"M","tic_id":"TIC 33521996","magnitude":15.044},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261972","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243857"}]}}
+{
+  "id": 261972,
+  "date": "2023-11-28T20:45:05",
+  "date_gmt": "2023-11-29T01:45:05",
+  "modified": "2025-04-23T05:56:00",
+  "modified_gmt": "2025-04-23T09:56:00",
+  "slug": "hats-6",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-6/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-6",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lepus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243857
+    ],
+    "exo_id": "HATS-6",
+    "st_optmag": 15.044,
+    "st_vj": 15.044,
+    "st_dist": 169.318,
+    "st_j": 15.044,
+    "st_mass": 0.574,
+    "dec": -19.0316268,
+    "st_teff": 3724,
+    "st_rad": 0.57,
+    "ra": 88.1468079,
+    "system_radius": 5419930.8301,
+    "pl_hostname": "HATS-6",
+    "stellar_type": "M",
+    "tic_id": "TIC 33521996",
+    "magnitude": 15.044
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261972",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243857"
+      }
+    ]
+  }
+}

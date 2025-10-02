@@ -1,1 +1,71 @@
-{"id":262464,"date":"2023-11-28T20:51:19","date_gmt":"2023-11-29T01:51:19","modified":"2025-04-23T05:56:57","modified_gmt":"2025-04-23T09:56:57","slug":"hat-p-7","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hat-p-7/","featured_media":0,"categories":[],"acf":{"display_name":"HAT-P-7","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243791],"exo_id":"HAT-P-7","st_optmag":10.481,"st_vj":10.481,"st_dist":341.079,"st_j":10.481,"st_mass":1.56,"dec":47.9695429,"st_teff":6389,"st_rad":2,"ra":292.24719,"system_radius":5698182.8683,"pl_hostname":"HAT-P-7","stellar_type":"F","tic_id":"TIC 424865156","magnitude":10.481},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262464","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243791"}]}}
+{
+  "id": 262464,
+  "date": "2023-11-28T20:51:19",
+  "date_gmt": "2023-11-29T01:51:19",
+  "modified": "2025-04-23T05:56:57",
+  "modified_gmt": "2025-04-23T09:56:57",
+  "slug": "hat-p-7",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-7/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-7",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243791
+    ],
+    "exo_id": "HAT-P-7",
+    "st_optmag": 10.481,
+    "st_vj": 10.481,
+    "st_dist": 341.079,
+    "st_j": 10.481,
+    "st_mass": 1.56,
+    "dec": 47.9695429,
+    "st_teff": 6389,
+    "st_rad": 2,
+    "ra": 292.24719,
+    "system_radius": 5698182.8683,
+    "pl_hostname": "HAT-P-7",
+    "stellar_type": "F",
+    "tic_id": "TIC 424865156",
+    "magnitude": 10.481
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262464",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243791"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":261026,"date":"2023-11-28T20:33:07","date_gmt":"2023-11-29T01:33:07","modified":"2025-04-23T05:54:53","modified_gmt":"2025-04-23T09:54:53","slug":"kepler-386","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-386/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-386","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247119,"1":247118},"exo_id":"Kepler-386","st_optmag":15.949,"st_vj":15.949,"st_dist":882.462,"st_j":15.949,"st_mass":0.825,"dec":48.6938077,"st_teff":5178,"st_rad":0.767,"ra":289.8589165,"system_radius":23187669.85,"pl_hostname":"Kepler-386","stellar_type":"K","tic_id":"TIC 267669725","magnitude":15.949},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261026","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247119"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247118"}]}}
+{
+  "id": 261026,
+  "date": "2023-11-28T20:33:07",
+  "date_gmt": "2023-11-29T01:33:07",
+  "modified": "2025-04-23T05:54:53",
+  "modified_gmt": "2025-04-23T09:54:53",
+  "slug": "kepler-386",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-386/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-386",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247119,
+      "1": 247118
+    },
+    "exo_id": "Kepler-386",
+    "st_optmag": 15.949,
+    "st_vj": 15.949,
+    "st_dist": 882.462,
+    "st_j": 15.949,
+    "st_mass": 0.825,
+    "dec": 48.6938077,
+    "st_teff": 5178,
+    "st_rad": 0.767,
+    "ra": 289.8589165,
+    "system_radius": 23187669.85,
+    "pl_hostname": "Kepler-386",
+    "stellar_type": "K",
+    "tic_id": "TIC 267669725",
+    "magnitude": 15.949
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261026",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247119"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247118"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245516,"date":"2017-10-02T13:32:46","date_gmt":"2017-10-02T17:32:46","modified":"2025-03-28T07:25:07","modified_gmt":"2025-03-28T11:25:07","slug":"kepler-1204-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1204-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1204","pl_letter":"b","display_name":"Kepler-1204 b","planet_radius":"0.27210277 x Jupiter","derived_description":"Kepler-1204 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 9.53 Earths, it takes 85.7 days to complete one orbit of its star, and is 0.3877 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1175.22,"planet_mass":"9.53 Earths","st_optmag":15.45,"discovery_date":"2016","pl_orbsmax":0.3877,"period_display":"85.7 days","eccentricity":"0.0","star_id":263406,"pl_orbper":85.7350285,"pl_kepflag":true,"pl_radj":0.27210277,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.05,"exo_id":"Kepler-1204_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245516","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263406"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245516,
+  "date": "2017-10-02T13:32:46",
+  "date_gmt": "2017-10-02T17:32:46",
+  "modified": "2025-03-28T07:25:07",
+  "modified_gmt": "2025-03-28T11:25:07",
+  "slug": "kepler-1204-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1204-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1204",
+    "pl_letter": "b",
+    "display_name": "Kepler-1204 b",
+    "planet_radius": "0.27210277 x Jupiter",
+    "derived_description": "Kepler-1204 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 9.53 Earths, it takes 85.7 days to complete one orbit of its star, and is 0.3877 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1175.22,
+    "planet_mass": "9.53 Earths",
+    "st_optmag": 15.45,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.3877,
+    "period_display": "85.7 days",
+    "eccentricity": "0.0",
+    "star_id": 263406,
+    "pl_orbper": 85.7350285,
+    "pl_kepflag": true,
+    "pl_radj": 0.27210277,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.05,
+    "exo_id": "Kepler-1204_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245516",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263406"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

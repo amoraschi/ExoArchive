@@ -1,1 +1,79 @@
-{"id":244345,"date":"2019-04-22T16:49:01","date_gmt":"2019-04-22T20:49:01","modified":"2024-10-24T18:40:33","modified_gmt":"2024-10-24T22:40:33","slug":"hd-24064-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-24064-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_24064","pl_letter":"b","display_name":"HD 24064 b","planet_radius":"1.1 x Jupiter (estimate)","derived_description":"HD 24064 b is a gas giant exoplanet that orbits a K-type star. Its mass is 12.89 Jupiters, it takes 1.5 years to complete one orbit of its star, and is 1.29 AU from its star. Its discovery was announced in 2015.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Bohyunsan Optical Astronomical Observatory","st_dist":300.247,"planet_mass":"12.89 Jupiters","st_optmag":6.74616,"discovery_date":"2015","pl_orbsmax":1.29,"period_display":"1.5 years","eccentricity":"0.35","star_id":260769,"pl_orbper":535.59998,"pl_kepflag":false,"pl_radj":1.1,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":250.8,"multiple_planet_system":false,"pl_rade":12.3,"exo_id":"HD_24064_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.35},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244345","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260769"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244345,
+  "date": "2019-04-22T16:49:01",
+  "date_gmt": "2019-04-22T20:49:01",
+  "modified": "2024-10-24T18:40:33",
+  "modified_gmt": "2024-10-24T22:40:33",
+  "slug": "hd-24064-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-24064-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_24064",
+    "pl_letter": "b",
+    "display_name": "HD 24064 b",
+    "planet_radius": "1.1 x Jupiter (estimate)",
+    "derived_description": "HD 24064 b is a gas giant exoplanet that orbits a K-type star. Its mass is 12.89 Jupiters, it takes 1.5 years to complete one orbit of its star, and is 1.29 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Bohyunsan Optical Astronomical Observatory",
+    "st_dist": 300.247,
+    "planet_mass": "12.89 Jupiters",
+    "st_optmag": 6.74616,
+    "discovery_date": "2015",
+    "pl_orbsmax": 1.29,
+    "period_display": "1.5 years",
+    "eccentricity": "0.35",
+    "star_id": 260769,
+    "pl_orbper": 535.59998,
+    "pl_kepflag": false,
+    "pl_radj": 1.1,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": 250.8,
+    "multiple_planet_system": false,
+    "pl_rade": 12.3,
+    "exo_id": "HD_24064_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.35
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244345",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260769"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

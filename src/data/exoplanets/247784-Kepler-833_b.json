@@ -1,1 +1,79 @@
-{"id":247784,"date":"2017-10-02T13:32:30","date_gmt":"2017-10-02T17:32:30","modified":"2025-06-25T12:06:51","modified_gmt":"2025-06-25T16:06:51","slug":"kepler-833-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-833-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-833","pl_letter":"b","display_name":"Kepler-833 b","planet_radius":"2.02 x Earth","derived_description":"Kepler-833 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.74 Earths, it takes 18.8 days to complete one orbit of its star, and is 0.1139 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":467.37,"planet_mass":"4.74 Earths","st_optmag":15.755,"discovery_date":"2016","pl_orbsmax":0.1139,"period_display":"18.8 days","eccentricity":"0.0","star_id":261848,"pl_orbper":18.7546998,"pl_kepflag":true,"pl_radj":0.18021233,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.02,"exo_id":"Kepler-833_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247784","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261848"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247784,
+  "date": "2017-10-02T13:32:30",
+  "date_gmt": "2017-10-02T17:32:30",
+  "modified": "2025-06-25T12:06:51",
+  "modified_gmt": "2025-06-25T16:06:51",
+  "slug": "kepler-833-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-833-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-833",
+    "pl_letter": "b",
+    "display_name": "Kepler-833 b",
+    "planet_radius": "2.02 x Earth",
+    "derived_description": "Kepler-833 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.74 Earths, it takes 18.8 days to complete one orbit of its star, and is 0.1139 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 467.37,
+    "planet_mass": "4.74 Earths",
+    "st_optmag": 15.755,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1139,
+    "period_display": "18.8 days",
+    "eccentricity": "0.0",
+    "star_id": 261848,
+    "pl_orbper": 18.7546998,
+    "pl_kepflag": true,
+    "pl_radj": 0.18021233,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.02,
+    "exo_id": "Kepler-833_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247784",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261848"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

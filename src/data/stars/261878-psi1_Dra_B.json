@@ -1,1 +1,71 @@
-{"id":261878,"date":"2023-11-28T20:43:52","date_gmt":"2023-11-29T01:43:52","modified":"2025-04-23T05:55:09","modified_gmt":"2025-04-23T09:55:09","slug":"psi1_dra_b","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/psi1_dra_b/","featured_media":0,"categories":[],"acf":{"display_name":"psi1 Draconis B","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248350],"exo_id":"psi1_Dra_B","st_optmag":5.808,"st_vj":5.808,"st_dist":22.7188,"st_j":5.808,"st_mass":1.19,"dec":72.1557114,"st_teff":6212,"st_rad":1.255735,"ra":265.4925754,"system_radius":662718564.1,"pl_hostname":"psi1_Dra_B","stellar_type":"F","tic_id":"TIC 441804565","magnitude":5.808},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261878","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248350"}]}}
+{
+  "id": 261878,
+  "date": "2023-11-28T20:43:52",
+  "date_gmt": "2023-11-29T01:43:52",
+  "modified": "2025-04-23T05:55:09",
+  "modified_gmt": "2025-04-23T09:55:09",
+  "slug": "psi1_dra_b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/psi1_dra_b/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "psi1 Draconis B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248350
+    ],
+    "exo_id": "psi1_Dra_B",
+    "st_optmag": 5.808,
+    "st_vj": 5.808,
+    "st_dist": 22.7188,
+    "st_j": 5.808,
+    "st_mass": 1.19,
+    "dec": 72.1557114,
+    "st_teff": 6212,
+    "st_rad": 1.255735,
+    "ra": 265.4925754,
+    "system_radius": 662718564.1,
+    "pl_hostname": "psi1_Dra_B",
+    "stellar_type": "F",
+    "tic_id": "TIC 441804565",
+    "magnitude": 5.808
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261878",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248350"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":262618,"date":"2023-11-28T20:53:16","date_gmt":"2023-11-29T01:53:16","modified":"2025-04-23T05:56:30","modified_gmt":"2025-04-23T09:56:30","slug":"kepler-1997","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1997/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1997","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246596],"exo_id":"Kepler-1997","st_optmag":15.454,"st_vj":15.454,"st_dist":1502.34,"st_j":15.454,"st_mass":1.111,"dec":46.5891373,"st_teff":6215,"st_rad":1.052,"ra":297.4808253,"system_radius":27152013.405,"pl_hostname":"Kepler-1997","stellar_type":"F","tic_id":"TIC 273372570","magnitude":15.454},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262618","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246596"}]}}
+{
+  "id": 262618,
+  "date": "2023-11-28T20:53:16",
+  "date_gmt": "2023-11-29T01:53:16",
+  "modified": "2025-04-23T05:56:30",
+  "modified_gmt": "2025-04-23T09:56:30",
+  "slug": "kepler-1997",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1997/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1997",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246596
+    ],
+    "exo_id": "Kepler-1997",
+    "st_optmag": 15.454,
+    "st_vj": 15.454,
+    "st_dist": 1502.34,
+    "st_j": 15.454,
+    "st_mass": 1.111,
+    "dec": 46.5891373,
+    "st_teff": 6215,
+    "st_rad": 1.052,
+    "ra": 297.4808253,
+    "system_radius": 27152013.405,
+    "pl_hostname": "Kepler-1997",
+    "stellar_type": "F",
+    "tic_id": "TIC 273372570",
+    "magnitude": 15.454
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262618",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246596"
+      }
+    ]
+  }
+}

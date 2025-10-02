@@ -1,1 +1,71 @@
-{"id":261899,"date":"2023-11-28T20:44:08","date_gmt":"2023-11-29T01:44:08","modified":"2025-04-23T05:55:10","modified_gmt":"2025-04-23T09:55:10","slug":"gpx-1","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gpx-1/","featured_media":0,"categories":[],"acf":{"display_name":"GPX-1","custom_star_title":"","aliases":"","constellation":"Perseus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243718],"exo_id":"GPX-1","st_optmag":12.316,"st_vj":12.316,"st_dist":655.013,"st_j":12.316,"st_mass":1.68,"dec":56.025708,"st_teff":7000,"st_rad":1.56,"ra":38.3691648,"system_radius":5056408.006,"pl_hostname":"GPX-1","stellar_type":"F","tic_id":"TIC 245392284","magnitude":12.316},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261899","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243718"}]}}
+{
+  "id": 261899,
+  "date": "2023-11-28T20:44:08",
+  "date_gmt": "2023-11-29T01:44:08",
+  "modified": "2025-04-23T05:55:10",
+  "modified_gmt": "2025-04-23T09:55:10",
+  "slug": "gpx-1",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gpx-1/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GPX-1",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243718
+    ],
+    "exo_id": "GPX-1",
+    "st_optmag": 12.316,
+    "st_vj": 12.316,
+    "st_dist": 655.013,
+    "st_j": 12.316,
+    "st_mass": 1.68,
+    "dec": 56.025708,
+    "st_teff": 7000,
+    "st_rad": 1.56,
+    "ra": 38.3691648,
+    "system_radius": 5056408.006,
+    "pl_hostname": "GPX-1",
+    "stellar_type": "F",
+    "tic_id": "TIC 245392284",
+    "magnitude": 12.316
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261899",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243718"
+      }
+    ]
+  }
+}

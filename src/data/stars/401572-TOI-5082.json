@@ -1,1 +1,71 @@
-{"id":401572,"date":"2024-06-13T20:50:23","date_gmt":"2024-06-14T00:50:23","modified":"2025-04-23T05:56:00","modified_gmt":"2025-04-23T09:56:00","slug":"toi-5082","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5082/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-5082","custom_star_title":"","aliases":"","constellation":"Gemini","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[401610],"exo_id":"TOI-5082","st_optmag":8.25,"st_vj":8.25,"st_dist":43.1406,"st_j":8.25,"st_mass":0.99665,"dec":22.6831477,"st_teff":5670,"st_rad":0.93,"ra":106.569578,"system_radius":7660135.2968865,"pl_hostname":"TOI-5082","stellar_type":"G","tic_id":"TIC 437011608","magnitude":8.25},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/401572","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401610"}]}}
+{
+  "id": 401572,
+  "date": "2024-06-13T20:50:23",
+  "date_gmt": "2024-06-14T00:50:23",
+  "modified": "2025-04-23T05:56:00",
+  "modified_gmt": "2025-04-23T09:56:00",
+  "slug": "toi-5082",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5082/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5082",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Gemini",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      401610
+    ],
+    "exo_id": "TOI-5082",
+    "st_optmag": 8.25,
+    "st_vj": 8.25,
+    "st_dist": 43.1406,
+    "st_j": 8.25,
+    "st_mass": 0.99665,
+    "dec": 22.6831477,
+    "st_teff": 5670,
+    "st_rad": 0.93,
+    "ra": 106.569578,
+    "system_radius": 7660135.2968865,
+    "pl_hostname": "TOI-5082",
+    "stellar_type": "G",
+    "tic_id": "TIC 437011608",
+    "magnitude": 8.25
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401572",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401610"
+      }
+    ]
+  }
+}

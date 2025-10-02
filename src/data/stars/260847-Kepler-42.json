@@ -1,1 +1,81 @@
-{"id":260847,"date":"2023-11-28T20:30:51","date_gmt":"2023-11-29T01:30:51","modified":"2025-04-23T05:54:00","modified_gmt":"2025-04-23T09:54:00","slug":"kepler-42","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-42/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-42","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247204,247205,247206],"exo_id":"Kepler-42","st_optmag":16.7,"st_vj":16.7,"st_dist":40.0595,"st_j":16.7,"st_mass":0.13,"dec":44.6173667,"st_teff":3068,"st_rad":0.17,"ra":292.2196,"system_radius":2303807.198,"pl_hostname":"Kepler-42","stellar_type":"M","tic_id":"TIC 63126862","magnitude":16.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260847","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247206"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247205"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247204"}]}}
+{
+  "id": 260847,
+  "date": "2023-11-28T20:30:51",
+  "date_gmt": "2023-11-29T01:30:51",
+  "modified": "2025-04-23T05:54:00",
+  "modified_gmt": "2025-04-23T09:54:00",
+  "slug": "kepler-42",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-42/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-42",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247204,
+      247205,
+      247206
+    ],
+    "exo_id": "Kepler-42",
+    "st_optmag": 16.7,
+    "st_vj": 16.7,
+    "st_dist": 40.0595,
+    "st_j": 16.7,
+    "st_mass": 0.13,
+    "dec": 44.6173667,
+    "st_teff": 3068,
+    "st_rad": 0.17,
+    "ra": 292.2196,
+    "system_radius": 2303807.198,
+    "pl_hostname": "Kepler-42",
+    "stellar_type": "M",
+    "tic_id": "TIC 63126862",
+    "magnitude": 16.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260847",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247206"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247205"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247204"
+      }
+    ]
+  }
+}

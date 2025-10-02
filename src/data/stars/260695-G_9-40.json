@@ -1,1 +1,71 @@
-{"id":260695,"date":"2023-11-28T20:28:56","date_gmt":"2023-11-29T01:28:56","modified":"2025-04-23T05:54:15","modified_gmt":"2025-04-23T09:54:15","slug":"g_9-40","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/g_9-40/","featured_media":0,"categories":[],"acf":{"display_name":"G 9-40","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243576],"exo_id":"G_9-40","st_optmag":13.821,"st_vj":13.821,"st_dist":27.9276,"st_j":13.821,"st_mass":0.2952,"dec":21.0747961,"st_teff":3395,"st_rad":0.3026,"ra":134.7188514,"system_radius":6253190.966,"pl_hostname":"G_9-40","stellar_type":"M","tic_id":"TIC 203214081","magnitude":13.821},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260695","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243576"}]}}
+{
+  "id": 260695,
+  "date": "2023-11-28T20:28:56",
+  "date_gmt": "2023-11-29T01:28:56",
+  "modified": "2025-04-23T05:54:15",
+  "modified_gmt": "2025-04-23T09:54:15",
+  "slug": "g_9-40",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/g_9-40/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "G 9-40",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243576
+    ],
+    "exo_id": "G_9-40",
+    "st_optmag": 13.821,
+    "st_vj": 13.821,
+    "st_dist": 27.9276,
+    "st_j": 13.821,
+    "st_mass": 0.2952,
+    "dec": 21.0747961,
+    "st_teff": 3395,
+    "st_rad": 0.3026,
+    "ra": 134.7188514,
+    "system_radius": 6253190.966,
+    "pl_hostname": "G_9-40",
+    "stellar_type": "M",
+    "tic_id": "TIC 203214081",
+    "magnitude": 13.821
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260695",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243576"
+      }
+    ]
+  }
+}

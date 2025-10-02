@@ -1,1 +1,79 @@
-{"id":243547,"date":"2019-04-22T16:49:28","date_gmt":"2019-04-22T20:49:28","modified":"2025-09-17T23:33:39","modified_gmt":"2025-09-18T03:33:39","slug":"epic-211945201-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/epic-211945201-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"EPIC_211945201","pl_letter":"b","display_name":"EPIC 211945201 b","planet_radius":"0.51387278 x Jupiter","derived_description":"EPIC 211945201 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 11 Earths, it takes 19.5 days to complete one orbit of its star, and is 0.1493 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":181.69,"planet_mass":"11 Earths","st_optmag":10.154,"discovery_date":"2018","pl_orbsmax":0.1493,"period_display":"19.5 days","eccentricity":"0.0","star_id":263571,"pl_orbper":19.49221,"pl_kepflag":true,"pl_radj":0.51387278,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":5.76,"exo_id":"EPIC_211945201_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243547","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263571"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243547,
+  "date": "2019-04-22T16:49:28",
+  "date_gmt": "2019-04-22T20:49:28",
+  "modified": "2025-09-17T23:33:39",
+  "modified_gmt": "2025-09-18T03:33:39",
+  "slug": "epic-211945201-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/epic-211945201-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "EPIC_211945201",
+    "pl_letter": "b",
+    "display_name": "EPIC 211945201 b",
+    "planet_radius": "0.51387278 x Jupiter",
+    "derived_description": "EPIC 211945201 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 11 Earths, it takes 19.5 days to complete one orbit of its star, and is 0.1493 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 181.69,
+    "planet_mass": "11 Earths",
+    "st_optmag": 10.154,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.1493,
+    "period_display": "19.5 days",
+    "eccentricity": "0.0",
+    "star_id": 263571,
+    "pl_orbper": 19.49221,
+    "pl_kepflag": true,
+    "pl_radj": 0.51387278,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 5.76,
+    "exo_id": "EPIC_211945201_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243547",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263571"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

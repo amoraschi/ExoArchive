@@ -1,1 +1,71 @@
-{"id":263820,"date":"2023-11-28T21:08:38","date_gmt":"2023-11-29T02:08:38","modified":"2025-04-23T05:57:06","modified_gmt":"2025-04-23T09:57:06","slug":"hd_187085","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_187085/","featured_media":0,"categories":[],"acf":{"display_name":"HD 187085","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244185],"exo_id":"HD_187085","st_optmag":7.22,"st_vj":7.22,"st_dist":45.8993,"st_j":7.22,"st_mass":1.189,"dec":-37.7809929,"st_teff":6117,"st_rad":1.27,"ra":297.3915731,"system_radius":314155527,"pl_hostname":"HD_187085","stellar_type":"F","tic_id":"TIC 300081980","magnitude":7.22},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263820","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244185"}]}}
+{
+  "id": 263820,
+  "date": "2023-11-28T21:08:38",
+  "date_gmt": "2023-11-29T02:08:38",
+  "modified": "2025-04-23T05:57:06",
+  "modified_gmt": "2025-04-23T09:57:06",
+  "slug": "hd_187085",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_187085/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 187085",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244185
+    ],
+    "exo_id": "HD_187085",
+    "st_optmag": 7.22,
+    "st_vj": 7.22,
+    "st_dist": 45.8993,
+    "st_j": 7.22,
+    "st_mass": 1.189,
+    "dec": -37.7809929,
+    "st_teff": 6117,
+    "st_rad": 1.27,
+    "ra": 297.3915731,
+    "system_radius": 314155527,
+    "pl_hostname": "HD_187085",
+    "stellar_type": "F",
+    "tic_id": "TIC 300081980",
+    "magnitude": 7.22
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263820",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244185"
+      }
+    ]
+  }
+}

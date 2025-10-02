@@ -1,1 +1,79 @@
-{"id":248901,"date":"2017-02-03T12:25:46","date_gmt":"2017-02-03T17:25:46","modified":"2025-07-07T20:32:19","modified_gmt":"2025-07-08T00:32:19","slug":"wasp-81-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-81-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-81","pl_letter":"b","display_name":"WASP-81 b","planet_radius":"1.429 x Jupiter","derived_description":"WASP-81 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.729 Jupiters, it takes 2.7 days to complete one orbit of its star, and is 0.03908 AU from its star. Its discovery was announced in 2017.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Multiple Facilities","st_dist":398.505,"planet_mass":"0.729 Jupiters","st_optmag":12.469,"discovery_date":"2017","pl_orbsmax":0.03908,"period_display":"2.7 days","eccentricity":"< 0.066","star_id":261692,"pl_orbper":2.7164762,"pl_kepflag":false,"pl_radj":1.429,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":16.017661,"exo_id":"WASP-81_b","planet_size_class":"Jovian","pl_eccenlim":0.066,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248901","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261692"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248901,
+  "date": "2017-02-03T12:25:46",
+  "date_gmt": "2017-02-03T17:25:46",
+  "modified": "2025-07-07T20:32:19",
+  "modified_gmt": "2025-07-08T00:32:19",
+  "slug": "wasp-81-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-81-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-81",
+    "pl_letter": "b",
+    "display_name": "WASP-81 b",
+    "planet_radius": "1.429 x Jupiter",
+    "derived_description": "WASP-81 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.729 Jupiters, it takes 2.7 days to complete one orbit of its star, and is 0.03908 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Multiple Facilities",
+    "st_dist": 398.505,
+    "planet_mass": "0.729 Jupiters",
+    "st_optmag": 12.469,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.03908,
+    "period_display": "2.7 days",
+    "eccentricity": "< 0.066",
+    "star_id": 261692,
+    "pl_orbper": 2.7164762,
+    "pl_kepflag": false,
+    "pl_radj": 1.429,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 16.017661,
+    "exo_id": "WASP-81_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.066,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248901",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261692"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

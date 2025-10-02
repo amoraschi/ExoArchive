@@ -1,1 +1,79 @@
-{"id":246493,"date":"2016-03-16T19:26:16","date_gmt":"2016-03-16T23:26:16","modified":"2025-07-07T17:56:22","modified_gmt":"2025-07-07T21:56:22","slug":"kepler-191-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-191-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-191","pl_letter":"b","display_name":"Kepler-191 b","planet_radius":"1.34 x Earth","derived_description":"Kepler-191 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.36 Earths, it takes 9.9 days to complete one orbit of its star, and is 0.087 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":594.464,"planet_mass":"2.36 Earths","st_optmag":14.987,"discovery_date":"2014","pl_orbsmax":0.087,"period_display":"9.9 days","eccentricity":"0.0","star_id":260976,"pl_orbper":9.939632,"pl_kepflag":true,"pl_radj":0.12,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.34,"exo_id":"Kepler-191_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246493","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260976"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246493,
+  "date": "2016-03-16T19:26:16",
+  "date_gmt": "2016-03-16T23:26:16",
+  "modified": "2025-07-07T17:56:22",
+  "modified_gmt": "2025-07-07T21:56:22",
+  "slug": "kepler-191-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-191-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-191",
+    "pl_letter": "b",
+    "display_name": "Kepler-191 b",
+    "planet_radius": "1.34 x Earth",
+    "derived_description": "Kepler-191 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.36 Earths, it takes 9.9 days to complete one orbit of its star, and is 0.087 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 594.464,
+    "planet_mass": "2.36 Earths",
+    "st_optmag": 14.987,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.087,
+    "period_display": "9.9 days",
+    "eccentricity": "0.0",
+    "star_id": 260976,
+    "pl_orbper": 9.939632,
+    "pl_kepflag": true,
+    "pl_radj": 0.12,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.34,
+    "exo_id": "Kepler-191_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246493",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

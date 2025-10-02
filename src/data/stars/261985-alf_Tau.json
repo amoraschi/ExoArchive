@@ -1,1 +1,71 @@
-{"id":261985,"date":"2023-11-28T20:45:14","date_gmt":"2023-11-29T01:45:14","modified":"2025-04-23T05:55:15","modified_gmt":"2025-04-23T09:55:15","slug":"alf_tau","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/alf_tau/","featured_media":0,"categories":[],"acf":{"display_name":"Alpha Tauri","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243433],"exo_id":"alf_Tau","st_optmag":0.872,"st_vj":0.872,"st_dist":20.4332,"st_j":0.872,"st_mass":1.13,"dec":16.509201,"st_teff":4055,"st_rad":45.1,"ra":68.980174,"system_radius":218412890.2,"pl_hostname":"alf_Tau","stellar_type":"K","tic_id":"TIC 245873777","magnitude":0.872},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261985","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243433"}]}}
+{
+  "id": 261985,
+  "date": "2023-11-28T20:45:14",
+  "date_gmt": "2023-11-29T01:45:14",
+  "modified": "2025-04-23T05:55:15",
+  "modified_gmt": "2025-04-23T09:55:15",
+  "slug": "alf_tau",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/alf_tau/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Alpha Tauri",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243433
+    ],
+    "exo_id": "alf_Tau",
+    "st_optmag": 0.872,
+    "st_vj": 0.872,
+    "st_dist": 20.4332,
+    "st_j": 0.872,
+    "st_mass": 1.13,
+    "dec": 16.509201,
+    "st_teff": 4055,
+    "st_rad": 45.1,
+    "ra": 68.980174,
+    "system_radius": 218412890.2,
+    "pl_hostname": "alf_Tau",
+    "stellar_type": "K",
+    "tic_id": "TIC 245873777",
+    "magnitude": 0.872
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261985",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243433"
+      }
+    ]
+  }
+}

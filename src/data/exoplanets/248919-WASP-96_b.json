@@ -1,1 +1,79 @@
-{"id":248919,"date":"2017-10-02T13:32:46","date_gmt":"2017-10-02T17:32:46","modified":"2024-10-24T15:06:36","modified_gmt":"2024-10-24T19:06:36","slug":"wasp-96-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-96-b/","featured_media":317436,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-96","pl_letter":"b","display_name":"WASP-96 b","planet_radius":"1.2 x Jupiter","derived_description":"WASP-96 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.48 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.0453 AU from its star. Its discovery was announced in 2014.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP","st_dist":352.464,"planet_mass":"0.48 Jupiters","st_optmag":12.569,"discovery_date":"2014","pl_orbsmax":0.0453,"period_display":"3.4 days","eccentricity":"0.0","star_id":261084,"pl_orbper":3.4252602,"pl_kepflag":false,"pl_radj":1.2,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":13.45,"exo_id":"WASP-96_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248919","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261084"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/317436"}]}}
+{
+  "id": 248919,
+  "date": "2017-10-02T13:32:46",
+  "date_gmt": "2017-10-02T17:32:46",
+  "modified": "2024-10-24T15:06:36",
+  "modified_gmt": "2024-10-24T19:06:36",
+  "slug": "wasp-96-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-96-b/",
+  "featured_media": 317436,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-96",
+    "pl_letter": "b",
+    "display_name": "WASP-96 b",
+    "planet_radius": "1.2 x Jupiter",
+    "derived_description": "WASP-96 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.48 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.0453 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP",
+    "st_dist": 352.464,
+    "planet_mass": "0.48 Jupiters",
+    "st_optmag": 12.569,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.0453,
+    "period_display": "3.4 days",
+    "eccentricity": "0.0",
+    "star_id": 261084,
+    "pl_orbper": 3.4252602,
+    "pl_kepflag": false,
+    "pl_radj": 1.2,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.45,
+    "exo_id": "WASP-96_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248919",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261084"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/317436"
+      }
+    ]
+  }
+}

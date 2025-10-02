@@ -1,1 +1,76 @@
-{"id":261158,"date":"2023-11-28T20:34:47","date_gmt":"2023-11-29T01:34:47","modified":"2025-06-06T07:19:30","modified_gmt":"2025-06-06T11:19:30","slug":"k2-43","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-43/","featured_media":0,"categories":[],"acf":{"display_name":"K2-43","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245133,"1":245132},"exo_id":"K2-43","st_optmag":15.748,"st_vj":15.748,"st_dist":182.536,"st_j":15.748,"st_mass":0.571,"dec":-3.9754405,"st_teff":3840.6,"st_rad":0.542,"ra":169.117028,"system_radius":5660783.4008,"pl_hostname":"K2-43","stellar_type":"M","tic_id":"TIC 443616612","magnitude":15.748},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261158","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245133"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245132"}]}}
+{
+  "id": 261158,
+  "date": "2023-11-28T20:34:47",
+  "date_gmt": "2023-11-29T01:34:47",
+  "modified": "2025-06-06T07:19:30",
+  "modified_gmt": "2025-06-06T11:19:30",
+  "slug": "k2-43",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-43/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-43",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245133,
+      "1": 245132
+    },
+    "exo_id": "K2-43",
+    "st_optmag": 15.748,
+    "st_vj": 15.748,
+    "st_dist": 182.536,
+    "st_j": 15.748,
+    "st_mass": 0.571,
+    "dec": -3.9754405,
+    "st_teff": 3840.6,
+    "st_rad": 0.542,
+    "ra": 169.117028,
+    "system_radius": 5660783.4008,
+    "pl_hostname": "K2-43",
+    "stellar_type": "M",
+    "tic_id": "TIC 443616612",
+    "magnitude": 15.748
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261158",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245133"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245132"
+      }
+    ]
+  }
+}

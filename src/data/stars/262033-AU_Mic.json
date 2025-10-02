@@ -1,1 +1,81 @@
-{"id":262033,"date":"2023-11-28T20:45:51","date_gmt":"2023-11-29T01:45:51","modified":"2025-04-23T05:54:15","modified_gmt":"2025-04-23T09:54:15","slug":"au_mic","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/au_mic/","featured_media":0,"categories":[],"acf":{"display_name":"AU Microscopii","custom_star_title":"","aliases":"","constellation":"Microscopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":313892,"1":243435,"2":243434},"exo_id":"AU_Mic","st_optmag":8.81,"st_vj":8.81,"st_dist":9.7221,"st_j":8.81,"st_mass":0.51,"dec":-31.34245,"st_teff":3678,"st_rad":0.744,"ra":311.2911369,"system_radius":16575443.996,"pl_hostname":"AU_Mic","stellar_type":"M","tic_id":"TIC 441420236","magnitude":8.81},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262033","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313892"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243435"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243434"}]}}
+{
+  "id": 262033,
+  "date": "2023-11-28T20:45:51",
+  "date_gmt": "2023-11-29T01:45:51",
+  "modified": "2025-04-23T05:54:15",
+  "modified_gmt": "2025-04-23T09:54:15",
+  "slug": "au_mic",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/au_mic/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "AU Microscopii",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Microscopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 313892,
+      "1": 243435,
+      "2": 243434
+    },
+    "exo_id": "AU_Mic",
+    "st_optmag": 8.81,
+    "st_vj": 8.81,
+    "st_dist": 9.7221,
+    "st_j": 8.81,
+    "st_mass": 0.51,
+    "dec": -31.34245,
+    "st_teff": 3678,
+    "st_rad": 0.744,
+    "ra": 311.2911369,
+    "system_radius": 16575443.996,
+    "pl_hostname": "AU_Mic",
+    "stellar_type": "M",
+    "tic_id": "TIC 441420236",
+    "magnitude": 8.81
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262033",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313892"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243435"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243434"
+      }
+    ]
+  }
+}

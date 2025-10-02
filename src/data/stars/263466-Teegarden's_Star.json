@@ -1,1 +1,81 @@
-{"id":263466,"date":"2023-11-28T21:04:01","date_gmt":"2023-11-29T02:04:01","modified":"2025-04-23T05:53:14","modified_gmt":"2025-04-23T09:53:14","slug":"teegardens_star","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/teegardens_star/","featured_media":0,"categories":[],"acf":{"display_name":"Teegarden's Star","custom_star_title":"","aliases":"","constellation":"Aries","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":387756,"1":248392,"2":248393},"exo_id":"Teegarden's_Star","st_optmag":15.13,"st_vj":15.13,"st_dist":3.83078,"st_j":15.13,"st_mass":0.097,"dec":16.8649024,"st_teff":3034,"st_rad":0.12,"ra":43.2691449,"system_radius":11833191.517,"pl_hostname":"Teegarden's_Star","stellar_type":"M","tic_id":"TIC 257870150","magnitude":15.13},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263466","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/387756"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248393"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248392"}]}}
+{
+  "id": 263466,
+  "date": "2023-11-28T21:04:01",
+  "date_gmt": "2023-11-29T02:04:01",
+  "modified": "2025-04-23T05:53:14",
+  "modified_gmt": "2025-04-23T09:53:14",
+  "slug": "teegardens_star",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/teegardens_star/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Teegarden's Star",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aries",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 387756,
+      "1": 248392,
+      "2": 248393
+    },
+    "exo_id": "Teegarden's_Star",
+    "st_optmag": 15.13,
+    "st_vj": 15.13,
+    "st_dist": 3.83078,
+    "st_j": 15.13,
+    "st_mass": 0.097,
+    "dec": 16.8649024,
+    "st_teff": 3034,
+    "st_rad": 0.12,
+    "ra": 43.2691449,
+    "system_radius": 11833191.517,
+    "pl_hostname": "Teegarden's_Star",
+    "stellar_type": "M",
+    "tic_id": "TIC 257870150",
+    "magnitude": 15.13
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263466",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/387756"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248393"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248392"
+      }
+    ]
+  }
+}

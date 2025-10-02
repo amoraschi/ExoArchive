@@ -1,1 +1,79 @@
-{"id":244389,"date":"2019-04-22T16:49:26","date_gmt":"2019-04-22T20:49:26","modified":"2025-07-07T20:37:51","modified_gmt":"2025-07-08T00:37:51","slug":"hd-3167-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-3167-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_3167","pl_letter":"c","display_name":"HD 3167 c","planet_radius":"0.26764253 x Jupiter","derived_description":"HD 3167 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 11.13 Earths, it takes 29.8 days to complete one orbit of its star, and is 0.1776 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":47.2899,"planet_mass":"11.13 Earths","st_optmag":8.97,"discovery_date":"2016","pl_orbsmax":0.1776,"period_display":"29.8 days","eccentricity":"< 0.06","star_id":260809,"pl_orbper":29.8454,"pl_kepflag":true,"pl_radj":0.26764253,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":178,"multiple_planet_system":false,"pl_rade":3,"exo_id":"HD_3167_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0.06,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244389","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260809"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244389,
+  "date": "2019-04-22T16:49:26",
+  "date_gmt": "2019-04-22T20:49:26",
+  "modified": "2025-07-07T20:37:51",
+  "modified_gmt": "2025-07-08T00:37:51",
+  "slug": "hd-3167-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-3167-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_3167",
+    "pl_letter": "c",
+    "display_name": "HD 3167 c",
+    "planet_radius": "0.26764253 x Jupiter",
+    "derived_description": "HD 3167 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 11.13 Earths, it takes 29.8 days to complete one orbit of its star, and is 0.1776 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 47.2899,
+    "planet_mass": "11.13 Earths",
+    "st_optmag": 8.97,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1776,
+    "period_display": "29.8 days",
+    "eccentricity": "< 0.06",
+    "star_id": 260809,
+    "pl_orbper": 29.8454,
+    "pl_kepflag": true,
+    "pl_radj": 0.26764253,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": 178,
+    "multiple_planet_system": false,
+    "pl_rade": 3,
+    "exo_id": "HD_3167_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0.06,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244389",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260809"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

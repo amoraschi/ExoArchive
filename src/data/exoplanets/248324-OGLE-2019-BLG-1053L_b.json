@@ -1,1 +1,79 @@
-{"id":248324,"date":"2023-02-24T15:33:35","date_gmt":"2023-02-24T20:33:35","modified":"2024-10-25T03:15:26","modified_gmt":"2024-10-25T07:15:26","slug":"ogle-2019-blg-1053l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2019-blg-1053l-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2019-BLG-1053L","pl_letter":"b","display_name":"OGLE-2019-BLG-1053L b","planet_radius":"1.38 x Earth (estimate)","derived_description":"OGLE-2019-BLG-1053L b is a super Earth exoplanet that orbits a Unknown-type star. Its mass is 2.48 Earths, it takes 8 years to complete one orbit of its star, and is 3.4 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":6800,"planet_mass":"2.48 Earths","st_optmag":"","discovery_date":"2021","pl_orbsmax":3.4,"period_display":"8 years","eccentricity":"","star_id":264476,"pl_orbper":"","pl_kepflag":false,"pl_radj":0.123,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.38,"exo_id":"OGLE-2019-BLG-1053L_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248324","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264476"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248324,
+  "date": "2023-02-24T15:33:35",
+  "date_gmt": "2023-02-24T20:33:35",
+  "modified": "2024-10-25T03:15:26",
+  "modified_gmt": "2024-10-25T07:15:26",
+  "slug": "ogle-2019-blg-1053l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2019-blg-1053l-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2019-BLG-1053L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2019-BLG-1053L b",
+    "planet_radius": "1.38 x Earth (estimate)",
+    "derived_description": "OGLE-2019-BLG-1053L b is a super Earth exoplanet that orbits a Unknown-type star. Its mass is 2.48 Earths, it takes 8 years to complete one orbit of its star, and is 3.4 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 6800,
+    "planet_mass": "2.48 Earths",
+    "st_optmag": "",
+    "discovery_date": "2021",
+    "pl_orbsmax": 3.4,
+    "period_display": "8 years",
+    "eccentricity": "",
+    "star_id": 264476,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.123,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.38,
+    "exo_id": "OGLE-2019-BLG-1053L_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248324",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264476"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

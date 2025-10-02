@@ -1,1 +1,71 @@
-{"id":262924,"date":"2023-11-28T20:57:12","date_gmt":"2023-11-29T01:57:12","modified":"2025-04-23T05:54:48","modified_gmt":"2025-04-23T09:54:48","slug":"ngts-3_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngts-3_a/","featured_media":0,"categories":[],"acf":{"display_name":"NGTS-3 A","custom_star_title":"","aliases":"","constellation":"Columba","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248217],"exo_id":"NGTS-3_A","st_optmag":14.669,"st_vj":14.669,"st_dist":743.972,"st_j":14.669,"st_mass":1.017,"dec":-35.706364,"st_teff":5600,"st_rad":0.93,"ra":94.4447595,"system_radius":3440751.01,"pl_hostname":"NGTS-3_A","stellar_type":"G","tic_id":"TIC 124778445","magnitude":14.669},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262924","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248217"}]}}
+{
+  "id": 262924,
+  "date": "2023-11-28T20:57:12",
+  "date_gmt": "2023-11-29T01:57:12",
+  "modified": "2025-04-23T05:54:48",
+  "modified_gmt": "2025-04-23T09:54:48",
+  "slug": "ngts-3_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-3_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-3 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Columba",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248217
+    ],
+    "exo_id": "NGTS-3_A",
+    "st_optmag": 14.669,
+    "st_vj": 14.669,
+    "st_dist": 743.972,
+    "st_j": 14.669,
+    "st_mass": 1.017,
+    "dec": -35.706364,
+    "st_teff": 5600,
+    "st_rad": 0.93,
+    "ra": 94.4447595,
+    "system_radius": 3440751.01,
+    "pl_hostname": "NGTS-3_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 124778445",
+    "magnitude": 14.669
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262924",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248217"
+      }
+    ]
+  }
+}

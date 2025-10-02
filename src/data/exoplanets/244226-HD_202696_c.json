@@ -1,1 +1,79 @@
-{"id":244226,"date":"2019-04-22T16:49:31","date_gmt":"2019-04-22T20:49:31","modified":"2025-07-07T20:33:18","modified_gmt":"2025-07-08T00:33:18","slug":"hd-202696-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-202696-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_202696","pl_letter":"c","display_name":"HD 202696 c","planet_radius":"Unknown","derived_description":"HD 202696 c is a gas giant exoplanet that orbits a K-type star. Its mass is 1.864 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 2.342 AU from its star. Its discovery was announced in 2019.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"W. M. Keck Observatory","st_dist":188.546,"planet_mass":"1.864 Jupiters","st_optmag":8.23,"discovery_date":"2019","pl_orbsmax":2.342,"period_display":"2.6 years","eccentricity":"0.03","star_id":263960,"pl_orbper":946.6,"pl_kepflag":false,"pl_radj":"","pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":136.8,"multiple_planet_system":false,"pl_rade":"","exo_id":"HD_202696_c","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.028},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244226","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263960"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244226,
+  "date": "2019-04-22T16:49:31",
+  "date_gmt": "2019-04-22T20:49:31",
+  "modified": "2025-07-07T20:33:18",
+  "modified_gmt": "2025-07-08T00:33:18",
+  "slug": "hd-202696-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-202696-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_202696",
+    "pl_letter": "c",
+    "display_name": "HD 202696 c",
+    "planet_radius": "Unknown",
+    "derived_description": "HD 202696 c is a gas giant exoplanet that orbits a K-type star. Its mass is 1.864 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 2.342 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "W. M. Keck Observatory",
+    "st_dist": 188.546,
+    "planet_mass": "1.864 Jupiters",
+    "st_optmag": 8.23,
+    "discovery_date": "2019",
+    "pl_orbsmax": 2.342,
+    "period_display": "2.6 years",
+    "eccentricity": "0.03",
+    "star_id": 263960,
+    "pl_orbper": 946.6,
+    "pl_kepflag": false,
+    "pl_radj": "",
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 136.8,
+    "multiple_planet_system": false,
+    "pl_rade": "",
+    "exo_id": "HD_202696_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.028
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244226",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263960"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

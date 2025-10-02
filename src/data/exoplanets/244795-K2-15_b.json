@@ -1,1 +1,79 @@
-{"id":244795,"date":"2017-10-02T13:32:40","date_gmt":"2017-10-02T17:32:40","modified":"2025-03-28T07:27:07","modified_gmt":"2025-03-28T11:27:07","slug":"k2-15-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-15-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-15","pl_letter":"b","display_name":"K2-15 b","planet_radius":"0.22125078 x Jupiter","derived_description":"K2-15 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.71 Earths, it takes 11.8 days to complete one orbit of its star, and is 0.091 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":493.992,"planet_mass":"6.71 Earths","st_optmag":14.758,"discovery_date":"2015","pl_orbsmax":0.091,"period_display":"11.8 days","eccentricity":"","star_id":263714,"pl_orbper":11.8104,"pl_kepflag":true,"pl_radj":0.22125078,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.48,"exo_id":"K2-15_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244795","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263714"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244795,
+  "date": "2017-10-02T13:32:40",
+  "date_gmt": "2017-10-02T17:32:40",
+  "modified": "2025-03-28T07:27:07",
+  "modified_gmt": "2025-03-28T11:27:07",
+  "slug": "k2-15-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-15-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-15",
+    "pl_letter": "b",
+    "display_name": "K2-15 b",
+    "planet_radius": "0.22125078 x Jupiter",
+    "derived_description": "K2-15 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.71 Earths, it takes 11.8 days to complete one orbit of its star, and is 0.091 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 493.992,
+    "planet_mass": "6.71 Earths",
+    "st_optmag": 14.758,
+    "discovery_date": "2015",
+    "pl_orbsmax": 0.091,
+    "period_display": "11.8 days",
+    "eccentricity": "",
+    "star_id": 263714,
+    "pl_orbper": 11.8104,
+    "pl_kepflag": true,
+    "pl_radj": 0.22125078,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.48,
+    "exo_id": "K2-15_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244795",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263714"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

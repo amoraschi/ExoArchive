@@ -1,1 +1,81 @@
-{"id":260943,"date":"2023-11-28T20:32:04","date_gmt":"2023-11-29T01:32:04","modified":"2025-04-23T05:55:40","modified_gmt":"2025-04-23T09:55:40","slug":"kepler-446","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-446/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-446","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247238,"1":247237,"2":247236},"exo_id":"Kepler-446","st_optmag":17.5041,"st_vj":17.5041,"st_dist":96.339,"st_j":17.5041,"st_mass":0.22,"dec":44.921002,"st_teff":3359,"st_rad":0.24,"ra":282.2501047,"system_radius":6028794.161,"pl_hostname":"Kepler-446","stellar_type":"M","tic_id":"TIC 123417850","magnitude":17.5041},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260943","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247238"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247237"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247236"}]}}
+{
+  "id": 260943,
+  "date": "2023-11-28T20:32:04",
+  "date_gmt": "2023-11-29T01:32:04",
+  "modified": "2025-04-23T05:55:40",
+  "modified_gmt": "2025-04-23T09:55:40",
+  "slug": "kepler-446",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-446/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-446",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247238,
+      "1": 247237,
+      "2": 247236
+    },
+    "exo_id": "Kepler-446",
+    "st_optmag": 17.5041,
+    "st_vj": 17.5041,
+    "st_dist": 96.339,
+    "st_j": 17.5041,
+    "st_mass": 0.22,
+    "dec": 44.921002,
+    "st_teff": 3359,
+    "st_rad": 0.24,
+    "ra": 282.2501047,
+    "system_radius": 6028794.161,
+    "pl_hostname": "Kepler-446",
+    "stellar_type": "M",
+    "tic_id": "TIC 123417850",
+    "magnitude": 17.5041
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260943",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247238"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247237"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247236"
+      }
+    ]
+  }
+}

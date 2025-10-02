@@ -1,1 +1,77 @@
-{"id":907189,"date":"2025-08-28T21:48:44","date_gmt":"2025-08-29T01:48:44","modified":"2025-08-28T21:48:44","modified_gmt":"2025-08-29T01:48:44","slug":"kmt-2023-blg-1896l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-1896l/","featured_media":429648,"categories":[],"acf":{"display_name":"KMT-2023-BLG-1896L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[907208],"exo_id":"KMT-2023-BLG-1896L","st_optmag":"","st_vj":"","st_dist":5490,"st_j":"","st_mass":0.72,"dec":-26.9589194,"st_teff":"","st_rad":"","ra":271.03175,"system_radius":427849908.2,"pl_hostname":"KMT-2023-BLG-1896L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/907189","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/907208"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 907189,
+  "date": "2025-08-28T21:48:44",
+  "date_gmt": "2025-08-29T01:48:44",
+  "modified": "2025-08-28T21:48:44",
+  "modified_gmt": "2025-08-29T01:48:44",
+  "slug": "kmt-2023-blg-1896l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-1896l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2023-BLG-1896L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      907208
+    ],
+    "exo_id": "KMT-2023-BLG-1896L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5490,
+    "st_j": "",
+    "st_mass": 0.72,
+    "dec": -26.9589194,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.03175,
+    "system_radius": 427849908.2,
+    "pl_hostname": "KMT-2023-BLG-1896L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/907189",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/907208"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

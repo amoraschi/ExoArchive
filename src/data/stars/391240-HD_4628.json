@@ -1,1 +1,69 @@
-{"id":391240,"date":"2024-04-30T20:01:21","date_gmt":"2024-05-01T00:01:21","modified":"2025-04-23T05:57:31","modified_gmt":"2025-04-23T09:57:31","slug":"hd-4628","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-4628/","featured_media":429649,"categories":[],"acf":{"display_name":"HD 4628","custom_star_title":"","aliases":"HD4628,HR222,GJ33,HR 222,HR 222,GJ 33","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_4628","st_optmag":5.729,"st_vj":5.729,"st_dist":7.4352,"st_j":5.729,"st_mass":0.78,"dec":5.2806137,"st_teff":5007,"st_rad":0.728,"ra":12.0957332,"system_radius":149597870,"pl_hostname":"HD_4628","stellar_type":"K","tic_id":"TIC 257393898","magnitude":5.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391240","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391240,
+  "date": "2024-04-30T20:01:21",
+  "date_gmt": "2024-05-01T00:01:21",
+  "modified": "2025-04-23T05:57:31",
+  "modified_gmt": "2025-04-23T09:57:31",
+  "slug": "hd-4628",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-4628/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 4628",
+    "custom_star_title": "",
+    "aliases": "HD4628,HR222,GJ33,HR 222,HR 222,GJ 33",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_4628",
+    "st_optmag": 5.729,
+    "st_vj": 5.729,
+    "st_dist": 7.4352,
+    "st_j": 5.729,
+    "st_mass": 0.78,
+    "dec": 5.2806137,
+    "st_teff": 5007,
+    "st_rad": 0.728,
+    "ra": 12.0957332,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_4628",
+    "stellar_type": "K",
+    "tic_id": "TIC 257393898",
+    "magnitude": 5.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391240",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

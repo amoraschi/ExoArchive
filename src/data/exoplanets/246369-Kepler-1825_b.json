@@ -1,1 +1,79 @@
-{"id":246369,"date":"2021-12-13T17:05:37","date_gmt":"2021-12-13T22:05:37","modified":"2025-03-28T07:31:28","modified_gmt":"2025-03-28T11:31:28","slug":"kepler-1825-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1825-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1825","pl_letter":"b","display_name":"Kepler-1825 b","planet_radius":"1.42200732 x Earth","derived_description":"Kepler-1825 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.61 Earths, it takes 1 days to complete one orbit of its star, and is 0.0187 AU from its star. Its discovery was announced in 2021.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":430.254,"planet_mass":"2.61 Earths","st_optmag":14.605,"discovery_date":"2021","pl_orbsmax":0.0187,"period_display":"1 days","eccentricity":"0.0","star_id":261559,"pl_orbper":1.025869966,"pl_kepflag":true,"pl_radj":0.12686321,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.42200732,"exo_id":"Kepler-1825_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246369","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261559"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 246369,
+  "date": "2021-12-13T17:05:37",
+  "date_gmt": "2021-12-13T22:05:37",
+  "modified": "2025-03-28T07:31:28",
+  "modified_gmt": "2025-03-28T11:31:28",
+  "slug": "kepler-1825-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1825-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1825",
+    "pl_letter": "b",
+    "display_name": "Kepler-1825 b",
+    "planet_radius": "1.42200732 x Earth",
+    "derived_description": "Kepler-1825 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.61 Earths, it takes 1 days to complete one orbit of its star, and is 0.0187 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 430.254,
+    "planet_mass": "2.61 Earths",
+    "st_optmag": 14.605,
+    "discovery_date": "2021",
+    "pl_orbsmax": 0.0187,
+    "period_display": "1 days",
+    "eccentricity": "0.0",
+    "star_id": 261559,
+    "pl_orbper": 1.025869966,
+    "pl_kepflag": true,
+    "pl_radj": 0.12686321,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.42200732,
+    "exo_id": "Kepler-1825_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246369",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261559"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

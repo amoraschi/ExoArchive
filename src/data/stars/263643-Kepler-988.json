@@ -1,1 +1,71 @@
-{"id":263643,"date":"2023-11-28T21:06:17","date_gmt":"2023-11-29T02:06:17","modified":"2025-04-23T05:55:55","modified_gmt":"2025-04-23T09:55:55","slug":"kepler-988","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-988/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-988","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247989],"exo_id":"Kepler-988","st_optmag":15.578,"st_vj":15.578,"st_dist":304.889,"st_j":15.578,"st_mass":0.55,"dec":42.2372245,"st_teff":4005,"st_rad":0.53,"ra":290.7082585,"system_radius":16231368.895,"pl_hostname":"Kepler-988","stellar_type":"K","tic_id":"TIC 159446957","magnitude":15.578},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263643","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247989"}]}}
+{
+  "id": 263643,
+  "date": "2023-11-28T21:06:17",
+  "date_gmt": "2023-11-29T02:06:17",
+  "modified": "2025-04-23T05:55:55",
+  "modified_gmt": "2025-04-23T09:55:55",
+  "slug": "kepler-988",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-988/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-988",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247989
+    ],
+    "exo_id": "Kepler-988",
+    "st_optmag": 15.578,
+    "st_vj": 15.578,
+    "st_dist": 304.889,
+    "st_j": 15.578,
+    "st_mass": 0.55,
+    "dec": 42.2372245,
+    "st_teff": 4005,
+    "st_rad": 0.53,
+    "ra": 290.7082585,
+    "system_radius": 16231368.895,
+    "pl_hostname": "Kepler-988",
+    "stellar_type": "K",
+    "tic_id": "TIC 159446957",
+    "magnitude": 15.578
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263643",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247989"
+      }
+    ]
+  }
+}

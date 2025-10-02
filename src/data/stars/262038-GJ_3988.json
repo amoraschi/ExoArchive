@@ -1,1 +1,71 @@
-{"id":262038,"date":"2023-11-28T20:45:55","date_gmt":"2023-11-29T01:45:55","modified":"2025-04-23T05:55:18","modified_gmt":"2025-04-23T09:55:18","slug":"gj_3988","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_3988/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 3988","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[264527],"exo_id":"GJ_3988","st_optmag":13.627,"st_vj":13.627,"st_dist":9.9105,"st_j":13.627,"st_mass":0.1842,"dec":51.4089795,"st_teff":3273,"st_rad":0.19734,"ra":255.8503747,"system_radius":6058713.735,"pl_hostname":"GJ_3988","stellar_type":"M","tic_id":"TIC 274626553","magnitude":13.627},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262038","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/264527"}]}}
+{
+  "id": 262038,
+  "date": "2023-11-28T20:45:55",
+  "date_gmt": "2023-11-29T01:45:55",
+  "modified": "2025-04-23T05:55:18",
+  "modified_gmt": "2025-04-23T09:55:18",
+  "slug": "gj_3988",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_3988/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 3988",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      264527
+    ],
+    "exo_id": "GJ_3988",
+    "st_optmag": 13.627,
+    "st_vj": 13.627,
+    "st_dist": 9.9105,
+    "st_j": 13.627,
+    "st_mass": 0.1842,
+    "dec": 51.4089795,
+    "st_teff": 3273,
+    "st_rad": 0.19734,
+    "ra": 255.8503747,
+    "system_radius": 6058713.735,
+    "pl_hostname": "GJ_3988",
+    "stellar_type": "M",
+    "tic_id": "TIC 274626553",
+    "magnitude": 13.627
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262038",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/264527"
+      }
+    ]
+  }
+}

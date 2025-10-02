@@ -1,1 +1,76 @@
-{"id":260520,"date":"2023-11-28T20:26:50","date_gmt":"2023-11-29T01:26:50","modified":"2025-04-23T05:53:23","modified_gmt":"2025-04-23T09:53:23","slug":"hd_155918","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_155918/","featured_media":0,"categories":[],"acf":{"display_name":"HD 155918","custom_star_title":"","aliases":"","constellation":"Apus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244083,244084],"exo_id":"HD_155918","st_optmag":7,"st_vj":7,"st_dist":27.561,"st_j":7,"st_mass":1.03,"dec":-75.349239,"st_teff":5771.84,"st_rad":1.01906,"ra":260.5364025,"system_radius":1972148720.21,"pl_hostname":"HD_155918","stellar_type":"G","tic_id":"TIC 311649327","magnitude":7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260520","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244084"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244083"}]}}
+{
+  "id": 260520,
+  "date": "2023-11-28T20:26:50",
+  "date_gmt": "2023-11-29T01:26:50",
+  "modified": "2025-04-23T05:53:23",
+  "modified_gmt": "2025-04-23T09:53:23",
+  "slug": "hd_155918",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_155918/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 155918",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Apus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244083,
+      244084
+    ],
+    "exo_id": "HD_155918",
+    "st_optmag": 7,
+    "st_vj": 7,
+    "st_dist": 27.561,
+    "st_j": 7,
+    "st_mass": 1.03,
+    "dec": -75.349239,
+    "st_teff": 5771.84,
+    "st_rad": 1.01906,
+    "ra": 260.5364025,
+    "system_radius": 1972148720.21,
+    "pl_hostname": "HD_155918",
+    "stellar_type": "G",
+    "tic_id": "TIC 311649327",
+    "magnitude": 7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260520",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244084"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244083"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245309,"date":"2016-03-16T19:26:20","date_gmt":"2016-03-16T23:26:20","modified":"2025-07-07T20:39:24","modified_gmt":"2025-07-08T00:39:24","slug":"kepler-105-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-105-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-105","pl_letter":"b","display_name":"Kepler-105 b","planet_radius":"2.53 x Earth","derived_description":"Kepler-105 b is a super Earth exoplanet that orbits a G-type star. Its mass is 10.8 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.06016 AU from its star. Its discovery was announced in 2013.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":459.223,"planet_mass":"10.8 Earths","st_optmag":12.981,"discovery_date":"2013","pl_orbsmax":0.06016,"period_display":"5.4 days","eccentricity":"0.02","star_id":262587,"pl_orbper":5.4122034,"pl_kepflag":true,"pl_radj":0.22571187,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":225,"multiple_planet_system":false,"pl_rade":2.53,"exo_id":"Kepler-105_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.02},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245309","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262587"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245309,
+  "date": "2016-03-16T19:26:20",
+  "date_gmt": "2016-03-16T23:26:20",
+  "modified": "2025-07-07T20:39:24",
+  "modified_gmt": "2025-07-08T00:39:24",
+  "slug": "kepler-105-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-105-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-105",
+    "pl_letter": "b",
+    "display_name": "Kepler-105 b",
+    "planet_radius": "2.53 x Earth",
+    "derived_description": "Kepler-105 b is a super Earth exoplanet that orbits a G-type star. Its mass is 10.8 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.06016 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 459.223,
+    "planet_mass": "10.8 Earths",
+    "st_optmag": 12.981,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.06016,
+    "period_display": "5.4 days",
+    "eccentricity": "0.02",
+    "star_id": 262587,
+    "pl_orbper": 5.4122034,
+    "pl_kepflag": true,
+    "pl_radj": 0.22571187,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": 225,
+    "multiple_planet_system": false,
+    "pl_rade": 2.53,
+    "exo_id": "Kepler-105_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.02
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245309",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262587"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

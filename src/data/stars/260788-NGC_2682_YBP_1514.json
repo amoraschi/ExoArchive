@@ -1,1 +1,71 @@
-{"id":260788,"date":"2023-11-28T20:30:06","date_gmt":"2023-11-29T01:30:06","modified":"2025-04-23T05:53:44","modified_gmt":"2025-04-23T09:53:44","slug":"ngc_2682_ybp_1514","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngc_2682_ybp_1514/","featured_media":0,"categories":[],"acf":{"display_name":"NGC 2682 YBP 1514","custom_star_title":"","aliases":"","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248198],"exo_id":"NGC_2682_YBP_1514","st_optmag":14.684,"st_vj":14.684,"st_dist":914.221,"st_j":14.684,"st_mass":0.96,"dec":11.8865128,"st_teff":5725,"st_rad":0.89,"ra":132.7531307,"system_radius":149597870,"pl_hostname":"NGC_2682_YBP_1514","stellar_type":"G","tic_id":"TIC 437034879","magnitude":14.684},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260788","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248198"}]}}
+{
+  "id": 260788,
+  "date": "2023-11-28T20:30:06",
+  "date_gmt": "2023-11-29T01:30:06",
+  "modified": "2025-04-23T05:53:44",
+  "modified_gmt": "2025-04-23T09:53:44",
+  "slug": "ngc_2682_ybp_1514",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngc_2682_ybp_1514/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGC 2682 YBP 1514",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248198
+    ],
+    "exo_id": "NGC_2682_YBP_1514",
+    "st_optmag": 14.684,
+    "st_vj": 14.684,
+    "st_dist": 914.221,
+    "st_j": 14.684,
+    "st_mass": 0.96,
+    "dec": 11.8865128,
+    "st_teff": 5725,
+    "st_rad": 0.89,
+    "ra": 132.7531307,
+    "system_radius": 149597870,
+    "pl_hostname": "NGC_2682_YBP_1514",
+    "stellar_type": "G",
+    "tic_id": "TIC 437034879",
+    "magnitude": 14.684
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260788",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248198"
+      }
+    ]
+  }
+}

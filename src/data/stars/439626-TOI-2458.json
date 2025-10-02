@@ -1,1 +1,76 @@
-{"id":439626,"date":"2024-12-13T01:15:41","date_gmt":"2024-12-13T06:15:41","modified":"2025-04-23T05:55:10","modified_gmt":"2025-04-23T09:55:10","slug":"toi-2458","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2458/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2458","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":439676,"1":439668},"exo_id":"TOI-2458","st_optmag":9.202,"st_vj":9.202,"st_dist":112.958,"st_j":9.202,"st_mass":1.05,"dec":1.253439,"st_teff":6005,"st_rad":1.31,"ra":79.621529,"system_radius":19298125.23,"pl_hostname":"TOI-2458","stellar_type":"F","tic_id":"TIC 449197831","magnitude":9.202},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/439626","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439676"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439668"}]}}
+{
+  "id": 439626,
+  "date": "2024-12-13T01:15:41",
+  "date_gmt": "2024-12-13T06:15:41",
+  "modified": "2025-04-23T05:55:10",
+  "modified_gmt": "2025-04-23T09:55:10",
+  "slug": "toi-2458",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2458/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2458",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 439676,
+      "1": 439668
+    },
+    "exo_id": "TOI-2458",
+    "st_optmag": 9.202,
+    "st_vj": 9.202,
+    "st_dist": 112.958,
+    "st_j": 9.202,
+    "st_mass": 1.05,
+    "dec": 1.253439,
+    "st_teff": 6005,
+    "st_rad": 1.31,
+    "ra": 79.621529,
+    "system_radius": 19298125.23,
+    "pl_hostname": "TOI-2458",
+    "stellar_type": "F",
+    "tic_id": "TIC 449197831",
+    "magnitude": 9.202
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439626",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439676"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439668"
+      }
+    ]
+  }
+}

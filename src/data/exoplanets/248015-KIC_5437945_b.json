@@ -1,1 +1,79 @@
-{"id":248015,"date":"2019-04-22T16:48:49","date_gmt":"2019-04-22T20:48:49","modified":"2025-07-07T20:43:48","modified_gmt":"2025-07-08T00:43:48","slug":"kic-5437945-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kic-5437945-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"KIC_5437945","pl_letter":"b","display_name":"KIC 5437945 b","planet_radius":"0.57096976 x Jupiter","derived_description":"KIC 5437945 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 33.6 Earths, it takes 440.8 days to complete one orbit of its star, and is 1.19671 AU from its star. Its discovery was announced in 2015.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":1274.01,"planet_mass":"33.6 Earths","st_optmag":13.834,"discovery_date":"2015","pl_orbsmax":1.19671,"period_display":"440.8 days","eccentricity":"0.0","star_id":261080,"pl_orbper":440.7813,"pl_kepflag":true,"pl_radj":0.57096976,"pl_disc":2015,"pl_publ_date":"2015","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":6.4,"exo_id":"KIC_5437945_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248015","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261080"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 248015,
+  "date": "2019-04-22T16:48:49",
+  "date_gmt": "2019-04-22T20:48:49",
+  "modified": "2025-07-07T20:43:48",
+  "modified_gmt": "2025-07-08T00:43:48",
+  "slug": "kic-5437945-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kic-5437945-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KIC_5437945",
+    "pl_letter": "b",
+    "display_name": "KIC 5437945 b",
+    "planet_radius": "0.57096976 x Jupiter",
+    "derived_description": "KIC 5437945 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 33.6 Earths, it takes 440.8 days to complete one orbit of its star, and is 1.19671 AU from its star. Its discovery was announced in 2015.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 1274.01,
+    "planet_mass": "33.6 Earths",
+    "st_optmag": 13.834,
+    "discovery_date": "2015",
+    "pl_orbsmax": 1.19671,
+    "period_display": "440.8 days",
+    "eccentricity": "0.0",
+    "star_id": 261080,
+    "pl_orbper": 440.7813,
+    "pl_kepflag": true,
+    "pl_radj": 0.57096976,
+    "pl_disc": 2015,
+    "pl_publ_date": "2015",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 6.4,
+    "exo_id": "KIC_5437945_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248015",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261080"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

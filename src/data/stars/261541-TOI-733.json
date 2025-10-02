@@ -1,1 +1,71 @@
-{"id":261541,"date":"2023-11-28T20:39:38","date_gmt":"2023-11-29T01:39:38","modified":"2025-04-23T05:54:40","modified_gmt":"2025-04-23T09:54:40","slug":"toi-733","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-733/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-733","custom_star_title":"","aliases":"","constellation":"Vela","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248682],"exo_id":"TOI-733","st_optmag":9.44,"st_vj":9.44,"st_dist":75.2092,"st_j":9.44,"st_mass":0.956,"dec":-40.888259,"st_teff":5585,"st_rad":0.949,"ra":159.4093183,"system_radius":9245148.366,"pl_hostname":"TOI-733","stellar_type":"G","tic_id":"TIC 106402532","magnitude":9.44},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261541","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248682"}]}}
+{
+  "id": 261541,
+  "date": "2023-11-28T20:39:38",
+  "date_gmt": "2023-11-29T01:39:38",
+  "modified": "2025-04-23T05:54:40",
+  "modified_gmt": "2025-04-23T09:54:40",
+  "slug": "toi-733",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-733/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-733",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vela",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248682
+    ],
+    "exo_id": "TOI-733",
+    "st_optmag": 9.44,
+    "st_vj": 9.44,
+    "st_dist": 75.2092,
+    "st_j": 9.44,
+    "st_mass": 0.956,
+    "dec": -40.888259,
+    "st_teff": 5585,
+    "st_rad": 0.949,
+    "ra": 159.4093183,
+    "system_radius": 9245148.366,
+    "pl_hostname": "TOI-733",
+    "stellar_type": "G",
+    "tic_id": "TIC 106402532",
+    "magnitude": 9.44
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261541",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248682"
+      }
+    ]
+  }
+}

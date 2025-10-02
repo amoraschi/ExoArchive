@@ -1,1 +1,79 @@
-{"id":248788,"date":"2020-05-22T13:27:04","date_gmt":"2020-05-22T17:27:04","modified":"2025-03-28T07:24:00","modified_gmt":"2025-03-28T11:24:00","slug":"wasp-150-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/wasp-150-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"WASP-150","pl_letter":"b","display_name":"WASP-150 b","planet_radius":"1.07 x Jupiter","derived_description":"WASP-150 b is a gas giant exoplanet that orbits a F-type star. Its mass is 8.46 Jupiters, it takes 5.6 days to complete one orbit of its star, and is 0.0694 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"SuperWASP-North","st_dist":527.995,"planet_mass":"8.46 Jupiters","st_optmag":12.026,"discovery_date":"2020","pl_orbsmax":0.0694,"period_display":"5.6 days","eccentricity":"0.38","star_id":260895,"pl_orbper":5.644207,"pl_kepflag":false,"pl_radj":1.07,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":11.99363,"exo_id":"WASP-150_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.3775},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248788","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260895"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248788,
+  "date": "2020-05-22T13:27:04",
+  "date_gmt": "2020-05-22T17:27:04",
+  "modified": "2025-03-28T07:24:00",
+  "modified_gmt": "2025-03-28T11:24:00",
+  "slug": "wasp-150-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/wasp-150-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "WASP-150",
+    "pl_letter": "b",
+    "display_name": "WASP-150 b",
+    "planet_radius": "1.07 x Jupiter",
+    "derived_description": "WASP-150 b is a gas giant exoplanet that orbits a F-type star. Its mass is 8.46 Jupiters, it takes 5.6 days to complete one orbit of its star, and is 0.0694 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "SuperWASP-North",
+    "st_dist": 527.995,
+    "planet_mass": "8.46 Jupiters",
+    "st_optmag": 12.026,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.0694,
+    "period_display": "5.6 days",
+    "eccentricity": "0.38",
+    "star_id": 260895,
+    "pl_orbper": 5.644207,
+    "pl_kepflag": false,
+    "pl_radj": 1.07,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 11.99363,
+    "exo_id": "WASP-150_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.3775
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248788",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260895"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

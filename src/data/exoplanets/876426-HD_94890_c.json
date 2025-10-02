@@ -1,1 +1,79 @@
-{"id":876426,"date":"2025-07-07T20:39:15","date_gmt":"2025-07-08T00:39:15","modified":"2025-07-07T20:39:15","modified_gmt":"2025-07-08T00:39:15","slug":"hd-94890-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-94890-c/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_94890","pl_letter":"c","display_name":"HD 94890 c","planet_radius":"1.12 x Jupiter (estimate)","derived_description":"HD 94890 c is a gas giant exoplanet that orbits a K-type star. Its mass is 8.91 Jupiters, it takes 6.8 years to complete one orbit of its star, and is 4.33 AU from its star. Its discovery was announced in 2025.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":61.7012,"planet_mass":"8.91 Jupiters","st_optmag":4.6,"discovery_date":"2025","pl_orbsmax":4.33,"period_display":"6.8 years","eccentricity":"0.05","star_id":860120,"pl_orbper":2492.19,"pl_kepflag":false,"pl_radj":1.12,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":232.65,"multiple_planet_system":false,"pl_rade":12.5,"exo_id":"HD_94890_c","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.05},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876426","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/860120"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 876426,
+  "date": "2025-07-07T20:39:15",
+  "date_gmt": "2025-07-08T00:39:15",
+  "modified": "2025-07-07T20:39:15",
+  "modified_gmt": "2025-07-08T00:39:15",
+  "slug": "hd-94890-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-94890-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_94890",
+    "pl_letter": "c",
+    "display_name": "HD 94890 c",
+    "planet_radius": "1.12 x Jupiter (estimate)",
+    "derived_description": "HD 94890 c is a gas giant exoplanet that orbits a K-type star. Its mass is 8.91 Jupiters, it takes 6.8 years to complete one orbit of its star, and is 4.33 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 61.7012,
+    "planet_mass": "8.91 Jupiters",
+    "st_optmag": 4.6,
+    "discovery_date": "2025",
+    "pl_orbsmax": 4.33,
+    "period_display": "6.8 years",
+    "eccentricity": "0.05",
+    "star_id": 860120,
+    "pl_orbper": 2492.19,
+    "pl_kepflag": false,
+    "pl_radj": 1.12,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 232.65,
+    "multiple_planet_system": false,
+    "pl_rade": 12.5,
+    "exo_id": "HD_94890_c",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876426",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/860120"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

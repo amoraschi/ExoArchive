@@ -1,1 +1,76 @@
-{"id":261134,"date":"2023-11-28T20:34:29","date_gmt":"2023-11-29T01:34:29","modified":"2025-04-23T05:54:10","modified_gmt":"2025-04-23T09:54:10","slug":"hd_11964","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_11964/","featured_media":0,"categories":[],"acf":{"display_name":"HD 11964","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243964,243965],"exo_id":"HD_11964","st_optmag":6.41525,"st_vj":6.41525,"st_dist":33.5369,"st_j":6.41525,"st_mass":0.91,"dec":-10.2434693,"st_teff":5303,"st_rad":2.00971,"ra":29.2884252,"system_radius":472729269.2,"pl_hostname":"HD_11964","stellar_type":"K","tic_id":"TIC 24978373","magnitude":6.41525},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261134","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243965"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243964"}]}}
+{
+  "id": 261134,
+  "date": "2023-11-28T20:34:29",
+  "date_gmt": "2023-11-29T01:34:29",
+  "modified": "2025-04-23T05:54:10",
+  "modified_gmt": "2025-04-23T09:54:10",
+  "slug": "hd_11964",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_11964/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 11964",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243964,
+      243965
+    ],
+    "exo_id": "HD_11964",
+    "st_optmag": 6.41525,
+    "st_vj": 6.41525,
+    "st_dist": 33.5369,
+    "st_j": 6.41525,
+    "st_mass": 0.91,
+    "dec": -10.2434693,
+    "st_teff": 5303,
+    "st_rad": 2.00971,
+    "ra": 29.2884252,
+    "system_radius": 472729269.2,
+    "pl_hostname": "HD_11964",
+    "stellar_type": "K",
+    "tic_id": "TIC 24978373",
+    "magnitude": 6.41525
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261134",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243965"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243964"
+      }
+    ]
+  }
+}

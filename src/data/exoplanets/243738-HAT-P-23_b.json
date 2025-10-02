@@ -1,1 +1,79 @@
-{"id":243738,"date":"2016-03-16T19:26:21","date_gmt":"2016-03-16T23:26:21","modified":"2024-10-24T17:15:29","modified_gmt":"2024-10-24T21:15:29","slug":"hat-p-23-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hat-p-23-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HAT-P-23","pl_letter":"b","display_name":"HAT-P-23 b","planet_radius":"1.368 x Jupiter","derived_description":"HAT-P-23 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.09 Jupiters, it takes 1.2 days to complete one orbit of its star, and is 0.0232 AU from its star. Its discovery was announced in 2010.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATNet","st_dist":364.813,"planet_mass":"2.09 Jupiters","st_optmag":11.937,"discovery_date":"2010","pl_orbsmax":0.0232,"period_display":"1.2 days","eccentricity":"0.11","star_id":260415,"pl_orbper":1.212884,"pl_kepflag":false,"pl_radj":1.368,"pl_disc":2010,"pl_publ_date":"2010","planet_orbit_period":118,"multiple_planet_system":false,"pl_rade":15.334,"exo_id":"HAT-P-23_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0.106},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243738","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260415"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243738,
+  "date": "2016-03-16T19:26:21",
+  "date_gmt": "2016-03-16T23:26:21",
+  "modified": "2024-10-24T17:15:29",
+  "modified_gmt": "2024-10-24T21:15:29",
+  "slug": "hat-p-23-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hat-p-23-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HAT-P-23",
+    "pl_letter": "b",
+    "display_name": "HAT-P-23 b",
+    "planet_radius": "1.368 x Jupiter",
+    "derived_description": "HAT-P-23 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.09 Jupiters, it takes 1.2 days to complete one orbit of its star, and is 0.0232 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATNet",
+    "st_dist": 364.813,
+    "planet_mass": "2.09 Jupiters",
+    "st_optmag": 11.937,
+    "discovery_date": "2010",
+    "pl_orbsmax": 0.0232,
+    "period_display": "1.2 days",
+    "eccentricity": "0.11",
+    "star_id": 260415,
+    "pl_orbper": 1.212884,
+    "pl_kepflag": false,
+    "pl_radj": 1.368,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": 118,
+    "multiple_planet_system": false,
+    "pl_rade": 15.334,
+    "exo_id": "HAT-P-23_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.106
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243738",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260415"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

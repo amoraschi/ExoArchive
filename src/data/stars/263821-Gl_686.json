@@ -1,1 +1,71 @@
-{"id":263821,"date":"2023-11-28T21:08:39","date_gmt":"2023-11-29T02:08:39","modified":"2025-04-23T05:55:08","modified_gmt":"2025-04-23T09:55:08","slug":"gl_686","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gl_686/","featured_media":0,"categories":[],"acf":{"display_name":"Gl 686","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243717],"exo_id":"Gl_686","st_optmag":9.62,"st_vj":9.62,"st_dist":8.15728,"st_j":9.62,"st_mass":0.426,"dec":18.5959509,"st_teff":3656,"st_rad":0.427,"ra":264.4764878,"system_radius":13613406.17,"pl_hostname":"Gl_686","stellar_type":"M","tic_id":"TIC 230241767","magnitude":9.62},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263821","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243717"}]}}
+{
+  "id": 263821,
+  "date": "2023-11-28T21:08:39",
+  "date_gmt": "2023-11-29T02:08:39",
+  "modified": "2025-04-23T05:55:08",
+  "modified_gmt": "2025-04-23T09:55:08",
+  "slug": "gl_686",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gl_686/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Gl 686",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243717
+    ],
+    "exo_id": "Gl_686",
+    "st_optmag": 9.62,
+    "st_vj": 9.62,
+    "st_dist": 8.15728,
+    "st_j": 9.62,
+    "st_mass": 0.426,
+    "dec": 18.5959509,
+    "st_teff": 3656,
+    "st_rad": 0.427,
+    "ra": 264.4764878,
+    "system_radius": 13613406.17,
+    "pl_hostname": "Gl_686",
+    "stellar_type": "M",
+    "tic_id": "TIC 230241767",
+    "magnitude": 9.62
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263821",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243717"
+      }
+    ]
+  }
+}

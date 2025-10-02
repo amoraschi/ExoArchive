@@ -1,1 +1,71 @@
-{"id":264483,"date":"2023-11-28T21:17:06","date_gmt":"2023-11-29T02:17:06","modified":"2025-04-23T05:54:54","modified_gmt":"2025-04-23T09:54:54","slug":"toi-2497","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2497/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2497","custom_star_title":"","aliases":"","constellation":"Orion","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248558],"exo_id":"TOI-2497","st_optmag":9.547,"st_vj":9.547,"st_dist":285.289,"st_j":9.547,"st_mass":1.859,"dec":11.8840577,"st_teff":7360,"st_rad":2.36,"ra":90.0625878,"system_radius":17443111.642,"pl_hostname":"TOI-2497","stellar_type":"A","tic_id":"TIC 97568467","magnitude":9.547},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264483","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248558"}]}}
+{
+  "id": 264483,
+  "date": "2023-11-28T21:17:06",
+  "date_gmt": "2023-11-29T02:17:06",
+  "modified": "2025-04-23T05:54:54",
+  "modified_gmt": "2025-04-23T09:54:54",
+  "slug": "toi-2497",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2497/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2497",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248558
+    ],
+    "exo_id": "TOI-2497",
+    "st_optmag": 9.547,
+    "st_vj": 9.547,
+    "st_dist": 285.289,
+    "st_j": 9.547,
+    "st_mass": 1.859,
+    "dec": 11.8840577,
+    "st_teff": 7360,
+    "st_rad": 2.36,
+    "ra": 90.0625878,
+    "system_radius": 17443111.642,
+    "pl_hostname": "TOI-2497",
+    "stellar_type": "A",
+    "tic_id": "TIC 97568467",
+    "magnitude": 9.547
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264483",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248558"
+      }
+    ]
+  }
+}

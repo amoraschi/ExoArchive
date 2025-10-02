@@ -1,1 +1,71 @@
-{"id":263766,"date":"2023-11-28T21:07:56","date_gmt":"2023-11-29T02:07:56","modified":"2025-04-23T05:57:04","modified_gmt":"2025-04-23T09:57:04","slug":"hd_11112","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_11112/","featured_media":0,"categories":[],"acf":{"display_name":"HD 11112","custom_star_title":"","aliases":"","constellation":"Phoenix","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243932],"exo_id":"HD_11112","st_optmag":7.13,"st_vj":7.13,"st_dist":44.3804,"st_j":7.13,"st_mass":1.07,"dec":-41.4944106,"st_teff":5905.64,"st_rad":1.47368,"ra":27.0881399,"system_radius":2001619500.6,"pl_hostname":"HD_11112","stellar_type":"G","tic_id":"TIC 115319029","magnitude":7.13},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263766","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243932"}]}}
+{
+  "id": 263766,
+  "date": "2023-11-28T21:07:56",
+  "date_gmt": "2023-11-29T02:07:56",
+  "modified": "2025-04-23T05:57:04",
+  "modified_gmt": "2025-04-23T09:57:04",
+  "slug": "hd_11112",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_11112/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 11112",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243932
+    ],
+    "exo_id": "HD_11112",
+    "st_optmag": 7.13,
+    "st_vj": 7.13,
+    "st_dist": 44.3804,
+    "st_j": 7.13,
+    "st_mass": 1.07,
+    "dec": -41.4944106,
+    "st_teff": 5905.64,
+    "st_rad": 1.47368,
+    "ra": 27.0881399,
+    "system_radius": 2001619500.6,
+    "pl_hostname": "HD_11112",
+    "stellar_type": "G",
+    "tic_id": "TIC 115319029",
+    "magnitude": 7.13
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263766",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243932"
+      }
+    ]
+  }
+}

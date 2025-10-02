@@ -1,1 +1,79 @@
-{"id":264522,"date":"2023-11-09T16:01:40","date_gmt":"2023-11-09T21:01:40","modified":"2025-07-07T17:21:42","modified_gmt":"2025-07-07T21:21:42","slug":"toi-1420-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1420-b/","featured_media":267560,"categories":[2013,2014],"acf":{"pl_hostname":"TOI-1420","pl_letter":"b","display_name":"TOI-1420 b","planet_radius":"1.06075658 x Jupiter","derived_description":"TOI-1420 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 25.1 Earths, it takes 7 days to complete one orbit of its star, and is 0.071 AU from its star. Its discovery was announced in 2023.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":201.918,"planet_mass":"25.1 Earths","st_optmag":11.655,"discovery_date":"2023","pl_orbsmax":0.071,"period_display":"7 days","eccentricity":"< 0.17","star_id":261997,"pl_orbper":6.9561063,"pl_kepflag":false,"pl_radj":1.06075658,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":-165,"multiple_planet_system":false,"pl_rade":11.89,"exo_id":"TOI-1420_b","planet_size_class":"Neptunian","pl_eccenlim":0.17,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/264522","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261997"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 264522,
+  "date": "2023-11-09T16:01:40",
+  "date_gmt": "2023-11-09T21:01:40",
+  "modified": "2025-07-07T17:21:42",
+  "modified_gmt": "2025-07-07T21:21:42",
+  "slug": "toi-1420-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1420-b/",
+  "featured_media": 267560,
+  "categories": [
+    2013,
+    2014
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1420",
+    "pl_letter": "b",
+    "display_name": "TOI-1420 b",
+    "planet_radius": "1.06075658 x Jupiter",
+    "derived_description": "TOI-1420 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 25.1 Earths, it takes 7 days to complete one orbit of its star, and is 0.071 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 201.918,
+    "planet_mass": "25.1 Earths",
+    "st_optmag": 11.655,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.071,
+    "period_display": "7 days",
+    "eccentricity": "< 0.17",
+    "star_id": 261997,
+    "pl_orbper": 6.9561063,
+    "pl_kepflag": false,
+    "pl_radj": 1.06075658,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": -165,
+    "multiple_planet_system": false,
+    "pl_rade": 11.89,
+    "exo_id": "TOI-1420_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0.17,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/264522",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261997"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

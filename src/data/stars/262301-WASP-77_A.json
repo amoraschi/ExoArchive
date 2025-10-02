@@ -1,1 +1,71 @@
-{"id":262301,"date":"2023-11-28T20:49:15","date_gmt":"2023-11-29T01:49:15","modified":"2025-05-23T06:53:50","modified_gmt":"2025-05-23T10:53:50","slug":"wasp-77_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-77_a/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-77 A","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248896],"exo_id":"WASP-77_A","st_optmag":10.294,"st_vj":10.294,"st_dist":105.166,"st_j":10.294,"st_mass":0.903,"dec":-7.0606675,"st_teff":5617,"st_rad":0.91,"ra":37.1555223,"system_radius":3475702.0091617,"pl_hostname":"WASP-77_A","stellar_type":"G","tic_id":"TIC 1129033","magnitude":10.294},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262301","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248896"}]}}
+{
+  "id": 262301,
+  "date": "2023-11-28T20:49:15",
+  "date_gmt": "2023-11-29T01:49:15",
+  "modified": "2025-05-23T06:53:50",
+  "modified_gmt": "2025-05-23T10:53:50",
+  "slug": "wasp-77_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-77_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-77 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248896
+    ],
+    "exo_id": "WASP-77_A",
+    "st_optmag": 10.294,
+    "st_vj": 10.294,
+    "st_dist": 105.166,
+    "st_j": 10.294,
+    "st_mass": 0.903,
+    "dec": -7.0606675,
+    "st_teff": 5617,
+    "st_rad": 0.91,
+    "ra": 37.1555223,
+    "system_radius": 3475702.0091617,
+    "pl_hostname": "WASP-77_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 1129033",
+    "magnitude": 10.294
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262301",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248896"
+      }
+    ]
+  }
+}

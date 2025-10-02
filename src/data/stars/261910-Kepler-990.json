@@ -1,1 +1,76 @@
-{"id":261910,"date":"2023-11-28T20:44:17","date_gmt":"2023-11-29T01:44:17","modified":"2025-04-23T05:55:41","modified_gmt":"2025-04-23T09:55:41","slug":"kepler-990","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-990/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-990","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247992,247993],"exo_id":"Kepler-990","st_optmag":14.716,"st_vj":14.716,"st_dist":802.163,"st_j":14.716,"st_mass":1.05,"dec":46.8813194,"st_teff":5948,"st_rad":1.08,"ra":297.9381813,"system_radius":12857936.9265,"pl_hostname":"Kepler-990","stellar_type":"G","tic_id":"TIC 273591945","magnitude":14.716},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261910","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247993"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247992"}]}}
+{
+  "id": 261910,
+  "date": "2023-11-28T20:44:17",
+  "date_gmt": "2023-11-29T01:44:17",
+  "modified": "2025-04-23T05:55:41",
+  "modified_gmt": "2025-04-23T09:55:41",
+  "slug": "kepler-990",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-990/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-990",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247992,
+      247993
+    ],
+    "exo_id": "Kepler-990",
+    "st_optmag": 14.716,
+    "st_vj": 14.716,
+    "st_dist": 802.163,
+    "st_j": 14.716,
+    "st_mass": 1.05,
+    "dec": 46.8813194,
+    "st_teff": 5948,
+    "st_rad": 1.08,
+    "ra": 297.9381813,
+    "system_radius": 12857936.9265,
+    "pl_hostname": "Kepler-990",
+    "stellar_type": "G",
+    "tic_id": "TIC 273591945",
+    "magnitude": 14.716
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261910",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247993"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247992"
+      }
+    ]
+  }
+}

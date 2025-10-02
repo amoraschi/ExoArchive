@@ -1,1 +1,69 @@
-{"id":391206,"date":"2024-04-30T20:01:19","date_gmt":"2024-05-01T00:01:19","modified":"2025-04-23T05:57:29","modified_gmt":"2025-04-23T09:57:29","slug":"lambda-arae","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/lambda-arae/","featured_media":429647,"categories":[],"acf":{"display_name":"Lambda Arae","custom_star_title":"","aliases":"HD 160032,HR 6569,GJ 9597","constellation":"Ara","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Lambda_Arae","st_optmag":4.762,"st_vj":4.762,"st_dist":20.9624,"st_j":4.762,"st_mass":1.39,"dec":-49.4155831,"st_teff":6620,"st_rad":1.621,"ra":265.0992732,"system_radius":149597870,"pl_hostname":"Lambda_Arae","stellar_type":"F","tic_id":"TIC 96745915","magnitude":4.8},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391206","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391206,
+  "date": "2024-04-30T20:01:19",
+  "date_gmt": "2024-05-01T00:01:19",
+  "modified": "2025-04-23T05:57:29",
+  "modified_gmt": "2025-04-23T09:57:29",
+  "slug": "lambda-arae",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/lambda-arae/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Lambda Arae",
+    "custom_star_title": "",
+    "aliases": "HD 160032,HR 6569,GJ 9597",
+    "constellation": "Ara",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Lambda_Arae",
+    "st_optmag": 4.762,
+    "st_vj": 4.762,
+    "st_dist": 20.9624,
+    "st_j": 4.762,
+    "st_mass": 1.39,
+    "dec": -49.4155831,
+    "st_teff": 6620,
+    "st_rad": 1.621,
+    "ra": 265.0992732,
+    "system_radius": 149597870,
+    "pl_hostname": "Lambda_Arae",
+    "stellar_type": "F",
+    "tic_id": "TIC 96745915",
+    "magnitude": 4.8
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391206",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

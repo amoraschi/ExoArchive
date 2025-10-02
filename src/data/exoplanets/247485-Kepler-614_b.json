@@ -1,1 +1,79 @@
-{"id":247485,"date":"2017-10-02T13:32:35","date_gmt":"2017-10-02T17:32:35","modified":"2025-03-28T07:32:59","modified_gmt":"2025-03-28T11:32:59","slug":"kepler-614-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-614-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-614","pl_letter":"b","display_name":"Kepler-614 b","planet_radius":"0.21322152 x Jupiter","derived_description":"Kepler-614 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.3 Earths, it takes 14 days to complete one orbit of its star, and is 0.1027 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":527.995,"planet_mass":"6.3 Earths","st_optmag":14.81,"discovery_date":"2016","pl_orbsmax":0.1027,"period_display":"14 days","eccentricity":"0.0","star_id":262887,"pl_orbper":14.03491514,"pl_kepflag":true,"pl_radj":0.21322152,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.39,"exo_id":"Kepler-614_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247485","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262887"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247485,
+  "date": "2017-10-02T13:32:35",
+  "date_gmt": "2017-10-02T17:32:35",
+  "modified": "2025-03-28T07:32:59",
+  "modified_gmt": "2025-03-28T11:32:59",
+  "slug": "kepler-614-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-614-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-614",
+    "pl_letter": "b",
+    "display_name": "Kepler-614 b",
+    "planet_radius": "0.21322152 x Jupiter",
+    "derived_description": "Kepler-614 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.3 Earths, it takes 14 days to complete one orbit of its star, and is 0.1027 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 527.995,
+    "planet_mass": "6.3 Earths",
+    "st_optmag": 14.81,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.1027,
+    "period_display": "14 days",
+    "eccentricity": "0.0",
+    "star_id": 262887,
+    "pl_orbper": 14.03491514,
+    "pl_kepflag": true,
+    "pl_radj": 0.21322152,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.39,
+    "exo_id": "Kepler-614_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247485",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262887"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

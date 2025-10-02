@@ -1,1 +1,79 @@
-{"id":244853,"date":"2018-02-16T12:26:09","date_gmt":"2018-02-16T17:26:09","modified":"2025-07-07T15:23:52","modified_gmt":"2025-07-07T19:23:52","slug":"k2-198-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-198-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-198","pl_letter":"b","display_name":"K2-198 b","planet_radius":"0.37371755 x Jupiter","derived_description":"K2-198 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 16.3 Earths, it takes 17 days to complete one orbit of its star, and is 0.12026673674808 AU from its star. Its discovery was announced in 2018.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":110.567,"planet_mass":"16.3 Earths","st_optmag":10.971,"discovery_date":"2018","pl_orbsmax":"","period_display":"17 days","eccentricity":"","star_id":261252,"pl_orbper":17.0428683,"pl_kepflag":true,"pl_radj":0.37371755,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":4.189,"exo_id":"K2-198_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244853","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261252"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244853,
+  "date": "2018-02-16T12:26:09",
+  "date_gmt": "2018-02-16T17:26:09",
+  "modified": "2025-07-07T15:23:52",
+  "modified_gmt": "2025-07-07T19:23:52",
+  "slug": "k2-198-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-198-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-198",
+    "pl_letter": "b",
+    "display_name": "K2-198 b",
+    "planet_radius": "0.37371755 x Jupiter",
+    "derived_description": "K2-198 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 16.3 Earths, it takes 17 days to complete one orbit of its star, and is 0.12026673674808 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 110.567,
+    "planet_mass": "16.3 Earths",
+    "st_optmag": 10.971,
+    "discovery_date": "2018",
+    "pl_orbsmax": "",
+    "period_display": "17 days",
+    "eccentricity": "",
+    "star_id": 261252,
+    "pl_orbper": 17.0428683,
+    "pl_kepflag": true,
+    "pl_radj": 0.37371755,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.189,
+    "exo_id": "K2-198_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244853",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261252"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

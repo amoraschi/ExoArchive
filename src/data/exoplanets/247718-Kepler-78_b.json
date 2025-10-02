@@ -1,1 +1,79 @@
-{"id":247718,"date":"2016-03-16T19:26:21","date_gmt":"2016-03-16T23:26:21","modified":"2025-07-07T20:42:12","modified_gmt":"2025-07-08T00:42:12","slug":"kepler-78-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-78-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-78","pl_letter":"b","display_name":"Kepler-78 b","planet_radius":"1.201 x Earth","derived_description":"Kepler-78 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.68 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.00901 AU from its star. Its discovery was announced in 2013.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":124.376,"planet_mass":"1.68 Earths","st_optmag":11.717,"discovery_date":"2013","pl_orbsmax":0.00901,"period_display":"0.4 days","eccentricity":"0.0","star_id":262487,"pl_orbper":0.35500745,"pl_kepflag":true,"pl_radj":0.10714623,"pl_disc":2013,"pl_publ_date":"2013","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":1.201,"exo_id":"Kepler-78_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247718","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262487"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247718,
+  "date": "2016-03-16T19:26:21",
+  "date_gmt": "2016-03-16T23:26:21",
+  "modified": "2025-07-07T20:42:12",
+  "modified_gmt": "2025-07-08T00:42:12",
+  "slug": "kepler-78-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-78-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-78",
+    "pl_letter": "b",
+    "display_name": "Kepler-78 b",
+    "planet_radius": "1.201 x Earth",
+    "derived_description": "Kepler-78 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.68 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.00901 AU from its star. Its discovery was announced in 2013.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 124.376,
+    "planet_mass": "1.68 Earths",
+    "st_optmag": 11.717,
+    "discovery_date": "2013",
+    "pl_orbsmax": 0.00901,
+    "period_display": "0.4 days",
+    "eccentricity": "0.0",
+    "star_id": 262487,
+    "pl_orbper": 0.35500745,
+    "pl_kepflag": true,
+    "pl_radj": 0.10714623,
+    "pl_disc": 2013,
+    "pl_publ_date": "2013",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 1.201,
+    "exo_id": "Kepler-78_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247718",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262487"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

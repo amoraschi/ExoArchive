@@ -1,1 +1,86 @@
-{"id":262697,"date":"2023-11-28T20:54:17","date_gmt":"2023-11-29T01:54:17","modified":"2025-04-23T05:53:34","modified_gmt":"2025-04-23T09:53:34","slug":"toi-700","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-700/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-700","custom_star_title":"","aliases":"","constellation":"Dorado","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":248677,"1":248674,"2":248675,"3":248676},"exo_id":"TOI-700","st_optmag":13.151,"st_vj":13.151,"st_dist":31.1265,"st_j":13.151,"st_mass":0.415,"dec":-65.5786149,"st_teff":3459,"st_rad":0.421,"ra":97.0957165,"system_radius":24429332.171,"pl_hostname":"TOI-700","stellar_type":"M","tic_id":"TIC 150428135","magnitude":13.151},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262697","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248677"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248676"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248675"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248674"}]}}
+{
+  "id": 262697,
+  "date": "2023-11-28T20:54:17",
+  "date_gmt": "2023-11-29T01:54:17",
+  "modified": "2025-04-23T05:53:34",
+  "modified_gmt": "2025-04-23T09:53:34",
+  "slug": "toi-700",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-700/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-700",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Dorado",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 248677,
+      "1": 248674,
+      "2": 248675,
+      "3": 248676
+    },
+    "exo_id": "TOI-700",
+    "st_optmag": 13.151,
+    "st_vj": 13.151,
+    "st_dist": 31.1265,
+    "st_j": 13.151,
+    "st_mass": 0.415,
+    "dec": -65.5786149,
+    "st_teff": 3459,
+    "st_rad": 0.421,
+    "ra": 97.0957165,
+    "system_radius": 24429332.171,
+    "pl_hostname": "TOI-700",
+    "stellar_type": "M",
+    "tic_id": "TIC 150428135",
+    "magnitude": 13.151
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262697",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248677"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248676"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248675"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248674"
+      }
+    ]
+  }
+}

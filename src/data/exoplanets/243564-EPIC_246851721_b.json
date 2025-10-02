@@ -1,1 +1,79 @@
-{"id":243564,"date":"2019-04-22T16:49:27","date_gmt":"2019-04-22T20:49:27","modified":"2025-03-28T07:21:42","modified_gmt":"2025-03-28T11:21:42","slug":"epic-246851721-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/epic-246851721-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"EPIC_246851721","pl_letter":"b","display_name":"EPIC 246851721 b","planet_radius":"1.051 x Jupiter","derived_description":"EPIC 246851721 b is a gas giant exoplanet that orbits a F-type star. Its mass is 3 Jupiters, it takes 6.2 days to complete one orbit of its star, and is 0.07229 AU from its star. Its discovery was announced in 2018.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"K2","st_dist":372.632,"planet_mass":"3 Jupiters","st_optmag":11.237,"discovery_date":"2018","pl_orbsmax":0.07229,"period_display":"6.2 days","eccentricity":"","star_id":263512,"pl_orbper":6.180235,"pl_kepflag":true,"pl_radj":1.051,"pl_disc":2018,"pl_publ_date":"2018","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":11.780659,"exo_id":"EPIC_246851721_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243564","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263512"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243564,
+  "date": "2019-04-22T16:49:27",
+  "date_gmt": "2019-04-22T20:49:27",
+  "modified": "2025-03-28T07:21:42",
+  "modified_gmt": "2025-03-28T11:21:42",
+  "slug": "epic-246851721-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/epic-246851721-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "EPIC_246851721",
+    "pl_letter": "b",
+    "display_name": "EPIC 246851721 b",
+    "planet_radius": "1.051 x Jupiter",
+    "derived_description": "EPIC 246851721 b is a gas giant exoplanet that orbits a F-type star. Its mass is 3 Jupiters, it takes 6.2 days to complete one orbit of its star, and is 0.07229 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 372.632,
+    "planet_mass": "3 Jupiters",
+    "st_optmag": 11.237,
+    "discovery_date": "2018",
+    "pl_orbsmax": 0.07229,
+    "period_display": "6.2 days",
+    "eccentricity": "",
+    "star_id": 263512,
+    "pl_orbper": 6.180235,
+    "pl_kepflag": true,
+    "pl_radj": 1.051,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 11.780659,
+    "exo_id": "EPIC_246851721_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243564",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263512"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

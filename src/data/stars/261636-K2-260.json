@@ -1,1 +1,71 @@
-{"id":261636,"date":"2023-11-28T20:40:50","date_gmt":"2023-11-29T01:40:50","modified":"2025-06-06T07:19:55","modified_gmt":"2025-06-06T11:19:55","slug":"k2-260","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-260/","featured_media":0,"categories":[],"acf":{"display_name":"K2-260","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244939],"exo_id":"K2-260","st_optmag":12.624,"st_vj":12.624,"st_dist":663.834,"st_j":12.624,"st_mass":1.637,"dec":16.8676948,"st_teff":6860,"st_rad":1.755,"ra":76.8673317,"system_radius":6570338.4504,"pl_hostname":"K2-260","stellar_type":"F","tic_id":"TIC 293612446","magnitude":12.624},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261636","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244939"}]}}
+{
+  "id": 261636,
+  "date": "2023-11-28T20:40:50",
+  "date_gmt": "2023-11-29T01:40:50",
+  "modified": "2025-06-06T07:19:55",
+  "modified_gmt": "2025-06-06T11:19:55",
+  "slug": "k2-260",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-260/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-260",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244939
+    ],
+    "exo_id": "K2-260",
+    "st_optmag": 12.624,
+    "st_vj": 12.624,
+    "st_dist": 663.834,
+    "st_j": 12.624,
+    "st_mass": 1.637,
+    "dec": 16.8676948,
+    "st_teff": 6860,
+    "st_rad": 1.755,
+    "ra": 76.8673317,
+    "system_radius": 6570338.4504,
+    "pl_hostname": "K2-260",
+    "stellar_type": "F",
+    "tic_id": "TIC 293612446",
+    "magnitude": 12.624
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261636",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244939"
+      }
+    ]
+  }
+}

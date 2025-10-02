@@ -1,1 +1,71 @@
-{"id":263768,"date":"2023-11-28T21:07:57","date_gmt":"2023-11-29T02:07:57","modified":"2025-09-25T22:49:12","modified_gmt":"2025-09-26T02:49:12","slug":"hd_98649","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_98649/","featured_media":0,"categories":[],"acf":{"display_name":"HD 98649","custom_star_title":"","aliases":"","constellation":"Crater","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244621],"exo_id":"HD_98649","st_optmag":8,"st_vj":8,"st_dist":42.1727,"st_j":8,"st_mass":0.97,"dec":-23.2181063,"st_teff":5759,"st_rad":1.01,"ra":170.2147665,"system_radius":893099283.9,"pl_hostname":"HD_98649","stellar_type":"G","tic_id":"TIC 437258837","magnitude":8},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263768","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244621"}]}}
+{
+  "id": 263768,
+  "date": "2023-11-28T21:07:57",
+  "date_gmt": "2023-11-29T02:07:57",
+  "modified": "2025-09-25T22:49:12",
+  "modified_gmt": "2025-09-26T02:49:12",
+  "slug": "hd_98649",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_98649/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 98649",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Crater",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244621
+    ],
+    "exo_id": "HD_98649",
+    "st_optmag": 8,
+    "st_vj": 8,
+    "st_dist": 42.1727,
+    "st_j": 8,
+    "st_mass": 0.97,
+    "dec": -23.2181063,
+    "st_teff": 5759,
+    "st_rad": 1.01,
+    "ra": 170.2147665,
+    "system_radius": 893099283.9,
+    "pl_hostname": "HD_98649",
+    "stellar_type": "G",
+    "tic_id": "TIC 437258837",
+    "magnitude": 8
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263768",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244621"
+      }
+    ]
+  }
+}

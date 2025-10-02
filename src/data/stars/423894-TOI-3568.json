@@ -1,1 +1,71 @@
-{"id":423894,"date":"2024-09-19T23:51:25","date_gmt":"2024-09-20T03:51:25","modified":"2025-04-23T05:56:44","modified_gmt":"2025-04-23T09:56:44","slug":"toi-3568","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3568/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-3568","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[423910],"exo_id":"TOI-3568","st_optmag":12.879,"st_vj":12.879,"st_dist":197.906,"st_j":12.879,"st_mass":0.78,"dec":34.7395805,"st_teff":4969,"st_rad":0.719,"ra":322.6023682,"system_radius":7255496.695,"pl_hostname":"TOI-3568","stellar_type":"K","tic_id":"TIC 160390955","magnitude":12.879},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/423894","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/423910"}]}}
+{
+  "id": 423894,
+  "date": "2024-09-19T23:51:25",
+  "date_gmt": "2024-09-20T03:51:25",
+  "modified": "2025-04-23T05:56:44",
+  "modified_gmt": "2025-04-23T09:56:44",
+  "slug": "toi-3568",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3568/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3568",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      423910
+    ],
+    "exo_id": "TOI-3568",
+    "st_optmag": 12.879,
+    "st_vj": 12.879,
+    "st_dist": 197.906,
+    "st_j": 12.879,
+    "st_mass": 0.78,
+    "dec": 34.7395805,
+    "st_teff": 4969,
+    "st_rad": 0.719,
+    "ra": 322.6023682,
+    "system_radius": 7255496.695,
+    "pl_hostname": "TOI-3568",
+    "stellar_type": "K",
+    "tic_id": "TIC 160390955",
+    "magnitude": 12.879
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/423894",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/423910"
+      }
+    ]
+  }
+}

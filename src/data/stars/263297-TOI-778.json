@@ -1,1 +1,71 @@
-{"id":263297,"date":"2023-11-28T21:01:53","date_gmt":"2023-11-29T02:01:53","modified":"2025-04-23T05:56:43","modified_gmt":"2025-04-23T09:56:43","slug":"toi-778","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-778/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-778","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248687],"exo_id":"TOI-778","st_optmag":9.109,"st_vj":9.109,"st_dist":161.743,"st_j":9.109,"st_mass":1.4,"dec":-15.2737046,"st_teff":6643,"st_rad":1.71,"ra":199.3338503,"system_radius":8975872.2,"pl_hostname":"TOI-778","stellar_type":"F","tic_id":"TIC 335630746","magnitude":9.109},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263297","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248687"}]}}
+{
+  "id": 263297,
+  "date": "2023-11-28T21:01:53",
+  "date_gmt": "2023-11-29T02:01:53",
+  "modified": "2025-04-23T05:56:43",
+  "modified_gmt": "2025-04-23T09:56:43",
+  "slug": "toi-778",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-778/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-778",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248687
+    ],
+    "exo_id": "TOI-778",
+    "st_optmag": 9.109,
+    "st_vj": 9.109,
+    "st_dist": 161.743,
+    "st_j": 9.109,
+    "st_mass": 1.4,
+    "dec": -15.2737046,
+    "st_teff": 6643,
+    "st_rad": 1.71,
+    "ra": 199.3338503,
+    "system_radius": 8975872.2,
+    "pl_hostname": "TOI-778",
+    "stellar_type": "F",
+    "tic_id": "TIC 335630746",
+    "magnitude": 9.109
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263297",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248687"
+      }
+    ]
+  }
+}

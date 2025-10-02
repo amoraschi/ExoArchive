@@ -1,1 +1,79 @@
-{"id":243507,"date":"2017-10-02T13:32:42","date_gmt":"2017-10-02T17:32:42","modified":"2025-07-07T17:22:21","modified_gmt":"2025-07-07T21:22:21","slug":"corot-7-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/corot-7-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"CoRoT-7","pl_letter":"c","display_name":"CoRoT-7 c","planet_radius":"0.253 x Jupiter (estimate)","derived_description":"CoRoT-7 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.4 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2009.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"CoRoT","st_dist":159.906,"planet_mass":"8.4 Earths","st_optmag":11.728,"discovery_date":"2009","pl_orbsmax":0.046,"period_display":"3.7 days","eccentricity":"0.0","star_id":260487,"pl_orbper":3.698,"pl_kepflag":false,"pl_radj":0.253,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":180,"multiple_planet_system":false,"pl_rade":2.83,"exo_id":"CoRoT-7_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243507","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260487"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243507,
+  "date": "2017-10-02T13:32:42",
+  "date_gmt": "2017-10-02T17:32:42",
+  "modified": "2025-07-07T17:22:21",
+  "modified_gmt": "2025-07-07T21:22:21",
+  "slug": "corot-7-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/corot-7-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "CoRoT-7",
+    "pl_letter": "c",
+    "display_name": "CoRoT-7 c",
+    "planet_radius": "0.253 x Jupiter (estimate)",
+    "derived_description": "CoRoT-7 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.4 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.046 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "CoRoT",
+    "st_dist": 159.906,
+    "planet_mass": "8.4 Earths",
+    "st_optmag": 11.728,
+    "discovery_date": "2009",
+    "pl_orbsmax": 0.046,
+    "period_display": "3.7 days",
+    "eccentricity": "0.0",
+    "star_id": 260487,
+    "pl_orbper": 3.698,
+    "pl_kepflag": false,
+    "pl_radj": 0.253,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 180,
+    "multiple_planet_system": false,
+    "pl_rade": 2.83,
+    "exo_id": "CoRoT-7_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243507",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260487"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

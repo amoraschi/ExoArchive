@@ -1,1 +1,79 @@
-{"id":247888,"date":"2017-12-15T12:25:57","date_gmt":"2017-12-15T17:25:57","modified":"2025-07-07T20:32:50","modified_gmt":"2025-07-08T00:32:50","slug":"kepler-90-i","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-90-i/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-90","pl_letter":"i","display_name":"Kepler-90 i","planet_radius":"1.32 x Earth","derived_description":"Kepler-90 i is a super Earth exoplanet that orbits a G-type star. Its mass is 2.3 Earths, it takes 14.4 days to complete one orbit of its star, and is 0.1201380843 AU from its star. Its discovery was announced in 2017.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":848.254,"planet_mass":"2.3 Earths","st_optmag":13.883,"discovery_date":"2017","pl_orbsmax":0.1201380843,"period_display":"14.4 days","eccentricity":"0.0","star_id":261321,"pl_orbper":14.44912,"pl_kepflag":true,"pl_radj":0.11776251,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.32,"exo_id":"Kepler-90_i","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247888","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261321"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247888,
+  "date": "2017-12-15T12:25:57",
+  "date_gmt": "2017-12-15T17:25:57",
+  "modified": "2025-07-07T20:32:50",
+  "modified_gmt": "2025-07-08T00:32:50",
+  "slug": "kepler-90-i",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-90-i/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-90",
+    "pl_letter": "i",
+    "display_name": "Kepler-90 i",
+    "planet_radius": "1.32 x Earth",
+    "derived_description": "Kepler-90 i is a super Earth exoplanet that orbits a G-type star. Its mass is 2.3 Earths, it takes 14.4 days to complete one orbit of its star, and is 0.1201380843 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 848.254,
+    "planet_mass": "2.3 Earths",
+    "st_optmag": 13.883,
+    "discovery_date": "2017",
+    "pl_orbsmax": 0.1201380843,
+    "period_display": "14.4 days",
+    "eccentricity": "0.0",
+    "star_id": 261321,
+    "pl_orbper": 14.44912,
+    "pl_kepflag": true,
+    "pl_radj": 0.11776251,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.32,
+    "exo_id": "Kepler-90_i",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247888",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261321"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

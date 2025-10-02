@@ -1,1 +1,79 @@
-{"id":244333,"date":"2019-04-22T16:49:31","date_gmt":"2019-04-22T20:49:31","modified":"2025-07-07T20:36:56","modified_gmt":"2025-07-08T00:36:56","slug":"hd-23472-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-23472-c/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"HD_23472","pl_letter":"c","display_name":"HD 23472 c","planet_radius":"1.87 x Earth","derived_description":"HD 23472 c is a super Earth exoplanet that orbits a K-type star. Its mass is 3.41 Earths, it takes 29.8 days to complete one orbit of its star, and is 0.1646 AU from its star. Its discovery was announced in 2019.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":39.0341,"planet_mass":"3.41 Earths","st_optmag":9.73,"discovery_date":"2019","pl_orbsmax":0.1646,"period_display":"29.8 days","eccentricity":"0.06","star_id":261547,"pl_orbper":29.79749,"pl_kepflag":false,"pl_radj":0.16683051,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":2,"multiple_planet_system":false,"pl_rade":1.87,"exo_id":"HD_23472_c","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.063},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244333","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261547"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 244333,
+  "date": "2019-04-22T16:49:31",
+  "date_gmt": "2019-04-22T20:49:31",
+  "modified": "2025-07-07T20:36:56",
+  "modified_gmt": "2025-07-08T00:36:56",
+  "slug": "hd-23472-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-23472-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_23472",
+    "pl_letter": "c",
+    "display_name": "HD 23472 c",
+    "planet_radius": "1.87 x Earth",
+    "derived_description": "HD 23472 c is a super Earth exoplanet that orbits a K-type star. Its mass is 3.41 Earths, it takes 29.8 days to complete one orbit of its star, and is 0.1646 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 39.0341,
+    "planet_mass": "3.41 Earths",
+    "st_optmag": 9.73,
+    "discovery_date": "2019",
+    "pl_orbsmax": 0.1646,
+    "period_display": "29.8 days",
+    "eccentricity": "0.06",
+    "star_id": 261547,
+    "pl_orbper": 29.79749,
+    "pl_kepflag": false,
+    "pl_radj": 0.16683051,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": 2,
+    "multiple_planet_system": false,
+    "pl_rade": 1.87,
+    "exo_id": "HD_23472_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.063
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244333",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261547"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

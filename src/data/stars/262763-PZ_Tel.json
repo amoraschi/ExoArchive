@@ -1,1 +1,71 @@
-{"id":262763,"date":"2023-11-28T20:55:08","date_gmt":"2023-11-29T01:55:08","modified":"2025-04-23T05:56:29","modified_gmt":"2025-04-23T09:56:29","slug":"pz_tel","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/pz_tel/","featured_media":0,"categories":[],"acf":{"display_name":"PZ Telescopii","custom_star_title":"","aliases":"","constellation":"Telescopium","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248359],"exo_id":"PZ_Tel","st_optmag":8.43,"st_vj":8.43,"st_dist":47.0648,"st_j":8.43,"st_mass":1.36,"dec":-50.1808952,"st_teff":5169,"st_rad":1.25646,"ra":283.2745823,"system_radius":4039142490,"pl_hostname":"PZ_Tel","stellar_type":"K","tic_id":"TIC 406095880","magnitude":8.43},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262763","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248359"}]}}
+{
+  "id": 262763,
+  "date": "2023-11-28T20:55:08",
+  "date_gmt": "2023-11-29T01:55:08",
+  "modified": "2025-04-23T05:56:29",
+  "modified_gmt": "2025-04-23T09:56:29",
+  "slug": "pz_tel",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/pz_tel/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "PZ Telescopii",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Telescopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248359
+    ],
+    "exo_id": "PZ_Tel",
+    "st_optmag": 8.43,
+    "st_vj": 8.43,
+    "st_dist": 47.0648,
+    "st_j": 8.43,
+    "st_mass": 1.36,
+    "dec": -50.1808952,
+    "st_teff": 5169,
+    "st_rad": 1.25646,
+    "ra": 283.2745823,
+    "system_radius": 4039142490,
+    "pl_hostname": "PZ_Tel",
+    "stellar_type": "K",
+    "tic_id": "TIC 406095880",
+    "magnitude": 8.43
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262763",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248359"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":409959,"date":"2024-07-25T22:04:41","date_gmt":"2024-07-26T02:04:41","modified":"2025-04-23T05:54:02","modified_gmt":"2025-04-23T09:54:02","slug":"toi-260","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-260/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-260","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410062],"exo_id":"TOI-260","st_optmag":9.9,"st_vj":9.9,"st_dist":20.1852,"st_j":9.9,"st_mass":0.616,"dec":-9.9661505,"st_teff":4026,"st_rad":0.607,"ra":4.7730178,"system_radius":14107079.141,"pl_hostname":"TOI-260","stellar_type":"K","tic_id":"TIC 37749396","magnitude":9.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409959","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410062"}]}}
+{
+  "id": 409959,
+  "date": "2024-07-25T22:04:41",
+  "date_gmt": "2024-07-26T02:04:41",
+  "modified": "2025-04-23T05:54:02",
+  "modified_gmt": "2025-04-23T09:54:02",
+  "slug": "toi-260",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-260/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-260",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410062
+    ],
+    "exo_id": "TOI-260",
+    "st_optmag": 9.9,
+    "st_vj": 9.9,
+    "st_dist": 20.1852,
+    "st_j": 9.9,
+    "st_mass": 0.616,
+    "dec": -9.9661505,
+    "st_teff": 4026,
+    "st_rad": 0.607,
+    "ra": 4.7730178,
+    "system_radius": 14107079.141,
+    "pl_hostname": "TOI-260",
+    "stellar_type": "K",
+    "tic_id": "TIC 37749396",
+    "magnitude": 9.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409959",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410062"
+      }
+    ]
+  }
+}

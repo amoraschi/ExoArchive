@@ -1,1 +1,76 @@
-{"id":261787,"date":"2023-11-28T20:42:43","date_gmt":"2023-11-29T01:42:43","modified":"2025-04-23T05:55:57","modified_gmt":"2025-04-23T09:55:57","slug":"kepler-887","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-887/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-887","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247853,247854],"exo_id":"Kepler-887","st_optmag":13.52,"st_vj":13.52,"st_dist":886.588,"st_j":13.52,"st_mass":1.19,"dec":39.8169085,"st_teff":6194,"st_rad":1.29,"ra":290.0907893,"system_radius":23084447.3197,"pl_hostname":"Kepler-887","stellar_type":"F","tic_id":"TIC 122293639","magnitude":13.52},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261787","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247854"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247853"}]}}
+{
+  "id": 261787,
+  "date": "2023-11-28T20:42:43",
+  "date_gmt": "2023-11-29T01:42:43",
+  "modified": "2025-04-23T05:55:57",
+  "modified_gmt": "2025-04-23T09:55:57",
+  "slug": "kepler-887",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-887/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-887",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247853,
+      247854
+    ],
+    "exo_id": "Kepler-887",
+    "st_optmag": 13.52,
+    "st_vj": 13.52,
+    "st_dist": 886.588,
+    "st_j": 13.52,
+    "st_mass": 1.19,
+    "dec": 39.8169085,
+    "st_teff": 6194,
+    "st_rad": 1.29,
+    "ra": 290.0907893,
+    "system_radius": 23084447.3197,
+    "pl_hostname": "Kepler-887",
+    "stellar_type": "F",
+    "tic_id": "TIC 122293639",
+    "magnitude": 13.52
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261787",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247854"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247853"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263353,"date":"2023-11-28T21:02:34","date_gmt":"2023-11-29T02:02:34","modified":"2025-04-23T05:56:11","modified_gmt":"2025-04-23T09:56:11","slug":"k2-406","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-406/","featured_media":0,"categories":[],"acf":{"display_name":"K2-406","custom_star_title":"","aliases":"","constellation":"Libra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245117],"exo_id":"K2-406","st_optmag":9.465,"st_vj":9.465,"st_dist":85.3751,"st_j":9.465,"st_mass":0.798,"dec":-25.3706149,"st_teff":5784,"st_rad":0.961,"ra":230.8872242,"system_radius":149597870,"pl_hostname":"K2-406","stellar_type":"G","tic_id":"TIC 292202337","magnitude":9.465},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263353","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245117"}]}}
+{
+  "id": 263353,
+  "date": "2023-11-28T21:02:34",
+  "date_gmt": "2023-11-29T02:02:34",
+  "modified": "2025-04-23T05:56:11",
+  "modified_gmt": "2025-04-23T09:56:11",
+  "slug": "k2-406",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-406/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-406",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Libra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245117
+    ],
+    "exo_id": "K2-406",
+    "st_optmag": 9.465,
+    "st_vj": 9.465,
+    "st_dist": 85.3751,
+    "st_j": 9.465,
+    "st_mass": 0.798,
+    "dec": -25.3706149,
+    "st_teff": 5784,
+    "st_rad": 0.961,
+    "ra": 230.8872242,
+    "system_radius": 149597870,
+    "pl_hostname": "K2-406",
+    "stellar_type": "G",
+    "tic_id": "TIC 292202337",
+    "magnitude": 9.465
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263353",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245117"
+      }
+    ]
+  }
+}

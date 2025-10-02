@@ -1,1 +1,77 @@
-{"id":887958,"date":"2025-08-07T21:03:11","date_gmt":"2025-08-08T01:03:11","modified":"2025-08-07T21:03:11","modified_gmt":"2025-08-08T01:03:11","slug":"toi-1011","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1011/","featured_media":429648,"categories":[],"acf":{"display_name":"TOI-1011","custom_star_title":"","aliases":"","constellation":"Puppis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[887989],"exo_id":"TOI-1011","st_optmag":8.94,"st_vj":8.94,"st_dist":52.62,"st_j":8.94,"st_mass":0.91,"dec":-32.8419988,"st_teff":5475,"st_rad":0.92,"ra":113.9847611,"system_radius":149597870,"pl_hostname":"TOI-1011","stellar_type":"G","tic_id":"TIC 114018671","magnitude":8.94},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/887958","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/887989"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 887958,
+  "date": "2025-08-07T21:03:11",
+  "date_gmt": "2025-08-08T01:03:11",
+  "modified": "2025-08-07T21:03:11",
+  "modified_gmt": "2025-08-08T01:03:11",
+  "slug": "toi-1011",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1011/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1011",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      887989
+    ],
+    "exo_id": "TOI-1011",
+    "st_optmag": 8.94,
+    "st_vj": 8.94,
+    "st_dist": 52.62,
+    "st_j": 8.94,
+    "st_mass": 0.91,
+    "dec": -32.8419988,
+    "st_teff": 5475,
+    "st_rad": 0.92,
+    "ra": 113.9847611,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1011",
+    "stellar_type": "G",
+    "tic_id": "TIC 114018671",
+    "magnitude": 8.94
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/887958",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/887989"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,1 +1,69 @@
-{"id":399271,"date":"2024-05-31T20:30:11","date_gmt":"2024-06-01T00:30:11","modified":"2025-04-23T05:57:33","modified_gmt":"2025-04-23T09:57:33","slug":"keid","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/keid/","featured_media":429649,"categories":[],"acf":{"display_name":"Keid","custom_star_title":"","aliases":"HD26965,HD 26965 A,HR 1325 A,GJ 166A","constellation":"Eridanus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Keid","st_optmag":4.415,"st_vj":4.415,"st_dist":5.0098,"st_j":4.415,"st_mass":0.86,"dec":-7.6528697,"st_teff":5133,"st_rad":0.809,"ra":63.8179984,"system_radius":149597870,"pl_hostname":"Keid","stellar_type":"K","tic_id":"TIC 67772871","magnitude":4.4},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/399271","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 399271,
+  "date": "2024-05-31T20:30:11",
+  "date_gmt": "2024-06-01T00:30:11",
+  "modified": "2025-04-23T05:57:33",
+  "modified_gmt": "2025-04-23T09:57:33",
+  "slug": "keid",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/keid/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Keid",
+    "custom_star_title": "",
+    "aliases": "HD26965,HD 26965 A,HR 1325 A,GJ 166A",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Keid",
+    "st_optmag": 4.415,
+    "st_vj": 4.415,
+    "st_dist": 5.0098,
+    "st_j": 4.415,
+    "st_mass": 0.86,
+    "dec": -7.6528697,
+    "st_teff": 5133,
+    "st_rad": 0.809,
+    "ra": 63.8179984,
+    "system_radius": 149597870,
+    "pl_hostname": "Keid",
+    "stellar_type": "K",
+    "tic_id": "TIC 67772871",
+    "magnitude": 4.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/399271",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

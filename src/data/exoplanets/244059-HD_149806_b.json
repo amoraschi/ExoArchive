@@ -1,1 +1,79 @@
-{"id":244059,"date":"2022-09-27T08:32:10","date_gmt":"2022-09-27T12:32:10","modified":"2024-10-24T18:07:18","modified_gmt":"2024-10-24T22:07:18","slug":"hd-149806-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-149806-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HD_149806","pl_letter":"b","display_name":"HD 149806 b","planet_radius":"1.1 x Jupiter (estimate)","derived_description":"HD 149806 b is a gas giant exoplanet that orbits a G-type star. Its mass is 12.597 Jupiters, it takes 45.3 years to complete one orbit of its star, and is 12.404 AU from its star. Its discovery was announced in 2022.","planet_type":"Gas Giant","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":20.2727,"planet_mass":"12.597 Jupiters","st_optmag":7.08308,"discovery_date":"2022","pl_orbsmax":12.404,"period_display":"45.3 years","eccentricity":"0.36","star_id":263767,"pl_orbper":16521.52778,"pl_kepflag":false,"pl_radj":1.1,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":53.02,"multiple_planet_system":false,"pl_rade":12.3,"exo_id":"HD_149806_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0.357},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244059","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263767"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 244059,
+  "date": "2022-09-27T08:32:10",
+  "date_gmt": "2022-09-27T12:32:10",
+  "modified": "2024-10-24T18:07:18",
+  "modified_gmt": "2024-10-24T22:07:18",
+  "slug": "hd-149806-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-149806-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_149806",
+    "pl_letter": "b",
+    "display_name": "HD 149806 b",
+    "planet_radius": "1.1 x Jupiter (estimate)",
+    "derived_description": "HD 149806 b is a gas giant exoplanet that orbits a G-type star. Its mass is 12.597 Jupiters, it takes 45.3 years to complete one orbit of its star, and is 12.404 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 20.2727,
+    "planet_mass": "12.597 Jupiters",
+    "st_optmag": 7.08308,
+    "discovery_date": "2022",
+    "pl_orbsmax": 12.404,
+    "period_display": "45.3 years",
+    "eccentricity": "0.36",
+    "star_id": 263767,
+    "pl_orbper": 16521.52778,
+    "pl_kepflag": false,
+    "pl_radj": 1.1,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": 53.02,
+    "multiple_planet_system": false,
+    "pl_rade": 12.3,
+    "exo_id": "HD_149806_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.357
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244059",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263767"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

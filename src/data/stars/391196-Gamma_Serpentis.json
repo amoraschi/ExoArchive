@@ -1,1 +1,69 @@
-{"id":391196,"date":"2024-04-30T20:01:18","date_gmt":"2024-05-01T00:01:18","modified":"2025-04-23T05:57:28","modified_gmt":"2025-04-23T09:57:28","slug":"gamma-serpentis","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gamma-serpentis/","featured_media":429647,"categories":[],"acf":{"display_name":"Gamma Serpentis","custom_star_title":"","aliases":"HD 142860,HR 5933,GJ 603","constellation":"Serpens","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Gamma_Serpentis","st_optmag":3.843,"st_vj":3.843,"st_dist":11.2537,"st_j":3.843,"st_mass":1.25,"dec":15.6616168,"st_teff":6285,"st_rad":1.47,"ra":239.1132612,"system_radius":149597870,"pl_hostname":"Gamma_Serpentis","stellar_type":"F","tic_id":"TIC 377415363","magnitude":3.8},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391196","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391196,
+  "date": "2024-04-30T20:01:18",
+  "date_gmt": "2024-05-01T00:01:18",
+  "modified": "2025-04-23T05:57:28",
+  "modified_gmt": "2025-04-23T09:57:28",
+  "slug": "gamma-serpentis",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gamma-serpentis/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Gamma Serpentis",
+    "custom_star_title": "",
+    "aliases": "HD 142860,HR 5933,GJ 603",
+    "constellation": "Serpens",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Gamma_Serpentis",
+    "st_optmag": 3.843,
+    "st_vj": 3.843,
+    "st_dist": 11.2537,
+    "st_j": 3.843,
+    "st_mass": 1.25,
+    "dec": 15.6616168,
+    "st_teff": 6285,
+    "st_rad": 1.47,
+    "ra": 239.1132612,
+    "system_radius": 149597870,
+    "pl_hostname": "Gamma_Serpentis",
+    "stellar_type": "F",
+    "tic_id": "TIC 377415363",
+    "magnitude": 3.8
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391196",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,1 +1,69 @@
-{"id":391284,"date":"2024-04-30T20:01:25","date_gmt":"2024-05-01T00:01:25","modified":"2025-04-23T05:57:35","modified_gmt":"2025-04-23T09:57:35","slug":"hd-55575","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd-55575/","featured_media":429648,"categories":[],"acf":{"display_name":"HD 55575","custom_star_title":"","aliases":"HD55575,HD55575,HD55575,HR2721,GJ1095,HR 2721,GJ 1095","constellation":"Lynx","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"HD_55575","st_optmag":5.559,"st_vj":5.559,"st_dist":16.8518,"st_j":5.559,"st_mass":1.14,"dec":47.2399634,"st_teff":5902,"st_rad":1.157,"ra":108.9589132,"system_radius":149597870,"pl_hostname":"HD_55575","stellar_type":"G","tic_id":"TIC 156890613","magnitude":5.6},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391284","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 391284,
+  "date": "2024-04-30T20:01:25",
+  "date_gmt": "2024-05-01T00:01:25",
+  "modified": "2025-04-23T05:57:35",
+  "modified_gmt": "2025-04-23T09:57:35",
+  "slug": "hd-55575",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-55575/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 55575",
+    "custom_star_title": "",
+    "aliases": "HD55575,HD55575,HD55575,HR2721,GJ1095,HR 2721,GJ 1095",
+    "constellation": "Lynx",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HD_55575",
+    "st_optmag": 5.559,
+    "st_vj": 5.559,
+    "st_dist": 16.8518,
+    "st_j": 5.559,
+    "st_mass": 1.14,
+    "dec": 47.2399634,
+    "st_teff": 5902,
+    "st_rad": 1.157,
+    "ra": 108.9589132,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_55575",
+    "stellar_type": "G",
+    "tic_id": "TIC 156890613",
+    "magnitude": 5.6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391284",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

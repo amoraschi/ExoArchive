@@ -1,1 +1,79 @@
-{"id":313838,"date":"2024-02-08T16:01:23","date_gmt":"2024-02-08T21:01:23","modified":"2025-03-28T07:23:25","modified_gmt":"2025-03-28T11:23:25","slug":"toi-2266-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2266-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2266","pl_letter":"b","display_name":"TOI-2266 b","planet_radius":"1.54 x Earth","derived_description":"TOI-2266 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.99 Earths, it takes 2.3 days to complete one orbit of its star, and is 0.02 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":51.6004,"planet_mass":"2.99 Earths","st_optmag":16.54,"discovery_date":"2024","pl_orbsmax":0.02,"period_display":"2.3 days","eccentricity":"","star_id":313787,"pl_orbper":2.326318,"pl_kepflag":false,"pl_radj":0.13738983,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.54,"exo_id":"TOI-2266_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313838","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/313787"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 313838,
+  "date": "2024-02-08T16:01:23",
+  "date_gmt": "2024-02-08T21:01:23",
+  "modified": "2025-03-28T07:23:25",
+  "modified_gmt": "2025-03-28T11:23:25",
+  "slug": "toi-2266-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2266-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2266",
+    "pl_letter": "b",
+    "display_name": "TOI-2266 b",
+    "planet_radius": "1.54 x Earth",
+    "derived_description": "TOI-2266 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.99 Earths, it takes 2.3 days to complete one orbit of its star, and is 0.02 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 51.6004,
+    "planet_mass": "2.99 Earths",
+    "st_optmag": 16.54,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.02,
+    "period_display": "2.3 days",
+    "eccentricity": "",
+    "star_id": 313787,
+    "pl_orbper": 2.326318,
+    "pl_kepflag": false,
+    "pl_radj": 0.13738983,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.54,
+    "exo_id": "TOI-2266_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313838",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313787"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

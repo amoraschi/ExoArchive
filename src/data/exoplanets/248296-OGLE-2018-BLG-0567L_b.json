@@ -1,1 +1,79 @@
-{"id":248296,"date":"2021-09-30T13:32:06","date_gmt":"2021-09-30T17:32:06","modified":"2024-10-24T20:41:11","modified_gmt":"2024-10-25T00:41:11","slug":"ogle-2018-blg-0567l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/ogle-2018-blg-0567l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"OGLE-2018-BLG-0567L","pl_letter":"b","display_name":"OGLE-2018-BLG-0567L b","planet_radius":"1.1 x Jupiter (estimate)","derived_description":"OGLE-2018-BLG-0567L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.32 Jupiters, it takes 9 years to complete one orbit of its star, and is 2.72 AU from its star. Its discovery was announced in 2021.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"OGLE","st_dist":7060,"planet_mass":"0.32 Jupiters","st_optmag":"","discovery_date":"2021","pl_orbsmax":2.72,"period_display":"9 years","eccentricity":"","star_id":263675,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.1,"pl_disc":2021,"pl_publ_date":"2021","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":12.3,"exo_id":"OGLE-2018-BLG-0567L_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248296","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263675"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248296,
+  "date": "2021-09-30T13:32:06",
+  "date_gmt": "2021-09-30T17:32:06",
+  "modified": "2024-10-24T20:41:11",
+  "modified_gmt": "2024-10-25T00:41:11",
+  "slug": "ogle-2018-blg-0567l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ogle-2018-blg-0567l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "OGLE-2018-BLG-0567L",
+    "pl_letter": "b",
+    "display_name": "OGLE-2018-BLG-0567L b",
+    "planet_radius": "1.1 x Jupiter (estimate)",
+    "derived_description": "OGLE-2018-BLG-0567L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.32 Jupiters, it takes 9 years to complete one orbit of its star, and is 2.72 AU from its star. Its discovery was announced in 2021.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "OGLE",
+    "st_dist": 7060,
+    "planet_mass": "0.32 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2021",
+    "pl_orbsmax": 2.72,
+    "period_display": "9 years",
+    "eccentricity": "",
+    "star_id": 263675,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.1,
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 12.3,
+    "exo_id": "OGLE-2018-BLG-0567L_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248296",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263675"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

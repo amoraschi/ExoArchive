@@ -1,1 +1,76 @@
-{"id":409971,"date":"2024-07-25T22:04:41","date_gmt":"2024-07-26T02:04:41","modified":"2025-04-23T05:53:39","modified_gmt":"2025-04-23T09:53:39","slug":"toi-1294","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1294/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1294","custom_star_title":"","aliases":"","constellation":"Ursa Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":410122,"1":410082},"exo_id":"TOI-1294","st_optmag":11.314,"st_vj":11.314,"st_dist":332.648,"st_j":11.314,"st_mass":1.1578,"dec":70.4765573,"st_teff":5718,"st_rad":1.5566,"ra":223.0926408,"system_radius":91254700.7,"pl_hostname":"TOI-1294","stellar_type":"G","tic_id":"TIC 219015370","magnitude":11.314},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409971","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410122"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410082"}]}}
+{
+  "id": 409971,
+  "date": "2024-07-25T22:04:41",
+  "date_gmt": "2024-07-26T02:04:41",
+  "modified": "2025-04-23T05:53:39",
+  "modified_gmt": "2025-04-23T09:53:39",
+  "slug": "toi-1294",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1294/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1294",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 410122,
+      "1": 410082
+    },
+    "exo_id": "TOI-1294",
+    "st_optmag": 11.314,
+    "st_vj": 11.314,
+    "st_dist": 332.648,
+    "st_j": 11.314,
+    "st_mass": 1.1578,
+    "dec": 70.4765573,
+    "st_teff": 5718,
+    "st_rad": 1.5566,
+    "ra": 223.0926408,
+    "system_radius": 91254700.7,
+    "pl_hostname": "TOI-1294",
+    "stellar_type": "G",
+    "tic_id": "TIC 219015370",
+    "magnitude": 11.314
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409971",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410122"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410082"
+      }
+    ]
+  }
+}

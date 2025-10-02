@@ -1,1 +1,71 @@
-{"id":264405,"date":"2023-11-28T21:16:07","date_gmt":"2023-11-29T02:16:07","modified":"2025-04-23T05:56:25","modified_gmt":"2025-04-23T09:56:25","slug":"kepler-1927","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1927/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1927","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246504],"exo_id":"Kepler-1927","st_optmag":13.312,"st_vj":13.312,"st_dist":1091,"st_j":13.312,"st_mass":1.408,"dec":41.3355698,"st_teff":6056,"st_rad":2.481,"ra":296.3546093,"system_radius":57943742.9871,"pl_hostname":"Kepler-1927","stellar_type":"F","tic_id":"TIC 184427149","magnitude":13.312},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264405","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246504"}]}}
+{
+  "id": 264405,
+  "date": "2023-11-28T21:16:07",
+  "date_gmt": "2023-11-29T02:16:07",
+  "modified": "2025-04-23T05:56:25",
+  "modified_gmt": "2025-04-23T09:56:25",
+  "slug": "kepler-1927",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1927/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1927",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246504
+    ],
+    "exo_id": "Kepler-1927",
+    "st_optmag": 13.312,
+    "st_vj": 13.312,
+    "st_dist": 1091,
+    "st_j": 13.312,
+    "st_mass": 1.408,
+    "dec": 41.3355698,
+    "st_teff": 6056,
+    "st_rad": 2.481,
+    "ra": 296.3546093,
+    "system_radius": 57943742.9871,
+    "pl_hostname": "Kepler-1927",
+    "stellar_type": "F",
+    "tic_id": "TIC 184427149",
+    "magnitude": 13.312
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264405",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246504"
+      }
+    ]
+  }
+}

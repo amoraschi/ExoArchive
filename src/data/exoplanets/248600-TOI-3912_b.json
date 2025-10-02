@@ -1,1 +1,79 @@
-{"id":248600,"date":"2023-03-07T19:15:49","date_gmt":"2023-03-08T00:15:49","modified":"2025-07-07T20:41:26","modified_gmt":"2025-07-08T00:41:26","slug":"toi-3912-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-3912-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-3912","pl_letter":"b","display_name":"TOI-3912 b","planet_radius":"1.274 x Jupiter","derived_description":"TOI-3912 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.406 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.0463 AU from its star. Its discovery was announced in 2023.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":465.992,"planet_mass":"0.406 Jupiters","st_optmag":12.507,"discovery_date":"2023","pl_orbsmax":0.0463,"period_display":"3.5 days","eccentricity":"0.0","star_id":264217,"pl_orbper":3.4936264,"pl_kepflag":false,"pl_radj":1.274,"pl_disc":2023,"pl_publ_date":"2023","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":14.28024141,"exo_id":"TOI-3912_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248600","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264217"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248600,
+  "date": "2023-03-07T19:15:49",
+  "date_gmt": "2023-03-08T00:15:49",
+  "modified": "2025-07-07T20:41:26",
+  "modified_gmt": "2025-07-08T00:41:26",
+  "slug": "toi-3912-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-3912-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-3912",
+    "pl_letter": "b",
+    "display_name": "TOI-3912 b",
+    "planet_radius": "1.274 x Jupiter",
+    "derived_description": "TOI-3912 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.406 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.0463 AU from its star. Its discovery was announced in 2023.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 465.992,
+    "planet_mass": "0.406 Jupiters",
+    "st_optmag": 12.507,
+    "discovery_date": "2023",
+    "pl_orbsmax": 0.0463,
+    "period_display": "3.5 days",
+    "eccentricity": "0.0",
+    "star_id": 264217,
+    "pl_orbper": 3.4936264,
+    "pl_kepflag": false,
+    "pl_radj": 1.274,
+    "pl_disc": 2023,
+    "pl_publ_date": "2023",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 14.28024141,
+    "exo_id": "TOI-3912_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248600",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264217"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":261968,"date":"2023-11-28T20:45:01","date_gmt":"2023-11-29T01:45:01","modified":"2025-04-23T05:55:14","modified_gmt":"2025-04-23T09:55:14","slug":"gj_3082","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gj_3082/","featured_media":0,"categories":[],"acf":{"display_name":"GJ 3082","custom_star_title":"","aliases":"","constellation":"Phoenix","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243619],"exo_id":"GJ_3082","st_optmag":11.041,"st_vj":11.041,"st_dist":16.6186,"st_j":11.041,"st_mass":0.47,"dec":-53.9407751,"st_teff":3910,"st_rad":0.465216,"ra":18.6432425,"system_radius":11818231.73,"pl_hostname":"GJ_3082","stellar_type":"K","tic_id":"TIC 206548902","magnitude":11.041},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261968","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243619"}]}}
+{
+  "id": 261968,
+  "date": "2023-11-28T20:45:01",
+  "date_gmt": "2023-11-29T01:45:01",
+  "modified": "2025-04-23T05:55:14",
+  "modified_gmt": "2025-04-23T09:55:14",
+  "slug": "gj_3082",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj_3082/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "GJ 3082",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243619
+    ],
+    "exo_id": "GJ_3082",
+    "st_optmag": 11.041,
+    "st_vj": 11.041,
+    "st_dist": 16.6186,
+    "st_j": 11.041,
+    "st_mass": 0.47,
+    "dec": -53.9407751,
+    "st_teff": 3910,
+    "st_rad": 0.465216,
+    "ra": 18.6432425,
+    "system_radius": 11818231.73,
+    "pl_hostname": "GJ_3082",
+    "stellar_type": "K",
+    "tic_id": "TIC 206548902",
+    "magnitude": 11.041
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261968",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243619"
+      }
+    ]
+  }
+}

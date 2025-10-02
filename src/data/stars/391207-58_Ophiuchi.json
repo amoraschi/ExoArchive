@@ -1,1 +1,69 @@
-{"id":391207,"date":"2024-04-30T20:01:19","date_gmt":"2024-05-01T00:01:19","modified":"2025-04-23T05:57:29","modified_gmt":"2025-04-23T09:57:29","slug":"58-ophiuchi","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/58-ophiuchi/","featured_media":429647,"categories":[],"acf":{"display_name":"58 Ophiuchi","custom_star_title":"","aliases":"HD 160915,HR 6595,GJ 692","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"58_Ophiuchi","st_optmag":4.86,"st_vj":4.86,"st_dist":17.6523,"st_j":4.86,"st_mass":1.33,"dec":-21.6831941,"st_teff":6404,"st_rad":1.335,"ra":265.8574731,"system_radius":149597870,"pl_hostname":"58_Ophiuchi","stellar_type":"F","tic_id":"TIC 238115675","magnitude":4.9},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391207","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391207,
+  "date": "2024-04-30T20:01:19",
+  "date_gmt": "2024-05-01T00:01:19",
+  "modified": "2025-04-23T05:57:29",
+  "modified_gmt": "2025-04-23T09:57:29",
+  "slug": "58-ophiuchi",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/58-ophiuchi/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "58 Ophiuchi",
+    "custom_star_title": "",
+    "aliases": "HD 160915,HR 6595,GJ 692",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "58_Ophiuchi",
+    "st_optmag": 4.86,
+    "st_vj": 4.86,
+    "st_dist": 17.6523,
+    "st_j": 4.86,
+    "st_mass": 1.33,
+    "dec": -21.6831941,
+    "st_teff": 6404,
+    "st_rad": 1.335,
+    "ra": 265.8574731,
+    "system_radius": 149597870,
+    "pl_hostname": "58_Ophiuchi",
+    "stellar_type": "F",
+    "tic_id": "TIC 238115675",
+    "magnitude": 4.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391207",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

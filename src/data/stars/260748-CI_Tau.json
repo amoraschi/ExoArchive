@@ -1,1 +1,71 @@
-{"id":260748,"date":"2023-11-28T20:29:37","date_gmt":"2023-11-29T01:29:37","modified":"2025-04-23T05:56:09","modified_gmt":"2025-04-23T09:56:09","slug":"ci_tau","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ci_tau/","featured_media":0,"categories":[],"acf":{"display_name":"CI Tauri","custom_star_title":"","aliases":"","constellation":"Taurus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[387751],"exo_id":"CI_Tau","st_optmag":13.642,"st_vj":13.642,"st_dist":157.998,"st_j":13.642,"st_mass":0.9,"dec":22.8416192,"st_teff":3807,"st_rad":1.880857,"ra":68.4667685,"system_radius":25431637.9,"pl_hostname":"CI_Tau","stellar_type":"M","tic_id":"TIC 61230756","magnitude":13.642},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260748","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/387751"}]}}
+{
+  "id": 260748,
+  "date": "2023-11-28T20:29:37",
+  "date_gmt": "2023-11-29T01:29:37",
+  "modified": "2025-04-23T05:56:09",
+  "modified_gmt": "2025-04-23T09:56:09",
+  "slug": "ci_tau",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ci_tau/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CI Tauri",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      387751
+    ],
+    "exo_id": "CI_Tau",
+    "st_optmag": 13.642,
+    "st_vj": 13.642,
+    "st_dist": 157.998,
+    "st_j": 13.642,
+    "st_mass": 0.9,
+    "dec": 22.8416192,
+    "st_teff": 3807,
+    "st_rad": 1.880857,
+    "ra": 68.4667685,
+    "system_radius": 25431637.9,
+    "pl_hostname": "CI_Tau",
+    "stellar_type": "M",
+    "tic_id": "TIC 61230756",
+    "magnitude": 13.642
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260748",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/387751"
+      }
+    ]
+  }
+}

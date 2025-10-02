@@ -1,1 +1,79 @@
-{"id":247962,"date":"2016-05-10T14:50:16","date_gmt":"2016-05-10T18:50:16","modified":"2025-07-07T20:31:19","modified_gmt":"2025-07-08T00:31:19","slug":"kepler-967-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-967-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-967","pl_letter":"c","display_name":"Kepler-967 c","planet_radius":"0.32563119 x Jupiter","derived_description":"Kepler-967 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 12.9 Earths, it takes 198.7 days to complete one orbit of its star, and is 0.6253 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":568.546,"planet_mass":"12.9 Earths","st_optmag":14.702,"discovery_date":"2016","pl_orbsmax":0.6253,"period_display":"198.7 days","eccentricity":"0.0","star_id":261813,"pl_orbper":198.7112502,"pl_kepflag":true,"pl_radj":0.32563119,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":3.65,"exo_id":"Kepler-967_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247962","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261813"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 247962,
+  "date": "2016-05-10T14:50:16",
+  "date_gmt": "2016-05-10T18:50:16",
+  "modified": "2025-07-07T20:31:19",
+  "modified_gmt": "2025-07-08T00:31:19",
+  "slug": "kepler-967-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-967-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-967",
+    "pl_letter": "c",
+    "display_name": "Kepler-967 c",
+    "planet_radius": "0.32563119 x Jupiter",
+    "derived_description": "Kepler-967 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 12.9 Earths, it takes 198.7 days to complete one orbit of its star, and is 0.6253 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 568.546,
+    "planet_mass": "12.9 Earths",
+    "st_optmag": 14.702,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.6253,
+    "period_display": "198.7 days",
+    "eccentricity": "0.0",
+    "star_id": 261813,
+    "pl_orbper": 198.7112502,
+    "pl_kepflag": true,
+    "pl_radj": 0.32563119,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.65,
+    "exo_id": "Kepler-967_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247962",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261813"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":248653,"date":"2020-10-08T20:16:40","date_gmt":"2020-10-09T00:16:40","modified":"2025-07-07T15:25:47","modified_gmt":"2025-07-07T19:25:47","slug":"toi-540-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-540-b/","featured_media":267836,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-540","pl_letter":"b","display_name":"TOI-540 b","planet_radius":"0.903 x Earth","derived_description":"TOI-540 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.674 Earths, it takes 1.2 days to complete one orbit of its star, and is 0.01223 AU from its star. Its discovery was announced in 2020.","planet_type":"Terrestrial","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":14.0022,"planet_mass":"0.674 Earths","st_optmag":14.823,"discovery_date":"2020","pl_orbsmax":0.01223,"period_display":"1.2 days","eccentricity":"0.0","star_id":263469,"pl_orbper":1.2391491,"pl_kepflag":false,"pl_radj":0.08056026,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":0.903,"exo_id":"TOI-540_b","planet_size_class":"Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248653","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263469"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267836"}]}}
+{
+  "id": 248653,
+  "date": "2020-10-08T20:16:40",
+  "date_gmt": "2020-10-09T00:16:40",
+  "modified": "2025-07-07T15:25:47",
+  "modified_gmt": "2025-07-07T19:25:47",
+  "slug": "toi-540-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-540-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-540",
+    "pl_letter": "b",
+    "display_name": "TOI-540 b",
+    "planet_radius": "0.903 x Earth",
+    "derived_description": "TOI-540 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.674 Earths, it takes 1.2 days to complete one orbit of its star, and is 0.01223 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 14.0022,
+    "planet_mass": "0.674 Earths",
+    "st_optmag": 14.823,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.01223,
+    "period_display": "1.2 days",
+    "eccentricity": "0.0",
+    "star_id": 263469,
+    "pl_orbper": 1.2391491,
+    "pl_kepflag": false,
+    "pl_radj": 0.08056026,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.903,
+    "exo_id": "TOI-540_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248653",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263469"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

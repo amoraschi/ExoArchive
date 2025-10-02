@@ -1,1 +1,77 @@
-{"id":855815,"date":"2025-05-16T06:39:40","date_gmt":"2025-05-16T10:39:40","modified":"2025-05-16T06:39:40","modified_gmt":"2025-05-16T10:39:40","slug":"ogle-2017-blg-0364l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2017-blg-0364l/","featured_media":429648,"categories":[],"acf":{"display_name":"OGLE-2017-BLG-0364L","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[876401],"exo_id":"OGLE-2017-BLG-0364L","st_optmag":"","st_vj":"","st_dist":7860,"st_j":"","st_mass":0.49,"dec":-34.6175833,"st_teff":"","st_rad":"","ra":265.227875,"system_radius":566975927.3,"pl_hostname":"OGLE-2017-BLG-0364L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/855815","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/876401"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 855815,
+  "date": "2025-05-16T06:39:40",
+  "date_gmt": "2025-05-16T10:39:40",
+  "modified": "2025-05-16T06:39:40",
+  "modified_gmt": "2025-05-16T10:39:40",
+  "slug": "ogle-2017-blg-0364l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2017-blg-0364l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2017-BLG-0364L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      876401
+    ],
+    "exo_id": "OGLE-2017-BLG-0364L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7860,
+    "st_j": "",
+    "st_mass": 0.49,
+    "dec": -34.6175833,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 265.227875,
+    "system_radius": 566975927.3,
+    "pl_hostname": "OGLE-2017-BLG-0364L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/855815",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/876401"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

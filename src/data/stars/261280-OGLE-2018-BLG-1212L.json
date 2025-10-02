@@ -1,1 +1,71 @@
-{"id":261280,"date":"2023-11-28T20:36:21","date_gmt":"2023-11-29T01:36:21","modified":"2025-04-23T05:54:24","modified_gmt":"2025-04-23T09:54:24","slug":"ogle-2018-blg-1212l","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ogle-2018-blg-1212l/","featured_media":0,"categories":[],"acf":{"display_name":"OGLE-2018-BLG-1212L","custom_star_title":"","aliases":"","constellation":"Sagittarius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248309],"exo_id":"OGLE-2018-BLG-1212L","st_optmag":"","st_vj":"","st_dist":1550,"st_j":"","st_mass":0.16,"dec":-28.1940833,"st_teff":"","st_rad":"","ra":271.077625,"system_radius":251324421.6,"pl_hostname":"OGLE-2018-BLG-1212L","stellar_type":"Unknown","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261280","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248309"}]}}
+{
+  "id": 261280,
+  "date": "2023-11-28T20:36:21",
+  "date_gmt": "2023-11-29T01:36:21",
+  "modified": "2025-04-23T05:54:24",
+  "modified_gmt": "2025-04-23T09:54:24",
+  "slug": "ogle-2018-blg-1212l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2018-blg-1212l/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2018-BLG-1212L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248309
+    ],
+    "exo_id": "OGLE-2018-BLG-1212L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 1550,
+    "st_j": "",
+    "st_mass": 0.16,
+    "dec": -28.1940833,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.077625,
+    "system_radius": 251324421.6,
+    "pl_hostname": "OGLE-2018-BLG-1212L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261280",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248309"
+      }
+    ]
+  }
+}

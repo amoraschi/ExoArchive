@@ -1,1 +1,79 @@
-{"id":243454,"date":"2019-04-22T16:49:20","date_gmt":"2019-04-22T20:49:20","modified":"2025-03-28T07:27:06","modified_gmt":"2025-03-28T11:27:06","slug":"bd20-594-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/bd20-594-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"BD+20_594","pl_letter":"b","display_name":"BD+20 594 b","planet_radius":"0.23 x Jupiter","derived_description":"BD+20 594 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 22.2481 Earths, it takes 41.7 days to complete one orbit of its star, and is 0.241 AU from its star. Its discovery was announced in 2016.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":179.461,"planet_mass":"22.2481 Earths","st_optmag":10.849,"discovery_date":"2016","pl_orbsmax":0.241,"period_display":"41.7 days","eccentricity":"0.0","star_id":263210,"pl_orbper":41.6855,"pl_kepflag":true,"pl_radj":0.23,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.57807,"exo_id":"BD+20_594_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243454","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263210"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243454,
+  "date": "2019-04-22T16:49:20",
+  "date_gmt": "2019-04-22T20:49:20",
+  "modified": "2025-03-28T07:27:06",
+  "modified_gmt": "2025-03-28T11:27:06",
+  "slug": "bd20-594-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/bd20-594-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "BD+20_594",
+    "pl_letter": "b",
+    "display_name": "BD+20 594 b",
+    "planet_radius": "0.23 x Jupiter",
+    "derived_description": "BD+20 594 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 22.2481 Earths, it takes 41.7 days to complete one orbit of its star, and is 0.241 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 179.461,
+    "planet_mass": "22.2481 Earths",
+    "st_optmag": 10.849,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.241,
+    "period_display": "41.7 days",
+    "eccentricity": "0.0",
+    "star_id": 263210,
+    "pl_orbper": 41.6855,
+    "pl_kepflag": true,
+    "pl_radj": 0.23,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.57807,
+    "exo_id": "BD+20_594_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243454",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263210"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

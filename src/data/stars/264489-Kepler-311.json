@@ -1,1 +1,81 @@
-{"id":264489,"date":"2023-11-28T21:17:11","date_gmt":"2023-11-29T02:17:11","modified":"2025-06-06T07:20:00","modified_gmt":"2025-06-06T11:20:00","slug":"kepler-311","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-311/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-311","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":246919,"1":246917,"2":246918},"exo_id":"Kepler-311","st_optmag":13.902,"st_vj":13.902,"st_dist":778.654,"st_j":13.902,"st_mass":0.974,"dec":47.0854984,"st_teff":5903,"st_rad":1.156,"ra":282.0612731,"system_radius":109595399.562,"pl_hostname":"Kepler-311","stellar_type":"G","tic_id":"TIC 351898154","magnitude":13.902},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264489","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246919"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246918"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246917"}]}}
+{
+  "id": 264489,
+  "date": "2023-11-28T21:17:11",
+  "date_gmt": "2023-11-29T02:17:11",
+  "modified": "2025-06-06T07:20:00",
+  "modified_gmt": "2025-06-06T11:20:00",
+  "slug": "kepler-311",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-311/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-311",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 246919,
+      "1": 246917,
+      "2": 246918
+    },
+    "exo_id": "Kepler-311",
+    "st_optmag": 13.902,
+    "st_vj": 13.902,
+    "st_dist": 778.654,
+    "st_j": 13.902,
+    "st_mass": 0.974,
+    "dec": 47.0854984,
+    "st_teff": 5903,
+    "st_rad": 1.156,
+    "ra": 282.0612731,
+    "system_radius": 109595399.562,
+    "pl_hostname": "Kepler-311",
+    "stellar_type": "G",
+    "tic_id": "TIC 351898154",
+    "magnitude": 13.902
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264489",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246919"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246918"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246917"
+      }
+    ]
+  }
+}

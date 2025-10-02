@@ -1,1 +1,79 @@
-{"id":244000,"date":"2019-04-22T16:49:30","date_gmt":"2019-04-22T20:49:30","modified":"2025-07-07T20:39:38","modified_gmt":"2025-07-08T00:39:38","slug":"hd-134060-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-134060-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_134060","pl_letter":"c","display_name":"HD 134060 c","planet_radius":"0.527 x Jupiter (estimate)","derived_description":"HD 134060 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 29.29 Earths, it takes 3.5 years to complete one orbit of its star, and is 2.3928 AU from its star. Its discovery was announced in 2019.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":24.0125,"planet_mass":"29.29 Earths","st_optmag":6.29,"discovery_date":"2019","pl_orbsmax":2.3928,"period_display":"3.5 years","eccentricity":"0.11","star_id":260523,"pl_orbper":1291.5646,"pl_kepflag":false,"pl_radj":0.527,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":-132.73,"multiple_planet_system":false,"pl_rade":5.91,"exo_id":"HD_134060_c","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.11},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244000","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260523"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244000,
+  "date": "2019-04-22T16:49:30",
+  "date_gmt": "2019-04-22T20:49:30",
+  "modified": "2025-07-07T20:39:38",
+  "modified_gmt": "2025-07-08T00:39:38",
+  "slug": "hd-134060-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-134060-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_134060",
+    "pl_letter": "c",
+    "display_name": "HD 134060 c",
+    "planet_radius": "0.527 x Jupiter (estimate)",
+    "derived_description": "HD 134060 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 29.29 Earths, it takes 3.5 years to complete one orbit of its star, and is 2.3928 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 24.0125,
+    "planet_mass": "29.29 Earths",
+    "st_optmag": 6.29,
+    "discovery_date": "2019",
+    "pl_orbsmax": 2.3928,
+    "period_display": "3.5 years",
+    "eccentricity": "0.11",
+    "star_id": 260523,
+    "pl_orbper": 1291.5646,
+    "pl_kepflag": false,
+    "pl_radj": 0.527,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": -132.73,
+    "multiple_planet_system": false,
+    "pl_rade": 5.91,
+    "exo_id": "HD_134060_c",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244000",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260523"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

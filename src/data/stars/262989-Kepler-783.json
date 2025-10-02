@@ -1,1 +1,76 @@
-{"id":262989,"date":"2023-11-28T20:58:00","date_gmt":"2023-11-29T01:58:00","modified":"2025-06-13T07:33:30","modified_gmt":"2025-06-13T11:33:30","slug":"kepler-783","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-783/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-783","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247710,"1":247709},"exo_id":"Kepler-783","st_optmag":14.153,"st_vj":14.153,"st_dist":516.09,"st_j":14.153,"st_mass":0.94,"dec":47.484789,"st_teff":5411.49,"st_rad":0.872088,"ra":291.0628615,"system_radius":10326740.9661,"pl_hostname":"Kepler-783","stellar_type":"G","tic_id":"TIC 159642390","magnitude":14.153},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262989","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247710"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247709"}]}}
+{
+  "id": 262989,
+  "date": "2023-11-28T20:58:00",
+  "date_gmt": "2023-11-29T01:58:00",
+  "modified": "2025-06-13T07:33:30",
+  "modified_gmt": "2025-06-13T11:33:30",
+  "slug": "kepler-783",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-783/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-783",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247710,
+      "1": 247709
+    },
+    "exo_id": "Kepler-783",
+    "st_optmag": 14.153,
+    "st_vj": 14.153,
+    "st_dist": 516.09,
+    "st_j": 14.153,
+    "st_mass": 0.94,
+    "dec": 47.484789,
+    "st_teff": 5411.49,
+    "st_rad": 0.872088,
+    "ra": 291.0628615,
+    "system_radius": 10326740.9661,
+    "pl_hostname": "Kepler-783",
+    "stellar_type": "G",
+    "tic_id": "TIC 159642390",
+    "magnitude": 14.153
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262989",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247710"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247709"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243814,"date":"2016-12-03T12:25:41","date_gmt":"2016-12-03T17:25:41","modified":"2025-07-07T20:40:50","modified_gmt":"2025-07-08T00:40:50","slug":"hats-31-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-31-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-31","pl_letter":"b","display_name":"HATS-31 b","planet_radius":"1.64 x Jupiter","derived_description":"HATS-31 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.88 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.0478 AU from its star. Its discovery was announced in 2016.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":773.974,"planet_mass":"0.88 Jupiters","st_optmag":13.315,"discovery_date":"2016","pl_orbsmax":0.0478,"period_display":"3.4 days","eccentricity":"< 0.233","star_id":260896,"pl_orbper":3.37796,"pl_kepflag":false,"pl_radj":1.64,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":18.38276,"exo_id":"HATS-31_b","planet_size_class":"Jovian","pl_eccenlim":0.233,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243814","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260896"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243814,
+  "date": "2016-12-03T12:25:41",
+  "date_gmt": "2016-12-03T17:25:41",
+  "modified": "2025-07-07T20:40:50",
+  "modified_gmt": "2025-07-08T00:40:50",
+  "slug": "hats-31-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-31-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-31",
+    "pl_letter": "b",
+    "display_name": "HATS-31 b",
+    "planet_radius": "1.64 x Jupiter",
+    "derived_description": "HATS-31 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.88 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.0478 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 773.974,
+    "planet_mass": "0.88 Jupiters",
+    "st_optmag": 13.315,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0478,
+    "period_display": "3.4 days",
+    "eccentricity": "< 0.233",
+    "star_id": 260896,
+    "pl_orbper": 3.37796,
+    "pl_kepflag": false,
+    "pl_radj": 1.64,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 18.38276,
+    "exo_id": "HATS-31_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0.233,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243814",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260896"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

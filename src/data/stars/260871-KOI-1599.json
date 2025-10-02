@@ -1,1 +1,76 @@
-{"id":260871,"date":"2023-11-28T20:31:10","date_gmt":"2023-11-29T01:31:10","modified":"2025-04-23T05:54:18","modified_gmt":"2025-04-23T09:54:18","slug":"koi-1599","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/koi-1599/","featured_media":0,"categories":[],"acf":{"display_name":"KOI-1599","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248107,248108],"exo_id":"KOI-1599","st_optmag":14.795,"st_vj":14.795,"st_dist":1131.64,"st_j":14.795,"st_mass":1.02,"dec":40.6184483,"st_teff":5833,"st_rad":0.972,"ra":298.3738383,"system_radius":22032774.2936,"pl_hostname":"KOI-1599","stellar_type":"G","tic_id":"TIC 170647523","magnitude":14.795},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260871","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248108"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248107"}]}}
+{
+  "id": 260871,
+  "date": "2023-11-28T20:31:10",
+  "date_gmt": "2023-11-29T01:31:10",
+  "modified": "2025-04-23T05:54:18",
+  "modified_gmt": "2025-04-23T09:54:18",
+  "slug": "koi-1599",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-1599/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-1599",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248107,
+      248108
+    ],
+    "exo_id": "KOI-1599",
+    "st_optmag": 14.795,
+    "st_vj": 14.795,
+    "st_dist": 1131.64,
+    "st_j": 14.795,
+    "st_mass": 1.02,
+    "dec": 40.6184483,
+    "st_teff": 5833,
+    "st_rad": 0.972,
+    "ra": 298.3738383,
+    "system_radius": 22032774.2936,
+    "pl_hostname": "KOI-1599",
+    "stellar_type": "G",
+    "tic_id": "TIC 170647523",
+    "magnitude": 14.795
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260871",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248108"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248107"
+      }
+    ]
+  }
+}

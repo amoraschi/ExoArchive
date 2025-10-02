@@ -1,1 +1,77 @@
-{"id":884279,"date":"2025-07-29T20:42:24","date_gmt":"2025-07-30T00:42:24","modified":"2025-07-29T20:42:24","modified_gmt":"2025-07-30T00:42:24","slug":"toi-3682","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3682/","featured_media":429648,"categories":[],"acf":{"display_name":"TOI-3682","custom_star_title":"","aliases":"","constellation":"Aries","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[884320],"exo_id":"TOI-3682","st_optmag":11.678,"st_vj":11.678,"st_dist":404.211,"st_j":11.678,"st_mass":1.32,"dec":25.2972658,"st_teff":5703,"st_rad":1.735,"ra":50.2752271,"system_radius":7180697.76,"pl_hostname":"TOI-3682","stellar_type":"G","tic_id":"TIC 28961316","magnitude":11.678},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/884279","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/884320"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429648"}]}}
+{
+  "id": 884279,
+  "date": "2025-07-29T20:42:24",
+  "date_gmt": "2025-07-30T00:42:24",
+  "modified": "2025-07-29T20:42:24",
+  "modified_gmt": "2025-07-30T00:42:24",
+  "slug": "toi-3682",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3682/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3682",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aries",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      884320
+    ],
+    "exo_id": "TOI-3682",
+    "st_optmag": 11.678,
+    "st_vj": 11.678,
+    "st_dist": 404.211,
+    "st_j": 11.678,
+    "st_mass": 1.32,
+    "dec": 25.2972658,
+    "st_teff": 5703,
+    "st_rad": 1.735,
+    "ra": 50.2752271,
+    "system_radius": 7180697.76,
+    "pl_hostname": "TOI-3682",
+    "stellar_type": "G",
+    "tic_id": "TIC 28961316",
+    "magnitude": 11.678
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/884279",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/884320"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

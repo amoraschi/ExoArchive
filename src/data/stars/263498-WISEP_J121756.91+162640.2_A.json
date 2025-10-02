@@ -1,1 +1,71 @@
-{"id":263498,"date":"2023-11-28T21:04:25","date_gmt":"2023-11-29T02:04:25","modified":"2025-04-23T05:56:59","modified_gmt":"2025-04-23T09:56:59","slug":"wisep_j121756911626402_a","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wisep_j121756911626402_a/","featured_media":0,"categories":[],"acf":{"display_name":"WISEP J121756.91+162640.2 A","custom_star_title":"","aliases":"","constellation":"Coma Berenices","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248928],"exo_id":"WISEP_J121756.91+162640.2_A","st_optmag":"","st_vj":"","st_dist":10.1,"st_j":"","st_mass":0.029,"dec":16.4445,"st_teff":575,"st_rad":0.091,"ra":184.487125,"system_radius":1196782960,"pl_hostname":"WISEP_J121756.91+162640.2_A","stellar_type":"T","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263498","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248928"}]}}
+{
+  "id": 263498,
+  "date": "2023-11-28T21:04:25",
+  "date_gmt": "2023-11-29T02:04:25",
+  "modified": "2025-04-23T05:56:59",
+  "modified_gmt": "2025-04-23T09:56:59",
+  "slug": "wisep_j121756911626402_a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wisep_j121756911626402_a/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WISEP J121756.91+162640.2 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Coma Berenices",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248928
+    ],
+    "exo_id": "WISEP_J121756.91+162640.2_A",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 10.1,
+    "st_j": "",
+    "st_mass": 0.029,
+    "dec": 16.4445,
+    "st_teff": 575,
+    "st_rad": 0.091,
+    "ra": 184.487125,
+    "system_radius": 1196782960,
+    "pl_hostname": "WISEP_J121756.91+162640.2_A",
+    "stellar_type": "T",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263498",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248928"
+      }
+    ]
+  }
+}

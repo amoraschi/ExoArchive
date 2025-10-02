@@ -1,1 +1,77 @@
-{"id":488398,"date":"2025-03-21T04:30:18","date_gmt":"2025-03-21T08:30:18","modified":"2025-04-23T05:53:34","modified_gmt":"2025-04-23T09:53:34","slug":"toi-5143","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-5143/","featured_media":429649,"categories":[],"acf":{"display_name":"TOI-5143","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[488403],"exo_id":"TOI-5143","st_optmag":11.935,"st_vj":11.935,"st_dist":181.38,"st_j":11.935,"st_mass":0.864,"dec":5.1394812,"st_teff":5183,"st_rad":0.852,"ra":165.3651202,"system_radius":8380472.6774,"pl_hostname":"TOI-5143","stellar_type":"K","tic_id":"TIC 281837575","magnitude":11.935},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/488398","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/488403"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 488398,
+  "date": "2025-03-21T04:30:18",
+  "date_gmt": "2025-03-21T08:30:18",
+  "modified": "2025-04-23T05:53:34",
+  "modified_gmt": "2025-04-23T09:53:34",
+  "slug": "toi-5143",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5143/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5143",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      488403
+    ],
+    "exo_id": "TOI-5143",
+    "st_optmag": 11.935,
+    "st_vj": 11.935,
+    "st_dist": 181.38,
+    "st_j": 11.935,
+    "st_mass": 0.864,
+    "dec": 5.1394812,
+    "st_teff": 5183,
+    "st_rad": 0.852,
+    "ra": 165.3651202,
+    "system_radius": 8380472.6774,
+    "pl_hostname": "TOI-5143",
+    "stellar_type": "K",
+    "tic_id": "TIC 281837575",
+    "magnitude": 11.935
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/488398",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/488403"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

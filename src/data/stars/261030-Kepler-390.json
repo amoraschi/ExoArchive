@@ -1,1 +1,76 @@
-{"id":261030,"date":"2023-11-28T20:33:10","date_gmt":"2023-11-29T01:33:10","modified":"2025-04-23T05:55:24","modified_gmt":"2025-04-23T09:55:24","slug":"kepler-390","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-390/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-390","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247128,"1":247127},"exo_id":"Kepler-390","st_optmag":14.231,"st_vj":14.231,"st_dist":435.277,"st_j":14.231,"st_mass":0.787,"dec":41.2088351,"st_teff":5166,"st_rad":0.776,"ra":291.6288086,"system_radius":15109384.87,"pl_hostname":"Kepler-390","stellar_type":"K","tic_id":"TIC 137340986","magnitude":14.231},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261030","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247128"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247127"}]}}
+{
+  "id": 261030,
+  "date": "2023-11-28T20:33:10",
+  "date_gmt": "2023-11-29T01:33:10",
+  "modified": "2025-04-23T05:55:24",
+  "modified_gmt": "2025-04-23T09:55:24",
+  "slug": "kepler-390",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-390/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-390",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247128,
+      "1": 247127
+    },
+    "exo_id": "Kepler-390",
+    "st_optmag": 14.231,
+    "st_vj": 14.231,
+    "st_dist": 435.277,
+    "st_j": 14.231,
+    "st_mass": 0.787,
+    "dec": 41.2088351,
+    "st_teff": 5166,
+    "st_rad": 0.776,
+    "ra": 291.6288086,
+    "system_radius": 15109384.87,
+    "pl_hostname": "Kepler-390",
+    "stellar_type": "K",
+    "tic_id": "TIC 137340986",
+    "magnitude": 14.231
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261030",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247128"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247127"
+      }
+    ]
+  }
+}

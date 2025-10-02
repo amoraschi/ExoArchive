@@ -1,1 +1,71 @@
-{"id":260786,"date":"2023-11-28T20:30:05","date_gmt":"2023-11-29T01:30:05","modified":"2025-04-23T05:53:43","modified_gmt":"2025-04-23T09:53:43","slug":"corot-21","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/corot-21/","featured_media":0,"categories":[],"acf":{"display_name":"CoRoT-21","custom_star_title":"","aliases":"","constellation":"Monoceros","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243486],"exo_id":"CoRoT-21","st_optmag":16.058,"st_vj":16.058,"st_dist":1398.83419686,"st_j":16.058,"st_mass":1.29,"dec":-0.2991544,"st_teff":6200,"st_rad":1.95,"ra":101.0526207,"system_radius":6238231.179,"pl_hostname":"CoRoT-21","stellar_type":"F","tic_id":"TIC 280420719","magnitude":16.058},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260786","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243486"}]}}
+{
+  "id": 260786,
+  "date": "2023-11-28T20:30:05",
+  "date_gmt": "2023-11-29T01:30:05",
+  "modified": "2025-04-23T05:53:43",
+  "modified_gmt": "2025-04-23T09:53:43",
+  "slug": "corot-21",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/corot-21/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CoRoT-21",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243486
+    ],
+    "exo_id": "CoRoT-21",
+    "st_optmag": 16.058,
+    "st_vj": 16.058,
+    "st_dist": 1398.83419686,
+    "st_j": 16.058,
+    "st_mass": 1.29,
+    "dec": -0.2991544,
+    "st_teff": 6200,
+    "st_rad": 1.95,
+    "ra": 101.0526207,
+    "system_radius": 6238231.179,
+    "pl_hostname": "CoRoT-21",
+    "stellar_type": "F",
+    "tic_id": "TIC 280420719",
+    "magnitude": 16.058
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260786",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243486"
+      }
+    ]
+  }
+}

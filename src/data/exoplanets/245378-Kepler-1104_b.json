@@ -1,1 +1,79 @@
-{"id":245378,"date":"2017-10-02T13:32:34","date_gmt":"2017-10-02T17:32:34","modified":"2025-03-28T07:32:18","modified_gmt":"2025-03-28T11:32:18","slug":"kepler-1104-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1104-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1104","pl_letter":"b","display_name":"Kepler-1104 b","planet_radius":"1.23 x Earth","derived_description":"Kepler-1104 b is a super Earth exoplanet that orbits a F-type star. Its mass is 2.04 Earths, it takes 5 days to complete one orbit of its star, and is 0.06321 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":530.658,"planet_mass":"2.04 Earths","st_optmag":12.125,"discovery_date":"2016","pl_orbsmax":0.06321,"period_display":"5 days","eccentricity":"0.0","star_id":262074,"pl_orbper":5.03728015,"pl_kepflag":true,"pl_radj":0.10973325,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.23,"exo_id":"Kepler-1104_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245378","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262074"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245378,
+  "date": "2017-10-02T13:32:34",
+  "date_gmt": "2017-10-02T17:32:34",
+  "modified": "2025-03-28T07:32:18",
+  "modified_gmt": "2025-03-28T11:32:18",
+  "slug": "kepler-1104-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1104-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1104",
+    "pl_letter": "b",
+    "display_name": "Kepler-1104 b",
+    "planet_radius": "1.23 x Earth",
+    "derived_description": "Kepler-1104 b is a super Earth exoplanet that orbits a F-type star. Its mass is 2.04 Earths, it takes 5 days to complete one orbit of its star, and is 0.06321 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 530.658,
+    "planet_mass": "2.04 Earths",
+    "st_optmag": 12.125,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.06321,
+    "period_display": "5 days",
+    "eccentricity": "0.0",
+    "star_id": 262074,
+    "pl_orbper": 5.03728015,
+    "pl_kepflag": true,
+    "pl_radj": 0.10973325,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.23,
+    "exo_id": "Kepler-1104_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245378",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262074"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

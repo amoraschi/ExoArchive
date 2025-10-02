@@ -1,1 +1,69 @@
-{"id":391288,"date":"2024-04-30T20:01:25","date_gmt":"2024-05-01T00:01:25","modified":"2025-04-23T05:57:35","modified_gmt":"2025-04-23T09:57:35","slug":"chi-cancri","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/chi-cancri/","featured_media":429647,"categories":[],"acf":{"display_name":"Chi Cancri","custom_star_title":"","aliases":"ChiCancri,HD69897,HR3262,GJ303,HD 69897,HR 3262,GJ 303","constellation":"Cancer","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Chi_Cancri","st_optmag":5.13,"st_vj":5.13,"st_dist":18.2233,"st_j":5.13,"st_mass":1.25,"dec":27.217705,"st_teff":6269,"st_rad":1.32,"ra":125.0160865,"system_radius":149597870,"pl_hostname":"Chi_Cancri","stellar_type":"F","tic_id":"TIC 302188141","magnitude":5.1},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391288","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429647"}]}}
+{
+  "id": 391288,
+  "date": "2024-04-30T20:01:25",
+  "date_gmt": "2024-05-01T00:01:25",
+  "modified": "2025-04-23T05:57:35",
+  "modified_gmt": "2025-04-23T09:57:35",
+  "slug": "chi-cancri",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/chi-cancri/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Chi Cancri",
+    "custom_star_title": "",
+    "aliases": "ChiCancri,HD69897,HR3262,GJ303,HD 69897,HR 3262,GJ 303",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Chi_Cancri",
+    "st_optmag": 5.13,
+    "st_vj": 5.13,
+    "st_dist": 18.2233,
+    "st_j": 5.13,
+    "st_mass": 1.25,
+    "dec": 27.217705,
+    "st_teff": 6269,
+    "st_rad": 1.32,
+    "ra": 125.0160865,
+    "system_radius": 149597870,
+    "pl_hostname": "Chi_Cancri",
+    "stellar_type": "F",
+    "tic_id": "TIC 302188141",
+    "magnitude": 5.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391288",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":245385,"date":"2017-10-02T13:32:59","date_gmt":"2017-10-02T17:32:59","modified":"2025-07-07T17:23:57","modified_gmt":"2025-07-07T21:23:57","slug":"kepler-110-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-110-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-110","pl_letter":"c","display_name":"Kepler-110 c","planet_radius":"2.21 x Earth","derived_description":"Kepler-110 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.52 Earths, it takes 31.7 days to complete one orbit of its star, and is 0.198 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":586.531,"planet_mass":"5.52 Earths","st_optmag":13.003,"discovery_date":"2014","pl_orbsmax":0.198,"period_display":"31.7 days","eccentricity":"0.0","star_id":262056,"pl_orbper":31.719775,"pl_kepflag":true,"pl_radj":0.197,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.21,"exo_id":"Kepler-110_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245385","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262056"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 245385,
+  "date": "2017-10-02T13:32:59",
+  "date_gmt": "2017-10-02T17:32:59",
+  "modified": "2025-07-07T17:23:57",
+  "modified_gmt": "2025-07-07T21:23:57",
+  "slug": "kepler-110-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-110-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-110",
+    "pl_letter": "c",
+    "display_name": "Kepler-110 c",
+    "planet_radius": "2.21 x Earth",
+    "derived_description": "Kepler-110 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.52 Earths, it takes 31.7 days to complete one orbit of its star, and is 0.198 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 586.531,
+    "planet_mass": "5.52 Earths",
+    "st_optmag": 13.003,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.198,
+    "period_display": "31.7 days",
+    "eccentricity": "0.0",
+    "star_id": 262056,
+    "pl_orbper": 31.719775,
+    "pl_kepflag": true,
+    "pl_radj": 0.197,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.21,
+    "exo_id": "Kepler-110_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245385",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262056"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

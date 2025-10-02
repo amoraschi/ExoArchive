@@ -1,1 +1,76 @@
-{"id":260796,"date":"2023-11-28T20:30:12","date_gmt":"2023-11-29T01:30:12","modified":"2025-04-23T05:53:44","modified_gmt":"2025-04-23T09:53:44","slug":"hd_92788","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_92788/","featured_media":0,"categories":[],"acf":{"display_name":"HD 92788","custom_star_title":"","aliases":"","constellation":"Sextans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":244589,"1":244588},"exo_id":"HD_92788","st_optmag":7.31637,"st_vj":7.31637,"st_dist":34.6538,"st_j":7.31637,"st_mass":1.15,"dec":-2.1847173,"st_teff":5744,"st_rad":1.14,"ra":160.7021351,"system_radius":1570777635,"pl_hostname":"HD_92788","stellar_type":"G","tic_id":"TIC 169248301","magnitude":7.31637},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260796","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244589"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244588"}]}}
+{
+  "id": 260796,
+  "date": "2023-11-28T20:30:12",
+  "date_gmt": "2023-11-29T01:30:12",
+  "modified": "2025-04-23T05:53:44",
+  "modified_gmt": "2025-04-23T09:53:44",
+  "slug": "hd_92788",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_92788/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 92788",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sextans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 244589,
+      "1": 244588
+    },
+    "exo_id": "HD_92788",
+    "st_optmag": 7.31637,
+    "st_vj": 7.31637,
+    "st_dist": 34.6538,
+    "st_j": 7.31637,
+    "st_mass": 1.15,
+    "dec": -2.1847173,
+    "st_teff": 5744,
+    "st_rad": 1.14,
+    "ra": 160.7021351,
+    "system_radius": 1570777635,
+    "pl_hostname": "HD_92788",
+    "stellar_type": "G",
+    "tic_id": "TIC 169248301",
+    "magnitude": 7.31637
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260796",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244589"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244588"
+      }
+    ]
+  }
+}

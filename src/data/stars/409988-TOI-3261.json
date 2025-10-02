@@ -1,1 +1,71 @@
-{"id":409988,"date":"2024-07-25T22:04:43","date_gmt":"2024-07-26T02:04:43","modified":"2025-04-23T05:53:45","modified_gmt":"2025-04-23T09:53:45","slug":"toi-3261","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-3261/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-3261","custom_star_title":"","aliases":"","constellation":"Hydrus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[410111],"exo_id":"TOI-3261","st_optmag":13.261,"st_vj":13.261,"st_dist":300.141,"st_j":13.261,"st_mass":0.861,"dec":-73.531972,"st_teff":5068,"st_rad":0.849,"ra":47.7285242,"system_radius":2564107.4918,"pl_hostname":"TOI-3261","stellar_type":"K","tic_id":"TIC 358070912","magnitude":13.261},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/409988","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/410111"}]}}
+{
+  "id": 409988,
+  "date": "2024-07-25T22:04:43",
+  "date_gmt": "2024-07-26T02:04:43",
+  "modified": "2025-04-23T05:53:45",
+  "modified_gmt": "2025-04-23T09:53:45",
+  "slug": "toi-3261",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3261/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3261",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      410111
+    ],
+    "exo_id": "TOI-3261",
+    "st_optmag": 13.261,
+    "st_vj": 13.261,
+    "st_dist": 300.141,
+    "st_j": 13.261,
+    "st_mass": 0.861,
+    "dec": -73.531972,
+    "st_teff": 5068,
+    "st_rad": 0.849,
+    "ra": 47.7285242,
+    "system_radius": 2564107.4918,
+    "pl_hostname": "TOI-3261",
+    "stellar_type": "K",
+    "tic_id": "TIC 358070912",
+    "magnitude": 13.261
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409988",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/410111"
+      }
+    ]
+  }
+}

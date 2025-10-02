@@ -1,1 +1,79 @@
-{"id":248071,"date":"2020-09-04T13:27:12","date_gmt":"2020-09-04T17:27:12","modified":"2024-10-24T20:12:27","modified_gmt":"2024-10-25T00:12:27","slug":"kmt-2019-blg-1953l-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kmt-2019-blg-1953l-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"KMT-2019-BLG-1953L","pl_letter":"b","display_name":"KMT-2019-BLG-1953L b","planet_radius":"1.26 x Jupiter (estimate)","derived_description":"KMT-2019-BLG-1953L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.64 Jupiters, it takes 365 days to complete one orbit of its star, and is 1 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Microlensing","pl_facility":"KMTNet","st_dist":7040,"planet_mass":"0.64 Jupiters","st_optmag":"","discovery_date":"2020","pl_orbsmax":"","period_display":"365 days","eccentricity":"","star_id":261277,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.26,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":14.1,"exo_id":"KMT-2019-BLG-1953L_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248071","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261277"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 248071,
+  "date": "2020-09-04T13:27:12",
+  "date_gmt": "2020-09-04T17:27:12",
+  "modified": "2024-10-24T20:12:27",
+  "modified_gmt": "2024-10-25T00:12:27",
+  "slug": "kmt-2019-blg-1953l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2019-blg-1953l-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2019-BLG-1953L",
+    "pl_letter": "b",
+    "display_name": "KMT-2019-BLG-1953L b",
+    "planet_radius": "1.26 x Jupiter (estimate)",
+    "derived_description": "KMT-2019-BLG-1953L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.64 Jupiters, it takes 365 days to complete one orbit of its star, and is 1 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 7040,
+    "planet_mass": "0.64 Jupiters",
+    "st_optmag": "",
+    "discovery_date": "2020",
+    "pl_orbsmax": "",
+    "period_display": "365 days",
+    "eccentricity": "",
+    "star_id": 261277,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.26,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 14.1,
+    "exo_id": "KMT-2019-BLG-1953L_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248071",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261277"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

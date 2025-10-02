@@ -1,1 +1,81 @@
-{"id":260445,"date":"2023-11-28T20:25:52","date_gmt":"2023-11-29T01:25:52","modified":"2025-04-23T05:54:00","modified_gmt":"2025-04-23T09:54:00","slug":"kepler-52","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-52/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-52","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247356,247357,247358],"exo_id":"Kepler-52","st_optmag":15.513,"st_vj":15.513,"st_dist":321.542,"st_j":15.513,"st_mass":0.54,"dec":49.9757383,"st_teff":4075,"st_rad":0.52,"ra":286.7380152,"system_radius":27226812.34,"pl_hostname":"Kepler-52","stellar_type":"K","tic_id":"TIC 399825554","magnitude":15.513},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260445","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247358"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247357"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247356"}]}}
+{
+  "id": 260445,
+  "date": "2023-11-28T20:25:52",
+  "date_gmt": "2023-11-29T01:25:52",
+  "modified": "2025-04-23T05:54:00",
+  "modified_gmt": "2025-04-23T09:54:00",
+  "slug": "kepler-52",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-52/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-52",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247356,
+      247357,
+      247358
+    ],
+    "exo_id": "Kepler-52",
+    "st_optmag": 15.513,
+    "st_vj": 15.513,
+    "st_dist": 321.542,
+    "st_j": 15.513,
+    "st_mass": 0.54,
+    "dec": 49.9757383,
+    "st_teff": 4075,
+    "st_rad": 0.52,
+    "ra": 286.7380152,
+    "system_radius": 27226812.34,
+    "pl_hostname": "Kepler-52",
+    "stellar_type": "K",
+    "tic_id": "TIC 399825554",
+    "magnitude": 15.513
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260445",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247358"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247357"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247356"
+      }
+    ]
+  }
+}

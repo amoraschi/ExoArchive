@@ -1,1 +1,79 @@
-{"id":243820,"date":"2020-08-14T13:27:11","date_gmt":"2020-08-14T17:27:11","modified":"2025-07-07T20:34:09","modified_gmt":"2025-07-08T00:34:09","slug":"hats-37-a-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-37-a-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-37_A","pl_letter":"b","display_name":"HATS-37 A b","planet_radius":"0.606 x Jupiter","derived_description":"HATS-37 A b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 31.46517 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.04913 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":211.896,"planet_mass":"31.46517 Earths","st_optmag":12.341,"discovery_date":"2020","pl_orbsmax":0.04913,"period_display":"4.3 days","eccentricity":"0.0","star_id":263881,"pl_orbper":4.3315366,"pl_kepflag":false,"pl_radj":0.606,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":6.792654,"exo_id":"HATS-37_A_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243820","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263881"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243820,
+  "date": "2020-08-14T13:27:11",
+  "date_gmt": "2020-08-14T17:27:11",
+  "modified": "2025-07-07T20:34:09",
+  "modified_gmt": "2025-07-08T00:34:09",
+  "slug": "hats-37-a-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-37-a-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-37_A",
+    "pl_letter": "b",
+    "display_name": "HATS-37 A b",
+    "planet_radius": "0.606 x Jupiter",
+    "derived_description": "HATS-37 A b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 31.46517 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.04913 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 211.896,
+    "planet_mass": "31.46517 Earths",
+    "st_optmag": 12.341,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.04913,
+    "period_display": "4.3 days",
+    "eccentricity": "0.0",
+    "star_id": 263881,
+    "pl_orbper": 4.3315366,
+    "pl_kepflag": false,
+    "pl_radj": 0.606,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 6.792654,
+    "exo_id": "HATS-37_A_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243820",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263881"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

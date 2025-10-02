@@ -1,1 +1,76 @@
-{"id":262056,"date":"2023-11-28T20:46:09","date_gmt":"2023-11-29T01:46:09","modified":"2025-04-23T05:55:12","modified_gmt":"2025-04-23T09:55:12","slug":"kepler-110","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-110/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-110","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":245385,"1":245384},"exo_id":"Kepler-110","st_optmag":13.003,"st_vj":13.003,"st_dist":586.531,"st_j":13.003,"st_mass":0.989,"dec":48.6028303,"st_teff":5960,"st_rad":1.149,"ra":292.9291693,"system_radius":29620378.26,"pl_hostname":"Kepler-110","stellar_type":"F","tic_id":"TIC 26751563","magnitude":13.003},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262056","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245385"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245384"}]}}
+{
+  "id": 262056,
+  "date": "2023-11-28T20:46:09",
+  "date_gmt": "2023-11-29T01:46:09",
+  "modified": "2025-04-23T05:55:12",
+  "modified_gmt": "2025-04-23T09:55:12",
+  "slug": "kepler-110",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-110/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-110",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 245385,
+      "1": 245384
+    },
+    "exo_id": "Kepler-110",
+    "st_optmag": 13.003,
+    "st_vj": 13.003,
+    "st_dist": 586.531,
+    "st_j": 13.003,
+    "st_mass": 0.989,
+    "dec": 48.6028303,
+    "st_teff": 5960,
+    "st_rad": 1.149,
+    "ra": 292.9291693,
+    "system_radius": 29620378.26,
+    "pl_hostname": "Kepler-110",
+    "stellar_type": "F",
+    "tic_id": "TIC 26751563",
+    "magnitude": 13.003
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262056",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245385"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245384"
+      }
+    ]
+  }
+}

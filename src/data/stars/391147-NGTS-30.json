@@ -1,1 +1,71 @@
-{"id":391147,"date":"2024-04-30T20:00:27","date_gmt":"2024-05-01T00:00:27","modified":"2025-04-23T05:54:21","modified_gmt":"2025-04-23T09:54:21","slug":"ngts-30","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ngts-30/","featured_media":0,"categories":[],"acf":{"display_name":"NGTS-30","custom_star_title":"","aliases":"","constellation":"Crater","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[391750],"exo_id":"NGTS-30","st_optmag":12.537,"st_vj":12.537,"st_dist":238.377,"st_j":12.537,"st_mass":0.94,"dec":-24.6054801,"st_teff":5455,"st_rad":0.913,"ra":173.714867,"system_radius":61035930.96,"pl_hostname":"NGTS-30","stellar_type":"G","tic_id":"TIC 322807371","magnitude":12.537},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391147","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/391750"}]}}
+{
+  "id": 391147,
+  "date": "2024-04-30T20:00:27",
+  "date_gmt": "2024-05-01T00:00:27",
+  "modified": "2025-04-23T05:54:21",
+  "modified_gmt": "2025-04-23T09:54:21",
+  "slug": "ngts-30",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-30/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-30",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Crater",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      391750
+    ],
+    "exo_id": "NGTS-30",
+    "st_optmag": 12.537,
+    "st_vj": 12.537,
+    "st_dist": 238.377,
+    "st_j": 12.537,
+    "st_mass": 0.94,
+    "dec": -24.6054801,
+    "st_teff": 5455,
+    "st_rad": 0.913,
+    "ra": 173.714867,
+    "system_radius": 61035930.96,
+    "pl_hostname": "NGTS-30",
+    "stellar_type": "G",
+    "tic_id": "TIC 322807371",
+    "magnitude": 12.537
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391147",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/391750"
+      }
+    ]
+  }
+}

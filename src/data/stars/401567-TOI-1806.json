@@ -1,1 +1,71 @@
-{"id":401567,"date":"2024-06-13T20:50:22","date_gmt":"2024-06-14T00:50:22","modified":"2025-04-23T05:55:45","modified_gmt":"2025-04-23T09:55:45","slug":"toi-1806","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1806/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1806","custom_star_title":"","aliases":"","constellation":"Leo Minor","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[401605],"exo_id":"TOI-1806","st_optmag":15.193,"st_vj":15.193,"st_dist":55.5211,"st_j":15.193,"st_mass":0.392935,"dec":30.4585763,"st_teff":3272,"st_rad":0.401575,"ra":166.1181474,"system_radius":13124975.706756,"pl_hostname":"TOI-1806","stellar_type":"M","tic_id":"TIC 166648874","magnitude":15.193},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/401567","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/401605"}]}}
+{
+  "id": 401567,
+  "date": "2024-06-13T20:50:22",
+  "date_gmt": "2024-06-14T00:50:22",
+  "modified": "2025-04-23T05:55:45",
+  "modified_gmt": "2025-04-23T09:55:45",
+  "slug": "toi-1806",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1806/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1806",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      401605
+    ],
+    "exo_id": "TOI-1806",
+    "st_optmag": 15.193,
+    "st_vj": 15.193,
+    "st_dist": 55.5211,
+    "st_j": 15.193,
+    "st_mass": 0.392935,
+    "dec": 30.4585763,
+    "st_teff": 3272,
+    "st_rad": 0.401575,
+    "ra": 166.1181474,
+    "system_radius": 13124975.706756,
+    "pl_hostname": "TOI-1806",
+    "stellar_type": "M",
+    "tic_id": "TIC 166648874",
+    "magnitude": 15.193
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/401567",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/401605"
+      }
+    ]
+  }
+}

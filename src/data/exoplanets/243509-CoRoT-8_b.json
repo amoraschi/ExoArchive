@@ -1,1 +1,79 @@
-{"id":243509,"date":"2016-03-16T19:26:20","date_gmt":"2016-03-16T23:26:20","modified":"2024-10-24T17:02:07","modified_gmt":"2024-10-24T21:02:07","slug":"corot-8-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/corot-8-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"CoRoT-8","pl_letter":"b","display_name":"CoRoT-8 b","planet_radius":"0.57 x Jupiter","derived_description":"CoRoT-8 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.22 Jupiters, it takes 6.2 days to complete one orbit of its star, and is 0.063 AU from its star. Its discovery was announced in 2010.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"CoRoT","st_dist":322.037,"planet_mass":"0.22 Jupiters","st_optmag":14.792,"discovery_date":"2010","pl_orbsmax":0.063,"period_display":"6.2 days","eccentricity":"0.0","star_id":264112,"pl_orbper":6.21229,"pl_kepflag":false,"pl_radj":0.57,"pl_disc":2010,"pl_publ_date":"2010","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":6.39,"exo_id":"CoRoT-8_b","planet_size_class":"sub-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243509","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264112"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243509,
+  "date": "2016-03-16T19:26:20",
+  "date_gmt": "2016-03-16T23:26:20",
+  "modified": "2024-10-24T17:02:07",
+  "modified_gmt": "2024-10-24T21:02:07",
+  "slug": "corot-8-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/corot-8-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "CoRoT-8",
+    "pl_letter": "b",
+    "display_name": "CoRoT-8 b",
+    "planet_radius": "0.57 x Jupiter",
+    "derived_description": "CoRoT-8 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.22 Jupiters, it takes 6.2 days to complete one orbit of its star, and is 0.063 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "CoRoT",
+    "st_dist": 322.037,
+    "planet_mass": "0.22 Jupiters",
+    "st_optmag": 14.792,
+    "discovery_date": "2010",
+    "pl_orbsmax": 0.063,
+    "period_display": "6.2 days",
+    "eccentricity": "0.0",
+    "star_id": 264112,
+    "pl_orbper": 6.21229,
+    "pl_kepflag": false,
+    "pl_radj": 0.57,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 6.39,
+    "exo_id": "CoRoT-8_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243509",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264112"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

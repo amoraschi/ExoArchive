@@ -1,1 +1,71 @@
-{"id":263588,"date":"2023-11-28T21:05:34","date_gmt":"2023-11-29T02:05:34","modified":"2025-04-23T05:57:00","modified_gmt":"2025-04-23T09:57:00","slug":"hd_4917","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_4917/","featured_media":0,"categories":[],"acf":{"display_name":"HD 4917","custom_star_title":"","aliases":"","constellation":"Cetus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244467],"exo_id":"HD_4917","st_optmag":8.03,"st_vj":8.03,"st_dist":204.277,"st_j":8.03,"st_mass":1.32,"dec":-12.9276648,"st_teff":4802,"st_rad":5.01,"ra":12.7762624,"system_radius":174580714.29,"pl_hostname":"HD_4917","stellar_type":"K","tic_id":"TIC 77481104","magnitude":8.03},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263588","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244467"}]}}
+{
+  "id": 263588,
+  "date": "2023-11-28T21:05:34",
+  "date_gmt": "2023-11-29T02:05:34",
+  "modified": "2025-04-23T05:57:00",
+  "modified_gmt": "2025-04-23T09:57:00",
+  "slug": "hd_4917",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_4917/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 4917",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244467
+    ],
+    "exo_id": "HD_4917",
+    "st_optmag": 8.03,
+    "st_vj": 8.03,
+    "st_dist": 204.277,
+    "st_j": 8.03,
+    "st_mass": 1.32,
+    "dec": -12.9276648,
+    "st_teff": 4802,
+    "st_rad": 5.01,
+    "ra": 12.7762624,
+    "system_radius": 174580714.29,
+    "pl_hostname": "HD_4917",
+    "stellar_type": "K",
+    "tic_id": "TIC 77481104",
+    "magnitude": 8.03
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263588",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244467"
+      }
+    ]
+  }
+}

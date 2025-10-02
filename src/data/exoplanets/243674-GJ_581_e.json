@@ -1,1 +1,79 @@
-{"id":243674,"date":"2019-04-22T16:48:35","date_gmt":"2019-04-22T20:48:35","modified":"2025-07-07T20:39:16","modified_gmt":"2025-07-08T00:39:16","slug":"gj-581-e","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-581-e/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_581","pl_letter":"e","display_name":"GJ 581 e","planet_radius":"1.38 x Earth (estimate)","derived_description":"GJ 581 e is a super Earth exoplanet that orbits a M-type star. Its mass is 2.48 Earths, it takes 3.1 days to complete one orbit of its star, and is 0.02799 AU from its star. Its discovery was announced in 2009.","planet_type":"Super Earth","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":6.2981,"planet_mass":"2.48 Earths","st_optmag":10.57,"discovery_date":"2009","pl_orbsmax":0.02799,"period_display":"3.1 days","eccentricity":"0.01","star_id":260475,"pl_orbper":3.1481,"pl_kepflag":false,"pl_radj":0.123,"pl_disc":2009,"pl_publ_date":"2009","planet_orbit_period":226,"multiple_planet_system":false,"pl_rade":1.38,"exo_id":"GJ_581_e","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0.012},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243674","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260475"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 243674,
+  "date": "2019-04-22T16:48:35",
+  "date_gmt": "2019-04-22T20:48:35",
+  "modified": "2025-07-07T20:39:16",
+  "modified_gmt": "2025-07-08T00:39:16",
+  "slug": "gj-581-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-581-e/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_581",
+    "pl_letter": "e",
+    "display_name": "GJ 581 e",
+    "planet_radius": "1.38 x Earth (estimate)",
+    "derived_description": "GJ 581 e is a super Earth exoplanet that orbits a M-type star. Its mass is 2.48 Earths, it takes 3.1 days to complete one orbit of its star, and is 0.02799 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 6.2981,
+    "planet_mass": "2.48 Earths",
+    "st_optmag": 10.57,
+    "discovery_date": "2009",
+    "pl_orbsmax": 0.02799,
+    "period_display": "3.1 days",
+    "eccentricity": "0.01",
+    "star_id": 260475,
+    "pl_orbper": 3.1481,
+    "pl_kepflag": false,
+    "pl_radj": 0.123,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 226,
+    "multiple_planet_system": false,
+    "pl_rade": 1.38,
+    "exo_id": "GJ_581_e",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.012
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243674",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260475"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

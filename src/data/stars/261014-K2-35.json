@@ -1,1 +1,76 @@
-{"id":261014,"date":"2023-11-28T20:32:58","date_gmt":"2023-11-29T01:32:58","modified":"2025-04-23T05:56:17","modified_gmt":"2025-04-23T09:56:17","slug":"k2-35","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-35/","featured_media":0,"categories":[],"acf":{"display_name":"K2-35","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245050,245051],"exo_id":"K2-35","st_optmag":14.166,"st_vj":14.166,"st_dist":252.596,"st_j":14.166,"st_mass":0.701968,"dec":1.2858679,"st_teff":4402.71,"st_rad":0.619575,"ra":170.1031027,"system_radius":8227882.85,"pl_hostname":"K2-35","stellar_type":"K","tic_id":"TIC 363478257","magnitude":14.166},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261014","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245051"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245050"}]}}
+{
+  "id": 261014,
+  "date": "2023-11-28T20:32:58",
+  "date_gmt": "2023-11-29T01:32:58",
+  "modified": "2025-04-23T05:56:17",
+  "modified_gmt": "2025-04-23T09:56:17",
+  "slug": "k2-35",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-35/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-35",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245050,
+      245051
+    ],
+    "exo_id": "K2-35",
+    "st_optmag": 14.166,
+    "st_vj": 14.166,
+    "st_dist": 252.596,
+    "st_j": 14.166,
+    "st_mass": 0.701968,
+    "dec": 1.2858679,
+    "st_teff": 4402.71,
+    "st_rad": 0.619575,
+    "ra": 170.1031027,
+    "system_radius": 8227882.85,
+    "pl_hostname": "K2-35",
+    "stellar_type": "K",
+    "tic_id": "TIC 363478257",
+    "magnitude": 14.166
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261014",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245051"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245050"
+      }
+    ]
+  }
+}

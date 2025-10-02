@@ -1,1 +1,79 @@
-{"id":439676,"date":"2024-12-13T02:36:52","date_gmt":"2024-12-13T07:36:52","modified":"2025-07-07T20:41:54","modified_gmt":"2025-07-08T00:41:54","slug":"toi-2458-c","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-2458-c/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-2458","pl_letter":"c","display_name":"TOI-2458 c","planet_radius":"0.283 x Jupiter (estimate)","derived_description":"TOI-2458 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.22 Earths, it takes 16.6 days to complete one orbit of its star, and is 0.129 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"La Silla Observatory","st_dist":112.958,"planet_mass":"10.22 Earths","st_optmag":9.202,"discovery_date":"2024","pl_orbsmax":0.129,"period_display":"16.6 days","eccentricity":"0.29","star_id":439626,"pl_orbper":16.553,"pl_kepflag":false,"pl_radj":0.283,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":4.3,"multiple_planet_system":false,"pl_rade":3.18,"exo_id":"TOI-2458_c","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.29},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/439676","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/439626"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 439676,
+  "date": "2024-12-13T02:36:52",
+  "date_gmt": "2024-12-13T07:36:52",
+  "modified": "2025-07-07T20:41:54",
+  "modified_gmt": "2025-07-08T00:41:54",
+  "slug": "toi-2458-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-2458-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-2458",
+    "pl_letter": "c",
+    "display_name": "TOI-2458 c",
+    "planet_radius": "0.283 x Jupiter (estimate)",
+    "derived_description": "TOI-2458 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.22 Earths, it takes 16.6 days to complete one orbit of its star, and is 0.129 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 112.958,
+    "planet_mass": "10.22 Earths",
+    "st_optmag": 9.202,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.129,
+    "period_display": "16.6 days",
+    "eccentricity": "0.29",
+    "star_id": 439626,
+    "pl_orbper": 16.553,
+    "pl_kepflag": false,
+    "pl_radj": 0.283,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 4.3,
+    "multiple_planet_system": false,
+    "pl_rade": 3.18,
+    "exo_id": "TOI-2458_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.29
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/439676",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/439626"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

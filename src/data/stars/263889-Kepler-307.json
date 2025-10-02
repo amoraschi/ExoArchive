@@ -1,1 +1,76 @@
-{"id":263889,"date":"2023-11-28T21:09:31","date_gmt":"2023-11-29T02:09:31","modified":"2025-04-23T05:56:44","modified_gmt":"2025-04-23T09:56:44","slug":"kepler-307","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-307/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-307","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246905,246906],"exo_id":"Kepler-307","st_optmag":14.149,"st_vj":14.149,"st_dist":575.581,"st_j":14.149,"st_mass":0.907,"dec":40.4176403,"st_teff":5367,"st_rad":0.814,"ra":297.7950939,"system_radius":16300183.9152,"pl_hostname":"Kepler-307","stellar_type":"G","tic_id":"TIC 169930145","magnitude":14.149},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263889","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246906"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246905"}]}}
+{
+  "id": 263889,
+  "date": "2023-11-28T21:09:31",
+  "date_gmt": "2023-11-29T02:09:31",
+  "modified": "2025-04-23T05:56:44",
+  "modified_gmt": "2025-04-23T09:56:44",
+  "slug": "kepler-307",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-307/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-307",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246905,
+      246906
+    ],
+    "exo_id": "Kepler-307",
+    "st_optmag": 14.149,
+    "st_vj": 14.149,
+    "st_dist": 575.581,
+    "st_j": 14.149,
+    "st_mass": 0.907,
+    "dec": 40.4176403,
+    "st_teff": 5367,
+    "st_rad": 0.814,
+    "ra": 297.7950939,
+    "system_radius": 16300183.9152,
+    "pl_hostname": "Kepler-307",
+    "stellar_type": "G",
+    "tic_id": "TIC 169930145",
+    "magnitude": 14.149
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263889",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246906"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246905"
+      }
+    ]
+  }
+}

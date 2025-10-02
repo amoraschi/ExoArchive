@@ -1,1 +1,79 @@
-{"id":247739,"date":"2017-10-02T13:32:51","date_gmt":"2017-10-02T17:32:51","modified":"2025-07-07T20:40:19","modified_gmt":"2025-07-08T00:40:19","slug":"kepler-804-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-804-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-804","pl_letter":"b","display_name":"Kepler-804 b","planet_radius":"1.94 x Earth","derived_description":"Kepler-804 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.42 Earths, it takes 14.4 days to complete one orbit of its star, and is 0.11287 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":649.65,"planet_mass":"4.42 Earths","st_optmag":13.864,"discovery_date":"2016","pl_orbsmax":0.11287,"period_display":"14.4 days","eccentricity":"0.0","star_id":260829,"pl_orbper":14.37457351,"pl_kepflag":true,"pl_radj":0.17307521,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.94,"exo_id":"Kepler-804_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247739","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260829"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247739,
+  "date": "2017-10-02T13:32:51",
+  "date_gmt": "2017-10-02T17:32:51",
+  "modified": "2025-07-07T20:40:19",
+  "modified_gmt": "2025-07-08T00:40:19",
+  "slug": "kepler-804-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-804-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-804",
+    "pl_letter": "b",
+    "display_name": "Kepler-804 b",
+    "planet_radius": "1.94 x Earth",
+    "derived_description": "Kepler-804 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.42 Earths, it takes 14.4 days to complete one orbit of its star, and is 0.11287 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 649.65,
+    "planet_mass": "4.42 Earths",
+    "st_optmag": 13.864,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.11287,
+    "period_display": "14.4 days",
+    "eccentricity": "0.0",
+    "star_id": 260829,
+    "pl_orbper": 14.37457351,
+    "pl_kepflag": true,
+    "pl_radj": 0.17307521,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.94,
+    "exo_id": "Kepler-804_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247739",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260829"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

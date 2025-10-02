@@ -1,1 +1,81 @@
-{"id":263723,"date":"2023-11-28T21:07:19","date_gmt":"2023-11-29T02:07:19","modified":"2025-04-23T05:54:08","modified_gmt":"2025-04-23T09:54:08","slug":"kepler-529","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-529/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-529","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247355,"1":247353,"2":247354},"exo_id":"Kepler-529","st_optmag":13.779,"st_vj":13.779,"st_dist":799.008,"st_j":13.779,"st_mass":1.07,"dec":47.880364,"st_teff":6087,"st_rad":1.14,"ra":285.8884067,"system_radius":31924185.458,"pl_hostname":"Kepler-529","stellar_type":"F","tic_id":"TIC 158108219","magnitude":13.779},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263723","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247355"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247354"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247353"}]}}
+{
+  "id": 263723,
+  "date": "2023-11-28T21:07:19",
+  "date_gmt": "2023-11-29T02:07:19",
+  "modified": "2025-04-23T05:54:08",
+  "modified_gmt": "2025-04-23T09:54:08",
+  "slug": "kepler-529",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-529/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-529",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247355,
+      "1": 247353,
+      "2": 247354
+    },
+    "exo_id": "Kepler-529",
+    "st_optmag": 13.779,
+    "st_vj": 13.779,
+    "st_dist": 799.008,
+    "st_j": 13.779,
+    "st_mass": 1.07,
+    "dec": 47.880364,
+    "st_teff": 6087,
+    "st_rad": 1.14,
+    "ra": 285.8884067,
+    "system_radius": 31924185.458,
+    "pl_hostname": "Kepler-529",
+    "stellar_type": "F",
+    "tic_id": "TIC 158108219",
+    "magnitude": 13.779
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263723",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247355"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247354"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247353"
+      }
+    ]
+  }
+}

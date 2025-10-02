@@ -1,1 +1,76 @@
-{"id":262127,"date":"2023-11-28T20:47:03","date_gmt":"2023-11-29T01:47:03","modified":"2025-04-23T05:54:35","modified_gmt":"2025-04-23T09:54:35","slug":"kepler-361","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-361/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-361","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247057,247058],"exo_id":"Kepler-361","st_optmag":13.635,"st_vj":13.635,"st_dist":930.32,"st_j":13.635,"st_mass":1.191,"dec":46.7411011,"st_teff":6169,"st_rad":1.343,"ra":296.8034146,"system_radius":44879361,"pl_hostname":"Kepler-361","stellar_type":"F","tic_id":"TIC 272601590","magnitude":13.635},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262127","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247058"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247057"}]}}
+{
+  "id": 262127,
+  "date": "2023-11-28T20:47:03",
+  "date_gmt": "2023-11-29T01:47:03",
+  "modified": "2025-04-23T05:54:35",
+  "modified_gmt": "2025-04-23T09:54:35",
+  "slug": "kepler-361",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-361/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-361",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247057,
+      247058
+    ],
+    "exo_id": "Kepler-361",
+    "st_optmag": 13.635,
+    "st_vj": 13.635,
+    "st_dist": 930.32,
+    "st_j": 13.635,
+    "st_mass": 1.191,
+    "dec": 46.7411011,
+    "st_teff": 6169,
+    "st_rad": 1.343,
+    "ra": 296.8034146,
+    "system_radius": 44879361,
+    "pl_hostname": "Kepler-361",
+    "stellar_type": "F",
+    "tic_id": "TIC 272601590",
+    "magnitude": 13.635
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262127",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247058"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247057"
+      }
+    ]
+  }
+}

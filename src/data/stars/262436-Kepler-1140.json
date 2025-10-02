@@ -1,1 +1,71 @@
-{"id":262436,"date":"2023-11-28T20:50:58","date_gmt":"2023-11-29T01:50:58","modified":"2025-04-23T05:57:09","modified_gmt":"2025-04-23T09:57:09","slug":"kepler-1140","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1140/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1140","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245427],"exo_id":"Kepler-1140","st_optmag":15.751,"st_vj":15.751,"st_dist":656.48,"st_j":15.751,"st_mass":0.76,"dec":46.946521,"st_teff":4850,"st_rad":0.73,"ra":281.6940529,"system_radius":22110565.186,"pl_hostname":"Kepler-1140","stellar_type":"K","tic_id":"TIC 123359347","magnitude":15.751},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262436","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245427"}]}}
+{
+  "id": 262436,
+  "date": "2023-11-28T20:50:58",
+  "date_gmt": "2023-11-29T01:50:58",
+  "modified": "2025-04-23T05:57:09",
+  "modified_gmt": "2025-04-23T09:57:09",
+  "slug": "kepler-1140",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1140/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1140",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245427
+    ],
+    "exo_id": "Kepler-1140",
+    "st_optmag": 15.751,
+    "st_vj": 15.751,
+    "st_dist": 656.48,
+    "st_j": 15.751,
+    "st_mass": 0.76,
+    "dec": 46.946521,
+    "st_teff": 4850,
+    "st_rad": 0.73,
+    "ra": 281.6940529,
+    "system_radius": 22110565.186,
+    "pl_hostname": "Kepler-1140",
+    "stellar_type": "K",
+    "tic_id": "TIC 123359347",
+    "magnitude": 15.751
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262436",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245427"
+      }
+    ]
+  }
+}

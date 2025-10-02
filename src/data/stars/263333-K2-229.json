@@ -1,1 +1,76 @@
-{"id":263333,"date":"2023-11-28T21:02:20","date_gmt":"2023-11-29T02:02:20","modified":"2025-04-23T05:54:14","modified_gmt":"2025-04-23T09:54:14","slug":"k2-229","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-229/","featured_media":0,"categories":[],"acf":{"display_name":"K2-229","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244898,244899],"exo_id":"K2-229","st_optmag":10.985,"st_vj":10.985,"st_dist":102.564,"st_j":10.985,"st_mass":0.87,"dec":-6.7218474,"st_teff":5315,"st_rad":0.79,"ra":186.8729195,"system_radius":11504076.203,"pl_hostname":"K2-229","stellar_type":"G","tic_id":"TIC 98720809","magnitude":10.985},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263333","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244899"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244898"}]}}
+{
+  "id": 263333,
+  "date": "2023-11-28T21:02:20",
+  "date_gmt": "2023-11-29T02:02:20",
+  "modified": "2025-04-23T05:54:14",
+  "modified_gmt": "2025-04-23T09:54:14",
+  "slug": "k2-229",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-229/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-229",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244898,
+      244899
+    ],
+    "exo_id": "K2-229",
+    "st_optmag": 10.985,
+    "st_vj": 10.985,
+    "st_dist": 102.564,
+    "st_j": 10.985,
+    "st_mass": 0.87,
+    "dec": -6.7218474,
+    "st_teff": 5315,
+    "st_rad": 0.79,
+    "ra": 186.8729195,
+    "system_radius": 11504076.203,
+    "pl_hostname": "K2-229",
+    "stellar_type": "G",
+    "tic_id": "TIC 98720809",
+    "magnitude": 10.985
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263333",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244899"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244898"
+      }
+    ]
+  }
+}

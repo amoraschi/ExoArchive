@@ -1,1 +1,86 @@
-{"id":262017,"date":"2023-11-28T20:45:38","date_gmt":"2023-11-29T01:45:38","modified":"2025-06-13T07:33:37","modified_gmt":"2025-06-13T11:33:37","slug":"toi-1246","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1246/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1246","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248422,248423,248424,248425],"exo_id":"TOI-1246","st_optmag":11.632,"st_vj":11.632,"st_dist":169.422,"st_j":11.632,"st_mass":0.8889,"dec":70.4299917,"st_teff":5213,"st_rad":0.8649,"ra":251.1158702,"system_radius":31714748.44,"pl_hostname":"TOI-1246","stellar_type":"K","tic_id":"TIC 230127302","magnitude":11.632},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262017","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248425"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248424"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248423"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248422"}]}}
+{
+  "id": 262017,
+  "date": "2023-11-28T20:45:38",
+  "date_gmt": "2023-11-29T01:45:38",
+  "modified": "2025-06-13T07:33:37",
+  "modified_gmt": "2025-06-13T11:33:37",
+  "slug": "toi-1246",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1246/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1246",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248422,
+      248423,
+      248424,
+      248425
+    ],
+    "exo_id": "TOI-1246",
+    "st_optmag": 11.632,
+    "st_vj": 11.632,
+    "st_dist": 169.422,
+    "st_j": 11.632,
+    "st_mass": 0.8889,
+    "dec": 70.4299917,
+    "st_teff": 5213,
+    "st_rad": 0.8649,
+    "ra": 251.1158702,
+    "system_radius": 31714748.44,
+    "pl_hostname": "TOI-1246",
+    "stellar_type": "K",
+    "tic_id": "TIC 230127302",
+    "magnitude": 11.632
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262017",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248425"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248424"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248423"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248422"
+      }
+    ]
+  }
+}

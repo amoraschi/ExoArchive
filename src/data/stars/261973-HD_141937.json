@@ -1,1 +1,71 @@
-{"id":261973,"date":"2023-11-28T20:45:05","date_gmt":"2023-11-29T01:45:05","modified":"2025-04-23T05:55:15","modified_gmt":"2025-04-23T09:55:15","slug":"hd_141937","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_141937/","featured_media":0,"categories":[],"acf":{"display_name":"HD 141937","custom_star_title":"","aliases":"","constellation":"Libra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244030],"exo_id":"HD_141937","st_optmag":7.25,"st_vj":7.25,"st_dist":33.3622,"st_j":7.25,"st_mass":1.09,"dec":-18.4359716,"st_teff":5870,"st_rad":1.03,"ra":238.0735585,"system_radius":224396805,"pl_hostname":"HD_141937","stellar_type":"G","tic_id":"TIC 437430894","magnitude":7.25},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261973","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244030"}]}}
+{
+  "id": 261973,
+  "date": "2023-11-28T20:45:05",
+  "date_gmt": "2023-11-29T01:45:05",
+  "modified": "2025-04-23T05:55:15",
+  "modified_gmt": "2025-04-23T09:55:15",
+  "slug": "hd_141937",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_141937/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 141937",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Libra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244030
+    ],
+    "exo_id": "HD_141937",
+    "st_optmag": 7.25,
+    "st_vj": 7.25,
+    "st_dist": 33.3622,
+    "st_j": 7.25,
+    "st_mass": 1.09,
+    "dec": -18.4359716,
+    "st_teff": 5870,
+    "st_rad": 1.03,
+    "ra": 238.0735585,
+    "system_radius": 224396805,
+    "pl_hostname": "HD_141937",
+    "stellar_type": "G",
+    "tic_id": "TIC 437430894",
+    "magnitude": 7.25
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261973",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244030"
+      }
+    ]
+  }
+}

@@ -1,1 +1,76 @@
-{"id":262807,"date":"2023-11-28T20:55:42","date_gmt":"2023-11-29T01:55:42","modified":"2025-04-23T05:54:32","modified_gmt":"2025-04-23T09:54:32","slug":"kepler-264","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-264/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-264","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246799,246800],"exo_id":"Kepler-264","st_optmag":13.15,"st_vj":13.15,"st_dist":942.173,"st_j":13.15,"st_mass":1.426,"dec":37.3761861,"st_teff":6158,"st_rad":1.55,"ra":292.044628,"system_radius":84672394.42,"pl_hostname":"Kepler-264","stellar_type":"F","tic_id":"TIC 137347078","magnitude":13.15},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262807","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246800"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246799"}]}}
+{
+  "id": 262807,
+  "date": "2023-11-28T20:55:42",
+  "date_gmt": "2023-11-29T01:55:42",
+  "modified": "2025-04-23T05:54:32",
+  "modified_gmt": "2025-04-23T09:54:32",
+  "slug": "kepler-264",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-264/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-264",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246799,
+      246800
+    ],
+    "exo_id": "Kepler-264",
+    "st_optmag": 13.15,
+    "st_vj": 13.15,
+    "st_dist": 942.173,
+    "st_j": 13.15,
+    "st_mass": 1.426,
+    "dec": 37.3761861,
+    "st_teff": 6158,
+    "st_rad": 1.55,
+    "ra": 292.044628,
+    "system_radius": 84672394.42,
+    "pl_hostname": "Kepler-264",
+    "stellar_type": "F",
+    "tic_id": "TIC 137347078",
+    "magnitude": 13.15
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262807",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246800"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246799"
+      }
+    ]
+  }
+}

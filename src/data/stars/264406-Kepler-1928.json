@@ -1,1 +1,71 @@
-{"id":264406,"date":"2023-11-28T21:16:08","date_gmt":"2023-11-29T02:16:08","modified":"2025-04-23T05:54:31","modified_gmt":"2025-04-23T09:54:31","slug":"kepler-1928","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1928/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1928","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[246505],"exo_id":"Kepler-1928","st_optmag":12.679,"st_vj":12.679,"st_dist":326.362,"st_j":12.679,"st_mass":1.01,"dec":38.5235721,"st_teff":5720,"st_rad":0.92,"ra":290.4406294,"system_radius":29021986.78,"pl_hostname":"Kepler-1928","stellar_type":"G","tic_id":"TIC 122450696","magnitude":12.679},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/264406","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/246505"}]}}
+{
+  "id": 264406,
+  "date": "2023-11-28T21:16:08",
+  "date_gmt": "2023-11-29T02:16:08",
+  "modified": "2025-04-23T05:54:31",
+  "modified_gmt": "2025-04-23T09:54:31",
+  "slug": "kepler-1928",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1928/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1928",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      246505
+    ],
+    "exo_id": "Kepler-1928",
+    "st_optmag": 12.679,
+    "st_vj": 12.679,
+    "st_dist": 326.362,
+    "st_j": 12.679,
+    "st_mass": 1.01,
+    "dec": 38.5235721,
+    "st_teff": 5720,
+    "st_rad": 0.92,
+    "ra": 290.4406294,
+    "system_radius": 29021986.78,
+    "pl_hostname": "Kepler-1928",
+    "stellar_type": "G",
+    "tic_id": "TIC 122450696",
+    "magnitude": 12.679
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264406",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/246505"
+      }
+    ]
+  }
+}

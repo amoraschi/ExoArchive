@@ -1,1 +1,71 @@
-{"id":262249,"date":"2023-11-28T20:48:36","date_gmt":"2023-11-29T01:48:36","modified":"2025-04-23T05:55:15","modified_gmt":"2025-04-23T09:55:15","slug":"hats-14","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hats-14/","featured_media":0,"categories":[],"acf":{"display_name":"HATS-14","custom_star_title":"","aliases":"","constellation":"Capricornus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243798],"exo_id":"HATS-14","st_optmag":14.052,"st_vj":14.052,"st_dist":513.011,"st_j":14.052,"st_mass":0.967,"dec":-25.6873756,"st_teff":5346,"st_rad":0.933,"ra":313.2154754,"system_radius":5707158.7405,"pl_hostname":"HATS-14","stellar_type":"G","tic_id":"TIC 29344935","magnitude":14.052},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262249","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243798"}]}}
+{
+  "id": 262249,
+  "date": "2023-11-28T20:48:36",
+  "date_gmt": "2023-11-29T01:48:36",
+  "modified": "2025-04-23T05:55:15",
+  "modified_gmt": "2025-04-23T09:55:15",
+  "slug": "hats-14",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hats-14/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HATS-14",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Capricornus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243798
+    ],
+    "exo_id": "HATS-14",
+    "st_optmag": 14.052,
+    "st_vj": 14.052,
+    "st_dist": 513.011,
+    "st_j": 14.052,
+    "st_mass": 0.967,
+    "dec": -25.6873756,
+    "st_teff": 5346,
+    "st_rad": 0.933,
+    "ra": 313.2154754,
+    "system_radius": 5707158.7405,
+    "pl_hostname": "HATS-14",
+    "stellar_type": "G",
+    "tic_id": "TIC 29344935",
+    "magnitude": 14.052
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262249",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243798"
+      }
+    ]
+  }
+}

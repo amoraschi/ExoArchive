@@ -1,1 +1,76 @@
-{"id":262643,"date":"2023-11-28T20:53:35","date_gmt":"2023-11-29T01:53:35","modified":"2025-04-23T05:54:28","modified_gmt":"2025-04-23T09:54:28","slug":"kepler-119","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-119/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-119","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245504,245505],"exo_id":"Kepler-119","st_optmag":14.375,"st_vj":14.375,"st_dist":701.996,"st_j":14.375,"st_mass":0.918,"dec":42.6588324,"st_teff":5595,"st_rad":0.839,"ra":295.9463854,"system_radius":7330295.63,"pl_hostname":"Kepler-119","stellar_type":"G","tic_id":"TIC 271964647","magnitude":14.375},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262643","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245505"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245504"}]}}
+{
+  "id": 262643,
+  "date": "2023-11-28T20:53:35",
+  "date_gmt": "2023-11-29T01:53:35",
+  "modified": "2025-04-23T05:54:28",
+  "modified_gmt": "2025-04-23T09:54:28",
+  "slug": "kepler-119",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-119/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-119",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245504,
+      245505
+    ],
+    "exo_id": "Kepler-119",
+    "st_optmag": 14.375,
+    "st_vj": 14.375,
+    "st_dist": 701.996,
+    "st_j": 14.375,
+    "st_mass": 0.918,
+    "dec": 42.6588324,
+    "st_teff": 5595,
+    "st_rad": 0.839,
+    "ra": 295.9463854,
+    "system_radius": 7330295.63,
+    "pl_hostname": "Kepler-119",
+    "stellar_type": "G",
+    "tic_id": "TIC 271964647",
+    "magnitude": 14.375
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262643",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245505"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245504"
+      }
+    ]
+  }
+}

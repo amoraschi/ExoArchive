@@ -1,1 +1,71 @@
-{"id":261984,"date":"2023-11-28T20:45:14","date_gmt":"2023-11-29T01:45:14","modified":"2025-06-06T07:19:40","modified_gmt":"2025-06-06T11:19:40","slug":"koi-13","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/koi-13/","featured_media":0,"categories":[],"acf":{"display_name":"KOI-13","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248104],"exo_id":"KOI-13","st_optmag":9.791,"st_vj":9.791,"st_dist":519.096,"st_j":9.791,"st_mass":1.72,"dec":46.8682463,"st_teff":7650,"st_rad":1.74,"ra":286.9713876,"system_radius":5446858.4467,"pl_hostname":"KOI-13","stellar_type":"A","tic_id":"TIC 158324245","magnitude":9.791},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261984","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248104"}]}}
+{
+  "id": 261984,
+  "date": "2023-11-28T20:45:14",
+  "date_gmt": "2023-11-29T01:45:14",
+  "modified": "2025-06-06T07:19:40",
+  "modified_gmt": "2025-06-06T11:19:40",
+  "slug": "koi-13",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-13/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-13",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248104
+    ],
+    "exo_id": "KOI-13",
+    "st_optmag": 9.791,
+    "st_vj": 9.791,
+    "st_dist": 519.096,
+    "st_j": 9.791,
+    "st_mass": 1.72,
+    "dec": 46.8682463,
+    "st_teff": 7650,
+    "st_rad": 1.74,
+    "ra": 286.9713876,
+    "system_radius": 5446858.4467,
+    "pl_hostname": "KOI-13",
+    "stellar_type": "A",
+    "tic_id": "TIC 158324245",
+    "magnitude": 9.791
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261984",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248104"
+      }
+    ]
+  }
+}

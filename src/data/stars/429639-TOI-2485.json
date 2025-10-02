@@ -1,1 +1,71 @@
-{"id":429639,"date":"2024-10-18T00:41:09","date_gmt":"2024-10-18T04:41:09","modified":"2025-04-23T05:55:18","modified_gmt":"2025-04-23T09:55:18","slug":"toi-2485","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2485/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2485","custom_star_title":"","aliases":"","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[429658],"exo_id":"TOI-2485","st_optmag":11.935,"st_vj":11.935,"st_dist":397.953,"st_j":11.935,"st_mass":1.163,"dec":22.9839692,"st_teff":6016.4,"st_rad":1.72,"ra":205.2043217,"system_radius":16351047.191,"pl_hostname":"TOI-2485","stellar_type":"F","tic_id":"TIC 328934463","magnitude":11.935},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/429639","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/429658"}]}}
+{
+  "id": 429639,
+  "date": "2024-10-18T00:41:09",
+  "date_gmt": "2024-10-18T04:41:09",
+  "modified": "2025-04-23T05:55:18",
+  "modified_gmt": "2025-04-23T09:55:18",
+  "slug": "toi-2485",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2485/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2485",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      429658
+    ],
+    "exo_id": "TOI-2485",
+    "st_optmag": 11.935,
+    "st_vj": 11.935,
+    "st_dist": 397.953,
+    "st_j": 11.935,
+    "st_mass": 1.163,
+    "dec": 22.9839692,
+    "st_teff": 6016.4,
+    "st_rad": 1.72,
+    "ra": 205.2043217,
+    "system_radius": 16351047.191,
+    "pl_hostname": "TOI-2485",
+    "stellar_type": "F",
+    "tic_id": "TIC 328934463",
+    "magnitude": 11.935
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/429639",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/429658"
+      }
+    ]
+  }
+}

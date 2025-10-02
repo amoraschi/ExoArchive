@@ -1,1 +1,76 @@
-{"id":262923,"date":"2023-11-28T20:57:11","date_gmt":"2023-11-29T01:57:11","modified":"2025-04-23T05:55:26","modified_gmt":"2025-04-23T09:55:26","slug":"kepler-539","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-539/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-539","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247369,247370],"exo_id":"Kepler-539","st_optmag":12.444,"st_vj":12.444,"st_dist":307.318,"st_j":12.444,"st_mass":1.048,"dec":41.8667953,"st_teff":5820,"st_rad":0.952,"ra":299.1224639,"system_radius":362026845.4,"pl_hostname":"Kepler-539","stellar_type":"G","tic_id":"TIC 171510762","magnitude":12.444},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262923","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247370"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247369"}]}}
+{
+  "id": 262923,
+  "date": "2023-11-28T20:57:11",
+  "date_gmt": "2023-11-29T01:57:11",
+  "modified": "2025-04-23T05:55:26",
+  "modified_gmt": "2025-04-23T09:55:26",
+  "slug": "kepler-539",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-539/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-539",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247369,
+      247370
+    ],
+    "exo_id": "Kepler-539",
+    "st_optmag": 12.444,
+    "st_vj": 12.444,
+    "st_dist": 307.318,
+    "st_j": 12.444,
+    "st_mass": 1.048,
+    "dec": 41.8667953,
+    "st_teff": 5820,
+    "st_rad": 0.952,
+    "ra": 299.1224639,
+    "system_radius": 362026845.4,
+    "pl_hostname": "Kepler-539",
+    "stellar_type": "G",
+    "tic_id": "TIC 171510762",
+    "magnitude": 12.444
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262923",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247370"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247369"
+      }
+    ]
+  }
+}

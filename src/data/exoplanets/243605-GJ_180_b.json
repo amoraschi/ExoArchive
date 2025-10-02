@@ -1,1 +1,79 @@
-{"id":243605,"date":"2019-10-12T13:26:53","date_gmt":"2019-10-12T17:26:53","modified":"2025-07-07T20:41:16","modified_gmt":"2025-07-08T00:41:16","slug":"gj-180-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/gj-180-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"GJ_180","pl_letter":"b","display_name":"GJ 180 b","planet_radius":"0.217 x Jupiter (estimate)","derived_description":"GJ 180 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 6.49 Earths, it takes 17.1 days to complete one orbit of its star, and is 0.092 AU from its star. Its discovery was announced in 2014.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":11.9407,"planet_mass":"6.49 Earths","st_optmag":10.914,"discovery_date":"2014","pl_orbsmax":0.092,"period_display":"17.1 days","eccentricity":"0.07","star_id":260517,"pl_orbper":17.133,"pl_kepflag":false,"pl_radj":0.217,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":276,"multiple_planet_system":false,"pl_rade":2.43,"exo_id":"GJ_180_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0.07},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243605","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260517"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 243605,
+  "date": "2019-10-12T13:26:53",
+  "date_gmt": "2019-10-12T17:26:53",
+  "modified": "2025-07-07T20:41:16",
+  "modified_gmt": "2025-07-08T00:41:16",
+  "slug": "gj-180-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-180-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_180",
+    "pl_letter": "b",
+    "display_name": "GJ 180 b",
+    "planet_radius": "0.217 x Jupiter (estimate)",
+    "derived_description": "GJ 180 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 6.49 Earths, it takes 17.1 days to complete one orbit of its star, and is 0.092 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 11.9407,
+    "planet_mass": "6.49 Earths",
+    "st_optmag": 10.914,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.092,
+    "period_display": "17.1 days",
+    "eccentricity": "0.07",
+    "star_id": 260517,
+    "pl_orbper": 17.133,
+    "pl_kepflag": false,
+    "pl_radj": 0.217,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": 276,
+    "multiple_planet_system": false,
+    "pl_rade": 2.43,
+    "exo_id": "GJ_180_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.07
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243605",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260517"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,71 @@
-{"id":263289,"date":"2023-11-28T21:01:46","date_gmt":"2023-11-29T02:01:46","modified":"2025-04-23T05:53:18","modified_gmt":"2025-04-23T09:53:18","slug":"wasp-127","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-127/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-127","custom_star_title":"","aliases":"","constellation":"Sextans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248766],"exo_id":"WASP-127","st_optmag":10.148,"st_vj":10.148,"st_dist":159.507,"st_j":10.148,"st_mass":0.95,"dec":-3.8349989,"st_teff":5620,"st_rad":1.333,"ra":160.5587646,"system_radius":7240536.908,"pl_hostname":"WASP-127","stellar_type":"G","tic_id":"TIC 169226822","magnitude":10.148},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263289","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248766"}]}}
+{
+  "id": 263289,
+  "date": "2023-11-28T21:01:46",
+  "date_gmt": "2023-11-29T02:01:46",
+  "modified": "2025-04-23T05:53:18",
+  "modified_gmt": "2025-04-23T09:53:18",
+  "slug": "wasp-127",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-127/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-127",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sextans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248766
+    ],
+    "exo_id": "WASP-127",
+    "st_optmag": 10.148,
+    "st_vj": 10.148,
+    "st_dist": 159.507,
+    "st_j": 10.148,
+    "st_mass": 0.95,
+    "dec": -3.8349989,
+    "st_teff": 5620,
+    "st_rad": 1.333,
+    "ra": 160.5587646,
+    "system_radius": 7240536.908,
+    "pl_hostname": "WASP-127",
+    "stellar_type": "G",
+    "tic_id": "TIC 169226822",
+    "magnitude": 10.148
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263289",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248766"
+      }
+    ]
+  }
+}

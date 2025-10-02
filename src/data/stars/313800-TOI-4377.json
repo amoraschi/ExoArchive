@@ -1,1 +1,71 @@
-{"id":313800,"date":"2024-03-02T15:00:51","date_gmt":"2024-03-02T20:00:51","modified":"2025-04-23T05:55:59","modified_gmt":"2025-04-23T09:55:59","slug":"toi-4377","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4377/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4377","custom_star_title":"","aliases":"","constellation":"Chamaeleon","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[313874],"exo_id":"TOI-4377","st_optmag":11.707,"st_vj":11.707,"st_dist":455.82,"st_j":11.707,"st_mass":1.36,"dec":-82.2213501,"st_teff":4974,"st_rad":3.52,"ra":164.9324709,"system_radius":8661716.673,"pl_hostname":"TOI-4377","stellar_type":"K","tic_id":"TIC 394918211","magnitude":11.707},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/313800","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/313874"}]}}
+{
+  "id": 313800,
+  "date": "2024-03-02T15:00:51",
+  "date_gmt": "2024-03-02T20:00:51",
+  "modified": "2025-04-23T05:55:59",
+  "modified_gmt": "2025-04-23T09:55:59",
+  "slug": "toi-4377",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4377/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4377",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Chamaeleon",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      313874
+    ],
+    "exo_id": "TOI-4377",
+    "st_optmag": 11.707,
+    "st_vj": 11.707,
+    "st_dist": 455.82,
+    "st_j": 11.707,
+    "st_mass": 1.36,
+    "dec": -82.2213501,
+    "st_teff": 4974,
+    "st_rad": 3.52,
+    "ra": 164.9324709,
+    "system_radius": 8661716.673,
+    "pl_hostname": "TOI-4377",
+    "stellar_type": "K",
+    "tic_id": "TIC 394918211",
+    "magnitude": 11.707
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/313800",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313874"
+      }
+    ]
+  }
+}

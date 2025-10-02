@@ -1,1 +1,71 @@
-{"id":263929,"date":"2023-11-28T21:10:01","date_gmt":"2023-11-29T02:10:01","modified":"2025-04-23T05:57:13","modified_gmt":"2025-04-23T09:57:13","slug":"1rxs_j1609291-210524","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/1rxs_j1609291-210524/","featured_media":0,"categories":[],"acf":{"display_name":"1RXS J160929.1-210524","custom_star_title":"","aliases":"","constellation":"Scorpius","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243392],"exo_id":"1RXS_J160929.1-210524","st_optmag":12.618,"st_vj":12.618,"st_dist":139.135,"st_j":12.618,"st_mass":0.85,"dec":-21.0831403,"st_teff":4060,"st_rad":1.31316,"ra":242.3762343,"system_radius":49367297100,"pl_hostname":"1RXS_J160929.1-210524","stellar_type":"K","tic_id":"TIC 48964101","magnitude":12.618},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263929","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243392"}]}}
+{
+  "id": 263929,
+  "date": "2023-11-28T21:10:01",
+  "date_gmt": "2023-11-29T02:10:01",
+  "modified": "2025-04-23T05:57:13",
+  "modified_gmt": "2025-04-23T09:57:13",
+  "slug": "1rxs_j1609291-210524",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/1rxs_j1609291-210524/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "1RXS J160929.1-210524",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243392
+    ],
+    "exo_id": "1RXS_J160929.1-210524",
+    "st_optmag": 12.618,
+    "st_vj": 12.618,
+    "st_dist": 139.135,
+    "st_j": 12.618,
+    "st_mass": 0.85,
+    "dec": -21.0831403,
+    "st_teff": 4060,
+    "st_rad": 1.31316,
+    "ra": 242.3762343,
+    "system_radius": 49367297100,
+    "pl_hostname": "1RXS_J160929.1-210524",
+    "stellar_type": "K",
+    "tic_id": "TIC 48964101",
+    "magnitude": 12.618
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263929",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243392"
+      }
+    ]
+  }
+}

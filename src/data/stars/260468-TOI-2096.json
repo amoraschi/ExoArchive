@@ -1,1 +1,76 @@
-{"id":260468,"date":"2023-11-28T20:26:10","date_gmt":"2023-11-29T01:26:10","modified":"2025-04-23T05:54:06","modified_gmt":"2025-04-23T09:54:06","slug":"toi-2096","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2096/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2096","custom_star_title":"","aliases":"","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248523,248524],"exo_id":"TOI-2096","st_optmag":15.92,"st_vj":15.92,"st_dist":48.4809,"st_j":15.92,"st_mass":0.231,"dec":74.8272107,"st_teff":3300,"st_rad":0.235,"ra":151.6186989,"system_radius":5983914.8,"pl_hostname":"TOI-2096","stellar_type":"M","tic_id":"TIC 142748283","magnitude":15.92},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260468","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248524"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248523"}]}}
+{
+  "id": 260468,
+  "date": "2023-11-28T20:26:10",
+  "date_gmt": "2023-11-29T01:26:10",
+  "modified": "2025-04-23T05:54:06",
+  "modified_gmt": "2025-04-23T09:54:06",
+  "slug": "toi-2096",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2096/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2096",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248523,
+      248524
+    ],
+    "exo_id": "TOI-2096",
+    "st_optmag": 15.92,
+    "st_vj": 15.92,
+    "st_dist": 48.4809,
+    "st_j": 15.92,
+    "st_mass": 0.231,
+    "dec": 74.8272107,
+    "st_teff": 3300,
+    "st_rad": 0.235,
+    "ra": 151.6186989,
+    "system_radius": 5983914.8,
+    "pl_hostname": "TOI-2096",
+    "stellar_type": "M",
+    "tic_id": "TIC 142748283",
+    "magnitude": 15.92
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260468",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248524"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248523"
+      }
+    ]
+  }
+}

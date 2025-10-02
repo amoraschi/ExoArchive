@@ -1,1 +1,71 @@
-{"id":262048,"date":"2023-11-28T20:46:02","date_gmt":"2023-11-29T01:46:02","modified":"2025-04-23T05:55:20","modified_gmt":"2025-04-23T09:55:20","slug":"hd_95127","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_95127/","featured_media":0,"categories":[],"acf":{"display_name":"HD 95127","custom_star_title":"","aliases":"","constellation":"Ursa Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244605],"exo_id":"HD_95127","st_optmag":8.15,"st_vj":8.15,"st_dist":676.579,"st_j":8.15,"st_mass":3.7,"dec":43.8144094,"st_teff":4218,"st_rad":41.01,"ra":164.8961152,"system_radius":191485273.6,"pl_hostname":"HD_95127","stellar_type":"K","tic_id":"TIC 252794572","magnitude":8.15},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262048","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244605"}]}}
+{
+  "id": 262048,
+  "date": "2023-11-28T20:46:02",
+  "date_gmt": "2023-11-29T01:46:02",
+  "modified": "2025-04-23T05:55:20",
+  "modified_gmt": "2025-04-23T09:55:20",
+  "slug": "hd_95127",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_95127/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 95127",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244605
+    ],
+    "exo_id": "HD_95127",
+    "st_optmag": 8.15,
+    "st_vj": 8.15,
+    "st_dist": 676.579,
+    "st_j": 8.15,
+    "st_mass": 3.7,
+    "dec": 43.8144094,
+    "st_teff": 4218,
+    "st_rad": 41.01,
+    "ra": 164.8961152,
+    "system_radius": 191485273.6,
+    "pl_hostname": "HD_95127",
+    "stellar_type": "K",
+    "tic_id": "TIC 252794572",
+    "magnitude": 8.15
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262048",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244605"
+      }
+    ]
+  }
+}

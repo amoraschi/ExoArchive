@@ -1,1 +1,76 @@
-{"id":261888,"date":"2023-11-28T20:43:59","date_gmt":"2023-11-29T01:43:59","modified":"2025-06-06T07:19:36","modified_gmt":"2025-06-06T11:19:36","slug":"wasp-148","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-148/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-148","custom_star_title":"","aliases":"","constellation":"Hercules","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248785,248786],"exo_id":"WASP-148","st_optmag":12.036,"st_vj":12.036,"st_dist":246.353,"st_j":12.036,"st_mass":0.954,"dec":44.3025361,"st_teff":5555,"st_rad":0.912,"ra":254.1305022,"system_radius":30577804.628,"pl_hostname":"WASP-148","stellar_type":"G","tic_id":"TIC 115524421","magnitude":12.036},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261888","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248786"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248785"}]}}
+{
+  "id": 261888,
+  "date": "2023-11-28T20:43:59",
+  "date_gmt": "2023-11-29T01:43:59",
+  "modified": "2025-06-06T07:19:36",
+  "modified_gmt": "2025-06-06T11:19:36",
+  "slug": "wasp-148",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-148/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-148",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248785,
+      248786
+    ],
+    "exo_id": "WASP-148",
+    "st_optmag": 12.036,
+    "st_vj": 12.036,
+    "st_dist": 246.353,
+    "st_j": 12.036,
+    "st_mass": 0.954,
+    "dec": 44.3025361,
+    "st_teff": 5555,
+    "st_rad": 0.912,
+    "ra": 254.1305022,
+    "system_radius": 30577804.628,
+    "pl_hostname": "WASP-148",
+    "stellar_type": "G",
+    "tic_id": "TIC 115524421",
+    "magnitude": 12.036
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261888",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248786"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248785"
+      }
+    ]
+  }
+}

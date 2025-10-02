@@ -1,1 +1,79 @@
-{"id":245980,"date":"2016-05-10T14:50:09","date_gmt":"2016-05-10T18:50:09","modified":"2025-03-28T07:21:19","modified_gmt":"2025-03-28T11:21:19","slug":"kepler-1537-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1537-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1537","pl_letter":"b","display_name":"Kepler-1537 b","planet_radius":"1.18 x Earth","derived_description":"Kepler-1537 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.76 Earths, it takes 1.4 days to complete one orbit of its star, and is 0.0245 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":517.292,"planet_mass":"1.76 Earths","st_optmag":14.827,"discovery_date":"2016","pl_orbsmax":0.0245,"period_display":"1.4 days","eccentricity":"0.0","star_id":264063,"pl_orbper":1.444453798,"pl_kepflag":true,"pl_radj":0.10527255,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.18,"exo_id":"Kepler-1537_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245980","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264063"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245980,
+  "date": "2016-05-10T14:50:09",
+  "date_gmt": "2016-05-10T18:50:09",
+  "modified": "2025-03-28T07:21:19",
+  "modified_gmt": "2025-03-28T11:21:19",
+  "slug": "kepler-1537-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1537-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1537",
+    "pl_letter": "b",
+    "display_name": "Kepler-1537 b",
+    "planet_radius": "1.18 x Earth",
+    "derived_description": "Kepler-1537 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.76 Earths, it takes 1.4 days to complete one orbit of its star, and is 0.0245 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 517.292,
+    "planet_mass": "1.76 Earths",
+    "st_optmag": 14.827,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0245,
+    "period_display": "1.4 days",
+    "eccentricity": "0.0",
+    "star_id": 264063,
+    "pl_orbper": 1.444453798,
+    "pl_kepflag": true,
+    "pl_radj": 0.10527255,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.18,
+    "exo_id": "Kepler-1537_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245980",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264063"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

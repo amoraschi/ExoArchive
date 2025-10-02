@@ -1,1 +1,79 @@
-{"id":245911,"date":"2016-03-16T19:26:22","date_gmt":"2016-03-16T23:26:22","modified":"2025-07-07T15:24:35","modified_gmt":"2025-07-07T19:24:35","slug":"kepler-148-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-148-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-148","pl_letter":"b","display_name":"Kepler-148 b","planet_radius":"1.8 x Earth","derived_description":"Kepler-148 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.89 Earths, it takes 1.7 days to complete one orbit of its star, and is 0.028 AU from its star. Its discovery was announced in 2014.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":791.163,"planet_mass":"3.89 Earths","st_optmag":15.398,"discovery_date":"2014","pl_orbsmax":0.028,"period_display":"1.7 days","eccentricity":"0.0","star_id":261390,"pl_orbper":1.729366,"pl_kepflag":true,"pl_radj":0.161,"pl_disc":2014,"pl_publ_date":"2014","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.8,"exo_id":"Kepler-148_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245911","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261390"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245911,
+  "date": "2016-03-16T19:26:22",
+  "date_gmt": "2016-03-16T23:26:22",
+  "modified": "2025-07-07T15:24:35",
+  "modified_gmt": "2025-07-07T19:24:35",
+  "slug": "kepler-148-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-148-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-148",
+    "pl_letter": "b",
+    "display_name": "Kepler-148 b",
+    "planet_radius": "1.8 x Earth",
+    "derived_description": "Kepler-148 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.89 Earths, it takes 1.7 days to complete one orbit of its star, and is 0.028 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 791.163,
+    "planet_mass": "3.89 Earths",
+    "st_optmag": 15.398,
+    "discovery_date": "2014",
+    "pl_orbsmax": 0.028,
+    "period_display": "1.7 days",
+    "eccentricity": "0.0",
+    "star_id": 261390,
+    "pl_orbper": 1.729366,
+    "pl_kepflag": true,
+    "pl_radj": 0.161,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.8,
+    "exo_id": "Kepler-148_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245911",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261390"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

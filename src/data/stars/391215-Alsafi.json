@@ -1,1 +1,69 @@
-{"id":391215,"date":"2024-04-30T20:01:19","date_gmt":"2024-05-01T00:01:19","modified":"2025-04-23T05:57:29","modified_gmt":"2025-04-23T09:57:29","slug":"alsafi","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/alsafi/","featured_media":429649,"categories":[],"acf":{"display_name":"Alsafi","custom_star_title":"","aliases":"SigmaDraconis,Sigma Draconis,HD 185144,HR 7462,GJ 764","constellation":"Draco","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[],"exo_id":"Alsafi","st_optmag":4.672,"st_vj":4.672,"st_dist":5.7639,"st_j":4.672,"st_mass":0.87,"dec":69.6611766,"st_teff":5298,"st_rad":0.782,"ra":293.0899592,"system_radius":149597870,"pl_hostname":"Alsafi","stellar_type":"K","tic_id":"TIC 259237827","magnitude":4.7},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/391215","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/429649"}]}}
+{
+  "id": 391215,
+  "date": "2024-04-30T20:01:19",
+  "date_gmt": "2024-05-01T00:01:19",
+  "modified": "2025-04-23T05:57:29",
+  "modified_gmt": "2025-04-23T09:57:29",
+  "slug": "alsafi",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/alsafi/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Alsafi",
+    "custom_star_title": "",
+    "aliases": "SigmaDraconis,Sigma Draconis,HD 185144,HR 7462,GJ 764",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "Alsafi",
+    "st_optmag": 4.672,
+    "st_vj": 4.672,
+    "st_dist": 5.7639,
+    "st_j": 4.672,
+    "st_mass": 0.87,
+    "dec": 69.6611766,
+    "st_teff": 5298,
+    "st_rad": 0.782,
+    "ra": 293.0899592,
+    "system_radius": 149597870,
+    "pl_hostname": "Alsafi",
+    "stellar_type": "K",
+    "tic_id": "TIC 259237827",
+    "magnitude": 4.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391215",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

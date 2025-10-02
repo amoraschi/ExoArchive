@@ -1,1 +1,71 @@
-{"id":387710,"date":"2024-04-16T11:54:16","date_gmt":"2024-04-16T15:54:16","modified":"2025-04-23T05:55:33","modified_gmt":"2025-04-23T09:55:33","slug":"toi-1135","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-1135/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-1135","custom_star_title":"","aliases":"","constellation":"Camelopardalis","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[387763],"exo_id":"TOI-1135","st_optmag":9.54,"st_vj":9.54,"st_dist":114.048,"st_j":9.54,"st_mass":1.156039,"dec":85.1294952,"st_teff":5962.7,"st_rad":1.15,"ra":193.3963704,"system_radius":12317500.110132,"pl_hostname":"TOI-1135","stellar_type":"F","tic_id":"TIC 154872375","magnitude":9.54},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/387710","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/387763"}]}}
+{
+  "id": 387710,
+  "date": "2024-04-16T11:54:16",
+  "date_gmt": "2024-04-16T15:54:16",
+  "modified": "2025-04-23T05:55:33",
+  "modified_gmt": "2025-04-23T09:55:33",
+  "slug": "toi-1135",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1135/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1135",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Camelopardalis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      387763
+    ],
+    "exo_id": "TOI-1135",
+    "st_optmag": 9.54,
+    "st_vj": 9.54,
+    "st_dist": 114.048,
+    "st_j": 9.54,
+    "st_mass": 1.156039,
+    "dec": 85.1294952,
+    "st_teff": 5962.7,
+    "st_rad": 1.15,
+    "ra": 193.3963704,
+    "system_radius": 12317500.110132,
+    "pl_hostname": "TOI-1135",
+    "stellar_type": "F",
+    "tic_id": "TIC 154872375",
+    "magnitude": 9.54
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/387710",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/387763"
+      }
+    ]
+  }
+}

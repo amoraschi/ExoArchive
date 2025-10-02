@@ -1,1 +1,79 @@
-{"id":245512,"date":"2017-10-02T13:32:46","date_gmt":"2017-10-02T17:32:46","modified":"2025-07-07T17:57:39","modified_gmt":"2025-07-07T21:57:39","slug":"kepler-1200-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-1200-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-1200","pl_letter":"b","display_name":"Kepler-1200 b","planet_radius":"1.06 x Earth","derived_description":"Kepler-1200 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.2 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.0188 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":588.715,"planet_mass":"1.2 Earths","st_optmag":16.06,"discovery_date":"2016","pl_orbsmax":0.0188,"period_display":"1.1 days","eccentricity":"0.0","star_id":262060,"pl_orbper":1.118549717,"pl_kepflag":true,"pl_radj":0.09456687,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.06,"exo_id":"Kepler-1200_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245512","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/262060"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 245512,
+  "date": "2017-10-02T13:32:46",
+  "date_gmt": "2017-10-02T17:32:46",
+  "modified": "2025-07-07T17:57:39",
+  "modified_gmt": "2025-07-07T21:57:39",
+  "slug": "kepler-1200-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-1200-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-1200",
+    "pl_letter": "b",
+    "display_name": "Kepler-1200 b",
+    "planet_radius": "1.06 x Earth",
+    "derived_description": "Kepler-1200 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.2 Earths, it takes 1.1 days to complete one orbit of its star, and is 0.0188 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 588.715,
+    "planet_mass": "1.2 Earths",
+    "st_optmag": 16.06,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0188,
+    "period_display": "1.1 days",
+    "eccentricity": "0.0",
+    "star_id": 262060,
+    "pl_orbper": 1.118549717,
+    "pl_kepflag": true,
+    "pl_radj": 0.09456687,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.06,
+    "exo_id": "Kepler-1200_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245512",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262060"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

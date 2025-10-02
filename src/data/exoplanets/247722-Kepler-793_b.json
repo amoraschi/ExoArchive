@@ -1,1 +1,79 @@
-{"id":247722,"date":"2017-10-02T13:32:51","date_gmt":"2017-10-02T17:32:51","modified":"2025-03-28T07:29:15","modified_gmt":"2025-03-28T11:29:15","slug":"kepler-793-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/kepler-793-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"Kepler-793","pl_letter":"b","display_name":"Kepler-793 b","planet_radius":"1.37 x Earth","derived_description":"Kepler-793 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.45 Earths, it takes 4.2 days to complete one orbit of its star, and is 0.0491 AU from its star. Its discovery was announced in 2016.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Kepler","st_dist":985.699,"planet_mass":"2.45 Earths","st_optmag":14.742,"discovery_date":"2016","pl_orbsmax":0.0491,"period_display":"4.2 days","eccentricity":"0.0","star_id":261768,"pl_orbper":4.24153639,"pl_kepflag":true,"pl_radj":0.12222321,"pl_disc":2016,"pl_publ_date":"2016","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.37,"exo_id":"Kepler-793_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247722","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261768"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 247722,
+  "date": "2017-10-02T13:32:51",
+  "date_gmt": "2017-10-02T17:32:51",
+  "modified": "2025-03-28T07:29:15",
+  "modified_gmt": "2025-03-28T11:29:15",
+  "slug": "kepler-793-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kepler-793-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-793",
+    "pl_letter": "b",
+    "display_name": "Kepler-793 b",
+    "planet_radius": "1.37 x Earth",
+    "derived_description": "Kepler-793 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.45 Earths, it takes 4.2 days to complete one orbit of its star, and is 0.0491 AU from its star. Its discovery was announced in 2016.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Kepler",
+    "st_dist": 985.699,
+    "planet_mass": "2.45 Earths",
+    "st_optmag": 14.742,
+    "discovery_date": "2016",
+    "pl_orbsmax": 0.0491,
+    "period_display": "4.2 days",
+    "eccentricity": "0.0",
+    "star_id": 261768,
+    "pl_orbper": 4.24153639,
+    "pl_kepflag": true,
+    "pl_radj": 0.12222321,
+    "pl_disc": 2016,
+    "pl_publ_date": "2016",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.37,
+    "exo_id": "Kepler-793_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247722",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261768"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

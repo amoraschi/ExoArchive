@@ -1,1 +1,71 @@
-{"id":261377,"date":"2023-11-28T20:37:35","date_gmt":"2023-11-29T01:37:35","modified":"2025-04-23T05:55:21","modified_gmt":"2025-04-23T09:55:21","slug":"kepler-1184","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-1184/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-1184","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245486],"exo_id":"Kepler-1184","st_optmag":14.99,"st_vj":14.99,"st_dist":1157.84,"st_j":14.99,"st_mass":1.05,"dec":46.9659514,"st_teff":5983,"st_rad":1.07,"ra":291.282031,"system_radius":42829870.181,"pl_hostname":"Kepler-1184","stellar_type":"F","tic_id":"TIC 159725400","magnitude":14.99},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261377","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245486"}]}}
+{
+  "id": 261377,
+  "date": "2023-11-28T20:37:35",
+  "date_gmt": "2023-11-29T01:37:35",
+  "modified": "2025-04-23T05:55:21",
+  "modified_gmt": "2025-04-23T09:55:21",
+  "slug": "kepler-1184",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-1184/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-1184",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245486
+    ],
+    "exo_id": "Kepler-1184",
+    "st_optmag": 14.99,
+    "st_vj": 14.99,
+    "st_dist": 1157.84,
+    "st_j": 14.99,
+    "st_mass": 1.05,
+    "dec": 46.9659514,
+    "st_teff": 5983,
+    "st_rad": 1.07,
+    "ra": 291.282031,
+    "system_radius": 42829870.181,
+    "pl_hostname": "Kepler-1184",
+    "stellar_type": "F",
+    "tic_id": "TIC 159725400",
+    "magnitude": 14.99
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261377",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245486"
+      }
+    ]
+  }
+}

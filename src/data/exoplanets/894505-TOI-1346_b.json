@@ -1,1 +1,79 @@
-{"id":894505,"date":"2025-08-14T22:10:38","date_gmt":"2025-08-15T02:10:38","modified":"2025-08-14T22:10:38","modified_gmt":"2025-08-15T02:10:38","slug":"toi-1346-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1346-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1346","pl_letter":"b","display_name":"TOI-1346 b","planet_radius":"0.21322189 x Jupiter","derived_description":"TOI-1346 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.3 Earths, it takes 1.8 days to complete one orbit of its star, and is 0.026725042021321 AU from its star. Its discovery was announced in 2025.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":115.45,"planet_mass":"6.3 Earths","st_optmag":11.693,"discovery_date":"2025","pl_orbsmax":"","period_display":"1.8 days","eccentricity":"","star_id":894451,"pl_orbper":1.7622538,"pl_kepflag":false,"pl_radj":0.21322189,"pl_disc":2025,"pl_publ_date":"2025","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.39,"exo_id":"TOI-1346_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/894505","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/894451"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 894505,
+  "date": "2025-08-14T22:10:38",
+  "date_gmt": "2025-08-15T02:10:38",
+  "modified": "2025-08-14T22:10:38",
+  "modified_gmt": "2025-08-15T02:10:38",
+  "slug": "toi-1346-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1346-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1346",
+    "pl_letter": "b",
+    "display_name": "TOI-1346 b",
+    "planet_radius": "0.21322189 x Jupiter",
+    "derived_description": "TOI-1346 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.3 Earths, it takes 1.8 days to complete one orbit of its star, and is 0.026725042021321 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 115.45,
+    "planet_mass": "6.3 Earths",
+    "st_optmag": 11.693,
+    "discovery_date": "2025",
+    "pl_orbsmax": "",
+    "period_display": "1.8 days",
+    "eccentricity": "",
+    "star_id": 894451,
+    "pl_orbper": 1.7622538,
+    "pl_kepflag": false,
+    "pl_radj": 0.21322189,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.39,
+    "exo_id": "TOI-1346_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/894505",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/894451"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

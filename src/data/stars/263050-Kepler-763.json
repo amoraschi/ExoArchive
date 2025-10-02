@@ -1,1 +1,81 @@
-{"id":263050,"date":"2023-11-28T20:58:47","date_gmt":"2023-11-29T01:58:47","modified":"2025-04-23T05:53:55","modified_gmt":"2025-04-23T09:53:55","slug":"kepler-763","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-763/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-763","custom_star_title":"","aliases":"","constellation":"Cygnus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247683,"1":247684,"2":247682},"exo_id":"Kepler-763","st_optmag":15.965,"st_vj":15.965,"st_dist":962.459,"st_j":15.965,"st_mass":0.84,"dec":47.1573604,"st_teff":5166,"st_rad":0.8,"ra":292.1445534,"system_radius":9484504.958,"pl_hostname":"Kepler-763","stellar_type":"K","tic_id":"TIC 63130782","magnitude":15.965},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263050","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247684"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247683"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247682"}]}}
+{
+  "id": 263050,
+  "date": "2023-11-28T20:58:47",
+  "date_gmt": "2023-11-29T01:58:47",
+  "modified": "2025-04-23T05:53:55",
+  "modified_gmt": "2025-04-23T09:53:55",
+  "slug": "kepler-763",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-763/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-763",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247683,
+      "1": 247684,
+      "2": 247682
+    },
+    "exo_id": "Kepler-763",
+    "st_optmag": 15.965,
+    "st_vj": 15.965,
+    "st_dist": 962.459,
+    "st_j": 15.965,
+    "st_mass": 0.84,
+    "dec": 47.1573604,
+    "st_teff": 5166,
+    "st_rad": 0.8,
+    "ra": 292.1445534,
+    "system_radius": 9484504.958,
+    "pl_hostname": "Kepler-763",
+    "stellar_type": "K",
+    "tic_id": "TIC 63130782",
+    "magnitude": 15.965
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263050",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247684"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247683"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247682"
+      }
+    ]
+  }
+}

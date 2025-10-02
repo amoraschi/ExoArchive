@@ -1,1 +1,71 @@
-{"id":262332,"date":"2023-11-28T20:49:38","date_gmt":"2023-11-29T01:49:38","modified":"2025-04-23T05:56:04","modified_gmt":"2025-04-23T09:56:04","slug":"hd_10697","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_10697/","featured_media":0,"categories":[],"acf":{"display_name":"HD 10697","custom_star_title":"","aliases":"","constellation":"Pisces","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243904],"exo_id":"HD_10697","st_optmag":6.28262,"st_vj":6.28262,"st_dist":33.1205,"st_j":6.28262,"st_mass":0.99,"dec":20.0826974,"st_teff":5641,"st_rad":1.863076,"ra":26.2324076,"system_radius":306825231.37,"pl_hostname":"HD_10697","stellar_type":"G","tic_id":"TIC 456905162","magnitude":6.28262},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262332","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243904"}]}}
+{
+  "id": 262332,
+  "date": "2023-11-28T20:49:38",
+  "date_gmt": "2023-11-29T01:49:38",
+  "modified": "2025-04-23T05:56:04",
+  "modified_gmt": "2025-04-23T09:56:04",
+  "slug": "hd_10697",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_10697/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 10697",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243904
+    ],
+    "exo_id": "HD_10697",
+    "st_optmag": 6.28262,
+    "st_vj": 6.28262,
+    "st_dist": 33.1205,
+    "st_j": 6.28262,
+    "st_mass": 0.99,
+    "dec": 20.0826974,
+    "st_teff": 5641,
+    "st_rad": 1.863076,
+    "ra": 26.2324076,
+    "system_radius": 306825231.37,
+    "pl_hostname": "HD_10697",
+    "stellar_type": "G",
+    "tic_id": "TIC 456905162",
+    "magnitude": 6.28262
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262332",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243904"
+      }
+    ]
+  }
+}

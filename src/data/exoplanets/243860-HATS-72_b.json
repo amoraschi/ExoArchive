@@ -1,1 +1,79 @@
-{"id":243860,"date":"2020-03-06T12:27:09","date_gmt":"2020-03-06T17:27:09","modified":"2025-07-07T20:34:30","modified_gmt":"2025-07-08T00:34:30","slug":"hats-72-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hats-72-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HATS-72","pl_letter":"b","display_name":"HATS-72 b","planet_radius":"0.7224 x Jupiter","derived_description":"HATS-72 b is a gas giant exoplanet that orbits a K-type star. Its mass is 39.855882 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.066517 AU from its star. Its discovery was announced in 2020.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATSouth","st_dist":127.589,"planet_mass":"39.855882 Earths","st_optmag":12.324,"discovery_date":"2020","pl_orbsmax":0.066517,"period_display":"7.3 days","eccentricity":"< 0.013","star_id":260752,"pl_orbper":7.3279474,"pl_kepflag":false,"pl_radj":0.7224,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":8.0973816,"exo_id":"HATS-72_b","planet_size_class":"sub-Jovian","pl_eccenlim":0.013,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243860","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260752"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243860,
+  "date": "2020-03-06T12:27:09",
+  "date_gmt": "2020-03-06T17:27:09",
+  "modified": "2025-07-07T20:34:30",
+  "modified_gmt": "2025-07-08T00:34:30",
+  "slug": "hats-72-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hats-72-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HATS-72",
+    "pl_letter": "b",
+    "display_name": "HATS-72 b",
+    "planet_radius": "0.7224 x Jupiter",
+    "derived_description": "HATS-72 b is a gas giant exoplanet that orbits a K-type star. Its mass is 39.855882 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.066517 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATSouth",
+    "st_dist": 127.589,
+    "planet_mass": "39.855882 Earths",
+    "st_optmag": 12.324,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.066517,
+    "period_display": "7.3 days",
+    "eccentricity": "< 0.013",
+    "star_id": 260752,
+    "pl_orbper": 7.3279474,
+    "pl_kepflag": false,
+    "pl_radj": 0.7224,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 8.0973816,
+    "exo_id": "HATS-72_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0.013,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243860",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260752"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

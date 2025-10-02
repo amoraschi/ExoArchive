@@ -1,1 +1,79 @@
-{"id":244673,"date":"2019-04-22T16:49:25","date_gmt":"2019-04-22T20:49:25","modified":"2025-06-25T12:06:54","modified_gmt":"2025-06-25T16:06:54","slug":"hip-65426-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hip-65426-b/","featured_media":318405,"categories":[2014,2013],"acf":{"pl_hostname":"HIP_65426","pl_letter":"b","display_name":"HIP 65426 b","planet_radius":"1.5 x Jupiter","derived_description":"HIP 65426 b is a gas giant exoplanet that orbits a A-type star. Its mass is 9 Jupiters, it takes 630.7 years to complete one orbit of its star, and is 92 AU from its star. Its discovery was announced in 2017.","planet_type":"Gas Giant","pl_discmethod":"Imaging","pl_facility":"Paranal Observatory","st_dist":108.875,"planet_mass":"9 Jupiters","st_optmag":7.01,"discovery_date":"2017","pl_orbsmax":92,"period_display":"630.7 years","eccentricity":"","star_id":260751,"pl_orbper":"","pl_kepflag":false,"pl_radj":1.5,"pl_disc":2017,"pl_publ_date":"2017","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":16.8135,"exo_id":"HIP_65426_b","planet_size_class":"super-Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244673","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/260751"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/318405"}]}}
+{
+  "id": 244673,
+  "date": "2019-04-22T16:49:25",
+  "date_gmt": "2019-04-22T20:49:25",
+  "modified": "2025-06-25T12:06:54",
+  "modified_gmt": "2025-06-25T16:06:54",
+  "slug": "hip-65426-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-65426-b/",
+  "featured_media": 318405,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_65426",
+    "pl_letter": "b",
+    "display_name": "HIP 65426 b",
+    "planet_radius": "1.5 x Jupiter",
+    "derived_description": "HIP 65426 b is a gas giant exoplanet that orbits a A-type star. Its mass is 9 Jupiters, it takes 630.7 years to complete one orbit of its star, and is 92 AU from its star. Its discovery was announced in 2017.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "Paranal Observatory",
+    "st_dist": 108.875,
+    "planet_mass": "9 Jupiters",
+    "st_optmag": 7.01,
+    "discovery_date": "2017",
+    "pl_orbsmax": 92,
+    "period_display": "630.7 years",
+    "eccentricity": "",
+    "star_id": 260751,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.5,
+    "pl_disc": 2017,
+    "pl_publ_date": "2017",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 16.8135,
+    "exo_id": "HIP_65426_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244673",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260751"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/318405"
+      }
+    ]
+  }
+}

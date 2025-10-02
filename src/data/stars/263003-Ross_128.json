@@ -1,1 +1,71 @@
-{"id":263003,"date":"2023-11-28T20:58:11","date_gmt":"2023-11-29T01:58:11","modified":"2025-06-06T07:19:54","modified_gmt":"2025-06-06T11:19:54","slug":"ross_128","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/ross_128/","featured_media":0,"categories":[],"acf":{"display_name":"Ross 128","custom_star_title":"","aliases":"","constellation":"Virgo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248375],"exo_id":"Ross_128","st_optmag":11.12,"st_vj":11.12,"st_dist":3.37454,"st_j":11.12,"st_mass":0.168,"dec":0.7992898,"st_teff":3192,"st_rad":0.1967,"ra":176.9376036,"system_radius":7420054.352,"pl_hostname":"Ross_128","stellar_type":"M","tic_id":"TIC 325275315","magnitude":11.12},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263003","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248375"}]}}
+{
+  "id": 263003,
+  "date": "2023-11-28T20:58:11",
+  "date_gmt": "2023-11-29T01:58:11",
+  "modified": "2025-06-06T07:19:54",
+  "modified_gmt": "2025-06-06T11:19:54",
+  "slug": "ross_128",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ross_128/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Ross 128",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248375
+    ],
+    "exo_id": "Ross_128",
+    "st_optmag": 11.12,
+    "st_vj": 11.12,
+    "st_dist": 3.37454,
+    "st_j": 11.12,
+    "st_mass": 0.168,
+    "dec": 0.7992898,
+    "st_teff": 3192,
+    "st_rad": 0.1967,
+    "ra": 176.9376036,
+    "system_radius": 7420054.352,
+    "pl_hostname": "Ross_128",
+    "stellar_type": "M",
+    "tic_id": "TIC 325275315",
+    "magnitude": 11.12
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263003",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248375"
+      }
+    ]
+  }
+}

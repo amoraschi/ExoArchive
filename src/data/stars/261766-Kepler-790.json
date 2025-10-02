@@ -1,1 +1,71 @@
-{"id":261766,"date":"2023-11-28T20:42:27","date_gmt":"2023-11-29T01:42:27","modified":"2025-04-23T05:54:42","modified_gmt":"2025-04-23T09:54:42","slug":"kepler-790","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-790/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-790","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[247719],"exo_id":"Kepler-790","st_optmag":15.534,"st_vj":15.534,"st_dist":703.168,"st_j":15.534,"st_mass":0.84,"dec":38.8722123,"st_teff":5208,"st_rad":0.8,"ra":286.9171489,"system_radius":15109384.87,"pl_hostname":"Kepler-790","stellar_type":"K","tic_id":"TIC 121020728","magnitude":15.534},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261766","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247719"}]}}
+{
+  "id": 261766,
+  "date": "2023-11-28T20:42:27",
+  "date_gmt": "2023-11-29T01:42:27",
+  "modified": "2025-04-23T05:54:42",
+  "modified_gmt": "2025-04-23T09:54:42",
+  "slug": "kepler-790",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-790/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-790",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      247719
+    ],
+    "exo_id": "Kepler-790",
+    "st_optmag": 15.534,
+    "st_vj": 15.534,
+    "st_dist": 703.168,
+    "st_j": 15.534,
+    "st_mass": 0.84,
+    "dec": 38.8722123,
+    "st_teff": 5208,
+    "st_rad": 0.8,
+    "ra": 286.9171489,
+    "system_radius": 15109384.87,
+    "pl_hostname": "Kepler-790",
+    "stellar_type": "K",
+    "tic_id": "TIC 121020728",
+    "magnitude": 15.534
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261766",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247719"
+      }
+    ]
+  }
+}

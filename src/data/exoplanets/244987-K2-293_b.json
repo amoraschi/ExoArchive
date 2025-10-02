@@ -1,1 +1,79 @@
-{"id":244987,"date":"2019-04-05T13:26:26","date_gmt":"2019-04-05T17:26:26","modified":"2025-07-07T15:24:54","modified_gmt":"2025-07-07T19:24:54","slug":"k2-293-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/k2-293-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"K2-293","pl_letter":"b","display_name":"K2-293 b","planet_radius":"0.21857436 x Jupiter","derived_description":"K2-293 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.57 Earths, it takes 13.1 days to complete one orbit of its star, and is 0.1073332713367 AU from its star. Its discovery was announced in 2019.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"K2","st_dist":392.251,"planet_mass":"6.57 Earths","st_optmag":13.44,"discovery_date":"2019","pl_orbsmax":"","period_display":"13.1 days","eccentricity":"","star_id":263831,"pl_orbper":13.1225,"pl_kepflag":true,"pl_radj":0.21857436,"pl_disc":2019,"pl_publ_date":"2019","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.45,"exo_id":"K2-293_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244987","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263831"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244987,
+  "date": "2019-04-05T13:26:26",
+  "date_gmt": "2019-04-05T17:26:26",
+  "modified": "2025-07-07T15:24:54",
+  "modified_gmt": "2025-07-07T19:24:54",
+  "slug": "k2-293-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/k2-293-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "K2-293",
+    "pl_letter": "b",
+    "display_name": "K2-293 b",
+    "planet_radius": "0.21857436 x Jupiter",
+    "derived_description": "K2-293 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.57 Earths, it takes 13.1 days to complete one orbit of its star, and is 0.1073332713367 AU from its star. Its discovery was announced in 2019.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "K2",
+    "st_dist": 392.251,
+    "planet_mass": "6.57 Earths",
+    "st_optmag": 13.44,
+    "discovery_date": "2019",
+    "pl_orbsmax": "",
+    "period_display": "13.1 days",
+    "eccentricity": "",
+    "star_id": 263831,
+    "pl_orbper": 13.1225,
+    "pl_kepflag": true,
+    "pl_radj": 0.21857436,
+    "pl_disc": 2019,
+    "pl_publ_date": "2019",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.45,
+    "exo_id": "K2-293_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244987",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263831"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

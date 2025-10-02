@@ -1,1 +1,71 @@
-{"id":262466,"date":"2023-11-28T20:51:21","date_gmt":"2023-11-29T01:51:21","modified":"2025-04-23T05:57:23","modified_gmt":"2025-04-23T09:57:23","slug":"wasp-12","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wasp-12/","featured_media":0,"categories":[],"acf":{"display_name":"WASP-12","custom_star_title":"","aliases":"","constellation":"Auriga","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248768],"exo_id":"WASP-12","st_optmag":11.569,"st_vj":11.569,"st_dist":427.246,"st_j":11.569,"st_mass":1.325,"dec":29.6722662,"st_teff":6265,"st_rad":1.69,"ra":97.636645,"system_radius":3500590.158,"pl_hostname":"WASP-12","stellar_type":"F","tic_id":"TIC 86396382","magnitude":11.569},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262466","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248768"}]}}
+{
+  "id": 262466,
+  "date": "2023-11-28T20:51:21",
+  "date_gmt": "2023-11-29T01:51:21",
+  "modified": "2025-04-23T05:57:23",
+  "modified_gmt": "2025-04-23T09:57:23",
+  "slug": "wasp-12",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-12/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-12",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Auriga",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248768
+    ],
+    "exo_id": "WASP-12",
+    "st_optmag": 11.569,
+    "st_vj": 11.569,
+    "st_dist": 427.246,
+    "st_j": 11.569,
+    "st_mass": 1.325,
+    "dec": 29.6722662,
+    "st_teff": 6265,
+    "st_rad": 1.69,
+    "ra": 97.636645,
+    "system_radius": 3500590.158,
+    "pl_hostname": "WASP-12",
+    "stellar_type": "F",
+    "tic_id": "TIC 86396382",
+    "magnitude": 11.569
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262466",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248768"
+      }
+    ]
+  }
+}

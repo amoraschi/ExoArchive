@@ -1,1 +1,71 @@
-{"id":262686,"date":"2023-11-28T20:54:08","date_gmt":"2023-11-29T01:54:08","modified":"2025-04-23T05:55:57","modified_gmt":"2025-04-23T09:55:57","slug":"gam_cep","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/gam_cep/","featured_media":0,"categories":[],"acf":{"display_name":"Gamma Cephei","custom_star_title":"","aliases":"","constellation":"Cepheus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243580],"exo_id":"gam_Cep","st_optmag":3.23006,"st_vj":3.23006,"st_dist":14.1024,"st_j":3.23006,"st_mass":1.27,"dec":77.6331009,"st_teff":4775,"st_rad":4.74,"ra":354.8358233,"system_radius":318643463.1,"pl_hostname":"gam_Cep","stellar_type":"K","tic_id":"TIC 367912480","magnitude":3.23006},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/262686","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243580"}]}}
+{
+  "id": 262686,
+  "date": "2023-11-28T20:54:08",
+  "date_gmt": "2023-11-29T01:54:08",
+  "modified": "2025-04-23T05:55:57",
+  "modified_gmt": "2025-04-23T09:55:57",
+  "slug": "gam_cep",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gam_cep/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Gamma Cephei",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243580
+    ],
+    "exo_id": "gam_Cep",
+    "st_optmag": 3.23006,
+    "st_vj": 3.23006,
+    "st_dist": 14.1024,
+    "st_j": 3.23006,
+    "st_mass": 1.27,
+    "dec": 77.6331009,
+    "st_teff": 4775,
+    "st_rad": 4.74,
+    "ra": 354.8358233,
+    "system_radius": 318643463.1,
+    "pl_hostname": "gam_Cep",
+    "stellar_type": "K",
+    "tic_id": "TIC 367912480",
+    "magnitude": 3.23006
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262686",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243580"
+      }
+    ]
+  }
+}

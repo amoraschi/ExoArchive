@@ -1,1 +1,71 @@
-{"id":260509,"date":"2023-11-28T20:26:41","date_gmt":"2023-11-29T01:26:41","modified":"2025-04-23T05:53:22","modified_gmt":"2025-04-23T09:53:22","slug":"cfbdsir_j145829101343","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/cfbdsir_j145829101343/","featured_media":0,"categories":[],"acf":{"display_name":"CFBDSIR J145829+101343","custom_star_title":"","aliases":"","constellation":"Bootes","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[243469],"exo_id":"CFBDSIR_J145829+101343","st_optmag":"","st_vj":"","st_dist":23.1,"st_j":"","st_mass":0.021,"dec":10.2286111,"st_teff":580.5,"st_rad":"","ra":224.6208333,"system_radius":388954462,"pl_hostname":"CFBDSIR_J145829+101343","stellar_type":"T","tic_id":"","magnitude":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260509","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243469"}]}}
+{
+  "id": 260509,
+  "date": "2023-11-28T20:26:41",
+  "date_gmt": "2023-11-29T01:26:41",
+  "modified": "2025-04-23T05:53:22",
+  "modified_gmt": "2025-04-23T09:53:22",
+  "slug": "cfbdsir_j145829101343",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/cfbdsir_j145829101343/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CFBDSIR J145829+101343",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243469
+    ],
+    "exo_id": "CFBDSIR_J145829+101343",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 23.1,
+    "st_j": "",
+    "st_mass": 0.021,
+    "dec": 10.2286111,
+    "st_teff": 580.5,
+    "st_rad": "",
+    "ra": 224.6208333,
+    "system_radius": 388954462,
+    "pl_hostname": "CFBDSIR_J145829+101343",
+    "stellar_type": "T",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260509",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243469"
+      }
+    ]
+  }
+}

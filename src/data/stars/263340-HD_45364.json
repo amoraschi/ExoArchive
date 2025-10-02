@@ -1,1 +1,76 @@
-{"id":263340,"date":"2023-11-28T21:02:25","date_gmt":"2023-11-29T02:02:25","modified":"2025-04-23T05:56:57","modified_gmt":"2025-04-23T09:56:57","slug":"hd_45364","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_45364/","featured_media":0,"categories":[],"acf":{"display_name":"HD 45364","custom_star_title":"","aliases":"","constellation":"Canis Major","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244453,244454],"exo_id":"HD_45364","st_optmag":8.08,"st_vj":8.08,"st_dist":34.354,"st_j":8.08,"st_mass":0.82,"dec":-31.4810037,"st_teff":5466,"st_rad":0.89,"ra":96.4105736,"system_radius":134937278.74,"pl_hostname":"HD_45364","stellar_type":"G","tic_id":"TIC 117768715","magnitude":8.08},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/263340","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244454"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244453"}]}}
+{
+  "id": 263340,
+  "date": "2023-11-28T21:02:25",
+  "date_gmt": "2023-11-29T02:02:25",
+  "modified": "2025-04-23T05:56:57",
+  "modified_gmt": "2025-04-23T09:56:57",
+  "slug": "hd_45364",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_45364/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 45364",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244453,
+      244454
+    ],
+    "exo_id": "HD_45364",
+    "st_optmag": 8.08,
+    "st_vj": 8.08,
+    "st_dist": 34.354,
+    "st_j": 8.08,
+    "st_mass": 0.82,
+    "dec": -31.4810037,
+    "st_teff": 5466,
+    "st_rad": 0.89,
+    "ra": 96.4105736,
+    "system_radius": 134937278.74,
+    "pl_hostname": "HD_45364",
+    "stellar_type": "G",
+    "tic_id": "TIC 117768715",
+    "magnitude": 8.08
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263340",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244454"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244453"
+      }
+    ]
+  }
+}

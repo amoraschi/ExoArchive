@@ -1,1 +1,79 @@
-{"id":248453,"date":"2022-02-17T13:16:29","date_gmt":"2022-02-17T18:16:29","modified":"2025-07-07T20:35:58","modified_gmt":"2025-07-08T00:35:58","slug":"toi-1442-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-1442-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-1442","pl_letter":"b","display_name":"TOI-1442 b","planet_radius":"1.17 x Earth","derived_description":"TOI-1442 b is a super Earth exoplanet that orbits a M-type star. Its mass is 1.71 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.0071 AU from its star. Its discovery was announced in 2022.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":41.1659,"planet_mass":"1.71 Earths","st_optmag":15.39,"discovery_date":"2022","pl_orbsmax":0.0071,"period_display":"0.4 days","eccentricity":"","star_id":264216,"pl_orbper":0.4090677,"pl_kepflag":false,"pl_radj":0.10438059,"pl_disc":2022,"pl_publ_date":"2022","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":1.17,"exo_id":"TOI-1442_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248453","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/264216"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 248453,
+  "date": "2022-02-17T13:16:29",
+  "date_gmt": "2022-02-17T18:16:29",
+  "modified": "2025-07-07T20:35:58",
+  "modified_gmt": "2025-07-08T00:35:58",
+  "slug": "toi-1442-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1442-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1442",
+    "pl_letter": "b",
+    "display_name": "TOI-1442 b",
+    "planet_radius": "1.17 x Earth",
+    "derived_description": "TOI-1442 b is a super Earth exoplanet that orbits a M-type star. Its mass is 1.71 Earths, it takes 0.4 days to complete one orbit of its star, and is 0.0071 AU from its star. Its discovery was announced in 2022.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 41.1659,
+    "planet_mass": "1.71 Earths",
+    "st_optmag": 15.39,
+    "discovery_date": "2022",
+    "pl_orbsmax": 0.0071,
+    "period_display": "0.4 days",
+    "eccentricity": "",
+    "star_id": 264216,
+    "pl_orbper": 0.4090677,
+    "pl_kepflag": false,
+    "pl_radj": 0.10438059,
+    "pl_disc": 2022,
+    "pl_publ_date": "2022",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.17,
+    "exo_id": "TOI-1442_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248453",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/264216"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

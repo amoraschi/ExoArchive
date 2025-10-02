@@ -1,1 +1,71 @@
-{"id":260717,"date":"2023-11-28T20:29:13","date_gmt":"2023-11-29T01:29:13","modified":"2025-04-23T05:53:35","modified_gmt":"2025-04-23T09:53:35","slug":"toi-2421","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-2421/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-2421","custom_star_title":"","aliases":"","constellation":"Fornax","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248552],"exo_id":"TOI-2421","st_optmag":11.419,"st_vj":11.419,"st_dist":327.927,"st_j":11.419,"st_mass":1.131,"dec":-35.3909182,"st_teff":5607,"st_rad":1.75,"ra":33.1540208,"system_radius":8123164.341,"pl_hostname":"TOI-2421","stellar_type":"G","tic_id":"TIC 70524163","magnitude":11.419},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260717","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248552"}]}}
+{
+  "id": 260717,
+  "date": "2023-11-28T20:29:13",
+  "date_gmt": "2023-11-29T01:29:13",
+  "modified": "2025-04-23T05:53:35",
+  "modified_gmt": "2025-04-23T09:53:35",
+  "slug": "toi-2421",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2421/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2421",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Fornax",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248552
+    ],
+    "exo_id": "TOI-2421",
+    "st_optmag": 11.419,
+    "st_vj": 11.419,
+    "st_dist": 327.927,
+    "st_j": 11.419,
+    "st_mass": 1.131,
+    "dec": -35.3909182,
+    "st_teff": 5607,
+    "st_rad": 1.75,
+    "ra": 33.1540208,
+    "system_radius": 8123164.341,
+    "pl_hostname": "TOI-2421",
+    "stellar_type": "G",
+    "tic_id": "TIC 70524163",
+    "magnitude": 11.419
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260717",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248552"
+      }
+    ]
+  }
+}

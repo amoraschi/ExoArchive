@@ -1,1 +1,71 @@
-{"id":260684,"date":"2023-11-28T20:28:48","date_gmt":"2023-11-29T01:28:48","modified":"2025-04-23T05:55:34","modified_gmt":"2025-04-23T09:55:34","slug":"hd_17156","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/hd_17156/","featured_media":0,"categories":[],"acf":{"display_name":"HD 17156","custom_star_title":"","aliases":"","constellation":"Cassiopeia","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[244147],"exo_id":"HD_17156","st_optmag":8.17,"st_vj":8.17,"st_dist":78.0863,"st_j":8.17,"st_mass":1.41,"dec":71.7530882,"st_teff":6040,"st_rad":1.55,"ra":42.4366123,"system_radius":24351541.2786,"pl_hostname":"HD_17156","stellar_type":"F","tic_id":"TIC 302773669","magnitude":8.17},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260684","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244147"}]}}
+{
+  "id": 260684,
+  "date": "2023-11-28T20:28:48",
+  "date_gmt": "2023-11-29T01:28:48",
+  "modified": "2025-04-23T05:55:34",
+  "modified_gmt": "2025-04-23T09:55:34",
+  "slug": "hd_17156",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_17156/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 17156",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244147
+    ],
+    "exo_id": "HD_17156",
+    "st_optmag": 8.17,
+    "st_vj": 8.17,
+    "st_dist": 78.0863,
+    "st_j": 8.17,
+    "st_mass": 1.41,
+    "dec": 71.7530882,
+    "st_teff": 6040,
+    "st_rad": 1.55,
+    "ra": 42.4366123,
+    "system_radius": 24351541.2786,
+    "pl_hostname": "HD_17156",
+    "stellar_type": "F",
+    "tic_id": "TIC 302773669",
+    "magnitude": 8.17
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260684",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244147"
+      }
+    ]
+  }
+}

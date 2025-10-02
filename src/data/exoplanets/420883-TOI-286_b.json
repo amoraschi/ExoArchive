@@ -1,1 +1,79 @@
-{"id":420883,"date":"2024-09-07T00:19:56","date_gmt":"2024-09-07T04:19:56","modified":"2025-07-07T20:40:17","modified_gmt":"2025-07-08T00:40:17","slug":"toi-286-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-286-b/","featured_media":271833,"categories":[2014,2013],"acf":{"pl_hostname":"TOI-286","pl_letter":"b","display_name":"TOI-286 b","planet_radius":"1.42 x Earth","derived_description":"TOI-286 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.53 Earths, it takes 4.5 days to complete one orbit of its star, and is 0.0503 AU from its star. Its discovery was announced in 2024.","planet_type":"Super Earth","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":59.2293,"planet_mass":"4.53 Earths","st_optmag":9.866,"discovery_date":"2024","pl_orbsmax":0.0503,"period_display":"4.5 days","eccentricity":"0.0","star_id":420865,"pl_orbper":4.5117244,"pl_kepflag":false,"pl_radj":0.12668413,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":90,"multiple_planet_system":false,"pl_rade":1.42,"exo_id":"TOI-286_b","planet_size_class":"super-Terrestrial","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/420883","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/420865"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271833"}]}}
+{
+  "id": 420883,
+  "date": "2024-09-07T00:19:56",
+  "date_gmt": "2024-09-07T04:19:56",
+  "modified": "2025-07-07T20:40:17",
+  "modified_gmt": "2025-07-08T00:40:17",
+  "slug": "toi-286-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-286-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-286",
+    "pl_letter": "b",
+    "display_name": "TOI-286 b",
+    "planet_radius": "1.42 x Earth",
+    "derived_description": "TOI-286 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.53 Earths, it takes 4.5 days to complete one orbit of its star, and is 0.0503 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 59.2293,
+    "planet_mass": "4.53 Earths",
+    "st_optmag": 9.866,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0503,
+    "period_display": "4.5 days",
+    "eccentricity": "0.0",
+    "star_id": 420865,
+    "pl_orbper": 4.5117244,
+    "pl_kepflag": false,
+    "pl_radj": 0.12668413,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 1.42,
+    "exo_id": "TOI-286_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/420883",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/420865"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

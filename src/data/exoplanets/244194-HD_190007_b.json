@@ -1,1 +1,79 @@
-{"id":244194,"date":"2020-12-17T19:17:23","date_gmt":"2020-12-18T00:17:23","modified":"2024-10-25T05:09:35","modified_gmt":"2024-10-25T09:09:35","slug":"hd-190007-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hd-190007-b/","featured_media":267560,"categories":[2014,2013],"acf":{"pl_hostname":"HD_190007","pl_letter":"b","display_name":"HD 190007 b","planet_radius":"0.362 x Jupiter (estimate)","derived_description":"HD 190007 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 15.5 Earths, it takes 11.7 days to complete one orbit of its star, and is 0.092 AU from its star. Its discovery was announced in 2020.","planet_type":"Neptune-like","pl_discmethod":"Radial Velocity","pl_facility":"Multiple Observatories","st_dist":12.7141,"planet_mass":"15.5 Earths","st_optmag":7.46,"discovery_date":"2020","pl_orbsmax":0.092,"period_display":"11.7 days","eccentricity":"0.14","star_id":263082,"pl_orbper":11.724128,"pl_kepflag":false,"pl_radj":0.362,"pl_disc":2020,"pl_publ_date":"2020","planet_orbit_period":2.3,"multiple_planet_system":false,"pl_rade":4.06,"exo_id":"HD_190007_b","planet_size_class":"Neptunian","pl_eccenlim":0,"pl_orbeccen":0.136},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/244194","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/263082"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 244194,
+  "date": "2020-12-17T19:17:23",
+  "date_gmt": "2020-12-18T00:17:23",
+  "modified": "2024-10-25T05:09:35",
+  "modified_gmt": "2024-10-25T09:09:35",
+  "slug": "hd-190007-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-190007-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_190007",
+    "pl_letter": "b",
+    "display_name": "HD 190007 b",
+    "planet_radius": "0.362 x Jupiter (estimate)",
+    "derived_description": "HD 190007 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 15.5 Earths, it takes 11.7 days to complete one orbit of its star, and is 0.092 AU from its star. Its discovery was announced in 2020.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 12.7141,
+    "planet_mass": "15.5 Earths",
+    "st_optmag": 7.46,
+    "discovery_date": "2020",
+    "pl_orbsmax": 0.092,
+    "period_display": "11.7 days",
+    "eccentricity": "0.14",
+    "star_id": 263082,
+    "pl_orbper": 11.724128,
+    "pl_kepflag": false,
+    "pl_radj": 0.362,
+    "pl_disc": 2020,
+    "pl_publ_date": "2020",
+    "planet_orbit_period": 2.3,
+    "multiple_planet_system": false,
+    "pl_rade": 4.06,
+    "exo_id": "HD_190007_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.136
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244194",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263082"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

@@ -1,1 +1,79 @@
-{"id":243757,"date":"2016-03-16T19:26:20","date_gmt":"2016-03-16T23:26:20","modified":"2025-03-28T07:23:09","modified_gmt":"2025-03-28T11:23:09","slug":"hat-p-3-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/hat-p-3-b/","featured_media":271855,"categories":[2014,2013],"acf":{"pl_hostname":"HAT-P-3","pl_letter":"b","display_name":"HAT-P-3 b","planet_radius":"0.94 x Jupiter","derived_description":"HAT-P-3 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.65 Jupiters, it takes 2.9 days to complete one orbit of its star, and is 0.03866 AU from its star. Its discovery was announced in 2007.","planet_type":"Gas Giant","pl_discmethod":"Transit","pl_facility":"HATNet","st_dist":134.554,"planet_mass":"0.65 Jupiters","st_optmag":11.856,"discovery_date":"2007","pl_orbsmax":0.03866,"period_display":"2.9 days","eccentricity":"0.0","star_id":261082,"pl_orbper":2.8997,"pl_kepflag":false,"pl_radj":0.94,"pl_disc":2007,"pl_publ_date":"2007","planet_orbit_period":107.7,"multiple_planet_system":false,"pl_rade":10.53646,"exo_id":"HAT-P-3_b","planet_size_class":"Jovian","pl_eccenlim":0,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/243757","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/261082"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/271855"}]}}
+{
+  "id": 243757,
+  "date": "2016-03-16T19:26:20",
+  "date_gmt": "2016-03-16T23:26:20",
+  "modified": "2025-03-28T07:23:09",
+  "modified_gmt": "2025-03-28T11:23:09",
+  "slug": "hat-p-3-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hat-p-3-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HAT-P-3",
+    "pl_letter": "b",
+    "display_name": "HAT-P-3 b",
+    "planet_radius": "0.94 x Jupiter",
+    "derived_description": "HAT-P-3 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.65 Jupiters, it takes 2.9 days to complete one orbit of its star, and is 0.03866 AU from its star. Its discovery was announced in 2007.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "HATNet",
+    "st_dist": 134.554,
+    "planet_mass": "0.65 Jupiters",
+    "st_optmag": 11.856,
+    "discovery_date": "2007",
+    "pl_orbsmax": 0.03866,
+    "period_display": "2.9 days",
+    "eccentricity": "0.0",
+    "star_id": 261082,
+    "pl_orbper": 2.8997,
+    "pl_kepflag": false,
+    "pl_radj": 0.94,
+    "pl_disc": 2007,
+    "pl_publ_date": "2007",
+    "planet_orbit_period": 107.7,
+    "multiple_planet_system": false,
+    "pl_rade": 10.53646,
+    "exo_id": "HAT-P-3_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243757",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261082"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

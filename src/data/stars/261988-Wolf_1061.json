@@ -1,1 +1,81 @@
-{"id":261988,"date":"2023-11-28T20:45:17","date_gmt":"2023-11-29T01:45:17","modified":"2025-04-23T05:55:16","modified_gmt":"2025-04-23T09:55:16","slug":"wolf_1061","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/wolf_1061/","featured_media":0,"categories":[],"acf":{"display_name":"Wolf 1061","custom_star_title":"","aliases":"","constellation":"Ophiuchus","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[248929,248930,248931],"exo_id":"Wolf_1061","st_optmag":10.1,"st_vj":10.1,"st_dist":4.30592,"st_j":10.1,"st_mass":0.294,"dec":-12.6676866,"st_teff":3342,"st_rad":0.307,"ra":247.5748276,"system_radius":70310998.9,"pl_hostname":"Wolf_1061","stellar_type":"M","tic_id":"TIC 413948621","magnitude":10.1},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261988","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248931"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248930"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/248929"}]}}
+{
+  "id": 261988,
+  "date": "2023-11-28T20:45:17",
+  "date_gmt": "2023-11-29T01:45:17",
+  "modified": "2025-04-23T05:55:16",
+  "modified_gmt": "2025-04-23T09:55:16",
+  "slug": "wolf_1061",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wolf_1061/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Wolf 1061",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248929,
+      248930,
+      248931
+    ],
+    "exo_id": "Wolf_1061",
+    "st_optmag": 10.1,
+    "st_vj": 10.1,
+    "st_dist": 4.30592,
+    "st_j": 10.1,
+    "st_mass": 0.294,
+    "dec": -12.6676866,
+    "st_teff": 3342,
+    "st_rad": 0.307,
+    "ra": 247.5748276,
+    "system_radius": 70310998.9,
+    "pl_hostname": "Wolf_1061",
+    "stellar_type": "M",
+    "tic_id": "TIC 413948621",
+    "magnitude": 10.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261988",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248931"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248930"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248929"
+      }
+    ]
+  }
+}

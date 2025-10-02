@@ -1,1 +1,71 @@
-{"id":261159,"date":"2023-11-28T20:34:48","date_gmt":"2023-11-29T01:34:48","modified":"2025-06-06T07:19:50","modified_gmt":"2025-06-06T11:19:50","slug":"k2-45","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/k2-45/","featured_media":0,"categories":[],"acf":{"display_name":"K2-45","custom_star_title":"","aliases":"","constellation":"Leo","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[245135],"exo_id":"K2-45","st_optmag":15.746,"st_vj":15.746,"st_dist":495.317,"st_j":15.746,"st_mass":0.503,"dec":-1.7740582,"st_teff":4103,"st_rad":0.445,"ra":169.6327547,"system_radius":3350992.288,"pl_hostname":"K2-45","stellar_type":"K","tic_id":"TIC 38087018","magnitude":15.746},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/261159","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/245135"}]}}
+{
+  "id": 261159,
+  "date": "2023-11-28T20:34:48",
+  "date_gmt": "2023-11-29T01:34:48",
+  "modified": "2025-06-06T07:19:50",
+  "modified_gmt": "2025-06-06T11:19:50",
+  "slug": "k2-45",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/k2-45/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "K2-45",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      245135
+    ],
+    "exo_id": "K2-45",
+    "st_optmag": 15.746,
+    "st_vj": 15.746,
+    "st_dist": 495.317,
+    "st_j": 15.746,
+    "st_mass": 0.503,
+    "dec": -1.7740582,
+    "st_teff": 4103,
+    "st_rad": 0.445,
+    "ra": 169.6327547,
+    "system_radius": 3350992.288,
+    "pl_hostname": "K2-45",
+    "stellar_type": "K",
+    "tic_id": "TIC 38087018",
+    "magnitude": 15.746
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261159",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/245135"
+      }
+    ]
+  }
+}

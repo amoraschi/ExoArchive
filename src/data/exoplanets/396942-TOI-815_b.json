@@ -1,1 +1,79 @@
-{"id":396942,"date":"2024-05-16T20:32:25","date_gmt":"2024-05-17T00:32:25","modified":"2025-07-07T20:38:31","modified_gmt":"2025-07-08T00:38:31","slug":"toi-815-b","type":"exoplanet","link":"https://science.nasa.gov/exoplanet-catalog/toi-815-b/","featured_media":267560,"categories":[2013,2014],"acf":{"pl_hostname":"TOI-815","pl_letter":"b","display_name":"TOI-815 b","planet_radius":"0.26228968 x Jupiter","derived_description":"TOI-815 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.6 Earths, it takes 11.2 days to complete one orbit of its star, and is 0.0903 AU from its star. Its discovery was announced in 2024.","planet_type":"Neptune-like","pl_discmethod":"Transit","pl_facility":"Transiting Exoplanet Survey Satellite (TESS)","st_dist":59.7117,"planet_mass":"7.6 Earths","st_optmag":10.217,"discovery_date":"2024","pl_orbsmax":0.0903,"period_display":"11.2 days","eccentricity":"< 0.2","star_id":396935,"pl_orbper":11.197259,"pl_kepflag":false,"pl_radj":0.26228968,"pl_disc":2024,"pl_publ_date":"2024","planet_orbit_period":"","multiple_planet_system":false,"pl_rade":2.94,"exo_id":"TOI-815_b","planet_size_class":"sub-Neptunian","pl_eccenlim":0.2,"pl_orbeccen":0},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/396942","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/star/396935"}],"wp:featuredmedia":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/media/267560"}]}}
+{
+  "id": 396942,
+  "date": "2024-05-16T20:32:25",
+  "date_gmt": "2024-05-17T00:32:25",
+  "modified": "2025-07-07T20:38:31",
+  "modified_gmt": "2025-07-08T00:38:31",
+  "slug": "toi-815-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-815-b/",
+  "featured_media": 267560,
+  "categories": [
+    2013,
+    2014
+  ],
+  "acf": {
+    "pl_hostname": "TOI-815",
+    "pl_letter": "b",
+    "display_name": "TOI-815 b",
+    "planet_radius": "0.26228968 x Jupiter",
+    "derived_description": "TOI-815 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.6 Earths, it takes 11.2 days to complete one orbit of its star, and is 0.0903 AU from its star. Its discovery was announced in 2024.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 59.7117,
+    "planet_mass": "7.6 Earths",
+    "st_optmag": 10.217,
+    "discovery_date": "2024",
+    "pl_orbsmax": 0.0903,
+    "period_display": "11.2 days",
+    "eccentricity": "< 0.2",
+    "star_id": 396935,
+    "pl_orbper": 11.197259,
+    "pl_kepflag": false,
+    "pl_radj": 0.26228968,
+    "pl_disc": 2024,
+    "pl_publ_date": "2024",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.94,
+    "exo_id": "TOI-815_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0.2,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/396942",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/396935"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

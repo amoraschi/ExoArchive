@@ -1,1 +1,76 @@
-{"id":260962,"date":"2023-11-28T20:32:19","date_gmt":"2023-11-29T01:32:19","modified":"2025-04-23T05:55:24","modified_gmt":"2025-04-23T09:55:24","slug":"kepler-392","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/kepler-392/","featured_media":0,"categories":[],"acf":{"display_name":"Kepler-392","custom_star_title":"","aliases":"","constellation":"Lyra","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":{"0":247132,"1":247131},"exo_id":"Kepler-392","st_optmag":13.528,"st_vj":13.528,"st_dist":681.428,"st_j":13.528,"st_mass":0.874,"dec":43.3681938,"st_teff":5938,"st_rad":1.129,"ra":288.660826,"system_radius":13912601.91,"pl_hostname":"Kepler-392","stellar_type":"G","tic_id":"TIC 158796434","magnitude":13.528},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/260962","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247132"},{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/247131"}]}}
+{
+  "id": 260962,
+  "date": "2023-11-28T20:32:19",
+  "date_gmt": "2023-11-29T01:32:19",
+  "modified": "2025-04-23T05:55:24",
+  "modified_gmt": "2025-04-23T09:55:24",
+  "slug": "kepler-392",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kepler-392/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "Kepler-392",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 247132,
+      "1": 247131
+    },
+    "exo_id": "Kepler-392",
+    "st_optmag": 13.528,
+    "st_vj": 13.528,
+    "st_dist": 681.428,
+    "st_j": 13.528,
+    "st_mass": 0.874,
+    "dec": 43.3681938,
+    "st_teff": 5938,
+    "st_rad": 1.129,
+    "ra": 288.660826,
+    "system_radius": 13912601.91,
+    "pl_hostname": "Kepler-392",
+    "stellar_type": "G",
+    "tic_id": "TIC 158796434",
+    "magnitude": 13.528
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260962",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247132"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/247131"
+      }
+    ]
+  }
+}

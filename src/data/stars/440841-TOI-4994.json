@@ -1,1 +1,71 @@
-{"id":440841,"date":"2024-12-20T01:24:08","date_gmt":"2024-12-20T06:24:08","modified":"2025-04-23T05:54:14","modified_gmt":"2025-04-23T09:54:14","slug":"toi-4994","type":"star","link":"https://science.nasa.gov/exoplanets/star-catalog/toi-4994/","featured_media":0,"categories":[],"acf":{"display_name":"TOI-4994","custom_star_title":"","aliases":"","constellation":"Octans","custom_star_description":"","tagline":"","pop_culture":"","detection_timeline":"","rv_planets_prospects":"","transit_planets_prospects":"","imaging_planets_prospects":"","planet_ids":[440867],"exo_id":"TOI-4994","st_optmag":12.652,"st_vj":12.652,"st_dist":329.304,"st_j":12.652,"st_mass":1.005,"dec":-78.4344302,"st_teff":5640,"st_rad":1.055,"ra":283.1325335,"system_radius":22664077.305,"pl_hostname":"TOI-4994","stellar_type":"G","tic_id":"TIC 277128619","magnitude":12.652},"_links":{"self":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star/440841","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https://science.nasa.gov/wp-json/wp/v2/star"}],"about":[{"href":"https://science.nasa.gov/wp-json/wp/v2/types/star"}],"acf:post":[{"embeddable":true,"href":"https://science.nasa.gov/wp-json/wp/v2/exoplanet/440867"}]}}
+{
+  "id": 440841,
+  "date": "2024-12-20T01:24:08",
+  "date_gmt": "2024-12-20T06:24:08",
+  "modified": "2025-04-23T05:54:14",
+  "modified_gmt": "2025-04-23T09:54:14",
+  "slug": "toi-4994",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4994/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4994",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Octans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      440867
+    ],
+    "exo_id": "TOI-4994",
+    "st_optmag": 12.652,
+    "st_vj": 12.652,
+    "st_dist": 329.304,
+    "st_j": 12.652,
+    "st_mass": 1.005,
+    "dec": -78.4344302,
+    "st_teff": 5640,
+    "st_rad": 1.055,
+    "ra": 283.1325335,
+    "system_radius": 22664077.305,
+    "pl_hostname": "TOI-4994",
+    "stellar_type": "G",
+    "tic_id": "TIC 277128619",
+    "magnitude": 12.652
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/440841",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/440867"
+      }
+    ]
+  }
+}
