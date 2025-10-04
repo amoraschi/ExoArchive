@@ -1,0 +1,79 @@
+{
+  "id": 1033935,
+  "date": "2025-10-03T00:09:25",
+  "date_gmt": "2025-10-03T04:09:25",
+  "modified": "2025-10-03T00:09:25",
+  "modified_gmt": "2025-10-03T04:09:25",
+  "slug": "au-microscopii-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/au-microscopii-e/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "AU_Mic",
+    "pl_letter": "e",
+    "display_name": "AU Microscopii e",
+    "planet_radius": "0.434 x Jupiter (estimate)",
+    "derived_description": "AU Microscopii e is a Neptune-like exoplanet that orbits a M-type star. Its mass is 21.1 Earths, it takes 33.1 days to complete one orbit of its star, and is 0.1701993953066 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Mauna Kea Observatory",
+    "st_dist": 9.7221,
+    "planet_mass": "21.1 Earths",
+    "st_optmag": 8.81,
+    "discovery_date": "2025",
+    "pl_orbsmax": "",
+    "period_display": "33.1 days",
+    "eccentricity": "",
+    "star_id": 262033,
+    "pl_orbper": 33.11,
+    "pl_kepflag": false,
+    "pl_radj": 0.434,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.87,
+    "exo_id": "AU_Mic_e",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1033935",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262033"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

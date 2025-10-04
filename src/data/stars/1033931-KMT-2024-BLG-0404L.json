@@ -1,0 +1,69 @@
+{
+  "id": 1033931,
+  "date": "2025-10-02T23:02:28",
+  "date_gmt": "2025-10-03T03:02:28",
+  "modified": "2025-10-02T23:02:28",
+  "modified_gmt": "2025-10-03T03:02:28",
+  "slug": "kmt-2024-blg-0404l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2024-blg-0404l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2024-BLG-0404L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "KMT-2024-BLG-0404L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7210,
+    "st_j": "",
+    "st_mass": 0.09,
+    "dec": -27.9535,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.1470833,
+    "system_radius": 127158189.5,
+    "pl_hostname": "KMT-2024-BLG-0404L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1033931",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

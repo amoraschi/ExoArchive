@@ -1,19 +1,19 @@
 {
-  "id": 391144,
-  "date": "2024-04-30T20:00:12",
-  "date_gmt": "2024-05-01T00:00:12",
+  "id": 1033934,
+  "date": "2025-10-02T23:03:15",
+  "date_gmt": "2025-10-03T03:03:15",
   "modified": "2025-10-02T23:03:15",
   "modified_gmt": "2025-10-03T03:03:15",
-  "slug": "toi-5799",
+  "slug": "toi-6223",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5799/",
-  "featured_media": 0,
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6223/",
+  "featured_media": 429650,
   "categories": [],
   "acf": {
-    "display_name": "TOI-5799",
+    "display_name": "TOI-6223",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Aquila",
+    "constellation": "Andromeda",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -21,29 +21,27 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      391306
-    ],
-    "exo_id": "TOI-5799",
-    "st_optmag": 13.29,
-    "st_vj": 13.29,
-    "st_dist": 27.8123,
-    "st_j": 13.29,
-    "st_mass": 0.325,
-    "dec": 15.9891418,
-    "st_teff": 3452,
-    "st_rad": 0.321,
-    "ra": 301.630179,
-    "system_radius": 11698553.434,
-    "pl_hostname": "TOI-5799",
+    "planet_ids": [],
+    "exo_id": "TOI-6223",
+    "st_optmag": 14.22,
+    "st_vj": 14.22,
+    "st_dist": 133.122,
+    "st_j": 14.22,
+    "st_mass": 0.582,
+    "dec": 33.0672361,
+    "st_teff": 3895,
+    "st_rad": 0.576,
+    "ra": 355.9505977,
+    "system_radius": 6010842.4166,
+    "pl_hostname": "TOI-6223",
     "stellar_type": "M",
-    "tic_id": "TIC 328081248",
-    "magnitude": 13.29
+    "tic_id": "TIC 288144647",
+    "magnitude": 14.22
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/391144",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1033934",
         "targetHints": {
           "allow": [
             "GET"
@@ -61,10 +59,10 @@
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
       }
     ],
-    "acf:post": [
+    "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/391306"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
       }
     ]
   }

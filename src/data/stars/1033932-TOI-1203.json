@@ -1,0 +1,69 @@
+{
+  "id": 1033932,
+  "date": "2025-10-02T23:02:32",
+  "date_gmt": "2025-10-03T03:02:32",
+  "modified": "2025-10-02T23:02:32",
+  "modified_gmt": "2025-10-03T03:02:32",
+  "slug": "toi-1203",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1203/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1203",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "TOI-1203",
+    "st_optmag": 8.59,
+    "st_vj": 8.59,
+    "st_dist": 64.9943,
+    "st_j": 8.59,
+    "st_mass": 0.886,
+    "dec": -34.4069371,
+    "st_teff": 5737,
+    "st_rad": 1.179,
+    "ra": 168.2267358,
+    "system_radius": 24414372.384,
+    "pl_hostname": "TOI-1203",
+    "stellar_type": "G",
+    "tic_id": "TIC 23434737",
+    "magnitude": 8.59
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1033932",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}
