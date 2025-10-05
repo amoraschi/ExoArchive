@@ -21,9 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      391306
-    ],
+    "planet_ids": {
+      "0": 1033947,
+      "1": 391306
+    },
     "exo_id": "TOI-5799",
     "st_optmag": 13.29,
     "st_vj": 13.29,
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1033947"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/391306"

@@ -22,9 +22,10 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": {
-      "0": 313892,
-      "1": 243435,
-      "2": 243434
+      "0": 1033935,
+      "1": 313892,
+      "2": 243435,
+      "3": 243434
     },
     "exo_id": "AU_Mic",
     "st_optmag": 8.81,
@@ -64,6 +65,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1033935"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/313892"
