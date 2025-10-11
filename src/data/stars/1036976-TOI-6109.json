@@ -1,19 +1,19 @@
 {
-  "id": 263837,
-  "date": "2023-11-28T21:08:51",
-  "date_gmt": "2023-11-29T02:08:51",
+  "id": 1036976,
+  "date": "2025-10-09T23:17:03",
+  "date_gmt": "2025-10-10T03:17:03",
   "modified": "2025-10-09T23:17:03",
   "modified_gmt": "2025-10-10T03:17:03",
-  "slug": "hd_106515_a",
+  "slug": "toi-6109",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_106515_a/",
-  "featured_media": 0,
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6109/",
+  "featured_media": 429648,
   "categories": [],
   "acf": {
-    "display_name": "HD 106515 A",
+    "display_name": "TOI-6109",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Virgo",
+    "constellation": "Perseus",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -21,29 +21,27 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      243902
-    ],
-    "exo_id": "HD_106515_A",
-    "st_optmag": 7.971,
-    "st_vj": 7.971,
-    "st_dist": 34.0915,
-    "st_j": 7.971,
-    "st_mass": 0.89,
-    "dec": -7.2575413,
-    "st_teff": 5362,
-    "st_rad": 0.91,
-    "ra": 183.7762699,
-    "system_radius": 670198457.6,
-    "pl_hostname": "HD_106515_A",
+    "planet_ids": [],
+    "exo_id": "TOI-6109",
+    "st_optmag": 11.05,
+    "st_vj": 11.05,
+    "st_dist": 151.738,
+    "st_j": 11.05,
+    "st_mass": 1.03,
+    "dec": 42.6069564,
+    "st_teff": 5660,
+    "st_rad": 1.021,
+    "ra": 50.1319206,
+    "system_radius": 11758392.582,
+    "pl_hostname": "TOI-6109",
     "stellar_type": "G",
-    "tic_id": "TIC 176940023",
-    "magnitude": 7.971
+    "tic_id": "TIC 384984325",
+    "magnitude": 11.05
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263837",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1036976",
         "targetHints": {
           "allow": [
             "GET"
@@ -61,10 +59,10 @@
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
       }
     ],
-    "acf:post": [
+    "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243902"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
       }
     ]
   }

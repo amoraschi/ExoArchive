@@ -1,0 +1,79 @@
+{
+  "id": 1036992,
+  "date": "2025-10-10T00:24:25",
+  "date_gmt": "2025-10-10T04:24:25",
+  "modified": "2025-10-10T00:24:25",
+  "modified_gmt": "2025-10-10T04:24:25",
+  "slug": "toi-6109-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-6109-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-6109",
+    "pl_letter": "b",
+    "display_name": "TOI-6109 b",
+    "planet_radius": "0.43450873 x Jupiter",
+    "derived_description": "TOI-6109 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 21.1 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.0599 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 151.738,
+    "planet_mass": "21.1 Earths",
+    "st_optmag": 11.05,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.0599,
+    "period_display": "5.7 days",
+    "eccentricity": "",
+    "star_id": 1036976,
+    "pl_orbper": 5.690476,
+    "pl_kepflag": false,
+    "pl_radj": 0.43450873,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 4.8704,
+    "exo_id": "TOI-6109_b",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1036992",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1036976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}
