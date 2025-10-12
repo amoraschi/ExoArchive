@@ -1,5 +1,6 @@
 const { default: fetch } = require('node-fetch')
-const { existsSync, readFileSync, writeFileSync } = require('fs')
+const { existsSync, writeFileSync, rmSync } = require('fs')
+const { mkdirSync } = require('fs')
 
 const perPage = 100
 const exoplanets = `
@@ -62,6 +63,12 @@ async function fetchExoplanetData (page) {
 }
 
 async function writeExoplanets () {
+  rmSync('./src/data/exoplanets', { recursive: true })
+
+  if (!existsSync('./src/data/exoplanets')) {
+    mkdirSync('./src/data/exoplanets', { recursive: true })
+  }
+
   let pages = 1
   for (let page = 1; page <= pages; page++) {
     console.log(`\nFetching page ${page} of ${pages}\n`)

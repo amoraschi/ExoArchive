@@ -26,7 +26,8 @@ export default function Home () {
 
   const onSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault()
-    if (e.target == null) return
+    console.log('Searching for:', query)
+    if (e.target == null || query === '') return
 
     setResults([])
     setLoading(true)

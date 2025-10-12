@@ -1,5 +1,5 @@
 const { default: fetch } = require('node-fetch')
-const { existsSync, readFileSync, writeFileSync } = require('fs')
+const { existsSync, writeFileSync, mkdirSync, rmSync } = require('fs')
 
 const perPage = 100
 const stars = `
@@ -61,6 +61,12 @@ async function fetchStarData (page) {
 }
 
 async function writeStars () {
+  rmSync('./src/data/stars', { recursive: true })
+
+  if (!existsSync('./src/data/stars')) {
+    mkdirSync('./src/data/stars', { recursive: true })
+  }
+
   let pages = 1
   for (let page = 1; page <= pages; page++) {
     console.log(`\nFetching page ${page} of ${pages}\n`)
