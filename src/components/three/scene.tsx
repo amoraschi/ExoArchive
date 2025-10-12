@@ -1,14 +1,26 @@
 import { Canvas } from '@react-three/fiber'
-import { OrbitControls } from '@react-three/drei'
+import { Environment, OrbitControls, PerspectiveCamera } from '@react-three/drei'
 import Planet from '@/components/three/planet'
-import { Ref, RefObject } from 'react'
-import { Mesh } from 'three'
+import { RefObject } from 'react'
+import { Euler, Mesh } from 'three'
 import OrbitLine from './orbit-line'
+
+const scale = 100
+const inclination = - Math.PI / 4
 
 export default function Scene ({
   star,
   planets
 }: Combined) {
+  const calculateMaxZoom = () => {
+    return (
+      planets.reduce((max, planet) => {
+        const semiMajorAxis = planet.acf.pl_orbsmax ?? 10
+        return Math.max(max, semiMajorAxis)
+      }, 0) ?? 10
+    ) * scale * 2
+  }
+
   const calculateOrbit = (
     planetRef: RefObject<Mesh>, {
       pl_orbsmax,
@@ -19,7 +31,6 @@ export default function Scene ({
     const semiMajorAxis = pl_orbsmax ?? 10
     const eccentricity = pl_orbeccen
     const orbitalPeriod = pl_orbper ?? 365
-    const scale = 100
 
     const simulationSpeed = 100000
     const time = Date.now() * 0.001
@@ -33,9 +44,11 @@ export default function Scene ({
 
     const x = semiMajorAxis * (Math.cos(E) - eccentricity)
     const z = semiMajorAxis * Math.sqrt(1 - eccentricity * eccentricity) * Math.sin(E)
+    const y = z * Math.tan(inclination)
 
     planetRef.current.position.x = x * scale
     planetRef.current.position.z = z * scale
+    planetRef.current.position.y = y * scale
   }
 
   return (
@@ -59,7 +72,7 @@ export default function Scene ({
           distance={100}
         />
       </mesh>
-      {
+      {/* {
         planets.map(planet => (
           <Planet
             key={planet.id}
@@ -67,17 +80,33 @@ export default function Scene ({
             exoplanetAcf={planet.acf}
           />
         ))
-      }
+      } */}
       {
         planets.map(planet => (
           <OrbitLine
             key={planet.id}
             pl_orbsmax={planet.acf.pl_orbsmax}
             pl_orbeccen={planet.acf.pl_orbeccen}
+            inclination={inclination}
+            scale={scale}
           />
         ))
       }
-      <OrbitControls />
+      <PerspectiveCamera
+        makeDefault
+        position={[0, 0, 0]}
+        far={10000}
+      />
+      <OrbitControls
+        minDistance={50}
+        maxDistance={calculateMaxZoom()}
+      />
+      <Environment
+        files='/assets/background.jpg'
+        background
+        backgroundIntensity={0.25}
+        backgroundRotation={new Euler(Math.PI / 4, 0, 0)}
+      />
     </Canvas>
   )
 }
