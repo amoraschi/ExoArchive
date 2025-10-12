@@ -22,7 +22,7 @@ TOI-4773 b
 TOI-5261 b
 TOI-5350 b
 TOI-6420 b
-AU Mic e
+AU Microscopii e
 KMT-2024-BLG-0404L b
 KMT-2024-BLG-0404L c
 TOI-1203 d
@@ -38,17 +38,17 @@ NGTS-31 b
 TOI-6109 c
 TOI-6109 b
 NGTS-32 b
-11 Com b
-11 UMi b
-14 And b
-14 Her b
-16 Cyg B b
-17 Sco b
-18 Del b
+11 Comae Berenices b
+11 Ursae Minoris b
+14 Andromedae b
+14 Herculis b
+16 Cygni B b
+17 Scorpii b
+18 Delphini b
 1RXS J160929.1-210524 b
-24 Boo b
-24 Sex b
-24 Sex c
+24 Bootis b
+24 Sextantis b
+24 Sextantis c
 2M0437 b
 2MASS J01033563-5515561 AB b
 2MASS J01225093-2439505 b
@@ -57,38 +57,38 @@ NGTS-32 b
 2MASS J12073346-3932539 b
 2MASS J19383260+4603591 b
 2MASS J22362452+4751425 b
-30 Ari B b
-47 UMa b
-47 UMa c
-47 UMa d
-4 UMa b
-51 Eri b
-51 Peg b
-55 Cnc b
-55 Cnc c
-55 Cnc d
-55 Cnc e
-55 Cnc f
-61 Vir b
-61 Vir c
-61 Vir d
-6 Lyn b
-70 Vir b
-75 Cet b
-75 Cet c
-7 CMa b
-7 CMa c
-81 Cet b
-8 UMi b
-91 Aqr b
-AB Aur b
-AB Pic b
-AF Lep b
-alf Ari b
-alf Tau b
-AU Mic b
-AU Mic c
-b Cen AB b
+30 Arietis B b
+47 Ursae Majoris b
+47 Ursae Majoris c
+47 Ursae Majoris d
+4 Ursae Majoris b
+51 Eridani b
+51 Pegasi b
+55 Cancri b
+55 Cancri c
+55 Cancri d
+55 Cancri e
+55 Cancri f
+61 Virginis b
+61 Virginis c
+61 Virginis d
+6 Lyncis b
+70 Virginis b
+75 Ceti b
+75 Ceti c
+7 Canis Majoris b
+7 Canis Majoris c
+81 Ceti b
+8 Ursae Minoris b
+91 Aquarii b
+AB Aurigae b
+AB Pictoris b
+AF Leporis b
+Alpha Arietis b
+Alpha Tauri b
+AU Microscopii b
+AU Microscopii c
+b Centauri AB b
 BD+03 2562 b
 BD-06 1339 b
 BD-06 1339 c
@@ -115,11 +115,11 @@ BD+49 828 b
 BD+55 362 b
 BD+60 1417 b
 BD+63 1405 b
-bet Cnc b
-bet Pic b
-bet Pic c
-bet UMi b
-CD Cet b
+Beta Cancri b
+Beta Pictoris b
+Beta Pictoris c
+Beta Ursae Minoris b
+CD Ceti b
 CFBDSIR J145829+101343 b
 CFHTWIR-Oph 98 b
 CHXR 73 b
@@ -160,10 +160,10 @@ CoRoT-7 c
 CoRoT-7 d
 CoRoT-8 b
 CoRoT-9 b
-CT Cha b
-DE CVn b
+CT Chamaleontis b
+DE Canum Venaticorum b
 DENIS-P J082303.1-491201 b
-DH Tau b
+DH Tauri b
 DMPP-1 b
 DMPP-1 c
 DMPP-1 d
@@ -171,8 +171,8 @@ DMPP-1 e
 DMPP-2 b
 DMPP-3 A b
 DMPP-4 b
-DP Leo b
-DS Tuc A b
+DP Leonis b
+DS Tucanae A b
 EPIC 201170410.02
 EPIC 201238110 b
 EPIC 201427007 b
@@ -216,21 +216,21 @@ EPIC 248847494 b
 EPIC 249893012 b
 EPIC 249893012 c
 EPIC 249893012 d
-eps CrB b
-eps Eri b
-eps Ind A b
-eps Tau b
-FU Tau b
+Epsilon Coronae Borealis b
+Epsilon Eridani b
+Epsilon Indi A b
+Epsilon Tauri b
+FU Tauri b
 G 264-012 b
 G 264-012 c
 G 9-40 b
 Gaia-1 b
 Gaia-2 b
-gam1 Leo b
-gam Cep b
-gam Lib b
-gam Lib c
-gam Psc b
+gam1 Leonis b
+Gamma Cephei b
+Gamma Librae b
+Gamma Librae c
+Gamma Piscium b
 GJ 1002 b
 GJ 1002 c
 GJ 1061 b
@@ -363,9 +363,9 @@ Gl 378 b
 Gl 49 b
 Gl 686 b
 GPX-1 b
-GQ Lup b
+GQ Lupi b
 GSC 06214-00210 b
-GU Psc b
+GU Piscium b
 HAT-P-11 b
 HAT-P-11 c
 HAT-P-12 b
@@ -1339,8 +1339,8 @@ HIP 97166 b
 HIP 97166 c
 HIP 97233 b
 HIP 99770 b
-HN Lib b
-HN Peg b
+HN Librae b
+HN Pegasi b
 HR 2562 b
 HR 5183 b
 HR 810 b
@@ -1351,11 +1351,11 @@ HR 8799 b
 HR 8799 c
 HR 8799 d
 HR 8799 e
-HU Aqr AB b
-HU Aqr AB c
+HU Aquarii AB b
+HU Aquarii AB c
 IC 4651 9122 b
-iot Dra b
-iot Dra c
+Iota Draconis b
+Iota Draconis c
 K2-100 b
 K2-101 b
 K2-102 b
@@ -1835,8 +1835,8 @@ K2-97 b
 K2-98 b
 K2-99 b
 K2-9 b
-kap And b
-kap CrB b
+Kappa Andromedae b
+Kappa Coronae Borealis b
 Kapteyn c
 KELT-10 b
 KELT-11 b
@@ -4461,13 +4461,13 @@ Kepler-906 b
 Kepler-907 b
 Kepler-908 b
 Kepler-909 b
-KOI-351 b
-KOI-351 c
-KOI-351 d
-KOI-351 e
-KOI-351 f
-KOI-351 g
-KOI-351 h
+Kepler-90b
+Kepler-90c
+Kepler-90d
+Kepler-90e
+Kepler-90f
+Kepler-90g
+Kepler-90h
 Kepler-90 i
 Kepler-910 b
 Kepler-911 b
@@ -4763,8 +4763,8 @@ MOA-2020-BLG-208L b
 MOA-2022-BLG-249L b
 MOA-bin-1L b
 MOA-bin-29 b
-mu2 Sco b
-mu Leo b
+mu2 Scorpii b
+Mu Leonis b
 MWC 758 c
 MXB 1658-298 b
 NGC 2682 Sand 364 b
@@ -4794,14 +4794,14 @@ NGTS-5 b
 NGTS-6 b
 NGTS-8 b
 NGTS-9 b
-NN Ser c
-NN Ser d
+NN Serpentis c
+NN Serpentis d
 NSVS 14256825 b
-nu Oct A b
-nu Oph b
-nu Oph c
-NY Vir b
-NY Vir c
+Nu Octantis A b
+Nu Ophiuchi b
+Nu Ophiuchi c
+NY Virginis b
+NY Virginis c
 OGLE-2003-BLG-235L b
 OGLE-2005-BLG-071L b
 OGLE-2005-BLG-169L b
@@ -4905,22 +4905,22 @@ OGLE-TR-132 b
 OGLE-TR-182 b
 OGLE-TR-211 b
 OGLE-TR-56 b
-ome Ser b
-omi CrB b
-omi UMa b
-Oph 11 b
+Omega Serpentis b
+Omicron Coronae Borealis b
+Omicron Ursae Majoris b
+Ophiuchi 11 b
 PDS 70 b
 PDS 70 c
 PH1 b
 PH2 b
-pi Men c
-pi Men d
+Pi Mensae c
+Pi Mensae d
 POTS-1 b
 Pr0201 b
 Pr0211 b
 Pr0211 c
-Proxima Cen b
-psi1 Dra B b
+Proxima Centauri b
+psi1 Draconis B b
 PSR B0329+54 b
 PSR B1257+12 b
 PSR B1257+12 c
@@ -4928,7 +4928,7 @@ PSR B1257+12 d
 PSR B1620-26 b
 PSR J1719-1438 b
 PSR J2322-2650 b
-PZ Tel b
+PZ Telescopii b
 Qatar-10 b
 Qatar-1 b
 Qatar-2 b
@@ -4939,26 +4939,26 @@ Qatar-6 b
 Qatar-7 b
 Qatar-8 b
 Qatar-9 b
-rho CrB b
-rho CrB c
-rho CrB d
-rho CrB e
+Rho Coronae Borealis b
+Rho Coronae Borealis c
+Rho Coronae Borealis d
+Rho Coronae Borealis e
 Ross 128 b
 Ross 458 c
 Ross 508 b
 ROXs 12 b
 ROXs 42 B b
-RR Cae b
+RR Caeli b
 SR 12 AB c
 SWEEPS-11 b
 SWEEPS-4 b
 TAP 26 b
-tau Boo b
-tau Cet e
-tau Cet f
-tau Cet g
-tau Cet h
-tau Gem b
+Tau Bootis b
+Tau Ceti e
+Tau Ceti f
+Tau Ceti g
+Tau Ceti h
+Tau Geminorum b
 TCP J05074264+2447555 b
 Teegarden's Star b
 Teegarden's Star c
@@ -5295,21 +5295,21 @@ TYC 4282-00605-1 b
 TYC 8998-760-1 b
 TYC 8998-760-1 c
 UKIRT-2017-BLG-001L b
-ups And b
-ups And c
-ups And d
-ups Leo b
+Upsilon Andromedae b
+Upsilon Andromedae c
+Upsilon Andromedae d
+Upsilon Leonis b
 USco1556 b
 USco1621 b
 USco CTIO 108 b
-UZ For b
-UZ For c
-V0391 Peg b
-V1298 Tau b
-V1298 Tau c
-V1298 Tau d
-V1298 Tau e
-V830 Tau b
+UZ Fornacis b
+UZ Fornacis c
+V0391 Pegasi b
+V1298 Tauri b
+V1298 Tauri c
+V1298 Tauri d
+V1298 Tauri e
+V830 Tauri b
 VHS J125601.92-125723.9 b
 WASP-100 b
 WASP-101 b
@@ -5502,7 +5502,7 @@ Wolf 1069 b
 Wolf 503 b
 WTS-1 b
 WTS-2 b
-xi Aql b
+Xi Aquilae b
 XO-1 b
 XO-2 N b
 XO-2 S b
@@ -5512,9 +5512,9 @@ XO-4 b
 XO-5 b
 XO-6 b
 XO-7 b
-YZ Cet b
-YZ Cet c
-YZ Cet d
+YZ Ceti b
+YZ Ceti c
+YZ Ceti d
 Kepler-291 c
 Kepler-292 b
 Kepler-292 c
@@ -5594,7 +5594,7 @@ TOI-2134 c
 TOI-2134 b
 GJ 806 c
 GJ 806 b
-AU Mic d
+AU Microscopii d
 TOI-1736 c
 TOI-4551 b
 TOI-2141 b
@@ -5611,8 +5611,8 @@ Luhman 16 b
 TOI-4438 b
 NGC 2682 Sand 1429 b
 OGLE-2016-BLG-1093L b
-CI Tau c
-HS Psc b
+CI Tauri c
+HS Piscium b
 LHS 1678 d
 TOI-4515 b
 TOI-1994 b
@@ -5970,7 +5970,7 @@ KOI-134 c
 KOI-134 b
 TOI-4465 b
 TOI-5800 b
-Proxima Cen d
+Proxima Centauri d
 TOI-1238 c
 TOI-1238 b
 TOI-2031 A b

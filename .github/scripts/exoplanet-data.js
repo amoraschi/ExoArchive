@@ -77,7 +77,7 @@ async function writeExoplanets () {
     pages = res.pages
 
     for (const planet of res.data) {
-      const filePath = `./src/data/exoplanets/${planet.id}-${planet.acf.exo_id}.json`
+      const filePath = `./src/data/exoplanets/${planet.id}-${planet.acf.display_name}.json`
       writeFileSync(filePath, JSON.stringify(planet, null, 2))
       console.log(`Wrote ${filePath}`)
     }

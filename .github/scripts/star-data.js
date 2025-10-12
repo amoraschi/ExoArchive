@@ -75,7 +75,7 @@ async function writeStars () {
     pages = res.pages
 
     for (const star of res.data) {
-      const filePath = `./src/data/stars/${star.id}-${star.acf.exo_id}.json`
+      const filePath = `./src/data/stars/${star.id}-${star.acf.display_name}.json`
       writeFileSync(filePath, JSON.stringify(star, null, 2))
       console.log(`Wrote ${filePath}`)
     }
