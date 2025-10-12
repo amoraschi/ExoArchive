@@ -21,7 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [],
+    "planet_ids": {
+      "0": 1036992,
+      "1": 1036991
+    },
     "exo_id": "TOI-6109",
     "st_optmag": 11.05,
     "st_vj": 11.05,
@@ -57,6 +60,16 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1036992"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1036991"
       }
     ],
     "wp:featuredmedia": [

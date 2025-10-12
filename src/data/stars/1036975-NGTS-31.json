@@ -21,7 +21,9 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [],
+    "planet_ids": [
+      1036990
+    ],
     "exo_id": "NGTS-31",
     "st_optmag": 13.519,
     "st_vj": 13.519,
@@ -57,6 +59,12 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1036990"
       }
     ],
     "wp:featuredmedia": [
