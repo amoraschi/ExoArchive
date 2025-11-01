@@ -1,0 +1,79 @@
+{
+  "id": 1165493,
+  "date": "2025-10-31T01:06:36",
+  "date_gmt": "2025-10-31T05:06:36",
+  "modified": "2025-10-31T01:06:36",
+  "modified_gmt": "2025-10-31T05:06:36",
+  "slug": "gj-251-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-251-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_251",
+    "pl_letter": "c",
+    "display_name": "GJ 251 c",
+    "planet_radius": "1.8 x Earth (estimate)",
+    "derived_description": "GJ 251 c is a super Earth exoplanet that orbits a M-type star. Its mass is 3.88 Earths, it takes 53.6 days to complete one orbit of its star, and is 0.196 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 5.58057,
+    "planet_mass": "3.88 Earths",
+    "st_optmag": 9.89,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.196,
+    "period_display": "53.6 days",
+    "eccentricity": "0.0",
+    "star_id": 263759,
+    "pl_orbper": 53.647,
+    "pl_kepflag": false,
+    "pl_radj": 0.16,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 0,
+    "multiple_planet_system": false,
+    "pl_rade": 1.8,
+    "exo_id": "GJ_251_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165493",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263759"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

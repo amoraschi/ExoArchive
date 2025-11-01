@@ -1,0 +1,79 @@
+{
+  "id": 1165471,
+  "date": "2025-10-31T01:06:26",
+  "date_gmt": "2025-10-31T05:06:26",
+  "modified": "2025-10-31T01:06:26",
+  "modified_gmt": "2025-10-31T05:06:26",
+  "slug": "55-cancri-b-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/55-cancri-b-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "55_Cnc_B",
+    "pl_letter": "c",
+    "display_name": "55 Cancri B c",
+    "planet_radius": "2.16 x Earth (estimate)",
+    "derived_description": "55 Cancri B c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 5.3 Earths, it takes 33.7 days to complete one orbit of its star, and is 0.13 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Mauna Kea Observatory",
+    "st_dist": 12.4773,
+    "planet_mass": "5.3 Earths",
+    "st_optmag": 13.152,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.13,
+    "period_display": "33.7 days",
+    "eccentricity": "0.0",
+    "star_id": 1165460,
+    "pl_orbper": 33.747,
+    "pl_kepflag": false,
+    "pl_radj": 0.193,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.16,
+    "exo_id": "55_Cnc_B_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165471",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1165460"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

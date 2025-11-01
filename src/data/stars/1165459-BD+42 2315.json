@@ -1,0 +1,69 @@
+{
+  "id": 1165459,
+  "date": "2025-10-30T23:55:15",
+  "date_gmt": "2025-10-31T03:55:15",
+  "modified": "2025-10-30T23:55:15",
+  "modified_gmt": "2025-10-31T03:55:15",
+  "slug": "bd42-2315",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bd42-2315/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "BD+42 2315",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canes Venatici",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "BD+42_2315",
+    "st_optmag": 9.723,
+    "st_vj": 9.723,
+    "st_dist": 610.715,
+    "st_j": 9.723,
+    "st_mass": 1.38,
+    "dec": 41.2695674,
+    "st_teff": 4500,
+    "st_rad": 17.85,
+    "ra": 187.5887597,
+    "system_radius": 80782849.8,
+    "pl_hostname": "BD+42_2315",
+    "stellar_type": "K",
+    "tic_id": "TIC 376689863",
+    "magnitude": 9.723
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1165459",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

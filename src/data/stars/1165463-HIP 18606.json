@@ -1,0 +1,69 @@
+{
+  "id": 1165463,
+  "date": "2025-10-30T23:55:17",
+  "date_gmt": "2025-10-31T03:55:17",
+  "modified": "2025-10-30T23:55:17",
+  "modified_gmt": "2025-10-31T03:55:17",
+  "slug": "hip-18606",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-18606/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 18606",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "HIP_18606",
+    "st_optmag": 5.83308,
+    "st_vj": 5.83308,
+    "st_dist": 47.0288,
+    "st_j": 5.83308,
+    "st_mass": 1.21,
+    "dec": -5.4706979,
+    "st_teff": 4860,
+    "st_rad": 4.83,
+    "ra": 59.7181058,
+    "system_radius": 240852570.7,
+    "pl_hostname": "HIP_18606",
+    "stellar_type": "K",
+    "tic_id": "TIC 49952922",
+    "magnitude": 5.83308
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1165463",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

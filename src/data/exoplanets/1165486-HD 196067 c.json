@@ -1,0 +1,79 @@
+{
+  "id": 1165486,
+  "date": "2025-10-31T01:06:33",
+  "date_gmt": "2025-10-31T05:06:33",
+  "modified": "2025-10-31T01:06:33",
+  "modified_gmt": "2025-10-31T05:06:33",
+  "slug": "hd-196067-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-196067-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_196067",
+    "pl_letter": "c",
+    "display_name": "HD 196067 c",
+    "planet_radius": "0.286 x Jupiter (estimate)",
+    "derived_description": "HD 196067 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.4 Earths, it takes 4.6 days to complete one orbit of its star, and is 0.056884572457812 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 39.9346,
+    "planet_mass": "10.4 Earths",
+    "st_optmag": 6.51,
+    "discovery_date": "2025",
+    "pl_orbsmax": "",
+    "period_display": "4.6 days",
+    "eccentricity": "0.23",
+    "star_id": 262194,
+    "pl_orbper": 4.601088,
+    "pl_kepflag": false,
+    "pl_radj": 0.286,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 295.5,
+    "multiple_planet_system": false,
+    "pl_rade": 3.21,
+    "exo_id": "HD_196067_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.235
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165486",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262194"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}
