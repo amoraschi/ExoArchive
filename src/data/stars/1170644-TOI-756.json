@@ -1,0 +1,69 @@
+{
+  "id": 1170644,
+  "date": "2025-11-13T23:22:06",
+  "date_gmt": "2025-11-14T04:22:06",
+  "modified": "2025-11-13T23:22:06",
+  "modified_gmt": "2025-11-14T04:22:06",
+  "slug": "toi-756",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-756/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-756",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "TOI-756",
+    "st_optmag": 14.607,
+    "st_vj": 14.607,
+    "st_dist": 86.1759,
+    "st_j": 14.607,
+    "st_mass": 0.505,
+    "dec": -45.4704709,
+    "st_teff": 3657,
+    "st_rad": 0.505,
+    "ra": 192.103738,
+    "system_radius": 65673464.93,
+    "pl_hostname": "TOI-756",
+    "stellar_type": "M",
+    "tic_id": "TIC 73649615",
+    "magnitude": 14.607
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1170644",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

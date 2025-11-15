@@ -1,0 +1,69 @@
+{
+  "id": 1170643,
+  "date": "2025-11-13T23:22:05",
+  "date_gmt": "2025-11-14T04:22:05",
+  "modified": "2025-11-13T23:22:05",
+  "modified_gmt": "2025-11-14T04:22:05",
+  "slug": "toi-283",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-283/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-283",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "TOI-283",
+    "st_optmag": 10.41,
+    "st_vj": 10.41,
+    "st_dist": 82.7013,
+    "st_j": 10.41,
+    "st_mass": 0.8,
+    "dec": -65.441482,
+    "st_teff": 5213,
+    "st_rad": 0.85,
+    "ra": 118.5693065,
+    "system_radius": 18400538.01,
+    "pl_hostname": "TOI-283",
+    "stellar_type": "K",
+    "tic_id": "TIC 382626661",
+    "magnitude": 10.41
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1170643",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}
