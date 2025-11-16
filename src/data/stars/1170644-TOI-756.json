@@ -21,7 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [],
+    "planet_ids": {
+      "0": 1170647,
+      "1": 1170646
+    },
     "exo_id": "TOI-756",
     "st_optmag": 14.607,
     "st_vj": 14.607,
@@ -57,6 +60,16 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1170647"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1170646"
       }
     ],
     "wp:featuredmedia": [
