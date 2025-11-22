@@ -1,0 +1,69 @@
+{
+  "id": 1175151,
+  "date": "2025-11-20T23:37:08",
+  "date_gmt": "2025-11-21T04:37:08",
+  "modified": "2025-11-20T23:37:08",
+  "modified_gmt": "2025-11-21T04:37:08",
+  "slug": "bebop-4-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bebop-4-a/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "BEBOP-4 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Coma Berenices",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [],
+    "exo_id": "BEBOP-4_A",
+    "st_optmag": 9.646,
+    "st_vj": 9.646,
+    "st_dist": 234.294,
+    "st_j": 9.646,
+    "st_mass": 1.507,
+    "dec": 26.1595358,
+    "st_teff": 5701.43,
+    "st_rad": 2.75645,
+    "ra": 192.5772651,
+    "system_radius": 543638659.58,
+    "pl_hostname": "BEBOP-4_A",
+    "stellar_type": "G",
+    "tic_id": "TIC 356710041",
+    "magnitude": 9.646
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1175151",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

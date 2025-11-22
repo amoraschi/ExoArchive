@@ -1,0 +1,79 @@
+{
+  "id": 1175158,
+  "date": "2025-11-21T00:51:21",
+  "date_gmt": "2025-11-21T05:51:21",
+  "modified": "2025-11-21T00:51:21",
+  "modified_gmt": "2025-11-21T05:51:21",
+  "slug": "bebop-4-ab-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/bebop-4-ab-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "BEBOP-4_A",
+    "pl_letter": "b",
+    "display_name": "BEBOP-4 AB b",
+    "planet_radius": "Unknown",
+    "derived_description": "BEBOP-4 AB b is a gas giant exoplanet that orbits a G-type star. Its mass is 26.3 Jupiters, it takes 5 years to complete one orbit of its star, and is 3.634 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Haute-Provence Observatory",
+    "st_dist": 234.294,
+    "planet_mass": "26.3 Jupiters",
+    "st_optmag": 9.646,
+    "discovery_date": "2025",
+    "pl_orbsmax": 3.634,
+    "period_display": "5 years",
+    "eccentricity": "0.43",
+    "star_id": 1175151,
+    "pl_orbper": 1823.5,
+    "pl_kepflag": false,
+    "pl_radj": "",
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 179.6,
+    "multiple_planet_system": false,
+    "pl_rade": "",
+    "exo_id": "BEBOP-4_AB_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.428
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1175158",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1175151"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}
