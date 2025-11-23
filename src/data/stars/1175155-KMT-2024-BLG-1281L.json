@@ -21,7 +21,9 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [],
+    "planet_ids": [
+      1175162
+    ],
     "exo_id": "KMT-2024-BLG-1281L",
     "st_optmag": "",
     "st_vj": "",
@@ -57,6 +59,12 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1175162"
       }
     ],
     "wp:featuredmedia": [
