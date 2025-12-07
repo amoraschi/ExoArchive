@@ -21,9 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      248451
-    ],
+    "planet_ids": {
+      "0": 1181875,
+      "1": 248451
+    },
     "exo_id": "TOI-1422",
     "st_optmag": 10.622,
     "st_vj": 10.622,
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1181875"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248451"

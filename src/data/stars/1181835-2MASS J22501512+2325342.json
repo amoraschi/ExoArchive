@@ -21,7 +21,9 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [],
+    "planet_ids": [
+      1181874
+    ],
     "exo_id": "2MASS_J22501512+2325342",
     "st_optmag": 14.784,
     "st_vj": 14.784,
@@ -57,6 +59,12 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1181874"
       }
     ],
     "wp:featuredmedia": [
