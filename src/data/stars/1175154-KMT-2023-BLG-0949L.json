@@ -1,0 +1,77 @@
+{
+  "id": 1175154,
+  "date": "2025-11-20T23:37:08",
+  "date_gmt": "2025-11-21T04:37:08",
+  "modified": "2025-11-20T23:37:08",
+  "modified_gmt": "2025-11-21T04:37:08",
+  "slug": "kmt-2023-blg-0949l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-0949l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2023-BLG-0949L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1175161
+    ],
+    "exo_id": "KMT-2023-BLG-0949L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6060,
+    "st_j": "",
+    "st_mass": 0.48,
+    "dec": -28.0914611,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 263.4194167,
+    "system_radius": 303683676.1,
+    "pl_hostname": "KMT-2023-BLG-0949L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1175154",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1175161"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

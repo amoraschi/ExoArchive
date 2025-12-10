@@ -1,0 +1,79 @@
+{
+  "id": 1181874,
+  "date": "2025-12-05T01:19:45",
+  "date_gmt": "2025-12-05T06:19:45",
+  "modified": "2025-12-05T01:19:45",
+  "modified_gmt": "2025-12-05T06:19:45",
+  "slug": "2mass-j225015122325342-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/2mass-j225015122325342-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "2MASS_J22501512+2325342",
+    "pl_letter": "b",
+    "display_name": "2MASS J22501512+2325342 b",
+    "planet_radius": "1.06 x Jupiter (estimate)",
+    "derived_description": "2MASS J22501512+2325342 b is a gas giant exoplanet that orbits a M-type star. Its mass is 30 Jupiters, it takes 17923.1 years to complete one orbit of its star, and is 518 AU from its star. Its discovery was announced in 2018.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Imaging",
+    "pl_facility": "The 2 (Two) Micron All Sky Survey (2MASS)",
+    "st_dist": 57.2309,
+    "planet_mass": "30 Jupiters",
+    "st_optmag": 14.784,
+    "discovery_date": "2018",
+    "pl_orbsmax": 518,
+    "period_display": "17923.1 years",
+    "eccentricity": "",
+    "star_id": 1181835,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 1.06,
+    "pl_disc": 2018,
+    "pl_publ_date": "2018",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 11.9,
+    "exo_id": "2MASS_J22501512+2325342_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1181874",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1181835"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

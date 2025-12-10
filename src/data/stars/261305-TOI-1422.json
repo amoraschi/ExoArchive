@@ -2,8 +2,8 @@
   "id": 261305,
   "date": "2023-11-28T20:36:41",
   "date_gmt": "2023-11-29T01:36:41",
-  "modified": "2025-04-23T05:54:49",
-  "modified_gmt": "2025-04-23T09:54:49",
+  "modified": "2025-12-05T00:04:24",
+  "modified_gmt": "2025-12-05T05:04:24",
   "slug": "toi-1422",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1422/",
@@ -21,20 +21,21 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      248451
-    ],
+    "planet_ids": {
+      "0": 1181875,
+      "1": 248451
+    },
     "exo_id": "TOI-1422",
     "st_optmag": 10.622,
     "st_vj": 10.622,
     "st_dist": 155.141,
     "st_j": 10.622,
-    "st_mass": 0.981,
+    "st_mass": 0.9903,
     "dec": 39.6392793,
     "st_teff": 5840,
     "st_rad": 1.019,
     "ra": 354.240829,
-    "system_radius": 16156569.96,
+    "system_radius": 30667563.35,
     "pl_hostname": "TOI-1422",
     "stellar_type": "G",
     "tic_id": "TIC 333473672",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1181875"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248451"

@@ -2,8 +2,8 @@
   "id": 263738,
   "date": "2023-11-28T21:07:31",
   "date_gmt": "2023-11-29T02:07:31",
-  "modified": "2025-04-23T05:57:03",
-  "modified_gmt": "2025-04-23T09:57:03",
+  "modified": "2025-10-30T23:55:15",
+  "modified_gmt": "2025-10-31T03:55:15",
   "slug": "hd_23079",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_23079/",
@@ -21,18 +21,19 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      244327
-    ],
+    "planet_ids": {
+      "0": 1165485,
+      "1": 244327
+    },
     "exo_id": "HD_23079",
     "st_optmag": 7.12,
     "st_vj": 7.12,
     "st_dist": 33.4591,
     "st_j": 7.12,
-    "st_mass": 1.12,
+    "st_mass": 1.16,
     "dec": -52.9162344,
-    "st_teff": 5974,
-    "st_rad": 1.07,
+    "st_teff": 5994,
+    "st_rad": 1.08,
     "ra": 54.9281897,
     "system_radius": 239356592,
     "pl_hostname": "HD_23079",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165485"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244327"

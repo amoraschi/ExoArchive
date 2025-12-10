@@ -1,0 +1,79 @@
+{
+  "id": 1175163,
+  "date": "2025-11-21T00:51:23",
+  "date_gmt": "2025-11-21T05:51:23",
+  "modified": "2025-11-21T00:51:23",
+  "modified_gmt": "2025-11-21T05:51:23",
+  "slug": "kmt-2024-blg-2059l-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2024-blg-2059l-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "KMT-2024-BLG-2059L",
+    "pl_letter": "b",
+    "display_name": "KMT-2024-BLG-2059L b",
+    "planet_radius": "0.227 x Jupiter (estimate)",
+    "derived_description": "KMT-2024-BLG-2059L b is a Neptune-like exoplanet that orbits a Unknown-type star. Its mass is 6.99222495 Earths, it takes 5.7 years to complete one orbit of its star, and is 2.55 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Microlensing",
+    "pl_facility": "KMTNet",
+    "st_dist": 6070,
+    "planet_mass": "6.99222495 Earths",
+    "st_optmag": "",
+    "discovery_date": "2025",
+    "pl_orbsmax": 2.55,
+    "period_display": "5.7 years",
+    "eccentricity": "",
+    "star_id": 1175156,
+    "pl_orbper": "",
+    "pl_kepflag": false,
+    "pl_radj": 0.227,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.54,
+    "exo_id": "KMT-2024-BLG-2059L_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1175163",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1175156"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

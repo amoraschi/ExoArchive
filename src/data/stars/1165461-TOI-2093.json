@@ -1,0 +1,82 @@
+{
+  "id": 1165461,
+  "date": "2025-10-30T23:55:16",
+  "date_gmt": "2025-10-31T03:55:16",
+  "modified": "2025-10-30T23:55:16",
+  "modified_gmt": "2025-10-31T03:55:16",
+  "slug": "toi-2093",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2093/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2093",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1165487,
+      "1": 1165482
+    },
+    "exo_id": "TOI-2093",
+    "st_optmag": 11.925,
+    "st_vj": 11.925,
+    "st_dist": 82.7982,
+    "st_j": 11.925,
+    "st_mass": 0.745,
+    "dec": 70.8696532,
+    "st_teff": 4426,
+    "st_rad": 0.729,
+    "ra": 302.7375229,
+    "system_radius": 38446652.59,
+    "pl_hostname": "TOI-2093",
+    "stellar_type": "K",
+    "tic_id": "TIC 402898317",
+    "magnitude": 11.925
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1165461",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165487"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165482"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

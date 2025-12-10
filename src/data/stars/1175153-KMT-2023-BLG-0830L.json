@@ -1,0 +1,77 @@
+{
+  "id": 1175153,
+  "date": "2025-11-20T23:37:08",
+  "date_gmt": "2025-11-21T04:37:08",
+  "modified": "2025-11-20T23:37:08",
+  "modified_gmt": "2025-11-21T04:37:08",
+  "slug": "kmt-2023-blg-0830l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-0830l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2023-BLG-0830L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1175160
+    ],
+    "exo_id": "KMT-2023-BLG-0830L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7250,
+    "st_j": "",
+    "st_mass": 0.22,
+    "dec": -28.3323111,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 271.6579583,
+    "system_radius": 254316379,
+    "pl_hostname": "KMT-2023-BLG-0830L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1175153",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1175160"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

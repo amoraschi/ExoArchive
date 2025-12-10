@@ -1,0 +1,77 @@
+{
+  "id": 1165466,
+  "date": "2025-10-30T23:55:17",
+  "date_gmt": "2025-10-31T03:55:17",
+  "modified": "2025-10-30T23:55:17",
+  "modified_gmt": "2025-10-31T03:55:17",
+  "slug": "bd37-3172",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/bd37-3172/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "BD+37 3172",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1165492
+    ],
+    "exo_id": "BD+37_3172",
+    "st_optmag": 9.162,
+    "st_vj": 9.162,
+    "st_dist": 454.251,
+    "st_j": 9.162,
+    "st_mass": 3.75,
+    "dec": 38.1153886,
+    "st_teff": 4500,
+    "st_rad": 50.24,
+    "ra": 278.8155071,
+    "system_radius": 695630095.5,
+    "pl_hostname": "BD+37_3172",
+    "stellar_type": "K",
+    "tic_id": "TIC 289572819",
+    "magnitude": 9.162
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1165466",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165492"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

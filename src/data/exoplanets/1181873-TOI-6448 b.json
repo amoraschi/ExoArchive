@@ -1,0 +1,79 @@
+{
+  "id": 1181873,
+  "date": "2025-12-05T01:19:45",
+  "date_gmt": "2025-12-05T06:19:45",
+  "modified": "2025-12-05T01:19:45",
+  "modified_gmt": "2025-12-05T06:19:45",
+  "slug": "toi-6448-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-6448-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-6448",
+    "pl_letter": "b",
+    "display_name": "TOI-6448 b",
+    "planet_radius": "0.756 x Jupiter",
+    "derived_description": "TOI-6448 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.17 Jupiters, it takes 14.8 days to complete one orbit of its star, and is 0.131 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 386.879,
+    "planet_mass": "0.17 Jupiters",
+    "st_optmag": 12.886,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.131,
+    "period_display": "14.8 days",
+    "eccentricity": "0.2",
+    "star_id": 1181834,
+    "pl_orbper": 14.844261,
+    "pl_kepflag": false,
+    "pl_radj": 0.756,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 143.9,
+    "multiple_planet_system": false,
+    "pl_rade": 8.47398941,
+    "exo_id": "TOI-6448_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.2
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1181873",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1181834"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

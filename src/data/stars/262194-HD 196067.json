@@ -2,8 +2,8 @@
   "id": 262194,
   "date": "2023-11-28T20:47:54",
   "date_gmt": "2023-11-29T01:47:54",
-  "modified": "2025-10-09T23:17:03",
-  "modified_gmt": "2025-10-10T03:17:03",
+  "modified": "2025-10-30T23:55:15",
+  "modified_gmt": "2025-10-31T03:55:15",
   "slug": "hd_196067",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_196067/",
@@ -21,20 +21,21 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      244214
-    ],
+    "planet_ids": {
+      "0": 1165486,
+      "1": 244214
+    },
     "exo_id": "HD_196067",
     "st_optmag": 6.51,
     "st_vj": 6.51,
     "st_dist": 39.9346,
     "st_j": 6.51,
-    "st_mass": 1.26,
+    "st_mass": 1.16,
     "dec": -75.3514992,
-    "st_teff": 6017,
-    "st_rad": 1.73,
+    "st_teff": 6072,
+    "st_rad": 1.71,
     "ra": 310.4364195,
-    "system_radius": 762949137,
+    "system_radius": 704605967.7,
     "pl_hostname": "HD_196067",
     "stellar_type": "F",
     "tic_id": "TIC 327303574",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1165486"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244214"
