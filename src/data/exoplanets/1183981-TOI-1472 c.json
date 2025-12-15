@@ -1,0 +1,79 @@
+{
+  "id": 1183981,
+  "date": "2025-12-12T01:33:51",
+  "date_gmt": "2025-12-12T06:33:51",
+  "modified": "2025-12-12T01:33:51",
+  "modified_gmt": "2025-12-12T06:33:51",
+  "slug": "toi-1472-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1472-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1472",
+    "pl_letter": "c",
+    "display_name": "TOI-1472 c",
+    "planet_radius": "0.298 x Jupiter",
+    "derived_description": "TOI-1472 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 21.13 Earths, it takes 15.5 days to complete one orbit of its star, and is 0.116 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 121.84,
+    "planet_mass": "21.13 Earths",
+    "st_optmag": 11.302,
+    "discovery_date": "2025",
+    "pl_orbsmax": 0.116,
+    "period_display": "15.5 days",
+    "eccentricity": "0.17",
+    "star_id": 409975,
+    "pl_orbper": 15.5381747,
+    "pl_kepflag": false,
+    "pl_radj": 0.298,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": 164.7,
+    "multiple_planet_system": false,
+    "pl_rade": 3.334,
+    "exo_id": "TOI-1472_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.172
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1183981",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409975"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}
