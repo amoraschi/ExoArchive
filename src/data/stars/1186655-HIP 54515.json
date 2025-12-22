@@ -1,19 +1,19 @@
 {
-  "id": 263128,
-  "date": "2023-11-28T20:59:46",
-  "date_gmt": "2023-11-29T01:59:46",
+  "id": 1186655,
+  "date": "2025-12-19T00:30:17",
+  "date_gmt": "2025-12-19T05:30:17",
   "modified": "2025-12-19T00:30:17",
   "modified_gmt": "2025-12-19T05:30:17",
-  "slug": "wasp-136",
+  "slug": "hip-54515",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-136/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-54515/",
   "featured_media": 0,
   "categories": [],
   "acf": {
-    "display_name": "WASP-136",
+    "display_name": "HIP 54515",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Cetus",
+    "constellation": "Leo",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      248775
+      1186666
     ],
-    "exo_id": "WASP-136",
-    "st_optmag": 9.974,
-    "st_vj": 9.974,
-    "st_dist": 275.587,
-    "st_j": 9.974,
-    "st_mass": 1.41,
-    "dec": -8.9262512,
-    "st_teff": 6250,
-    "st_rad": 2.39014,
-    "ra": 0.325761,
-    "system_radius": 9888419.207,
-    "pl_hostname": "WASP-136",
-    "stellar_type": "F",
-    "tic_id": "TIC 176220787",
-    "magnitude": 9.974
+    "exo_id": "HIP_54515",
+    "st_optmag": 6.807,
+    "st_vj": 6.807,
+    "st_dist": 82.8101,
+    "st_j": 6.807,
+    "st_mass": 1.9,
+    "dec": -1.3332838,
+    "st_teff": 8100,
+    "st_rad": 1.64915,
+    "ra": 167.3066308,
+    "system_radius": 3710027176,
+    "pl_hostname": "HIP_54515",
+    "stellar_type": "A",
+    "tic_id": "TIC 62903306",
+    "magnitude": 6.807
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263128",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1186655",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248775"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1186666"
       }
     ]
   }
