@@ -2,8 +2,8 @@
   "id": 244703,
   "date": "2019-04-22T16:48:52",
   "date_gmt": "2019-04-22T20:48:52",
-  "modified": "2025-06-25T12:05:03",
-  "modified_gmt": "2025-06-25T16:05:03",
+  "modified": "2026-01-08T02:35:14",
+  "modified_gmt": "2026-01-08T07:35:14",
   "slug": "hn-pegasi-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hn-pegasi-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 773,
     "period_display": "20692.2 years",
     "eccentricity": "",
-    "star_id": 262414,
+    "star_id": 1189836,
     "pl_orbper": "",
     "pl_kepflag": false,
     "pl_radj": 1.05066,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262414"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189836"
       }
     ],
     "wp:featuredmedia": [

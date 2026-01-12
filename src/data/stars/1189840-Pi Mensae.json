@@ -1,0 +1,87 @@
+{
+  "id": 1189840,
+  "date": "2026-01-08T01:10:28",
+  "date_gmt": "2026-01-08T06:10:28",
+  "modified": "2026-01-11T01:16:23",
+  "modified_gmt": "2026-01-11T06:16:23",
+  "slug": "hd-39091",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-39091/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Pi Mensae",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 248344,
+      "1": 248343,
+      "2": 244424
+    },
+    "exo_id": "HD_39091",
+    "st_optmag": 5.666,
+    "st_vj": 5.666,
+    "st_dist": 18.2874,
+    "st_j": 5.666,
+    "st_mass": 1.08,
+    "dec": -80.4691207,
+    "st_teff": 5982,
+    "st_rad": 1.153,
+    "ra": 84.2911952,
+    "system_radius": 490681013.6,
+    "pl_hostname": "HD_39091",
+    "stellar_type": "F",
+    "tic_id": "TIC 261136679",
+    "magnitude": 5.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189840",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248344"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248343"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244424"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

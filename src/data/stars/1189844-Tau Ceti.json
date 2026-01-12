@@ -1,0 +1,92 @@
+{
+  "id": 1189844,
+  "date": "2026-01-08T01:10:50",
+  "date_gmt": "2026-01-08T06:10:50",
+  "modified": "2026-01-11T01:16:22",
+  "modified_gmt": "2026-01-11T06:16:22",
+  "slug": "tau-ceti-2",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tau-ceti-2/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Tau Ceti",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248386,
+      248387,
+      248388,
+      248389
+    ],
+    "exo_id": "tau_Cet",
+    "st_optmag": 3.496,
+    "st_vj": 3.496,
+    "st_dist": 3.6522,
+    "st_j": 3.496,
+    "st_mass": 0.94,
+    "dec": -15.9374799,
+    "st_teff": 5356,
+    "st_rad": 0.826,
+    "ra": 26.0170131,
+    "system_radius": 199563558.58,
+    "pl_hostname": "tau_Cet",
+    "stellar_type": "G",
+    "tic_id": "TIC 419015728",
+    "magnitude": 3.5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189844",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248389"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248388"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248387"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248386"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

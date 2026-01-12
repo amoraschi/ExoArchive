@@ -2,8 +2,8 @@
   "id": 248388,
   "date": "2019-04-22T16:49:23",
   "date_gmt": "2019-04-22T20:49:23",
-  "modified": "2025-07-07T20:32:24",
-  "modified_gmt": "2025-07-08T00:32:24",
+  "modified": "2026-01-08T02:36:09",
+  "modified_gmt": "2026-01-08T07:36:09",
   "slug": "tau-ceti-g",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/tau-ceti-g/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.133,
     "period_display": "20 days",
     "eccentricity": "0.06",
-    "star_id": 260416,
+    "star_id": 1189844,
     "pl_orbper": 20,
     "pl_kepflag": false,
     "pl_radj": 0.105,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260416"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189844"
       }
     ],
     "wp:featuredmedia": [

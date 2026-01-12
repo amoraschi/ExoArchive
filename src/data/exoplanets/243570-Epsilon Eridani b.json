@@ -2,8 +2,8 @@
   "id": 243570,
   "date": "2019-04-22T16:48:52",
   "date_gmt": "2019-04-22T20:48:52",
-  "modified": "2024-10-24T17:04:32",
-  "modified_gmt": "2024-10-24T21:04:32",
+  "modified": "2026-01-08T02:36:27",
+  "modified_gmt": "2026-01-08T07:36:27",
   "slug": "epsilon-eridani-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/epsilon-eridani-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 3.53,
     "period_display": "7.3 years",
     "eccentricity": "0.07",
-    "star_id": 263121,
+    "star_id": 1189848,
     "pl_orbper": 2671,
     "pl_kepflag": false,
     "pl_radj": 1.25,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263121"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189848"
       }
     ],
     "wp:featuredmedia": [

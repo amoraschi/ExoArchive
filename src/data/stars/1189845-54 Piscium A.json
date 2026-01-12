@@ -1,0 +1,77 @@
+{
+  "id": 1189845,
+  "date": "2026-01-08T01:10:54",
+  "date_gmt": "2026-01-08T06:10:54",
+  "modified": "2026-01-11T01:16:22",
+  "modified_gmt": "2026-01-11T06:16:22",
+  "slug": "hd-3651",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-3651/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "54 Piscium A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244413
+    ],
+    "exo_id": "HD_3651",
+    "st_optmag": 5.863,
+    "st_vj": 5.863,
+    "st_dist": 11.1081,
+    "st_j": 5.863,
+    "st_mass": 0.86,
+    "dec": 21.2504758,
+    "st_teff": 5203,
+    "st_rad": 0.898,
+    "ra": 9.8408558,
+    "system_radius": 44131371.65,
+    "pl_hostname": "HD_3651",
+    "stellar_type": "K",
+    "tic_id": "TIC 434210589",
+    "magnitude": 5.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189845",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244413"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

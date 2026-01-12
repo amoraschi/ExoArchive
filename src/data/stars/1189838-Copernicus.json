@@ -1,18 +1,18 @@
 {
-  "id": 262336,
-  "date": "2023-11-28T20:49:41",
-  "date_gmt": "2023-11-29T01:49:41",
-  "modified": "2026-01-04T01:03:18",
-  "modified_gmt": "2026-01-04T06:03:18",
-  "slug": "55_cnc",
+  "id": 1189838,
+  "date": "2026-01-08T01:10:23",
+  "date_gmt": "2026-01-08T06:10:23",
+  "modified": "2026-01-11T01:16:19",
+  "modified_gmt": "2026-01-11T06:16:19",
+  "slug": "55-cancri",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/55_cnc/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/55-cancri/",
   "featured_media": 429649,
   "categories": [],
   "acf": {
     "display_name": "Copernicus",
-    "custom_star_title": "55 Cancri",
-    "aliases": "55 Cancri,HD 75732 A,HR 3522 A,GJ 324A",
+    "custom_star_title": "",
+    "aliases": "",
     "constellation": "Cancer",
     "custom_star_description": "",
     "tagline": "",
@@ -47,7 +47,7 @@
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262336",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189838",
         "targetHints": {
           "allow": [
             "GET"

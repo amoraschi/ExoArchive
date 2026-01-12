@@ -1,0 +1,77 @@
+{
+  "id": 1189853,
+  "date": "2026-01-08T01:11:09",
+  "date_gmt": "2026-01-08T06:11:09",
+  "modified": "2026-01-11T01:16:22",
+  "modified_gmt": "2026-01-11T06:16:22",
+  "slug": "hr-810",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hr-810/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Iota Horologii",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Horologium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244706
+    ],
+    "exo_id": "HR_810",
+    "st_optmag": 5.395,
+    "st_vj": 5.395,
+    "st_dist": 17.3572,
+    "st_j": 5.395,
+    "st_mass": 1.14,
+    "dec": -50.8002931,
+    "st_teff": 6157,
+    "st_rad": 1.158,
+    "ra": 40.6394444,
+    "system_radius": 137630040.4,
+    "pl_hostname": "HR_810",
+    "stellar_type": "F",
+    "tic_id": "TIC 166853853",
+    "magnitude": 5.4
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189853",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244706"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

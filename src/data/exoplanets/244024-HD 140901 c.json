@@ -2,8 +2,8 @@
   "id": 244024,
   "date": "2022-09-27T08:32:10",
   "date_gmt": "2022-09-27T12:32:10",
-  "modified": "2025-07-07T20:38:14",
-  "modified_gmt": "2025-07-08T00:38:14",
+  "modified": "2026-01-08T02:36:36",
+  "modified_gmt": "2026-01-08T07:36:36",
   "slug": "hd-140901-c",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-140901-c/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 11.8,
     "period_display": "39.4 years",
     "eccentricity": "0.77",
-    "star_id": 262110,
+    "star_id": 1189839,
     "pl_orbper": 14386,
     "pl_kepflag": false,
     "pl_radj": 1.2,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262110"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189839"
       }
     ],
     "wp:featuredmedia": [

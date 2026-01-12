@@ -2,8 +2,8 @@
   "id": 244111,
   "date": "2019-04-22T16:48:46",
   "date_gmt": "2019-04-22T20:48:46",
-  "modified": "2025-07-07T20:39:43",
-  "modified_gmt": "2025-07-08T00:39:43",
+  "modified": "2026-01-08T02:35:54",
+  "modified_gmt": "2026-01-08T07:35:54",
   "slug": "hd-160691-e",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-160691-e/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.934,
     "period_display": "307.9 days",
     "eccentricity": "0.07",
-    "star_id": 261193,
+    "star_id": 1189842,
     "pl_orbper": 307.9,
     "pl_kepflag": false,
     "pl_radj": "",
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261193"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189842"
       }
     ],
     "wp:featuredmedia": [

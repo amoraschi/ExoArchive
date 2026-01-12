@@ -2,8 +2,8 @@
   "id": 243705,
   "date": "2020-07-10T13:27:27",
   "date_gmt": "2020-07-10T17:27:27",
-  "modified": "2025-06-25T12:04:49",
-  "modified_gmt": "2025-06-25T16:04:49",
+  "modified": "2026-01-08T02:36:18",
+  "modified_gmt": "2026-01-08T07:36:18",
   "slug": "gj-887-c",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/gj-887-c/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.12,
     "period_display": "21.8 days",
     "eccentricity": "",
-    "star_id": 260596,
+    "star_id": 1189846,
     "pl_orbper": 21.789,
     "pl_kepflag": false,
     "pl_radj": 0.238,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260596"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189846"
       }
     ],
     "wp:featuredmedia": [

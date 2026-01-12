@@ -1,0 +1,92 @@
+{
+  "id": 1189841,
+  "date": "2026-01-08T01:10:29",
+  "date_gmt": "2026-01-08T06:10:29",
+  "modified": "2026-01-11T01:16:22",
+  "modified_gmt": "2026-01-11T06:16:22",
+  "slug": "hd-20794",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-20794/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "82 Eridani",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 448210,
+      "1": 244255,
+      "2": 244252,
+      "3": 244254
+    },
+    "exo_id": "HD_20794",
+    "st_optmag": 4.258,
+    "st_vj": 4.258,
+    "st_dist": 6.0414,
+    "st_j": 4.258,
+    "st_mass": 0.97,
+    "dec": -43.069782,
+    "st_teff": 5432,
+    "st_rad": 0.913,
+    "ra": 49.9818788,
+    "system_radius": 202570475.767,
+    "pl_hostname": "HD_20794",
+    "stellar_type": "G",
+    "tic_id": "TIC 301051051",
+    "magnitude": 4.3
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189841",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/448210"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244255"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244254"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244252"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

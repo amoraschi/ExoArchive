@@ -2,8 +2,8 @@
   "id": 244254,
   "date": "2019-04-22T16:48:39",
   "date_gmt": "2019-04-22T20:48:39",
-  "modified": "2025-07-07T17:57:37",
-  "modified_gmt": "2025-07-07T21:57:37",
+  "modified": "2026-01-08T02:36:46",
+  "modified_gmt": "2026-01-08T07:36:46",
   "slug": "hd-20794-d",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-20794-d/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.3625,
     "period_display": "89.7 days",
     "eccentricity": "0.08",
-    "star_id": 263011,
+    "star_id": 1189841,
     "pl_orbper": 89.68,
     "pl_kepflag": false,
     "pl_radj": 0.182,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263011"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189841"
       }
     ],
     "wp:featuredmedia": [

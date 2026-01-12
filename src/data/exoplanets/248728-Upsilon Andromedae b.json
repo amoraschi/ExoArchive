@@ -2,8 +2,8 @@
   "id": 248728,
   "date": "2019-04-22T16:48:52",
   "date_gmt": "2019-04-22T20:48:52",
-  "modified": "2025-07-07T17:23:17",
-  "modified_gmt": "2025-07-07T21:23:17",
+  "modified": "2026-01-08T02:36:45",
+  "modified_gmt": "2026-01-08T07:36:45",
   "slug": "upsilon-andromedae-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/upsilon-andromedae-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.05922166,
     "period_display": "4.6 days",
     "eccentricity": "0.02",
-    "star_id": 263650,
+    "star_id": 1189835,
     "pl_orbper": 4.617033,
     "pl_kepflag": false,
     "pl_radj": 1.25,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263650"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189835"
       }
     ],
     "wp:featuredmedia": [

@@ -2,8 +2,8 @@
   "id": 243407,
   "date": "2019-04-22T16:48:47",
   "date_gmt": "2019-04-22T20:48:47",
-  "modified": "2025-06-25T12:04:38",
-  "modified_gmt": "2025-06-25T16:04:38",
+  "modified": "2026-01-08T02:35:15",
+  "modified_gmt": "2026-01-08T07:35:15",
   "slug": "47-ursae-majoris-c",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/47-ursae-majoris-c/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 3.6,
     "period_display": "6.6 years",
     "eccentricity": "0.1",
-    "star_id": 260646,
+    "star_id": 1189837,
     "pl_orbper": 2391,
     "pl_kepflag": false,
     "pl_radj": 1.27,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260646"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189837"
       }
     ],
     "wp:featuredmedia": [

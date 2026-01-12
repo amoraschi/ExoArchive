@@ -1,0 +1,77 @@
+{
+  "id": 1189848,
+  "date": "2026-01-08T01:10:59",
+  "date_gmt": "2026-01-08T06:10:59",
+  "modified": "2026-01-11T01:16:22",
+  "modified_gmt": "2026-01-11T06:16:22",
+  "slug": "epsilon-eridani",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/epsilon-eridani/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Ran",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243570
+    ],
+    "exo_id": "eps_Eri",
+    "st_optmag": 3.718,
+    "st_vj": 3.718,
+    "st_dist": 3.2198,
+    "st_j": 3.718,
+    "st_mass": 0.78,
+    "dec": -9.458261,
+    "st_teff": 5098,
+    "st_rad": 0.746,
+    "ra": 53.2326854,
+    "system_radius": 528080481.1,
+    "pl_hostname": "eps_Eri",
+    "stellar_type": "K",
+    "tic_id": "TIC 118572803",
+    "magnitude": 3.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189848",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243570"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

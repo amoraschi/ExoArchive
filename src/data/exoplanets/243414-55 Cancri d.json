@@ -2,8 +2,8 @@
   "id": 243414,
   "date": "2019-04-22T16:48:47",
   "date_gmt": "2019-04-22T20:48:47",
-  "modified": "2025-10-31T01:06:27",
-  "modified_gmt": "2025-10-31T05:06:27",
+  "modified": "2026-01-08T02:35:58",
+  "modified_gmt": "2026-01-08T07:35:58",
   "slug": "55-cancri-d",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/55-cancri-d/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 5.6,
     "period_display": "13.1 years",
     "eccentricity": "0.09",
-    "star_id": 262336,
+    "star_id": 1189838,
     "pl_orbper": 4799,
     "pl_kepflag": false,
     "pl_radj": 1.16,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262336"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189838"
       }
     ],
     "wp:featuredmedia": [

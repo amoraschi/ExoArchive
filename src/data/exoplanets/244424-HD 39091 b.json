@@ -2,8 +2,8 @@
   "id": 244424,
   "date": "2019-04-22T16:48:39",
   "date_gmt": "2019-04-22T20:48:39",
-  "modified": "2025-07-07T20:44:36",
-  "modified_gmt": "2025-07-08T00:44:36",
+  "modified": "2026-01-08T02:35:43",
+  "modified_gmt": "2026-01-08T07:35:43",
   "slug": "hd-39091-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-39091-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 3.28,
     "period_display": "5.7 years",
     "eccentricity": "0.64",
-    "star_id": 262540,
+    "star_id": 1189840,
     "pl_orbper": 2088.8,
     "pl_kepflag": false,
     "pl_radj": 1.1,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262540"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189840"
       }
     ],
     "wp:featuredmedia": [

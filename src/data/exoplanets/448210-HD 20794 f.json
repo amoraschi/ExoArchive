@@ -2,8 +2,8 @@
   "id": 448210,
   "date": "2025-02-01T04:34:44",
   "date_gmt": "2025-02-01T09:34:44",
-  "modified": "2025-06-25T12:05:34",
-  "modified_gmt": "2025-06-25T16:05:34",
+  "modified": "2026-01-08T02:35:38",
+  "modified_gmt": "2026-01-08T07:35:38",
   "slug": "hd-20794-f",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-20794-f/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 1.3541,
     "period_display": "1.8 years",
     "eccentricity": "0.45",
-    "star_id": 263011,
+    "star_id": 1189841,
     "pl_orbper": 647.6,
     "pl_kepflag": false,
     "pl_radj": 0.203,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263011"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189841"
       }
     ],
     "wp:featuredmedia": [

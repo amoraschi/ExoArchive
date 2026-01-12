@@ -2,8 +2,8 @@
   "id": 243901,
   "date": "2019-04-22T16:48:42",
   "date_gmt": "2019-04-22T20:48:42",
-  "modified": "2024-10-24T17:45:58",
-  "modified_gmt": "2024-10-24T21:45:58",
+  "modified": "2026-01-08T02:36:44",
+  "modified_gmt": "2026-01-08T07:36:44",
   "slug": "hd-10647-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-10647-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 2.015,
     "period_display": "2.7 years",
     "eccentricity": "0.15",
-    "star_id": 262293,
+    "star_id": 1189852,
     "pl_orbper": 989.2,
     "pl_kepflag": false,
     "pl_radj": 1.23,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262293"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189852"
       }
     ],
     "wp:featuredmedia": [

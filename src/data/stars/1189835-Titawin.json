@@ -1,0 +1,87 @@
+{
+  "id": 1189835,
+  "date": "2026-01-08T01:10:14",
+  "date_gmt": "2026-01-08T06:10:14",
+  "modified": "2026-01-11T01:16:22",
+  "modified_gmt": "2026-01-11T06:16:22",
+  "slug": "upsilon-andromedae",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/upsilon-andromedae/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "Titawin",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      248728,
+      248729,
+      248730
+    ],
+    "exo_id": "ups_And",
+    "st_optmag": 4.1,
+    "st_vj": 4.1,
+    "st_dist": 13.4916,
+    "st_j": 4.1,
+    "st_mass": 1.18,
+    "dec": 41.4054587,
+    "st_teff": 6154,
+    "st_rad": 1.611,
+    "ra": 24.1993398,
+    "system_radius": 375982830.6923,
+    "pl_hostname": "ups_And",
+    "stellar_type": "F",
+    "tic_id": "TIC 189576919",
+    "magnitude": 4.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189835",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248730"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248729"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248728"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

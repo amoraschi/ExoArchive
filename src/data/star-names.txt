@@ -47,6 +47,33 @@ CD-35 2722
 WASP-108
 TOI-6041
 HIP 54515
+Nu2 Lupi
+61 Virginis
+Titawin
+HN Pegasi
+Chalawan
+Copernicus
+HD 140901 A
+Pi Mensae
+82 Eridani
+Cervantes
+Rho Coronae Borealis
+Tau Ceti
+54 Piscium A
+Lacaille 9352
+Lambda Serpentis
+Ran
+Lalande 21185
+Epsilon Indi
+20 Leonis Minoris A
+q1 Eridani
+Iota Horologii
+TOI-5489
+TOI-5716
+TOI-5728
+TOI-5736
+V2376 Orionis
+HD 128717
 OGLE-2016-BLG-1227L
 Kepler-276
 Kepler-829
@@ -72,7 +99,6 @@ TOI-1470
 V1298 Tauri
 HD 22946
 HAT-P-23
-Tau Ceti
 K2-254
 K2-282
 NSVS 14256825
@@ -92,7 +118,6 @@ Kepler-113
 Kepler-1097
 Kepler-382
 Kepler-1310
-61 Virginis
 Kepler-57
 70 Virginis
 Kepler-255
@@ -248,9 +273,7 @@ Kepler-197
 4 Ursae Majoris
 HD 21411
 HD 73534
-Lalande 21185
 GJ 687
-Lacaille 9352
 HD 64114
 HD 220842
 HD 221585
@@ -294,12 +317,10 @@ HD 167768
 Kepler-720
 HD 207897
 KELT-14
-Rho Coronae Borealis
 HAT-P-30
 TOI-3362
 GJ 486
 HAT-P-69
-Chalawan
 K2-415
 BD-11 4672
 HATS-44
@@ -842,7 +863,6 @@ Kepler-1810
 HD 96063
 HD 98219
 HIP 65407
-Cervantes
 Kepler-1863
 HIP 54373
 HD 109246
@@ -850,7 +870,6 @@ HIP 57274
 HIP 71135
 WASP-130
 OGLE-2014-BLG-0124L
-Iota Horologii
 HR 8799
 K2-119
 K2-122
@@ -1751,7 +1770,6 @@ OGLE-2018-BLG-1269L
 TOI-969
 HD 124330
 Kepler-374
-HD 140901 A
 Kepler-617
 Kepler-378
 Kepler-532
@@ -1934,7 +1952,6 @@ WASP-176
 HD 115404 A
 HD 81817
 WASP-181
-q1 Eridani
 HD 240210
 HD 1397
 HD 114613
@@ -1976,7 +1993,6 @@ HD 10697
 HIP 56640
 HD 108147
 HD 153950
-Copernicus
 HD 163607
 HD 109271
 HD 13908
@@ -1992,7 +2008,6 @@ Kepler-1694
 HD 110537
 HD 4113
 HD 73267
-Lambda Serpentis
 HD 171238
 HD 164604
 HD 143105
@@ -2040,7 +2055,6 @@ Kepler-493
 Kepler-506
 HATS-62
 HATS-65
-Kepler-1658
 Kepler-74
 K2-395
 HD 34445
@@ -2053,7 +2067,6 @@ K2-104
 K2-130
 K2-183
 16 Cygni B
-HN Pegasi
 HATS-43
 HATS-39
 HATS-48 A
@@ -2179,7 +2192,6 @@ HD 6434
 Kappa Coronae Borealis
 HD 9446
 GJ 179
-Pi Mensae
 HD 28192
 K2-178
 HD 94834
@@ -2633,7 +2645,6 @@ Kepler-418
 HATS-74 A
 HATS-71
 HD 11977
-Nu2 Lupi
 Kepler-471
 Wendelstein-1
 KPS-1
@@ -2648,7 +2659,6 @@ ROXs 42 B
 OGLE-2016-BLG-1067L
 HATS-34
 K2-261
-82 Eridani
 WASP-55
 KELT-21
 K2-321
@@ -2758,7 +2768,6 @@ Kepler-1922
 KIC 5479689
 WASP-35
 WASP-38
-Ran
 Kepler-1747
 Kepler-607
 Kepler-799
@@ -2887,7 +2896,6 @@ HD 181720
 HD 192699
 HD 20782
 HD 219415
-54 Piscium A
 HD 37124
 HD 216770
 HD 38801
@@ -3274,7 +3282,6 @@ K2-115
 HD 108341
 TOI-132
 Epsilon Coronae Borealis
-Epsilon Indi
 Kepler-612
 Kepler-900
 Kepler-956
@@ -3285,7 +3292,6 @@ Kepler-1213
 Kepler-1265
 Kepler-1282
 Kepler-1625
-Titawin
 UKIRT-2017-BLG-001L
 V0391 Pegasi
 K2-202
@@ -4518,7 +4524,6 @@ IRAS 04125+2902
 TOI-4994
 KMT-2021-BLG-2609L
 KMT-2022-BLG-0303L
-20 Leonis Minoris A
 TOI-4504
 TOI-5688 A
 TOI-6383 A

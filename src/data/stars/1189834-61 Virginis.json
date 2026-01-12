@@ -1,0 +1,87 @@
+{
+  "id": 1189834,
+  "date": "2026-01-08T01:10:13",
+  "date_gmt": "2026-01-08T06:10:13",
+  "modified": "2026-01-11T01:16:20",
+  "modified_gmt": "2026-01-11T06:16:20",
+  "slug": "61-virginis-2",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/61-virginis-2/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "61 Virginis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      243417,
+      243418,
+      243419
+    ],
+    "exo_id": "61_Vir",
+    "st_optmag": 4.735,
+    "st_vj": 4.735,
+    "st_dist": 8.5344,
+    "st_j": 4.735,
+    "st_mass": 0.97,
+    "dec": -18.3111938,
+    "st_teff": 5552,
+    "st_rad": 0.982,
+    "ra": 199.6013083,
+    "system_radius": 71208586.12,
+    "pl_hostname": "61_Vir",
+    "stellar_type": "G",
+    "tic_id": "TIC 422478973",
+    "magnitude": 4.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189834",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243419"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243418"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243417"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

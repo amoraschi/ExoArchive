@@ -403,6 +403,41 @@ HIP 54515 b is a gas giant exoplanet that orbits a A-type star. Its mass is 17.7
 TOI-6041 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.24510081 Jupiters, it takes 88 days to complete one orbit of its star, and is 0.3721 AU from its star. Its discovery was announced in 2025.
 
 
+1190147-TOI-5489 b.json
+45.0907
+TOI-5489 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.54 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.031256506882791 AU from its star. Its discovery was announced in 2025.
+
+
+1190148-TOI-5716 b.json
+39.4122
+TOI-5716 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.84 Earths, it takes 6.8 days to complete one orbit of its star, and is 0.040248853019462 AU from its star. Its discovery was announced in 2025.
+
+
+1190149-TOI-5728 b.json
+54.7045
+TOI-5728 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.27 Earths, it takes 11.5 days to complete one orbit of its star, and is 0.070920865104996 AU from its star. Its discovery was announced in 2025.
+
+
+1190150-TOI-5736 b.json
+92.3604
+TOI-5736 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.05 Earths, it takes 0.6 days to complete one orbit of its star, and is 0.012163309678094 AU from its star. Its discovery was announced in 2025.
+
+
+1190152-TOI-5489 c.json
+45.0907
+TOI-5489 c is a super Earth exoplanet that orbits a M-type star. Its mass is 2.18 Earths, it takes 4.9 days to complete one orbit of its star, and is 0.042064296942535 AU from its star. Its discovery was announced in 2025.
+
+
+1190153-V2376 Orionis b.json
+
+V2376 Orionis b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 20 Jupiters, it takes 892.3 years to complete one orbit of its star, and is 71 AU from its star. Its discovery was announced in 2025.
+
+
+1190158-HD 128717 b.json
+73.636
+HD 128717 b is a gas giant exoplanet that orbits a F-type star. Its mass is 19.8 Jupiters, it takes 9.4 years to complete one orbit of its star, and is 4.85 AU from its star. Its discovery was announced in 2025.
+
+
 243385-11 Comae Berenices b.json
 93.1846
 11 Comae Berenices b is a gas giant exoplanet that orbits a K-type star. Its mass is 15.464 Jupiters, it takes 323.2 days to complete one orbit of its star, and is 1.178 AU from its star. Its discovery was announced in 2007.
@@ -2080,12 +2115,12 @@ HAT-P-16 b is a gas giant exoplanet that orbits a F-type star. Its mass is 4.221
 
 243730-HAT-P-17 b.json
 92.3831
-HAT-P-17 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.58 Jupiters, it takes 10.3 days to complete one orbit of its star, and is 0.0882 AU from its star. Its discovery was announced in 2010.
+HAT-P-17 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.58 Jupiters, it takes 10.3 days to complete one orbit of its star, and is 0.0892 AU from its star. Its discovery was announced in 2010.
 
 
 243731-HAT-P-17 c.json
 92.3831
-HAT-P-17 c is a gas giant exoplanet that orbits a G-type star. Its mass is 3.4 Jupiters, it takes 15.3 years to complete one orbit of its star, and is 5.6 AU from its star. Its discovery was announced in 2010.
+HAT-P-17 c is a gas giant exoplanet that orbits a K-type star. Its mass is 3.4 Jupiters, it takes 15.3 years to complete one orbit of its star, and is 5.6 AU from its star. Its discovery was announced in 2010.
 
 
 243732-HAT-P-18 b.json
@@ -2110,7 +2145,7 @@ HAT-P-20 b is a gas giant exoplanet that orbits a K-type star. Its mass is 7.246
 
 243736-HAT-P-21 b.json
 277.278
-HAT-P-21 b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.87 Jupiters, it takes 4.1 days to complete one orbit of its star, and is 0.0494 AU from its star. Its discovery was announced in 2010.
+HAT-P-21 b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.87 Jupiters, it takes 4.1 days to complete one orbit of its star, and is 0.05037 AU from its star. Its discovery was announced in 2010.
 
 
 243737-HAT-P-22 b.json
@@ -2135,7 +2170,7 @@ HAT-P-25 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.569
 
 243741-HAT-P-26 b.json
 141.837
-HAT-P-26 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 22.2481 Earths, it takes 4.2 days to complete one orbit of its star, and is 0.0479 AU from its star. Its discovery was announced in 2010.
+HAT-P-26 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 22.2481 Earths, it takes 4.2 days to complete one orbit of its star, and is 0.04748 AU from its star. Its discovery was announced in 2010.
 
 
 243742-HAT-P-27 b.json
@@ -13976,11 +14011,6 @@ Kepler-1656 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.
 246141-Kepler-1656 c.json
 185.875
 Kepler-1656 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.4 Jupiters, it takes 5.3 years to complete one orbit of its star, and is 3.053 AU from its star. Its discovery was announced in 2022.
-
-
-246142-Kepler-1658 b.json
-788.238
-Kepler-1658 b is a gas giant exoplanet that orbits a F-type star. Its mass is 5.88 Jupiters, it takes 3.8 days to complete one orbit of its star, and is 0.0544 AU from its star. Its discovery was announced in 2019.
 
 
 246143-Kepler-165 b.json
@@ -28460,7 +28490,7 @@ SPECULOOS-3 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 
 
 398002-Gliese 12 b.json
 12.21
-Gliese 12 b is a super Earth exoplanet that orbits a M-type star. Its mass is 3.87 Earths, it takes 12.8 days to complete one orbit of its star, and is 0.0668 AU from its star. Its discovery was announced in 2024.
+Gliese 12 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 3.87 Earths, it takes 12.8 days to complete one orbit of its star, and is 0.0668 AU from its star. Its discovery was announced in 2024.
 
 
 399272-UCAC3 113-933 b.json

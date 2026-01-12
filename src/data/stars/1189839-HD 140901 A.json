@@ -1,18 +1,18 @@
 {
-  "id": 262110,
-  "date": "2023-11-28T20:46:50",
-  "date_gmt": "2023-11-29T01:46:50",
-  "modified": "2026-01-04T01:03:19",
-  "modified_gmt": "2026-01-04T06:03:19",
-  "slug": "hd_140901",
+  "id": 1189839,
+  "date": "2026-01-08T01:10:24",
+  "date_gmt": "2026-01-08T06:10:24",
+  "modified": "2026-01-11T01:16:20",
+  "modified_gmt": "2026-01-11T06:16:20",
+  "slug": "hd-140901",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_140901/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-140901/",
   "featured_media": 429648,
   "categories": [],
   "acf": {
     "display_name": "HD 140901 A",
     "custom_star_title": "",
-    "aliases": "HR 5864 A,GJ 599A",
+    "aliases": "",
     "constellation": "Lupus",
     "custom_star_description": "",
     "tagline": "",
@@ -44,7 +44,7 @@
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262110",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189839",
         "targetHints": {
           "allow": [
             "GET"

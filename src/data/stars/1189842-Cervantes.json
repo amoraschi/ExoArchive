@@ -1,0 +1,92 @@
+{
+  "id": 1189842,
+  "date": "2026-01-08T01:10:35",
+  "date_gmt": "2026-01-08T06:10:35",
+  "modified": "2026-01-11T01:16:21",
+  "modified_gmt": "2026-01-11T06:16:21",
+  "slug": "hd-160691",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-160691/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "Cervantes",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ara",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      244108,
+      244109,
+      244110,
+      244111
+    ],
+    "exo_id": "HD_160691",
+    "st_optmag": 5.124,
+    "st_vj": 5.124,
+    "st_dist": 15.6042,
+    "st_j": 5.124,
+    "st_mass": 1,
+    "dec": -51.8340532,
+    "st_teff": 5761,
+    "st_rad": 1.383,
+    "ra": 266.0362631,
+    "system_radius": 623823117.9,
+    "pl_hostname": "HD_160691",
+    "stellar_type": "G",
+    "tic_id": "TIC 362661163",
+    "magnitude": 5.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189842",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244111"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244110"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244109"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244108"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

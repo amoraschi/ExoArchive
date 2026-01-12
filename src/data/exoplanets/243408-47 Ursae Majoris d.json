@@ -2,8 +2,8 @@
   "id": 243408,
   "date": "2019-04-22T16:48:47",
   "date_gmt": "2019-04-22T20:48:47",
-  "modified": "2025-07-07T20:39:56",
-  "modified_gmt": "2025-07-08T00:39:56",
+  "modified": "2026-01-08T02:35:16",
+  "modified_gmt": "2026-01-08T07:35:16",
   "slug": "47-ursae-majoris-d",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/47-ursae-majoris-d/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 11.6,
     "period_display": "38.4 years",
     "eccentricity": "0.16",
-    "star_id": 260646,
+    "star_id": 1189837,
     "pl_orbper": 14002,
     "pl_kepflag": false,
     "pl_radj": 1.2,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260646"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189837"
       }
     ],
     "wp:featuredmedia": [
