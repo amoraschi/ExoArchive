@@ -1,19 +1,19 @@
 {
-  "id": 1189851,
-  "date": "2026-01-08T01:11:06",
-  "date_gmt": "2026-01-08T06:11:06",
-  "modified": "2026-01-18T01:30:06",
-  "modified_gmt": "2026-01-18T06:30:06",
-  "slug": "hd-86728",
+  "id": 1192222,
+  "date": "2026-01-16T01:25:59",
+  "date_gmt": "2026-01-16T06:25:59",
+  "modified": "2026-01-16T01:25:59",
+  "modified_gmt": "2026-01-16T06:25:59",
+  "slug": "toi-4940",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-86728/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4940/",
   "featured_media": 429648,
   "categories": [],
   "acf": {
-    "display_name": "20 Leonis Minoris A",
+    "display_name": "TOI-4940",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Leo Minor",
+    "constellation": "Reticulum",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      440885
+      1192260
     ],
-    "exo_id": "HD_86728",
-    "st_optmag": 5.378,
-    "st_vj": 5.378,
-    "st_dist": 14.9263,
-    "st_j": 5.378,
-    "st_mass": 1,
-    "dec": 31.9236703,
-    "st_teff": 5743,
-    "st_rad": 1.186,
-    "ra": 150.252737,
-    "system_radius": 28662951.892,
-    "pl_hostname": "HD_86728",
+    "exo_id": "TOI-4940",
+    "st_optmag": 12.448,
+    "st_vj": 12.448,
+    "st_dist": 345.659,
+    "st_j": 12.448,
+    "st_mass": 1.012,
+    "dec": -62.4079681,
+    "st_teff": 5504,
+    "st_rad": 1.163,
+    "ra": 58.2511684,
+    "system_radius": 24683648.55,
+    "pl_hostname": "TOI-4940",
     "stellar_type": "G",
-    "tic_id": "TIC 172954294",
-    "magnitude": 5.4
+    "tic_id": "TIC 237929468",
+    "magnitude": 12.448
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189851",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1192222",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/440885"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1192260"
       }
     ],
     "wp:featuredmedia": [

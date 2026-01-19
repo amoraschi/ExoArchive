@@ -1,19 +1,19 @@
 {
-  "id": 1189846,
-  "date": "2026-01-08T01:10:55",
-  "date_gmt": "2026-01-08T06:10:55",
-  "modified": "2026-01-18T01:30:09",
-  "modified_gmt": "2026-01-18T06:30:09",
-  "slug": "gj-887",
+  "id": 1192227,
+  "date": "2026-01-16T01:26:11",
+  "date_gmt": "2026-01-16T06:26:11",
+  "modified": "2026-01-16T01:26:11",
+  "modified_gmt": "2026-01-16T06:26:11",
+  "slug": "toi-7166",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj-887/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-7166/",
   "featured_media": 429650,
   "categories": [],
   "acf": {
-    "display_name": "Lacaille 9352",
+    "display_name": "TOI-7166",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Piscis Austrinus",
+    "constellation": "Equuleus",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,29 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      243704,
-      243705
+      1192265
     ],
-    "exo_id": "GJ_887",
-    "st_optmag": 7.33,
-    "st_vj": 7.33,
-    "st_dist": 3.2871,
-    "st_j": 7.33,
-    "st_mass": 0.49,
-    "dec": -35.8530709,
-    "st_teff": 3680,
-    "st_rad": 0.47,
-    "ra": 346.4668158,
-    "system_radius": 17951744.4,
-    "pl_hostname": "GJ_887",
+    "exo_id": "TOI-7166",
+    "st_optmag": 15.79,
+    "st_vj": 15.79,
+    "st_dist": 35.4153,
+    "st_j": 15.79,
+    "st_mass": 0.19,
+    "dec": 8.8893975,
+    "st_teff": 3099,
+    "st_rad": 0.222,
+    "ra": 320.6806363,
+    "system_radius": 9261604.1317,
+    "pl_hostname": "TOI-7166",
     "stellar_type": "M",
-    "tic_id": "TIC 155315739",
-    "magnitude": 7.3
+    "tic_id": "TIC 288421619",
+    "magnitude": 15.79
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189846",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1192227",
         "targetHints": {
           "allow": [
             "GET"
@@ -65,11 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243705"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243704"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1192265"
       }
     ],
     "wp:featuredmedia": [
