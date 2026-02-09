@@ -21,10 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      248692,
-      248693
-    ],
+    "planet_ids": {
+      "0": 1197989,
+      "1": 248692
+    },
     "exo_id": "TOI-836",
     "st_optmag": 9.92,
     "st_vj": 9.92,
@@ -65,7 +65,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248693"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197989"
       },
       {
         "embeddable": true,

@@ -1,0 +1,77 @@
+{
+  "id": 1197975,
+  "date": "2026-02-06T02:33:35",
+  "date_gmt": "2026-02-06T07:33:35",
+  "modified": "2026-02-06T02:33:35",
+  "modified_gmt": "2026-02-06T07:33:35",
+  "slug": "toi-1054",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1054/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1054",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Telescopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1197990
+    ],
+    "exo_id": "TOI-1054",
+    "st_optmag": 8.95,
+    "st_vj": 8.95,
+    "st_dist": 88.4343,
+    "st_j": 8.95,
+    "st_mass": 1.14,
+    "dec": -54.3175014,
+    "st_teff": 6122,
+    "st_rad": 1.17,
+    "ra": 302.1141738,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1054",
+    "stellar_type": "F",
+    "tic_id": "TIC 366989877",
+    "magnitude": 8.95
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197975",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197990"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

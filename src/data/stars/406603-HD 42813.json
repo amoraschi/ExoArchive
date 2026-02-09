@@ -21,11 +21,7 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": {
-      "0": 406617,
-      "1": 244645,
-      "2": 244646
-    },
+    "planet_ids": [],
     "exo_id": "HD_42813",
     "st_optmag": 9.49,
     "st_vj": 9.49,
@@ -61,20 +57,6 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
-      }
-    ],
-    "acf:post": [
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/406617"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244646"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244645"
       }
     ]
   }

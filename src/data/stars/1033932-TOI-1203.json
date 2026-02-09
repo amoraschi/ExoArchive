@@ -22,10 +22,10 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": {
-      "0": 1033942,
-      "1": 1033940,
-      "2": 1033941,
-      "3": 1033938
+      "0": 1197991,
+      "1": 1033942,
+      "2": 1033940,
+      "3": 1033941
     },
     "exo_id": "TOI-1203",
     "st_optmag": 8.59,
@@ -67,6 +67,10 @@
     "acf:post": [
       {
         "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197991"
+      },
+      {
+        "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1033942"
       },
       {
@@ -76,10 +80,6 @@
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1033940"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1033938"
       }
     ],
     "wp:featuredmedia": [

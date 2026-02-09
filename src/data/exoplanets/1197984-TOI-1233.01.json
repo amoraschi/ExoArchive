@@ -1,12 +1,12 @@
 {
-  "id": 243911,
-  "date": "2021-01-29T19:17:02",
-  "date_gmt": "2021-01-30T00:17:02",
-  "modified": "2025-07-07T20:40:34",
-  "modified_gmt": "2025-07-08T00:40:34",
-  "slug": "hd-108236-d",
+  "id": 1197984,
+  "date": "2026-02-06T03:55:40",
+  "date_gmt": "2026-02-06T08:55:40",
+  "modified": "2026-02-06T03:55:40",
+  "modified_gmt": "2026-02-06T08:55:40",
+  "slug": "toi-1233-01",
   "type": "exoplanet",
-  "link": "https://science.nasa.gov/exoplanet-catalog/hd-108236-d/",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1233-01/",
   "featured_media": 267560,
   "categories": [
     2014,
@@ -15,16 +15,16 @@
   "acf": {
     "pl_hostname": "HD_108236",
     "pl_letter": "d",
-    "display_name": "HD 108236 d",
+    "display_name": "TOI-1233.01",
     "planet_radius": "0.22651441 x Jupiter",
-    "derived_description": "HD 108236 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.98 Earths, it takes 14.2 days to complete one orbit of its star, and is 0.1074 AU from its star. Its discovery was announced in 2020.",
+    "derived_description": "TOI-1233.01 is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.98 Earths, it takes 14.2 days to complete one orbit of its star, and is 0.1074 AU from its star. Its discovery was announced in 2021.",
     "planet_type": "Neptune-like",
     "pl_discmethod": "Transit",
     "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
     "st_dist": 64.5978,
     "planet_mass": "6.98 Earths",
     "st_optmag": 9.25,
-    "discovery_date": "2020",
+    "discovery_date": "2021",
     "pl_orbsmax": 0.1074,
     "period_display": "14.2 days",
     "eccentricity": "0.06",
@@ -32,12 +32,12 @@
     "pl_orbper": 14.175685,
     "pl_kepflag": false,
     "pl_radj": 0.22651441,
-    "pl_disc": 2020,
-    "pl_publ_date": "2020",
+    "pl_disc": 2021,
+    "pl_publ_date": "2021",
     "planet_orbit_period": 151,
     "multiple_planet_system": false,
     "pl_rade": 2.539,
-    "exo_id": "HD_108236_d",
+    "exo_id": "TOI-1233.01",
     "planet_size_class": "sub-Neptunian",
     "pl_eccenlim": 0,
     "pl_orbeccen": 0.055
@@ -45,7 +45,7 @@
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243911",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197984",
         "targetHints": {
           "allow": [
             "GET"

@@ -1,0 +1,77 @@
+{
+  "id": 1197977,
+  "date": "2026-02-06T02:33:35",
+  "date_gmt": "2026-02-06T07:33:35",
+  "modified": "2026-02-06T02:33:35",
+  "modified_gmt": "2026-02-06T07:33:35",
+  "slug": "toi-1243",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1243/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1243",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1197993
+    ],
+    "exo_id": "TOI-1243",
+    "st_optmag": 13.427,
+    "st_vj": 13.427,
+    "st_dist": 43.1865,
+    "st_j": 13.427,
+    "st_mass": 0.515,
+    "dec": 71.6364158,
+    "st_teff": 3515,
+    "st_rad": 0.511,
+    "ra": 135.7326412,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1243",
+    "stellar_type": "M",
+    "tic_id": "TIC 219698776",
+    "magnitude": 13.427
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197977",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197993"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

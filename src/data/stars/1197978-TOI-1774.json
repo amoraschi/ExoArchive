@@ -1,0 +1,77 @@
+{
+  "id": 1197978,
+  "date": "2026-02-06T02:33:36",
+  "date_gmt": "2026-02-06T07:33:36",
+  "modified": "2026-02-06T02:33:36",
+  "modified_gmt": "2026-02-06T07:33:36",
+  "slug": "toi-1774",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1774/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1774",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1197994
+    ],
+    "exo_id": "TOI-1774",
+    "st_optmag": 8.25,
+    "st_vj": 8.25,
+    "st_dist": 53.974,
+    "st_j": 8.25,
+    "st_mass": 1.06,
+    "dec": 35.111008,
+    "st_teff": 5853.7,
+    "st_rad": 1.09271,
+    "ra": 148.1619305,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1774",
+    "stellar_type": "G",
+    "tic_id": "TIC 4897275",
+    "magnitude": 8.25
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197978",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197994"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}
