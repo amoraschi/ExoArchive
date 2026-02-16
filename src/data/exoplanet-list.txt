@@ -560,7 +560,7 @@ TOI-1243 b is a super Earth exoplanet that orbits a M-type star. Its mass is 7.7
 
 1197994-TOI-1774.01.json
 53.974
-TOI-1774.01 is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.95 Earths, it takes 16.7 days to complete one orbit of its star, and is 0.13042328296607 AU from its star. Its discovery was announced in 2021.
+TOI-1774.01 is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.5 Earths, it takes 16.7 days to complete one orbit of its star, and is 0.12752879252036 AU from its star. Its discovery was announced in 2021.
 
 
 1197995-TOI-4529 b.json
@@ -596,6 +596,46 @@ GJ 3090 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 10 
 1198003-KOINTREAU-1 b.json
 158.618
 KOINTREAU-1 b is a gas giant exoplanet that orbits a M-type star. Its mass is 10.6 Jupiters, it takes 35566 years to complete one orbit of its star, and is 690 AU from its star. Its discovery was announced in 2026.
+
+
+1200249-TOI-4495 c.json
+132.214
+TOI-4495 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 23.2 Earths, it takes 5.2 days to complete one orbit of its star, and is 0.06323 AU from its star. Its discovery was announced in 2024.
+
+
+1200250-TOI-4495 b.json
+132.214
+TOI-4495 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.7 Earths, it takes 2.6 days to complete one orbit of its star, and is 0.03957 AU from its star. Its discovery was announced in 2026.
+
+
+1200251-TOI-6692 b.json
+312.903
+TOI-6692 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.62 Jupiters, it takes 131.1 days to complete one orbit of its star, and is 0.512 AU from its star. Its discovery was announced in 2026.
+
+
+1200252-KMT-2025-BLG-1616L b.json
+7500
+KMT-2025-BLG-1616L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.13315361 Jupiters, it takes 4 years to complete one orbit of its star, and is 1.6 AU from its star. Its discovery was announced in 2026.
+
+
+1200253-HD 176986 d.json
+27.7843
+HD 176986 d is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.76 Earths, it takes 61.4 days to complete one orbit of its star, and is 0.28149 AU from its star. Its discovery was announced in 2026.
+
+
+1200261-HD 85426 c.json
+53.974
+HD 85426 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.3 Earths, it takes 35.7 days to complete one orbit of its star, and is 0.21166450621513 AU from its star. Its discovery was announced in 2026.
+
+
+1200262-GJ 4274 b.json
+7.23556
+GJ 4274 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.97 Earths, it takes 1.6 days to complete one orbit of its star, and is 0.0153 AU from its star. Its discovery was announced in 2026.
+
+
+1200263-GJ 4274 c.json
+7.23556
+GJ 4274 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.39 Earths, it takes 69.6 days to complete one orbit of its star, and is 0.186 AU from its star. Its discovery was announced in 2026.
 
 
 243385-11 Comae Berenices b.json
@@ -2555,7 +2595,7 @@ HAT-P-66 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.783
 
 243786-HAT-P-67 b.json
 371.686
-HAT-P-67 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.34 Jupiters, it takes 4.8 days to complete one orbit of its star, and is 0.06505 AU from its star. Its discovery was announced in 2017.
+HAT-P-67 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.45 Jupiters, it takes 4.8 days to complete one orbit of its star, and is 0.06505 AU from its star. Its discovery was announced in 2017.
 
 
 243787-HAT-P-68 b.json
@@ -4160,12 +4200,12 @@ HD 160691 c is a gas giant exoplanet that orbits a G-type star. Its mass is 4.4 
 
 244110-HD 160691 d.json
 15.6042
-HD 160691 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.17 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.09286 AU from its star. Its discovery was announced in 2004.
+HD 160691 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.49 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.0952 AU from its star. Its discovery was announced in 2004.
 
 
 244111-HD 160691 e.json
 15.6042
-HD 160691 e is a gas giant exoplanet that orbits a G-type star. Its mass is 7 Jupiters, it takes 307.9 days to complete one orbit of its star, and is 0.934 AU from its star. Its discovery was announced in 2006.
+HD 160691 e is a gas giant exoplanet that orbits a G-type star. Its mass is 7 Jupiters, it takes 307.9 days to complete one orbit of its star, and is 0.96 AU from its star. Its discovery was announced in 2006.
 
 
 244112-HD 161178 b.json
@@ -4380,12 +4420,12 @@ HD 17674 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.87 
 
 244154-HD 176986 b.json
 27.7843
-HD 176986 b is a gas giant exoplanet that orbits a K-type star. Its mass is 4.681 Jupiters, it takes 6.5 days to complete one orbit of its star, and is 0.06296 AU from its star. Its discovery was announced in 2017.
+HD 176986 b is a gas giant exoplanet that orbits a K-type star. Its mass is 4.681 Jupiters, it takes 6.5 days to complete one orbit of its star, and is 0.062956 AU from its star. Its discovery was announced in 2017.
 
 
 244155-HD 176986 c.json
 27.7843
-HD 176986 c is a gas giant exoplanet that orbits a K-type star. Its mass is 6.601 Jupiters, it takes 16.8 days to complete one orbit of its star, and is 0.11878 AU from its star. Its discovery was announced in 2017.
+HD 176986 c is a gas giant exoplanet that orbits a K-type star. Its mass is 6.601 Jupiters, it takes 16.8 days to complete one orbit of its star, and is 0.11873 AU from its star. Its discovery was announced in 2017.
 
 
 244156-HD 177565 b.json
@@ -24950,7 +24990,7 @@ Pi Mensae c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 3
 
 248344-Pi Mensae d.json
 18.2874
-Pi Mensae d is a Neptune-like exoplanet that orbits a F-type star. Its mass is 13.38 Earths, it takes 124.6 days to complete one orbit of its star, and is 0.49946036274775 AU from its star. Its discovery was announced in 2022.
+Pi Mensae d is a Neptune-like exoplanet that orbits a F-type star. Its mass is 13.38 Earths, it takes 124.6 days to complete one orbit of its star, and is 0.506 AU from its star. Its discovery was announced in 2022.
 
 
 248345-POTS-1 b.json
@@ -25535,7 +25575,7 @@ TOI-1516 b is a gas giant exoplanet that orbits a F-type star. Its mass is 3.16 
 
 248464-TOI-1518 b.json
 225.888
-TOI-1518 b is a gas giant exoplanet that orbits a A-type star. Its mass is 2.3 Jupiters, it takes 1.9 days to complete one orbit of its star, and is 0.0389 AU from its star. Its discovery was announced in 2021.
+TOI-1518 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.83 Jupiters, it takes 1.9 days to complete one orbit of its star, and is 0.03712 AU from its star. Its discovery was announced in 2021.
 
 
 248465-TOI-157 b.json
@@ -25850,7 +25890,7 @@ TOI-2136 b is a super Earth exoplanet that orbits a M-type star. Its mass is 6.3
 
 248527-TOI-2145 b.json
 224.731
-TOI-2145 b is a gas giant exoplanet that orbits a F-type star. Its mass is 5.55960374 Jupiters, it takes 10.3 days to complete one orbit of its star, and is 0.111 AU from its star. Its discovery was announced in 2023.
+TOI-2145 b is a gas giant exoplanet that orbits a F-type star. Its mass is 5.68 Jupiters, it takes 10.3 days to complete one orbit of its star, and is 0.1117 AU from its star. Its discovery was announced in 2023.
 
 
 248528-TOI-2152 A b.json
@@ -28761,11 +28801,6 @@ TOI-3353.01 is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7
 401607-TOI-4443.01.json
 56.0739
 TOI-4443.01 is a super Earth exoplanet that orbits a G-type star. Its mass is 3.6 Earths, it takes 1.8 days to complete one orbit of its star, and is 0.029962645 AU from its star. Its discovery was announced in 2024.
-
-
-401608-TOI-4495.01.json
-132.214
-TOI-4495.01 is a Neptune-like exoplanet that orbits a F-type star. Its mass is 12.8 Earths, it takes 5.2 days to complete one orbit of its star, and is 0.061732577 AU from its star. Its discovery was announced in 2024.
 
 
 401609-TOI-4602.01.json

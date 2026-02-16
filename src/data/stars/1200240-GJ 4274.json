@@ -1,19 +1,19 @@
 {
-  "id": 1189849,
-  "date": "2026-01-08T01:11:00",
-  "date_gmt": "2026-01-08T06:11:00",
-  "modified": "2026-02-15T02:55:26",
-  "modified_gmt": "2026-02-15T07:55:26",
-  "slug": "gj-411",
+  "id": 1200240,
+  "date": "2026-02-13T02:47:44",
+  "date_gmt": "2026-02-13T07:47:44",
+  "modified": "2026-02-13T02:47:44",
+  "modified_gmt": "2026-02-13T07:47:44",
+  "slug": "gj-4274",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj-411/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj-4274/",
   "featured_media": 429650,
   "categories": [],
   "acf": {
-    "display_name": "Lalande 21185",
+    "display_name": "GJ 4274",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Ursa Major",
+    "constellation": "Aquarius",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -21,30 +21,30 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": {
-      "0": 244608,
-      "1": 243657
-    },
-    "exo_id": "GJ_411",
-    "st_optmag": 7.421,
-    "st_vj": 7.421,
-    "st_dist": 2.5461,
-    "st_j": 7.421,
-    "st_mass": 0.44,
-    "dec": 35.9698823,
-    "st_teff": 3601,
-    "st_rad": 0.363,
-    "ra": 165.8341451,
-    "system_radius": 439817737.8,
-    "pl_hostname": "GJ_411",
+    "planet_ids": [
+      1200262,
+      1200263
+    ],
+    "exo_id": "GJ_4274",
+    "st_optmag": 13.31,
+    "st_vj": 13.31,
+    "st_dist": 7.23556,
+    "st_j": 13.31,
+    "st_mass": 0.18,
+    "dec": -17.6104078,
+    "st_teff": 3228,
+    "st_rad": 0.19,
+    "ra": 335.7805478,
+    "system_radius": 27825203.82,
+    "pl_hostname": "GJ_4274",
     "stellar_type": "M",
-    "tic_id": "TIC 166646191",
-    "magnitude": 7.4
+    "tic_id": "TIC 12652442",
+    "magnitude": 13.31
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189849",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1200240",
         "targetHints": {
           "allow": [
             "GET"
@@ -65,11 +65,11 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244608"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1200263"
       },
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243657"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1200262"
       }
     ],
     "wp:featuredmedia": [

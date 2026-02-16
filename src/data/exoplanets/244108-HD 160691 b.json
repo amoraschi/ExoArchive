@@ -2,8 +2,8 @@
   "id": 244108,
   "date": "2019-04-22T16:48:46",
   "date_gmt": "2019-04-22T20:48:46",
-  "modified": "2026-01-08T02:36:28",
-  "modified_gmt": "2026-01-08T07:36:28",
+  "modified": "2026-02-13T04:13:43",
+  "modified_gmt": "2026-02-13T09:13:43",
   "slug": "hd-160691-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-160691-b/",
@@ -27,7 +27,7 @@
     "discovery_date": "2000",
     "pl_orbsmax": 1.5,
     "period_display": "1.8 years",
-    "eccentricity": "0.13",
+    "eccentricity": "0.05",
     "star_id": 1189842,
     "pl_orbper": 645,
     "pl_kepflag": false,
@@ -40,7 +40,7 @@
     "exo_id": "HD_160691_b",
     "planet_size_class": "super-Jovian",
     "pl_eccenlim": 0,
-    "pl_orbeccen": 0.128
+    "pl_orbeccen": 0.0505
   },
   "_links": {
     "self": [

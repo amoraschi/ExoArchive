@@ -2,8 +2,8 @@
   "id": 1197978,
   "date": "2026-02-06T02:33:36",
   "date_gmt": "2026-02-06T07:33:36",
-  "modified": "2026-02-06T02:33:36",
-  "modified_gmt": "2026-02-06T07:33:36",
+  "modified": "2026-02-13T02:47:44",
+  "modified_gmt": "2026-02-13T07:47:44",
   "slug": "toi-1774",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1774/",
@@ -21,18 +21,19 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      1197994
-    ],
+    "planet_ids": {
+      "0": 1200261,
+      "1": 1197994
+    },
     "exo_id": "TOI-1774",
     "st_optmag": 8.25,
     "st_vj": 8.25,
     "st_dist": 53.974,
     "st_j": 8.25,
-    "st_mass": 1.06,
+    "st_mass": 0.991,
     "dec": 35.111008,
-    "st_teff": 5853.7,
-    "st_rad": 1.09271,
+    "st_teff": 5746,
+    "st_rad": 1.1303,
     "ra": 148.1619305,
     "system_radius": 149597870,
     "pl_hostname": "TOI-1774",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1200261"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197994"
