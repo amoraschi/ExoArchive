@@ -1,0 +1,77 @@
+{
+  "id": 1203243,
+  "date": "2026-02-27T03:38:24",
+  "date_gmt": "2026-02-27T08:38:24",
+  "modified": "2026-02-27T03:38:24",
+  "modified_gmt": "2026-02-27T08:38:24",
+  "slug": "kmt-2024-blg-2087l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2024-blg-2087l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2024-BLG-2087L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1203277
+    ],
+    "exo_id": "KMT-2024-BLG-2087L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7190,
+    "st_j": "",
+    "st_mass": 0.48,
+    "dec": -29.2631889,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.4500417,
+    "system_radius": 453281546.1,
+    "pl_hostname": "KMT-2024-BLG-2087L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203243",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203277"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

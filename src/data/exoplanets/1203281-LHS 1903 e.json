@@ -1,0 +1,79 @@
+{
+  "id": 1203281,
+  "date": "2026-02-27T04:44:56",
+  "date_gmt": "2026-02-27T09:44:56",
+  "modified": "2026-02-27T04:44:56",
+  "modified_gmt": "2026-02-27T09:44:56",
+  "slug": "lhs-1903-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/lhs-1903-e/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LHS_1903",
+    "pl_letter": "e",
+    "display_name": "LHS 1903 e",
+    "planet_radius": "1.732 x Earth",
+    "derived_description": "LHS 1903 e is a super Earth exoplanet that orbits a M-type star. Its mass is 5.79 Earths, it takes 29.3 days to complete one orbit of its star, and is 0.15135 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "CHaracterising ExOPlanets Satellite (CHEOPS)",
+    "st_dist": 35.6917,
+    "planet_mass": "5.79 Earths",
+    "st_optmag": 12.23,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.15135,
+    "period_display": "29.3 days",
+    "eccentricity": "0.01",
+    "star_id": 1203235,
+    "pl_orbper": 29.31773,
+    "pl_kepflag": false,
+    "pl_radj": 0.15451896,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 263,
+    "multiple_planet_system": false,
+    "pl_rade": 1.732,
+    "exo_id": "LHS_1903_e",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.014
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203281",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203235"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

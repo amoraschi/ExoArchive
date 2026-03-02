@@ -1,0 +1,79 @@
+{
+  "id": 1203278,
+  "date": "2026-02-27T04:44:55",
+  "date_gmt": "2026-02-27T09:44:55",
+  "modified": "2026-02-27T04:44:55",
+  "modified_gmt": "2026-02-27T09:44:55",
+  "slug": "gj-887-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-887-d/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_887",
+    "pl_letter": "d",
+    "display_name": "GJ 887 d",
+    "planet_radius": "0.209 x Jupiter (estimate)",
+    "derived_description": "GJ 887 d is a Neptune-like exoplanet that orbits a M-type star. Its mass is 6.1 Earths, it takes 50.8 days to complete one orbit of its star, and is 0.212 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 3.2871,
+    "planet_mass": "6.1 Earths",
+    "st_optmag": 7.33,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.212,
+    "period_display": "50.8 days",
+    "eccentricity": "",
+    "star_id": 1189846,
+    "pl_orbper": 50.77,
+    "pl_kepflag": false,
+    "pl_radj": 0.209,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.34,
+    "exo_id": "GJ_887_d",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203278",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189846"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

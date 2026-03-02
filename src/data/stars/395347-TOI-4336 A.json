@@ -2,8 +2,8 @@
   "id": 395347,
   "date": "2024-05-10T20:16:20",
   "date_gmt": "2024-05-11T00:16:20",
-  "modified": "2025-04-23T05:55:32",
-  "modified_gmt": "2025-04-23T09:55:32",
+  "modified": "2026-02-27T03:38:24",
+  "modified_gmt": "2026-02-27T08:38:24",
   "slug": "toi-4336-a",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4336-a/",
@@ -21,20 +21,21 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      395503
-    ],
+    "planet_ids": {
+      "0": 1203284,
+      "1": 395503
+    },
     "exo_id": "TOI-4336_A",
     "st_optmag": 13.6,
     "st_vj": 13.6,
     "st_dist": 22.5455,
     "st_j": 13.6,
-    "st_mass": 0.331,
+    "st_mass": 0.306,
     "dec": -40.3373505,
-    "st_teff": 3298,
-    "st_rad": 0.328,
+    "st_teff": 3307,
+    "st_rad": 0.326,
     "ra": 206.1070129,
-    "system_radius": 13044934.264,
+    "system_radius": 12700859.163,
     "pl_hostname": "TOI-4336_A",
     "stellar_type": "M",
     "tic_id": "TIC 166184428",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203284"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/395503"

@@ -1,0 +1,79 @@
+{
+  "id": 1203260,
+  "date": "2026-02-27T04:44:46",
+  "date_gmt": "2026-02-27T09:44:46",
+  "modified": "2026-02-27T04:44:46",
+  "modified_gmt": "2026-02-27T09:44:46",
+  "slug": "lhs-1903-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/lhs-1903-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "LHS_1903",
+    "pl_letter": "c",
+    "display_name": "LHS 1903 c",
+    "planet_radius": "2.046 x Earth",
+    "derived_description": "LHS 1903 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 4.55 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.05387 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 35.6917,
+    "planet_mass": "4.55 Earths",
+    "st_optmag": 12.23,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.05387,
+    "period_display": "6.2 days",
+    "eccentricity": "0.09",
+    "star_id": 1203235,
+    "pl_orbper": 6.226185,
+    "pl_kepflag": false,
+    "pl_radj": 0.18253221,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 288,
+    "multiple_planet_system": false,
+    "pl_rade": 2.046,
+    "exo_id": "LHS_1903_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.089
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203260",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203235"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}
