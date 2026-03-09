@@ -1,19 +1,19 @@
 {
-  "id": 1189853,
-  "date": "2026-01-08T01:11:09",
-  "date_gmt": "2026-01-08T06:11:09",
-  "modified": "2026-03-08T05:09:10",
-  "modified_gmt": "2026-03-08T09:09:10",
-  "slug": "hr-810",
+  "id": 1204734,
+  "date": "2026-03-06T04:01:22",
+  "date_gmt": "2026-03-06T09:01:22",
+  "modified": "2026-03-06T04:01:22",
+  "modified_gmt": "2026-03-06T09:01:22",
+  "slug": "dmpp-6",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hr-810/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/dmpp-6/",
   "featured_media": 429647,
   "categories": [],
   "acf": {
-    "display_name": "Iota Horologii",
+    "display_name": "DMPP-6",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Horologium",
+    "constellation": "Volans",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,29 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      244706
+      1204754,
+      1204755
     ],
-    "exo_id": "HR_810",
-    "st_optmag": 5.395,
-    "st_vj": 5.395,
-    "st_dist": 17.3572,
-    "st_j": 5.395,
-    "st_mass": 1.14,
-    "dec": -50.8002931,
-    "st_teff": 6157,
-    "st_rad": 1.158,
-    "ra": 40.6394444,
-    "system_radius": 137630040.4,
-    "pl_hostname": "HR_810",
+    "exo_id": "DMPP-6",
+    "st_optmag": 7.71,
+    "st_vj": 7.71,
+    "st_dist": 54.6303,
+    "st_j": 7.71,
+    "st_mass": 1.079,
+    "dec": -70.0234291,
+    "st_teff": 6182.09,
+    "st_rad": 1.27,
+    "ra": 120.3857827,
+    "system_radius": 33001290.122,
+    "pl_hostname": "DMPP-6",
     "stellar_type": "F",
-    "tic_id": "TIC 166853853",
-    "magnitude": 5.4
+    "tic_id": "TIC 306668068",
+    "magnitude": 7.71
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189853",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1204734",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +65,11 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244706"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204755"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204754"
       }
     ],
     "wp:featuredmedia": [

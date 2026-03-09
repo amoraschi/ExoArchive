@@ -1,0 +1,79 @@
+{
+  "id": 1204756,
+  "date": "2026-03-06T05:00:33",
+  "date_gmt": "2026-03-06T10:00:33",
+  "modified": "2026-03-06T05:00:33",
+  "modified_gmt": "2026-03-06T10:00:33",
+  "slug": "dmpp-7-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/dmpp-7-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "DMPP-7",
+    "pl_letter": "b",
+    "display_name": "DMPP-7 b",
+    "planet_radius": "0.815 x Jupiter (estimate)",
+    "derived_description": "DMPP-7 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.19315454 Jupiters, it takes 5 days to complete one orbit of its star, and is 0.05873 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 101.386,
+    "planet_mass": "0.19315454 Jupiters",
+    "st_optmag": 8.79,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.05873,
+    "period_display": "5 days",
+    "eccentricity": "< 0.1",
+    "star_id": 1204735,
+    "pl_orbper": 4.984,
+    "pl_kepflag": false,
+    "pl_radj": 0.815,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 170,
+    "multiple_planet_system": false,
+    "pl_rade": 9.13,
+    "exo_id": "DMPP-7_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0.1,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204756",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1204735"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

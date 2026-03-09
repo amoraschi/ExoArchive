@@ -1,19 +1,19 @@
 {
-  "id": 1189849,
-  "date": "2026-01-08T01:11:00",
-  "date_gmt": "2026-01-08T06:11:00",
-  "modified": "2026-03-08T05:09:07",
-  "modified_gmt": "2026-03-08T09:09:07",
-  "slug": "gj-411",
+  "id": 1204738,
+  "date": "2026-03-06T04:01:32",
+  "date_gmt": "2026-03-06T09:01:32",
+  "modified": "2026-03-06T04:01:32",
+  "modified_gmt": "2026-03-06T09:01:32",
+  "slug": "toi-2267-a",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/gj-411/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2267-a/",
   "featured_media": 429650,
   "categories": [],
   "acf": {
-    "display_name": "Lalande 21185",
+    "display_name": "TOI-2267 A",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Ursa Major",
+    "constellation": "Cepheus",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,29 +22,29 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": {
-      "0": 244608,
-      "1": 243657
+      "0": 1204762,
+      "1": 1204761
     },
-    "exo_id": "GJ_411",
-    "st_optmag": 7.421,
-    "st_vj": 7.421,
-    "st_dist": 2.5461,
-    "st_j": 7.421,
-    "st_mass": 0.44,
-    "dec": 35.9698823,
-    "st_teff": 3601,
-    "st_rad": 0.363,
-    "ra": 165.8341451,
-    "system_radius": 439817737.8,
-    "pl_hostname": "GJ_411",
+    "exo_id": "TOI-2267_A",
+    "st_optmag": 15.56,
+    "st_vj": 15.56,
+    "st_dist": 22.55,
+    "st_j": 15.56,
+    "st_mass": 0.171,
+    "dec": 84.9008238,
+    "st_teff": 3030,
+    "st_rad": 0.2075,
+    "ra": 65.0614963,
+    "system_radius": 3934423.981,
+    "pl_hostname": "TOI-2267_A",
     "stellar_type": "M",
-    "tic_id": "TIC 166646191",
-    "magnitude": 7.4
+    "tic_id": "TIC 459837008",
+    "magnitude": 15.56
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189849",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1204738",
         "targetHints": {
           "allow": [
             "GET"
@@ -65,11 +65,11 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244608"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204762"
       },
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243657"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204761"
       }
     ],
     "wp:featuredmedia": [

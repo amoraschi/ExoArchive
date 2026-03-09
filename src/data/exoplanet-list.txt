@@ -665,7 +665,7 @@ TOI-2133 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.
 
 1203267-TOI-5734 b.json
 32.5102
-TOI-5734 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.05 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.0607 AU from its star. Its discovery was announced in 2026.
+TOI-5734 b is a super Earth exoplanet that orbits a K-type star. Its mass is 9.1 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.05921 AU from its star. Its discovery was announced in 2026.
 
 
 1203269-TOI-5938 b.json
@@ -741,6 +741,56 @@ KOINTREAU-4 b is a gas giant exoplanet that orbits a M-type star. Its mass is 15
 1203284-TOI-4336 A c.json
 22.5455
 TOI-4336 A c is a super Earth exoplanet that orbits a M-type star. Its mass is 1.55 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.05092 AU from its star. Its discovery was announced in 2026.
+
+
+1204752-DMPP-2 c.json
+137.94
+DMPP-2 c is a gas giant exoplanet that orbits a F-type star. Its mass is 0.16294956 Jupiters, it takes 3.2 days to complete one orbit of its star, and is 0.04789 AU from its star. Its discovery was announced in 2026.
+
+
+1204753-DMPP-2 d.json
+137.94
+DMPP-2 d is a gas giant exoplanet that orbits a F-type star. Its mass is 0.28880364 Jupiters, it takes 16.5 days to complete one orbit of its star, and is 0.1432 AU from its star. Its discovery was announced in 2026.
+
+
+1204754-DMPP-6 b.json
+54.6303
+DMPP-6 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.8 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.0779 AU from its star. Its discovery was announced in 2026.
+
+
+1204755-DMPP-6 c.json
+54.6303
+DMPP-6 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 13.47 Earths, it takes 36.4 days to complete one orbit of its star, and is 0.2206 AU from its star. Its discovery was announced in 2026.
+
+
+1204756-DMPP-7 b.json
+101.386
+DMPP-7 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.19315454 Jupiters, it takes 5 days to complete one orbit of its star, and is 0.05873 AU from its star. Its discovery was announced in 2026.
+
+
+1204757-DMPP-8 b.json
+76.1335
+DMPP-8 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.25513767 Jupiters, it takes 62.9 days to complete one orbit of its star, and is 0.3098 AU from its star. Its discovery was announced in 2026.
+
+
+1204758-DMPP-9 b.json
+109.539
+DMPP-9 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 14.43 Earths, it takes 12.7 days to complete one orbit of its star, and is 0.1097 AU from its star. Its discovery was announced in 2026.
+
+
+1204761-TOI-2267 c.json
+22.55
+TOI-2267 c is a super Earth exoplanet that orbits a M-type star. Its mass is 1.55 Earths, it takes 3.5 days to complete one orbit of its star, and is 0.0263 AU from its star. Its discovery was announced in 2025.
+
+
+1204762-TOI-2267 b.json
+22.55
+TOI-2267 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.972 Earths, it takes 2.3 days to complete one orbit of its star, and is 0.0205 AU from its star. Its discovery was announced in 2025.
+
+
+1204763-TOI-2267 d.json
+22.55
+TOI-2267 d is a super Earth exoplanet that orbits a M-type star. Its mass is 3.78 Earths, it takes 2 days to complete one orbit of its star, and is 0.0145 AU from its star. Its discovery was announced in 2025.
 
 
 243385-11 Comae Berenices b.json
@@ -980,12 +1030,12 @@ Alpha Tauri b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.
 
 243434-AU Microscopii b.json
 9.7221
-AU Microscopii b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 20.12 Earths, it takes 8.5 days to complete one orbit of its star, and is 0.0649 AU from its star. Its discovery was announced in 2020.
+AU Microscopii b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.99 Earths, it takes 8.5 days to complete one orbit of its star, and is 0.07 AU from its star. Its discovery was announced in 2020.
 
 
 243435-AU Microscopii c.json
 9.7221
-AU Microscopii c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 9.6 Earths, it takes 18.9 days to complete one orbit of its star, and is 0.1108 AU from its star. Its discovery was announced in 2021.
+AU Microscopii c is a super Earth exoplanet that orbits a M-type star. Its mass is 14.46 Earths, it takes 18.9 days to complete one orbit of its star, and is 0.119 AU from its star. Its discovery was announced in 2021.
 
 
 243436-b Centauri AB b.json
@@ -1370,17 +1420,17 @@ DH Tauri b is a gas giant exoplanet that orbits a K-type star. Its mass is 11 Ju
 
 243516-DMPP-1 b.json
 62.5388
-DMPP-1 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 24.27 Earths, it takes 18.6 days to complete one orbit of its star, and is 0.1462 AU from its star. Its discovery was announced in 2019.
+DMPP-1 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 16.8 Earths, it takes 17.8 days to complete one orbit of its star, and is 0.1423 AU from its star. Its discovery was announced in 2019.
 
 
 243517-DMPP-1 c.json
 62.5388
-DMPP-1 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.6 Earths, it takes 6.6 days to complete one orbit of its star, and is 0.0733 AU from its star. Its discovery was announced in 2019.
+DMPP-1 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 10.94 Earths, it takes 10 days to complete one orbit of its star, and is 0.0973 AU from its star. Its discovery was announced in 2019.
 
 
 243518-DMPP-1 d.json
 62.5388
-DMPP-1 d is a super Earth exoplanet that orbits a F-type star. Its mass is 3.35 Earths, it takes 2.9 days to complete one orbit of its star, and is 0.0422 AU from its star. Its discovery was announced in 2019.
+DMPP-1 d is a super Earth exoplanet that orbits a F-type star. Its mass is 4.72 Earths, it takes 3.1 days to complete one orbit of its star, and is 0.04467 AU from its star. Its discovery was announced in 2019.
 
 
 243519-DMPP-1 e.json
@@ -1390,12 +1440,12 @@ DMPP-1 e is a super Earth exoplanet that orbits a F-type star. Its mass is 4.13 
 
 243520-DMPP-2 b.json
 137.94
-DMPP-2 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.437 Jupiters, it takes 5.2 days to complete one orbit of its star, and is 0.0664 AU from its star. Its discovery was announced in 2019.
+DMPP-2 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.53953642 Jupiters, it takes 5.2 days to complete one orbit of its star, and is 0.06638 AU from its star. Its discovery was announced in 2019.
 
 
 243521-DMPP-3 A b.json
-45.23
-DMPP-3 A b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.58 Earths, it takes 6.7 days to complete one orbit of its star, and is 0.0662 AU from its star. Its discovery was announced in 2019.
+46.8917
+DMPP-3 A b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.67 Earths, it takes 5.6 days to complete one orbit of its star, and is 0.05958 AU from its star. Its discovery was announced in 2019.
 
 
 243522-DMPP-4 b.json
@@ -2110,7 +2160,7 @@ GJ 463 b is a gas giant exoplanet that orbits a M-type star. Its mass is 3.4 Jup
 
 243667-GJ 480 b.json
 14.2358
-GJ 480 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 13.2 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2020.
+GJ 480 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.8 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2020.
 
 
 243668-GJ 486 b.json
@@ -4600,17 +4650,17 @@ HD 181342 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.54
 
 244169-HD 181433 b.json
 26.8762
-HD 181433 b is a gas giant exoplanet that orbits a K-type star. Its mass is 5.376 Jupiters, it takes 9.4 days to complete one orbit of its star, and is 0.08 AU from its star. Its discovery was announced in 2008.
+HD 181433 b is a gas giant exoplanet that orbits a K-type star. Its mass is 5.376 Jupiters, it takes 9.4 days to complete one orbit of its star, and is 0.0828 AU from its star. Its discovery was announced in 2008.
 
 
 244170-HD 181433 c.json
 26.8762
-HD 181433 c is a gas giant exoplanet that orbits a K-type star. Its mass is 6.944 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 1.76 AU from its star. Its discovery was announced in 2008.
+HD 181433 c is a gas giant exoplanet that orbits a K-type star. Its mass is 6.944 Jupiters, it takes 2.8 years to complete one orbit of its star, and is 1.885 AU from its star. Its discovery was announced in 2008.
 
 
 244171-HD 181433 d.json
 26.8762
-HD 181433 d is a gas giant exoplanet that orbits a K-type star. Its mass is 2.7 Jupiters, it takes 6 years to complete one orbit of its star, and is 3 AU from its star. Its discovery was announced in 2008.
+HD 181433 d is a gas giant exoplanet that orbits a K-type star. Its mass is 2.7 Jupiters, it takes 18.9 years to complete one orbit of its star, and is 6.74 AU from its star. Its discovery was announced in 2008.
 
 
 244172-HD 18143 b.json
@@ -5870,17 +5920,17 @@ HD 39091 b is a gas giant exoplanet that orbits a F-type star. Its mass is 14.1 
 
 244425-HD 39194 b.json
 26.4131
-HD 39194 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4 Earths, it takes 5.6 days to complete one orbit of its star, and is 0.056 AU from its star. Its discovery was announced in 2021.
+HD 39194 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.62 Earths, it takes 5.6 days to complete one orbit of its star, and is 0.05895 AU from its star. Its discovery was announced in 2021.
 
 
 244426-HD 39194 c.json
 26.4131
-HD 39194 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.3 Earths, it takes 14 days to complete one orbit of its star, and is 0.103 AU from its star. Its discovery was announced in 2021.
+HD 39194 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.49 Earths, it takes 14 days to complete one orbit of its star, and is 0.1083 AU from its star. Its discovery was announced in 2021.
 
 
 244427-HD 39194 d.json
 26.4131
-HD 39194 d is a super Earth exoplanet that orbits a K-type star. Its mass is 4 Earths, it takes 33.9 days to complete one orbit of its star, and is 0.185 AU from its star. Its discovery was announced in 2021.
+HD 39194 d is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.16 Earths, it takes 33.9 days to complete one orbit of its star, and is 0.1949 AU from its star. Its discovery was announced in 2021.
 
 
 244428-HD 39855 b.json
@@ -6660,7 +6710,7 @@ HD 89744 b is a gas giant exoplanet that orbits a F-type star. Its mass is 8.35 
 
 244585-HD 89839 b.json
 57.3063
-HD 89839 b is a gas giant exoplanet that orbits a F-type star. Its mass is 5.01 Jupiters, it takes 9.4 years to complete one orbit of its star, and is 4.761 AU from its star. Its discovery was announced in 2023.
+HD 89839 b is a gas giant exoplanet that orbits a F-type star. Its mass is 5.5 Jupiters, it takes 9.3 years to complete one orbit of its star, and is 4.713 AU from its star. Its discovery was announced in 2023.
 
 
 244586-HD 90156 b.json
@@ -28785,7 +28835,7 @@ SPECULOOS-3 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 
 
 398002-Gliese 12 b.json
 12.21
-Gliese 12 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 3.87 Earths, it takes 12.8 days to complete one orbit of its star, and is 0.0668 AU from its star. Its discovery was announced in 2024.
+Gliese 12 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.95 Earths, it takes 12.8 days to complete one orbit of its star, and is 0.067 AU from its star. Its discovery was announced in 2024.
 
 
 399272-UCAC3 113-933 b.json
