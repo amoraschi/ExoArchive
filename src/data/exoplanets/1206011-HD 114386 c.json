@@ -1,0 +1,79 @@
+{
+  "id": 1206011,
+  "date": "2026-03-13T06:14:33",
+  "date_gmt": "2026-03-13T10:14:33",
+  "modified": "2026-03-13T06:14:33",
+  "modified_gmt": "2026-03-13T10:14:33",
+  "slug": "hd-114386-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-114386-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_114386",
+    "pl_letter": "c",
+    "display_name": "HD 114386 c",
+    "planet_radius": "1.2 x Jupiter (estimate)",
+    "derived_description": "HD 114386 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.37 Jupiters, it takes 444 days to complete one orbit of its star, and is 1.05 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Las Campanas Observatory",
+    "st_dist": 27.9243,
+    "planet_mass": "0.37 Jupiters",
+    "st_optmag": 8.73,
+    "discovery_date": "2026",
+    "pl_orbsmax": 1.05,
+    "period_display": "444 days",
+    "eccentricity": "0.1",
+    "star_id": 263268,
+    "pl_orbper": 444,
+    "pl_kepflag": false,
+    "pl_radj": 1.2,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 123,
+    "multiple_planet_system": false,
+    "pl_rade": 13.4,
+    "exo_id": "HD_114386_c",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.1
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1206011",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263268"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

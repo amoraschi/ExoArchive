@@ -21,9 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      243946
-    ],
+    "planet_ids": {
+      "0": 1206011,
+      "1": 243946
+    },
     "exo_id": "HD_114386",
     "st_optmag": 8.73,
     "st_vj": 8.73,
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1206011"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243946"

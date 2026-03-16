@@ -1,0 +1,77 @@
+{
+  "id": 1205992,
+  "date": "2026-03-13T05:25:27",
+  "date_gmt": "2026-03-13T09:25:27",
+  "modified": "2026-03-13T05:25:27",
+  "modified_gmt": "2026-03-13T09:25:27",
+  "slug": "toi-2094",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2094/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2094",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1206008
+    ],
+    "exo_id": "TOI-2094",
+    "st_optmag": 14.409,
+    "st_vj": 14.409,
+    "st_dist": 50.0248,
+    "st_j": 14.409,
+    "st_mass": 0.425,
+    "dec": 70.0273157,
+    "st_teff": 3435,
+    "st_rad": 0.384,
+    "ra": 254.1425333,
+    "system_radius": 20345310.32,
+    "pl_hostname": "TOI-2094",
+    "stellar_type": "M",
+    "tic_id": "TIC 356016119",
+    "magnitude": 14.409
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1205992",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1206008"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

@@ -2,15 +2,15 @@
   "id": 248223,
   "date": "2019-04-22T16:48:52",
   "date_gmt": "2019-04-22T20:48:52",
-  "modified": "2025-12-19T01:48:27",
-  "modified_gmt": "2025-12-19T06:48:27",
+  "modified": "2026-03-10T14:18:37",
+  "modified_gmt": "2026-03-10T18:18:37",
   "slug": "nn-serpentis-c",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/nn-serpentis-c/",
   "featured_media": 271855,
   "categories": [
-    2014,
-    2013
+    2013,
+    2014
   ],
   "acf": {
     "pl_hostname": "NN_Ser",
