@@ -1,19 +1,19 @@
 {
-  "id": 1189836,
-  "date": "2026-01-08T01:10:14",
-  "date_gmt": "2026-01-08T06:10:14",
-  "modified": "2026-03-22T05:56:34",
-  "modified_gmt": "2026-03-22T09:56:34",
-  "slug": "hn-pegasi-2",
+  "id": 1207865,
+  "date": "2026-03-20T05:47:55",
+  "date_gmt": "2026-03-20T09:47:55",
+  "modified": "2026-03-20T05:47:55",
+  "modified_gmt": "2026-03-20T09:47:55",
+  "slug": "kmt-2016-blg-1337l",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hn-pegasi-2/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2016-blg-1337l/",
   "featured_media": 429648,
   "categories": [],
   "acf": {
-    "display_name": "HN Pegasi",
+    "display_name": "KMT-2016-BLG-1337L",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Pegasus",
+    "constellation": "Scorpius",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      244703
+      1207868
     ],
-    "exo_id": "HN_Peg",
-    "st_optmag": 5.942,
-    "st_vj": 5.942,
-    "st_dist": 18.133,
-    "st_j": 5.942,
-    "st_mass": 1.08,
-    "dec": 14.7719398,
-    "st_teff": 5939,
-    "st_rad": 1.006,
-    "ra": 326.1305414,
-    "system_radius": 115639153510,
-    "pl_hostname": "HN_Peg",
-    "stellar_type": "G",
-    "tic_id": "TIC 301880196",
-    "magnitude": 5.9
+    "exo_id": "KMT-2016-BLG-1337L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6920,
+    "st_j": "",
+    "st_mass": 0.54,
+    "dec": -33.0341889,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.1300417,
+    "system_radius": 593903543.9,
+    "pl_hostname": "KMT-2016-BLG-1337L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189836",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1207865",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244703"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1207868"
       }
     ],
     "wp:featuredmedia": [
