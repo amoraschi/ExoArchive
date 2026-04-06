@@ -2,15 +2,15 @@
   "id": 248386,
   "date": "2019-04-22T16:49:23",
   "date_gmt": "2019-04-22T20:49:23",
-  "modified": "2026-01-08T02:36:10",
-  "modified_gmt": "2026-01-08T07:36:10",
+  "modified": "2026-03-23T17:16:03",
+  "modified_gmt": "2026-03-23T21:16:03",
   "slug": "tau-ceti-e",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/tau-ceti-e/",
   "featured_media": 271833,
   "categories": [
-    2014,
-    2013
+    2013,
+    2014
   ],
   "acf": {
     "pl_hostname": "tau_Cet",
