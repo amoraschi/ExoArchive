@@ -868,6 +868,41 @@ TOI-5292 A b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.2
 TOI-5916 b is a gas giant exoplanet that orbits a M-type star. Its mass is 0.713 Jupiters, it takes 2.4 days to complete one orbit of its star, and is 0.0262 AU from its star. Its discovery was announced in 2026.
 
 
+1211607-TOI-4552 b.json
+27.2684
+TOI-4552 b is a super Earth exoplanet that orbits a M-type star. Its mass is 1.83 Earths, it takes 0.3 days to complete one orbit of its star, and is 0.0056255 AU from its star. Its discovery was announced in 2026.
+
+
+1211608-TOI-2431 b.json
+36.0559
+TOI-2431 b is a super Earth exoplanet that orbits a K-type star. Its mass is 6.2 Earths, it takes 0.2 days to complete one orbit of its star, and is 0.0063 AU from its star. Its discovery was announced in 2026.
+
+
+1211609-TOI-1232 b.json
+328.604
+TOI-1232 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.694 Jupiters, it takes 14.3 days to complete one orbit of its star, and is 0.117 AU from its star. Its discovery was announced in 2026.
+
+
+1211610-KMT-2021-BLG-0852L b.json
+7230
+KMT-2021-BLG-0852L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.49 Jupiters, it takes 25.1 years to complete one orbit of its star, and is 7.78 AU from its star. Its discovery was announced in 2026.
+
+
+1211611-KMT-2024-BLG-2005L b.json
+7720
+KMT-2024-BLG-2005L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.16 Jupiters, it takes 3.4 years to complete one orbit of its star, and is 1.12 AU from its star. Its discovery was announced in 2026.
+
+
+1211612-KMT-2025-BLG-0481L b.json
+7980
+KMT-2025-BLG-0481L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.59 Jupiters, it takes 6.9 years to complete one orbit of its star, and is 2.18 AU from its star. Its discovery was announced in 2026.
+
+
+1211613-TOI-1232 c.json
+328.604
+TOI-1232 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.184 Jupiters, it takes 30.4 days to complete one orbit of its star, and is 0.194 AU from its star. Its discovery was announced in 2026.
+
+
 243385-11 Comae Berenices b.json
 93.1846
 11 Comae Berenices b is a gas giant exoplanet that orbits a K-type star. Its mass is 15.464 Jupiters, it takes 323.2 days to complete one orbit of its star, and is 1.178 AU from its star. Its discovery was announced in 2007.
@@ -3306,11 +3341,6 @@ HD 102329 b is a gas giant exoplanet that orbits a K-type star. Its mass is 8.16
 243882-HD 102329 c.json
 217.107
 HD 102329 c is a gas giant exoplanet that orbits a K-type star. Its mass is 1.52 Jupiters, it takes 3.1 years to complete one orbit of its star, and is 2.3076455196452 AU from its star. Its discovery was announced in 2018.
-
-
-243883-HD 102365 b.json
-9.3195
-HD 102365 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 16 Earths, it takes 122.1 days to complete one orbit of its star, and is 0.46 AU from its star. Its discovery was announced in 2010.
 
 
 243884-HD 102843 b.json
@@ -7350,7 +7380,7 @@ HIP 97233 b is a gas giant exoplanet that orbits a K-type star. Its mass is 19.1
 
 244701-HIP 99770 b.json
 40.0765
-HIP 99770 b is a gas giant exoplanet that orbits a A-type star. Its mass is 16.1 Jupiters, it takes 51 years to complete one orbit of its star, and is 16.9 AU from its star. Its discovery was announced in 2023.
+HIP 99770 b is a gas giant exoplanet that orbits a A-type star. Its mass is 17 Jupiters, it takes 51 years to complete one orbit of its star, and is 15.8 AU from its star. Its discovery was announced in 2023.
 
 
 244702-HN Librae b.json
@@ -25418,11 +25448,6 @@ TAP 26 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.66 Ju
 Tau Bootis b is a gas giant exoplanet that orbits a F-type star. Its mass is 5.95 Jupiters, it takes 3.3 days to complete one orbit of its star, and is 0.049 AU from its star. Its discovery was announced in 1996.
 
 
-248386-Tau Ceti e.json
-3.6522
-Tau Ceti e is a super Earth exoplanet that orbits a G-type star. Its mass is 3.93 Earths, it takes 162.9 days to complete one orbit of its star, and is 0.538 AU from its star. Its discovery was announced in 2017.
-
-
 248387-Tau Ceti f.json
 3.6522
 Tau Ceti f is a super Earth exoplanet that orbits a G-type star. Its mass is 3.93 Earths, it takes 1.7 years to complete one orbit of its star, and is 1.334 AU from its star. Its discovery was announced in 2017.
@@ -26010,7 +26035,7 @@ TOI-1937 A b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.0
 
 248505-TOI-198 b.json
 23.7262
-TOI-198 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.67 Earths, it takes 10.2 days to complete one orbit of its star, and is 0.1 AU from its star. Its discovery was announced in 2023.
+TOI-198 b is a super Earth exoplanet that orbits a M-type star. Its mass is 3.17 Earths, it takes 10.2 days to complete one orbit of its star, and is 0.0675 AU from its star. Its discovery was announced in 2023.
 
 
 248506-TOI-199 b.json
@@ -26065,17 +26090,17 @@ TOI-206 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.24
 
 248516-TOI-2076 b.json
 41.9091
-TOI-2076 b is a super Earth exoplanet that orbits a K-type star. Its mass is 16.1 Earths, it takes 10.4 days to complete one orbit of its star, and is 0.0682 AU from its star. Its discovery was announced in 2021.
+TOI-2076 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.7 Earths, it takes 10.4 days to complete one orbit of its star, and is 0.08781 AU from its star. Its discovery was announced in 2021.
 
 
 248517-TOI-2076 c.json
 41.9091
-TOI-2076 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.17304935 Jupiters, it takes 21 days to complete one orbit of its star, and is 0.142 AU from its star. Its discovery was announced in 2021.
+TOI-2076 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.2 Earths, it takes 21 days to complete one orbit of its star, and is 0.1407 AU from its star. Its discovery was announced in 2021.
 
 
 248518-TOI-2076 d.json
 41.9091
-TOI-2076 d is a Neptune-like exoplanet that orbits a K-type star. Its mass is 29 Earths, it takes 35.1 days to complete one orbit of its star, and is 0.199 AU from its star. Its discovery was announced in 2021.
+TOI-2076 d is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.3 Earths, it takes 35.1 days to complete one orbit of its star, and is 0.1982 AU from its star. Its discovery was announced in 2021.
 
 
 248519-TOI-2081 b.json
@@ -26840,7 +26865,7 @@ TOI-640 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.57 J
 
 248671-TOI-672 b.json
 66.9071
-TOI-672 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 24.1 Earths, it takes 3.6 days to complete one orbit of its star, and is 0.037664193339444 AU from its star. Its discovery was announced in 2023.
+TOI-672 b is a gas giant exoplanet that orbits a M-type star. Its mass is 0.16014931 Jupiters, it takes 3.6 days to complete one orbit of its star, and is 0.0376 AU from its star. Its discovery was announced in 2023.
 
 
 248672-TOI-674 b.json
@@ -30260,7 +30285,7 @@ TOI-2989 b is a gas giant exoplanet that orbits a K-type star. Its mass is 3 Jup
 
 876206-TOI-2076 e.json
 41.9091
-TOI-2076 e is a super Earth exoplanet that orbits a K-type star. Its mass is 2.4 Earths, it takes 3 days to complete one orbit of its star, and is 0.0385 AU from its star. Its discovery was announced in 2025.
+TOI-2076 e is a super Earth exoplanet that orbits a K-type star. Its mass is 4.7 Earths, it takes 3 days to complete one orbit of its star, and is 0.03863 AU from its star. Its discovery was announced in 2025.
 
 
 876208-K2-157 d.json

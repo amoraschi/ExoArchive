@@ -2,8 +2,8 @@
   "id": 1189844,
   "date": "2026-01-08T01:10:50",
   "date_gmt": "2026-01-08T06:10:50",
-  "modified": "2026-04-05T06:40:10",
-  "modified_gmt": "2026-04-05T10:40:10",
+  "modified": "2026-04-12T06:53:09",
+  "modified_gmt": "2026-04-12T10:53:09",
   "slug": "tau-ceti-2",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/tau-ceti-2/",
@@ -22,7 +22,6 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      248386,
       248387,
       248388,
       248389
@@ -76,10 +75,6 @@
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248387"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248386"
       }
     ],
     "wp:featuredmedia": [
