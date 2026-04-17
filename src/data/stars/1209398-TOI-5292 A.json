@@ -1,0 +1,77 @@
+{
+  "id": 1209398,
+  "date": "2026-03-27T06:13:20",
+  "date_gmt": "2026-03-27T10:13:20",
+  "modified": "2026-03-27T06:13:20",
+  "modified_gmt": "2026-03-27T10:13:20",
+  "slug": "toi-5292-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5292-a/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5292 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aquarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1209412
+    ],
+    "exo_id": "TOI-5292_A",
+    "st_optmag": 16.416,
+    "st_vj": 16.416,
+    "st_dist": 337.095,
+    "st_j": 16.416,
+    "st_mass": 0.596,
+    "dec": -8.1197473,
+    "st_teff": 3919,
+    "st_rad": 0.611,
+    "ra": 344.2223631,
+    "system_radius": 4173780.573,
+    "pl_hostname": "TOI-5292_A",
+    "stellar_type": "K",
+    "tic_id": "TIC 33397739",
+    "magnitude": 16.416
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1209398",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1209412"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1211601,
+  "date": "2026-04-10T06:49:16",
+  "date_gmt": "2026-04-10T10:49:16",
+  "modified": "2026-04-10T06:49:16",
+  "modified_gmt": "2026-04-10T10:49:16",
+  "slug": "toi-2431",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2431/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2431",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1211608
+    ],
+    "exo_id": "TOI-2431",
+    "st_optmag": 10.9,
+    "st_vj": 10.9,
+    "st_dist": 36.0559,
+    "st_j": 10.9,
+    "st_mass": 0.661,
+    "dec": 8.3816255,
+    "st_teff": 4109,
+    "st_rad": 0.651,
+    "ra": 37.7652989,
+    "system_radius": 942466.581,
+    "pl_hostname": "TOI-2431",
+    "stellar_type": "K",
+    "tic_id": "TIC 258804746",
+    "magnitude": 10.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1211601",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1211608"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

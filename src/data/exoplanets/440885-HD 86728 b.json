@@ -2,8 +2,8 @@
   "id": 440885,
   "date": "2024-12-20T02:48:45",
   "date_gmt": "2024-12-20T07:48:45",
-  "modified": "2025-07-07T20:38:56",
-  "modified_gmt": "2025-07-08T00:38:56",
+  "modified": "2026-01-08T02:36:39",
+  "modified_gmt": "2026-01-08T07:36:39",
   "slug": "hd-86728-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-86728-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.1916,
     "period_display": "31.2 days",
     "eccentricity": "0.07",
-    "star_id": 440844,
+    "star_id": 1189851,
     "pl_orbper": 31.1515,
     "pl_kepflag": false,
     "pl_radj": 0.27,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/440844"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189851"
       }
     ],
     "wp:featuredmedia": [

@@ -2,15 +2,15 @@
   "id": 248074,
   "date": "2022-08-04T13:34:07",
   "date_gmt": "2022-08-04T17:34:07",
-  "modified": "2025-12-05T01:19:44",
-  "modified_gmt": "2025-12-05T06:19:44",
+  "modified": "2026-03-09T19:52:55",
+  "modified_gmt": "2026-03-09T23:52:55",
   "slug": "kmt-2020-blg-0414l-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2020-blg-0414l-b/",
   "featured_media": 267836,
   "categories": [
-    2014,
-    2013
+    2013,
+    2014
   ],
   "acf": {
     "pl_hostname": "KMT-2020-BLG-0414L",

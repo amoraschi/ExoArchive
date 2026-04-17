@@ -1,0 +1,77 @@
+{
+  "id": 1205997,
+  "date": "2026-03-13T05:25:37",
+  "date_gmt": "2026-03-13T09:25:37",
+  "modified": "2026-03-13T05:25:37",
+  "modified_gmt": "2026-03-13T09:25:37",
+  "slug": "kmt-2023-blg-0466l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-0466l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2023-BLG-0466L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1206018
+    ],
+    "exo_id": "KMT-2023-BLG-0466L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6800,
+    "st_j": "",
+    "st_mass": 0.44,
+    "dec": -33.0029694,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 270.61,
+    "system_radius": 400922291.6,
+    "pl_hostname": "KMT-2023-BLG-0466L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1205997",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1206018"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

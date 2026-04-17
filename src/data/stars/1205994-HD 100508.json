@@ -1,0 +1,77 @@
+{
+  "id": 1205994,
+  "date": "2026-03-13T05:25:27",
+  "date_gmt": "2026-03-13T09:25:27",
+  "modified": "2026-03-13T05:25:27",
+  "modified_gmt": "2026-03-13T09:25:27",
+  "slug": "hd-100508",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-100508/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 100508",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Musca",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1206010
+    ],
+    "exo_id": "HD_100508",
+    "st_optmag": 7.74,
+    "st_vj": 7.74,
+    "st_dist": 32.7548,
+    "st_j": 7.74,
+    "st_mass": 0.94,
+    "dec": -67.0546386,
+    "st_teff": 5419,
+    "st_rad": 1.0179,
+    "ra": 173.3014057,
+    "system_radius": 914042985.7,
+    "pl_hostname": "HD_100508",
+    "stellar_type": "G",
+    "tic_id": "TIC 280859200",
+    "magnitude": 7.74
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1205994",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1206010"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1183968,
+  "date": "2025-12-12T00:18:33",
+  "date_gmt": "2025-12-12T05:18:33",
+  "modified": "2025-12-12T00:18:33",
+  "modified_gmt": "2025-12-12T05:18:33",
+  "slug": "toi-7510",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-7510/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-7510",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Telescopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1183979,
+      "1": 1183980,
+      "2": 1183978
+    },
+    "exo_id": "TOI-7510",
+    "st_optmag": 11.989,
+    "st_vj": 11.989,
+    "st_dist": 249.006,
+    "st_j": 11.989,
+    "st_mass": 1.063,
+    "dec": -54.4340547,
+    "st_teff": 5720,
+    "st_rad": 1.035,
+    "ra": 273.728188,
+    "system_radius": 39972550.864,
+    "pl_hostname": "TOI-7510",
+    "stellar_type": "G",
+    "tic_id": "TIC 118798035",
+    "magnitude": 11.989
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1183968",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1183980"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1183979"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1183978"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

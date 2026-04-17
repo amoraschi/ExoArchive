@@ -1,0 +1,79 @@
+{
+  "id": 1200261,
+  "date": "2026-02-13T04:13:50",
+  "date_gmt": "2026-02-13T09:13:50",
+  "modified": "2026-02-13T04:13:50",
+  "modified_gmt": "2026-02-13T09:13:50",
+  "slug": "hd-85426-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-85426-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1774",
+    "pl_letter": "c",
+    "display_name": "HD 85426 c",
+    "planet_radius": "0.285 x Jupiter (estimate)",
+    "derived_description": "HD 85426 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.3 Earths, it takes 35.7 days to complete one orbit of its star, and is 0.21166450621513 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 53.974,
+    "planet_mass": "10.3 Earths",
+    "st_optmag": 8.25,
+    "discovery_date": "2026",
+    "pl_orbsmax": "",
+    "period_display": "35.7 days",
+    "eccentricity": "0.06",
+    "star_id": 1197978,
+    "pl_orbper": 35.73,
+    "pl_kepflag": false,
+    "pl_radj": 0.285,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 143,
+    "multiple_planet_system": false,
+    "pl_rade": 3.19,
+    "exo_id": "HD_85426_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.06
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1200261",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197978"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

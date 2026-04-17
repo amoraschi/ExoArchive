@@ -1,0 +1,77 @@
+{
+  "id": 1183965,
+  "date": "2025-12-12T00:18:32",
+  "date_gmt": "2025-12-12T05:18:32",
+  "modified": "2025-12-12T00:18:32",
+  "modified_gmt": "2025-12-12T05:18:32",
+  "slug": "toi-521",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-521/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-521",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1183973
+    ],
+    "exo_id": "TOI-521",
+    "st_optmag": 14.691,
+    "st_vj": 14.691,
+    "st_dist": 60.9425,
+    "st_j": 14.691,
+    "st_mass": 0.42,
+    "dec": 12.2221079,
+    "st_teff": 3544,
+    "st_rad": 0.421,
+    "ra": 123.3442567,
+    "system_radius": 2917158.465,
+    "pl_hostname": "TOI-521",
+    "stellar_type": "M",
+    "tic_id": "TIC 27649847",
+    "magnitude": 14.691
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1183965",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1183973"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

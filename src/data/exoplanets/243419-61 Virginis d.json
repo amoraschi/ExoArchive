@@ -2,8 +2,8 @@
   "id": 243419,
   "date": "2019-04-22T16:48:47",
   "date_gmt": "2019-04-22T20:48:47",
-  "modified": "2025-07-07T20:39:58",
-  "modified_gmt": "2025-07-08T00:39:58",
+  "modified": "2026-01-08T02:35:12",
+  "modified_gmt": "2026-01-08T07:35:12",
   "slug": "61-virginis-d",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/61-virginis-d/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.476,
     "period_display": "123 days",
     "eccentricity": "0.35",
-    "star_id": 260437,
+    "star_id": 1189834,
     "pl_orbper": 123.01,
     "pl_kepflag": false,
     "pl_radj": 0.456,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260437"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189834"
       }
     ],
     "wp:featuredmedia": [

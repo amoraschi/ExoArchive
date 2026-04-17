@@ -1,0 +1,77 @@
+{
+  "id": 1204736,
+  "date": "2026-03-06T04:01:23",
+  "date_gmt": "2026-03-06T09:01:23",
+  "modified": "2026-03-06T04:01:23",
+  "modified_gmt": "2026-03-06T09:01:23",
+  "slug": "dmpp-8",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/dmpp-8/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "DMPP-8",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Octans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1204757
+    ],
+    "exo_id": "DMPP-8",
+    "st_optmag": 8.65,
+    "st_vj": 8.65,
+    "st_dist": 76.1335,
+    "st_j": 8.65,
+    "st_mass": 0.99,
+    "dec": -81.6166664,
+    "st_teff": 6009,
+    "st_rad": 1.24,
+    "ra": 305.3083517,
+    "system_radius": 46345420.126,
+    "pl_hostname": "DMPP-8",
+    "stellar_type": "F",
+    "tic_id": "TIC 318042295",
+    "magnitude": 8.65
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1204736",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204757"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

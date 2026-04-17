@@ -2,8 +2,8 @@
   "id": 263268,
   "date": "2023-11-28T21:01:30",
   "date_gmt": "2023-11-29T02:01:30",
-  "modified": "2025-04-23T05:56:54",
-  "modified_gmt": "2025-04-23T09:56:54",
+  "modified": "2026-03-20T05:47:22",
+  "modified_gmt": "2026-03-20T09:47:22",
   "slug": "hd_114386",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_114386/",
@@ -21,17 +21,18 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      243946
-    ],
+    "planet_ids": {
+      "0": 1206011,
+      "1": 243946
+    },
     "exo_id": "HD_114386",
     "st_optmag": 8.73,
     "st_vj": 8.73,
     "st_dist": 27.9243,
     "st_j": 8.73,
-    "st_mass": 0.6,
+    "st_mass": 0.8,
     "dec": -35.0561807,
-    "st_teff": 4836,
+    "st_teff": 4895,
     "st_rad": 0.76,
     "ra": 197.6652124,
     "system_radius": 258804315.1,
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1206011"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243946"

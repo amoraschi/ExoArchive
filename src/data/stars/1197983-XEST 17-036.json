@@ -1,0 +1,77 @@
+{
+  "id": 1197983,
+  "date": "2026-02-06T02:33:39",
+  "date_gmt": "2026-02-06T07:33:39",
+  "modified": "2026-02-06T02:33:39",
+  "modified_gmt": "2026-02-06T07:33:39",
+  "slug": "xest-17-036",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/xest-17-036/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "XEST 17-036",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1198003
+    ],
+    "exo_id": "XEST_17-036",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 158.618,
+    "st_j": "",
+    "st_mass": 0.26,
+    "dec": 22.758056,
+    "st_teff": 3551,
+    "st_rad": "",
+    "ra": 68.359288,
+    "system_radius": 103222530300,
+    "pl_hostname": "XEST_17-036",
+    "stellar_type": "M",
+    "tic_id": "TIC 61229372",
+    "magnitude": 16.5081
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197983",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1198003"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

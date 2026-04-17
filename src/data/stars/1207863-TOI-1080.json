@@ -1,0 +1,77 @@
+{
+  "id": 1207863,
+  "date": "2026-03-20T05:47:55",
+  "date_gmt": "2026-03-20T09:47:55",
+  "modified": "2026-03-20T05:47:55",
+  "modified_gmt": "2026-03-20T09:47:55",
+  "slug": "toi-1080",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1080/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1080",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Telescopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1207866
+    ],
+    "exo_id": "TOI-1080",
+    "st_optmag": 15.349,
+    "st_vj": 15.349,
+    "st_dist": 25.559,
+    "st_j": 15.349,
+    "st_mass": 0.1667,
+    "dec": -52.214573,
+    "st_teff": 3065,
+    "st_rad": 0.2019,
+    "ra": 276.3683249,
+    "system_radius": 4069062.064,
+    "pl_hostname": "TOI-1080",
+    "stellar_type": "M",
+    "tic_id": "TIC 161032923",
+    "magnitude": 15.349
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1207863",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1207866"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

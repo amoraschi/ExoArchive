@@ -1,0 +1,71 @@
+{
+  "id": 1186655,
+  "date": "2025-12-19T00:30:17",
+  "date_gmt": "2025-12-19T05:30:17",
+  "modified": "2025-12-19T00:30:17",
+  "modified_gmt": "2025-12-19T05:30:17",
+  "slug": "hip-54515",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-54515/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 54515",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1186666
+    ],
+    "exo_id": "HIP_54515",
+    "st_optmag": 6.807,
+    "st_vj": 6.807,
+    "st_dist": 82.8101,
+    "st_j": 6.807,
+    "st_mass": 1.9,
+    "dec": -1.3332838,
+    "st_teff": 8100,
+    "st_rad": 1.64915,
+    "ra": 167.3066308,
+    "system_radius": 3710027176,
+    "pl_hostname": "HIP_54515",
+    "stellar_type": "A",
+    "tic_id": "TIC 62903306",
+    "magnitude": 6.807
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1186655",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1186666"
+      }
+    ]
+  }
+}

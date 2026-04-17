@@ -1,0 +1,82 @@
+{
+  "id": 1211602,
+  "date": "2026-04-10T06:49:17",
+  "date_gmt": "2026-04-10T10:49:17",
+  "modified": "2026-04-10T06:49:17",
+  "modified_gmt": "2026-04-10T10:49:17",
+  "slug": "toi-1232",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1232/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1232",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1211613,
+      "1": 1211609
+    },
+    "exo_id": "TOI-1232",
+    "st_optmag": 12.68,
+    "st_vj": 12.68,
+    "st_dist": 328.604,
+    "st_j": 12.68,
+    "st_mass": 1.058,
+    "dec": -61.8797935,
+    "st_teff": 5823,
+    "st_rad": 1.072,
+    "ra": 116.501399,
+    "system_radius": 29021986.78,
+    "pl_hostname": "TOI-1232",
+    "stellar_type": "G",
+    "tic_id": "TIC 364395234",
+    "magnitude": 12.68
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1211602",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1211613"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1211609"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

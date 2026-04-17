@@ -1,0 +1,77 @@
+{
+  "id": 1186653,
+  "date": "2025-12-19T00:30:17",
+  "date_gmt": "2025-12-19T05:30:17",
+  "modified": "2025-12-19T00:30:17",
+  "modified_gmt": "2025-12-19T05:30:17",
+  "slug": "wasp-108",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-108/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "WASP-108",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1186662
+    ],
+    "exo_id": "WASP-108",
+    "st_optmag": 11.211,
+    "st_vj": 11.211,
+    "st_dist": 258.777,
+    "st_j": 11.211,
+    "st_mass": 1.167,
+    "dec": -49.6397727,
+    "st_teff": 6783,
+    "st_rad": 1.34415,
+    "ra": 195.8281644,
+    "system_radius": 149597870,
+    "pl_hostname": "WASP-108",
+    "stellar_type": "F",
+    "tic_id": "TIC 404340025",
+    "magnitude": 11.211
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1186653",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1186662"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

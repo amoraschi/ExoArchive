@@ -1,0 +1,92 @@
+{
+  "id": 1196349,
+  "date": "2026-02-03T02:27:21",
+  "date_gmt": "2026-02-03T07:27:21",
+  "modified": "2026-02-03T02:27:21",
+  "modified_gmt": "2026-02-03T07:27:21",
+  "slug": "toi-5789",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5789/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5789",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagitta",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1196358,
+      "1": 1196355,
+      "2": 1196356,
+      "3": 1196357
+    },
+    "exo_id": "TOI-5789",
+    "st_optmag": 7.35063,
+    "st_vj": 7.35063,
+    "st_dist": 20.4581,
+    "st_j": 7.35063,
+    "st_mass": 0.821,
+    "dec": 16.1897138,
+    "st_teff": 5185,
+    "st_rad": 0.833,
+    "ra": 302.7734475,
+    "system_radius": 43398342.087,
+    "pl_hostname": "TOI-5789",
+    "stellar_type": "K",
+    "tic_id": "TIC 87216634",
+    "magnitude": 7.35063
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1196349",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1196358"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1196357"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1196356"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1196355"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

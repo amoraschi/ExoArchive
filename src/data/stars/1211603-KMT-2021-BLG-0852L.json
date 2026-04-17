@@ -1,0 +1,77 @@
+{
+  "id": 1211603,
+  "date": "2026-04-10T06:49:17",
+  "date_gmt": "2026-04-10T10:49:17",
+  "modified": "2026-04-10T06:49:17",
+  "modified_gmt": "2026-04-10T10:49:17",
+  "slug": "kmt-2021-blg-0852l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2021-blg-0852l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2021-BLG-0852L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1211610
+    ],
+    "exo_id": "KMT-2021-BLG-0852L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7230,
+    "st_j": "",
+    "st_mass": 0.75,
+    "dec": -33.8918389,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 265.8311667,
+    "system_radius": 1163871428.6,
+    "pl_hostname": "KMT-2021-BLG-0852L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1211603",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1211610"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

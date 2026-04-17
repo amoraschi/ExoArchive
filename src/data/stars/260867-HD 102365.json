@@ -2,8 +2,8 @@
   "id": 260867,
   "date": "2023-11-28T20:31:07",
   "date_gmt": "2023-11-29T01:31:07",
-  "modified": "2025-12-10T00:15:03",
-  "modified_gmt": "2025-12-10T05:15:03",
+  "modified": "2026-04-10T06:49:20",
+  "modified_gmt": "2026-04-10T10:49:20",
   "slug": "hd_102365",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_102365/",
@@ -21,9 +21,7 @@
     "rv_planets_prospects": "1 planet has been detected with radial velocities around this star to date. A 12-year radial velocity study culminated in the discovery of the Neptune-sized exoplanet HD 102365 b. This exoplanet is close to the host star, and completes a full orbit every 122 days.",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "0 planets have been detected with direct imaging of this star to date.As a nearby bright star, HD 102365 is a prime candidate for future direct imaging efforts. Upcoming large space telescopes will be able to search for exoplanets, including rocky planets as small as Earth, in the star’s habitable zone. They will also have the capability to detect larger planets farther from the star.",
-    "planet_ids": [
-      243883
-    ],
+    "planet_ids": [],
     "exo_id": "HD_102365",
     "st_optmag": 4.893,
     "st_vj": 4.893,
@@ -34,7 +32,7 @@
     "st_teff": 5618,
     "st_rad": 0.97,
     "ra": 176.6294689,
-    "system_radius": 68815020.2,
+    "system_radius": 149597870,
     "pl_hostname": "HD_102365",
     "stellar_type": "G",
     "tic_id": "TIC 454082369",
@@ -59,12 +57,6 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
-      }
-    ],
-    "acf:post": [
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243883"
       }
     ],
     "wp:featuredmedia": [

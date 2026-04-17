@@ -1,0 +1,77 @@
+{
+  "id": 1192228,
+  "date": "2026-01-16T01:26:11",
+  "date_gmt": "2026-01-16T06:26:11",
+  "modified": "2026-01-16T01:26:11",
+  "modified_gmt": "2026-01-16T06:26:11",
+  "slug": "ngts-34",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-34/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-34",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Vela",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1192266
+    ],
+    "exo_id": "NGTS-34",
+    "st_optmag": 9.229,
+    "st_vj": 9.229,
+    "st_dist": 120.475,
+    "st_j": 9.229,
+    "st_mass": 1.266,
+    "dec": -44.5478575,
+    "st_teff": 6134,
+    "st_rad": 1.367,
+    "ra": 162.4997176,
+    "system_radius": 38446652.59,
+    "pl_hostname": "NGTS-34",
+    "stellar_type": "F",
+    "tic_id": "TIC 147277741",
+    "magnitude": 9.229
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1192228",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1192266"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1203244,
+  "date": "2026-02-27T03:38:24",
+  "date_gmt": "2026-02-27T08:38:24",
+  "modified": "2026-02-27T03:38:24",
+  "modified_gmt": "2026-02-27T08:38:24",
+  "slug": "iso-oph-96",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/iso-oph-96/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "ISO-Oph 96",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1203282
+    ],
+    "exo_id": "ISO-Oph_96",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 140.563,
+    "st_j": "",
+    "st_mass": 0.41,
+    "dec": -24.716683,
+    "st_teff": 3920,
+    "st_rad": 0.730795,
+    "ra": 246.7687845,
+    "system_radius": 51162471540,
+    "pl_hostname": "ISO-Oph_96",
+    "stellar_type": "K",
+    "tic_id": "TIC 175629533",
+    "magnitude": 16.6016
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203244",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203282"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

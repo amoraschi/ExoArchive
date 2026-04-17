@@ -2,8 +2,8 @@
   "id": 244025,
   "date": "2021-06-17T13:33:02",
   "date_gmt": "2021-06-17T17:33:02",
-  "modified": "2025-07-07T20:34:59",
-  "modified_gmt": "2025-07-08T00:34:59",
+  "modified": "2026-01-08T02:36:19",
+  "modified_gmt": "2026-01-08T07:36:19",
   "slug": "hd-141004-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-141004-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.1238,
     "period_display": "15.5 days",
     "eccentricity": "0.16",
-    "star_id": 262353,
+    "star_id": 1189847,
     "pl_orbper": 15.5083,
     "pl_kepflag": false,
     "pl_radj": 0.336,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262353"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189847"
       }
     ],
     "wp:featuredmedia": [

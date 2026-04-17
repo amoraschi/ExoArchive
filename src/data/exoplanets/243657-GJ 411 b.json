@@ -2,8 +2,8 @@
   "id": 243657,
   "date": "2019-04-22T16:49:29",
   "date_gmt": "2019-04-22T20:49:29",
-  "modified": "2025-07-07T20:36:21",
-  "modified_gmt": "2025-07-08T00:36:21",
+  "modified": "2026-01-08T02:36:30",
+  "modified_gmt": "2026-01-08T07:36:30",
   "slug": "gj-411-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/gj-411-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.07879,
     "period_display": "12.9 days",
     "eccentricity": "0.06",
-    "star_id": 260594,
+    "star_id": 1189849,
     "pl_orbper": 12.9394,
     "pl_kepflag": false,
     "pl_radj": 0.129,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260594"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189849"
       }
     ],
     "wp:featuredmedia": [

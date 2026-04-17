@@ -1,0 +1,79 @@
+{
+  "id": 1203273,
+  "date": "2026-02-27T04:44:53",
+  "date_gmt": "2026-02-27T09:44:53",
+  "modified": "2026-02-27T04:44:53",
+  "modified_gmt": "2026-02-27T09:44:53",
+  "slug": "toi-375-d",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-375-d/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-375",
+    "pl_letter": "d",
+    "display_name": "TOI-375 d",
+    "planet_radius": "1.21 x Jupiter (estimate)",
+    "derived_description": "TOI-375 d is a gas giant exoplanet that orbits a K-type star. Its mass is 1.402 Jupiters, it takes 297.9 days to complete one orbit of its star, and is 0.984 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 396.213,
+    "planet_mass": "1.402 Jupiters",
+    "st_optmag": 11.516,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.984,
+    "period_display": "297.9 days",
+    "eccentricity": "",
+    "star_id": 1203234,
+    "pl_orbper": 297.9,
+    "pl_kepflag": false,
+    "pl_radj": 1.21,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.6,
+    "exo_id": "TOI-375_d",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203273",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203234"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

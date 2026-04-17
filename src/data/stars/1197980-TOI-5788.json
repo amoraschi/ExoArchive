@@ -1,0 +1,82 @@
+{
+  "id": 1197980,
+  "date": "2026-02-06T02:33:39",
+  "date_gmt": "2026-02-06T07:33:39",
+  "modified": "2026-02-06T02:33:39",
+  "modified_gmt": "2026-02-06T07:33:39",
+  "slug": "toi-5788",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5788/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5788",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1197999,
+      "1": 1197998
+    },
+    "exo_id": "TOI-5788",
+    "st_optmag": 10.153,
+    "st_vj": 10.153,
+    "st_dist": 97.614,
+    "st_j": 10.153,
+    "st_mass": 0.87,
+    "dec": 31.7615284,
+    "st_teff": 5615,
+    "st_rad": 0.87,
+    "ra": 287.4249017,
+    "system_radius": 17906865.039,
+    "pl_hostname": "TOI-5788",
+    "stellar_type": "G",
+    "tic_id": "TIC 42883782",
+    "magnitude": 10.153
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197980",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197999"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197998"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

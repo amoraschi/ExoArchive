@@ -2,8 +2,8 @@
   "id": 244706,
   "date": "2019-04-22T16:48:44",
   "date_gmt": "2019-04-22T20:48:44",
-  "modified": "2024-10-24T19:25:09",
-  "modified_gmt": "2024-10-24T23:25:09",
+  "modified": "2026-01-08T02:36:47",
+  "modified_gmt": "2026-01-08T07:36:47",
   "slug": "hr-810-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hr-810-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.92,
     "period_display": "302.8 days",
     "eccentricity": "0.14",
-    "star_id": 261201,
+    "star_id": 1189853,
     "pl_orbper": 302.79999,
     "pl_kepflag": false,
     "pl_radj": 1.14,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261201"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189853"
       }
     ],
     "wp:featuredmedia": [

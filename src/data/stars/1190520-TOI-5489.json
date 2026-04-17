@@ -1,0 +1,82 @@
+{
+  "id": 1190520,
+  "date": "2026-01-10T01:13:19",
+  "date_gmt": "2026-01-10T06:13:19",
+  "modified": "2026-01-10T01:13:19",
+  "modified_gmt": "2026-01-10T06:13:19",
+  "slug": "toi-5489",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5489/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5489",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1190152,
+      "1": 1190147
+    },
+    "exo_id": "TOI-5489",
+    "st_optmag": 13.824,
+    "st_vj": 13.824,
+    "st_dist": 45.0907,
+    "st_j": 13.824,
+    "st_mass": 0.41,
+    "dec": 11.4895882,
+    "st_teff": 3547,
+    "st_rad": 0.42,
+    "ra": 128.691294,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5489",
+    "stellar_type": "M",
+    "tic_id": "TIC 468983280",
+    "magnitude": 13.824
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1190520",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1190152"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1190147"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

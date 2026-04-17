@@ -1,0 +1,87 @@
+{
+  "id": 1203234,
+  "date": "2026-02-27T03:38:23",
+  "date_gmt": "2026-02-27T08:38:23",
+  "modified": "2026-02-27T03:38:23",
+  "modified_gmt": "2026-02-27T08:38:23",
+  "slug": "toi-375",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-375/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-375",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1203273,
+      "1": 1203272,
+      "2": 1203259
+    },
+    "exo_id": "TOI-375",
+    "st_optmag": 11.516,
+    "st_vj": 11.516,
+    "st_dist": 396.213,
+    "st_j": 11.516,
+    "st_mass": 1.441,
+    "dec": -77.3833275,
+    "st_teff": 5259.9,
+    "st_rad": 2.9,
+    "ra": 47.1499034,
+    "system_radius": 147204304.08,
+    "pl_hostname": "TOI-375",
+    "stellar_type": "K",
+    "tic_id": "TIC 280097543",
+    "magnitude": 11.516
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203234",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203273"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203272"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203259"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1203242,
+  "date": "2026-02-27T03:38:24",
+  "date_gmt": "2026-02-27T08:38:24",
+  "modified": "2026-02-27T03:38:24",
+  "modified_gmt": "2026-02-27T08:38:24",
+  "slug": "kmt-2024-blg-1870l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2024-blg-1870l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2024-BLG-1870L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1203276
+    ],
+    "exo_id": "KMT-2024-BLG-1870L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5480,
+    "st_j": "",
+    "st_mass": 0.67,
+    "dec": -26.8828889,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 272.4653333,
+    "system_radius": 471233290.5,
+    "pl_hostname": "KMT-2024-BLG-1870L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203242",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203276"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

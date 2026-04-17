@@ -1,0 +1,79 @@
+{
+  "id": 1190150,
+  "date": "2026-01-09T02:38:12",
+  "date_gmt": "2026-01-09T07:38:12",
+  "modified": "2026-01-10T02:40:14",
+  "modified_gmt": "2026-01-10T07:40:14",
+  "slug": "toi-5736-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-5736-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-5736",
+    "pl_letter": "b",
+    "display_name": "TOI-5736 b",
+    "planet_radius": "1.56 x Earth",
+    "derived_description": "TOI-5736 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.05 Earths, it takes 0.6 days to complete one orbit of its star, and is 0.012163309678094 AU from its star. Its discovery was announced in 2025.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 92.3604,
+    "planet_mass": "3.05 Earths",
+    "st_optmag": 13.553,
+    "discovery_date": "2025",
+    "pl_orbsmax": "",
+    "period_display": "0.6 days",
+    "eccentricity": "",
+    "star_id": 1190523,
+    "pl_orbper": 0.64899,
+    "pl_kepflag": false,
+    "pl_radj": 0.13917412,
+    "pl_disc": 2025,
+    "pl_publ_date": "2025",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.56,
+    "exo_id": "TOI-5736_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1190150",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1190523"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

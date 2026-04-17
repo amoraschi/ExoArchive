@@ -1,0 +1,77 @@
+{
+  "id": 1190522,
+  "date": "2026-01-10T01:13:19",
+  "date_gmt": "2026-01-10T06:13:19",
+  "modified": "2026-01-10T01:13:19",
+  "modified_gmt": "2026-01-10T06:13:19",
+  "slug": "toi-5728",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5728/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5728",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1190149
+    ],
+    "exo_id": "TOI-5728",
+    "st_optmag": 15.02,
+    "st_vj": 15.02,
+    "st_dist": 54.7045,
+    "st_j": 15.02,
+    "st_mass": 0.36,
+    "dec": 67.5504212,
+    "st_teff": 3419,
+    "st_rad": 0.37,
+    "ra": 260.3509363,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5728",
+    "stellar_type": "M",
+    "tic_id": "TIC 219875976",
+    "magnitude": 15.02
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1190522",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1190149"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

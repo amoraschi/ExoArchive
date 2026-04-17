@@ -1,0 +1,82 @@
+{
+  "id": 1204738,
+  "date": "2026-03-06T04:01:32",
+  "date_gmt": "2026-03-06T09:01:32",
+  "modified": "2026-03-06T04:01:32",
+  "modified_gmt": "2026-03-06T09:01:32",
+  "slug": "toi-2267-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2267-a/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2267 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1204762,
+      "1": 1204761
+    },
+    "exo_id": "TOI-2267_A",
+    "st_optmag": 15.56,
+    "st_vj": 15.56,
+    "st_dist": 22.55,
+    "st_j": 15.56,
+    "st_mass": 0.171,
+    "dec": 84.9008238,
+    "st_teff": 3030,
+    "st_rad": 0.2075,
+    "ra": 65.0614963,
+    "system_radius": 3934423.981,
+    "pl_hostname": "TOI-2267_A",
+    "stellar_type": "M",
+    "tic_id": "TIC 459837008",
+    "magnitude": 15.56
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1204738",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204762"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204761"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

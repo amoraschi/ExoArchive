@@ -1,0 +1,77 @@
+{
+  "id": 1196347,
+  "date": "2026-02-03T02:27:10",
+  "date_gmt": "2026-02-03T07:27:10",
+  "modified": "2026-02-03T02:27:10",
+  "modified_gmt": "2026-02-03T07:27:10",
+  "slug": "toi-5422",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5422/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5422",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Taurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1196350
+    ],
+    "exo_id": "TOI-5422",
+    "st_optmag": 11.499,
+    "st_vj": 11.499,
+    "st_dist": 346.141,
+    "st_j": 11.499,
+    "st_mass": 1.066,
+    "dec": 25.6260342,
+    "st_teff": 5820,
+    "st_rad": 1.474,
+    "ra": 86.8436173,
+    "system_radius": 9260108.153,
+    "pl_hostname": "TOI-5422",
+    "stellar_type": "G",
+    "tic_id": "TIC 80611440",
+    "magnitude": 11.499
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1196347",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1196350"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

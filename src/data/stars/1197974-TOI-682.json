@@ -1,0 +1,77 @@
+{
+  "id": 1197974,
+  "date": "2026-02-06T02:33:35",
+  "date_gmt": "2026-02-06T07:33:35",
+  "modified": "2026-02-06T02:33:35",
+  "modified_gmt": "2026-02-06T07:33:35",
+  "slug": "toi-682",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-682/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-682",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Crater",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1197988
+    ],
+    "exo_id": "TOI-682",
+    "st_optmag": 9.969,
+    "st_vj": 9.969,
+    "st_dist": 83.1548,
+    "st_j": 9.969,
+    "st_mass": 0.85,
+    "dec": -22.0727803,
+    "st_teff": 5085,
+    "st_rad": 1.08,
+    "ra": 167.88543,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-682",
+    "stellar_type": "K",
+    "tic_id": "TIC 429304876",
+    "magnitude": 9.969
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197974",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197988"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

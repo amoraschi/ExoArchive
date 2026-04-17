@@ -21,13 +21,13 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      243909,
-      243910,
-      243911,
-      243912,
-      243913
-    ],
+    "planet_ids": {
+      "0": 1197984,
+      "1": 243909,
+      "2": 243910,
+      "3": 243912,
+      "4": 243913
+    },
     "exo_id": "HD_108236",
     "st_optmag": 9.25,
     "st_vj": 9.25,
@@ -68,15 +68,15 @@
     "acf:post": [
       {
         "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197984"
+      },
+      {
+        "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243913"
       },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243912"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243911"
       },
       {
         "embeddable": true,

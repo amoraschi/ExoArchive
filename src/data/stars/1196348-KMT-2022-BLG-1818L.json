@@ -1,0 +1,82 @@
+{
+  "id": 1196348,
+  "date": "2026-02-03T02:27:10",
+  "date_gmt": "2026-02-03T07:27:10",
+  "modified": "2026-02-03T02:27:10",
+  "modified_gmt": "2026-02-03T07:27:10",
+  "slug": "kmt-2022-blg-1818l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2022-blg-1818l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2022-BLG-1818L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1196352,
+      "1": 1196351
+    },
+    "exo_id": "KMT-2022-BLG-1818L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 5300,
+    "st_j": "",
+    "st_mass": 0.79,
+    "dec": -27.4811111,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 270.798625,
+    "system_radius": 1884933162,
+    "pl_hostname": "KMT-2022-BLG-1818L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1196348",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1196352"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1196351"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1200263,
+  "date": "2026-02-13T04:13:51",
+  "date_gmt": "2026-02-13T09:13:51",
+  "modified": "2026-02-13T04:13:51",
+  "modified_gmt": "2026-02-13T09:13:51",
+  "slug": "gj-4274-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gj-4274-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "GJ_4274",
+    "pl_letter": "c",
+    "display_name": "GJ 4274 c",
+    "planet_radius": "0.252 x Jupiter (estimate)",
+    "derived_description": "GJ 4274 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.39 Earths, it takes 69.6 days to complete one orbit of its star, and is 0.186 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Mauna Kea Observatory",
+    "st_dist": 7.23556,
+    "planet_mass": "8.39 Earths",
+    "st_optmag": 13.31,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.186,
+    "period_display": "69.6 days",
+    "eccentricity": "",
+    "star_id": 1200240,
+    "pl_orbper": 69.57,
+    "pl_kepflag": false,
+    "pl_radj": 0.252,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.83,
+    "exo_id": "GJ_4274_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1200263",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1200240"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

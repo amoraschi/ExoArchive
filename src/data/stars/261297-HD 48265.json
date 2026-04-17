@@ -2,8 +2,8 @@
   "id": 261297,
   "date": "2023-11-28T20:36:34",
   "date_gmt": "2023-11-29T01:36:34",
-  "modified": "2025-04-23T05:54:25",
-  "modified_gmt": "2025-04-23T09:54:25",
+  "modified": "2026-03-13T05:25:47",
+  "modified_gmt": "2026-03-13T09:25:47",
   "slug": "hd_48265",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_48265/",
@@ -21,9 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      244466
-    ],
+    "planet_ids": {
+      "0": 1206021,
+      "1": 244466
+    },
     "exo_id": "HD_48265",
     "st_optmag": 8.05,
     "st_vj": 8.05,
@@ -34,7 +35,7 @@
     "st_teff": 5733,
     "st_rad": 1.901,
     "ra": 100.0073683,
-    "system_radius": 271370536.18,
+    "system_radius": 1555817848,
     "pl_hostname": "HD_48265",
     "stellar_type": "G",
     "tic_id": "TIC 255781806",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1206021"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244466"

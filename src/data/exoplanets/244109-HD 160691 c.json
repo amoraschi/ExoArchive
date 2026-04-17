@@ -2,8 +2,8 @@
   "id": 244109,
   "date": "2019-04-22T16:48:46",
   "date_gmt": "2019-04-22T20:48:46",
-  "modified": "2025-07-07T17:22:09",
-  "modified_gmt": "2025-07-07T21:22:09",
+  "modified": "2026-02-13T04:13:43",
+  "modified_gmt": "2026-02-13T09:13:43",
   "slug": "hd-160691-c",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/hd-160691-c/",
@@ -27,8 +27,8 @@
     "discovery_date": "2004",
     "pl_orbsmax": 4.17,
     "period_display": "10.8 years",
-    "eccentricity": "0.1",
-    "star_id": 261193,
+    "eccentricity": "0.04",
+    "star_id": 1189842,
     "pl_orbper": 3947,
     "pl_kepflag": false,
     "pl_radj": "",
@@ -40,7 +40,7 @@
     "exo_id": "HD_160691_c",
     "planet_size_class": "super-Jovian",
     "pl_eccenlim": 0,
-    "pl_orbeccen": 0.0985
+    "pl_orbeccen": 0.039
   },
   "_links": {
     "self": [
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/261193"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189842"
       }
     ],
     "wp:featuredmedia": [

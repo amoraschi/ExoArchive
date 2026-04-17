@@ -1,0 +1,77 @@
+{
+  "id": 1197976,
+  "date": "2026-02-06T02:33:35",
+  "date_gmt": "2026-02-06T07:33:35",
+  "modified": "2026-02-06T02:33:35",
+  "modified_gmt": "2026-02-06T07:33:35",
+  "slug": "toi-1230",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1230/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1230",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Octans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1197992
+    ],
+    "exo_id": "TOI-1230",
+    "st_optmag": 10.254,
+    "st_vj": 10.254,
+    "st_dist": 143.138,
+    "st_j": 10.254,
+    "st_mass": 1.14,
+    "dec": -83.8250629,
+    "st_teff": 5696,
+    "st_rad": 1.15281,
+    "ra": 118.1295936,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1230",
+    "stellar_type": "G",
+    "tic_id": "TIC 287156968",
+    "magnitude": 10.254
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1197976",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1197992"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1203235,
+  "date": "2026-02-27T03:38:23",
+  "date_gmt": "2026-02-27T08:38:23",
+  "modified": "2026-02-27T03:38:23",
+  "modified_gmt": "2026-02-27T08:38:23",
+  "slug": "lhs-1903",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/lhs-1903/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "LHS 1903",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lynx",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1203281,
+      "1": 1203261,
+      "2": 1203262,
+      "3": 1203260
+    },
+    "exo_id": "LHS_1903",
+    "st_optmag": 12.23,
+    "st_vj": 12.23,
+    "st_dist": 35.6917,
+    "st_j": 12.23,
+    "st_mass": 0.538,
+    "dec": 48.3279327,
+    "st_teff": 3664,
+    "st_rad": 0.539,
+    "ra": 107.865826,
+    "system_radius": 22641637.6245,
+    "pl_hostname": "LHS_1903",
+    "stellar_type": "M",
+    "tic_id": "TIC 318022259",
+    "magnitude": 12.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203235",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203281"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203262"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203261"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203260"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

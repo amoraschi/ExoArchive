@@ -2,8 +2,8 @@
   "id": 260702,
   "date": "2023-11-28T20:29:01",
   "date_gmt": "2023-11-29T01:29:01",
-  "modified": "2025-04-23T05:53:34",
-  "modified_gmt": "2025-04-23T09:53:34",
+  "modified": "2026-02-13T02:47:27",
+  "modified_gmt": "2026-02-13T07:47:27",
   "slug": "hd_176986",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_176986/",
@@ -21,10 +21,11 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      244154,
-      244155
-    ],
+    "planet_ids": {
+      "0": 1200253,
+      "1": 244154,
+      "2": 244155
+    },
     "exo_id": "HD_176986",
     "st_optmag": 8.42,
     "st_vj": 8.42,
@@ -35,7 +36,7 @@
     "st_teff": 4931,
     "st_rad": 0.782,
     "ra": 285.7739138,
-    "system_radius": 17769234.9986,
+    "system_radius": 42110304.4263,
     "pl_hostname": "HD_176986",
     "stellar_type": "K",
     "tic_id": "TIC 39554091",
@@ -63,6 +64,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1200253"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244155"

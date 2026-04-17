@@ -1,0 +1,77 @@
+{
+  "id": 1204735,
+  "date": "2026-03-06T04:01:22",
+  "date_gmt": "2026-03-06T09:01:22",
+  "modified": "2026-03-06T04:01:22",
+  "modified_gmt": "2026-03-06T09:01:22",
+  "slug": "dmpp-7",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/dmpp-7/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "DMPP-7",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1204756
+    ],
+    "exo_id": "DMPP-7",
+    "st_optmag": 8.79,
+    "st_vj": 8.79,
+    "st_dist": 101.386,
+    "st_j": 8.79,
+    "st_mass": 1.09,
+    "dec": 0.4988127,
+    "st_teff": 5996.82,
+    "st_rad": 1.53949,
+    "ra": 203.5284651,
+    "system_radius": 8785882.9051,
+    "pl_hostname": "DMPP-7",
+    "stellar_type": "F",
+    "tic_id": "TIC 365158631",
+    "magnitude": 8.79
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1204735",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204756"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

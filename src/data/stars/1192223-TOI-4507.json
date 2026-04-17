@@ -1,0 +1,77 @@
+{
+  "id": 1192223,
+  "date": "2026-01-16T01:26:11",
+  "date_gmt": "2026-01-16T06:26:11",
+  "modified": "2026-01-16T01:26:11",
+  "modified_gmt": "2026-01-16T06:26:11",
+  "slug": "toi-4507",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4507/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4507",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1192261
+    ],
+    "exo_id": "TOI-4507",
+    "st_optmag": 10.806,
+    "st_vj": 10.806,
+    "st_dist": 178.26,
+    "st_j": 10.806,
+    "st_mass": 1.11,
+    "dec": -69.9882175,
+    "st_teff": 6260,
+    "st_rad": 1.04,
+    "ra": 80.4513677,
+    "system_radius": 68216628.72,
+    "pl_hostname": "TOI-4507",
+    "stellar_type": "F",
+    "tic_id": "TIC 179582003",
+    "magnitude": 10.806
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1192223",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1192261"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1190524,
+  "date": "2026-01-10T01:13:34",
+  "date_gmt": "2026-01-10T06:13:34",
+  "modified": "2026-01-10T01:13:34",
+  "modified_gmt": "2026-01-10T06:13:34",
+  "slug": "v2376-orionis",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/v2376-orionis/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "V2376 Orionis",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1190153
+    ],
+    "exo_id": "V2376_Ori",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": "",
+    "st_j": "",
+    "st_mass": 0.45,
+    "dec": -5.3515552,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 83.839818,
+    "system_radius": 10621448770,
+    "pl_hostname": "V2376_Ori",
+    "stellar_type": "Unknown",
+    "tic_id": "TIC 427394299",
+    "magnitude": 16.5491
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1190524",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1190153"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

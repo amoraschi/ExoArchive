@@ -1,0 +1,82 @@
+{
+  "id": 1204734,
+  "date": "2026-03-06T04:01:22",
+  "date_gmt": "2026-03-06T09:01:22",
+  "modified": "2026-03-06T04:01:22",
+  "modified_gmt": "2026-03-06T09:01:22",
+  "slug": "dmpp-6",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/dmpp-6/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "DMPP-6",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1204754,
+      1204755
+    ],
+    "exo_id": "DMPP-6",
+    "st_optmag": 7.71,
+    "st_vj": 7.71,
+    "st_dist": 54.6303,
+    "st_j": 7.71,
+    "st_mass": 1.079,
+    "dec": -70.0234291,
+    "st_teff": 6182.09,
+    "st_rad": 1.27,
+    "ra": 120.3857827,
+    "system_radius": 33001290.122,
+    "pl_hostname": "DMPP-6",
+    "stellar_type": "F",
+    "tic_id": "TIC 306668068",
+    "magnitude": 7.71
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1204734",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204755"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1204754"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

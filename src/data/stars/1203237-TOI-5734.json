@@ -1,0 +1,77 @@
+{
+  "id": 1203237,
+  "date": "2026-02-27T03:38:24",
+  "date_gmt": "2026-02-27T08:38:24",
+  "modified": "2026-03-06T04:01:28",
+  "modified_gmt": "2026-03-06T09:01:28",
+  "slug": "toi-5734",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5734/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5734",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Auriga",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1203267
+    ],
+    "exo_id": "TOI-5734",
+    "st_optmag": 9.613,
+    "st_vj": 9.613,
+    "st_dist": 32.5102,
+    "st_j": 9.613,
+    "st_mass": 0.724,
+    "dec": 37.2311218,
+    "st_teff": 4750,
+    "st_rad": 0.639,
+    "ra": 111.2558179,
+    "system_radius": 8857689.8827,
+    "pl_hostname": "TOI-5734",
+    "stellar_type": "K",
+    "tic_id": "TIC 9989136",
+    "magnitude": 9.613
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1203237",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1203267"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

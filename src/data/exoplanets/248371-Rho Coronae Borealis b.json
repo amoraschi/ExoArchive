@@ -2,8 +2,8 @@
   "id": 248371,
   "date": "2019-04-22T16:49:26",
   "date_gmt": "2019-04-22T20:49:26",
-  "modified": "2025-07-07T20:37:44",
-  "modified_gmt": "2025-07-08T00:37:44",
+  "modified": "2026-01-08T02:36:34",
+  "modified_gmt": "2026-01-08T07:36:34",
   "slug": "rho-coronae-borealis-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/rho-coronae-borealis-b/",
@@ -28,7 +28,7 @@
     "pl_orbsmax": 0.2245,
     "period_display": "39.8 days",
     "eccentricity": "0.04",
-    "star_id": 260641,
+    "star_id": 1189843,
     "pl_orbper": 39.8438,
     "pl_kepflag": false,
     "pl_radj": 1.23,
@@ -66,7 +66,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260641"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189843"
       }
     ],
     "wp:featuredmedia": [
