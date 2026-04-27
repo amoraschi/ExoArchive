@@ -1,0 +1,77 @@
+{
+  "id": 1215167,
+  "date": "2026-04-24T07:16:16",
+  "date_gmt": "2026-04-24T11:16:16",
+  "modified": "2026-04-24T07:16:16",
+  "modified_gmt": "2026-04-24T11:16:16",
+  "slug": "toi-799",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-799/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-799",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215279
+    ],
+    "exo_id": "TOI-799",
+    "st_optmag": 11.195,
+    "st_vj": 11.195,
+    "st_dist": 158.526,
+    "st_j": 11.195,
+    "st_mass": 1,
+    "dec": -52.4602958,
+    "st_teff": 5662.81,
+    "st_rad": 0.915519,
+    "ra": 98.4691249,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-799",
+    "stellar_type": "G",
+    "tic_id": "TIC 255685030",
+    "magnitude": 11.195
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215167",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215279"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

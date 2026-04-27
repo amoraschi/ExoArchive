@@ -1,0 +1,77 @@
+{
+  "id": 1215229,
+  "date": "2026-04-24T07:16:22",
+  "date_gmt": "2026-04-24T11:16:22",
+  "modified": "2026-04-24T07:16:22",
+  "modified_gmt": "2026-04-24T11:16:22",
+  "slug": "toi-6699",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6699/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6699",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pavo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215343
+    ],
+    "exo_id": "TOI-6699",
+    "st_optmag": 11.51,
+    "st_vj": 11.51,
+    "st_dist": 85.8463,
+    "st_j": 11.51,
+    "st_mass": 0.75,
+    "dec": -63.2504996,
+    "st_teff": 4705.1,
+    "st_rad": 0.75309,
+    "ra": 317.0695839,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6699",
+    "stellar_type": "K",
+    "tic_id": "TIC 341405597",
+    "magnitude": 11.51
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215229",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215343"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

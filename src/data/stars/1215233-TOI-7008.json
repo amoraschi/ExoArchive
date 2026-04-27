@@ -1,0 +1,77 @@
+{
+  "id": 1215233,
+  "date": "2026-04-24T07:16:22",
+  "date_gmt": "2026-04-24T11:16:22",
+  "modified": "2026-04-24T07:16:22",
+  "modified_gmt": "2026-04-24T11:16:22",
+  "slug": "toi-7008",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-7008/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-7008",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215347
+    ],
+    "exo_id": "TOI-7008",
+    "st_optmag": 13.6,
+    "st_vj": 13.6,
+    "st_dist": 410.467,
+    "st_j": 13.6,
+    "st_mass": 0.88,
+    "dec": 79.450396,
+    "st_teff": 5116.06,
+    "st_rad": 0.95255,
+    "ra": 216.9882531,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-7008",
+    "stellar_type": "K",
+    "tic_id": "TIC 335661164",
+    "magnitude": 13.6
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215233",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215347"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

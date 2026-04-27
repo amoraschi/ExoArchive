@@ -1,0 +1,77 @@
+{
+  "id": 1215265,
+  "date": "2026-04-24T07:16:26",
+  "date_gmt": "2026-04-24T11:16:26",
+  "modified": "2026-04-24T07:16:26",
+  "modified_gmt": "2026-04-24T11:16:26",
+  "slug": "tic-349520724",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-349520724/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 349520724",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215381
+    ],
+    "exo_id": "TIC_349520724",
+    "st_optmag": 13.008,
+    "st_vj": 13.008,
+    "st_dist": 241.105,
+    "st_j": 13.008,
+    "st_mass": 0.89,
+    "dec": -64.6398433,
+    "st_teff": 5098.6,
+    "st_rad": 0.818771,
+    "ra": 111.2314215,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_349520724",
+    "stellar_type": "K",
+    "tic_id": "TIC 349520724",
+    "magnitude": 13.008
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215265",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215381"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

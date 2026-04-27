@@ -1,0 +1,82 @@
+{
+  "id": 1215185,
+  "date": "2026-04-24T07:16:18",
+  "date_gmt": "2026-04-24T11:16:18",
+  "modified": "2026-04-24T07:16:18",
+  "modified_gmt": "2026-04-24T11:16:18",
+  "slug": "toi-1839",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1839/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1839",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1215350,
+      "1": 1215298
+    },
+    "exo_id": "TOI-1839",
+    "st_optmag": 10.9,
+    "st_vj": 10.9,
+    "st_dist": 116.086,
+    "st_j": 10.9,
+    "st_mass": 0.934,
+    "dec": 5.8520458,
+    "st_teff": 5315.91,
+    "st_rad": 0.848099,
+    "ra": 196.8331106,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1839",
+    "stellar_type": "G",
+    "tic_id": "TIC 381714186",
+    "magnitude": 10.9
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215185",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215350"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215298"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

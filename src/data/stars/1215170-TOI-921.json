@@ -1,0 +1,77 @@
+{
+  "id": 1215170,
+  "date": "2026-04-24T07:16:16",
+  "date_gmt": "2026-04-24T11:16:16",
+  "modified": "2026-04-24T07:16:16",
+  "modified_gmt": "2026-04-24T11:16:16",
+  "slug": "toi-921",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-921/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-921",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215282
+    ],
+    "exo_id": "TOI-921",
+    "st_optmag": 11.813,
+    "st_vj": 11.813,
+    "st_dist": 294.015,
+    "st_j": 11.813,
+    "st_mass": 1.13,
+    "dec": -56.2205396,
+    "st_teff": 6011.66,
+    "st_rad": 1.14165,
+    "ra": 99.6742038,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-921",
+    "stellar_type": "F",
+    "tic_id": "TIC 278775625",
+    "magnitude": 11.813
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215170",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215282"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

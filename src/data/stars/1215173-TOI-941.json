@@ -1,0 +1,77 @@
+{
+  "id": 1215173,
+  "date": "2026-04-24T07:16:17",
+  "date_gmt": "2026-04-24T11:16:17",
+  "modified": "2026-04-24T07:16:17",
+  "modified_gmt": "2026-04-24T11:16:17",
+  "slug": "toi-941",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-941/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-941",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Orion",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215285
+    ],
+    "exo_id": "TOI-941",
+    "st_optmag": 11.456,
+    "st_vj": 11.456,
+    "st_dist": 263.386,
+    "st_j": 11.456,
+    "st_mass": 1.078,
+    "dec": 6.5459146,
+    "st_teff": 5745.88,
+    "st_rad": 1.1849,
+    "ra": 78.3005249,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-941",
+    "stellar_type": "G",
+    "tic_id": "TIC 408137826",
+    "magnitude": 11.456
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215173",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215285"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

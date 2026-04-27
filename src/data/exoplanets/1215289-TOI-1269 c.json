@@ -1,0 +1,79 @@
+{
+  "id": 1215289,
+  "date": "2026-04-24T07:43:32",
+  "date_gmt": "2026-04-24T11:43:32",
+  "modified": "2026-04-24T07:43:32",
+  "modified_gmt": "2026-04-24T11:43:32",
+  "slug": "toi-1269-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-1269-c/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-1269",
+    "pl_letter": "c",
+    "display_name": "TOI-1269 c",
+    "planet_radius": "2.22999162 x Earth",
+    "derived_description": "TOI-1269 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.6 Earths, it takes 9.2 days to complete one orbit of its star, and is 0.083271601838311 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 172.138,
+    "planet_mass": "5.6 Earths",
+    "st_optmag": 11.618,
+    "discovery_date": "2026",
+    "pl_orbsmax": "",
+    "period_display": "9.2 days",
+    "eccentricity": "",
+    "star_id": 409969,
+    "pl_orbper": 9.23786144195,
+    "pl_kepflag": false,
+    "pl_radj": 0.19894687,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.22999162,
+    "exo_id": "TOI-1269_c",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215289",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/409969"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

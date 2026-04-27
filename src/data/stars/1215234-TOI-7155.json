@@ -1,0 +1,77 @@
+{
+  "id": 1215234,
+  "date": "2026-04-24T07:16:22",
+  "date_gmt": "2026-04-24T11:16:22",
+  "modified": "2026-04-24T07:16:22",
+  "modified_gmt": "2026-04-24T11:16:22",
+  "slug": "toi-7155",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-7155/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-7155",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215348
+    ],
+    "exo_id": "TOI-7155",
+    "st_optmag": 12.758,
+    "st_vj": 12.758,
+    "st_dist": 144.751,
+    "st_j": 12.758,
+    "st_mass": 0.755,
+    "dec": 79.2878555,
+    "st_teff": 4673.03,
+    "st_rad": 0.670748,
+    "ra": 12.4454481,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-7155",
+    "stellar_type": "K",
+    "tic_id": "TIC 468350765",
+    "magnitude": 12.758
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215234",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215348"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

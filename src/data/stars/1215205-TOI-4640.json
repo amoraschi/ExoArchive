@@ -1,0 +1,77 @@
+{
+  "id": 1215205,
+  "date": "2026-04-24T07:16:20",
+  "date_gmt": "2026-04-24T11:16:20",
+  "modified": "2026-04-24T07:16:20",
+  "modified_gmt": "2026-04-24T11:16:20",
+  "slug": "toi-4640",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4640/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4640",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215318
+    ],
+    "exo_id": "TOI-4640",
+    "st_optmag": 11.63,
+    "st_vj": 11.63,
+    "st_dist": 245.089,
+    "st_j": 11.63,
+    "st_mass": 1.1,
+    "dec": 10.0724659,
+    "st_teff": 5743.01,
+    "st_rad": 1.06715,
+    "ra": 38.205319,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4640",
+    "stellar_type": "G",
+    "tic_id": "TIC 337216118",
+    "magnitude": 11.63
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215205",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215318"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

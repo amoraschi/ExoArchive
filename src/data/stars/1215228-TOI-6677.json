@@ -1,0 +1,77 @@
+{
+  "id": 1215228,
+  "date": "2026-04-24T07:16:22",
+  "date_gmt": "2026-04-24T11:16:22",
+  "modified": "2026-04-24T07:16:22",
+  "modified_gmt": "2026-04-24T11:16:22",
+  "slug": "toi-6677",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6677/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6677",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Telescopium",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215342
+    ],
+    "exo_id": "TOI-6677",
+    "st_optmag": 10.765,
+    "st_vj": 10.765,
+    "st_dist": 340.52,
+    "st_j": 10.765,
+    "st_mass": 1.45,
+    "dec": -46.8749591,
+    "st_teff": 6572.28,
+    "st_rad": 1.57167,
+    "ra": 290.4719117,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6677",
+    "stellar_type": "F",
+    "tic_id": "TIC 62085710",
+    "magnitude": 10.765
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215228",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215342"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

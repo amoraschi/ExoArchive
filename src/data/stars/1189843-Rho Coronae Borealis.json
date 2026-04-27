@@ -2,8 +2,8 @@
   "id": 1189843,
   "date": "2026-01-08T01:10:36",
   "date_gmt": "2026-01-08T06:10:36",
-  "modified": "2026-04-19T07:07:09",
-  "modified_gmt": "2026-04-19T11:07:09",
+  "modified": "2026-04-26T07:21:12",
+  "modified_gmt": "2026-04-26T11:21:12",
   "slug": "rho-coronae-borealis-2",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/rho-coronae-borealis-2/",
@@ -22,10 +22,9 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": {
-      "0": 248373,
-      "1": 248374,
-      "2": 248371,
-      "3": 248372
+      "0": 248374,
+      "1": 248371,
+      "2": 248372
     },
     "exo_id": "rho_CrB",
     "st_optmag": 5.41,
@@ -37,7 +36,7 @@
     "st_teff": 5812,
     "st_rad": 1.328,
     "ra": 240.2610854,
-    "system_radius": 123717438.49,
+    "system_radius": 62920864.122,
     "pl_hostname": "rho_CrB",
     "stellar_type": "G",
     "tic_id": "TIC 458494003",
@@ -68,10 +67,6 @@
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248374"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248373"
       },
       {
         "embeddable": true,

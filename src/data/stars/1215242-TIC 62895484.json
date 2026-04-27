@@ -1,0 +1,77 @@
+{
+  "id": 1215242,
+  "date": "2026-04-24T07:16:24",
+  "date_gmt": "2026-04-24T11:16:24",
+  "modified": "2026-04-24T07:16:24",
+  "modified_gmt": "2026-04-24T11:16:24",
+  "slug": "tic-62895484",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-62895484/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 62895484",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Gemini",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215358
+    ],
+    "exo_id": "TIC_62895484",
+    "st_optmag": 12.658,
+    "st_vj": 12.658,
+    "st_dist": 294.857,
+    "st_j": 12.658,
+    "st_mass": 0.98,
+    "dec": 22.5903733,
+    "st_teff": 5520.79,
+    "st_rad": 0.874291,
+    "ra": 116.6385519,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_62895484",
+    "stellar_type": "G",
+    "tic_id": "TIC 62895484",
+    "magnitude": 12.658
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215242",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215358"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

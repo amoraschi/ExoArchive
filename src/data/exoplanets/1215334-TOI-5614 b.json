@@ -1,0 +1,79 @@
+{
+  "id": 1215334,
+  "date": "2026-04-24T07:43:42",
+  "date_gmt": "2026-04-24T11:43:42",
+  "modified": "2026-04-24T07:43:42",
+  "modified_gmt": "2026-04-24T11:43:42",
+  "slug": "toi-5614-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-5614-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-5614",
+    "pl_letter": "b",
+    "display_name": "TOI-5614 b",
+    "planet_radius": "0.28705493 x Jupiter",
+    "derived_description": "TOI-5614 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.4 Earths, it takes 4.2 days to complete one orbit of its star, and is 0.044469861381734 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 223.016,
+    "planet_mass": "10.4 Earths",
+    "st_optmag": 14.093,
+    "discovery_date": "2026",
+    "pl_orbsmax": "",
+    "period_display": "4.2 days",
+    "eccentricity": "",
+    "star_id": 1215221,
+    "pl_orbper": 4.17221328949,
+    "pl_kepflag": false,
+    "pl_radj": 0.28705493,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.21759316,
+    "exo_id": "TOI-5614_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215334",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215221"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

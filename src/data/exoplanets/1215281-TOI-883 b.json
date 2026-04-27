@@ -1,0 +1,79 @@
+{
+  "id": 1215281,
+  "date": "2026-04-24T07:43:31",
+  "date_gmt": "2026-04-24T11:43:31",
+  "modified": "2026-04-24T07:43:31",
+  "modified_gmt": "2026-04-24T11:43:31",
+  "slug": "toi-883-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-883-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-883",
+    "pl_letter": "b",
+    "display_name": "TOI-883 b",
+    "planet_radius": "0.63981396 x Jupiter",
+    "derived_description": "TOI-883 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.128 Jupiters, it takes 10.1 days to complete one orbit of its star, and is 0.091278417806061 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 102.637,
+    "planet_mass": "0.128 Jupiters",
+    "st_optmag": 9.957,
+    "discovery_date": "2026",
+    "pl_orbsmax": "",
+    "period_display": "10.1 days",
+    "eccentricity": "",
+    "star_id": 1215169,
+    "pl_orbper": 10.05771848538,
+    "pl_kepflag": false,
+    "pl_radj": 0.63981396,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 7.17166228,
+    "exo_id": "TOI-883_b",
+    "planet_size_class": "sub-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215281",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215169"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

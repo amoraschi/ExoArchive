@@ -1,0 +1,77 @@
+{
+  "id": 1215225,
+  "date": "2026-04-24T07:16:21",
+  "date_gmt": "2026-04-24T11:16:21",
+  "modified": "2026-04-24T07:16:21",
+  "modified_gmt": "2026-04-24T11:16:21",
+  "slug": "toi-6080",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6080/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6080",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215338
+    ],
+    "exo_id": "TOI-6080",
+    "st_optmag": 11.178,
+    "st_vj": 11.178,
+    "st_dist": 188.183,
+    "st_j": 11.178,
+    "st_mass": 1.01,
+    "dec": 38.0787076,
+    "st_teff": 5775.46,
+    "st_rad": 1.06221,
+    "ra": 266.6044226,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6080",
+    "stellar_type": "G",
+    "tic_id": "TIC 116048097",
+    "magnitude": 11.178
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215225",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215338"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1215236,
+  "date": "2026-04-24T07:16:24",
+  "date_gmt": "2026-04-24T11:16:24",
+  "modified": "2026-04-24T07:16:24",
+  "modified_gmt": "2026-04-24T11:16:24",
+  "slug": "tic-18942729",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-18942729/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 18942729",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215351
+    ],
+    "exo_id": "TIC_18942729",
+    "st_optmag": 12.545,
+    "st_vj": 12.545,
+    "st_dist": 115.169,
+    "st_j": 12.545,
+    "st_mass": 0.652,
+    "dec": 16.6772341,
+    "st_teff": 4360.11,
+    "st_rad": 0.825257,
+    "ra": 119.2150697,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_18942729",
+    "stellar_type": "K",
+    "tic_id": "TIC 18942729",
+    "magnitude": 12.545
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215236",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215351"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

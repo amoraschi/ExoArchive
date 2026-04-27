@@ -1,0 +1,77 @@
+{
+  "id": 1215268,
+  "date": "2026-04-24T07:16:27",
+  "date_gmt": "2026-04-24T11:16:27",
+  "modified": "2026-04-24T07:16:27",
+  "modified_gmt": "2026-04-24T11:16:27",
+  "slug": "tic-423703298",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-423703298/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 423703298",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215384
+    ],
+    "exo_id": "TIC_423703298",
+    "st_optmag": 12.923,
+    "st_vj": 12.923,
+    "st_dist": 136.191,
+    "st_j": 12.923,
+    "st_mass": 0.691,
+    "dec": -17.0135676,
+    "st_teff": 4540.37,
+    "st_rad": 0.729825,
+    "ra": 22.9360486,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_423703298",
+    "stellar_type": "K",
+    "tic_id": "TIC 423703298",
+    "magnitude": 12.923
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215268",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215384"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

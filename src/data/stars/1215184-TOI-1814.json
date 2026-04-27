@@ -1,0 +1,77 @@
+{
+  "id": 1215184,
+  "date": "2026-04-24T07:16:18",
+  "date_gmt": "2026-04-24T11:16:18",
+  "modified": "2026-04-24T07:16:18",
+  "modified_gmt": "2026-04-24T11:16:18",
+  "slug": "toi-1814",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1814/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1814",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215297
+    ],
+    "exo_id": "TOI-1814",
+    "st_optmag": 11.182,
+    "st_vj": 11.182,
+    "st_dist": 362.522,
+    "st_j": 11.182,
+    "st_mass": "",
+    "dec": 77.2326429,
+    "st_teff": 4872.84,
+    "st_rad": 2.3895,
+    "ra": 236.8168817,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1814",
+    "stellar_type": "K",
+    "tic_id": "TIC 160440924",
+    "magnitude": 11.182
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215184",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215297"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

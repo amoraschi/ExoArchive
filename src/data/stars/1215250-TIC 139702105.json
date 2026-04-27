@@ -1,0 +1,77 @@
+{
+  "id": 1215250,
+  "date": "2026-04-24T07:16:25",
+  "date_gmt": "2026-04-24T11:16:25",
+  "modified": "2026-04-24T07:16:25",
+  "modified_gmt": "2026-04-24T11:16:25",
+  "slug": "tic-139702105",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-139702105/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 139702105",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215366
+    ],
+    "exo_id": "TIC_139702105",
+    "st_optmag": 9.651,
+    "st_vj": 9.651,
+    "st_dist": 91.7884,
+    "st_j": 9.651,
+    "st_mass": 0.9,
+    "dec": -18.214545,
+    "st_teff": 5742.35,
+    "st_rad": 1.25423,
+    "ra": 66.498034,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_139702105",
+    "stellar_type": "G",
+    "tic_id": "TIC 139702105",
+    "magnitude": 9.651
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215250",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215366"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

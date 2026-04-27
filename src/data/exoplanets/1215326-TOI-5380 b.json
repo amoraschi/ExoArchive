@@ -1,0 +1,79 @@
+{
+  "id": 1215326,
+  "date": "2026-04-24T07:43:40",
+  "date_gmt": "2026-04-24T11:43:40",
+  "modified": "2026-04-24T07:43:40",
+  "modified_gmt": "2026-04-24T11:43:40",
+  "slug": "toi-5380-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-5380-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-5380",
+    "pl_letter": "b",
+    "display_name": "TOI-5380 b",
+    "planet_radius": "0.31054852 x Jupiter",
+    "derived_description": "TOI-5380 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 11.9 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.05232353187635 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 286.781,
+    "planet_mass": "11.9 Earths",
+    "st_optmag": 10.621,
+    "discovery_date": "2026",
+    "pl_orbsmax": "",
+    "period_display": "3.8 days",
+    "eccentricity": "",
+    "star_id": 1215213,
+    "pl_orbper": 3.77229247873,
+    "pl_kepflag": false,
+    "pl_radj": 0.31054852,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 3.48093238,
+    "exo_id": "TOI-5380_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215326",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215213"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

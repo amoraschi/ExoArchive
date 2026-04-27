@@ -1,0 +1,77 @@
+{
+  "id": 1215221,
+  "date": "2026-04-24T07:16:21",
+  "date_gmt": "2026-04-24T11:16:21",
+  "modified": "2026-04-24T07:16:21",
+  "modified_gmt": "2026-04-24T11:16:21",
+  "slug": "toi-5614",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5614/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5614",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215334
+    ],
+    "exo_id": "TOI-5614",
+    "st_optmag": 14.093,
+    "st_vj": 14.093,
+    "st_dist": 223.016,
+    "st_j": 14.093,
+    "st_mass": 0.674,
+    "dec": 69.4584273,
+    "st_teff": 4553,
+    "st_rad": 0.734919,
+    "ra": 189.4323154,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5614",
+    "stellar_type": "K",
+    "tic_id": "TIC 148960849",
+    "magnitude": 14.093
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215221",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215334"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

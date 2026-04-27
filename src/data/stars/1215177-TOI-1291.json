@@ -1,0 +1,77 @@
+{
+  "id": 1215177,
+  "date": "2026-04-24T07:16:17",
+  "date_gmt": "2026-04-24T11:16:17",
+  "modified": "2026-04-24T07:16:17",
+  "modified_gmt": "2026-04-24T11:16:17",
+  "slug": "toi-1291",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1291/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1291",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215290
+    ],
+    "exo_id": "TOI-1291",
+    "st_optmag": 11.516,
+    "st_vj": 11.516,
+    "st_dist": 428.123,
+    "st_j": 11.516,
+    "st_mass": 1.2,
+    "dec": 62.9251213,
+    "st_teff": 6139.95,
+    "st_rad": 1.8109,
+    "ra": 245.8180089,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1291",
+    "stellar_type": "F",
+    "tic_id": "TIC 198186769",
+    "magnitude": 11.516
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215177",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215290"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

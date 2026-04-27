@@ -1,0 +1,77 @@
+{
+  "id": 1215176,
+  "date": "2026-04-24T07:16:17",
+  "date_gmt": "2026-04-24T11:16:17",
+  "modified": "2026-04-24T07:16:17",
+  "modified_gmt": "2026-04-24T11:16:17",
+  "slug": "toi-1226",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1226/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1226",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215288
+    ],
+    "exo_id": "TOI-1226",
+    "st_optmag": 12.118,
+    "st_vj": 12.118,
+    "st_dist": 257.93,
+    "st_j": 12.118,
+    "st_mass": 1.01,
+    "dec": -69.8671293,
+    "st_teff": 5434.91,
+    "st_rad": 0.986943,
+    "ra": 103.7548364,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1226",
+    "stellar_type": "G",
+    "tic_id": "TIC 177115354",
+    "magnitude": 12.118
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215176",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215288"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

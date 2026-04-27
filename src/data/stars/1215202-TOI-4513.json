@@ -1,0 +1,77 @@
+{
+  "id": 1215202,
+  "date": "2026-04-24T07:16:19",
+  "date_gmt": "2026-04-24T11:16:19",
+  "modified": "2026-04-24T07:16:19",
+  "modified_gmt": "2026-04-24T11:16:19",
+  "slug": "toi-4513",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4513/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4513",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215315
+    ],
+    "exo_id": "TOI-4513",
+    "st_optmag": 10.696,
+    "st_vj": 10.696,
+    "st_dist": 102.609,
+    "st_j": 10.696,
+    "st_mass": 0.979,
+    "dec": 13.7550796,
+    "st_teff": 5623.93,
+    "st_rad": 0.796628,
+    "ra": 18.0905179,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4513",
+    "stellar_type": "G",
+    "tic_id": "TIC 408261725",
+    "magnitude": 10.696
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215202",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215315"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

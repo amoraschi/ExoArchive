@@ -1,0 +1,77 @@
+{
+  "id": 1215220,
+  "date": "2026-04-24T07:16:21",
+  "date_gmt": "2026-04-24T11:16:21",
+  "modified": "2026-04-24T07:16:21",
+  "modified_gmt": "2026-04-24T11:16:21",
+  "slug": "toi-5605",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5605/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5605",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215333
+    ],
+    "exo_id": "TOI-5605",
+    "st_optmag": 12.073,
+    "st_vj": 12.073,
+    "st_dist": 95.0735,
+    "st_j": 12.073,
+    "st_mass": 0.68,
+    "dec": 50.1453867,
+    "st_teff": 4583.79,
+    "st_rad": 0.736044,
+    "ra": 150.5380078,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5605",
+    "stellar_type": "K",
+    "tic_id": "TIC 252469648",
+    "magnitude": 12.073
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215220",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215333"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

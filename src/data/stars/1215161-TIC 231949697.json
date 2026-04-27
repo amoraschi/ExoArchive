@@ -1,0 +1,77 @@
+{
+  "id": 1215161,
+  "date": "2026-04-24T07:16:16",
+  "date_gmt": "2026-04-24T11:16:16",
+  "modified": "2026-04-24T07:16:16",
+  "modified_gmt": "2026-04-24T11:16:16",
+  "slug": "tic-231949697",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-231949697/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 231949697",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215273
+    ],
+    "exo_id": "TIC_231949697",
+    "st_optmag": 13.188,
+    "st_vj": 13.188,
+    "st_dist": 50.2408,
+    "st_j": 13.188,
+    "st_mass": 0.490679,
+    "dec": -43.3661845,
+    "st_teff": 3451.32,
+    "st_rad": 0.492584,
+    "ra": 94.2576817,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_231949697",
+    "stellar_type": "M",
+    "tic_id": "TIC 231949697",
+    "magnitude": 13.188
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215161",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215273"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

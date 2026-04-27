@@ -1,0 +1,77 @@
+{
+  "id": 1215216,
+  "date": "2026-04-24T07:16:21",
+  "date_gmt": "2026-04-24T11:16:21",
+  "modified": "2026-04-24T07:16:21",
+  "modified_gmt": "2026-04-24T11:16:21",
+  "slug": "toi-5515",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5515/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5515",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cancer",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215329
+    ],
+    "exo_id": "TOI-5515",
+    "st_optmag": 11.147,
+    "st_vj": 11.147,
+    "st_dist": 135.459,
+    "st_j": 11.147,
+    "st_mass": 0.963,
+    "dec": 16.9899558,
+    "st_teff": 5483.65,
+    "st_rad": 0.835682,
+    "ra": 139.6163639,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5515",
+    "stellar_type": "G",
+    "tic_id": "TIC 55275863",
+    "magnitude": 11.147
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215216",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215329"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

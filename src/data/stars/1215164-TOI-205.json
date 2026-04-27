@@ -1,0 +1,77 @@
+{
+  "id": 1215164,
+  "date": "2026-04-24T07:16:16",
+  "date_gmt": "2026-04-24T11:16:16",
+  "modified": "2026-04-24T07:16:16",
+  "modified_gmt": "2026-04-24T11:16:16",
+  "slug": "toi-205",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-205/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-205",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215276
+    ],
+    "exo_id": "TOI-205",
+    "st_optmag": 9.921,
+    "st_vj": 9.921,
+    "st_dist": 177.759,
+    "st_j": 9.921,
+    "st_mass": 1.2,
+    "dec": -56.9650808,
+    "st_teff": 6302.74,
+    "st_rad": 1.45382,
+    "ra": 7.9754636,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-205",
+    "stellar_type": "F",
+    "tic_id": "TIC 281575427",
+    "magnitude": 9.921
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215164",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215276"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

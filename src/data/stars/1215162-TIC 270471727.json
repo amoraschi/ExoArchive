@@ -1,0 +1,77 @@
+{
+  "id": 1215162,
+  "date": "2026-04-24T07:16:16",
+  "date_gmt": "2026-04-24T11:16:16",
+  "modified": "2026-04-24T07:16:16",
+  "modified_gmt": "2026-04-24T11:16:16",
+  "slug": "tic-270471727",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-270471727/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 270471727",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215274
+    ],
+    "exo_id": "TIC_270471727",
+    "st_optmag": 11.948,
+    "st_vj": 11.948,
+    "st_dist": 182.104,
+    "st_j": 11.948,
+    "st_mass": 0.9,
+    "dec": -78.4730589,
+    "st_teff": 5271.39,
+    "st_rad": 0.997091,
+    "ra": 97.2114071,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_270471727",
+    "stellar_type": "K",
+    "tic_id": "TIC 270471727",
+    "magnitude": 11.948
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215162",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215274"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

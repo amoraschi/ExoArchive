@@ -1,0 +1,77 @@
+{
+  "id": 1215217,
+  "date": "2026-04-24T07:16:21",
+  "date_gmt": "2026-04-24T11:16:21",
+  "modified": "2026-04-24T07:16:21",
+  "modified_gmt": "2026-04-24T11:16:21",
+  "slug": "toi-5532",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5532/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5532",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215330
+    ],
+    "exo_id": "TOI-5532",
+    "st_optmag": 13.072,
+    "st_vj": 13.072,
+    "st_dist": 90.9985,
+    "st_j": 13.072,
+    "st_mass": 0.636083,
+    "dec": 5.1507331,
+    "st_teff": 4208.45,
+    "st_rad": 0.662052,
+    "ra": 41.3804035,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5532",
+    "stellar_type": "K",
+    "tic_id": "TIC 318836983",
+    "magnitude": 13.072
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215217",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215330"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

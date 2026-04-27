@@ -1,0 +1,77 @@
+{
+  "id": 1215196,
+  "date": "2026-04-24T07:16:19",
+  "date_gmt": "2026-04-24T11:16:19",
+  "modified": "2026-04-24T07:16:19",
+  "modified_gmt": "2026-04-24T11:16:19",
+  "slug": "toi-4029",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4029/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4029",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Serpens",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215309
+    ],
+    "exo_id": "TOI-4029",
+    "st_optmag": 11.554,
+    "st_vj": 11.554,
+    "st_dist": 274.436,
+    "st_j": 11.554,
+    "st_mass": 1.018,
+    "dec": 16.9802854,
+    "st_teff": 5662.53,
+    "st_rad": 1.17834,
+    "ra": 239.2337189,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4029",
+    "stellar_type": "G",
+    "tic_id": "TIC 393633044",
+    "magnitude": 11.554
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215196",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215309"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

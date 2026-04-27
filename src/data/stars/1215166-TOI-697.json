@@ -1,0 +1,77 @@
+{
+  "id": 1215166,
+  "date": "2026-04-24T07:16:16",
+  "date_gmt": "2026-04-24T11:16:16",
+  "modified": "2026-04-24T07:16:16",
+  "modified_gmt": "2026-04-24T11:16:16",
+  "slug": "toi-697",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-697/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-697",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215278
+    ],
+    "exo_id": "TOI-697",
+    "st_optmag": 10.004,
+    "st_vj": 10.004,
+    "st_dist": 93.7714,
+    "st_j": 10.004,
+    "st_mass": 0.97,
+    "dec": -36.6813257,
+    "st_teff": 5681.95,
+    "st_rad": 0.968149,
+    "ra": 69.7042208,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-697",
+    "stellar_type": "G",
+    "tic_id": "TIC 77253676",
+    "magnitude": 10.004
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215166",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215278"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

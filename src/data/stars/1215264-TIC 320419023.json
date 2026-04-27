@@ -1,0 +1,77 @@
+{
+  "id": 1215264,
+  "date": "2026-04-24T07:16:26",
+  "date_gmt": "2026-04-24T11:16:26",
+  "modified": "2026-04-24T07:16:26",
+  "modified_gmt": "2026-04-24T11:16:26",
+  "slug": "tic-320419023",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-320419023/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 320419023",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215380
+    ],
+    "exo_id": "TIC_320419023",
+    "st_optmag": 12.157,
+    "st_vj": 12.157,
+    "st_dist": 288.893,
+    "st_j": 12.157,
+    "st_mass": 1.056,
+    "dec": 11.8241773,
+    "st_teff": 5703.36,
+    "st_rad": 0.952319,
+    "ra": 118.0726215,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_320419023",
+    "stellar_type": "G",
+    "tic_id": "TIC 320419023",
+    "magnitude": 12.157
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215264",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215380"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

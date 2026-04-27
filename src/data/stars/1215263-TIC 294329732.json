@@ -1,0 +1,77 @@
+{
+  "id": 1215263,
+  "date": "2026-04-24T07:16:26",
+  "date_gmt": "2026-04-24T11:16:26",
+  "modified": "2026-04-24T07:16:26",
+  "modified_gmt": "2026-04-24T11:16:26",
+  "slug": "tic-294329732",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-294329732/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 294329732",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215379
+    ],
+    "exo_id": "TIC_294329732",
+    "st_optmag": 12.23,
+    "st_vj": 12.23,
+    "st_dist": 189.333,
+    "st_j": 12.23,
+    "st_mass": 0.89,
+    "dec": -58.2371507,
+    "st_teff": 5201.93,
+    "st_rad": 0.920172,
+    "ra": 109.1177907,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_294329732",
+    "stellar_type": "K",
+    "tic_id": "TIC 294329732",
+    "magnitude": 12.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215263",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215379"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

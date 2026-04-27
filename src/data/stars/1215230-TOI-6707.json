@@ -1,0 +1,77 @@
+{
+  "id": 1215230,
+  "date": "2026-04-24T07:16:22",
+  "date_gmt": "2026-04-24T11:16:22",
+  "modified": "2026-04-24T07:16:22",
+  "modified_gmt": "2026-04-24T11:16:22",
+  "slug": "toi-6707",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6707/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6707",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215344
+    ],
+    "exo_id": "TOI-6707",
+    "st_optmag": 12.93,
+    "st_vj": 12.93,
+    "st_dist": 641.467,
+    "st_j": 12.93,
+    "st_mass": 1.14,
+    "dec": -58.1155263,
+    "st_teff": 6289.49,
+    "st_rad": 1.58202,
+    "ra": 109.7634707,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6707",
+    "stellar_type": "F",
+    "tic_id": "TIC 287328202",
+    "magnitude": 12.93
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215230",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215344"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1215253,
+  "date": "2026-04-24T07:16:25",
+  "date_gmt": "2026-04-24T11:16:25",
+  "modified": "2026-04-24T07:16:25",
+  "modified_gmt": "2026-04-24T11:16:25",
+  "slug": "tic-154870955",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-154870955/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 154870955",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215369
+    ],
+    "exo_id": "TIC_154870955",
+    "st_optmag": 13.43,
+    "st_vj": 13.43,
+    "st_dist": 226.463,
+    "st_j": 13.43,
+    "st_mass": 0.828,
+    "dec": 88.8298759,
+    "st_teff": 4739.58,
+    "st_rad": 0.724328,
+    "ra": 191.7456685,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_154870955",
+    "stellar_type": "K",
+    "tic_id": "TIC 154870955",
+    "magnitude": 13.43
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215253",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215369"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

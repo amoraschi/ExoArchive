@@ -1,0 +1,82 @@
+{
+  "id": 1215237,
+  "date": "2026-04-24T07:16:24",
+  "date_gmt": "2026-04-24T11:16:24",
+  "modified": "2026-04-24T07:16:24",
+  "modified_gmt": "2026-04-24T11:16:24",
+  "slug": "tic-24750448",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-24750448/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 24750448",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1215353,
+      "1": 1215352
+    },
+    "exo_id": "TIC_24750448",
+    "st_optmag": 13.518,
+    "st_vj": 13.518,
+    "st_dist": 178.146,
+    "st_j": 13.518,
+    "st_mass": 0.69,
+    "dec": -68.6447552,
+    "st_teff": 4545.43,
+    "st_rad": 0.713599,
+    "ra": 26.1958598,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_24750448",
+    "stellar_type": "K",
+    "tic_id": "TIC 24750448",
+    "magnitude": 13.518
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215237",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215353"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215352"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

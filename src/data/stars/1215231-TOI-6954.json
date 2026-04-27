@@ -1,0 +1,77 @@
+{
+  "id": 1215231,
+  "date": "2026-04-24T07:16:22",
+  "date_gmt": "2026-04-24T11:16:22",
+  "modified": "2026-04-24T07:16:22",
+  "modified_gmt": "2026-04-24T11:16:22",
+  "slug": "toi-6954",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6954/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6954",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215345
+    ],
+    "exo_id": "TOI-6954",
+    "st_optmag": 12.262,
+    "st_vj": 12.262,
+    "st_dist": 190.042,
+    "st_j": 12.262,
+    "st_mass": 0.834,
+    "dec": -2.7877643,
+    "st_teff": 5170.87,
+    "st_rad": 0.947112,
+    "ra": 168.3240591,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6954",
+    "stellar_type": "K",
+    "tic_id": "TIC 443607377",
+    "magnitude": 12.262
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215231",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215345"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

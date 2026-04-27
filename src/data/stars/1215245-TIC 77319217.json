@@ -1,0 +1,77 @@
+{
+  "id": 1215245,
+  "date": "2026-04-24T07:16:25",
+  "date_gmt": "2026-04-24T11:16:25",
+  "modified": "2026-04-24T07:16:25",
+  "modified_gmt": "2026-04-24T11:16:25",
+  "slug": "tic-77319217",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-77319217/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 77319217",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Caelum",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215361
+    ],
+    "exo_id": "TIC_77319217",
+    "st_optmag": 11.497,
+    "st_vj": 11.497,
+    "st_dist": 267.62,
+    "st_j": 11.497,
+    "st_mass": 1.16,
+    "dec": -39.8976018,
+    "st_teff": 5961.52,
+    "st_rad": 1.18439,
+    "ra": 71.0406969,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_77319217",
+    "stellar_type": "F",
+    "tic_id": "TIC 77319217",
+    "magnitude": 11.497
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215245",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215361"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1215190,
+  "date": "2026-04-24T07:16:18",
+  "date_gmt": "2026-04-24T11:16:18",
+  "modified": "2026-04-24T07:16:18",
+  "modified_gmt": "2026-04-24T11:16:18",
+  "slug": "toi-2200",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2200/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2200",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215303
+    ],
+    "exo_id": "TOI-2200",
+    "st_optmag": 13.085,
+    "st_vj": 13.085,
+    "st_dist": 251.245,
+    "st_j": 13.085,
+    "st_mass": 0.85,
+    "dec": -72.4567778,
+    "st_teff": 5036.17,
+    "st_rad": 0.826247,
+    "ra": 98.7835071,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-2200",
+    "stellar_type": "K",
+    "tic_id": "TIC 142105158",
+    "magnitude": 13.085
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215190",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215303"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1215238,
+  "date": "2026-04-24T07:16:24",
+  "date_gmt": "2026-04-24T11:16:24",
+  "modified": "2026-04-24T07:16:24",
+  "modified_gmt": "2026-04-24T11:16:24",
+  "slug": "tic-32032563",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-32032563/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 32032563",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215354
+    ],
+    "exo_id": "TIC_32032563",
+    "st_optmag": 13.453,
+    "st_vj": 13.453,
+    "st_dist": 507.858,
+    "st_j": 13.453,
+    "st_mass": 1.05,
+    "dec": -68.8580554,
+    "st_teff": 5567.93,
+    "st_rad": 1.00188,
+    "ra": 56.0905221,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_32032563",
+    "stellar_type": "G",
+    "tic_id": "TIC 32032563",
+    "magnitude": 13.453
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215238",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215354"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

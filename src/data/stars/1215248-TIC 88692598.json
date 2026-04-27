@@ -1,0 +1,77 @@
+{
+  "id": 1215248,
+  "date": "2026-04-24T07:16:25",
+  "date_gmt": "2026-04-24T11:16:25",
+  "modified": "2026-04-24T07:16:25",
+  "modified_gmt": "2026-04-24T11:16:25",
+  "slug": "tic-88692598",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-88692598/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 88692598",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Major",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215364
+    ],
+    "exo_id": "TIC_88692598",
+    "st_optmag": 13.953,
+    "st_vj": 13.953,
+    "st_dist": 73.5258,
+    "st_j": 13.953,
+    "st_mass": 0.529218,
+    "dec": 47.7706699,
+    "st_teff": 3483.17,
+    "st_rad": 0.532473,
+    "ra": 149.2109097,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_88692598",
+    "stellar_type": "M",
+    "tic_id": "TIC 88692598",
+    "magnitude": 13.953
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215248",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215364"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

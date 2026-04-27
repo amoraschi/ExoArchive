@@ -1,0 +1,77 @@
+{
+  "id": 1215181,
+  "date": "2026-04-24T07:16:17",
+  "date_gmt": "2026-04-24T11:16:17",
+  "modified": "2026-04-24T07:16:17",
+  "modified_gmt": "2026-04-24T11:16:17",
+  "slug": "toi-1732",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1732/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1732",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lynx",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215294
+    ],
+    "exo_id": "TOI-1732",
+    "st_optmag": 12.889,
+    "st_vj": 12.889,
+    "st_dist": 74.7599,
+    "st_j": 12.889,
+    "st_mass": 0.613891,
+    "dec": 53.0452684,
+    "st_teff": 4201.93,
+    "st_rad": 0.632571,
+    "ra": 111.8014509,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1732",
+    "stellar_type": "K",
+    "tic_id": "TIC 470987100",
+    "magnitude": 12.889
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215181",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215294"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1215267,
+  "date": "2026-04-24T07:16:27",
+  "date_gmt": "2026-04-24T11:16:27",
+  "modified": "2026-04-24T07:16:27",
+  "modified_gmt": "2026-04-24T11:16:27",
+  "slug": "tic-390586021",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-390586021/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 390586021",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Centaurus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215383
+    ],
+    "exo_id": "TIC_390586021",
+    "st_optmag": 13.079,
+    "st_vj": 13.079,
+    "st_dist": 114.558,
+    "st_j": 13.079,
+    "st_mass": 0.648,
+    "dec": -31.4655097,
+    "st_teff": 4434.81,
+    "st_rad": 0.726565,
+    "ra": 199.8225789,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_390586021",
+    "stellar_type": "K",
+    "tic_id": "TIC 390586021",
+    "magnitude": 13.079
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215267",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215383"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

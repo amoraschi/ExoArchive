@@ -1,0 +1,77 @@
+{
+  "id": 1215214,
+  "date": "2026-04-24T07:16:20",
+  "date_gmt": "2026-04-24T11:16:20",
+  "modified": "2026-04-24T07:16:20",
+  "modified_gmt": "2026-04-24T11:16:20",
+  "slug": "toi-5486",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5486/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5486",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215327
+    ],
+    "exo_id": "TOI-5486",
+    "st_optmag": 14.297,
+    "st_vj": 14.297,
+    "st_dist": 89.6811,
+    "st_j": 14.297,
+    "st_mass": 0.548138,
+    "dec": 3.7886012,
+    "st_teff": 3750.17,
+    "st_rad": 0.553216,
+    "ra": 190.5495041,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5486",
+    "stellar_type": "M",
+    "tic_id": "TIC 291109653",
+    "magnitude": 14.297
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215214",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215327"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

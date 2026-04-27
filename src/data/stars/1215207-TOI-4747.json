@@ -1,0 +1,77 @@
+{
+  "id": 1215207,
+  "date": "2026-04-24T07:16:20",
+  "date_gmt": "2026-04-24T11:16:20",
+  "modified": "2026-04-24T07:16:20",
+  "modified_gmt": "2026-04-24T11:16:20",
+  "slug": "toi-4747",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4747/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4747",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pictor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215320
+    ],
+    "exo_id": "TOI-4747",
+    "st_optmag": 12.442,
+    "st_vj": 12.442,
+    "st_dist": 304.615,
+    "st_j": 12.442,
+    "st_mass": 1.01,
+    "dec": -45.0292291,
+    "st_teff": 5595.08,
+    "st_rad": 0.988751,
+    "ra": 86.427665,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4747",
+    "stellar_type": "G",
+    "tic_id": "TIC 235078021",
+    "magnitude": 12.442
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215207",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215320"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

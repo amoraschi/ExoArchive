@@ -1,0 +1,77 @@
+{
+  "id": 1215169,
+  "date": "2026-04-24T07:16:16",
+  "date_gmt": "2026-04-24T11:16:16",
+  "modified": "2026-04-24T07:16:16",
+  "modified_gmt": "2026-04-24T11:16:16",
+  "slug": "toi-883",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-883/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-883",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215281
+    ],
+    "exo_id": "TOI-883",
+    "st_optmag": 9.957,
+    "st_vj": 9.957,
+    "st_dist": 102.637,
+    "st_j": 9.957,
+    "st_mass": 1.003,
+    "dec": -6.5078349,
+    "st_teff": 5713.15,
+    "st_rad": 1.01477,
+    "ra": 103.3690609,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-883",
+    "stellar_type": "G",
+    "tic_id": "TIC 123846039",
+    "magnitude": 9.957
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215169",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215281"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

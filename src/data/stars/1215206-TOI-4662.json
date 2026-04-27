@@ -1,0 +1,77 @@
+{
+  "id": 1215206,
+  "date": "2026-04-24T07:16:20",
+  "date_gmt": "2026-04-24T11:16:20",
+  "modified": "2026-04-24T07:16:20",
+  "modified_gmt": "2026-04-24T11:16:20",
+  "slug": "toi-4662",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4662/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4662",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1215319
+    ],
+    "exo_id": "TOI-4662",
+    "st_optmag": 12.437,
+    "st_vj": 12.437,
+    "st_dist": 111.047,
+    "st_j": 12.437,
+    "st_mass": 0.703,
+    "dec": -31.0940247,
+    "st_teff": 4520.41,
+    "st_rad": 0.69375,
+    "ra": 57.5160311,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4662",
+    "stellar_type": "K",
+    "tic_id": "TIC 166778944",
+    "magnitude": 12.437
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215206",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215319"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}
