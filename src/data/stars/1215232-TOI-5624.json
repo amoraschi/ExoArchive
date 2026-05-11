@@ -2,8 +2,8 @@
   "id": 1215232,
   "date": "2026-04-24T07:16:22",
   "date_gmt": "2026-04-24T11:16:22",
-  "modified": "2026-04-24T07:16:22",
-  "modified_gmt": "2026-04-24T11:16:22",
+  "modified": "2026-05-08T07:44:07",
+  "modified_gmt": "2026-05-08T11:44:07",
   "slug": "toi-5624",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5624/",
@@ -21,20 +21,24 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      1215346
-    ],
+    "planet_ids": {
+      "0": 1218275,
+      "1": 1218271,
+      "2": 1218273,
+      "3": 1218274,
+      "4": 1215346
+    },
     "exo_id": "TOI-5624",
     "st_optmag": 10.81,
     "st_vj": 10.81,
     "st_dist": 101.913,
     "st_j": 10.81,
-    "st_mass": 0.923,
+    "st_mass": 0.858,
     "dec": 49.2512257,
-    "st_teff": 5415.89,
-    "st_rad": 0.827372,
+    "st_teff": 5327,
+    "st_rad": 0.82,
     "ra": 180.8443476,
-    "system_radius": 149597870,
+    "system_radius": 35394856.042,
     "pl_hostname": "TOI-5624",
     "stellar_type": "G",
     "tic_id": "TIC 53498154",
@@ -62,6 +66,22 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1218275"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1218274"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1218273"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1218271"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215346"

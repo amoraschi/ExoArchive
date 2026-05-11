@@ -1,0 +1,79 @@
+{
+  "id": 1218275,
+  "date": "2026-05-08T08:18:45",
+  "date_gmt": "2026-05-08T12:18:45",
+  "modified": "2026-05-08T08:18:45",
+  "modified_gmt": "2026-05-08T12:18:45",
+  "slug": "toi-5624-f",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-5624-f/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-5624",
+    "pl_letter": "f",
+    "display_name": "TOI-5624 f",
+    "planet_radius": "0.327 x Jupiter (estimate)",
+    "derived_description": "TOI-5624 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 45.4 days to complete one orbit of its star, and is 0.2366 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Transit Timing Variations",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 101.913,
+    "planet_mass": "13 Earths",
+    "st_optmag": 10.81,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.2366,
+    "period_display": "45.4 days",
+    "eccentricity": "0.0",
+    "star_id": 1215232,
+    "pl_orbper": 45.37,
+    "pl_kepflag": false,
+    "pl_radj": 0.327,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 90,
+    "multiple_planet_system": false,
+    "pl_rade": 3.66,
+    "exo_id": "TOI-5624_f",
+    "planet_size_class": "Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1218275",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215232"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}

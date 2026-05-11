@@ -1,0 +1,77 @@
+{
+  "id": 1218238,
+  "date": "2026-05-08T07:43:47",
+  "date_gmt": "2026-05-08T11:43:47",
+  "modified": "2026-05-08T07:43:47",
+  "modified_gmt": "2026-05-08T11:43:47",
+  "slug": "tic-183374187",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-183374187/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 183374187",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Phoenix",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1218265
+    ],
+    "exo_id": "TIC_183374187",
+    "st_optmag": 14.639,
+    "st_vj": 14.639,
+    "st_dist": 1208.75,
+    "st_j": 14.639,
+    "st_mass": 0.853,
+    "dec": -41.4124228,
+    "st_teff": 5768,
+    "st_rad": 1.344,
+    "ra": 357.6160382,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_183374187",
+    "stellar_type": "G",
+    "tic_id": "TIC 183374187",
+    "magnitude": 14.639
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1218238",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1218265"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}
