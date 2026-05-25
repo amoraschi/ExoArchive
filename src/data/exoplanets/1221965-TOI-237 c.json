@@ -1,0 +1,79 @@
+{
+  "id": 1221965,
+  "date": "2026-05-22T09:11:38",
+  "date_gmt": "2026-05-22T13:11:38",
+  "modified": "2026-05-22T09:11:38",
+  "modified_gmt": "2026-05-22T13:11:38",
+  "slug": "toi-237-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-237-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-237",
+    "pl_letter": "c",
+    "display_name": "TOI-237 c",
+    "planet_radius": "1.206 x Earth",
+    "derived_description": "TOI-237 c is a super Earth exoplanet that orbits a M-type star. Its mass is 1.9 Earths, it takes 1.7 days to complete one orbit of its star, and is 0.016 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 38.0749,
+    "planet_mass": "1.9 Earths",
+    "st_optmag": 16.37,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.016,
+    "period_display": "1.7 days",
+    "eccentricity": "",
+    "star_id": 262461,
+    "pl_orbper": 1.74486147,
+    "pl_kepflag": false,
+    "pl_radj": 0.1075923,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.206,
+    "exo_id": "TOI-237_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1221965",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/262461"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

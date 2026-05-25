@@ -1,0 +1,79 @@
+{
+  "id": 1221972,
+  "date": "2026-05-22T09:12:39",
+  "date_gmt": "2026-05-22T13:12:39",
+  "modified": "2026-05-22T09:12:39",
+  "modified_gmt": "2026-05-22T13:12:39",
+  "slug": "toi-4311-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-4311-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-4311",
+    "pl_letter": "c",
+    "display_name": "TOI-4311 c",
+    "planet_radius": "2.47 x Earth",
+    "derived_description": "TOI-4311 c is a super Earth exoplanet that orbits a K-type star. Its mass is 13.58 Earths, it takes 15.1 days to complete one orbit of its star, and is 0.1116 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 134.988,
+    "planet_mass": "13.58 Earths",
+    "st_optmag": 11.388,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.1116,
+    "period_display": "15.1 days",
+    "eccentricity": "< 0.22",
+    "star_id": 1221946,
+    "pl_orbper": 15.070425,
+    "pl_kepflag": false,
+    "pl_radj": 0.22035902,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.47,
+    "exo_id": "TOI-4311_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0.22,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1221972",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1221946"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

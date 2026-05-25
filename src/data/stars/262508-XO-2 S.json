@@ -2,8 +2,8 @@
   "id": 262508,
   "date": "2023-11-28T20:51:53",
   "date_gmt": "2023-11-29T01:51:53",
-  "modified": "2026-05-02T07:31:22",
-  "modified_gmt": "2026-05-02T11:31:22",
+  "modified": "2026-05-22T08:11:26",
+  "modified_gmt": "2026-05-22T12:11:26",
   "slug": "xo-2_s",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/xo-2_s/",
@@ -21,21 +21,22 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      248939,
-      248940
-    ],
+    "planet_ids": {
+      "0": 1221966,
+      "1": 248939,
+      "2": 248940
+    },
     "exo_id": "XO-2_S",
     "st_optmag": 11.196,
     "st_vj": 11.196,
     "st_dist": 151.398,
     "st_j": 11.196,
-    "st_mass": 0.982,
+    "st_mass": 0.98,
     "dec": 50.2169068,
-    "st_teff": 5399,
+    "st_teff": 5325,
     "st_rad": 1.02,
     "ra": 117.0309753,
-    "system_radius": 71148746.972,
+    "system_radius": 816804370.2,
     "pl_hostname": "XO-2_S",
     "stellar_type": "G",
     "tic_id": "TIC 356473029",
@@ -63,6 +64,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1221966"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248940"

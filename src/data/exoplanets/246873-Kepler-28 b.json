@@ -2,15 +2,15 @@
   "id": 246873,
   "date": "2017-10-02T13:32:35",
   "date_gmt": "2017-10-02T17:32:35",
-  "modified": "2026-05-12T10:49:43",
-  "modified_gmt": "2026-05-12T14:49:43",
+  "modified": "2026-05-19T17:38:26",
+  "modified_gmt": "2026-05-19T21:38:26",
   "slug": "kepler-28-b",
   "type": "exoplanet",
   "link": "https://science.nasa.gov/exoplanet-catalog/kepler-28-b/",
   "featured_media": 267560,
   "categories": [
-    2014,
-    2013
+    2013,
+    2014
   ],
   "acf": {
     "pl_hostname": "Kepler-28",

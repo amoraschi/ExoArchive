@@ -1,19 +1,19 @@
 {
-  "id": 1189848,
-  "date": "2026-01-08T01:10:59",
-  "date_gmt": "2026-01-08T06:10:59",
-  "modified": "2026-05-24T08:16:36",
-  "modified_gmt": "2026-05-24T12:16:36",
-  "slug": "epsilon-eridani",
+  "id": 1221946,
+  "date": "2026-05-22T08:12:10",
+  "date_gmt": "2026-05-22T12:12:10",
+  "modified": "2026-05-22T08:12:10",
+  "modified_gmt": "2026-05-22T12:12:10",
+  "slug": "toi-4311",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/epsilon-eridani/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4311/",
   "featured_media": 429649,
   "categories": [],
   "acf": {
-    "display_name": "Ran",
+    "display_name": "TOI-4311",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Eridanus",
+    "constellation": "Fornax",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,29 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      243570
+      1221972,
+      1221973
     ],
-    "exo_id": "eps_Eri",
-    "st_optmag": 3.718,
-    "st_vj": 3.718,
-    "st_dist": 3.2198,
-    "st_j": 3.718,
-    "st_mass": 0.78,
-    "dec": -9.458261,
-    "st_teff": 5098,
-    "st_rad": 0.746,
-    "ra": 53.2326854,
-    "system_radius": 528080481.1,
-    "pl_hostname": "eps_Eri",
+    "exo_id": "TOI-4311",
+    "st_optmag": 11.388,
+    "st_vj": 11.388,
+    "st_dist": 134.988,
+    "st_j": 11.388,
+    "st_mass": 0.816,
+    "dec": -31.1793201,
+    "st_teff": 5063,
+    "st_rad": 0.8441,
+    "ra": 41.6855224,
+    "system_radius": 16695122.292,
+    "pl_hostname": "TOI-4311",
     "stellar_type": "K",
-    "tic_id": "TIC 118572803",
-    "magnitude": 3.7
+    "tic_id": "TIC 122617317",
+    "magnitude": 11.388
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189848",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1221946",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +65,11 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243570"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1221973"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1221972"
       }
     ],
     "wp:featuredmedia": [

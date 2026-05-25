@@ -21,9 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      248549
-    ],
+    "planet_ids": {
+      "0": 1221965,
+      "1": 248549
+    },
     "exo_id": "TOI-237",
     "st_optmag": 16.37,
     "st_vj": 16.37,
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1221965"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248549"
