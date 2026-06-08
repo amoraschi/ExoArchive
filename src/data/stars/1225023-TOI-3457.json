@@ -1,19 +1,19 @@
 {
-  "id": 1189852,
-  "date": "2026-01-08T01:11:08",
-  "date_gmt": "2026-01-08T06:11:08",
-  "modified": "2026-06-07T08:44:15",
-  "modified_gmt": "2026-06-07T12:44:15",
-  "slug": "hd-10647",
+  "id": 1225023,
+  "date": "2026-06-05T08:39:25",
+  "date_gmt": "2026-06-05T12:39:25",
+  "modified": "2026-06-05T08:39:25",
+  "modified_gmt": "2026-06-05T12:39:25",
+  "slug": "toi-3457",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-10647/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3457/",
   "featured_media": 429647,
   "categories": [],
   "acf": {
-    "display_name": "q1 Eridani",
+    "display_name": "TOI-3457",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Eridanus",
+    "constellation": "Chamaeleon",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      243901
+      1225105
     ],
-    "exo_id": "HD_10647",
-    "st_optmag": 5.52,
-    "st_vj": 5.52,
-    "st_dist": 17.3488,
-    "st_j": 5.52,
-    "st_mass": 1.14,
-    "dec": -53.740831,
-    "st_teff": 6155,
-    "st_rad": 1.095,
-    "ra": 25.6221438,
-    "system_radius": 301439708.05,
-    "pl_hostname": "HD_10647",
+    "exo_id": "TOI-3457",
+    "st_optmag": 12.44,
+    "st_vj": 12.44,
+    "st_dist": 370.666,
+    "st_j": 12.44,
+    "st_mass": 1.04,
+    "dec": -79.7572043,
+    "st_teff": 6300,
+    "st_rad": 1.474,
+    "ra": 183.2082686,
+    "system_radius": 29934533.787,
+    "pl_hostname": "TOI-3457",
     "stellar_type": "F",
-    "tic_id": "TIC 229137615",
-    "magnitude": 5.5
+    "tic_id": "TIC 357312511",
+    "magnitude": 12.44
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189852",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1225023",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243901"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1225105"
       }
     ],
     "wp:featuredmedia": [

@@ -1,19 +1,19 @@
 {
-  "id": 1189852,
-  "date": "2026-01-08T01:11:08",
-  "date_gmt": "2026-01-08T06:11:08",
-  "modified": "2026-06-07T08:44:15",
-  "modified_gmt": "2026-06-07T12:44:15",
-  "slug": "hd-10647",
+  "id": 1225024,
+  "date": "2026-06-05T08:39:25",
+  "date_gmt": "2026-06-05T12:39:25",
+  "modified": "2026-06-05T08:39:25",
+  "modified_gmt": "2026-06-05T12:39:25",
+  "slug": "hd-5388",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-10647/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-5388/",
   "featured_media": 429647,
   "categories": [],
   "acf": {
-    "display_name": "q1 Eridani",
+    "display_name": "HD 5388",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Eridanus",
+    "constellation": "Phoenix",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      243901
+      1225106
     ],
-    "exo_id": "HD_10647",
-    "st_optmag": 5.52,
-    "st_vj": 5.52,
-    "st_dist": 17.3488,
-    "st_j": 5.52,
-    "st_mass": 1.14,
-    "dec": -53.740831,
-    "st_teff": 6155,
-    "st_rad": 1.095,
-    "ra": 25.6221438,
-    "system_radius": 301439708.05,
-    "pl_hostname": "HD_10647",
+    "exo_id": "HD_5388",
+    "st_optmag": 6.73,
+    "st_vj": 6.73,
+    "st_dist": 53.0661,
+    "st_j": 6.73,
+    "st_mass": 1.21,
+    "dec": -47.4067326,
+    "st_teff": 6297,
+    "st_rad": 1.91,
+    "ra": 13.79903,
+    "system_radius": 262843457.59,
+    "pl_hostname": "HD_5388",
     "stellar_type": "F",
-    "tic_id": "TIC 229137615",
-    "magnitude": 5.5
+    "tic_id": "TIC 101936170",
+    "magnitude": 6.73
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189852",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1225024",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243901"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1225106"
       }
     ],
     "wp:featuredmedia": [

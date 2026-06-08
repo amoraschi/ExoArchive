@@ -1,0 +1,79 @@
+{
+  "id": 1225107,
+  "date": "2026-06-05T10:43:27",
+  "date_gmt": "2026-06-05T14:43:27",
+  "modified": "2026-06-05T10:43:27",
+  "modified_gmt": "2026-06-05T14:43:27",
+  "slug": "hd-16760-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-16760-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_16760",
+    "pl_letter": "b",
+    "display_name": "HD 16760 b",
+    "planet_radius": "1.08 x Jupiter (estimate)",
+    "derived_description": "HD 16760 b is a gas giant exoplanet that orbits a G-type star. Its mass is 21.5 Jupiters, it takes 466.1 days to complete one orbit of its star, and is 1.156 AU from its star. Its discovery was announced in 2009.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Facilities",
+    "st_dist": 50.17561,
+    "planet_mass": "21.5 Jupiters",
+    "st_optmag": 8.7,
+    "discovery_date": "2009",
+    "pl_orbsmax": 1.156,
+    "period_display": "466.1 days",
+    "eccentricity": "0.08",
+    "star_id": 1225025,
+    "pl_orbper": 466.08,
+    "pl_kepflag": false,
+    "pl_radj": 1.08,
+    "pl_disc": 2009,
+    "pl_publ_date": "2009",
+    "planet_orbit_period": 240.4,
+    "multiple_planet_system": false,
+    "pl_rade": 12.1,
+    "exo_id": "HD_16760_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.079
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1225107",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1225025"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1225106,
+  "date": "2026-06-05T10:43:27",
+  "date_gmt": "2026-06-05T14:43:27",
+  "modified": "2026-06-05T10:43:27",
+  "modified_gmt": "2026-06-05T14:43:27",
+  "slug": "hd-5388-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-5388-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_5388",
+    "pl_letter": "b",
+    "display_name": "HD 5388 b",
+    "planet_radius": "1.17 x Jupiter (estimate)",
+    "derived_description": "HD 5388 b is a gas giant exoplanet that orbits a F-type star. Its mass is 3.2 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 1.757 AU from its star. Its discovery was announced in 2010.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 53.0661,
+    "planet_mass": "3.2 Jupiters",
+    "st_optmag": 6.73,
+    "discovery_date": "2010",
+    "pl_orbsmax": 1.757,
+    "period_display": "2.1 years",
+    "eccentricity": "0.41",
+    "star_id": 1225024,
+    "pl_orbper": 772.5,
+    "pl_kepflag": false,
+    "pl_radj": 1.17,
+    "pl_disc": 2010,
+    "pl_publ_date": "2010",
+    "planet_orbit_period": 325.9,
+    "multiple_planet_system": false,
+    "pl_rade": 13.1,
+    "exo_id": "HD_5388_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.41
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1225106",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1225024"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

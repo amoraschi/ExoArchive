@@ -1,19 +1,19 @@
 {
-  "id": 1189848,
-  "date": "2026-01-08T01:10:59",
-  "date_gmt": "2026-01-08T06:10:59",
-  "modified": "2026-06-07T08:44:15",
-  "modified_gmt": "2026-06-07T12:44:15",
-  "slug": "epsilon-eridani",
+  "id": 1225020,
+  "date": "2026-06-05T08:39:24",
+  "date_gmt": "2026-06-05T12:39:24",
+  "modified": "2026-06-05T08:39:24",
+  "modified_gmt": "2026-06-05T12:39:24",
+  "slug": "hd-148427",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/epsilon-eridani/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-148427/",
   "featured_media": 429649,
   "categories": [],
   "acf": {
-    "display_name": "Ran",
+    "display_name": "HD 148427",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Eridanus",
+    "constellation": "Ophiuchus",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      243570
+      1225095
     ],
-    "exo_id": "eps_Eri",
-    "st_optmag": 3.718,
-    "st_vj": 3.718,
-    "st_dist": 3.2198,
-    "st_j": 3.718,
-    "st_mass": 0.78,
-    "dec": -9.458261,
-    "st_teff": 5098,
-    "st_rad": 0.746,
-    "ra": 53.2326854,
-    "system_radius": 528080481.1,
-    "pl_hostname": "eps_Eri",
+    "exo_id": "HD_148427",
+    "st_optmag": 6.90498,
+    "st_vj": 6.90498,
+    "st_dist": 71.3499,
+    "st_j": 6.90498,
+    "st_mass": 1.64,
+    "dec": -13.3996231,
+    "st_teff": 5025,
+    "st_rad": 3.86,
+    "ra": 247.1171311,
+    "system_radius": 166053635.7,
+    "pl_hostname": "HD_148427",
     "stellar_type": "K",
-    "tic_id": "TIC 118572803",
-    "magnitude": 3.7
+    "tic_id": "TIC 413853880",
+    "magnitude": 6.90498
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189848",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1225020",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243570"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1225095"
       }
     ],
     "wp:featuredmedia": [
