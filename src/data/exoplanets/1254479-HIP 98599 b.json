@@ -1,0 +1,79 @@
+{
+  "id": 1254479,
+  "date": "2026-07-03T11:45:32",
+  "date_gmt": "2026-07-03T15:45:32",
+  "modified": "2026-07-03T11:45:32",
+  "modified_gmt": "2026-07-03T15:45:32",
+  "slug": "hip-98599-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hip-98599-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HIP_98599",
+    "pl_letter": "b",
+    "display_name": "HIP 98599 b",
+    "planet_radius": "1.13 x Jupiter (estimate)",
+    "derived_description": "HIP 98599 b is a gas giant exoplanet that orbits a F-type star. Its mass is 6.85 Jupiters, it takes 7.3 years to complete one orbit of its star, and is 3.96 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Facilities",
+    "st_dist": 75.9428,
+    "planet_mass": "6.85 Jupiters",
+    "st_optmag": 8.11,
+    "discovery_date": "2026",
+    "pl_orbsmax": 3.96,
+    "period_display": "7.3 years",
+    "eccentricity": "0.17",
+    "star_id": 1254418,
+    "pl_orbper": 2656,
+    "pl_kepflag": false,
+    "pl_radj": 1.13,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 275,
+    "multiple_planet_system": false,
+    "pl_rade": 12.7,
+    "exo_id": "HIP_98599_b",
+    "planet_size_class": "super-Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.169
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254479",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254418"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

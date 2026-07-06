@@ -1,0 +1,77 @@
+{
+  "id": 1254420,
+  "date": "2026-07-03T09:35:32",
+  "date_gmt": "2026-07-03T13:35:32",
+  "modified": "2026-07-03T09:35:32",
+  "modified_gmt": "2026-07-03T13:35:32",
+  "slug": "ogle-2023-blg-0766l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ogle-2023-blg-0766l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "OGLE-2023-BLG-0766L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1254481
+    ],
+    "exo_id": "OGLE-2023-BLG-0766L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7400,
+    "st_j": "",
+    "st_mass": 0.39,
+    "dec": -28.3246889,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.829625,
+    "system_radius": 373994675,
+    "pl_hostname": "OGLE-2023-BLG-0766L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254420",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254481"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

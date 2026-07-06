@@ -1,0 +1,77 @@
+{
+  "id": 1254418,
+  "date": "2026-07-03T09:35:32",
+  "date_gmt": "2026-07-03T13:35:32",
+  "modified": "2026-07-03T09:35:32",
+  "modified_gmt": "2026-07-03T13:35:32",
+  "slug": "hip-98599",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-98599/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 98599",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1254479
+    ],
+    "exo_id": "HIP_98599",
+    "st_optmag": 8.11,
+    "st_vj": 8.11,
+    "st_dist": 75.9428,
+    "st_j": 8.11,
+    "st_mass": 1.19,
+    "dec": -22.1110649,
+    "st_teff": 5978,
+    "st_rad": 1.39484,
+    "ra": 300.4090608,
+    "system_radius": 592407565.2,
+    "pl_hostname": "HIP_98599",
+    "stellar_type": "F",
+    "tic_id": "TIC 74541369",
+    "magnitude": 8.11
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254418",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254479"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

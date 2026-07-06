@@ -2,8 +2,8 @@
   "id": 262304,
   "date": "2023-11-28T20:49:18",
   "date_gmt": "2023-11-29T01:49:18",
-  "modified": "2026-06-28T09:26:12",
-  "modified_gmt": "2026-06-28T13:26:12",
+  "modified": "2026-07-05T09:40:18",
+  "modified_gmt": "2026-07-05T13:40:18",
   "slug": "hd_190360",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_190360/",
@@ -21,10 +21,11 @@
     "rv_planets_prospects": "2 planets have been detected to date around this star using radial velocities.The exoplanet HD 190360 b was discovered in 2003. It has a mass nearly double that of Jupiter, but its orbit is smaller than Jupiter's. A smaller, second exoplanet, HD 190360 c, was detected in 2005. It has a mass nearly 20 times that of Earth and is much closer to the host star, completing an orbit around the star every 17 days. Due to lower stellar magnetic activity levels than the Sun, HD 190360 is well-suited to radial velocity studies.",
     "transit_planets_prospects": "0 planets have been detected to date around this star using transits.",
     "imaging_planets_prospects": "0 planets have been detected to date around this star using direct imaging.Because HD 190360 is a nearby bright star, it is a good target for future direct imaging. Upcoming large space telescopes equipped with direct imaging capabilities will enable the search for rocky exoplanets as small as Earth within the star's habitable zone. Additionally, these telescopes will have the capability to characterize the atmospheres of the already known exoplanets within the system.",
-    "planet_ids": [
-      244196,
-      244197
-    ],
+    "planet_ids": {
+      "0": 1254483,
+      "1": 244196,
+      "2": 244197
+    },
     "exo_id": "HD_190360",
     "st_optmag": 5.745,
     "st_vj": 5.745,
@@ -35,7 +36,7 @@
     "st_teff": 5563,
     "st_rad": 1.162,
     "ra": 300.9058545,
-    "system_radius": 592856358.81,
+    "system_radius": 593155554.55,
     "pl_hostname": "HD_190360",
     "stellar_type": "G",
     "tic_id": "TIC 105999792",
@@ -63,6 +64,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254483"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244197"

@@ -1,0 +1,79 @@
+{
+  "id": 1254486,
+  "date": "2026-07-03T11:45:33",
+  "date_gmt": "2026-07-03T15:45:33",
+  "modified": "2026-07-03T11:45:33",
+  "modified_gmt": "2026-07-03T15:45:33",
+  "slug": "hd-127195-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/hd-127195-c/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "HD_127195",
+    "pl_letter": "c",
+    "display_name": "HD 127195 c",
+    "planet_radius": "1.25 x Jupiter (estimate)",
+    "derived_description": "HD 127195 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.65 Jupiters, it takes 2.3 years to complete one orbit of its star, and is 1.9162400865645 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "La Silla Observatory",
+    "st_dist": 84.7167,
+    "planet_mass": "0.65 Jupiters",
+    "st_optmag": 7.18,
+    "discovery_date": "2026",
+    "pl_orbsmax": "",
+    "period_display": "2.3 years",
+    "eccentricity": "0.05",
+    "star_id": 1254423,
+    "pl_orbper": 836.99,
+    "pl_kepflag": false,
+    "pl_radj": 1.25,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 4.12,
+    "multiple_planet_system": false,
+    "pl_rade": 14.1,
+    "exo_id": "HD_127195_c",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.05
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254486",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254423"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

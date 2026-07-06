@@ -1,0 +1,82 @@
+{
+  "id": 1254423,
+  "date": "2026-07-03T09:35:32",
+  "date_gmt": "2026-07-03T13:35:32",
+  "modified": "2026-07-03T09:35:32",
+  "modified_gmt": "2026-07-03T13:35:32",
+  "slug": "hd-127195",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-127195/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HD 127195",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lupus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1254485,
+      1254486
+    ],
+    "exo_id": "HD_127195",
+    "st_optmag": 7.18,
+    "st_vj": 7.18,
+    "st_dist": 84.7167,
+    "st_j": 7.18,
+    "st_mass": 1.34,
+    "dec": -47.7292571,
+    "st_teff": 4981,
+    "st_rad": 4.16,
+    "ra": 217.8714193,
+    "system_radius": 149597870,
+    "pl_hostname": "HD_127195",
+    "stellar_type": "K",
+    "tic_id": "TIC 127725774",
+    "magnitude": 7.18
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254423",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254486"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254485"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

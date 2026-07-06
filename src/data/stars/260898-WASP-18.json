@@ -2,8 +2,8 @@
   "id": 260898,
   "date": "2023-11-28T20:31:30",
   "date_gmt": "2023-11-29T01:31:30",
-  "modified": "2025-11-20T23:37:12",
-  "modified_gmt": "2025-11-21T04:37:12",
+  "modified": "2026-07-03T09:35:31",
+  "modified_gmt": "2026-07-03T13:35:31",
   "slug": "wasp-18",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/wasp-18/",
@@ -21,10 +21,9 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": {
-      "0": 248827,
-      "1": 248826
-    },
+    "planet_ids": [
+      248826
+    ],
     "exo_id": "WASP-18",
     "st_optmag": 9.28,
     "st_vj": 9.28,
@@ -35,7 +34,7 @@
     "st_teff": 6432,
     "st_rad": 1.319,
     "ra": 24.3544618,
-    "system_radius": 5235925.45,
+    "system_radius": 3027860.8888,
     "pl_hostname": "WASP-18",
     "stellar_type": "F",
     "tic_id": "TIC 100100827",
@@ -63,10 +62,6 @@
       }
     ],
     "acf:post": [
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248827"
-      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248826"

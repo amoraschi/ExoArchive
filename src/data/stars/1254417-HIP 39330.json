@@ -1,0 +1,77 @@
+{
+  "id": 1254417,
+  "date": "2026-07-03T09:35:32",
+  "date_gmt": "2026-07-03T13:35:32",
+  "modified": "2026-07-03T09:35:32",
+  "modified_gmt": "2026-07-03T13:35:32",
+  "slug": "hip-39330",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-39330/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 39330",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Puppis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1254478
+    ],
+    "exo_id": "HIP_39330",
+    "st_optmag": 7.52,
+    "st_vj": 7.52,
+    "st_dist": 36.3958,
+    "st_j": 7.52,
+    "st_mass": 0.96,
+    "dec": -46.3353155,
+    "st_teff": 5748,
+    "st_rad": 1.02786,
+    "ra": 120.6116831,
+    "system_radius": 755469243.5,
+    "pl_hostname": "HIP_39330",
+    "stellar_type": "G",
+    "tic_id": "TIC 79698690",
+    "magnitude": 7.52
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254417",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254478"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

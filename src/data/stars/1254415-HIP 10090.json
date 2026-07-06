@@ -1,0 +1,82 @@
+{
+  "id": 1254415,
+  "date": "2026-07-03T09:35:31",
+  "date_gmt": "2026-07-03T13:35:31",
+  "modified": "2026-07-03T09:35:31",
+  "modified_gmt": "2026-07-03T13:35:31",
+  "slug": "hip-10090",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-10090/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 10090",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Fornax",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1254475,
+      1254476
+    ],
+    "exo_id": "HIP_10090",
+    "st_optmag": 8.94,
+    "st_vj": 8.94,
+    "st_dist": 82.3937,
+    "st_j": 8.94,
+    "st_mass": 0.94,
+    "dec": -30.7470844,
+    "st_teff": 5661,
+    "st_rad": 1.38268,
+    "ra": 32.4351198,
+    "system_radius": 578943756.9,
+    "pl_hostname": "HIP_10090",
+    "stellar_type": "G",
+    "tic_id": "TIC 123405803",
+    "magnitude": 8.94
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254415",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254476"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254475"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

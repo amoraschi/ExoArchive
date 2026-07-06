@@ -1,0 +1,77 @@
+{
+  "id": 1254416,
+  "date": "2026-07-03T09:35:32",
+  "date_gmt": "2026-07-03T13:35:32",
+  "modified": "2026-07-03T09:35:32",
+  "modified_gmt": "2026-07-03T13:35:32",
+  "slug": "hip-8923",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-8923/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 8923",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1254477
+    ],
+    "exo_id": "HIP_8923",
+    "st_optmag": 8.24,
+    "st_vj": 8.24,
+    "st_dist": 65.9957,
+    "st_j": 8.24,
+    "st_mass": 1.01,
+    "dec": -11.5113361,
+    "st_teff": 5980,
+    "st_rad": 1.32164,
+    "ra": 28.7250931,
+    "system_radius": 882627433,
+    "pl_hostname": "HIP_8923",
+    "stellar_type": "F",
+    "tic_id": "TIC 24940997",
+    "magnitude": 8.24
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1254416",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1254477"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}
