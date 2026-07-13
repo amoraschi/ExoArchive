@@ -2,8 +2,8 @@
   "id": 261112,
   "date": "2023-11-28T20:34:12",
   "date_gmt": "2023-11-29T01:34:12",
-  "modified": "2025-04-23T05:53:26",
-  "modified_gmt": "2025-04-23T09:53:26",
+  "modified": "2026-07-10T09:49:32",
+  "modified_gmt": "2026-07-10T13:49:32",
   "slug": "bet_pic",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/bet_pic/",
@@ -22,20 +22,21 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": {
-      "0": 243466,
-      "1": 243465
+      "0": 1255699,
+      "1": 243466,
+      "2": 243465
     },
     "exo_id": "bet_Pic",
     "st_optmag": 3.85,
     "st_vj": 3.85,
     "st_dist": 19.7442,
     "st_j": 3.85,
-    "st_mass": 1.795,
+    "st_mass": 1.789,
     "dec": -51.066148,
     "st_teff": 8038.68,
     "st_rad": 1.54416,
     "ra": 86.8212337,
-    "system_radius": 1498671461.66,
+    "system_radius": 3889544620,
     "pl_hostname": "bet_Pic",
     "stellar_type": "A",
     "tic_id": "TIC 270577175",
@@ -63,6 +64,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1255699"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243466"
