@@ -1,0 +1,82 @@
+{
+  "id": 1257330,
+  "date": "2026-07-17T10:03:15",
+  "date_gmt": "2026-07-17T14:03:15",
+  "modified": "2026-07-17T10:03:15",
+  "modified_gmt": "2026-07-17T14:03:15",
+  "slug": "toi-1533",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1533/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1533",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": {
+      "0": 1257365,
+      "1": 1257364
+    },
+    "exo_id": "TOI-1533",
+    "st_optmag": 10.953,
+    "st_vj": 10.953,
+    "st_dist": 100.051,
+    "st_j": 10.953,
+    "st_mass": 0.88,
+    "dec": 57.4852417,
+    "st_teff": 5146,
+    "st_rad": 0.849,
+    "ra": 355.2467209,
+    "system_radius": 11369438.12,
+    "pl_hostname": "TOI-1533",
+    "stellar_type": "K",
+    "tic_id": "TIC 345143460",
+    "magnitude": 10.953
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1257330",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1257365"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1257364"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

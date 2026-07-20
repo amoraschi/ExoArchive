@@ -70,7 +70,7 @@ K2-73 c is a gas giant exoplanet that orbits a G-type star. Its mass is 3.593133
 
 1014514-HIP 41378 g.json
 106.289
-HIP 41378 g is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.81 Earths, it takes 64.1 days to complete one orbit of its star, and is 0.33709127992672 AU from its star. Its discovery was announced in 2025.
+HIP 41378 g is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.81 Earths, it takes 63.2 days to complete one orbit of its star, and is 0.33175717375164 AU from its star. Its discovery was announced in 2025.
 
 
 1014526-TOI-1438 b.json
@@ -1721,6 +1721,31 @@ NGTS-38 b is a gas giant exoplanet that orbits a F-type star. Its mass is 4.77 J
 1255699-Beta Pictoris d.json
 19.7442
 Beta Pictoris d is a gas giant exoplanet that orbits a A-type star. Its mass is 2.4 Jupiters, it takes 91 years to complete one orbit of its star, and is 26 AU from its star. Its discovery was announced in 2026.
+
+
+1257364-TOI-1533 b.json
+100.051
+TOI-1533 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 28.1 Earths, it takes 3.6 days to complete one orbit of its star, and is 0.0445 AU from its star. Its discovery was announced in 2026.
+
+
+1257365-TOI-1533 c.json
+100.051
+TOI-1533 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 36.6 Earths, it takes 8.1 days to complete one orbit of its star, and is 0.076 AU from its star. Its discovery was announced in 2026.
+
+
+1257366-TOI-791 b.json
+341.221
+TOI-791 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.5 Earths, it takes 139.3 days to complete one orbit of its star, and is 0.602 AU from its star. Its discovery was announced in 2026.
+
+
+1257367-TOI-6884 b.json
+562.376
+TOI-6884 b is a gas giant exoplanet that orbits a F-type star. Its mass is 26.32 Jupiters, it takes 4.8 days to complete one orbit of its star, and is 0.0629 AU from its star. Its discovery was announced in 2026.
+
+
+1257368-TOI-791 c.json
+341.221
+TOI-791 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 18.6 Earths, it takes 232 days to complete one orbit of its star, and is 0.863 AU from its star. Its discovery was announced in 2026.
 
 
 243385-11 Comae Berenices b.json
@@ -7965,27 +7990,27 @@ HIP 38594 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.15
 
 244652-HIP 41378 b.json
 106.289
-HIP 41378 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 9.06 Earths, it takes 15.6 days to complete one orbit of its star, and is 0.1303 AU from its star. Its discovery was announced in 2016.
+HIP 41378 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.9 Earths, it takes 15.6 days to complete one orbit of its star, and is 0.1303 AU from its star. Its discovery was announced in 2016.
 
 
 244653-HIP 41378 c.json
 106.289
-HIP 41378 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.53 Earths, it takes 31.7 days to complete one orbit of its star, and is 0.2093 AU from its star. Its discovery was announced in 2016.
+HIP 41378 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.97 Earths, it takes 31.7 days to complete one orbit of its star, and is 0.2093 AU from its star. Its discovery was announced in 2016.
 
 
 244654-HIP 41378 d.json
 106.289
-HIP 41378 d is a Neptune-like exoplanet that orbits a F-type star. Its mass is 4.6 Earths, it takes 278.4 days to complete one orbit of its star, and is 0.87665200276765 AU from its star. Its discovery was announced in 2016.
+HIP 41378 d is a Neptune-like exoplanet that orbits a F-type star. Its mass is 6.53 Earths, it takes 278.4 days to complete one orbit of its star, and is 1.17 AU from its star. Its discovery was announced in 2016.
 
 
 244655-HIP 41378 e.json
 106.289
-HIP 41378 e is a Neptune-like exoplanet that orbits a F-type star. Its mass is 12 Earths, it takes 369 days to complete one orbit of its star, and is 1.0578848135127 AU from its star. Its discovery was announced in 2016.
+HIP 41378 e is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.62 Earths, it takes 393 days to complete one orbit of its star, and is 0.68 AU from its star. Its discovery was announced in 2016.
 
 
 244656-HIP 41378 f.json
 106.289
-HIP 41378 f is a Neptune-like exoplanet that orbits a F-type star. Its mass is 12 Earths, it takes 1.5 years to complete one orbit of its star, and is 1.3591848400473 AU from its star. Its discovery was announced in 2016.
+HIP 41378 f is a Neptune-like exoplanet that orbits a F-type star. Its mass is 25 Earths, it takes 1.5 years to complete one orbit of its star, and is 1.394 AU from its star. Its discovery was announced in 2016.
 
 
 244657-HIP 4845 b.json
@@ -10805,7 +10830,7 @@ KELT-8 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.66 Ju
 
 245227-KELT-9 b.json
 204.455
-KELT-9 b is a gas giant exoplanet that orbits a B-type star. Its mass is 2.88 Jupiters, it takes 1.5 days to complete one orbit of its star, and is 0.03462 AU from its star. Its discovery was announced in 2017.
+KELT-9 b is a gas giant exoplanet that orbits a A-type star. Its mass is 2.88 Jupiters, it takes 1.5 days to complete one orbit of its star, and is 0.03368 AU from its star. Its discovery was announced in 2017.
 
 
 245228-Kepler-1000 b.json
