@@ -1,0 +1,77 @@
+{
+  "id": 1272683,
+  "date": "2026-07-31T10:30:20",
+  "date_gmt": "2026-07-31T14:30:20",
+  "modified": "2026-07-31T10:30:20",
+  "modified_gmt": "2026-07-31T14:30:20",
+  "slug": "gaia23bral",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gaia23bral/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Gaia23braL",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1272745
+    ],
+    "exo_id": "Gaia23braL",
+    "st_optmag": 19.8628,
+    "st_vj": 19.8628,
+    "st_dist": 4330,
+    "st_j": 19.8628,
+    "st_mass": 0.774,
+    "dec": -63.2639167,
+    "st_teff": 5055,
+    "st_rad": 1.36181,
+    "ra": 155.6294583,
+    "system_radius": 725100875.89,
+    "pl_hostname": "Gaia23braL",
+    "stellar_type": "K",
+    "tic_id": "TIC 848465592",
+    "magnitude": 19.8628
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272683",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272745"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

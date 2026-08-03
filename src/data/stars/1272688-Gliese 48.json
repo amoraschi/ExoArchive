@@ -1,0 +1,77 @@
+{
+  "id": 1272688,
+  "date": "2026-07-31T10:30:41",
+  "date_gmt": "2026-07-31T14:30:41",
+  "modified": "2026-07-31T10:30:41",
+  "modified_gmt": "2026-07-31T14:30:41",
+  "slug": "gliese-48",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gliese-48/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "Gliese 48",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1272763
+    ],
+    "exo_id": "Gliese_48",
+    "st_optmag": 9.98,
+    "st_vj": 9.98,
+    "st_dist": 8.23366,
+    "st_j": 9.98,
+    "st_mass": 0.47,
+    "dec": 71.6781735,
+    "st_teff": 3450,
+    "st_rad": 0.463,
+    "ra": 15.6582402,
+    "system_radius": 26209546.824,
+    "pl_hostname": "Gliese_48",
+    "stellar_type": "M",
+    "tic_id": "TIC 379084450",
+    "magnitude": 9.98
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272688",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272763"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

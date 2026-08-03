@@ -1,0 +1,77 @@
+{
+  "id": 1272689,
+  "date": "2026-07-31T10:31:17",
+  "date_gmt": "2026-07-31T14:31:17",
+  "modified": "2026-07-31T10:31:17",
+  "modified_gmt": "2026-07-31T14:31:17",
+  "slug": "toi-2040",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2040/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2040",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cepheus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1272782
+    ],
+    "exo_id": "TOI-2040",
+    "st_optmag": 11.489,
+    "st_vj": 11.489,
+    "st_dist": 144.717,
+    "st_j": 11.489,
+    "st_mass": 0.92,
+    "dec": 71.5064737,
+    "st_teff": 5132,
+    "st_rad": 0.87,
+    "ra": 352.2747299,
+    "system_radius": 7075979.251,
+    "pl_hostname": "TOI-2040",
+    "stellar_type": "K",
+    "tic_id": "TIC 427730490",
+    "magnitude": 11.489
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272689",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272782"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

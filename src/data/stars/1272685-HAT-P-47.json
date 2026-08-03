@@ -1,0 +1,77 @@
+{
+  "id": 1272685,
+  "date": "2026-07-31T10:30:32",
+  "date_gmt": "2026-07-31T14:30:32",
+  "modified": "2026-07-31T10:30:32",
+  "modified_gmt": "2026-07-31T14:30:32",
+  "slug": "hat-p-47",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hat-p-47/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "HAT-P-47",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Aries",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1272754
+    ],
+    "exo_id": "HAT-P-47",
+    "st_optmag": 10.609,
+    "st_vj": 10.609,
+    "st_dist": 282.096,
+    "st_j": 10.609,
+    "st_mass": 1.387,
+    "dec": 30.360453,
+    "st_teff": 6703,
+    "st_rad": 1.515,
+    "ra": 38.3080745,
+    "system_radius": 149597870,
+    "pl_hostname": "HAT-P-47",
+    "stellar_type": "F",
+    "tic_id": "TIC 73448352",
+    "magnitude": 10.609
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272685",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272754"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

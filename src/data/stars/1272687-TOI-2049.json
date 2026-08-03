@@ -1,0 +1,77 @@
+{
+  "id": 1272687,
+  "date": "2026-07-31T10:30:40",
+  "date_gmt": "2026-07-31T14:30:40",
+  "modified": "2026-07-31T10:30:40",
+  "modified_gmt": "2026-07-31T14:30:40",
+  "slug": "toi-2049",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2049/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2049",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cassiopeia",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1272761
+    ],
+    "exo_id": "TOI-2049",
+    "st_optmag": 11.413,
+    "st_vj": 11.413,
+    "st_dist": 571.487,
+    "st_j": 11.413,
+    "st_mass": 1.57,
+    "dec": 56.694513,
+    "st_teff": 6164,
+    "st_rad": 3.2,
+    "ra": 346.9098199,
+    "system_radius": 10350676.6253,
+    "pl_hostname": "TOI-2049",
+    "stellar_type": "F",
+    "tic_id": "TIC 314835525",
+    "magnitude": 11.413
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272687",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272761"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

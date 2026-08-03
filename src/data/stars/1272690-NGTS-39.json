@@ -1,0 +1,77 @@
+{
+  "id": 1272690,
+  "date": "2026-07-31T10:31:18",
+  "date_gmt": "2026-07-31T14:31:18",
+  "modified": "2026-07-31T10:31:18",
+  "modified_gmt": "2026-07-31T14:31:18",
+  "slug": "ngts-39",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/ngts-39/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "NGTS-39",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Canis Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1272785
+    ],
+    "exo_id": "NGTS-39",
+    "st_optmag": 11.568,
+    "st_vj": 11.568,
+    "st_dist": 278.402,
+    "st_j": 11.568,
+    "st_mass": 1.16,
+    "dec": 9.9412647,
+    "st_teff": 6053,
+    "st_rad": 1.16,
+    "ra": 109.9386973,
+    "system_radius": 46031264.599,
+    "pl_hostname": "NGTS-39",
+    "stellar_type": "F",
+    "tic_id": "TIC 453147896",
+    "magnitude": 11.568
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272690",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272785"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

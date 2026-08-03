@@ -1,0 +1,79 @@
+{
+  "id": 1272785,
+  "date": "2026-07-31T12:58:58",
+  "date_gmt": "2026-07-31T16:58:58",
+  "modified": "2026-07-31T12:58:58",
+  "modified_gmt": "2026-07-31T16:58:58",
+  "slug": "ngts-39-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ngts-39-b/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "NGTS-39",
+    "pl_letter": "b",
+    "display_name": "NGTS-39 b",
+    "planet_radius": "1.088 x Jupiter",
+    "derived_description": "NGTS-39 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.467 Jupiters, it takes 58.2 days to complete one orbit of its star, and is 0.3077 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 278.402,
+    "planet_mass": "1.467 Jupiters",
+    "st_optmag": 11.568,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.3077,
+    "period_display": "58.2 days",
+    "eccentricity": "0.39",
+    "star_id": 1272690,
+    "pl_orbper": 58.20472,
+    "pl_kepflag": false,
+    "pl_radj": 1.088,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": 98.3,
+    "multiple_planet_system": false,
+    "pl_rade": 12.195371,
+    "exo_id": "NGTS-39_b",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.386
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272785",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272690"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

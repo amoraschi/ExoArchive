@@ -1,0 +1,77 @@
+{
+  "id": 1272686,
+  "date": "2026-07-31T10:30:33",
+  "date_gmt": "2026-07-31T14:30:33",
+  "modified": "2026-07-31T10:30:33",
+  "modified_gmt": "2026-07-31T14:30:33",
+  "slug": "toi-2578",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2578/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2578",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Perseus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1272756
+    ],
+    "exo_id": "TOI-2578",
+    "st_optmag": 11.353,
+    "st_vj": 11.353,
+    "st_dist": 285.53,
+    "st_j": 11.353,
+    "st_mass": 1.27,
+    "dec": 52.2526547,
+    "st_teff": 6333,
+    "st_rad": 1.64,
+    "ra": 68.0521023,
+    "system_radius": 7405094.565,
+    "pl_hostname": "TOI-2578",
+    "stellar_type": "F",
+    "tic_id": "TIC 104986789",
+    "magnitude": 11.353
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272686",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272756"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1272763,
+  "date": "2026-07-31T12:57:59",
+  "date_gmt": "2026-07-31T16:57:59",
+  "modified": "2026-07-31T12:57:59",
+  "modified_gmt": "2026-07-31T16:57:59",
+  "slug": "gliese-48-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gliese-48-b/",
+  "featured_media": 267560,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Gliese_48",
+    "pl_letter": "b",
+    "display_name": "Gliese 48 b",
+    "planet_radius": "0.247 x Jupiter (estimate)",
+    "derived_description": "Gliese 48 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 8.11 Earths, it takes 39.6 days to complete one orbit of its star, and is 0.1752 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Neptune-like",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Multiple Observatories",
+    "st_dist": 8.23366,
+    "planet_mass": "8.11 Earths",
+    "st_optmag": 9.98,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.1752,
+    "period_display": "39.6 days",
+    "eccentricity": "0.0",
+    "star_id": 1272688,
+    "pl_orbper": 39.6299,
+    "pl_kepflag": false,
+    "pl_radj": 0.247,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 2.77,
+    "exo_id": "Gliese_48_b",
+    "planet_size_class": "sub-Neptunian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1272763",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1272688"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267560"
+      }
+    ]
+  }
+}
