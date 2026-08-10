@@ -1793,6 +1793,21 @@ TOI-2040 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.781
 NGTS-39 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.467 Jupiters, it takes 58.2 days to complete one orbit of its star, and is 0.3077 AU from its star. Its discovery was announced in 2026.
 
 
+1274417-TOI-5628 A b.json
+110.03
+TOI-5628 A b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 28.60455663 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.0368 AU from its star. Its discovery was announced in 2026.
+
+
+1274421-HD 60779 b.json
+35.4445
+HD 60779 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 14.19 Earths, it takes 30 days to complete one orbit of its star, and is 0.1922 AU from its star. Its discovery was announced in 2026.
+
+
+1274422-HD 60779 c.json
+35.4445
+HD 60779 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 28.3 Earths, it takes 104.8 days to complete one orbit of its star, and is 0.44212438501814 AU from its star. Its discovery was announced in 2026.
+
+
 243385-11 Comae Berenices b.json
 93.1846
 11 Comae Berenices b is a gas giant exoplanet that orbits a K-type star. Its mass is 15.464 Jupiters, it takes 323.2 days to complete one orbit of its star, and is 1.178 AU from its star. Its discovery was announced in 2007.
@@ -3470,12 +3485,12 @@ HAT-P-16 b is a gas giant exoplanet that orbits a F-type star. Its mass is 4.221
 
 243730-HAT-P-17 b.json
 92.3831
-HAT-P-17 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.58 Jupiters, it takes 10.3 days to complete one orbit of its star, and is 0.0892 AU from its star. Its discovery was announced in 2012.
+HAT-P-17 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.58 Jupiters, it takes 10.3 days to complete one orbit of its star, and is 0.0892 AU from its star. Its discovery was announced in 2012.
 
 
 243731-HAT-P-17 c.json
 92.3831
-HAT-P-17 c is a gas giant exoplanet that orbits a G-type star. Its mass is 3.4 Jupiters, it takes 15.3 years to complete one orbit of its star, and is 5.6 AU from its star. Its discovery was announced in 2012.
+HAT-P-17 c is a gas giant exoplanet that orbits a K-type star. Its mass is 3.4 Jupiters, it takes 15.3 years to complete one orbit of its star, and is 5.6 AU from its star. Its discovery was announced in 2012.
 
 
 243732-HAT-P-18 b.json
@@ -7550,7 +7565,7 @@ HD 80606 b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.164
 
 244553-HD 80653 b.json
 109.86
-HD 80653 b is a super Earth exoplanet that orbits a G-type star. Its mass is 5.72 Earths, it takes 0.7 days to complete one orbit of its star, and is 0.01661 AU from its star. Its discovery was announced in 2020.
+HD 80653 b is a super Earth exoplanet that orbits a G-type star. Its mass is 5.61 Earths, it takes 0.7 days to complete one orbit of its star, and is 0.01657 AU from its star. Its discovery was announced in 2020.
 
 
 244554-HD 80869 b.json
@@ -9380,12 +9395,12 @@ K2-249 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 8.2 
 
 244925-K2-24 b.json
 170.562
-K2-24 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19 Earths, it takes 20.9 days to complete one orbit of its star, and is 0.154 AU from its star. Its discovery was announced in 2016.
+K2-24 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 20.6 Earths, it takes 20.9 days to complete one orbit of its star, and is 0.1673 AU from its star. Its discovery was announced in 2016.
 
 
 244926-K2-24 c.json
 170.562
-K2-24 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 15.4 Earths, it takes 42.3 days to complete one orbit of its star, and is 0.247 AU from its star. Its discovery was announced in 2016.
+K2-24 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 16.4 Earths, it takes 42.3 days to complete one orbit of its star, and is 0.262 AU from its star. Its discovery was announced in 2016.
 
 
 244927-K2-250 b.json
@@ -9715,7 +9730,7 @@ K2-30 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.579 Ju
 
 244993-K2-312 c.json
 109.86
-K2-312 c is a gas giant exoplanet that orbits a G-type star. Its mass is 5.41 Jupiters, it takes 2.5 years to complete one orbit of its star, and is 1.961 AU from its star. Its discovery was announced in 2023.
+K2-312 c is a gas giant exoplanet that orbits a G-type star. Its mass is 5.29 Jupiters, it takes 2.4 years to complete one orbit of its star, and is 1.882 AU from its star. Its discovery was announced in 2023.
 
 
 244994-K2-315 b.json
@@ -21235,17 +21250,17 @@ Kepler-519 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 
 
 247338-Kepler-51 b.json
 783.831
-Kepler-51 b is a Neptune-like exoplanet that orbits a F-type star. Its mass is 2.1 Earths, it takes 45.2 days to complete one orbit of its star, and is 0.2514 AU from its star. Its discovery was announced in 2012.
+Kepler-51 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 2.1 Earths, it takes 45.2 days to complete one orbit of its star, and is 0.2514 AU from its star. Its discovery was announced in 2012.
 
 
 247339-Kepler-51 c.json
 783.831
-Kepler-51 c is a Neptune-like exoplanet that orbits a F-type star. Its mass is 4 Earths, it takes 85.3 days to complete one orbit of its star, and is 0.384 AU from its star. Its discovery was announced in 2012.
+Kepler-51 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 4 Earths, it takes 85.3 days to complete one orbit of its star, and is 0.384 AU from its star. Its discovery was announced in 2012.
 
 
 247340-Kepler-51 d.json
 783.831
-Kepler-51 d is a Neptune-like exoplanet that orbits a F-type star. Its mass is 7.6 Earths, it takes 130.2 days to complete one orbit of its star, and is 0.509 AU from its star. Its discovery was announced in 2014.
+Kepler-51 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.6 Earths, it takes 130.2 days to complete one orbit of its star, and is 0.509 AU from its star. Its discovery was announced in 2014.
 
 
 247341-Kepler-520 b.json
@@ -25165,7 +25180,7 @@ LkCa 15 c is a unknown exoplanet that orbits a K-type star. Its mass is Unknown,
 
 248145-LP 714-47 b.json
 52.616
-LP 714-47 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 30.8 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.0417 AU from its star. Its discovery was announced in 2020.
+LP 714-47 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 28.38 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.04056 AU from its star. Its discovery was announced in 2020.
 
 
 248146-LP 791-18 b.json
@@ -29585,7 +29600,7 @@ Luhman 16 b is a gas giant exoplanet that orbits a Unknown-type star. Its mass i
 
 387746-TOI-4438 b.json
 30.0346
-TOI-4438 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 5.4 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.0534 AU from its star. Its discovery was announced in 2024.
+TOI-4438 b is a Neptune-like exoplanet that orbits a M-type star. Its mass is 4.11 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.0523 AU from its star. Its discovery was announced in 2024.
 
 
 387747-NGC 2682 Sand 1429 b.json
@@ -30600,7 +30615,7 @@ TOI-5005 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 32
 
 431001-Kepler-51 e.json
 783.831
-Kepler-51 e is a Neptune-like exoplanet that orbits a F-type star. Its mass is 5.4 Earths, it takes 264.3 days to complete one orbit of its star, and is 0.7950707944733 AU from its star. Its discovery was announced in 2024.
+Kepler-51 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.4 Earths, it takes 264.3 days to complete one orbit of its star, and is 0.7950707944733 AU from its star. Its discovery was announced in 2024.
 
 
 431007-TOI-1883 b.json
@@ -30760,12 +30775,12 @@ HD 86728 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 9.
 
 443843-TOI-4504 c.json
 342.605
-TOI-4504 c is a gas giant exoplanet that orbits a G-type star. Its mass is 3.7672 Jupiters, it takes 83 days to complete one orbit of its star, and is 0.3569 AU from its star. Its discovery was announced in 2024.
+TOI-4504 c is a gas giant exoplanet that orbits a G-type star. Its mass is 2.58 Jupiters, it takes 82.8 days to complete one orbit of its star, and is 0.3593 AU from its star. Its discovery was announced in 2024.
 
 
 443844-TOI-4504 b.json
 342.605
-TOI-4504 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.71 Earths, it takes 2.4 days to complete one orbit of its star, and is 0.03392 AU from its star. Its discovery was announced in 2024.
+TOI-4504 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 0.45 Jupiters, it takes 2.4 days to complete one orbit of its star, and is 0.0338 AU from its star. Its discovery was announced in 2024.
 
 
 443845-TOI-5688 A b.json
@@ -30795,7 +30810,7 @@ KMT-2023-BLG-1743L b is a gas giant exoplanet that orbits a Unknown-type star. I
 
 443851-TOI-4504 d.json
 342.605
-TOI-4504 d is a gas giant exoplanet that orbits a G-type star. Its mass is 1.4166 Jupiters, it takes 40.6 days to complete one orbit of its star, and is 0.2219 AU from its star. Its discovery was announced in 2024.
+TOI-4504 d is a gas giant exoplanet that orbits a G-type star. Its mass is 2.02 Jupiters, it takes 41.3 days to complete one orbit of its star, and is 0.2219 AU from its star. Its discovery was announced in 2024.
 
 
 446280-TOI-1295 b.json

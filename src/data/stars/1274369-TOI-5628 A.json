@@ -1,0 +1,77 @@
+{
+  "id": 1274369,
+  "date": "2026-08-07T10:45:12",
+  "date_gmt": "2026-08-07T14:45:12",
+  "modified": "2026-08-07T10:45:12",
+  "modified_gmt": "2026-08-07T14:45:12",
+  "slug": "toi-5628-a",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5628-a/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5628 A",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Coma Berenices",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1274417
+    ],
+    "exo_id": "TOI-5628_A",
+    "st_optmag": 17.75,
+    "st_vj": 17.75,
+    "st_dist": 110.03,
+    "st_j": 17.75,
+    "st_mass": 0.36,
+    "dec": 18.8367047,
+    "st_teff": 3310,
+    "st_rad": 0.35,
+    "ra": 185.7279551,
+    "system_radius": 5505201.616,
+    "pl_hostname": "TOI-5628_A",
+    "stellar_type": "M",
+    "tic_id": "TIC 135100529",
+    "magnitude": 17.75
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1274369",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1274417"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}
