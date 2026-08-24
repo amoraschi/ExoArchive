@@ -1,0 +1,77 @@
+{
+  "id": 1278708,
+  "date": "2026-08-21T11:12:14",
+  "date_gmt": "2026-08-21T15:12:14",
+  "modified": "2026-08-21T11:12:14",
+  "modified_gmt": "2026-08-21T15:12:14",
+  "slug": "toi-7265-b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-7265-b/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-7265 B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278896
+    ],
+    "exo_id": "TOI-7265_B",
+    "st_optmag": 14.265,
+    "st_vj": 14.265,
+    "st_dist": 143.97,
+    "st_j": 14.265,
+    "st_mass": 0.521,
+    "dec": 45.9259093,
+    "st_teff": 3503,
+    "st_rad": 0.497,
+    "ra": 318.7040182,
+    "system_radius": 5994386.6509,
+    "pl_hostname": "TOI-7265_B",
+    "stellar_type": "M",
+    "tic_id": "TIC 275717567",
+    "magnitude": 14.265
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278708",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278896"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1278702,
+  "date": "2026-08-21T11:12:11",
+  "date_gmt": "2026-08-21T15:12:11",
+  "modified": "2026-08-21T11:12:11",
+  "modified_gmt": "2026-08-21T15:12:11",
+  "slug": "toi-603",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-603/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-603",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278889
+    ],
+    "exo_id": "TOI-603",
+    "st_optmag": 10.312,
+    "st_vj": 10.312,
+    "st_dist": 205.924,
+    "st_j": 10.312,
+    "st_mass": 1.24,
+    "dec": 5.7660562,
+    "st_teff": 6027,
+    "st_rad": 1.477,
+    "ra": 141.1078542,
+    "system_radius": 19178446.934,
+    "pl_hostname": "TOI-603",
+    "stellar_type": "F",
+    "tic_id": "TIC 262746281",
+    "magnitude": 10.312
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278702",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278889"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

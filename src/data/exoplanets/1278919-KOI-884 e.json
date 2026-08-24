@@ -1,0 +1,79 @@
+{
+  "id": 1278919,
+  "date": "2026-08-21T13:45:58",
+  "date_gmt": "2026-08-21T17:45:58",
+  "modified": "2026-08-21T13:45:58",
+  "modified_gmt": "2026-08-21T17:45:58",
+  "slug": "koi-884-e",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/koi-884-e/",
+  "featured_media": 271855,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Kepler-247",
+    "pl_letter": "e",
+    "display_name": "KOI-884 e",
+    "planet_radius": "1.18 x Jupiter (estimate)",
+    "derived_description": "KOI-884 e is a gas giant exoplanet that orbits a K-type star. Its mass is 2.42 Jupiters, it takes 59.9 days to complete one orbit of its star, and is 0.28769382022711 AU from its star. Its discovery was announced in 2014.",
+    "planet_type": "Gas Giant",
+    "pl_discmethod": "Transit Timing Variations",
+    "pl_facility": "Kepler",
+    "st_dist": 663.711,
+    "planet_mass": "2.42 Jupiters",
+    "st_optmag": 15.199,
+    "discovery_date": "2014",
+    "pl_orbsmax": "",
+    "period_display": "59.9 days",
+    "eccentricity": "0.04",
+    "star_id": 260846,
+    "pl_orbper": 59.947,
+    "pl_kepflag": true,
+    "pl_radj": 1.18,
+    "pl_disc": 2014,
+    "pl_publ_date": "2014",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 13.3,
+    "exo_id": "KOI-884_e",
+    "planet_size_class": "Jovian",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0.0415
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278919",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/260846"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271855"
+      }
+    ]
+  }
+}

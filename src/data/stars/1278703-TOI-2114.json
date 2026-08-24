@@ -1,0 +1,77 @@
+{
+  "id": 1278703,
+  "date": "2026-08-21T11:12:12",
+  "date_gmt": "2026-08-21T15:12:12",
+  "modified": "2026-08-21T11:12:12",
+  "modified_gmt": "2026-08-21T15:12:12",
+  "slug": "toi-2114",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2114/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2114",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278890
+    ],
+    "exo_id": "TOI-2114",
+    "st_optmag": 10.265,
+    "st_vj": 10.265,
+    "st_dist": 317.845,
+    "st_j": 10.265,
+    "st_mass": 1.309,
+    "dec": 33.2050726,
+    "st_teff": 6400,
+    "st_rad": 1.97,
+    "ra": 261.0963946,
+    "system_radius": 11369438.12,
+    "pl_hostname": "TOI-2114",
+    "stellar_type": "F",
+    "tic_id": "TIC 9828416",
+    "magnitude": 10.265
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278703",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278890"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

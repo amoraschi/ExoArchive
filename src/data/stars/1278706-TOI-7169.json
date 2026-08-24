@@ -1,0 +1,77 @@
+{
+  "id": 1278706,
+  "date": "2026-08-21T11:12:13",
+  "date_gmt": "2026-08-21T15:12:13",
+  "modified": "2026-08-21T11:12:13",
+  "modified_gmt": "2026-08-21T15:12:13",
+  "slug": "toi-7169",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-7169/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-7169",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278894
+    ],
+    "exo_id": "TOI-7169",
+    "st_optmag": 12.088,
+    "st_vj": 12.088,
+    "st_dist": 467.151,
+    "st_j": 12.088,
+    "st_mass": 0.885,
+    "dec": 36.8175661,
+    "st_teff": 5714,
+    "st_rad": 1.5,
+    "ra": 351.0546897,
+    "system_radius": 6402788.836,
+    "pl_hostname": "TOI-7169",
+    "stellar_type": "G",
+    "tic_id": "TIC 372048733",
+    "magnitude": 12.088
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278706",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278894"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

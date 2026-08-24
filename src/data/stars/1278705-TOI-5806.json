@@ -1,0 +1,77 @@
+{
+  "id": 1278705,
+  "date": "2026-08-21T11:12:13",
+  "date_gmt": "2026-08-21T15:12:13",
+  "modified": "2026-08-21T11:12:13",
+  "modified_gmt": "2026-08-21T15:12:13",
+  "slug": "toi-5806",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5806/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5806",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pegasus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278892
+    ],
+    "exo_id": "TOI-5806",
+    "st_optmag": 8.703,
+    "st_vj": 8.703,
+    "st_dist": 119.199,
+    "st_j": 8.703,
+    "st_mass": 1.333,
+    "dec": 20.6779808,
+    "st_teff": 6730,
+    "st_rad": 1.387,
+    "ra": 329.1018029,
+    "system_radius": 7240536.908,
+    "pl_hostname": "TOI-5806",
+    "stellar_type": "F",
+    "tic_id": "TIC 283621618",
+    "magnitude": 8.703
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278705",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278892"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

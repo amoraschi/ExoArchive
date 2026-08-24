@@ -1,0 +1,79 @@
+{
+  "id": 1278901,
+  "date": "2026-08-21T13:45:32",
+  "date_gmt": "2026-08-21T17:45:32",
+  "modified": "2026-08-21T13:45:32",
+  "modified_gmt": "2026-08-21T17:45:32",
+  "slug": "gl-725-b-c",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/gl-725-b-c/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "Gl_725_B",
+    "pl_letter": "c",
+    "display_name": "Gl 725 B c",
+    "planet_radius": "1.66 x Earth (estimate)",
+    "derived_description": "Gl 725 B c is a super Earth exoplanet that orbits a M-type star. Its mass is 3.4 Earths, it takes 37.9 days to complete one orbit of its star, and is 0.139 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Radial Velocity",
+    "pl_facility": "Mauna Kea Observatory",
+    "st_dist": 6.842357,
+    "planet_mass": "3.4 Earths",
+    "st_optmag": 9.7,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.139,
+    "period_display": "37.9 days",
+    "eccentricity": "",
+    "star_id": 1278712,
+    "pl_orbper": 37.9,
+    "pl_kepflag": false,
+    "pl_radj": 0.148,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.66,
+    "exo_id": "Gl_725_B_c",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278901",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278712"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

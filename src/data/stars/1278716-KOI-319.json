@@ -1,0 +1,82 @@
+{
+  "id": 1278716,
+  "date": "2026-08-21T11:12:33",
+  "date_gmt": "2026-08-21T15:12:33",
+  "modified": "2026-08-21T11:12:33",
+  "modified_gmt": "2026-08-21T15:12:33",
+  "slug": "koi-319",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/koi-319/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KOI-319",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278915,
+      1278916
+    ],
+    "exo_id": "KOI-319",
+    "st_optmag": 12.675,
+    "st_vj": 12.675,
+    "st_dist": 660.138,
+    "st_j": 12.675,
+    "st_mass": 1.325,
+    "dec": 44.8729586,
+    "st_teff": 5880,
+    "st_rad": 2.064,
+    "ra": 290.117498,
+    "system_radius": 39912711.716,
+    "pl_hostname": "KOI-319",
+    "stellar_type": "G",
+    "tic_id": "TIC 159303995",
+    "magnitude": 12.675
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278716",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278916"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278915"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

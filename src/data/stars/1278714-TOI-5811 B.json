@@ -1,0 +1,77 @@
+{
+  "id": 1278714,
+  "date": "2026-08-21T11:12:20",
+  "date_gmt": "2026-08-21T15:12:20",
+  "modified": "2026-08-21T11:12:20",
+  "modified_gmt": "2026-08-21T15:12:20",
+  "slug": "toi-5811-b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5811-b/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5811 B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Delphinus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278905
+    ],
+    "exo_id": "TOI-5811_B",
+    "st_optmag": 8.85,
+    "st_vj": 8.85,
+    "st_dist": 170.135,
+    "st_j": 8.85,
+    "st_mass": 1.08,
+    "dec": 19.729168,
+    "st_teff": 4840,
+    "st_rad": 3.73,
+    "ra": 310.9101344,
+    "system_radius": 10935604.297,
+    "pl_hostname": "TOI-5811_B",
+    "stellar_type": "K",
+    "tic_id": "TIC 331484427",
+    "magnitude": 8.85
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278714",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278905"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

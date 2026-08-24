@@ -2,8 +2,8 @@
   "id": 263325,
   "date": "2023-11-28T21:02:14",
   "date_gmt": "2023-11-29T02:02:14",
-  "modified": "2025-04-23T05:56:56",
-  "modified_gmt": "2025-04-23T09:56:56",
+  "modified": "2026-08-21T11:12:09",
+  "modified_gmt": "2026-08-21T15:12:09",
   "slug": "hd_202206",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_202206/",
@@ -21,20 +21,21 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      244224
-    ],
+    "planet_ids": {
+      "0": 1278899,
+      "1": 244224
+    },
     "exo_id": "HD_202206",
     "st_optmag": 8.08,
     "st_vj": 8.08,
     "st_dist": 45.9665,
     "st_j": 8.08,
-    "st_mass": 1.07,
+    "st_mass": 1.06,
     "dec": -20.7897284,
-    "st_teff": 5766,
+    "st_teff": 5764.23,
     "st_rad": 1.04,
     "ra": 318.7405221,
-    "system_radius": 360530866.7,
+    "system_radius": 357538909.3,
     "pl_hostname": "HD_202206",
     "stellar_type": "G",
     "tic_id": "TIC 24294415",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278899"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244224"

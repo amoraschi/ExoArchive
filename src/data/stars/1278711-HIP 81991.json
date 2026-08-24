@@ -1,0 +1,77 @@
+{
+  "id": 1278711,
+  "date": "2026-08-21T11:12:14",
+  "date_gmt": "2026-08-21T15:12:14",
+  "modified": "2026-08-21T11:12:14",
+  "modified_gmt": "2026-08-21T15:12:14",
+  "slug": "hip-81991",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hip-81991/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "HIP 81991",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278900
+    ],
+    "exo_id": "HIP_81991",
+    "st_optmag": 6.56168,
+    "st_vj": 6.56168,
+    "st_dist": 43.9016,
+    "st_j": 6.56168,
+    "st_mass": 1.09,
+    "dec": 6.087048,
+    "st_teff": 5100,
+    "st_rad": 2.82111,
+    "ra": 251.2490143,
+    "system_radius": 957426368,
+    "pl_hostname": "HIP_81991",
+    "stellar_type": "K",
+    "tic_id": "TIC 276855687",
+    "magnitude": 6.56168
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278711",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278900"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

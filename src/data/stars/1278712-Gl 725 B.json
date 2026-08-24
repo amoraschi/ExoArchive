@@ -1,0 +1,77 @@
+{
+  "id": 1278712,
+  "date": "2026-08-21T11:12:14",
+  "date_gmt": "2026-08-21T15:12:14",
+  "modified": "2026-08-21T11:12:14",
+  "modified_gmt": "2026-08-21T15:12:14",
+  "slug": "gl-725-b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/gl-725-b/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "Gl 725 B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278901
+    ],
+    "exo_id": "Gl_725_B",
+    "st_optmag": 9.7,
+    "st_vj": 9.7,
+    "st_dist": 6.842357,
+    "st_j": 9.7,
+    "st_mass": 0.25,
+    "dec": 59.62706,
+    "st_teff": 3379,
+    "st_rad": 0.28,
+    "ra": 280.695353,
+    "system_radius": 20794103.93,
+    "pl_hostname": "Gl_725_B",
+    "stellar_type": "M",
+    "tic_id": "TIC 392572237",
+    "magnitude": 9.7
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278712",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278901"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

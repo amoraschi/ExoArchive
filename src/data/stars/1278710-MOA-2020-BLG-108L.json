@@ -1,0 +1,77 @@
+{
+  "id": 1278710,
+  "date": "2026-08-21T11:12:14",
+  "date_gmt": "2026-08-21T15:12:14",
+  "modified": "2026-08-21T11:12:14",
+  "modified_gmt": "2026-08-21T15:12:14",
+  "slug": "moa-2020-blg-108l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/moa-2020-blg-108l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "MOA-2020-BLG-108L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sagittarius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1278898
+    ],
+    "exo_id": "MOA-2020-BLG-108L",
+    "st_optmag": 26.34,
+    "st_vj": 26.34,
+    "st_dist": 5130,
+    "st_j": 26.34,
+    "st_mass": 0.58,
+    "dec": -26.9165083,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 269.7155833,
+    "system_radius": 552016140.3,
+    "pl_hostname": "MOA-2020-BLG-108L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 26.34
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1278710",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1278898"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}
