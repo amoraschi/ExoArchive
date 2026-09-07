@@ -1,0 +1,77 @@
+{
+  "id": 1284544,
+  "date": "2026-09-04T11:40:13",
+  "date_gmt": "2026-09-04T15:40:13",
+  "modified": "2026-09-04T11:40:13",
+  "modified_gmt": "2026-09-04T15:40:13",
+  "slug": "toi-3278",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3278/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3278",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pavo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1285128
+    ],
+    "exo_id": "TOI-3278",
+    "st_optmag": 14.161,
+    "st_vj": 14.161,
+    "st_dist": 904.752,
+    "st_j": 14.161,
+    "st_mass": 1.04,
+    "dec": -62.0948769,
+    "st_teff": 5720,
+    "st_rad": 1.39,
+    "ra": 291.8668611,
+    "system_radius": 6432708.41,
+    "pl_hostname": "TOI-3278",
+    "stellar_type": "G",
+    "tic_id": "TIC 304130406",
+    "magnitude": 14.161
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1284544",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1285128"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

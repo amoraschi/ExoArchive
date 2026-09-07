@@ -1,0 +1,77 @@
+{
+  "id": 1284543,
+  "date": "2026-09-04T11:40:10",
+  "date_gmt": "2026-09-04T15:40:10",
+  "modified": "2026-09-04T11:40:10",
+  "modified_gmt": "2026-09-04T15:40:10",
+  "slug": "toi-3053",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3053/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3053",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Carina",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1285121
+    ],
+    "exo_id": "TOI-3053",
+    "st_optmag": 13.108,
+    "st_vj": 13.108,
+    "st_dist": 337.627,
+    "st_j": 13.108,
+    "st_mass": 0.96,
+    "dec": -64.2969041,
+    "st_teff": 5378,
+    "st_rad": 0.97,
+    "ra": 148.5732223,
+    "system_radius": 5834316.93,
+    "pl_hostname": "TOI-3053",
+    "stellar_type": "G",
+    "tic_id": "TIC 269859655",
+    "magnitude": 13.108
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1284543",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1285121"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

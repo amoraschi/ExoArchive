@@ -1,0 +1,77 @@
+{
+  "id": 1284545,
+  "date": "2026-09-04T11:40:17",
+  "date_gmt": "2026-09-04T15:40:17",
+  "modified": "2026-09-04T11:40:17",
+  "modified_gmt": "2026-09-04T15:40:17",
+  "slug": "toi-4409",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4409/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4409",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pictor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1285129
+    ],
+    "exo_id": "TOI-4409",
+    "st_optmag": 12.691,
+    "st_vj": 12.691,
+    "st_dist": 179.419,
+    "st_j": 12.691,
+    "st_mass": 0.763,
+    "dec": -54.946098,
+    "st_teff": 4928,
+    "st_rad": 0.72,
+    "ra": 81.8186583,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4409",
+    "stellar_type": "K",
+    "tic_id": "TIC 382200986",
+    "magnitude": 12.691
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1284545",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1285129"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

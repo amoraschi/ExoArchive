@@ -1,0 +1,77 @@
+{
+  "id": 1284547,
+  "date": "2026-09-04T11:40:18",
+  "date_gmt": "2026-09-04T15:40:18",
+  "modified": "2026-09-04T11:40:18",
+  "modified_gmt": "2026-09-04T15:40:18",
+  "slug": "kmt-2025-blg-1160l",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2025-blg-1160l/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "KMT-2025-BLG-1160L",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Scorpius",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1285135
+    ],
+    "exo_id": "KMT-2025-BLG-1160L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 6580,
+    "st_j": "",
+    "st_mass": 0.58,
+    "dec": -30.7249194,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 268.8604583,
+    "system_radius": 382970547.2,
+    "pl_hostname": "KMT-2025-BLG-1160L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1284547",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1285135"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

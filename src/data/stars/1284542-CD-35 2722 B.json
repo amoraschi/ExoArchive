@@ -1,0 +1,71 @@
+{
+  "id": 1284542,
+  "date": "2026-09-04T11:40:07",
+  "date_gmt": "2026-09-04T15:40:07",
+  "modified": "2026-09-04T11:40:07",
+  "modified_gmt": "2026-09-04T15:40:07",
+  "slug": "cd-35-2722-b",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/cd-35-2722-b/",
+  "featured_media": 0,
+  "categories": [],
+  "acf": {
+    "display_name": "CD-35 2722 B",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Columba",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1285119
+    ],
+    "exo_id": "CD-35_2722_B",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": "",
+    "st_j": "",
+    "st_mass": 0.035,
+    "dec": -35.8255389,
+    "st_teff": 1800,
+    "st_rad": 0.159,
+    "ra": 92.33,
+    "system_radius": 29919574,
+    "pl_hostname": "CD-35_2722_B",
+    "stellar_type": "L",
+    "tic_id": "",
+    "magnitude": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1284542",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1285119"
+      }
+    ]
+  }
+}

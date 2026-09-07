@@ -21,9 +21,7 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      1183982
-    ],
+    "planet_ids": [],
     "exo_id": "CD-35_2722",
     "st_optmag": 11.041,
     "st_vj": 11.041,
@@ -59,12 +57,6 @@
     "about": [
       {
         "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
-      }
-    ],
-    "acf:post": [
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1183982"
       }
     ],
     "wp:featuredmedia": [
