@@ -1,19 +1,19 @@
 {
-  "id": 263950,
-  "date": "2023-11-28T21:10:17",
-  "date_gmt": "2023-11-29T02:10:17",
-  "modified": "2026-09-13T11:59:50",
-  "modified_gmt": "2026-09-13T15:59:50",
-  "slug": "hd_33564",
+  "id": 1324744,
+  "date": "2026-09-12T11:56:27",
+  "date_gmt": "2026-09-12T15:56:27",
+  "modified": "2026-09-12T11:56:27",
+  "modified_gmt": "2026-09-12T15:56:27",
+  "slug": "hd-715",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd_33564/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-715/",
   "featured_media": 429647,
   "categories": [],
   "acf": {
-    "display_name": "HD 33564",
-    "custom_star_title": "HD 33564",
-    "aliases": "HR 1686,GJ 196",
-    "constellation": "Camelopardalis",
+    "display_name": "HD 715",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      244401
+      1325088
     ],
-    "exo_id": "HD_33564",
-    "st_optmag": 5.08,
-    "st_vj": 5.08,
-    "st_dist": 20.7858,
-    "st_j": 5.08,
-    "st_mass": 1.21,
-    "dec": 79.2311507,
-    "st_teff": 6354,
-    "st_rad": 1.496,
-    "ra": 80.6397108,
-    "system_radius": 164557657,
-    "pl_hostname": "HD_33564",
+    "exo_id": "HD_715",
+    "st_optmag": 8.703,
+    "st_vj": 8.703,
+    "st_dist": 167.253,
+    "st_j": 8.703,
+    "st_mass": 1.6,
+    "dec": 4.7672123,
+    "st_teff": 6070,
+    "st_rad": 2.5,
+    "ra": 2.8927229,
+    "system_radius": 50264884.32,
+    "pl_hostname": "HD_715",
     "stellar_type": "F",
-    "tic_id": "TIC 142103211",
-    "magnitude": 5.1
+    "tic_id": "TIC 272125414",
+    "magnitude": 8.703
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/263950",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1324744",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244401"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1325088"
       }
     ],
     "wp:featuredmedia": [
