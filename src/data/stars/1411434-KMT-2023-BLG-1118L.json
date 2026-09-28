@@ -1,19 +1,19 @@
 {
-  "id": 1189847,
-  "date": "2026-01-08T01:10:56",
-  "date_gmt": "2026-01-08T06:10:56",
-  "modified": "2026-09-27T12:28:32",
-  "modified_gmt": "2026-09-27T16:28:32",
-  "slug": "hd-141004",
+  "id": 1411434,
+  "date": "2026-09-26T12:26:25",
+  "date_gmt": "2026-09-26T16:26:25",
+  "modified": "2026-09-26T12:26:25",
+  "modified_gmt": "2026-09-26T16:26:25",
+  "slug": "kmt-2023-blg-1118l",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-141004/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-1118l/",
   "featured_media": 429648,
   "categories": [],
   "acf": {
-    "display_name": "Lambda Serpentis",
+    "display_name": "KMT-2023-BLG-1118L",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Serpens",
+    "constellation": "Sagittarius",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -22,28 +22,28 @@
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
     "planet_ids": [
-      244025
+      1406746
     ],
-    "exo_id": "HD_141004",
-    "st_optmag": 4.422,
-    "st_vj": 4.422,
-    "st_dist": 11.9159,
-    "st_j": 4.422,
-    "st_mass": 1.09,
-    "dec": 7.3530687,
-    "st_teff": 5898,
-    "st_rad": 1.356,
-    "ra": 236.6108925,
-    "system_radius": 18520216.306,
-    "pl_hostname": "HD_141004",
-    "stellar_type": "G",
-    "tic_id": "TIC 296740796",
-    "magnitude": 4.4
+    "exo_id": "KMT-2023-BLG-1118L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7200,
+    "st_j": "",
+    "st_mass": 0.09,
+    "dec": -26.2726694,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 272.6143333,
+    "system_radius": 134638083,
+    "pl_hostname": "KMT-2023-BLG-1118L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189847",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1411434",
         "targetHints": {
           "allow": [
             "GET"
@@ -64,7 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244025"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1406746"
       }
     ],
     "wp:featuredmedia": [

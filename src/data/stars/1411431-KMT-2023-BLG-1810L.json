@@ -1,19 +1,19 @@
 {
-  "id": 1215185,
-  "date": "2026-04-24T07:16:18",
-  "date_gmt": "2026-04-24T11:16:18",
+  "id": 1411431,
+  "date": "2026-09-26T12:25:22",
+  "date_gmt": "2026-09-26T16:25:22",
   "modified": "2026-09-26T12:25:22",
   "modified_gmt": "2026-09-26T16:25:22",
-  "slug": "toi-1839",
+  "slug": "kmt-2023-blg-1810l",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1839/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/kmt-2023-blg-1810l/",
   "featured_media": 429648,
   "categories": [],
   "acf": {
-    "display_name": "TOI-1839",
+    "display_name": "KMT-2023-BLG-1810L",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Virgo",
+    "constellation": "Sagittarius",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -21,30 +21,29 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": {
-      "0": 1215350,
-      "1": 1215298
-    },
-    "exo_id": "TOI-1839",
-    "st_optmag": 10.9,
-    "st_vj": 10.9,
-    "st_dist": 116.086,
-    "st_j": 10.9,
-    "st_mass": 0.86,
-    "dec": 5.8520458,
-    "st_teff": 5347,
-    "st_rad": 0.89,
-    "ra": 196.8331106,
-    "system_radius": 7043067.7196,
-    "pl_hostname": "TOI-1839",
-    "stellar_type": "G",
-    "tic_id": "TIC 381714186",
-    "magnitude": 10.9
+    "planet_ids": [
+      1406719
+    ],
+    "exo_id": "KMT-2023-BLG-1810L",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 7000,
+    "st_j": "",
+    "st_mass": 0.56,
+    "dec": -30.2776111,
+    "st_teff": "",
+    "st_rad": "",
+    "ra": 270.6147083,
+    "system_radius": 508632758,
+    "pl_hostname": "KMT-2023-BLG-1810L",
+    "stellar_type": "Unknown",
+    "tic_id": "",
+    "magnitude": 0
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1215185",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1411431",
         "targetHints": {
           "allow": [
             "GET"
@@ -65,11 +64,7 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215350"
-      },
-      {
-        "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1215298"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1406719"
       }
     ],
     "wp:featuredmedia": [

@@ -1,19 +1,19 @@
 {
-  "id": 1189839,
-  "date": "2026-01-08T01:10:24",
-  "date_gmt": "2026-01-08T06:10:24",
-  "modified": "2026-09-27T12:28:32",
-  "modified_gmt": "2026-09-27T16:28:32",
-  "slug": "hd-140901",
+  "id": 1411433,
+  "date": "2026-09-26T12:25:39",
+  "date_gmt": "2026-09-26T16:25:39",
+  "modified": "2026-09-26T12:25:39",
+  "modified_gmt": "2026-09-26T16:25:39",
+  "slug": "toi-426",
   "type": "star",
-  "link": "https://science.nasa.gov/exoplanets/star-catalog/hd-140901/",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-426/",
   "featured_media": 429648,
   "categories": [],
   "acf": {
-    "display_name": "HD 140901 A",
+    "display_name": "TOI-426",
     "custom_star_title": "",
     "aliases": "",
-    "constellation": "Lupus",
+    "constellation": "Lepus",
     "custom_star_description": "",
     "tagline": "",
     "pop_culture": "",
@@ -21,30 +21,30 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      244023,
-      244024
-    ],
-    "exo_id": "HD_140901",
-    "st_optmag": 6.012,
-    "st_vj": 6.012,
-    "st_dist": 15.2465,
-    "st_j": 6.012,
-    "st_mass": 0.96,
-    "dec": -37.9163119,
-    "st_teff": 5602,
-    "st_rad": 0.959,
-    "ra": 236.8712542,
-    "system_radius": 1765254866,
-    "pl_hostname": "HD_140901",
+    "planet_ids": {
+      "0": 1406734,
+      "1": 1406733
+    },
+    "exo_id": "TOI-426",
+    "st_optmag": 10.116,
+    "st_vj": 10.116,
+    "st_dist": 113.59,
+    "st_j": 10.116,
+    "st_mass": 1,
+    "dec": -15.5102418,
+    "st_teff": 5750,
+    "st_rad": 0.99,
+    "ra": 79.1021932,
+    "system_radius": 111749608.89,
+    "pl_hostname": "TOI-426",
     "stellar_type": "G",
-    "tic_id": "TIC 179348425",
-    "magnitude": 6
+    "tic_id": "TIC 189013224",
+    "magnitude": 10.116
   },
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1189839",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1411433",
         "targetHints": {
           "allow": [
             "GET"
@@ -65,11 +65,11 @@
     "acf:post": [
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244024"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1406734"
       },
       {
         "embeddable": true,
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/244023"
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1406733"
       }
     ],
     "wp:featuredmedia": [

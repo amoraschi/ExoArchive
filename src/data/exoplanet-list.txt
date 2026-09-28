@@ -1035,7 +1035,7 @@ TOI-1814 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 23
 
 1215298-TOI-1839 b.json
 116.086
-TOI-1839 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.56 Earths, it takes 1.4 days to complete one orbit of its star, and is 0.024211029461177 AU from its star. Its discovery was announced in 2026.
+TOI-1839 b is a super Earth exoplanet that orbits a G-type star. Its mass is 7.1 Earths, it takes 1.4 days to complete one orbit of its star, and is 0.02355 AU from its star. Its discovery was announced in 2026.
 
 
 1215299-TOI-1873 b.json
@@ -1295,7 +1295,7 @@ TOI-7333 b is a super Earth exoplanet that orbits a K-type star. Its mass is 5.0
 
 1215350-TOI-1839 c.json
 116.086
-TOI-1839 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.39 Earths, it takes 4 days to complete one orbit of its star, and is 0.048396950061615 AU from its star. Its discovery was announced in 2026.
+TOI-1839 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6 Earths, it takes 4 days to complete one orbit of its star, and is 0.04708 AU from its star. Its discovery was announced in 2026.
 
 
 1215351-TIC 18942729 b.json
@@ -1961,6 +1961,36 @@ KMT-2025-BLG-0030L b is a gas giant exoplanet that orbits a Unknown-type star. I
 1325096-KMT-2025-BLG-2272L b.json
 6620
 KMT-2025-BLG-2272L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 2.47 Jupiters, it takes 9.7 years to complete one orbit of its star, and is 3.89 AU from its star. Its discovery was announced in 2026.
+
+
+1406719-KMT-2023-BLG-1810L b.json
+7000
+KMT-2023-BLG-1810L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 7.24 Jupiters, it takes 8.4 years to complete one orbit of its star, and is 3.4 AU from its star. Its discovery was announced in 2026.
+
+
+1406720-KMT-2023-BLG-0084L b.json
+4000
+KMT-2023-BLG-0084L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 2.5 Jupiters, it takes 8.2 years to complete one orbit of its star, and is 2.5 AU from its star. Its discovery was announced in 2026.
+
+
+1406728-K2-232 c.json
+130.72
+K2-232 c is a gas giant exoplanet that orbits a F-type star. Its mass is 5.31 Jupiters, it takes 5.3 years to complete one orbit of its star, and is 3.17 AU from its star. Its discovery was announced in 2026.
+
+
+1406733-TOI-426 b.json
+113.59
+TOI-426 b is a super Earth exoplanet that orbits a G-type star. Its mass is 6.7 Earths, it takes 1.3 days to complete one orbit of its star, and is 0.02374 AU from its star. Its discovery was announced in 2026.
+
+
+1406734-TOI-426 c.json
+113.59
+TOI-426 c is a gas giant exoplanet that orbits a G-type star. Its mass is 1.39698023 Jupiters, it takes 235.8 days to complete one orbit of its star, and is 0.747 AU from its star. Its discovery was announced in 2026.
+
+
+1406746-KMT-2023-BLG-1118L b.json
+7200
+KMT-2023-BLG-1118L b is a gas giant exoplanet that orbits a Unknown-type star. Its mass is 0.21 Jupiters, it takes 2.8 years to complete one orbit of its star, and is 0.9 AU from its star. Its discovery was announced in 2026.
 
 
 243385-11 Comae Berenices b.json
@@ -2905,7 +2935,7 @@ gam1 Leonis b is a gas giant exoplanet that orbits a K-type star. Its mass is 8.
 
 243580-Gamma Cephei b.json
 14.1024
-Gamma Cephei b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.6 Jupiters, it takes 2.5 years to complete one orbit of its star, and is 2.13 AU from its star. Its discovery was announced in 2003.
+Gamma Cephei b is a gas giant exoplanet that orbits a K-type star. Its mass is 9.4 Jupiters, it takes 2.5 years to complete one orbit of its star, and is 1.978 AU from its star. Its discovery was announced in 2003.
 
 
 243581-Gamma Librae b.json
@@ -4075,7 +4105,7 @@ HATS-33 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.192 
 
 243817-HATS-34 b.json
 508.842
-HATS-34 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.941 Jupiters, it takes 2.1 days to complete one orbit of its star, and is 0.03166 AU from its star. Its discovery was announced in 2016.
+HATS-34 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.951 Jupiters, it takes 2.1 days to complete one orbit of its star, and is 0.03165 AU from its star. Its discovery was announced in 2016.
 
 
 243818-HATS-35 b.json
@@ -4140,7 +4170,7 @@ HATS-45 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.7 Ju
 
 243830-HATS-46 b.json
 453.808
-HATS-46 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.173 Jupiters, it takes 4.7 days to complete one orbit of its star, and is 0.05367 AU from its star. Its discovery was announced in 2018.
+HATS-46 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.158 Jupiters, it takes 4.7 days to complete one orbit of its star, and is 0.05272 AU from its star. Its discovery was announced in 2018.
 
 
 243831-HATS-47 b.json
@@ -9375,12 +9405,12 @@ K2-222 b is a super Earth exoplanet that orbits a G-type star. Its mass is 7.5 E
 
 244890-K2-223 b.json
 198.604
-K2-223 b is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.64 Earths, it takes 0.5 days to complete one orbit of its star, and is 0.0127 AU from its star. Its discovery was announced in 2018.
+K2-223 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.8 Earths, it takes 0.5 days to complete one orbit of its star, and is 0.0135 AU from its star. Its discovery was announced in 2018.
 
 
 244891-K2-223 c.json
 198.604
-K2-223 c is a super Earth exoplanet that orbits a G-type star. Its mass is 2.86 Earths, it takes 4.6 days to complete one orbit of its star, and is 0.0549 AU from its star. Its discovery was announced in 2018.
+K2-223 c is a super Earth exoplanet that orbits a G-type star. Its mass is 4.2 Earths, it takes 4.6 days to complete one orbit of its star, and is 0.0584 AU from its star. Its discovery was announced in 2018.
 
 
 244892-K2-224 b.json
@@ -9440,7 +9470,7 @@ K2-231 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.8 
 
 244903-K2-232 b.json
 130.72
-K2-232 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.398 Jupiters, it takes 11.2 days to complete one orbit of its star, and is 0.10356 AU from its star. Its discovery was announced in 2018.
+K2-232 b is a gas giant exoplanet that orbits a F-type star. Its mass is 0.427 Jupiters, it takes 11.2 days to complete one orbit of its star, and is 0.1016 AU from its star. Its discovery was announced in 2018.
 
 
 244904-K2-233 b.json
@@ -25295,7 +25325,7 @@ LHS 1140 c is a super Earth exoplanet that orbits a M-type star. Its mass is 1.9
 
 248137-LHS 1478 b.json
 18.2276
-LHS 1478 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.33 Earths, it takes 1.9 days to complete one orbit of its star, and is 0.01848 AU from its star. Its discovery was announced in 2021.
+LHS 1478 b is a super Earth exoplanet that orbits a M-type star. Its mass is 2.27 Earths, it takes 1.9 days to complete one orbit of its star, and is 0.01872 AU from its star. Its discovery was announced in 2021.
 
 
 248138-LHS 1678 b.json
@@ -27930,22 +27960,22 @@ TOI-677 b is a gas giant exoplanet that orbits a F-type star. Its mass is 1.234 
 
 248674-TOI-700 b.json
 31.1265
-TOI-700 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.704 Earths, it takes 10 days to complete one orbit of its star, and is 0.0677 AU from its star. Its discovery was announced in 2020.
+TOI-700 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.849 Earths, it takes 10 days to complete one orbit of its star, and is 0.0678 AU from its star. Its discovery was announced in 2020.
 
 
 248675-TOI-700 c.json
 31.1265
-TOI-700 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 7.27 Earths, it takes 16.1 days to complete one orbit of its star, and is 0.0929 AU from its star. Its discovery was announced in 2020.
+TOI-700 c is a Neptune-like exoplanet that orbits a M-type star. Its mass is 6.96 Earths, it takes 16.1 days to complete one orbit of its star, and is 0.0931 AU from its star. Its discovery was announced in 2020.
 
 
 248676-TOI-700 d.json
 31.1265
-TOI-700 d is a super Earth exoplanet that orbits a M-type star. Its mass is 1.25 Earths, it takes 37.4 days to complete one orbit of its star, and is 0.1633 AU from its star. Its discovery was announced in 2020.
+TOI-700 d is a super Earth exoplanet that orbits a M-type star. Its mass is 1.58 Earths, it takes 37.4 days to complete one orbit of its star, and is 0.1642 AU from its star. Its discovery was announced in 2020.
 
 
 248677-TOI-700 e.json
 31.1265
-TOI-700 e is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.818 Earths, it takes 27.8 days to complete one orbit of its star, and is 0.134 AU from its star. Its discovery was announced in 2023.
+TOI-700 e is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.718 Earths, it takes 27.8 days to complete one orbit of its star, and is 0.1336 AU from its star. Its discovery was announced in 2023.
 
 
 248678-TOI-712 b.json
