@@ -2,8 +2,8 @@
   "id": 263237,
   "date": "2023-11-28T21:01:08",
   "date_gmt": "2023-11-29T02:01:08",
-  "modified": "2025-04-23T05:56:52",
-  "modified_gmt": "2025-04-23T09:56:52",
+  "modified": "2026-10-02T12:37:19",
+  "modified_gmt": "2026-10-02T16:37:19",
   "slug": "toi-2427",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2427/",
@@ -21,20 +21,21 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      248553
-    ],
+    "planet_ids": {
+      "0": 1446947,
+      "1": 248553
+    },
     "exo_id": "TOI-2427",
     "st_optmag": 10.295,
     "st_vj": 10.295,
     "st_dist": 28.5147,
     "st_j": 10.295,
-    "st_mass": 0.64,
+    "st_mass": 0.639,
     "dec": -31.3628665,
-    "st_teff": 4072,
-    "st_rad": 0.65,
+    "st_teff": 4203,
+    "st_rad": 0.648,
     "ra": 52.2917315,
-    "system_radius": 3021876.974,
+    "system_radius": 7479893.5,
     "pl_hostname": "TOI-2427",
     "stellar_type": "K",
     "tic_id": "TIC 142937186",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1446947"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248553"
