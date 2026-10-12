@@ -1,0 +1,77 @@
+{
+  "id": 1480693,
+  "date": "2026-10-09T12:51:30",
+  "date_gmt": "2026-10-09T16:51:30",
+  "modified": "2026-10-09T12:51:30",
+  "modified_gmt": "2026-10-09T16:51:30",
+  "slug": "toi-5739",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5739/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5739",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Bootes",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479984
+    ],
+    "exo_id": "TOI-5739",
+    "st_optmag": 7.65,
+    "st_vj": 7.65,
+    "st_dist": 61.8703,
+    "st_j": 7.65,
+    "st_mass": 1.15,
+    "dec": 19.1998592,
+    "st_teff": 6104.12,
+    "st_rad": 1.49138,
+    "ra": 205.1695358,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5739",
+    "stellar_type": "F",
+    "tic_id": "TIC 328934980",
+    "magnitude": 7.65
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480693",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479984"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

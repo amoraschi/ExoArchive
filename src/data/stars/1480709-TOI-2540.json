@@ -1,0 +1,77 @@
+{
+  "id": 1480709,
+  "date": "2026-10-09T12:51:33",
+  "date_gmt": "2026-10-09T16:51:33",
+  "modified": "2026-10-09T12:51:33",
+  "modified_gmt": "2026-10-09T16:51:33",
+  "slug": "toi-2540",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2540/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2540",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Columba",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1480003
+    ],
+    "exo_id": "TOI-2540",
+    "st_optmag": 9.914,
+    "st_vj": 9.914,
+    "st_dist": 19.1419,
+    "st_j": 9.914,
+    "st_mass": 0.63,
+    "dec": -42.6979461,
+    "st_teff": 4023,
+    "st_rad": 0.661076,
+    "ra": 82.5585484,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-2540",
+    "stellar_type": "K",
+    "tic_id": "TIC 354518617",
+    "magnitude": 9.914
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480709",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480003"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

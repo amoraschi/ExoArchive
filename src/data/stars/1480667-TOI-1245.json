@@ -1,0 +1,77 @@
+{
+  "id": 1480667,
+  "date": "2026-10-09T12:51:24",
+  "date_gmt": "2026-10-09T16:51:24",
+  "modified": "2026-10-09T12:51:24",
+  "modified_gmt": "2026-10-09T16:51:24",
+  "slug": "toi-1245",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1245/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1245",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479957
+    ],
+    "exo_id": "TOI-1245",
+    "st_optmag": 14.37,
+    "st_vj": 14.37,
+    "st_dist": 80.0982,
+    "st_j": 14.37,
+    "st_mass": 0.521792,
+    "dec": 69.6335338,
+    "st_teff": 3692,
+    "st_rad": 0.524555,
+    "ra": 283.5355298,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1245",
+    "stellar_type": "M",
+    "tic_id": "TIC 229781583",
+    "magnitude": 14.37
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480667",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479957"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

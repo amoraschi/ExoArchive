@@ -1,0 +1,77 @@
+{
+  "id": 1480702,
+  "date": "2026-10-09T12:51:32",
+  "date_gmt": "2026-10-09T16:51:32",
+  "modified": "2026-10-09T12:51:32",
+  "modified_gmt": "2026-10-09T16:51:32",
+  "slug": "toi-6647",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6647/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6647",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Andromeda",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479995
+    ],
+    "exo_id": "TOI-6647",
+    "st_optmag": 10.268,
+    "st_vj": 10.268,
+    "st_dist": 174.397,
+    "st_j": 10.268,
+    "st_mass": 1.011,
+    "dec": 42.8681961,
+    "st_teff": 5684,
+    "st_rad": 1.52321,
+    "ra": 1.2121501,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6647",
+    "stellar_type": "G",
+    "tic_id": "TIC 439943973",
+    "magnitude": 10.268
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480702",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479995"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

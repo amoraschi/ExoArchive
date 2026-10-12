@@ -1,0 +1,77 @@
+{
+  "id": 1480682,
+  "date": "2026-10-09T12:51:28",
+  "date_gmt": "2026-10-09T16:51:28",
+  "modified": "2026-10-09T12:51:28",
+  "modified_gmt": "2026-10-09T16:51:28",
+  "slug": "toi-4307",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4307/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4307",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Mensa",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479972
+    ],
+    "exo_id": "TOI-4307",
+    "st_optmag": 7.17,
+    "st_vj": 7.17,
+    "st_dist": 36.0469,
+    "st_j": 7.17,
+    "st_mass": 1.14,
+    "dec": -75.6937336,
+    "st_teff": 6079.16,
+    "st_rad": 1.09843,
+    "ra": 81.3274982,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4307",
+    "stellar_type": "F",
+    "tic_id": "TIC 141186075",
+    "magnitude": 7.17
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480682",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479972"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

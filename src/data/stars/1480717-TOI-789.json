@@ -1,0 +1,87 @@
+{
+  "id": 1480717,
+  "date": "2026-10-09T12:51:53",
+  "date_gmt": "2026-10-09T16:51:53",
+  "modified": "2026-10-09T12:51:53",
+  "modified_gmt": "2026-10-09T16:51:53",
+  "slug": "toi-789",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-789/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-789",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1480016,
+      1480017,
+      1480018
+    ],
+    "exo_id": "TOI-789",
+    "st_optmag": 14.23,
+    "st_vj": 14.23,
+    "st_dist": 43.407,
+    "st_j": 14.23,
+    "st_mass": 0.358,
+    "dec": -71.303764,
+    "st_teff": 3471,
+    "st_rad": 0.371,
+    "ra": 115.2702252,
+    "system_radius": 11519035.99,
+    "pl_hostname": "TOI-789",
+    "stellar_type": "M",
+    "tic_id": "TIC 300710077",
+    "magnitude": 14.23
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480717",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480018"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480017"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480016"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

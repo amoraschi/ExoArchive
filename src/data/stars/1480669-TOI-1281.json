@@ -1,0 +1,77 @@
+{
+  "id": 1480669,
+  "date": "2026-10-09T12:51:25",
+  "date_gmt": "2026-10-09T16:51:25",
+  "modified": "2026-10-09T12:51:25",
+  "modified_gmt": "2026-10-09T16:51:25",
+  "slug": "toi-1281",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-1281/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-1281",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479959
+    ],
+    "exo_id": "TOI-1281",
+    "st_optmag": 10.294,
+    "st_vj": 10.294,
+    "st_dist": 178.259,
+    "st_j": 10.294,
+    "st_mass": 1.19,
+    "dec": 71.7210512,
+    "st_teff": 6191,
+    "st_rad": 1.32349,
+    "ra": 199.4426447,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-1281",
+    "stellar_type": "F",
+    "tic_id": "TIC 232971294",
+    "magnitude": 10.294
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480669",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479959"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

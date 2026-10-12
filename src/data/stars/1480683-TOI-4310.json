@@ -1,0 +1,77 @@
+{
+  "id": 1480683,
+  "date": "2026-10-09T12:51:28",
+  "date_gmt": "2026-10-09T16:51:28",
+  "modified": "2026-10-09T12:51:28",
+  "modified_gmt": "2026-10-09T16:51:28",
+  "slug": "toi-4310",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4310/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4310",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Sculptor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479973
+    ],
+    "exo_id": "TOI-4310",
+    "st_optmag": 10.799,
+    "st_vj": 10.799,
+    "st_dist": 40.0268,
+    "st_j": 10.799,
+    "st_mass": 0.65,
+    "dec": -25.5084621,
+    "st_teff": 4159,
+    "st_rad": 0.721084,
+    "ra": 351.9035311,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4310",
+    "stellar_type": "K",
+    "tic_id": "TIC 303317324",
+    "magnitude": 10.799
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480683",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479973"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1480675,
+  "date": "2026-10-09T12:51:26",
+  "date_gmt": "2026-10-09T16:51:26",
+  "modified": "2026-10-09T12:51:26",
+  "modified_gmt": "2026-10-09T16:51:26",
+  "slug": "toi-2287",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2287/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2287",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ursa Minor",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479965
+    ],
+    "exo_id": "TOI-2287",
+    "st_optmag": 9.099,
+    "st_vj": 9.099,
+    "st_dist": 94.9685,
+    "st_j": 9.099,
+    "st_mass": 1.12,
+    "dec": 85.8953909,
+    "st_teff": 6037,
+    "st_rad": 1.20105,
+    "ra": 222.7507902,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-2287",
+    "stellar_type": "F",
+    "tic_id": "TIC 160077104",
+    "magnitude": 9.099
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480675",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479965"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

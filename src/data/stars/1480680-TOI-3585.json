@@ -1,0 +1,77 @@
+{
+  "id": 1480680,
+  "date": "2026-10-09T12:51:27",
+  "date_gmt": "2026-10-09T16:51:27",
+  "modified": "2026-10-09T12:51:27",
+  "modified_gmt": "2026-10-09T16:51:27",
+  "slug": "toi-3585",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3585/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3585",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cygnus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479970
+    ],
+    "exo_id": "TOI-3585",
+    "st_optmag": 12.158,
+    "st_vj": 12.158,
+    "st_dist": 130.802,
+    "st_j": 12.158,
+    "st_mass": 0.74,
+    "dec": 34.646627,
+    "st_teff": 4652,
+    "st_rad": 0.818751,
+    "ra": 326.8071379,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-3585",
+    "stellar_type": "K",
+    "tic_id": "TIC 287591638",
+    "magnitude": 12.158
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480680",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479970"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

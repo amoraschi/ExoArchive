@@ -1,0 +1,79 @@
+{
+  "id": 1479996,
+  "date": "2026-10-08T15:54:08",
+  "date_gmt": "2026-10-08T19:54:08",
+  "modified": "2026-10-09T15:56:56",
+  "modified_gmt": "2026-10-09T19:56:56",
+  "slug": "toi-6662-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-6662-b/",
+  "featured_media": 267836,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-6662",
+    "pl_letter": "b",
+    "display_name": "TOI-6662 b",
+    "planet_radius": "0.94 x Earth",
+    "derived_description": "TOI-6662 b is a terrestrial exoplanet that orbits a M-type star. Its mass is 0.779 Earths, it takes 0.3 days to complete one orbit of its star, and is 0.0058760760718937 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Terrestrial",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 21.182,
+    "planet_mass": "0.779 Earths",
+    "st_optmag": 13.349,
+    "discovery_date": "2026",
+    "pl_orbsmax": "",
+    "period_display": "0.3 days",
+    "eccentricity": "0.0",
+    "star_id": 1480703,
+    "pl_orbper": 0.29395013,
+    "pl_kepflag": false,
+    "pl_radj": 0.08386133,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 0.94,
+    "exo_id": "TOI-6662_b",
+    "planet_size_class": "Terrestrial",
+    "pl_eccenlim": 0,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479996",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480703"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/267836"
+      }
+    ]
+  }
+}

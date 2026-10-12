@@ -1,0 +1,77 @@
+{
+  "id": 1480658,
+  "date": "2026-10-09T12:51:23",
+  "date_gmt": "2026-10-09T16:51:23",
+  "modified": "2026-10-09T12:51:23",
+  "modified_gmt": "2026-10-09T16:51:23",
+  "slug": "toi-5165",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5165/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5165",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479947
+    ],
+    "exo_id": "TOI-5165",
+    "st_optmag": 13.5,
+    "st_vj": 13.5,
+    "st_dist": 245.302,
+    "st_j": 13.5,
+    "st_mass": 0.74,
+    "dec": 6.8664785,
+    "st_teff": 4642.1,
+    "st_rad": 0.871622,
+    "ra": 154.2501533,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5165",
+    "stellar_type": "K",
+    "tic_id": "TIC 349986198",
+    "magnitude": 13.5
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480658",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479947"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

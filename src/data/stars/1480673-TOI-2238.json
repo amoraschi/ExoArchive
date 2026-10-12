@@ -1,0 +1,77 @@
+{
+  "id": 1480673,
+  "date": "2026-10-09T12:51:26",
+  "date_gmt": "2026-10-09T16:51:26",
+  "modified": "2026-10-09T12:51:26",
+  "modified_gmt": "2026-10-09T16:51:26",
+  "slug": "toi-2238",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2238/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2238",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479963
+    ],
+    "exo_id": "TOI-2238",
+    "st_optmag": 11.497,
+    "st_vj": 11.497,
+    "st_dist": 285.78,
+    "st_j": 11.497,
+    "st_mass": 1.15,
+    "dec": -70.3549102,
+    "st_teff": 6113.8,
+    "st_rad": 1.43087,
+    "ra": 67.6578076,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-2238",
+    "stellar_type": "F",
+    "tic_id": "TIC 231077395",
+    "magnitude": 11.497
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480673",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479963"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

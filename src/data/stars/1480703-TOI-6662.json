@@ -1,0 +1,77 @@
+{
+  "id": 1480703,
+  "date": "2026-10-09T12:51:32",
+  "date_gmt": "2026-10-09T16:51:32",
+  "modified": "2026-10-09T12:51:32",
+  "modified_gmt": "2026-10-09T16:51:32",
+  "slug": "toi-6662",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6662/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6662",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Camelopardalis",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479996
+    ],
+    "exo_id": "TOI-6662",
+    "st_optmag": 13.349,
+    "st_vj": 13.349,
+    "st_dist": 21.182,
+    "st_j": 13.349,
+    "st_mass": 0.313264,
+    "dec": 74.7674107,
+    "st_teff": 3359,
+    "st_rad": 0.33188,
+    "ra": 84.8560007,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6662",
+    "stellar_type": "M",
+    "tic_id": "TIC 418343229",
+    "magnitude": 13.349
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480703",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479996"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

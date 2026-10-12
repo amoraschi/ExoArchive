@@ -1,0 +1,77 @@
+{
+  "id": 1480711,
+  "date": "2026-10-09T12:51:34",
+  "date_gmt": "2026-10-09T16:51:34",
+  "modified": "2026-10-09T12:51:34",
+  "modified_gmt": "2026-10-09T16:51:34",
+  "slug": "toi-5177",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5177/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5177",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1480005
+    ],
+    "exo_id": "TOI-5177",
+    "st_optmag": 9.334,
+    "st_vj": 9.334,
+    "st_dist": 154.965,
+    "st_j": 9.334,
+    "st_mass": 1.18,
+    "dec": 7.273586,
+    "st_teff": 6183,
+    "st_rad": 1.68027,
+    "ra": 155.0725193,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5177",
+    "stellar_type": "F",
+    "tic_id": "TIC 350033870",
+    "magnitude": 9.334
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480711",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480005"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

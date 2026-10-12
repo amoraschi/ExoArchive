@@ -1,0 +1,82 @@
+{
+  "id": 1480704,
+  "date": "2026-10-09T12:51:32",
+  "date_gmt": "2026-10-09T16:51:32",
+  "modified": "2026-10-09T12:51:32",
+  "modified_gmt": "2026-10-09T16:51:32",
+  "slug": "toi-6729",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6729/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6729",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hydrus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479997,
+      1479998
+    ],
+    "exo_id": "TOI-6729",
+    "st_optmag": 9.474,
+    "st_vj": 9.474,
+    "st_dist": 186.378,
+    "st_j": 9.474,
+    "st_mass": 1.23,
+    "dec": -75.2033076,
+    "st_teff": 6289.7,
+    "st_rad": 1.86421,
+    "ra": 45.3103823,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6729",
+    "stellar_type": "F",
+    "tic_id": "TIC 426032475",
+    "magnitude": 9.474
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480704",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479998"
+      },
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479997"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

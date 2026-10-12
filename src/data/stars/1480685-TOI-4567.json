@@ -1,0 +1,77 @@
+{
+  "id": 1480685,
+  "date": "2026-10-09T12:51:28",
+  "date_gmt": "2026-10-09T16:51:28",
+  "modified": "2026-10-09T12:51:28",
+  "modified_gmt": "2026-10-09T16:51:28",
+  "slug": "toi-4567",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4567/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4567",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Volans",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479976
+    ],
+    "exo_id": "TOI-4567",
+    "st_optmag": 13.599,
+    "st_vj": 13.599,
+    "st_dist": 91.313,
+    "st_j": 13.599,
+    "st_mass": 0.594967,
+    "dec": -66.7685487,
+    "st_teff": 3830,
+    "st_rad": 0.608498,
+    "ra": 128.5065853,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4567",
+    "stellar_type": "M",
+    "tic_id": "TIC 307849973",
+    "magnitude": 13.599
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480685",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

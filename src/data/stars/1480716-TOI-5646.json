@@ -1,0 +1,77 @@
+{
+  "id": 1480716,
+  "date": "2026-10-09T12:51:52",
+  "date_gmt": "2026-10-09T16:51:52",
+  "modified": "2026-10-09T12:51:52",
+  "modified_gmt": "2026-10-09T16:51:52",
+  "slug": "toi-5646",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5646/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5646",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Virgo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1480014
+    ],
+    "exo_id": "TOI-5646",
+    "st_optmag": 11.382,
+    "st_vj": 11.382,
+    "st_dist": 429.221,
+    "st_j": 11.382,
+    "st_mass": 1.418,
+    "dec": 5.7021318,
+    "st_teff": 6136,
+    "st_rad": 1.837,
+    "ra": 198.4471387,
+    "system_radius": 6387829.049,
+    "pl_hostname": "TOI-5646",
+    "stellar_type": "F",
+    "tic_id": "TIC 366804698",
+    "magnitude": 11.382
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480716",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480014"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

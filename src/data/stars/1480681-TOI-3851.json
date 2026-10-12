@@ -1,0 +1,77 @@
+{
+  "id": 1480681,
+  "date": "2026-10-09T12:51:27",
+  "date_gmt": "2026-10-09T16:51:27",
+  "modified": "2026-10-09T12:51:27",
+  "modified_gmt": "2026-10-09T16:51:27",
+  "slug": "toi-3851",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-3851/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-3851",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479971
+    ],
+    "exo_id": "TOI-3851",
+    "st_optmag": 11.776,
+    "st_vj": 11.776,
+    "st_dist": 298.349,
+    "st_j": 11.776,
+    "st_mass": 1.05,
+    "dec": 75.2118975,
+    "st_teff": 5838,
+    "st_rad": 1.22827,
+    "ra": 150.3804032,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-3851",
+    "stellar_type": "G",
+    "tic_id": "TIC 142739544",
+    "magnitude": 11.776
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480681",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479971"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1480715,
+  "date": "2026-10-09T12:51:52",
+  "date_gmt": "2026-10-09T16:51:52",
+  "modified": "2026-10-09T12:51:52",
+  "modified_gmt": "2026-10-09T16:51:52",
+  "slug": "toi-4616",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4616/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4616",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Pisces",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1480013
+    ],
+    "exo_id": "TOI-4616",
+    "st_optmag": 14.753,
+    "st_vj": 14.753,
+    "st_dist": 28.1016,
+    "st_j": 14.753,
+    "st_mass": 0.1881,
+    "dec": 13.8607948,
+    "st_teff": 3150,
+    "st_rad": 0.1889,
+    "ra": 14.8180883,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4616",
+    "stellar_type": "M",
+    "tic_id": "TIC 258796169",
+    "magnitude": 14.753
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480715",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480013"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

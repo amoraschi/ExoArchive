@@ -1,0 +1,77 @@
+{
+  "id": 1480700,
+  "date": "2026-10-09T12:51:32",
+  "date_gmt": "2026-10-09T16:51:32",
+  "modified": "2026-10-09T12:51:32",
+  "modified_gmt": "2026-10-09T16:51:32",
+  "slug": "toi-6434",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-6434/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-6434",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Monoceros",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479993
+    ],
+    "exo_id": "TOI-6434",
+    "st_optmag": 13.72,
+    "st_vj": 13.72,
+    "st_dist": 128.006,
+    "st_j": 13.72,
+    "st_mass": 0.631665,
+    "dec": -11.2423467,
+    "st_teff": 3982,
+    "st_rad": 0.656081,
+    "ra": 117.3287324,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-6434",
+    "stellar_type": "K",
+    "tic_id": "TIC 32296259",
+    "magnitude": 13.72
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480700",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479993"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

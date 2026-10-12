@@ -1,0 +1,77 @@
+{
+  "id": 1480692,
+  "date": "2026-10-09T12:51:30",
+  "date_gmt": "2026-10-09T16:51:30",
+  "modified": "2026-10-09T12:51:30",
+  "modified_gmt": "2026-10-09T16:51:30",
+  "slug": "toi-5730",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5730/",
+  "featured_media": 429650,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5730",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Leo",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479983
+    ],
+    "exo_id": "TOI-5730",
+    "st_optmag": 13.185,
+    "st_vj": 13.185,
+    "st_dist": 40.9866,
+    "st_j": 13.185,
+    "st_mass": 0.461555,
+    "dec": 24.1924943,
+    "st_teff": 3572,
+    "st_rad": 0.464169,
+    "ra": 175.5654299,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5730",
+    "stellar_type": "M",
+    "tic_id": "TIC 138820713",
+    "magnitude": 13.185
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480692",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479983"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429650"
+      }
+    ]
+  }
+}

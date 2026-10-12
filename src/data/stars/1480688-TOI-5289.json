@@ -1,0 +1,77 @@
+{
+  "id": 1480688,
+  "date": "2026-10-09T12:51:29",
+  "date_gmt": "2026-10-09T16:51:29",
+  "modified": "2026-10-09T12:51:29",
+  "modified_gmt": "2026-10-09T16:51:29",
+  "slug": "toi-5289",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5289/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5289",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Cetus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479979
+    ],
+    "exo_id": "TOI-5289",
+    "st_optmag": 12.581,
+    "st_vj": 12.581,
+    "st_dist": 258.455,
+    "st_j": 12.581,
+    "st_mass": 0.896,
+    "dec": -7.7864163,
+    "st_teff": 5244,
+    "st_rad": 0.941116,
+    "ra": 0.7601042,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5289",
+    "stellar_type": "K",
+    "tic_id": "TIC 176279915",
+    "magnitude": 12.581
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480688",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479979"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

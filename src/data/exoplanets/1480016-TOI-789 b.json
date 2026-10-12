@@ -1,0 +1,79 @@
+{
+  "id": 1480016,
+  "date": "2026-10-08T15:55:49",
+  "date_gmt": "2026-10-08T19:55:49",
+  "modified": "2026-10-09T15:58:29",
+  "modified_gmt": "2026-10-09T19:58:29",
+  "slug": "toi-789-b",
+  "type": "exoplanet",
+  "link": "https://science.nasa.gov/exoplanet-catalog/toi-789-b/",
+  "featured_media": 271833,
+  "categories": [
+    2014,
+    2013
+  ],
+  "acf": {
+    "pl_hostname": "TOI-789",
+    "pl_letter": "b",
+    "display_name": "TOI-789 b",
+    "planet_radius": "1.18 x Earth",
+    "derived_description": "TOI-789 b is a super Earth exoplanet that orbits a M-type star. Its mass is 3.7 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.043 AU from its star. Its discovery was announced in 2026.",
+    "planet_type": "Super Earth",
+    "pl_discmethod": "Transit",
+    "pl_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+    "st_dist": 43.407,
+    "planet_mass": "3.7 Earths",
+    "st_optmag": 14.23,
+    "discovery_date": "2026",
+    "pl_orbsmax": 0.043,
+    "period_display": "5.4 days",
+    "eccentricity": "< 0.05",
+    "star_id": 1480717,
+    "pl_orbper": 5.447034,
+    "pl_kepflag": false,
+    "pl_radj": 0.10527273,
+    "pl_disc": 2026,
+    "pl_publ_date": "2026",
+    "planet_orbit_period": "",
+    "multiple_planet_system": false,
+    "pl_rade": 1.18,
+    "exo_id": "TOI-789_b",
+    "planet_size_class": "super-Terrestrial",
+    "pl_eccenlim": 0.05,
+    "pl_orbeccen": 0
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480016",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/exoplanet"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480717"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/271833"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1480677,
+  "date": "2026-10-09T12:51:27",
+  "date_gmt": "2026-10-09T16:51:27",
+  "modified": "2026-10-09T12:51:27",
+  "modified_gmt": "2026-10-09T16:51:27",
+  "slug": "toi-2392",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2392/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2392",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Dorado",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479967
+    ],
+    "exo_id": "TOI-2392",
+    "st_optmag": 10.77,
+    "st_vj": 10.77,
+    "st_dist": 325.608,
+    "st_j": 10.77,
+    "st_mass": 1.21,
+    "dec": -64.1166204,
+    "st_teff": 6244.5,
+    "st_rad": 1.76167,
+    "ra": 83.7837026,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-2392",
+    "stellar_type": "F",
+    "tic_id": "TIC 149349867",
+    "magnitude": 10.77
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480677",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479967"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

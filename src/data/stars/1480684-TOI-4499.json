@@ -1,0 +1,77 @@
+{
+  "id": 1480684,
+  "date": "2026-10-09T12:51:28",
+  "date_gmt": "2026-10-09T16:51:28",
+  "modified": "2026-10-09T12:51:28",
+  "modified_gmt": "2026-10-09T16:51:28",
+  "slug": "toi-4499",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-4499/",
+  "featured_media": 429647,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-4499",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Lyra",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479975
+    ],
+    "exo_id": "TOI-4499",
+    "st_optmag": 10.61,
+    "st_vj": 10.61,
+    "st_dist": 175.743,
+    "st_j": 10.61,
+    "st_mass": 1.151,
+    "dec": 39.0761839,
+    "st_teff": 6111,
+    "st_rad": 1.0889,
+    "ra": 284.3618873,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-4499",
+    "stellar_type": "F",
+    "tic_id": "TIC 120183168",
+    "magnitude": 10.61
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480684",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479975"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429647"
+      }
+    ]
+  }
+}

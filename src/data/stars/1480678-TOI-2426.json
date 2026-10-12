@@ -1,0 +1,77 @@
+{
+  "id": 1480678,
+  "date": "2026-10-09T12:51:27",
+  "date_gmt": "2026-10-09T16:51:27",
+  "modified": "2026-10-09T12:51:27",
+  "modified_gmt": "2026-10-09T16:51:27",
+  "slug": "toi-2426",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2426/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-2426",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479968
+    ],
+    "exo_id": "TOI-2426",
+    "st_optmag": 10.673,
+    "st_vj": 10.673,
+    "st_dist": 138.301,
+    "st_j": 10.673,
+    "st_mass": 1.019,
+    "dec": -20.7812895,
+    "st_teff": 5716,
+    "st_rad": 1.02479,
+    "ra": 43.811698,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-2426",
+    "stellar_type": "G",
+    "tic_id": "TIC 97486178",
+    "magnitude": 10.673
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480678",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479968"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

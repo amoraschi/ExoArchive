@@ -1,0 +1,77 @@
+{
+  "id": 1480657,
+  "date": "2026-10-09T12:51:22",
+  "date_gmt": "2026-10-09T16:51:22",
+  "modified": "2026-10-09T12:51:22",
+  "modified_gmt": "2026-10-09T16:51:22",
+  "slug": "toi-5997",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5997/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5997",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479946
+    ],
+    "exo_id": "TOI-5997",
+    "st_optmag": 10.21,
+    "st_vj": 10.21,
+    "st_dist": 46.521,
+    "st_j": 10.21,
+    "st_mass": 0.74,
+    "dec": 33.5705564,
+    "st_teff": 4674,
+    "st_rad": 0.704768,
+    "ra": 263.1525777,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-5997",
+    "stellar_type": "K",
+    "tic_id": "TIC 39516274",
+    "magnitude": 10.21
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480657",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479946"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

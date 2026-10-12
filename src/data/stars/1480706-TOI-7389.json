@@ -1,0 +1,77 @@
+{
+  "id": 1480706,
+  "date": "2026-10-09T12:51:33",
+  "date_gmt": "2026-10-09T16:51:33",
+  "modified": "2026-10-09T12:51:33",
+  "modified_gmt": "2026-10-09T16:51:33",
+  "slug": "toi-7389",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-7389/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-7389",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1480000
+    ],
+    "exo_id": "TOI-7389",
+    "st_optmag": 9.368,
+    "st_vj": 9.368,
+    "st_dist": 100.677,
+    "st_j": 9.368,
+    "st_mass": 1.07,
+    "dec": 56.9881867,
+    "st_teff": 5895,
+    "st_rad": 1.16261,
+    "ra": 255.3362808,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-7389",
+    "stellar_type": "G",
+    "tic_id": "TIC 224603921",
+    "magnitude": 9.368
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480706",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1480000"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

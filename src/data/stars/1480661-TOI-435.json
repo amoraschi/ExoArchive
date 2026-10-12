@@ -1,0 +1,77 @@
+{
+  "id": 1480661,
+  "date": "2026-10-09T12:51:23",
+  "date_gmt": "2026-10-09T16:51:23",
+  "modified": "2026-10-09T12:51:23",
+  "modified_gmt": "2026-10-09T16:51:23",
+  "slug": "toi-435",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-435/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-435",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Eridanus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1479950
+    ],
+    "exo_id": "TOI-435",
+    "st_optmag": 14.338,
+    "st_vj": 14.338,
+    "st_dist": 165.285,
+    "st_j": 14.338,
+    "st_mass": 0.632,
+    "dec": -25.1899379,
+    "st_teff": 4040,
+    "st_rad": 0.672832,
+    "ra": 59.4105742,
+    "system_radius": 149597870,
+    "pl_hostname": "TOI-435",
+    "stellar_type": "K",
+    "tic_id": "TIC 44647437",
+    "magnitude": 14.338
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1480661",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1479950"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}
