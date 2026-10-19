@@ -1,0 +1,77 @@
+{
+  "id": 1490631,
+  "date": "2026-10-16T13:08:43",
+  "date_gmt": "2026-10-16T17:08:43",
+  "modified": "2026-10-16T13:08:43",
+  "modified_gmt": "2026-10-16T17:08:43",
+  "slug": "toi-5699",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5699/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5699",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Hercules",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1490388
+    ],
+    "exo_id": "TOI-5699",
+    "st_optmag": 10.86,
+    "st_vj": 10.86,
+    "st_dist": 304.745,
+    "st_j": 10.86,
+    "st_mass": 1.13,
+    "dec": 31.2107699,
+    "st_teff": 5905,
+    "st_rad": 1.64,
+    "ra": 251.2261572,
+    "system_radius": 23935659.2,
+    "pl_hostname": "TOI-5699",
+    "stellar_type": "G",
+    "tic_id": "TIC 224328450",
+    "magnitude": 10.86
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1490631",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1490388"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

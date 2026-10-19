@@ -1,0 +1,77 @@
+{
+  "id": 1490630,
+  "date": "2026-10-16T13:08:43",
+  "date_gmt": "2026-10-16T17:08:43",
+  "modified": "2026-10-16T13:08:43",
+  "modified_gmt": "2026-10-16T17:08:43",
+  "slug": "toi-5120",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-5120/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TOI-5120",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Gemini",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1490387
+    ],
+    "exo_id": "TOI-5120",
+    "st_optmag": 10.792,
+    "st_vj": 10.792,
+    "st_dist": 229.962,
+    "st_j": 10.792,
+    "st_mass": 1.12,
+    "dec": 22.5954476,
+    "st_teff": 5763,
+    "st_rad": 1.42,
+    "ra": 104.2140732,
+    "system_radius": 25730833.64,
+    "pl_hostname": "TOI-5120",
+    "stellar_type": "G",
+    "tic_id": "TIC 58723861",
+    "magnitude": 10.792
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1490630",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1490387"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}

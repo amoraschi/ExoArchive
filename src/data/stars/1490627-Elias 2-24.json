@@ -1,0 +1,77 @@
+{
+  "id": 1490627,
+  "date": "2026-10-16T13:08:42",
+  "date_gmt": "2026-10-16T17:08:42",
+  "modified": "2026-10-16T13:08:42",
+  "modified_gmt": "2026-10-16T17:08:42",
+  "slug": "elias-2-24",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/elias-2-24/",
+  "featured_media": 429649,
+  "categories": [],
+  "acf": {
+    "display_name": "Elias 2-24",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Ophiuchus",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1490384
+    ],
+    "exo_id": "Elias_2-24",
+    "st_optmag": "",
+    "st_vj": "",
+    "st_dist": 135.745,
+    "st_j": "",
+    "st_mass": 0.78,
+    "dec": -24.2705088,
+    "st_teff": 4483,
+    "st_rad": "",
+    "ra": 246.6003317,
+    "system_radius": 8212923063,
+    "pl_hostname": "Elias_2-24",
+    "stellar_type": "K",
+    "tic_id": "TIC 399155591",
+    "magnitude": 15.9076
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1490627",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1490384"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429649"
+      }
+    ]
+  }
+}

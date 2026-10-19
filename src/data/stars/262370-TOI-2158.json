@@ -2,8 +2,8 @@
   "id": 262370,
   "date": "2023-11-28T20:50:07",
   "date_gmt": "2023-11-29T01:50:07",
-  "modified": "2025-04-23T05:56:07",
-  "modified_gmt": "2025-04-23T09:56:07",
+  "modified": "2026-10-16T13:08:42",
+  "modified_gmt": "2026-10-16T17:08:42",
   "slug": "toi-2158",
   "type": "star",
   "link": "https://science.nasa.gov/exoplanets/star-catalog/toi-2158/",
@@ -21,9 +21,10 @@
     "rv_planets_prospects": "",
     "transit_planets_prospects": "",
     "imaging_planets_prospects": "",
-    "planet_ids": [
-      248530
-    ],
+    "planet_ids": {
+      "0": 1490383,
+      "1": 248530
+    },
     "exo_id": "TOI-2158",
     "st_optmag": 10.887,
     "st_vj": 10.887,
@@ -32,9 +33,9 @@
     "st_mass": 1.12,
     "dec": 20.5268868,
     "st_teff": 5673,
-    "st_rad": 1.41,
+    "st_rad": 1.32,
     "ra": 276.8100527,
-    "system_radius": 11219840.25,
+    "system_radius": 10471850.9,
     "pl_hostname": "TOI-2158",
     "stellar_type": "G",
     "tic_id": "TIC 342642208",
@@ -62,6 +63,10 @@
       }
     ],
     "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1490383"
+      },
       {
         "embeddable": true,
         "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/248530"

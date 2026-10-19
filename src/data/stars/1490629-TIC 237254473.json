@@ -1,0 +1,77 @@
+{
+  "id": 1490629,
+  "date": "2026-10-16T13:08:43",
+  "date_gmt": "2026-10-16T17:08:43",
+  "modified": "2026-10-16T13:08:43",
+  "modified_gmt": "2026-10-16T17:08:43",
+  "slug": "tic-237254473",
+  "type": "star",
+  "link": "https://science.nasa.gov/exoplanets/star-catalog/tic-237254473/",
+  "featured_media": 429648,
+  "categories": [],
+  "acf": {
+    "display_name": "TIC 237254473",
+    "custom_star_title": "",
+    "aliases": "",
+    "constellation": "Draco",
+    "custom_star_description": "",
+    "tagline": "",
+    "pop_culture": "",
+    "detection_timeline": "",
+    "rv_planets_prospects": "",
+    "transit_planets_prospects": "",
+    "imaging_planets_prospects": "",
+    "planet_ids": [
+      1490386
+    ],
+    "exo_id": "TIC_237254473",
+    "st_optmag": 12.241,
+    "st_vj": 12.241,
+    "st_dist": 406.633,
+    "st_j": 12.241,
+    "st_mass": 1.12,
+    "dec": 72.919962,
+    "st_teff": 5700,
+    "st_rad": 1.362,
+    "ra": 298.9963758,
+    "system_radius": 149597870,
+    "pl_hostname": "TIC_237254473",
+    "stellar_type": "G",
+    "tic_id": "TIC 237254473",
+    "magnitude": 12.241
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star/1490629",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/star"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://science.nasa.gov/wp-json/wp/v2/types/star"
+      }
+    ],
+    "acf:post": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1490386"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://science.nasa.gov/wp-json/wp/v2/media/429648"
+      }
+    ]
+  }
+}
