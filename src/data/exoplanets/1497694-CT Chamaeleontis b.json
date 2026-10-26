@@ -1,12 +1,12 @@
 {
-  "id": 243512,
-  "date": "2019-04-22T16:48:47",
-  "date_gmt": "2019-04-22T20:48:47",
-  "modified": "2024-10-24T17:02:47",
-  "modified_gmt": "2024-10-24T21:02:47",
-  "slug": "ct-chamaleontis-b",
+  "id": 1497694,
+  "date": "2026-10-20T16:27:49",
+  "date_gmt": "2026-10-20T20:27:49",
+  "modified": "2026-10-20T16:27:49",
+  "modified_gmt": "2026-10-20T20:27:49",
+  "slug": "ct-chamaeleontis-b",
   "type": "exoplanet",
-  "link": "https://science.nasa.gov/exoplanet-catalog/ct-chamaleontis-b/",
+  "link": "https://science.nasa.gov/exoplanet-catalog/ct-chamaeleontis-b/",
   "featured_media": 271855,
   "categories": [
     2014,
@@ -15,9 +15,9 @@
   "acf": {
     "pl_hostname": "CT_Cha",
     "pl_letter": "b",
-    "display_name": "CT Chamaleontis b",
+    "display_name": "CT Chamaeleontis b",
     "planet_radius": "2.2 x Jupiter",
-    "derived_description": "CT Chamaleontis b is a gas giant exoplanet that orbits a K-type star. Its mass is 17 Jupiters, it takes 365 days to complete one orbit of its star, and is 440 AU from its star. Its discovery was announced in 2007.",
+    "derived_description": "CT Chamaeleontis b is a gas giant exoplanet that orbits a K-type star. Its mass is 17 Jupiters, it takes 365 days to complete one orbit of its star, and is 440 AU from its star. Its discovery was announced in 2007.",
     "planet_type": "Gas Giant",
     "pl_discmethod": "Imaging",
     "pl_facility": "Paranal Observatory",
@@ -45,7 +45,7 @@
   "_links": {
     "self": [
       {
-        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/243512",
+        "href": "https://science.nasa.gov/wp-json/wp/v2/exoplanet/1497694",
         "targetHints": {
           "allow": [
             "GET"
